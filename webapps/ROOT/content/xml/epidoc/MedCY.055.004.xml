@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mark' s gospel</title>
+                <author xml:id="tp">Theocharis Petrou</author> 
+                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.055.004</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                       <objectDesc> 
+                           <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>.</rs>
+                                    <rs type="placement-building">Naos, northeastern pilaster, upper register, south face</rs>
+                                    <dimensions unit="cm"><height>n/a</height></dimensions>
+                                    </support>
+                            </supportDesc>
+                             <layoutDesc>
+                                <layout>The inscription appears on the open gospel held in both hands by the evangelist.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Black letters against white background inside an ochre colour frame. The inscription is written in majuscule with some letters in minuscule. Accents and breathings non systematic. Badly preserved. <height unit="cm">n/a</height>
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <p><rs type="iconography" ref="iconography.xml#Mark">Mark's gospel</rs></p>
+                            </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Sotira">Sotira (Ammochostou), Transfiguration</origPlace>
+                            <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+                        </origin>
+                        <provenance when="2022">
+                        </provenance>
+                        <provenance type="observed" resp="#tp">24/02/2022
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
+                </keywords>
+            </textClass>
+            <creation>...</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic url="055-004-01.jpg"><desc>Naos, northeastern pilaster, upper register, south face, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-004-02.jpg"><desc>Naos, northeastern pilaster, upper register, south face, inscription detail</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <cb n="a"/>
+                    <lb n="1"/><w lemma="'ἀρχή"><choice><orig>A</orig><reg>Ἀ</reg></choice>ρχ<choice><orig>η</orig><reg><unclear>ὴ</unclear></reg></choice></w>
+                    <lb n="2"/><supplied reason="lost">οῦ</supplied>
+                    <lb n="3"/><w lemma="εὐαγγέλιο"><supplied reason="lost">Εὐα</supplied>
+                    <cb n="b"/>
+                    <lb n="1" break="no"/>γγελ<supplied reason="lost">ί</supplied>
+                    <lb n="2" break="no"/>ου</w> <persName type="divine" key="JesusChrist"><expan><abbr rend="supraline">Ι</abbr><supplied reason="lost"><ex>ησο</ex><abbr rend="supraline">ῦ</abbr></supplied></expan>
+                    <lb  n="3"/><supplied reason="lost"><expan><abbr rend="supraline">Χ</abbr><ex>ριστο</ex><abbr rend="supraline">ῦ</abbr></expan></supplied></persName>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>n/a</p>
+            </div>
+            <div type="translation">
+                <p>This is the beginning of the gospel of Jesus Christ, the Son of God.</p>
+            </div>
+            <div type="commentary">
+                <p>The inscription is from the Mark's gospel (Mk 1:1).  </p>
+            </div>
+            <div type="bibliography">
+                <listBibl> <bibl>Unpublished</bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
