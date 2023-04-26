@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mark the Evangelist</title>
+                <author xml:id="tp">Theocharis Petrou</author> 
+                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.055.003</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                       <objectDesc> 
+                           <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>.</rs>
+                                    <rs type="placement-building">Naos, northeastern pilaster, upper register, south face</rs>
+                                    <dimensions unit="cm"><height>n/a</height></dimensions>
+                                    </support>
+                            </supportDesc>
+                             <layoutDesc>
+                                <layout>On the either side of the Evangelist's head</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>White letters against red background. The inscription is written entirely in majuscule letters. Round omicron; diagonal final s. Partially preserved. <height unit="cm">n/a</height>
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <p><rs type="iconography" ref="iconography.xml#Mark">Mark the Evangelist</rs></p>
+                            </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Sotira">Sotira (Ammochostou), Transfiguration</origPlace>
+                            <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+                        </origin>
+                        <provenance when="2022">
+                        </provenance>
+                        <provenance type="observed" resp="#tp">24/02/2022
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                </keywords>
+            </textClass>
+            <creation>...</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic url="055-003-02.jpg"><desc>Naos, northeastern pilaster, upper register, south face, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-003-01.jpg"><desc>Naos, northeastern pilaster, upper register, south face </desc></graphic>
+        <graphic rend="secondary" url="055-003-03.jpg"><desc>Naos, northeastern pilaster, upper register, south face, inscription detail </desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                  <cb n="a"/>
+                    <lb n="1"/><persName type="sacred" key="Mark">Ὁ
+                    <lb n="2"/><w lemma="ἅγιος">ἅ
+                    <lb n="3" break="no" />γι
+                    <lb n="4" break="no"/>ος></w>
+                  <cb n="b"/>
+                  <lb n="1"/><name nymRef="Μᾶρκος"><supplied reason="lost">Mᾶρκος</supplied></name>
+                  <lb n="2"/><addName type="epithet" key="Evangelist"><w lemma="εὐαγγελιστής">ὁ ἐβαγγε<hi rend="ligature">λη</hi>στ>ής</w></addName></persName>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>n/a</p>
+            </div>
+            <div type="translation">
+                <p>Mark the Evangelist</p>
+            </div>
+            <div type="commentary">
+                <p>The inscription "Μᾶρκος ὁ εὐαγγελιστής" on the second column, on the left of the evangelist, has not survived. Based on the example of Matthew we reconstructed the inscription. </p>
+            </div>
+            <div type="bibliography">
+                <listBibl> <bibl>Unpublished</bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
