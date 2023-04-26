@@ -75,12 +75,12 @@
                 <ab>
                   <cb n="a"/>
                     <lb n="1"/><persName type="sacred" key="Mark">Ὁ
-                    <lb n="2"/><w lemma="ἅγιος">ἅ
-                    <lb n="3" break="no" />γι
-                    <lb n="4" break="no"/>ος></w>
+                    <lb n="2"/><w lemma="ἅγιος"><unclear>ἅ</unclear>
+                    <lb n="3" break="no" /><supplied reason="lost">γι</supplied>
+                    <lb n="4" break="no"/>ος</w>
                   <cb n="b"/>
                   <lb n="1"/><name nymRef="Μᾶρκος"><supplied reason="lost">Mᾶρκος</supplied></name>
-                  <lb n="2"/><addName type="epithet" key="Evangelist"><w lemma="εὐαγγελιστής">ὁ ἐβαγγε<hi rend="ligature">λη</hi>στ>ής</w></addName></persName>
+                  <lb n="2"/><addName type="epithet" key="Evangelist"><w lemma="εὐαγγελιστής"><supplied reason="lost">ὁ ἐβαγγε<hi rend="ligature">λη</hi>στής</supplied></w></addName></persName>
                 </ab>
             </div>
             <div type="apparatus">
