@@ -131,6 +131,14 @@
                     <note>See also: Mother of God, Theotokos, Virgin </note>
                 </person>
                 
+                <person xml:id="Mark">
+                    <persName xml:lang="grc"><seg>ἀπόστολος</seg> Μᾶρκος</persName>
+                    <persName xml:lang="en">Mark, the Evangelist</persName>        
+                    <persName xml:lang="grc" type="epithet" subtype="Mark" key="Evangelist">ὁ Εὐαγγελιστῆς</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Mark" key="Evangelist">Evangelist</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q31966</idno>                   
+                </person>
+                
                 <person xml:id="Matthew">
                     <persName xml:lang="grc"><seg>ἀπόστολος</seg> Ματθαῖος</persName>
                     <persName xml:lang="en">Matthew, the Evangelist</persName>        
