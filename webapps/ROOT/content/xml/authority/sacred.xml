@@ -57,11 +57,11 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q41370</idno>                   
                 </person>
                 
-                <person xml:id="Demetrius">
+                <person xml:id="Demetrios">
                     <persName xml:lang="grc"><seg>ἅγιος </seg>Δημήτριος</persName>
-                    <persName xml:lang="en">Demetrius, saint</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Demetrius">Μυροβλήτης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Demetrius">the Myroblyte</persName>
+                    <persName xml:lang="en">Demetrios, saint</persName>
+                    <!--<persName xml:lang="grc" type="epithet" subtype="Demetrios">Μυροβλήτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Demetrios">the Myroblyte</persName>-->
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q310633</idno>                   
                 </person>
                 
