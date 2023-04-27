@@ -57,6 +57,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q41370</idno>                   
                 </person>
                 
+                <person xml:id="Demetrius">
+                    <persName xml:lang="grc"><seg>ἅγιος </seg>Δημήτριος</persName>
+                    <persName xml:lang="en">Demetrius, saint</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Demetrius">Μυροβλήτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Demetrius">the Myroblyte</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q310633</idno>                   
+                </person>
+                
                 <person xml:id="DouleKyriou">
                     <persName xml:lang="grc">Δούλη Κυρίου</persName>
                     <persName xml:lang="en">Lord's servant</persName>
