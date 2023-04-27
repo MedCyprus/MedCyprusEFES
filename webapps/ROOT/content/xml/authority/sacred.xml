@@ -115,6 +115,17 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q170164</idno>                   
                 </person>
                 
+                <person xml:id="JohnTheologian">
+                    <persName xml:lang="grc"><seg>ἅγιος</seg>Ἰωάννης</persName>
+                    <persName xml:lang="en">John the Theologian, saint</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="JohnTheologian" key="Theologian">ὁ Θεολόγος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JohnTheologian" key="Theologian">Theologian</persName>
+                    <persName xml:lang="grc" type="epither" subtype="JohnTheologian" key="Evangelist">ὁ Εὐαγγελιστῆς</persName>
+                    <persName xml:lang="grc" type="epither" subtype="JohnTheologian" key="Evangelist">Evangelist</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q328804</idno>                   
+                </person>
+                
+                
                 <person xml:id="Lord">
                     <persName xml:lang="grc">Κύριος</persName>
                     <persName xml:lang="en">Lord</persName>
