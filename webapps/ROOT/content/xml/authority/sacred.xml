@@ -23,6 +23,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2619342</idno>                   
                 </person>
                 
+                <person xml:id="AthanasiosPentaschoinites">
+                    <persName xml:lang="grc"><seg>ἅγιος</seg>Ἀθανάσιος</persName>
+                    <persName xml:lang="en">Athanasios Pentaschoinites, saint</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="AthanasiosPentaschoinites">Πεντασχοινίτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="AthanasiosPentaschoinites">from Pentaschoino</persName>
+                    <idno type="wikidata">not listed</idno>                   
+                </person>
+                
                 <person xml:id="Christ">
                     <persName xml:lang="grc">Χριστός</persName>
                     <persName xml:lang="en">Christ</persName>
