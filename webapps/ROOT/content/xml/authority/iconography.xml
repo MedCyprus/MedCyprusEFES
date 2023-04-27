@@ -132,6 +132,10 @@
                 
                 <item><list type="Ecclesiastics">
                     <head>Ecclesiastics (prelates, priests, deacons)</head>
+                    
+                    <item xml:id="athanasiospentaschoinites"> 
+                        <term xml:lang="en">Athanasios Pentaschoinites</term>
+                    </item>
                     <item xml:id="basil"> 
                         <term xml:lang="en">Basil of Caesarea</term>
                     </item>
@@ -146,6 +150,7 @@
                     </item>
                     <!-- ... -->
                 </list></item>
+                
                 <item><list type="Monastics">
                     <head>Monastics and Ascetics</head>
                     <item xml:id="mary_egypt"> 
