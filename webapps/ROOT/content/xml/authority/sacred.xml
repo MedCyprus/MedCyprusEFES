@@ -44,7 +44,7 @@
                 <person sameAs="#JesusChrist"><persName>Christ</persName></person>
                
                 <person xml:id="Constantine_Ormideia">
-                    <persName xml:lang="grc"><seg>ἅγιος </seg>Κωνσταντίνος της Ορμήδειας</persName>
+                    <persName xml:lang="grc"><seg>ἅγιος </seg>Κωνσταντίνος τῆς Ὀρμήδειας</persName>
                     <persName xml:lang="en">Constantine of Ormideia, saint</persName>     
                     <persName xml:lang="grc" type="epithet" subtype="Constantine_Ormideia">τῆς Ὁρμήδειας</persName>
                     <persName xml:lang="en" type="epithet" subtype="Constantine_Ormideia">of Ormideia</persName>
