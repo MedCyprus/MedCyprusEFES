@@ -69,7 +69,7 @@
                     <persName xml:lang="grc">Δούλη Κυρίου</persName>
                     <persName xml:lang="en">Lord's servant</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q869974</idno>
-                    <note>See also: Theotokos, the Virgin, Maria</note>
+                    <note>See also: Theotokos, Virgin, Maria</note>
                 </person>
                 
                 <person xml:id="Fathers">
@@ -184,7 +184,7 @@
                     <persName xml:lang="grc">Μήτηρ Θεοῦ</persName>
                     <persName xml:lang="en">Mother of God</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q345</idno>
-                    <note>See also: Theotokos, the Virgin, Maria</note>
+                    <note>See also: Theotokos, Virgin, Maria</note>
                 </person>
                 
                 <person xml:id="michael">
@@ -244,7 +244,7 @@
                     <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="hyperagia">ὑπεραγία</persName>
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="hyperagia">most holy</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q208542</idno>
-                    <note>See also: Mother of God, the Virgin, Maria</note>
+                    <note>See also: Mother of God, Virgin, Maria</note>
                     <!--Theotokos is actually an epithet, but it is used often as a name for the Virgin Mary. List separately?-->
                 </person>
                 
@@ -268,7 +268,7 @@
                 
                 <person xml:id="Virgin">
                     <persName xml:lang="grc">ἡ Παρθένος</persName>
-                    <persName xml:lang="en">the Virgin</persName>
+                    <persName xml:lang="en">Virgin</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q345</idno>
                     <note>See also: Mother of God, Theotokos, Maria</note>
                 </person>
