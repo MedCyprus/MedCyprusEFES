@@ -116,7 +116,7 @@
                 </person>
                 
                 <person xml:id="JohnTheologian">
-                    <persName xml:lang="grc"><seg>ἅγιος</seg>Ἰωάννης</persName>
+                    <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰωάννης</persName>
                     <persName xml:lang="en">John the Theologian, saint</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="JohnTheologian" key="Theologian">ὁ Θεολόγος</persName>
                     <persName xml:lang="en" type="epithet" subtype="JohnTheologian" key="Theologian">Theologian</persName>
