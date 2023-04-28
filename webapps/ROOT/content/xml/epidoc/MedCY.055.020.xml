@@ -71,7 +71,7 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>Pending
+                <ab>
                     <cb n="a"/>
                     <lb n="1"/><persName type="sacred" key="JohnTheologian"><w lemma="ἅγιος"><supplied reason="lost">Ὁ</supplied>
                     <lb n="2"/><supplied reason="lost">ἅ</supplied>
@@ -79,7 +79,7 @@
                     <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w>
                     <cb n="b"/>
                     <lb n="1"/><name nymRef="Ἰωάννης"><supplied reason="lost"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></supplied></name>
-                    <lb n="2"/><choice><orig>o</orig><reg>ὁ</reg></choice><addName type="epithet" key="Theologian">θε
+                    <lb n="2"/><choice><orig>o</orig><reg>ὁ</reg></choice><addName type="epithet" key="Theologian"> θε
                      <lb n="3" break="no"/>o
                      <lb n="4" break="no"/>λόγος   </addName>
                     </persName>
@@ -92,7 +92,7 @@
                 <p>Saint John the Theologian</p>
             </div>
             <div type="commentary">
-                <p>Pending</p>
+                <p>The inscription is badly damaged and only the column b with the saint's epithet has survived.</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>
