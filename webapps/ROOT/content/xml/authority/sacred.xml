@@ -65,12 +65,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q310633</idno>                   
                 </person>
                 
-                <person xml:id="DouleKyriou">
+                <!--<person xml:id="DouleKyriou">
                     <persName xml:lang="grc">Δούλη Κυρίου</persName>
                     <persName xml:lang="en">Lord's servant</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q869974</idno>
                     <note>See also: Theotokos, Virgin, Maria</note>
-                </person>
+                </person>-->
                 
                 <person xml:id="Fathers">
                     <persName xml:lang="grc"> <seg>οἱ</seg> τριακόσιοι δεκαοκτὼ θεοφόροι Πατέρες</persName>
