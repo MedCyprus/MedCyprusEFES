@@ -118,6 +118,8 @@
                 <person xml:id="JohnClimacus">
                     <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰωάννης</persName>
                     <persName xml:lang="en">John Climacus, saint</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="JohnClimacus">τῆς Κλίμακος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JohnClimacus">of the Ladder</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q317072</idno>                   
                 </person>
                 
