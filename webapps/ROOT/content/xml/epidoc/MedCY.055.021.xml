@@ -81,10 +81,10 @@
                     <cb n="b"/>
                     <lb n="1"/><name nymRef="Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>
                     <lb n="2"/>ὁ
-                     <lb n="3"/>τῆς
+                     <lb n="3"/><addName type="epithet" key="of the Ladder">τῆς
                      <lb n="4"/><w lemma="κλῖμαξ">κλί
                      <lb n="5" break="no"/>μα
-                     <lb n="6" break="no"/>κος</w>
+                     <lb n="6" break="no"/>κος</w></addName>
                     </persName>
                 </ab>
             </div>
