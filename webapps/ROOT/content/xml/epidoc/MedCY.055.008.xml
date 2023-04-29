@@ -73,7 +73,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><supplied reason="lost"><w lemma=|"Ἰδού">Ἰδοὺ</w> ἡ <persName type="sacred" key="DouleKyriou" ><w lemma="δούλη">δούλη</w></persName></supplied>
+                    <lb n="1"/><supplied reason="lost"><w lemma="Ἰδού">Ἰδοὺ</w> ἡ <persName type="sacred" key="DouleKyriou" ><w lemma="δούλη">δούλη</w></persName></supplied>
                     <lb n="2"/><supplied reason="lost"><persName type="divine" key="Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">υ</abbr></expan></w></persName>· γένοιτό</supplied>
                     <lb n="3"/><supplied reason="lost">μοι</supplied> κατὰ
                     <lb n="4"/>τὸ ῥῆμά σ<hi rend="ligature">ου</hi>.
