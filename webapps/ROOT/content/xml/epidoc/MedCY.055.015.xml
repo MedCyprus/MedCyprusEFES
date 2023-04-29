@@ -72,7 +72,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                  <lb n="1"/><w lemma="ὁρῶ"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>δο<choice><orig>υ</orig><reg>ὺ</reg></choice></w> <choice><orig>η</orig><reg>ἡ</reg></choice>
+                  <lb n="1"/><w lemma="Ἰδού"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>δο<choice><orig>υ</orig><reg>ὺ</reg></choice></w> <choice><orig>η</orig><reg>ἡ</reg></choice>
                   <lb n="2"/><persName type="sacred" key="Virgin"><w lemma="Παρθένος">Παρθαί
                   <lb n="3" break="no"/>νος</w></persName>
                 </ab>
