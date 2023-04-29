@@ -26,16 +26,16 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>.</rs>
-                                    <rs type="placement-building">Naos, northwestern pilaster, lower register, south face</rs>
+                                    <rs type="placement-building">Naos, northwestern pilaster below the dome, south face, lower register</rs>
                                     <dimensions unit="cm"><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
                              <layoutDesc>
-                                <layout>On either side of apostle's head</layout>
+                                <layout>On either side of the apostle's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. The inscription is badly damaged and only few letters have survived. Based on the other inscriptions on the monument, the saint's caption would also be written entirely in majuscule. <height unit="cm">n/a</height>
+                            <handNote>White letters against red background. Poorly preserved. Only few letters discernible. Based on the other inscriptions on the monument, the saint's caption would also be written entirely in majuscule. <height unit="cm">n/a</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -65,9 +65,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-012-1.jpg"><desc>Naos, northwestern pilaster, lower register, south face, inscription detail</desc></graphic>
-        <graphic rend="primary" url="055-012-2.jpg"><desc>Naos, northwestern pilaster, lower register, south face</desc></graphic>
-        <graphic rend="secondary" url="055-012-3.jpg"><desc>Naos, northwestern pilaster, lower register, south face, inscription detail</desc></graphic>
+         <graphic url="055-012-1.jpg"><desc>Naos, northwestern pilaster below the dome, south face, lower register, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-012-2.jpg"><desc>Naos, northwestern pilaster below the dome, south face, lower register, inscription</desc></graphic>
+        <graphic rend="secondary" url="055-012-3.jpg"><desc>Naos, northwestern pilaster below the dome, south face, lower register, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
