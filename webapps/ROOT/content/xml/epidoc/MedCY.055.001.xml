@@ -26,16 +26,16 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>.</rs>
-                                    <rs type="placement-building">Naos, southeastern pilaster, upper register, north face</rs>
+                                    <rs type="placement-building">Naos, southeastern pilaster below the dome, north face, upper register.</rs>
                                     <dimensions unit="cm"><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
                              <layoutDesc>
-                                <layout>On the left side of the Evangelist's head</layout>
+                                <layout>On the left side of the Evangelist's head.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. The inscription is written entirely in majuscule with the size of some characters varying.  Accents and breathings non systematic. Throughout the inscription there is the ligature of the letters AT. Poor condition. Exfoliated . <height unit="cm">n/a</height>
+                            <handNote>White letters against red background. The inscription is written entirely in majuscule with the size of some characters varying.  Accents and breathings non systematic. Throughout the inscription there is the ligature of the letters AT. <height unit="cm">n/a</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -65,8 +65,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-001-02.jpg"><desc>Naos, southeastern pilaster, upper register, north face, inscription</desc></graphic>
-        <graphic rend="primary" url="055-001-01.jpg"><desc>Naos, southeastern pilaster, upper register, north face, inscription detail</desc></graphic>
+         <graphic url="055-001-02.jpg"><desc>Naos, southeastern pilaster below the dome, north face, upper register, inscription</desc></graphic>
+        <graphic rend="primary" url="055-001-01.jpg"><desc>Naos, southeastern pilaster below the dome, north face, upper register, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -89,7 +89,7 @@
                 <p>Matthew the Evangelist</p>
             </div>
             <div type="commentary">
-                <p>The inscription "ὁ ἅγιος" to the right of the evangelist has been lost. Based on the examples of Paul and Mark we reconstructed the word. On the second column, the painter deliberately omitted the non-writing of the letters -ης of the word "εὐαγγελιστής" due to lack of space. </p>
+                <p>Poor condition. Exfoliated. The inscription "ὁ ἅγιος" to the right of the evangelist has been lost. Based on the examples of Paul and Mark we reconstructed the word. On the second column, the painter deliberately omitted the non-writing of the letters -ης of the word "εὐαγγελιστής" due to lack of space. </p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>
