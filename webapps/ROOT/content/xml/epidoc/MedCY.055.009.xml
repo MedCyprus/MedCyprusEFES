@@ -8,11 +8,11 @@
                 <title>Saint Mamas</title>
                 <author xml:id="tp">Theocharis Petrou</author> 
                 <author xml:id="mx">Maria Xenaki</author>
-                <editor xml:id="mgp">Maria G. Parani</editor>
+                <editor xml:id="mgp">Maria G. Parani.</editor>
             </titleStmt>
             <publicationStmt>
-                <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.055.009</idno>
+                <authority>University of Cyprus - MedCyprus.</authority>
+                <idno type="filename">MedCY.055.009.</idno>
                 <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence></availability>
             </publicationStmt>
             <sourceDesc>
@@ -26,30 +26,30 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>.</rs>
-                                    <rs type="placement-building">Naos, southeastern pilaster, lower register, west face</rs>
+                                    <rs type="placement-building">Naos, southeastern pilaster, below the dome, west face,  lower register.</rs>
                                     <dimensions unit="cm"><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
                              <layoutDesc>
-                                <layout>On either side of saint's head</layout>
+                                <layout>On either side of the saint's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Badly damaged. Partially preserved. <height unit="cm">3,5 cm</height>
+                            <handNote>White letters against blue background. Only the abbreviation of the word "ὁ ἅγιος" on the column a has survived. <height unit="cm">3,5 cm</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#mamas">Mamas</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#mamas">Mamas.</rs></p>
                             </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Sotira">Sotira (Ammochostou), Transfiguration</origPlace>
-                            <origDate notBefore="1201" notAfter="1300">13th century</origDate>
+                            <origPlace ref="locations.xml#Sotira">Sotira (Ammochostou), Transfiguration.</origPlace>
+                            <origDate notBefore="1269" notAfter="1300">Last third 13th century.</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
-                        <provenance type="observed" resp="#tp">24/02/2022
+                        <provenance type="observed" resp="#tp">24/02/2022.
                         </provenance>
                     </history>
                 </msDesc>
@@ -58,16 +58,16 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                    <term type="textType" ref="text_types.xml#doc5">Caption.</term>
                 </keywords>
             </textClass>
             <creation>...</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-009-002.jpg"><desc>Naos, southeastern pilaster, lower register, west face, inscription detail</desc></graphic>
-        <graphic rend="primary" url="055-009-001.jpg"><desc>Naos, southeastern pilaster, lower register, west face</desc></graphic>
-        <graphic rend="secondary" url="055-009-003.jpg"><desc>Naos, southeastern pilaster, lower register, west face, inscription detail</desc></graphic>
+         <graphic url="055-009-002.jpg"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-009-001.jpg"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription </desc></graphic>
+        <graphic rend="secondary" url="055-009-003.jpg"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -87,10 +87,10 @@
                 <p>Saint Mamas</p>
             </div>
             <div type="commentary">
-                <p>Only the abbreviation of the word "ὁ ἅγιος" on the column a has survived. The saint's name is identified by his iconography.</p>
+                <p>Badly damaged. Partially preserved. The saint's name is identified by his iconography.</p>
             </div>
             <div type="bibliography">
-                <listBibl> <bibl>Unpublished</bibl>
+                <listBibl> <bibl>Unpublished.</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
