@@ -72,7 +72,7 @@
        <br/><b>Articulation of inscription in relation to the murals: </b>
        <xsl:apply-templates select="//t:layoutDesc" mode="medcyprus-dimensions"/>
        <br/><b>Letters: </b>
-       <xsl:apply-templates select="//t:handDesc" mode="medcyprus-dimensions"/>
+       <xsl:apply-templates select="//t:handDesc" mode="medcyprus-letter-height"/>
        <br/><b>Iconography: </b>
        <xsl:for-each select="//t:rs[@type='iconography']">
          <xsl:apply-templates select="." mode="medcyprus-dimensions"/>
@@ -301,16 +301,22 @@
       </html>
    </xsl:template>
 
-   <xsl:template match="t:dimensions" mode="medcyprus-dimensions">
+  <xsl:template match="t:height[ancestor::t:handDesc][text()!='']" mode="medcyprus-letter-height">
+    <xsl:value-of select="."/>
+    <xsl:text> </xsl:text>
+    <xsl:value-of select="@unit"/>
+  </xsl:template>
+  
+  <xsl:template match="t:dimensions" mode="medcyprus-dimensions">
       <xsl:if test="//text()">
-         <xsl:if test="t:width/text()">w: 
-            <xsl:value-of select="t:width"/>
-            <xsl:if test="t:height/text()">
-               <xsl:text> x </xsl:text>
+        <xsl:if test="t:height/text()">h: 
+            <xsl:value-of select="t:height"/>
+            <xsl:if test="t:width/text()">
+              <xsl:text> x </xsl:text>
             </xsl:if>
          </xsl:if>
-         <xsl:if test="t:height/text()">h: 
-            <xsl:value-of select="t:height"/>
+         <xsl:if test="t:width/text()">w: 
+            <xsl:value-of select="t:width"/>
          </xsl:if>
          <xsl:if test="t:depth/text()">x d:
             <xsl:value-of select="t:depth"/>
@@ -319,6 +325,13 @@
             <xsl:value-of select="t:dim[@type='diameter']"/>
          </xsl:if>
       </xsl:if>
+    <xsl:text> </xsl:text>
+    <xsl:value-of select="@unit"/>
+    <xsl:if test="@scope">
+      <xsl:text> (</xsl:text>
+      <xsl:value-of select="replace(@scope, '_', ' ')"/>
+      <xsl:text>)</xsl:text>
+    </xsl:if>
    </xsl:template>
    
   <xsl:template match="t:placeName|t:origPlace|t:repository" mode="medcyprus-location">
