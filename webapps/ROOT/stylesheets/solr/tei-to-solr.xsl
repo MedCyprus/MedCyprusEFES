@@ -98,9 +98,18 @@
     </field>
   </xsl:template>
   
-  <xsl:template match="//tei:rs[@type='placement']" mode="facet_placement">
+  <xsl:template match="//tei:rs[@type='placement-building']" mode="facet_placement">
+    <xsl:variable name="id" select="substring-after(@ref, '#')"/>
+    <xsl:variable name="placementAL" select="'../../content/xml/authority/placement.xml'"/>
     <field name="placement">
-      <xsl:value-of select="normalize-space(translate(translate(translate(., '/', '／'), '_', ' '), '(?)', ''))"/>
+      <xsl:choose>
+        <xsl:when test="doc-available($placementAL) = fn:true() and document($placementAL)//tei:item[@xml:id=$id]">
+          <xsl:value-of select="normalize-space(translate(translate(translate(document($placementAL)//tei:item[@xml:id=$id][1]/tei:term[1], '/', '／'), '_', ' '), '(?)', ''))"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:value-of select="$id" />
+        </xsl:otherwise>
+      </xsl:choose>
     </field>
   </xsl:template>  
   
