@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Controlled vocabulary for placements within the building in MedCyprus project</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <list>
+                <item xml:id="naos">
+                    <term>Naos</term>
+                </item>
+                <item xml:id="bema">
+                    <term>Bema</term>
+                </item>
+                <item xml:id="prothesis">
+                    <term>Prothesis</term>
+                </item>
+                <item xml:id="diakonikon">
+                    <term>Diakonikon</term>
+                </item>
+            </list>
+            
+            
+        </body>
+    </text>
+</TEI>
