@@ -27,7 +27,7 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>.</rs>
                                     <rs type="placement-building">Naos, northwestern pilaster, below the dome, south face, lower register. </rs>
-                                    <dimensions unit="cm" scope="scroll"><height>60 cm</height><width>14 cm </width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>60</height><width>14</width></dimensions>
                                     </support>
                             </supportDesc>
                              <layoutDesc>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two ruled ochre coloured lines. The inscription is written in majuscule with a sporadic use of minuscule letters (α, ο). Throughout the inscription there are ligatures of the letters ΙΜ, ΑΙ. In line 5 and 7 the ligature ΑΙ is written with a minuscule alpha attached to a long iota. Non systematic use of accents and breathings. <height unit="cm">4 cm.</height>
+                            <handNote>Black letters against white background between two ruled ochre coloured lines. The inscription is written in majuscule with a sporadic use of minuscule letters (α, ο). Throughout the inscription there are ligatures of the letters ΙΜ, ΑΙ. In line 5 and 7 the ligature ΑΙ is written with a minuscule alpha attached to a long iota. Non systematic use of accents and breathings. Letter height: <height unit="cm">4</height>.
                             </handNote>
                         </handDesc>
                         <decoDesc>
