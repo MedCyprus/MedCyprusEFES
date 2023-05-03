@@ -27,7 +27,7 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>.</rs>
                                     <rs type="placement-building">Naos, northwestern pilaster, below the dome, south face, lower register. </rs>
-                                    <dimensions unit="cm"><height>60 cm (scroll).</height><width>14 cm </width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>60 cm</height><width>14 cm </width></dimensions>
                                     </support>
                             </supportDesc>
                              <layoutDesc>
