@@ -12,7 +12,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus.</authority>
-                <idno type="filename">MedCY.055.005.</idno>
+                <idno type="filename">MedCY.055.005</idno>
                 <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence></availability>
             </publicationStmt>
             <sourceDesc>
@@ -35,11 +35,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. The inscription is written entirely in majuscule. However, many letters haven't survived. <height unit="cm">4-5 cm</height>
+                            <handNote>White letters against blue background. The inscription is written entirely in majuscule. However, many letters haven't survived. <height unit="cm">4-5 cm.</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#constantineormideia">Constantine of Ormideia (?).</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#constantineormideia">Constantine of Ormideia ?</rs></p>
                             </decoDesc>
                     </physDesc>
                     <history>
@@ -92,7 +92,7 @@
                 <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Saint Constantine (of Ormideia ?).</p>
+                <p>Saint Constantine (of Ormideia ?)</p>
             </div>
             <div type="commentary">
                 <p>Badly damaged. Exfoliated. The inscription "ὁ ἅγιος" to the right of the saint is hardly preserved. On the second column, the name "Κωνσταντίνος" is mispelled with omicron instead of omega. </p>
