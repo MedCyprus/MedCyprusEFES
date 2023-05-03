@@ -12,7 +12,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus.</authority>
-                <idno type="filename">MedCY.055.013.</idno>
+                <idno type="filename">MedCY.055.013</idno>
                 <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence></availability>
             </publicationStmt>
             <sourceDesc>
@@ -27,7 +27,7 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>.</rs>
                                     <rs type="placement-building">Naos, northwestern pilaster, below the dome, south face, lower register. </rs>
-                                    <dimensions unit="cm"><height>60 cm</height><width>14 cm (scroll)</width></dimensions>
+                                    <dimensions unit="cm"><height>60 cm (scroll).</height><width>14 cm </width></dimensions>
                                     </support>
                             </supportDesc>
                              <layoutDesc>
