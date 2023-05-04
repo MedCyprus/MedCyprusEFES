@@ -8,10 +8,10 @@
                 <title>Apostle Peter's scroll</title>
                 <author xml:id="tp">Theocharis Petrou</author> 
                 <author xml:id="mx">Maria Xenaki</author>
-                <editor xml:id="mgp">Maria G. Parani.</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
-                <authority>University of Cyprus - MedCyprus.</authority>
+                <authority>University of Cyprus - MedCyprus</authority>
                 <idno type="filename">MedCY.055.013</idno>
                 <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence></availability>
             </publicationStmt>
@@ -25,8 +25,8 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>.</rs>
-                                    <rs type="placement-building">Naos, northwestern pilaster, below the dome, south face, lower register. </rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                    <rs type="placement-building" ref="#naos">Naos, northwestern pilaster, below the dome, south face, lower register</rs>
                                     <dimensions unit="cm" scope="scroll"><height>60</height><width>14</width></dimensions>
                                     </support>
                             </supportDesc>
@@ -35,21 +35,21 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two ruled ochre coloured lines. The inscription is written in majuscule with a sporadic use of minuscule letters (α, ο). Throughout the inscription there are ligatures of the letters ΙΜ, ΑΙ. In line 5 and 7 the ligature ΑΙ is written with a minuscule alpha attached to a long iota. Non systematic use of accents and breathings. Letter height: <height unit="cm">4</height>.
+                            <handNote>Black letters against white background between two ruled ochre coloured lines. The inscription is written in majuscule with a sporadic use of minuscule letters (α, ο). Throughout the inscription there are ligatures of the letters ΙΜ, ΑΙ. In line 5 and 7 the ligature ΑΙ is written with a minuscule alpha attached to a long iota. Non systematic use of accents and breathings. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#peter">Peter.</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#peter">Peter</rs></p>
                             </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Sotira">Sotira (Ammochostou), Transfiguration.</origPlace>
-                            <origDate notBefore="1269" notAfter="1300">Last third 13th century.</origDate>
+                            <origPlace ref="locations.xml#Sotira">Sotira (Ammochostou), Transfiguration</origPlace>
+                            <origDate notBefore="1269" notAfter="1300">Last third 13th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
-                        <provenance type="observed" resp="#tp">24/02/2022.
+                        <provenance type="observed" resp="#tp">24/02/2022
                         </provenance>
                     </history>
                 </msDesc>
@@ -58,7 +58,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc6">Biblical citation.</term>
+                    <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
                 </keywords>
             </textClass>
             <creation>...</creation>
@@ -94,7 +94,7 @@
                 <p>Damaged. Lines 8-10 not survived. The inscription is from Peter's Epistle I, 2:11: Ἀγαπητοί, παρακαλῶ ὡς παροίκους καὶ παρεπιδήμους ἀπἐχεσθαι τῶν σαρκικῶν ἐπιθυμιῶν. However, the incipit Ἀδελφοί, παρακαλῶ ὑμᾶς, originates from Paul's epistles. The words ὑμᾶς, ὡς, παροίκους, παρεπιδήμους, ἀπέχεσθαι are misspelled.</p>
             </div>
             <div type="bibliography">
-                <listBibl> <bibl>Unpublished.</bibl>
+                <listBibl> <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
