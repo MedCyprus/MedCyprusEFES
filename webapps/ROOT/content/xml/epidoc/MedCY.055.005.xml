@@ -11,7 +11,7 @@
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
-                <authority>University of Cyprus - MedCyprus.</authority>
+                <authority>University of Cyprus - MedCyprus</authority>
                 <idno type="filename">MedCY.055.005</idno>
                 <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence></availability>
             </publicationStmt>
@@ -25,17 +25,17 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>.</rs>
-                                    <rs type="placement-building">Naos, southeastern pilaster, below the dome, north face, lower register. </rs>
-                                    <dimensions unit="cm"><height>n/a</height></dimensions>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                    <rs type="placement-building" ref="#naos">Naos, southeastern pilaster, below the dome, north face, lower register </rs>
+                                    <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
                              <layoutDesc>
-                                <layout>On either side of the saint's head.</layout>
+                                <layout>On either side of the saint's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. The inscription is written entirely in majuscule. However, many letters haven't survived. <height unit="cm">4-5 cm.</height>
+                            <handNote>White letters against blue background. The inscription is written entirely in majuscule. However, many letters haven't survived. Letter height: <height unit="cm">4-5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -44,12 +44,12 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Sotira">Sotira (Ammochostou), Transfiguration.</origPlace>
-                            <origDate notBefore="1269" notAfter="1300">Last third 13th century.</origDate>
+                            <origPlace ref="locations.xml#Sotira">Sotira (Ammochostou), Transfiguration</origPlace>
+                            <origDate notBefore="1269" notAfter="1300">Last third 13th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
-                        <provenance type="observed" resp="#tp">24/02/2022.
+                        <provenance type="observed" resp="#tp">24/02/2022
                         </provenance>
                     </history>
                 </msDesc>
@@ -58,7 +58,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">Caption.</term>
+                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
             <creation>...</creation>
@@ -92,13 +92,13 @@
                 <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Saint Constantine (of Ormideia ?)</p>
+                <p>Saint Constantine (of Ormideia) ?</p>
             </div>
             <div type="commentary">
                 <p>Badly damaged. Exfoliated. The inscription "ὁ ἅγιος" to the right of the saint is hardly preserved. On the second column, the name "Κωνσταντίνος" is mispelled with omicron instead of omega. </p>
             </div>
             <div type="bibliography">
-                <listBibl> <bibl>Unpublished.</bibl>
+                <listBibl> <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
