@@ -156,6 +156,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q532019</idno>                   
                 </person>
                 
+                <person xml:id="Mardarios">
+                    <persName xml:lang="grc"><seg>ἅγιος</seg> Μαρδάριος</persName>
+                    <persName xml:lang="en">Mardarios, saint</persName> 
+                    <idno type="wikidata">not listed</idno>                   
+                </person>
+                
                 <person xml:id="Maria">
                     <persName xml:lang="grc">Μαρία</persName>
                     <persName xml:lang="en">Maria, Virgin Mary</persName>
