@@ -65,8 +65,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-022-02.jpg"><desc>Naos, dome, north arch, soffit, west half, inscription detail</desc></graphic>
-        <graphic rend="primary" url="055-022-01.jpg"><desc>Naos, dome, north arch, soffit, west half, inscription </desc></graphic>
+         <graphic url="055-022-01.jpg"><desc>Naos, dome, north arch, soffit, west half, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-022-02.jpg"><desc>Naos, dome, north arch, soffit, west half, inscription </desc></graphic>
         <graphic rend="secondary" url="055-022-03.jpg"><desc>Naos, dome, north arch, soffit, west half, inscription </desc></graphic>
     </facsimile>
     <text>
@@ -80,7 +80,7 @@
                     <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w>
                     <cb n="b"/>
                     <lb n="1"/><name nymRef="Μαρδάριος">Μαρ
-                    <lb n="2" break="no"/>δα
+                    <lb n="2" break="no"/>δά
                      <lb n="3" break="no"/>ρ<supplied reason="lost">ι</supplied>
                      <lb n="4" break="no"/><supplied reason="lost">ος</supplied></name></persName>
                 </ab>
