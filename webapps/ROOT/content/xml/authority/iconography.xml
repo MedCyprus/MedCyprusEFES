@@ -69,13 +69,19 @@
             
             <list type="individual_saintly_figures">
                 <head>Individual saintly figures</head>
+                
                 <item xml:id="christ">
                 <term xml:lang="en">Christ</term>
                     </item>
                 
+                <item xml:id="mardarios"> 
+                    <term xml:lang="en">Mardarios</term>
+                </item>
+                
                 <item xml:id="virgin">
                 <term xml:lang="en">Virgin</term>
                 </item>
+                
               
                 
                 <item><list type="Angelic_Powers">
