@@ -87,7 +87,6 @@
       <xsl:apply-templates select="str[@name='index_item_name']" />
       <xsl:apply-templates select="str[@name='index_surname']" />
       <xsl:apply-templates select="str[@name='index_abbreviation_expansion']"/>
-      <xsl:apply-templates select="str[@name='index_ligature']"/>
       <xsl:apply-templates select="str[@name='index_numeral_value']"/>
       <xsl:apply-templates select="arr[@name='language_code']"/>
       <xsl:if test="arr[@name='index_epithet']"> <!-- i.e. displayed only in sacred index -->
@@ -153,12 +152,6 @@
   </xsl:template>
 
   <xsl:template match="str[@name='index_abbreviation_expansion']">
-    <td>
-      <xsl:value-of select="." />
-    </td>
-  </xsl:template>
-  
-  <xsl:template match="str[@name='index_ligature']">
     <td>
       <xsl:value-of select="." />
     </td>
