@@ -24,12 +24,12 @@
                         <xsl:text>_index</xsl:text>
                     </field>
                     <xsl:call-template name="field_file_path" />
-                    <!--<field name="index_item_name">
-                        <xsl:value-of select="string-join(.//tei:abbr, '')" />
+                    <field name="index_item_name">
+                        <xsl:value-of select="string-join(.//tei:hi, '')" />
                     </field>
-                    <field name="index_abbreviation_expansion">
+                    <field name="index_ligature">
                         <xsl:value-of select=".//text()[not(ancestor::tei:am)]"/>
-                    </field>-->
+                    </field>
                     <xsl:apply-templates select="current-group()" />
                 </doc>
             </xsl:for-each-group>
