@@ -30,6 +30,12 @@
                     <idno type="wikidata">not listed</idno>                   
                 </person>
                 
+                <person xml:id="Auxentios">
+                    <persName xml:lang="grc"><seg>ἅγιος </seg>Aὐξέντιος</persName>
+                    <persName xml:lang="en">Auxentios, saint</persName>
+                    <idno type="wikidata">not listed</idno>                   
+                </person>
+                
                 <person xml:id="Christ">
                     <persName xml:lang="grc">Χριστός</persName>
                     <persName xml:lang="en">Christ</persName>
