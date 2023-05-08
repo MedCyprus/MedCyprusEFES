@@ -70,6 +70,10 @@
             <list type="individual_saintly_figures">
                 <head>Individual saintly figures</head>
                 
+                <item xml:id="auxentios"> 
+                    <term xml:lang="en">Auxentios</term>
+                </item>
+                
                 <item xml:id="christ">
                 <term xml:lang="en">Christ</term>
                     </item>
