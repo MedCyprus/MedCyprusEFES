@@ -27,7 +27,7 @@
                     <field name="index_item_name">
                         <xsl:value-of select="string-join(.//tei:hi, '')" />
                     </field>
-                    <field name="index_ligature">
+                    <field name=".">
                         <xsl:value-of select="."/>
                     </field>
                     <xsl:apply-templates select="current-group()" />
