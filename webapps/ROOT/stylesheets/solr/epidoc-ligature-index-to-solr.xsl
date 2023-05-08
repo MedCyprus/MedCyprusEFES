@@ -27,7 +27,7 @@
                     <field name="index_item_name">
                         <xsl:value-of select="string-join(.//tei:hi, '')" />
                     </field>
-                    <field name="index_ligature">
+                    <field name="index_item_name">
                         <xsl:value-of select=".//text()[not(ancestor::tei:am)]"/>
                     </field>
                     <xsl:apply-templates select="current-group()" />
