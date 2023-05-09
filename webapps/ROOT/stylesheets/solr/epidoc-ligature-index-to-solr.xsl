@@ -36,7 +36,7 @@
         </add>
     </xsl:template>
 
-    <xsl:template match="tei:rend">
+    <xsl:template match="tei:hi">
         <xsl:call-template name="field_index_instance_location" />
     </xsl:template>
 
