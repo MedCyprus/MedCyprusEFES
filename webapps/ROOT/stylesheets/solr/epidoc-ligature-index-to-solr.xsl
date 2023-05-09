@@ -14,8 +14,8 @@
 
     <xsl:template match="/">
         <add>
-            <xsl:for-each-group select="//tei:hi[ancestor::tei:div/@type='edition']" 
-                group-by="concat(string-join(.//tei:hi, ''),'-',.)">
+            <xsl:for-each-group select="//tei:hi[@rend='ligature'][ancestor::tei:div/@rend='edition']" 
+                group-by="@rend">
                 <doc>
                     <field name="document_type">
                         <xsl:value-of select="$subdirectory" />
