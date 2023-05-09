@@ -14,7 +14,7 @@
 
     <xsl:template match="/">
         <add>
-            <xsl:for-each-group select="//tei:hi[@rend='ligature'][ancestor::tei:div/@rend='edition']" 
+            <xsl:for-each-group select="//tei:hi[@rend='ligature'][ancestor::tei:div/@rend='ligature']" 
                 group-by="@rend">
                 <doc>
                     <field name="document_type">
