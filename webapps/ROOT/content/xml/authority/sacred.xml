@@ -138,6 +138,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q328804</idno>                   
                 </person>
                 
+                <person xml:id="Joseph">
+                    <persName xml:lang="grc"><seg>ἅγιος </seg>Ἰωσήφ ὁ Μνήστωρ</persName>
+                    <persName xml:lang="en">Joseph, saint</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q128267</idno>                   
+                </person>
+                
                 
                 <person xml:id="Lord">
                     <persName xml:lang="grc">Κύριος</persName>
