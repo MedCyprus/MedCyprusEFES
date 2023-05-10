@@ -82,7 +82,6 @@
                     <term xml:lang="en">Joseph</term>
                 </item>
                 
-                
                 <item xml:id="mardarios"> 
                     <term xml:lang="en">Mardarios</term>
                 </item>
@@ -259,6 +258,7 @@
                     </item>
                     <!-- ... -->
                 </list></item>
+                
                 <item><list type="other_supplicants">
                     <head>Other supplicants</head>
                     <item xml:id="unidentified_MedCY047"> 
@@ -268,6 +268,13 @@
                 </list></item>
             <!-- ... -->
             </list>
+            
+            <list type="Personifications">
+                <head>Personifications</head>
+                
+                <item xml:id="SeaPersonification"> 
+                    <term xml:lang="en">Personification of the sea</term>
+                </item></list>
         </body>
     </text>
 </TEI>
