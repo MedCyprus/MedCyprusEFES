@@ -26,7 +26,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, eastern vault, north half, lower register</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, eastern vault, north part, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
@@ -65,15 +65,15 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-055-02.jpg"><desc>Naos, eastern vault, north half, lower register, general view</desc></graphic>
-        <graphic rend="primary" url="055-055-01.jpg"><desc>Naos, eastern vault, north half, lower register, inscription detail</desc></graphic>
+         <graphic url="055-025-02.jpg"><desc>Naos, eastern vault, north part, lower register, general view</desc></graphic>
+        <graphic rend="primary" url="055-025-01.jpg"><desc>Naos, eastern vault, north part, lower register, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="Joseph">Ὁ<name nymRef="'Ἰωσήφ">Ἰοσήφ</name></persName>
+                    <lb n="1"/><persName type="sacred" key="Joseph">Ὁ <name nymRef="'Ἰωσήφ">Ἰοσήφ</name></persName>
                 </ab>
             </div>
             <div type="apparatus">
