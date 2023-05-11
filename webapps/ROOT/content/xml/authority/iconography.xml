@@ -269,16 +269,14 @@
             <!-- ... -->
             </list>
             
+            
             <list type="Personifications">
                 <head>Personifications</head>
                 
-                <item><list type="SeaPersonifications">
-                    <head>SeaPersonifications</head>
-                   <item xml:id="SeaPersonification">
+                <item xml:id="SeaPersonifications">
                     <term xml:lang="en">Personification of the sea</term>
-                </item>
                     <!-- ... -->
-                </list></item>
+                </item>
             </list>
         </body>
     </text>
