@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Short horizontal line above ΠΑ.
+                            <handNote>White letters against red background. Majuscule letters. Short horizontal line above ΠΑ; ligature AN.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -74,7 +74,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/>Ὁ <name nymRef="πανραζυγιαστής">πα<supplied reason="omitted">ν</supplied>ρα<unclear>ζ</unclear><supplied reason="lost">υγια</supplied>στής</name>
+                    <lb n="1"/>Ὁ <name nymRef="πανραζυγιαστής"><w lemma="πανραζυγιαστής">π<hi rend="ligature">αν</hi>ρα<unclear>ζ</unclear><supplied reason="lost">υγια</supplied>στής</w></name>
                 </ab>
             </div>
             <div type="apparatus">
