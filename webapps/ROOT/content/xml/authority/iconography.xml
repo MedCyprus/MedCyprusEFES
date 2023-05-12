@@ -219,10 +219,14 @@
                     <item xml:id="anastasia_poison"> 
                         <term xml:lang="en">Anastasia the Poison-curer (Pharmakolytria) </term>
                     </item>
-                    <!-- ... -->
+                    <item xml:id="hermolaos"> 
+                        <term xml:lang="en">Hermolaos</term>
+                    </item>
+                    
                     <item xml:id="mamas"> 
                         <term xml:lang="en">Mamas</term>
                     </item>
+                    <!-- ... -->
                 </list></item>
                 
                 
