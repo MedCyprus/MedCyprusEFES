@@ -161,6 +161,9 @@
                     <item xml:id="basil"> 
                         <term xml:lang="en">Basil of Caesarea</term>
                     </item>
+                    <item xml:id="epiphanios"> 
+                        <term xml:lang="en">Epiphanios</term>
+                    </item>
                     <item xml:id="GregoryNazianzenos">
                         <term xml:lang="en">Gregory the Theologian</term>
                     </item>
