@@ -77,6 +77,12 @@
                     <note>See also: Theotokos, Virgin, Maria</note>
                 </person>-->
                 
+                <person xml:id="Epiphanios">
+                    <persName xml:lang="grc"><seg>ἅγιος</seg> Ἐπιφάνιος</persName>
+                    <persName xml:lang="en">Epiphanios, saint</persName>               
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q313922</idno>                   
+                </person>
+                
                 <person xml:id="Fathers">
                     <persName xml:lang="grc"> <seg>οἱ</seg> τριακόσιοι δεκαοκτὼ θεοφόροι Πατέρες</persName>
                     <persName xml:lang="en">318 Godbearing Fathers (of the First Ecumenical Council) </persName>
