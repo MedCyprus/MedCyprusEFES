@@ -126,7 +126,6 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q4176601</idno>                   
                 </person>
                 
-                
                 <person xml:id="JohnClimacus">
                     <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰωάννης</persName>
                     <persName xml:lang="en">John Climacus, saint</persName> 
@@ -225,6 +224,12 @@
                     <persName xml:lang="grc" type="epithet" subtype="Nicholas">τῆς Στέγης</persName>
                     <persName xml:lang="en" type="epithet" subtype="Nicholas">of the Roof</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44269</idno>                   
+                </person>
+                
+                <person xml:id="Nikon">
+                    <persName xml:lang="grc"><seg>ἅγιος</seg> Νίκων</persName>
+                    <persName xml:lang="en">Nikon, saint</persName>               
+                    <idno type="wikidata">not listed</idno>                   
                 </person>
                 
                 <person xml:id="Jeremiah">
