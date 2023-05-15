@@ -36,6 +36,12 @@
                     <idno type="wikidata">not listed</idno>                   
                 </person>
                 
+                <person xml:id="Auxibios">
+                    <persName xml:lang="grc"><seg>ἅγιος </seg>Aὐξίβιος</persName>
+                    <persName xml:lang="en">Auxibios, saint</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q18222658</idno>                   
+                </person>
+                
                 <person xml:id="Christ">
                     <persName xml:lang="grc">Χριστός</persName>
                     <persName xml:lang="en">Christ</persName>
