@@ -56,6 +56,12 @@
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
+                <person xml:id="ConstantineTheGreat">
+                    <persName xml:lang="grc"><seg>ἅγιος </seg>Κωνσταντίνος</persName>
+                    <persName xml:lang="en">Constantine the Great, saint</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q8413</idno>                   
+                </person>
+                
                 <person xml:id="David">
                     <persName xml:lang="grc"><seg>προφήτης</seg> Δαυΐδ</persName>
                     <persName xml:lang="en">David, prophet</persName>                   
