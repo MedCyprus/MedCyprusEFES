@@ -72,9 +72,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                          <lb n="1"/><milestone unit="column" n="left"/><persName type="divine" key="JesusChrist"><name nymRef="Ἰησοῦς Χριστός"><expan><abbr rend="supraline">Ι</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr></expan></name></persName>
+                          <lb n="1"/><milestone unit="column" n="left"/><persName type="divine" key="JesusChrist"><name nymRef="Ἰησοῦς Χριστός"><expan><abbr rend="supraline">Ι</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></name></persName>
                     
-                    <lb n="2"/><milestone unit="column" n="left"/><expan><abbr><hi rend="ligature">Υι</hi></abbr><ex>ὸ</ex><abbr>ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan>
+                       <lb n="2"/><milestone unit="column" n="left"/><addName type="epithet" key="SonOfGod"><expan><abbr rend="supraline"><hi rend="ligature">Υι</hi></abbr><ex>ὸ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></addName>
                     <lb n="3"/><milestone unit="column" n="left"/>Νι <milestone unit="column" n="right" break="no"/>κᾶ
                     <lb n="4"/><milestone unit="column" n="left"/><persName type="sacred" key="Helena"><name nymRef="Ἑλένη"><expan><abbr>Ἑ</abbr><ex>λένη</ex></expan></name></persName> <expan><abbr>Ε</abbr><ex>ὕρεν</ex></expan> <milestone unit="column" n="right"/><expan><abbr>Ἐ</abbr><ex>λέους</ex></expan> <expan><abbr>Ἔ</abbr><ex>ρεισμα</ex></expan>              
                     
