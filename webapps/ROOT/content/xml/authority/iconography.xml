@@ -49,6 +49,9 @@
                 <item xml:id="last_judgment"> 
                     <term xml:lang="en">Last Judgment</term>
                 </item>
+                <item xml:id="preparation_of_the_throne"> 
+                    <term xml:lang="en">Preparation of the throne</term>
+                </item>
                 <!-- ... -->
             </list>
             
@@ -215,6 +218,10 @@
                 <item><list type="Military_Saints">
                     <head>Military Saints</head>
                     
+                    <item xml:id="christopher"> 
+                        <term xml:lang="en">Christopher</term>
+                    </item>
+                    
                     <item xml:id="demetrios"> 
                         <term xml:lang="en">Demetrios</term>
                     </item>
@@ -225,6 +232,9 @@
                     
                     <item xml:id="constantineormideia">
                         <term xml:lang="en">Constantine of Ormideia (?)</term>
+                    </item>
+                    <item xml:id="theodoreStratelates"> 
+                        <term xml:lang="en">Theodore Stratelates</term>
                     </item>
                     <!-- ... -->
                 </list></item>
