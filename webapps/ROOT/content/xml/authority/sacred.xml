@@ -68,6 +68,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q8413</idno>                   
                 </person>
                 
+                <person xml:id="Christopher">
+                    <persName xml:lang="grc"><seg>ἅγιος </seg>Χριστόφορος</persName>
+                    <persName xml:lang="en">Christopher, saint</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q193507</idno>                   
+                </person>
+                
                 <person xml:id="David">
                     <persName xml:lang="grc"><seg>προφήτης</seg> Δαυΐδ</persName>
                     <persName xml:lang="en">David, prophet</persName>                   
@@ -287,6 +293,12 @@
                     <persName xml:lang="en">Themonianos, saint</persName>
                     <!--<persName xml:lang="en">Themonianos, saint or Saint Themonianos</persName>-->                   
                     <idno type="wikidata">Not listed</idno>                   
+                </person>
+                
+                <person xml:id="Theodore">
+                    <persName xml:lang="grc"><seg>ἅγιος </seg>Θεόδωρος</persName>
+                    <persName xml:lang="en">Theodore, saint</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2363350</idno>                   
                 </person>
                  
                 <person xml:id="Theotokos">
