@@ -146,6 +146,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q317072</idno>                   
                 </person>
                 
+                <person xml:id="JohnChrysostom">
+                    <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰωάννης</persName>
+                    <persName xml:lang="en">John Chrysostom, saint</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="JohnClimacus">ὁ Χρυσόστομος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JohnClimacus">Chrysostom</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q43706</idno>                   
+                </person>
+                
                 <person xml:id="JohnTheologian">
                     <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰωάννης</persName>
                     <persName xml:lang="en">John the Theologian, saint</persName> 
