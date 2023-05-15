@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Sphere Cryptograms</title>
+                <title>Sphere's Cryptograms</title>
                 <author xml:id="tp">Theocharis Petrou</author> 
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -72,25 +72,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                          <lb n="1"/><milestone unit="column" n="left"/><persName type="divine" key="JesusChrist"><name nymRef="Ἰησοῦς Χριστός"><expan><abbr rend="supraline">Ι</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></name>
-                    
-                       <lb n="2"/><milestone unit="column" n="left"/><addName type="epithet" key="SonOfGod"><expan><abbr rend="supraline"><hi rend="ligature">Υι</hi></abbr><ex>ὸ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></addName></persName>
-                    <lb n="3"/><milestone unit="column" n="left"/>Νι <milestone unit="column" n="right" break="no"/>κᾶ
+                         <lb n="1"/><milestone unit="column" n="left"/><persName type="divine" key="JesusChrist"><name nymRef="Ἰησοῦς Χριστός"><expan><abbr rend="supraline">Ι</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></name>
+                       <lb n="2"/><milestone unit="column" n="left"/><addName type="epithet" key="Son of God"><expan><abbr rend="supraline"><hi rend="ligature">Υι</hi></abbr><ex>ὸ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></addName></persName>
+                    <lb n="3"/><milestone unit="column" n="left"/>Νι <milestone unit="column" n="right" break="no"/>κ<choice><orig>α</orig><reg>ᾷ</reg></choice>
                     <lb n="4"/><milestone unit="column" n="left"/><persName type="sacred" key="Helena"><name nymRef="Ἑλένη"><expan><abbr>Ἑ</abbr><ex>λένη</ex></expan></name></persName> <expan><abbr>Ε</abbr><ex>ὕρεν</ex></expan> <milestone unit="column" n="right"/><expan><abbr>Ἐ</abbr><ex>λέους</ex></expan> <expan><abbr>Ἔ</abbr><ex>ρεισμα</ex></expan>              
-                    
-                    
-                    
-                    
-                    <!--<cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="ConstantineTheGreat"><w lemma="ἅγιος"><supplied reason="lost">Ὁ</supplied>
-                    <lb n="2"/><supplied reason="lost">ἅ</supplied>
-                    <lb n="3" break="no" /><supplied reason="lost">γι</supplied>
-                    <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w>
-                    <cb n="b"/>
-                     <lb n="1"/><name nymRef="Kωνσταντῖνος">Κωστ<hi rend="ligature">αν</hi>
-                     <lb n="2" break="no"/>τῖ
-                     <lb n="3" break="no"/>νος
-                     </name></persName>-->
                 </ab>
             </div>
             <div type="apparatus">
