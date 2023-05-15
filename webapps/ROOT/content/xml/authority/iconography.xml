@@ -266,6 +266,7 @@
                     </item>
                     <!-- ... -->
                 </list></item>
+                
                 <item><list type="funerary_portrait">
                     <head>Funerary portraits</head>
                     <item xml:id="name"> 
@@ -282,16 +283,14 @@
                     <!-- ... -->
                 </list></item>
             <!-- ... -->
-            </list>
             
-        
-                    
-           <list type="Personifications">
+                  
+           <item><list type="Personifications">
                 <head>Personifications</head>
                     <item xml:id="SeaPersonification">
                     <term xml:lang="en">Personification of the sea</term>
-                    <!-- ... -->
-                </item>
+                    <!-- ... --></item>
+                </list></item>
            </list>
             
         </body>
