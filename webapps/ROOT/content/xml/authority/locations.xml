@@ -1679,19 +1679,21 @@
                     </listBibl>
                 </place>
                 
-                <place xml:id="Sotira" n="56">
+                <place xml:id="Sotira" n="55">
                     <placeName xml:lang="en">Sotira (Ammochostou), Transfiguration</placeName>
                     <placeName xml:lang="en">Sotera (Famagusta), Transfiguration</placeName>
                     <placeName xml:lang="el">Σωτήρα (Αμμοχώστου)</placeName>
                     <placeName type="district" ref="district.xml#Famagusta">Famagusta</placeName>
                     <placeName type="diocese" ref="diocese.xml#constantia">Bishopric of Constantia and Famagusta</placeName>
                     <location><geo>35.02873782723978, 33.95298959004183</geo></location>
-                    <desc type="construction"><date>...</date></desc>
+                    <desc type="construction"><date notBefore="1201" notAfter="1300" precision="medium">13th century</date></desc>
                     <desc type="function">parochial; funerary; </desc>
                     <desc type="context">rural</desc>
                     <desc type="architectural">Single-aisled cross-in-square church with dome, on the ruins of an early Christian basilica</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1269" notAfter="1300" precision="medium">Last third 13th century</date></desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date></desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1801" notAfter="1900" precision="medium">Last third 13th century</date></desc>
                     </desc>
                     <desc type="conservation">...</desc>
                     <desc type="donors">...</desc>
