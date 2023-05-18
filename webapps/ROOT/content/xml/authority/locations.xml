@@ -1703,7 +1703,7 @@
                     <idno type="HGC">Not listed</idno>
                     <idno type="geonames">https://www.geonames.org/146068/sotira.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl ana="Unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Soteriou1935"/><citedRange>pl. 38a</citedRange></bibl>
