@@ -77,7 +77,7 @@
                     <lb n="3"/><milestone unit="column" n="left"/><w lemma="νικῶ">Νι <milestone unit="column" n="right" break="no"/>κ<choice><orig>α</orig><reg>ᾷ</reg></choice></w>
                     <lb n="4"/><milestone unit="column" n="left"/>
        <w lemma="εὕρεμα"><expan><abbr rend="supraline">Ε</abbr><ex>ὕρεμα</ex></expan></w> <w lemma="δίδωμι"><expan><abbr rend="supraline"><choice><orig>ε</orig><reg>ἐ</reg></choice></abbr><ex>δόθη</ex></expan></w>
-      <milestone unit="column" n="right"/> <expan><abbr rend="supraline"><choice><orig>ε</orig><reg>ἐ</reg></choice></abbr><ex>κ <!--<persName type="divine" key="God"><name nymRef="Θεός">Θεοῦ</name></persName>--></ex></expan> <persName type="sacred" key="Helena"><name nymRef="Ἐλένη"></name><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἑ</reg></choice></abbr><ex>λένης</ex></expan> </persName>                
+      <milestone unit="column" n="right"/> <expan><abbr rend="supraline"><choice><orig>ε</orig><reg>ἐ</reg></choice></abbr><ex>κ Θεοῦ <!--<persName type="divine" key="God"><name nymRef="Θεός">Θεοῦ</name></persName>--></ex></expan> <persName type="sacred" key="Helena"><name nymRef="Ἐλένη"></name><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἑ</reg></choice></abbr><ex>λένης</ex></expan> </persName>                
 
                         <!--><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἑ</reg></choice></abbr><ex>λένη</ex></expan><w lemma="εὑρίσκω"><expan><abbr rend="supraline">Ε</abbr><ex>ὕρεν</ex></expan></w> 
                     
