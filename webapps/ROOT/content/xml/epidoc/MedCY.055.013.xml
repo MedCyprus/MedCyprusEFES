@@ -65,9 +65,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-013-01.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, scroll</desc></graphic>
-        <graphic rend="primary" url="055-013-02.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription</desc></graphic>
-        <graphic rend="secondary" url="055-013-03.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription</desc></graphic>
+         <graphic url="055-013-02.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription</desc></graphic>
+         <graphic url="055-013-03.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, scroll</desc></graphic>
+        <graphic rend="primary" url="055-013-01.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription (© Department of Antiquities, Cyprus)</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -91,7 +91,7 @@
                 <p>Brothers, I urge you, as foreigners and exiles, to abstain from sinful [desires].</p>
             </div>
             <div type="commentary">
-                <p>Damaged. Lines 8-10 not survived. The words ὑμᾶς, ὡς, παροίκους, παρεπιδήμους, ἀπέχεσθαι are misspelled. The inscription is from Peter's Epistle I, 2:11: Ἀγαπητοί, παρακαλῶ ὡς παροίκους καὶ παρεπιδήμους ἀπἐχεσθαι τῶν σαρκικῶν ἐπιθυμιῶν. However, the incipit Ἀδελφοί, παρακαλῶ ὑμᾶς, originates from Paul's epistles. Text reconstruction was based on the photographs of the Department of Antiquities, Cyprus. </p>
+                <p>Damaged. Lines 8-10 not survived. The words ὑμᾶς, ὡς, παροίκους, παρεπιδήμους, ἀπέχεσθαι are misspelled. The inscription is from Peter's Epistle I, 2:11: Ἀγαπητοί, παρακαλῶ ὡς παροίκους καὶ παρεπιδήμους ἀπἐχεσθαι τῶν σαρκικῶν ἐπιθυμιῶν. However, the incipit Ἀδελφοί, παρακαλῶ ὑμᾶς, originates from Paul's epistles. Text reconstruction was based on the photographs of the Department of Antiquities, Cyprus ©. </p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>
