@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two ruled ochre coloured lines. The inscription is written in majuscule with a sporadic use of minuscule letters (α, ο). Throughout the inscription there are ligatures of the letters ΙΜ, ΑΙ. In line 5 and 7 the ligature ΑΙ is written with a minuscule alpha attached to a long iota. Non systematic use of accents and breathings. Letter height: <height unit="cm">4</height>
+                            <handNote>Black letters against white background between two ruled ochre coloured lines. The inscription is written in majuscule with a sporadic use of minuscule letters (ο, α, ι). Throughout the inscription there are ligatures of the letters ΙΜ, αΙ. In line 5 and 7 the ligature αΙ is written with a minuscule alpha attached to a majuscule iota.There are also superscripts of the letters Φ and Ρ. In line 4) a round omicron attached to nearly round final sigma OC. Sporadic accents and breathings. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -61,7 +61,7 @@
                     <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>Department of Antiquities, Cyprus photograph archival</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -91,7 +91,7 @@
                 <p>Brothers, I urge you, as foreigners and exiles, to abstain from sinful [desires].</p>
             </div>
             <div type="commentary">
-                <p>Damaged. Lines 8-10 not survived. The inscription is from Peter's Epistle I, 2:11: Ἀγαπητοί, παρακαλῶ ὡς παροίκους καὶ παρεπιδήμους ἀπἐχεσθαι τῶν σαρκικῶν ἐπιθυμιῶν. However, the incipit Ἀδελφοί, παρακαλῶ ὑμᾶς, originates from Paul's epistles. The words ὑμᾶς, ὡς, παροίκους, παρεπιδήμους, ἀπέχεσθαι are misspelled.</p>
+                <p>Damaged. Lines 8-10 not survived. The words ὑμᾶς, ὡς, παροίκους, παρεπιδήμους, ἀπέχεσθαι are misspelled. The inscription is from Peter's Epistle I, 2:11: Ἀγαπητοί, παρακαλῶ ὡς παροίκους καὶ παρεπιδήμους ἀπἐχεσθαι τῶν σαρκικῶν ἐπιθυμιῶν. However, the incipit Ἀδελφοί, παρακαλῶ ὑμᾶς, originates from Paul's epistles. Text reconstruction was based on the photographs of the Department of Antiquities, Cyprus. </p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>
