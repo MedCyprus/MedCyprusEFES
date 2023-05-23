@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against ochre background. Majuscule letters. Accents and breathings systematic. 
+                            <handNote>Black letters against ochre background. Majuscule, asymmetrical letters. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -73,7 +73,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="Joseph">Ὁ <name nymRef="'Ἰωσήφ">Ἰοσήφ</name></persName>
+                    <lb n="1"/><persName type="sacred" key="Joseph"><choice><orig>O</orig><reg>Ὁ</reg></choice> <name nymRef="'Ἰωσήφ"><unclear>H</unclear>οσ<choice><orig>η</orig><reg>ή</reg></choice>φ</name></persName>
                 </ab>
             </div>
             <div type="apparatus">
