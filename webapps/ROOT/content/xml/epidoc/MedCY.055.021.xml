@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. The inscription is badly damaged and only the column b with the saint's name has survived. Based on the other inscriptions on the monument, the saint's caption would also be written entirely in majuscule. Thin, simple letters. John is abbreviated Ἰω(άννης) with a big, wavy line above the Ἰω.
+                            <handNote>White letters against red background. Based on the other inscriptions on the monument, the saint's caption would also be written entirely in majuscule. Thin, simple letters. John is abbreviated Ἰω(άννης) with a big, wavy line above the Ἰω. Αccents systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -68,10 +68,7 @@
         <graphic url="055-021-2.jpg"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription detail</desc></graphic>
         <graphic url="055-021-3.jpg"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription detail</desc></graphic>
         <graphic rend="primary" url="055-021-1.jpg"><desc>Naos, dome, south arch, soffit, west half, inscription </desc></graphic>
-        <!--><graphic rend="secondary" url="055-021-2.jpg"><desc>Naos, dome, south arch, soffit, west half, inscription detail</desc></graphic>
-        <graphic rend="tertiary" url="055-021-3.jpg"><desc>Naos, dome, south arch, soffit, west half, inscription detail</desc></graphic>-->
-
-    </facsimile>
+  </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
@@ -84,7 +81,7 @@
                     <cb n="b"/>
                     <lb n="1"/><name nymRef="Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>
                     <lb n="2"/>ὁ
-                     <lb n="3"/><addName type="epithet" key="of the Ladder">τῆς
+                     <lb n="3"/><addName type="epithet" key="of the Ladder">τ<choice><orig>η</orig><reg>ῆ</reg></choice>ς
                      <lb n="4"/><w lemma="κλῖμαξ">κλί
                      <lb n="5" break="no"/>μα
                      <lb n="6" break="no"/>κος</w></addName>
