@@ -65,7 +65,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="055-013-01.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription (© Department of Antiquities, Cyprus)</desc></graphic>
+        <graphic rend="primary" url="055-013-001.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription (© Department of Antiquities, Cyprus)</desc></graphic>
             <graphic url="055-013-02.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription</desc></graphic>
         <graphic url="055-013-03.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, scroll</desc></graphic>
         
@@ -80,7 +80,7 @@
                     <lb n="4"/>ος <w lemma="πάροικος">παρι<unclear>κου</unclear><supplied reason="lost">ς</supplied></w>
                     <lb n="5"/>κα<choice><orig>ι</orig><reg>ὶ</reg></choice> <w lemma="παρεπίδημος">παρα<supplied reason="lost">ι</supplied>
                     <lb n="6" break="no"/>πιδ<hi rend="ligature"><choice><orig>η</orig><reg>ή</reg></choice>μ</hi><supplied reason="lost">ους</supplied></w>
-                    <lb n="7"/><w lemma="ἀπέχω"><choice><orig>α</orig><reg>ἀ</reg></choice>π<choice><orig>ε</orig><reg>έ</reg></choice>χαι<unclear>σθ</unclear><supplied reason="lost">αι</supplied></w>
+                    <lb n="7"/><w lemma="ἀπέχω"><choice><orig>α</orig><reg>ἀ</reg></choice>πέχαι<unclear>σθ</unclear><supplied reason="lost">αι</supplied></w>
                     <lb n="8"/><supplied reason="lost">τ</supplied>ων <w lemma="σαρκικός">σαρ<unclear>κ</unclear><supplied reason="lost">ι</supplied>
                     <lb n="9" break="no"/><supplied reason="lost">κ</supplied><choice><orig><unclear>ω</unclear></orig><reg><unclear>ῶ</unclear></reg></choice>ν</w>
                 </ab>
