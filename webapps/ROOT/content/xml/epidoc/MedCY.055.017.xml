@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two ruled ochre coloured lines. The inscription is written in majuscule letters, except the α from the ligature ΑΙ. Sporadic accents. In the middle of the horizontal bar of Π letter, there is a short, thin line, very frequent in Sotera. Round omicron attached to nearly round final sigma. Letter height: <height unit="cm">4</height>
+                            <handNote>Black letters against white background between two ruled ochre coloured lines. The inscription is written in majuscule letters, except the α from the ligature αΙ. Accents and breathings systematic. In the middle of the horizontal bar of Π letter, there is a short, thin line, very frequent in Sotera. Round omicron attached to nearly round final sigma. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -73,7 +73,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                   <lb n="1"/>Ἡ <persName type="sacred" key="Virgin"><w lemma="Παρθένος">παρθαί
-                  <lb n="2" break="no"/>νος</w></persName> <w lemma="σήμερον"><expan><abbr rend="supraline">σύμ<hi rend="ligature">αι</hi></abbr><ex>ρον</ex></expan></w>
+                  <lb n="2" break="no"/>νος</w></persName> <w lemma="σήμερον">σύμ<hi rend="ligature">αι</hi></w>
                 </ab>
             </div>
             <div type="apparatus">
