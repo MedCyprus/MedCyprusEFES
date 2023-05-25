@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ioannis Moutoullas First Inscription</title>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.043.020</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>                    
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>                        
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <objectType>Painted inscription</objectType>
+                                    <rs type="placement">Bema, north wall, upper register</rs>
+                                    <dimensions unit="cm"><height>?</height><width>?</width></dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>description of text field/campus</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Black letters against yellow background <height unit="cm">?</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Moutoullas">Moutoullas, Panagia Church</origPlace>
+                            <origDate when="1280-07-30" evidence="internal-date">July 30, 1280</origDate>
+                        </origin>                        
+                        <provenance type="observed">Modern location(s) (if different from repository, above)
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#...">...</term>
+                </keywords>
+            </textClass>
+            <creation>...</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="..."/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/><g ref="#cross">+</g><supplied reason="lost">Ἀνοικο</supplied>δο<unclear>μ</unclear><supplied reason="lost">ήθη ο θείος και πα</supplied>
+<lb n="2" break="no"/><choice><corr>ν</corr><sic>σ</sic></choice>σεπτος ναο<unclear>ς</unclear><supplied reason="lost"> της <addName type="epithet" key="hyperagia">υπεραγίας</addName></supplied> 
+<lb n="3"/><addName type="epithet" key="despoina">δεσπ<supplied reason="omitted">o</supplied>ίνης</addName> η<unclear>μ</unclear><supplied reason="lost">ων <persName type="sacred" key="Theotokos">θεοτοκου</persName> δια</supplied>
+<lb n="4"/>σ<choice><corr>υν</corr><sic>η</sic></choice>δρομης: και πο<unclear>λ</unclear><supplied reason="lost">λου</supplied> <unclear>π</unclear><choice><corr>ο</corr><sic>ω</sic></choice> 
+<lb n="5" break="no"/>θου <persName type="attested" role="founder" ref="#IoannesGerakiotes"><name nymRef="Ἰωάννης" type="forename"><expan><abbr>Ιω</abbr><ex>αννου</ex></expan></name>: του <name nymRef="Γερακιώτης" type="surname"><del rend="erasure">
+Γερακ<supplied reason="lost">ιώτη</supplied></del></name> <name nymRef="Μουτουλλάς" type="surname"><add><supplied reason="lost">Μουτου</supplied>λλα</add></name></persName> κ<choice><corr>αι</corr><sic>ε</sic></choice>  ​
+<lb n="6"/>τη<supplied reason="omitted">ς</supplied> σ<choice><corr>υμ</corr><sic><hi rend="ligature">ην</hi></sic></choice>βίου αὑτου: <persName type="attested" role="founder" ref="#Eirene"><name nymRef="Εἰρήνη" type="forename"><choice><corr>Εἰρή</corr><sic>Ϊρί</sic></choice>νης</name></persName>  
+<lb n="7"/>μ<choice><corr>η</corr><sic>ι</sic></choice>νι Ϊουλίω εις τ(ας)·<num value="30"><unclear>λ</unclear></num>·ἔτους ̧<num value="6788"><hi rend="ligature">&#x03DB;</hi>ψ<unclear>πη</unclear></num>
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
