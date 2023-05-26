@@ -1691,9 +1691,11 @@
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Single-aisled cross-in-square church with dome, on the ruins of an early Christian basilica</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1269" notAfter="1300" precision="medium">Last third 13th century</date></desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date></desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1801" notAfter="1900" precision="medium">19th century</date></desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="0701" notAfter="0800" precision="low">Pending</date></desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1234" precision="low">Pending</date></desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1269" notAfter="1300" precision="medium">Last third 13th century</date>(bema [prothesis: disk with asterisk], naos)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date>(bema [prothesis: figure in/and the chalice], naos: northeastern small recess)</desc>
+                        <desc type="layer" n="5">5th layer: <date notBefore="1801" notAfter="1900" precision="medium">19th century</date>(bema [prothesis: Christ's humiliation])</desc>
                     </desc>
                     <desc type="conservation">Poor condition. Partially preserved</desc>
                     <desc type="donors">Uknown</desc>
