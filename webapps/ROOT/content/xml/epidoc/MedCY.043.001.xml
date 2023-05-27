@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Virgin Blachernitissa </title>
+                 <author xml:id="tp">Theocharis Petrou</author> 
+                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.043.001</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>                       
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                    <rs type="placement-building" ref="#bema">Bema, semidome</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>On either side of the Virgin</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>White letters against blue background.The inscription is written entirely in majuscule. The words Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, wavy line above each word. There is a ligature of the letters ΜΗΡ.  Mu, with its middle bar split into two parts, the upper part in the shape of an upsilon above a iota-shaped element with a dot at the top. Letter hieght: <height unit="cm">7,5-8</height>
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <p>... <rs type="iconography" ref="iconography.xml#virgin">Virgin</rs></p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Moutoullas">Moutoullas, Panagia Church</origPlace>
+                            <origDate when="1280" evidence="internal-date">1280</origDate>
+                        </origin>                        
+                        <provenance when="2022">
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">22/09/2022</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc8">Sigla</term>
+                </keywords>
+            </textClass>
+            <creation>...</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic rend="primary" url="043-001-01.jpg"><desc>Bema, semidome, inscription </desc></graphic>
+        <graphic url="043-001-02.jpg"><desc>Bema, semidome, inscription detail</desc></graphic>
+        <graphic url="043-001-03.jpg"><desc>Bema, semidome, inscription detail</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/><milestone unit="column" n="left"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><expan><abbr rend="supraline"><hi rend="ligature">Μή</hi></abbr><ex>τη</ex><abbr rend="supraline"><hi rend="ligature">ρ</hi></abbr></expan></w>
+                    <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex>ῦ</expan></persName>                       
+                 </ab>
+            </div>
+            <div type="apparatus">
+               <p>n/a</p>
+            </div>
+            <div type="translation">
+                <p>Mother of God</p>
+            </div>
+            <div type="commentary">
+                <p>Good condition</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
