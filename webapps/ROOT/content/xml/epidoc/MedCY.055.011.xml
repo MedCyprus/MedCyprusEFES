@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two ruled ochre coloured lines. The inscription is written in majuscule with a sporadic use of minuscule letters (ι, α, γ, ο). There are also superscripts of the letters Ν, T, Ι. Throughout the inscription there are ligatures of the letters αΙ, Τη, ΝΗΠ, τι, Το. In line 3 the ligature αΙ is written with a minuscule alpha attached to a majuscule iota. Mu in l. 4, with middle bar split into two parts, the upper part in the shape of an upsilon ending on a dot above a iota-shaped element; wide omega with crosslet in l. 9; use of diaeresis over iota in "παντὶ" (l. 5). Almost systematic use of accents and breathings. Double point after "Ἀδελφοί" and after "ἀγαθόν". Letter height: <height unit="cm">4-5</height>
+                            <handNote>Black letters against white background between two ruled ochre coloured lines. The inscription is written in majuscule with a sporadic use of minuscule letters (ι, α, γ, ο). There are also superscripts of the letters Ν, T, Ι. Throughout the inscription there are ligatures of the letters αΙ, ΤH, ΝΗΠ, τι, Το. In line 3 the ligature αΙ is written with a minuscule alpha attached to a majuscule iota. Mu in l. 4, with middle bar split into two parts, the upper part in the shape of an upsilon ending on a dot above a iota-shaped element; wide omega with crosslet in l. 9; use of diaeresis over iota in "παντὶ" (l. 5). Almost systematic use of accents and breathings. Double point after Ἀδελφοί and after ἀγαθόν. Letter height: <height unit="cm">4-5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -84,7 +84,7 @@
                     <lb n="6"/>τ<choice><orig>ο</orig><reg>ο̃ͅ</reg></choice> <w lemma="ἐργάζομαι">ἐργαζο
                     <lb n="7" break="no"/>μέν<choice><orig>ο</orig><reg>οͅ</reg></choice></w>
                     <lb n="8"/><hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi> <w lemma="ἀγαθός"><choice><orig>ἁ</orig><reg>ἀ</reg></choice>γα
-                    <lb n="9" break="no"/>θῶν</w>:
+                    <lb n="9" break="no"/>θ<choice><orig>ῶ</orig><reg>ώ</reg></choice>ν</w>:
                     <lb n="10"/><g ref="#cross">+</g><g ref="#cross">+</g>
                 </ab>
             </div>
