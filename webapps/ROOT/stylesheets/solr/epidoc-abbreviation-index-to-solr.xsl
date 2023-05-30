@@ -15,7 +15,7 @@
     <xsl:template match="/">
         <add>
             <xsl:for-each-group select="//tei:expan[ancestor::tei:div/@type='edition']" 
-                group-by="concat(string-join(.//tei:abbr//text()[not(parent::tei:reg)],''),'-',string-join(.//text()[not(parent::tei:reg)][not(ancestor::tei:am)],''))">
+                group-by="concat(string-join(.//tei:abbr//text()[not(parent::tei:reg)],''),'-',string-join(.//text()[not(parent::tei:orig)][not(ancestor::tei:am)],''))">
                 <doc>
                     <field name="document_type">
                         <xsl:value-of select="$subdirectory" />
