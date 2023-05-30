@@ -15,7 +15,7 @@
     <xsl:template match="/">
         <add>
             <xsl:for-each-group select="//tei:expan[ancestor::tei:div/@type='edition']" 
-                group-by="concat(string-join(string-join(.//tei:abbr//text()[not(parent::tei:reg)],''), ''),'-',string-join(.//text()[not(parent::tei:reg)],''))">
+                group-by="concat(string-join(.//tei:abbr//text()[not(parent::tei:reg)],''),'-',string-join(.//text()[not(parent::tei:reg)][not(ancestor::tei:am)],''))">
                 <doc>
                     <field name="document_type">
                         <xsl:value-of select="$subdirectory" />
@@ -25,10 +25,10 @@
                     </field>
                     <xsl:call-template name="field_file_path" />
                     <field name="index_item_name">
-                        <xsl:value-of select="string-join(.//tei:abbr, '')" />
+                        <xsl:value-of select="substring-before(current-grouping-key(),'-')" />
                     </field>
                     <field name="index_abbreviation_expansion">
-                        <xsl:value-of select=".//text()[not(ancestor::tei:am)]"/>
+                        <xsl:value-of select="substring-after(current-grouping-key(),'-')"/>
                     </field>
                     <xsl:apply-templates select="current-group()" />
                 </doc>
