@@ -15,7 +15,7 @@
     <xsl:template match="/">
         <add>
             <xsl:for-each-group select="//tei:hi[@rend='ligature'][ancestor::tei:div/@type='edition']" 
-                group-by="lower-case(translate(normalize-unicode(normalize-space(.[not(parent::tei:reg)]),'NFD'),'&#x0300;&#x0301;&#x0308;&#x0313;&#x0314;&#x0342;&#x0345; ',''))">
+                group-by="lower-case(translate(normalize-unicode(normalize-space(string-join(.//text()[not(parent::tei:reg)],'')),'NFD'),'&#x0300;&#x0301;&#x0308;&#x0313;&#x0314;&#x0342;&#x0345; ',''))">
                 <doc>
                     <field name="document_type">
                         <xsl:value-of select="$subdirectory" />
