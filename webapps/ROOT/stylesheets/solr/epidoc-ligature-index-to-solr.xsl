@@ -15,7 +15,7 @@
     <xsl:template match="/">
         <add>
             <xsl:for-each-group select="//tei:hi[@rend='ligature'][ancestor::tei:div/@type='edition']" 
-                group-by="normalize-space(.)">
+                group-by="lower-case(translate(normalize-unicode(normalize-space(.),'NFD'),'&#x0300;&#x0301;&#x0308;&#x0313;&#x0314;&#x0342;&#x0345; ',''))">
                 <doc>
                     <field name="document_type">
                         <xsl:value-of select="$subdirectory" />
@@ -25,7 +25,7 @@
                     </field>
                     <xsl:call-template name="field_file_path" />
                     <field name="index_item_name">
-                        <xsl:value-of select="."/>
+                        <xsl:value-of select="current-grouping-key()"/>
                     </field>
                     <!--<field name="index_ligature">
                         <xsl:value-of select=".//text()[not(ancestor::tei:am)]"/>
