@@ -14,6 +14,7 @@
     <item label="Greek Words" match="local-index-display-html" params="epidoc lemma"/>
     <item label="Abbreviations" match="local-index-display-html" params="epidoc abbreviation"/>
     <!--<item label="Fragments" match="local-index-display-html" params="epidoc fragment"/>-->
+    <item label="Ligatures" match="local-index-display-html" params="epidoc ligature"/>
     <item label="Numerals" match="local-index-display-html" params="epidoc numeral"/>
     <item label="Personal Names" match="local-index-display-html" params="epidoc person_name"/>
     <item label="Persons Attested" match="local-index-display-html" params="epidoc persons"/> 
