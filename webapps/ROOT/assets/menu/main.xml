@@ -11,20 +11,22 @@
   <menu label="Inscriptions" match="local-epidoc-index-display"
         i18n:key="menu-inscriptions" />
   <menu label="Indices" match="local-indices-type-display" params="epidoc">
-    <item label="Greek Words" match="local-index-display-html" params="epidoc lemma"/>
     <item label="Abbreviations" match="local-index-display-html" params="epidoc abbreviation"/>
+    <item label="Epithets" match="local-index-display-html" params="epidoc epithets"/>
+    <item label="Greek Words" match="local-index-display-html" params="epidoc lemma"/>
+    <item label="Iconography" match="local-index-display-html" params="epidoc iconography"/> 
     <!--<item label="Fragments" match="local-index-display-html" params="epidoc fragment"/>-->
-    <item label="Ligatures" match="local-index-display-html" params="epidoc ligature"/>
+    <item label="Ligatures" match="local-index-display-html" params="epidoc ligature"/> 
+    <item label="Locations" match="local-index-display-html" params="epidoc locations"/>
     <item label="Numerals" match="local-index-display-html" params="epidoc numeral"/>
+    <item label="Offices, Dignities, Honorifics and Occupations" match="local-index-display-html" params="epidoc offices" />
     <item label="Personal Names" match="local-index-display-html" params="epidoc person_name"/>
     <item label="Persons Attested" match="local-index-display-html" params="epidoc persons"/> 
-    <item label="Sacred Entities and Saints" match="local-index-display-html" params="epidoc divine"/>
-    <item label="Epithets" match="local-index-display-html" params="epidoc epithets"/>
-    <item label="Offices, Dignities, Honorifics and Occupations" match="local-index-display-html" params="epidoc offices" />
     <item label="Place Names" match="local-index-display-html" params="epidoc mentioned_places"/> 
+    <item label="Sacred Entities and Saints" match="local-index-display-html" params="epidoc divine"/>
     <item label="Symbols" match="local-index-display-html" params="epidoc symbol"/>
-    <item label="Iconography" match="local-index-display-html" params="epidoc iconography"/>
-    <item label="Locations" match="local-index-display-html" params="epidoc locations"/>
+   
+   
   <!--<item label="Words" match="local-index-display-html" params="epidoc word"/>-->
   </menu>
   <menu label="Bibliographic concordances" i18n:key="menu-concordance-bibliography" match="local-concordance-bibliography"/>
