@@ -66,14 +66,14 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-003-01.jpg"><desc>Bema, semidome, inscription </desc></graphic>
-        <graphic url="043-003-02.jpg"><desc>Bema, semidome, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-003-01.jpg"><desc>Bema, semidome, inscription detail </desc></graphic>
+        <graphic url="043-003-02.jpg"><desc>Bema, semidome, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="sacred" key="Michael"><name nymRef ="Ἀρχάγγελος Μιχαήλ"> Ὁ <expan><abbr rend="supraline"><hi rend="ligature">ἀρ</hi>χ</abbr><ex>άγγελος</ex></expan> <expan><abbr rend="supraline">Μι</abbr><ex>χαήλ</ex></expan></name></persName>                    
+                    <lb n="1"/><persName type="sacred" key="Michael"><name nymRef ="Ἀρχάγγελος Μιχαήλ"> Ὁ <w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><hi rend="ligature">ἀρ</hi>χ</abbr><ex>άγγελος</ex></expan></w> <expan><abbr rend="supraline">Μι</abbr><ex>χαήλ</ex></expan></name></persName>                    
                  </ab>
             </div>
             <div type="apparatus">
@@ -92,7 +92,6 @@
                 <bibl><ptr target="Papageorgiou2003"/>,<citedRange> 113</citedRange></bibl>
                 <bibl><ptr target="Rhoby2009"/>,<citedRange> 334, 341</citedRange></bibl>
                 <bibl><ptr target="PerdikisMyrianthefs2011"/></bibl>
-                <!-- How do we write specific pages of each bibliography reference? I tried this: <bibl><ptr target="#Chotzakoglou2005"/>,<citedRange>596</citedRange></bibl>but it shows me also the whole pages of the reference -->
                 <bibl><ptr target="VisCult"/><citedRange> 2, 1480-7</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
