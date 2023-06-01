@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Mi with its middle bar forming a tau. Letters ΑΡ in ligature. Big, wavy line above the abbreviations ἀρχάγγελος and Μιχαήλ. Accents and breathings systematic. Letter height: <height unit="cm">2-4</height>
+                            <handNote>White letters against blue background. Majuscule letters. Mu with its middle bar forming a tau. Letters ΑΡ in ligature. Big, wavy line above the abbreviations ἀρχάγγελος and Μιχαήλ. Accents and breathings systematic. Letter height: <height unit="cm">2-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -73,7 +73,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="sacred" key="Michael"><name nymRef ="Ἀρχάγγελος Μιχαήλ"> Ὁ <expan><abbr rend="supraline">ἀρχ</abbr><ex>άγγελος</ex></expan> <expan><abbr rend="supraline">Μι</abbr><ex>χαήλ</ex></expan></name></persName>                    
+                    <lb n="1"/><persName type="sacred" key="Michael"><name nymRef ="Ἀρχάγγελος Μιχαήλ"> Ὁ <expan><abbr rend="supraline"><hi rend="ligature">ἀρ</hi>χ</abbr><ex>άγγελος</ex></expan> <expan><abbr rend="supraline">Μι</abbr><ex>χαήλ</ex></expan></name></persName>                    
                  </ab>
             </div>
             <div type="apparatus">
