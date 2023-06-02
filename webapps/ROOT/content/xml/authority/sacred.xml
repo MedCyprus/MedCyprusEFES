@@ -161,7 +161,7 @@
                 <person xml:id="JohnChrysostom">
                     <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰωάννης</persName>
                     <persName xml:lang="en">John Chrysostom, saint</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="John Chrysostom">ὁ Χρυσόστομος</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JohnChrysostom">ὁ Χρυσόστομος</persName>
                     <persName xml:lang="en" type="epithet" subtype="JohnChrysostom">Chrysostom</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43706</idno>                   
                 </person>
@@ -181,7 +181,6 @@
                     <persName xml:lang="en">Joseph, saint</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q128267</idno>                   
                 </person>
-                
                 
                 <person xml:id="Lord">
                     <persName xml:lang="grc">Κύριος</persName>
