@@ -161,7 +161,7 @@
                 <person xml:id="JohnChrysostom">
                     <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰωάννης</persName>
                     <persName xml:lang="en">John Chrysostom, saint</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="JohnChrysostom">ὁ Χρυσόστομος</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="John Chrysostom">ὁ Χρυσόστομος</persName>
                     <persName xml:lang="en" type="epithet" subtype="JohnChrysostom">Chrysostom</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43706</idno>                   
                 </person>
@@ -244,7 +244,7 @@
                     <note>See also: Theotokos, Virgin, Maria</note>
                 </person>
                 
-                <person xml:id="michael">
+                <person xml:id="Michael">
                     <persName xml:lang="grc"><seg>Ἀρχάγγελος</seg> Μιχαήλ</persName>
                     <persName xml:lang="en">Michael, archangel</persName>   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q45581</idno>                   
