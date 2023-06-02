@@ -151,7 +151,7 @@
                 </person>
                 
                 <person xml:id="JohnClimacus">
-                    <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰωάννης</persName>
+                    <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰωάννης τῆς Κλίμακος</persName>
                     <persName xml:lang="en">John Climacus, saint</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="JohnClimacus">τῆς Κλίμακος</persName>
                     <persName xml:lang="en" type="epithet" subtype="JohnClimacus">of the Ladder</persName>
@@ -159,7 +159,7 @@
                 </person>
                 
                 <person xml:id="JohnChrysostom">
-                    <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰωάννης</persName>
+                    <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰωάννης ὁ Χρυσόστομος</persName>
                     <persName xml:lang="en">John Chrysostom, saint</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="JohnChrysostom">ὁ Χρυσόστομος</persName>
                     <persName xml:lang="en" type="epithet" subtype="JohnChrysostom">Chrysostom</persName>
@@ -167,7 +167,7 @@
                 </person>
                 
                 <person xml:id="JohnTheologian">
-                    <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰωάννης</persName>
+                    <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰωάννης ὁ Θεολόγος</persName>
                     <persName xml:lang="en">John the Theologian, saint</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="JohnTheologian" key="Theologian">ὁ Θεολόγος</persName>
                     <persName xml:lang="en" type="epithet" subtype="JohnTheologian" key="Theologian">Theologian</persName>
