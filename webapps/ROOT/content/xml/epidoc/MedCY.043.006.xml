@@ -77,7 +77,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                    <lb n="1"/> Ὁ <persName type="divine" key="God"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></persName>                   <lb n="2"/><choice><orig>ο</orig><reg>ὁ</reg></choice> <persName type="divine" key="God"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></persName> <w lemma="ἐγώ"><expan><abbr rend="supraline"><hi rend="ligature">ἡμ</hi>ῶ</abbr><ex>ν</ex></expan></w>
-                    <lb n="3"/>ὁ τὼν <w lemma="οὐρἀνιος">ο<choice><orig>ὑ</orig><reg>ὐ</reg></choice>
+                    <lb n="3"/>ὁ τ<choice><orig>ώ</orig><reg>ῶ</reg></choice>ν <w lemma="οὐρἀνιος">ο<choice><orig>ὑ</orig><reg>ὐ</reg></choice>
                     <lb n="4" break="no"/>ράνιων </w>
                     <lb n="5"/><w lemma="ἄρτος"><choice><orig>ά</orig><reg>ἄ</reg></choice>ρτων</w> <hi rend="ligature">τ<choice><orig>η</orig><reg>ὴ</reg></choice></hi>ν 
                     <lb n="6"/><w lemma="τροφή"><expan><abbr rend="supraline">τροφ</abbr><ex>ὴν</ex></expan></w>
