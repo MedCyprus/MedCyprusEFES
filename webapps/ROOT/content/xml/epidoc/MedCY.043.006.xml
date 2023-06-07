@@ -29,7 +29,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, north half, 1st figure from the right</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>29,5</height><width>9</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>38,5</height><width>11,5</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. The inscription is written entirely in majuscule with the size of some characters varying. Superscripts letters. In line 1, round omicron with four semicylindrical dots stuck on its walls forming an abstract cross; theta with crosslet attached to nearly round sigma; omega with crosslet. Letters HM, ΗΝ in ligatures. Mi with its middle bar forms an ypsilon with a dot at the top of its vertical line. Horizontal wavy line above the abbreviations of Θ(εό)ς. Accents and breathings systematic. Text between two ruled ochre coloured lines. Letter height: <height unit="cm">3-4</height>
+                            <handNote>Black letters against white background. The inscription is written entirely in majuscule with the size of some characters varying. Superscripts letters. In line 1, round omicron with four semicylindrical dots stuck on its walls forming an abstract cross; theta with crosslet attached to nearly round sigma; omega with crosslet. Letters HM, ΗΝ in ligatures. Mu with its middle bar forms an ypsilon with a dot at the top of its vertical line. Horizontal wavy line above the abbreviations of Θ(εό)ς. Accents and breathings systematic. Text between two ruled ochre coloured lines. Letter height: <height unit="cm">3-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
