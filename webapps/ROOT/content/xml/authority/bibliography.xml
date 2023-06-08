@@ -202,7 +202,7 @@
                     
                     <bibl xml:id="Perdiki2014b"><title type="short">Perdiki 2014b</title> <author><surname>Perdiki</surname> <forename>O.</forename></author>, <date>2014</date>, <title level="a">Ο τοιχογραφικός διάκοσμος του ναού της Παναγίας στην Κοφίνου</title>, in <title level="m">Ευμάθιος Φιλοκάλης. Ανάδειξη βυζαντινών μνημείων Κρήτης και Κύπρου</title>, ed.<editor> <forename>E.</forename> <surname>Procopiou</surname></editor> and <editor><forename>N.</forename> <surname>Pyrrou</surname></editor>, <pubPlace>Rethymno</pubPlace>, <biblScope unit="page">250-65</biblScope>.</bibl>
                     
-                    <bibl xml:id="PerdikisMyrianthefs2011"><author><surname>Perdikis</surname> <forename>S.</forename></author> and <author><surname>Myrianthefs</surname> <forename>D.</forename></author>, <date>2011</date>, <title level="m">The Church of the Holy Virgin in Moutoullas</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
+                    <bibl xml:id="PerdikisMyrianthefs2009"><author><surname>Perdikis</surname> <forename>S.</forename></author> and <author><surname>Myrianthefs</surname> <forename>D.</forename></author>, <date>2009</date>, <title level="m">Ο ναός της Παναγίας στον Μουτουλλά</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
                     
                     <bibl xml:id="Philotheou2000"><author><surname>Philotheou</surname> <forename>G.</forename></author>, <date>2000</date>, <title level="a">Η μνημειακή ζωγραφική στην περιοχή της μητροπολιτικής περιφέρειας Μόρφου</title>, in <title level="m">Ιερά Μητρόπολις Μόρφου. 2000 Χρόνια Τέχνης και Αγιότητος</title>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">109-26</biblScope>.</bibl>
                     
@@ -356,7 +356,7 @@
             
             <bibl copyOf="#Perdiki2014b"></bibl>
             
-            <bibl copyOf="#PerdikisMyrianthefs2011"></bibl>
+            <bibl copyOf="#PerdikisMyrianthefs2009"></bibl>
             
             <bibl xml:id="Rhoby2009"><author><surname>Rhoby</surname> <forename>A.</forename></author>, <date>2009</date>, <title>Byzantinische Epigramme auf Fresken und Mosaiken</title> (Byzantinische Epigramme in Inschriftlicher Überlieferung 1), <pubPlace>Vienna</pubPlace>. </bibl>
             
