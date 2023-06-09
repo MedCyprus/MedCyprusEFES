@@ -49,7 +49,7 @@
                     <persName xml:lang="en" type="epithet" subtype="Christ" key="SonofGod">Son of God</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q642420</idno>
                     <!--This is very tricky. Jesus and Christ, together or separately? Or, together AND separately, depending on the content of the inscriptions. How about Son of God? Name or epithet?-->
-                    <note>See also: Jesus Christ, Word</note>
+                    <note>See also: Jesus Christ, Word, Master</note>
                 </person>
                 
                 <person sameAs="#JesusChrist"><persName>Christ</persName></person>
@@ -126,7 +126,7 @@
                     <persName xml:lang="en" type="epithet" subtype="God" key="Lord">Lord</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q825</idno>                   
                     <!--What do we do with Lord? It also occurs on its own, but it also occurs as Lord God - Kyrios o Theos-->
-                    <note>See also: Christ, Jesus Christ, Lord, Trinity, Word</note>
+                    <note>See also: Christ, Jesus Christ, Lord, Trinity, Word, Master</note>
                 </person>
                 
                 <person xml:id="GregoryNazianzenos">
@@ -186,7 +186,7 @@
                     <persName xml:lang="grc">Κύριος</persName>
                     <persName xml:lang="en">Lord</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q12826225</idno>              
-                    <note>See also: Christ, God, Jesus Christ, Trinity, Word</note>
+                    <note>See also: Christ, God, Jesus Christ, Trinity, Word, Master</note>
                 </person>
                 
                 <person xml:id="JesusChrist">
@@ -196,7 +196,7 @@
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="SonofGod">Son of God</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q302</idno>
                     <!--This is very tricky. Jesus and Christ, together or separately? Or, together AND separately, depending on the content of the inscriptions. How about Son of God? Name or epithet?-->
-                    <note>See also: Christ, Word</note>
+                    <note>See also: Christ, Word, Master</note>
                 </person>
                 
                 <person xml:id="Mamas">
@@ -226,6 +226,13 @@
                     <persName xml:lang="grc" type="epithet" subtype="Mark" key="Evangelist">ὁ Εὐαγγελιστῆς</persName>
                     <persName xml:lang="en" type="epithet" subtype="Mark" key="Evangelist">Evangelist</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q31966</idno>                   
+                </person>
+                
+                <person xml:id="Master">
+                    <persName xml:lang="grc">Δέσποτας</persName>
+                    <persName xml:lang="en">Master</persName>
+                    <idno type="wikidata">not listed</idno>                   
+                    <note>See also: Christ, Jesus Christ, Lord, Trinity, Word</note>
                 </person>
                 
                 <person xml:id="Matthew">
