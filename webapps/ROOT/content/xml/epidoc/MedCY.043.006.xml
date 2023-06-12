@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, north half, 1st figure from the right</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, north half, 1st figure to the right</rs>
                                     <dimensions unit="cm" scope="text"><height>29,5</height><width>9</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>38,5</height><width>11,5</width></dimensions>
                                 </support>
@@ -69,9 +69,9 @@
     <facsimile>
          <graphic rend="primary" url="043-006-1.jpg"><desc>Bema, semicylindrical wall, north half, 1st figure from the right, inscription</desc></graphic>
         <graphic url="043-006-02.jpg"><desc>Bema, semicylindrical wall, north half, 1st figure from the right, inscription</desc></graphic>
-        <graphic url="043-006-03.jpg"><desc>Bema, semicylindrical wall, north half, 1st figure from the right, inscription detail</desc></graphic>
-        <graphic url="043-006-04.jpg"><desc>Bema, semicylindrical wall, north half, 1st figure from the right, inscription detail</desc></graphic>
-        <graphic url="043-006-05.jpg"><desc>Bema, semicylindrical wall, north half, 1st figure from the right, inscription detail</desc></graphic>
+        <graphic url="043-006-03.jpg"><desc>Bema, semicylindrical wall, north half, 1st figure to the right, inscription detail</desc></graphic>
+        <graphic url="043-006-04.jpg"><desc>Bema, semicylindrical wall, north half, 1st figure to the right, inscription detail</desc></graphic>
+        <graphic url="043-006-05.jpg"><desc>Bema, semicylindrical wall, north half, 1st figure to the right, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
