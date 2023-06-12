@@ -77,11 +77,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>Pending
-                    <lb n="1"/>Δέσπο-
-                    <lb n="2"/>τα Κ(ύρι)ε ὁ 
+                    <lb n="1"/>Δέσπο
+                    <lb n="2" break="no"/>τα Κ(ύρι)ε ὁ 
                     <lb n="3"/>Θ(εό)ς ἡμῶν,
-                    <lb n="4"/> ὁ κατα-
-                    <lb n="5"/>στήσας 
+                    <lb n="4"/> ὁ κατα
+                    <lb n="5" break="no"/>στήσας 
                     <lb n="6"/>ἐν οὐρα
 
                    <!--<lb n="1"/> Ὁ <persName type="divine" key="God"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></persName>                   <lb n="2"/><choice><orig>ο</orig><reg>ὁ</reg></choice> <persName type="divine" key="God"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></persName> <w lemma="ἐγώ"><expan><abbr rend="supraline"><hi rend="ligature">ἡμ</hi>ῶ</abbr><ex>ν</ex></expan></w>
