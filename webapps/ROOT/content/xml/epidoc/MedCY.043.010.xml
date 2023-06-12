@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saint Nicholas's scroll</title>
+                 <author xml:id="tp">Theocharis Petrou</author> 
+                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.043.010</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>                       
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, north half, 1st figure from the left</rs>
+                                    <dimensions unit="cm" scope="text"><height>29,5</height><width>8,5</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>38</height><width>12</width></dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>The inscription appears on the open scroll held in both hands by the co-officiating prelate.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Black letters against white background. The inscription is written entirely in majuscule. Superscript nu in line 3.
+                      Mu in line 2 with its middle bar forms an upsilon with dot at the top of its vertical line.
+                      Letters HM, ΤO in ligatures. 
+                      Horizontal wavy line above the abbreviations of Κ(ύρι)ε and Θ(εό)ς. The letters size in the last line is smaller and varies than the rest of the letters of the inscription due to lack of space. Accents and breathings systematic. Text between two ruled ochre coloured lines. Letter height: <height unit="cm">3,5-4,5</height>
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <p>... <rs type="iconography" ref="iconography.xml#Nicholas">Nicholas</rs></p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Moutoullas">Moutoullas, Panagia Church</origPlace>
+                            <origDate when="1280-07-30" precision="high">July 30, 1280</origDate>
+                        </origin>                        
+                        <provenance when="2022">
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">22/09/2022</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc8">Liturgical citation</term>
+                </keywords>
+            </textClass>
+            <creation>...</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic rend="primary" url="043-008-01.jpg"><desc>Bema, semicylindrical wall, north half, 1st figure from the left, inscription</desc></graphic>
+        <graphic url="043-008-02.jpg"><desc>Bema, semicylindrical wall, north half, 1st figure from the left, inscription detail</desc></graphic>
+        <graphic url="043-008-03.jpg"><desc>Bema, semicylindrical wall, north half, 1st figure from the left, inscription detail</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>Pending
+                    <lb n="1"/>Κ(ύρι)ε ὁ Θ(εό)ς 
+                    <lb n="2"/>ἡμῶν
+                    <lb n="3"/>σῶσον 
+                    <lb n="4"/>τὸν ναα-
+                    <lb n="5" break="no"/>όν σου 
+                    <lb n="6"/>κε εὐλόγι
+
+                    <!--><lb n="1"/><persName type="divine" key="Master"><name nymRef="Δεσπότης"><w lemma="Δεσπότης">Δ<choice><orig>ὲ</orig><reg>έ</reg></choice>σπ
+                    <lb n="2" break="no"/>τα·</w></name></persName> <persName type="divine" key="Lord"><name nymRef="Κύριος"></name><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύρι</ex><abbr rend="supraline">ε</abbr></expan></w></persName> ὁ 
+                    <lb n="3"/><persName type="divine" key="God"><name nymRef="Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></w></persName> <w lemma="ἐγώ"><hi rend="ligature">ἡμ</hi><choice><orig>ὼ</orig><reg>ῶ</reg></choice>ν</w>
+                    <lb n="4"/> ὁ <w lemma="καθίστημι">κατα
+                    <lb n="5" break="no"/>σ<hi rend="ligature">τή</hi>σας </w>
+                    <lb n="6"/><choice><orig>ε</orig><reg>ἐ</reg></choice>ν <w lemma="οὐρανός">ο<choice><orig>υ</orig><reg>ὐ</reg></choice>ρα</w>-->
+                 </ab>
+            </div>
+            <div type="apparatus">
+               <p>Pending</p>
+            </div>
+            <div type="translation">
+                <p>Lord, our God, save your people and bless (your inheritance).</p>
+            </div>
+            <div type="commentary">
+                <p>Good condition. Αccents and breathings with errors. The inscription is from the Second Prayer of the antiphon. 
+</p>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                <bibl><ptr target="Stylianou1960"/>,<citedRange>102-3</citedRange></bibl>
+                <bibl><ptr target="Mouriki1984"/>,<citedRange> 171-213</citedRange></bibl>
+                <bibl><ptr target="Papageorgiou2003"/>,<citedRange> 113</citedRange></bibl>
+                <bibl><ptr target="Rhoby2009"/>,<citedRange> 334, 341</citedRange></bibl>
+                <bibl><ptr target="PerdikisMyrianthefs2009"/></bibl>
+                <bibl><ptr target="VisCult"/><citedRange> 2, 1480-7</citedRange></bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
