@@ -76,19 +76,13 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>Pending
-                    <lb n="1"/>Δέσπο
-                    <lb n="2" break="no"/>τα Κ(ύρι)ε ὁ 
-                    <lb n="3"/>Θ(εό)ς ἡμῶν,
-                    <lb n="4"/> ὁ κατα
-                    <lb n="5" break="no"/>στήσας 
-                    <lb n="6"/>ἐν οὐρα
-
-                   <!--<lb n="1"/> Ὁ <persName type="divine" key="God"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></persName>                   <lb n="2"/><choice><orig>ο</orig><reg>ὁ</reg></choice> <persName type="divine" key="God"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></persName> <w lemma="ἐγώ"><expan><abbr rend="supraline"><hi rend="ligature">ἡμ</hi>ῶ</abbr><ex>ν</ex></expan></w>
-                    <lb n="3"/>ὁ τ<choice><orig>ώ</orig><reg>ῶ</reg></choice>ν <w lemma="οὐρἀνιος">ο<choice><orig>ὑ</orig><reg>ὐ</reg></choice>
-                    <lb n="4" break="no"/>ράνιων </w>
-                    <lb n="5"/><w lemma="ἄρτος"><choice><orig>ά</orig><reg>ἄ</reg></choice>ρτων</w> <hi rend="ligature">τ<choice><orig>η</orig><reg>ὴ</reg></choice></hi>ν 
-                    <lb n="6"/><w lemma="τροφή"><expan><abbr rend="supraline">τροφ</abbr><ex>ὴν</ex></expan></w>-->
+                <ab>
+                    <lb n="1"/><persName type="divine" key="Master"><name nymRef="Δεσπότης"><w lemma="Δεσπότης">Δ<choice><orig>ὲ</orig><reg>έ</reg></choice>σπο
+                    <lb n="2" break="no"/>τα·</w></name></persName> <persName type="divine" key="Lord"><name nymRef="Κύριος"></name><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύρι</ex><abbr rend="supraline">ε</abbr></expan></w></persName> ὁ 
+                    <lb n="3"/><persName type="divine" key="God"><name nymRef="Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></w></persName> <w lemma="ἐγώ"><hi rend="ligature">ἡμ</hi><choice><orig>ὼ</orig><reg>ῶ</reg></choice>ν</w>
+                    <lb n="4"/> ὁ <w lemma="καθίστημι">κατα
+                    <lb n="5" break="no"/>σ<hi rend="ligature">τή</hi>σας </w>
+                    <lb n="6"/><choice><orig>ε</orig><reg>ἐ</reg></choice>ν <w lemma="οὐρανός">ο<choice><orig>υ</orig><reg>ὐ</reg></choice>ρα</w>
                  </ab>
             </div>
             <div type="apparatus">
