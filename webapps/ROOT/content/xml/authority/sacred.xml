@@ -42,6 +42,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q18222658</idno>                   
                 </person>
                 
+                <person xml:id="Basil">
+                    <persName xml:lang="grc"><seg>ἅγιος </seg>Βασίλειος</persName>
+                    <persName xml:lang="en">Basil the Great, saint</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q44258</idno>                   
+                </person>
+                
                 <person xml:id="Christ">
                     <persName xml:lang="grc">Χριστός</persName>
                     <persName xml:lang="en">Christ</persName>
