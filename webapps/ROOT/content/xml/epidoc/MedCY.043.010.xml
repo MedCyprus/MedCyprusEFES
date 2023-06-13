@@ -78,7 +78,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>Pending
-                    <lb n="1"/>Κ(ύρι)ε ὁ Θ(εό)ς 
+                    <lb n="1"/><persName type="divine" key="Lord"><name nymRef="Κύριος"> Κ(ύρι)ε</name></persName> ὁ Θ(εό)ς 
                     <lb n="2"/>ἡμῶν
                     <lb n="3"/>σῶσον 
                     <lb n="4"/>τὸν ναα-
