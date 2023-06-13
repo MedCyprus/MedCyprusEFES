@@ -78,19 +78,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>Pending
-                    <lb n="1"/><persName type="divine" key="Lord"><name nymRef="Κύριος"> Κ(ύρι)ε</name></persName> ὁ Θ(εό)ς 
-                    <lb n="2"/>ἡμῶν
-                    <lb n="3"/>σῶσον 
-                    <lb n="4"/>τὸν ναα-
-                    <lb n="5" break="no"/>όν σου 
+                    <lb n="1"/><persName type="divine" key="Lord"><name nymRef="Κύριος"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύρι</ex><abbr rend="supraline">ε</abbr></expan></w></name></persName> <choice><orig>ο</orig><reg>ὁ</reg></choice> <persName type="divine" key="God"><name nymRef="Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></w></persName>
+                    <lb n="2"/><w lemma="ἐγώ"><hi rend="ligature">ἡμ</hi><choice><orig>ὼ</orig><reg>ῶ</reg></choice>ν</w>
+                    <lb n="3"/><w lemma="σώζω">σ<choice><orig>ὼ</orig><reg>ῶ</reg></choice>σον </w>
+                    <lb n="4"/><hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi>ν <w lemma="λαός"><del rend="erasure">α</del>α
+                    <lb n="5" break="no"/><choice><orig>ό</orig><reg>ὸ</reg></choice>ν</w> <w lemma="σύ">σου</w> 
                     <lb n="6"/>κε εὐλόγι
-
-                    <!--><lb n="1"/><persName type="divine" key="Master"><name nymRef="Δεσπότης"><w lemma="Δεσπότης">Δ<choice><orig>ὲ</orig><reg>έ</reg></choice>σπ
-                    <lb n="2" break="no"/>τα·</w></name></persName> <persName type="divine" key="Lord"><name nymRef="Κύριος"></name><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύρι</ex><abbr rend="supraline">ε</abbr></expan></w></persName> ὁ 
-                    <lb n="3"/><persName type="divine" key="God"><name nymRef="Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></w></persName> <w lemma="ἐγώ"><hi rend="ligature">ἡμ</hi><choice><orig>ὼ</orig><reg>ῶ</reg></choice>ν</w>
-                    <lb n="4"/> ὁ <w lemma="καθίστημι">κατα
-                    <lb n="5" break="no"/>σ<hi rend="ligature">τή</hi>σας </w>
-                    <lb n="6"/><choice><orig>ε</orig><reg>ἐ</reg></choice>ν <w lemma="οὐρανός">ο<choice><orig>υ</orig><reg>ὐ</reg></choice>ρα</w>-->
                  </ab>
             </div>
             <div type="apparatus">
