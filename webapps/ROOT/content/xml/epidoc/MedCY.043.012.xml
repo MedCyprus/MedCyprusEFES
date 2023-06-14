@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saint Basil's scroll</title>
+                 <author xml:id="tp">Theocharis Petrou</author> 
+                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.043.012</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>                       
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, 1st figure to the left</rs>
+                                    <dimensions unit="cm" scope="text"><height>29,5</height><width>9</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>40</height><width>11,5</width></dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>The inscription appears on the open scroll held in both hands by the co-officiating prelate.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Black letters against white background. The inscription is written entirely in majuscule with the size of some characters varying. Superscripts letters. Omega with crosslet. Letters HΝ, αΙ in ligatures. Mu with its middle bar forms an upsilon with a dot at the top of its vertical line. Accents and breathings systematic. Text between two ruled ochre coloured lines. Letter height: <height unit="cm">3,5-4,5</height>
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <p>... <rs type="iconography" ref="iconography.xml#Basil">Basil the Great</rs></p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Moutoullas">Moutoullas, Panagia Church</origPlace>
+                            <origDate when="1280-07-30" precision="high">July 30, 1280</origDate>
+                        </origin>                        
+                        <provenance when="2022">
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">22/09/2022</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc8">Liturgical citation</term>
+                </keywords>
+            </textClass>
+            <creation>...</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic rend="primary" url="043-012-01.jpg"><desc>Bema, semicylindrical wall, south half, 1st figure to the left, inscription</desc></graphic>
+        <graphic url="043-012-02.jpg"><desc>Bema, semicylindrical wall, south half, 1st figure to the left, inscription detail</desc></graphic>
+        <graphic url="043-012-03.jpg"><desc>Bema, semicylindrical wall, south half, 1st figure to the left, inscription detail</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                 Pending
+                 </ab>
+            </div>
+            <div type="apparatus">
+               <p>Pending</p>
+            </div>
+            <div type="translation">
+                <p>No one of those who are tied to carnal desires and pleasures (is worthy to approach, draw near, or serve You, glorious King).
+
+</p>
+            </div>
+            <div type="commentary">
+                <p>Good condition. <!--The omicron at the beginning of the text inscribing an abstract cross, is probably influenced by the decorative art of the manuscripts. The words οὐράνιον, ἄρτον are misspelled. Αccents and breathings with errors. The inscription is from the Prayer of the Prothesis.-->
+</p>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                <bibl><ptr target="Stylianou1960"/>,<citedRange>102-3</citedRange></bibl>
+                <bibl><ptr target="Mouriki1984"/>,<citedRange> 171-213</citedRange></bibl>
+                <bibl><ptr target="Papageorgiou2003"/>,<citedRange> 113</citedRange></bibl>
+                <bibl><ptr target="Rhoby2009"/>,<citedRange> 334, 341</citedRange></bibl>
+                <bibl><ptr target="PerdikisMyrianthefs2009"/></bibl>
+                <bibl><ptr target="VisCult"/><citedRange> 2, 1480-7</citedRange></bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
