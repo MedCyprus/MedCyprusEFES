@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saint Auxibios</title>
+                 <author xml:id="tp">Theocharis Petrou</author> 
+                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.043.015</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>                       
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, 1st figure to the right</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>On either side of the prelate's head</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>White letters against red background. The inscription is written entirely in majuscule with the size of some characters varying. On the saint's caption, a round omicron attached to nearly round final sigma OC, ending in a horizontal wavy line. On the second column, diagonal final sigma. Accents and breathings systematic. Letter height: <height unit="cm">2,5-4,5</height>
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <p>... <rs type="iconography" ref="iconography.xml#Auxibios"> Auxibios</rs></p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Moutoullas">Moutoullas, Panagia Church</origPlace>
+                            <origDate when="1280-07-30" precision="high">July 30, 1280</origDate>
+                        </origin>                        
+                        <provenance when="2022">
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">22/09/2022</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                </keywords>
+            </textClass>
+            <creation>...</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic rend="primary" url="043-015-01.jpg"><desc>Bema, semicylindrical wall, south half, 1st figure to the right, inscription</desc></graphic>
+        <graphic url="043-015-02.jpg"><desc>Bema, semicylindrical wall, south half, 1st figure to the right, inscription detail</desc></graphic>
+        <graphic url="043-015-03.jpg"><desc>Bema, semicylindrical wall, south half, 1st figure to the right, inscription detail</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                     <cb n="a"/>
+                    <lb n="1"/><persName type="sacred" key="Auxibios"><w lemma="ἅγιος"><choice><orig>Ὅ</orig><reg>Ὁ</reg></choice>
+                    <lb n="2"/><choice><orig>ά</orig><reg>ἅ</reg></choice>
+                    <lb n="3" break="no" />γι
+                    <lb n="4" break="no"/>ος</w>
+                  <cb n="b"/>
+                  <lb n="1"/><name nymRef="Αὐξίβιος">Ἁξί
+                    <lb n="2" break="no"/>βι
+                      <lb n="3" break="no"/>ος</name></persName>       
+                 </ab>
+            </div>
+            <div type="apparatus">
+               <p>Pending</p>
+            </div>
+            <div type="translation">
+                <p>Saint Auxibios</p>
+            </div>
+            <div type="commentary">
+                <p>Good condition. Accents and breathings with errors. </p>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                <bibl><ptr target="Stylianou1960"/>,<citedRange>102-3</citedRange></bibl>
+                <bibl><ptr target="Mouriki1984"/>,<citedRange> 171-213</citedRange></bibl>
+                <bibl><ptr target="Papageorgiou2003"/>,<citedRange> 113</citedRange></bibl>
+                <bibl><ptr target="Rhoby2009"/>,<citedRange> 334, 341</citedRange></bibl>
+                <bibl><ptr target="PerdikisMyrianthefs2009"/></bibl>
+                <bibl><ptr target="VisCult"/><citedRange> 2, 1480-7</citedRange></bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
