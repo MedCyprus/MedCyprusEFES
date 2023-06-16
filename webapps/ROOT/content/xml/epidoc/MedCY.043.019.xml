@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Annunciation, the Virgin's response to Gabriel</title>
+                 <author xml:id="tp">Theocharis Petrou</author> 
+                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.043.019</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>                       
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                    <rs type="placement-building" ref="#bema">Bema, eastern wall, south side</rs>
+                                    <dimensions unit="cm" scope="text"><height>16</height><width>16,5</width></dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>On the right of the Virgin</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>White letters against red background. The inscription is written in majuscule with the size of some characters varying. Mu with its middle bar forms a tau. ΟΥ, ΝΗ, ΤΟ in ligatures; ΟΥ as a huge minuscule gamma; tau in superscript. Horizontal wavy line above the abbreviation of Κ(υρίο)υ. Use of diaeresis over iota in ἰδού (l. 1). 
+Double point after Κ(υρίο)υ. Almost systematic use of accents and breathings. Letter height: <height unit="cm">3</height>
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <p>... <rs type="iconography" ref="iconography.xml#VirginAnnunciation">Virgin, Annunciation</rs></p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Moutoullas">Moutoullas, Panagia Church</origPlace>
+                            <origDate when="1280-07-30" precision="high">July 30, 1280</origDate>
+                        </origin>                        
+                        <provenance when="2022">
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">22/09/2022</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc7">Hymnographical citation</term>
+                </keywords>
+            </textClass>
+            <creation>...</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic rend="primary" url="043-019-01.jpg"><desc>Bema, eastern wall, south side, inscription</desc></graphic>
+        <graphic url="043-019-02.jpg"><desc>Bema, eastern wall, south side, general view</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                       <!-- <lb n="1"/><g ref="#cross">+</g><supplied reason="lost"><w lemma="Ἰδού">Ἰδοὺ</w> ἡ <w lemma="δούλη">δούλη</w></supplied>
+                    <lb n="2"/><supplied reason="lost"><persName type="divine" key="Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">υ</abbr></expan></w></persName>· γένοιτό</supplied>
+                    <lb n="3"/><supplied reason="lost">μοι</supplied> κατ<choice><orig>α</orig><reg>ὰ</reg></choice>
+                    <lb n="4"/><supplied reason="lost">τὸ ῥῆμά </supplied><w lemma="σύ">σ<hi rend="ligature">ου</hi></w>.-->
+                 </ab>
+            </div>
+            <div type="apparatus">
+               <p>Pending</p>
+            </div>
+            <div type="translation">
+                <p>I am the Lord’s servant. May your word to me be fulfilled.</p>
+            </div>
+            <div type="commentary">
+                <p>Poor condition. Exfoliated. A cross with dots in the angles marks the beginning of the text. The inscription is based on the dialoque between the Archangel Gabriel and the Virgin according to Luke 1:28, 38.</p>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                <bibl><ptr target="Stylianou1960"/>,<citedRange>102-3</citedRange></bibl>
+                <bibl><ptr target="Mouriki1984"/>,<citedRange> 171-213</citedRange></bibl>
+                <bibl><ptr target="Papageorgiou2003"/>,<citedRange> 113</citedRange></bibl>
+                <bibl><ptr target="Rhoby2009"/>,<citedRange> 334, 341</citedRange></bibl>
+                <bibl><ptr target="PerdikisMyrianthefs2009"/></bibl>
+                <bibl><ptr target="VisCult"/><citedRange> 2, 1480-7</citedRange></bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
