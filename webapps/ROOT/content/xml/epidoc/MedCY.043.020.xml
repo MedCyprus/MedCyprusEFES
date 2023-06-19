@@ -25,27 +25,33 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType>Painted inscription</objectType>
-                                    <rs type="placement">Bema, north wall, upper register</rs>
-                                    <dimensions unit="cm"><height>?</height><width>?</width></dimensions>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                    <rs type="placement-building" ref="#bema">Bema, north wall, upper register</rs>
+                                    <dimensions unit="cm" scope="text"><height>47,5</height><width>86</width></dimensions>
+                                    <dimensions unit="cm" scope="panel"><height>56</height><width>97</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>description of text field/campus</layout>
+                                <layout>In a frame, above the donors' portraits</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against yellow background <height unit="cm">?</height>
+                               <handNote>Black letters against ochre background. The inscription is written entirely in majuscule. Superscripts letters. Omega with crosslet. In line 6 tau with a star. Mu with its middle bar forms a tau. Double point after συνδρομῆς, Ἰω(άννου), Γερακ[ιώτη] Μουτου]λλά, αὐτοῦ. Use of diaeresis over iota in Ïρίνης (l. 6), Ïουλίω (l. 7). Middle dot after μηνί, εἰς. Horizontal wavy line above the abbreviation of  Ἰω(άννου). Letters ΠΤ, HΝ, ΟΥ in ligatures. Sporadic use of accents and breathings. Text between two ruled white coloured lines. Letter height: <height unit="cm">5,5-7,5</height>
                             </handNote>
-                        </handDesc>
+                         </handDesc>
+                        <decoDesc>
+                            <p>...</p>
+                        </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Moutoullas">Moutoullas, Panagia Church</origPlace>
-                            <origDate when="1280-07-30" evidence="internal-date">July 30, 1280</origDate>
+                            <origDate when="1280-07-30" precision="high">July 30, 1280</origDate>
                         </origin>                        
-                        <provenance type="observed">Modern location(s) (if different from repository, above)
-                        </provenance>
+                        <provenance when="2022">
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">22/09/2022</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -53,39 +59,51 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#...">...</term>
+                    <term type="textType" ref="text_types.xml#doc3">Donation</term>
                 </keywords>
             </textClass>
             <creation>...</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+         <graphic rend="primary" url="043-020-01.jpg"><desc>Bema, north wall, upper register, inscription</desc></graphic>
+        <graphic url="043-020-02.jpg"><desc>Bema, north wall, upper register, general view</desc></graphic>
+        <graphic url="043-020-03.jpg"><desc>Bema, north wall, upper register, inscription detail</desc></graphic>
+        <graphic url="043-020-04.jpg"><desc>Bema, north wall, upper register, inscription detail</desc></graphic>
+        <graphic url="043-020-05.jpg"><desc>Bema, north wall, upper register, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>
-                    <lb n="1"/><g ref="#cross">+</g><supplied reason="lost">Ἀνοικο</supplied>δο<unclear>μ</unclear><supplied reason="lost">ήθη ο θείος και πα</supplied>
+                <ab>Pending
+                    <!--<lb n="1"/><g ref="#cross">+</g><supplied reason="lost">Ἀνοικο</supplied>δο<unclear>μ</unclear><supplied reason="lost">ήθη ο θείος και πα</supplied>
 <lb n="2" break="no"/><choice><corr>ν</corr><sic>σ</sic></choice>σεπτος ναο<unclear>ς</unclear><supplied reason="lost"> της <addName type="epithet" key="hyperagia">υπεραγίας</addName></supplied> 
 <lb n="3"/><addName type="epithet" key="despoina">δεσπ<supplied reason="omitted">o</supplied>ίνης</addName> η<unclear>μ</unclear><supplied reason="lost">ων <persName type="sacred" key="Theotokos">θεοτοκου</persName> δια</supplied>
 <lb n="4"/>σ<choice><corr>υν</corr><sic>η</sic></choice>δρομης: και πο<unclear>λ</unclear><supplied reason="lost">λου</supplied> <unclear>π</unclear><choice><corr>ο</corr><sic>ω</sic></choice> 
 <lb n="5" break="no"/>θου <persName type="attested" role="founder" ref="#IoannesGerakiotes"><name nymRef="Ἰωάννης" type="forename"><expan><abbr>Ιω</abbr><ex>αννου</ex></expan></name>: του <name nymRef="Γερακιώτης" type="surname"><del rend="erasure">
 Γερακ<supplied reason="lost">ιώτη</supplied></del></name> <name nymRef="Μουτουλλάς" type="surname"><add><supplied reason="lost">Μουτου</supplied>λλα</add></name></persName> κ<choice><corr>αι</corr><sic>ε</sic></choice>  ​
 <lb n="6"/>τη<supplied reason="omitted">ς</supplied> σ<choice><corr>υμ</corr><sic><hi rend="ligature">ην</hi></sic></choice>βίου αὑτου: <persName type="attested" role="founder" ref="#Eirene"><name nymRef="Εἰρήνη" type="forename"><choice><corr>Εἰρή</corr><sic>Ϊρί</sic></choice>νης</name></persName>  
-<lb n="7"/>μ<choice><corr>η</corr><sic>ι</sic></choice>νι Ϊουλίω εις τ(ας)·<num value="30"><unclear>λ</unclear></num>·ἔτους ̧<num value="6788"><hi rend="ligature">&#x03DB;</hi>ψ<unclear>πη</unclear></num>
+<lb n="7"/>μ<choice><corr>η</corr><sic>ι</sic></choice>νι Ϊουλίω εις τ(ας)·<num value="30"><unclear>λ</unclear></num>·ἔτους ̧<num value="6788"><hi rend="ligature">&#x03DB;</hi>ψ<unclear>πη</unclear></num>-->
                 </ab>
             </div>
             <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
+               <p>Pending</p>
             </div>
             <div type="translation">
-                <p>translation(s)</p>
+                <p>Pending</p>
             </div>
             <div type="commentary">
-                <p>commentary</p>
+                <p>Pending</p>
             </div>
             <div type="bibliography">
+                 <listBibl>
+                <bibl><ptr target="Stylianou1960"/>,<citedRange>102-3</citedRange></bibl>
+                <bibl><ptr target="Mouriki1984"/>,<citedRange> 171-213</citedRange></bibl>
+                <bibl><ptr target="Papageorgiou2003"/>,<citedRange> 113</citedRange></bibl>
+                <bibl><ptr target="Rhoby2009"/>,<citedRange> 334, 341</citedRange></bibl>
+                <bibl><ptr target="PerdikisMyrianthefs2009"/></bibl>
+                <bibl><ptr target="VisCult"/><citedRange> 2, 1480-7</citedRange></bibl>
+                </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
         </body>
