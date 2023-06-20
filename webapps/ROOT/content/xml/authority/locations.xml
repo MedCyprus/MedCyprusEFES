@@ -1294,18 +1294,21 @@
                 
                 <place xml:id="Moutoullas" n="43">
                     <placeName xml:lang="en">Moutoullas, Panagia</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Μουτουλλάς</placeName>
+                    <placeName type="district" ref="district.xml#Nicosia">Nicosia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#morphou">Bishopric of Morphou</placeName>
                     <location><geo>34.9826622, 32.8241501</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date when="1280-07-30" precision="high">July 30, 1280</date></desc>
+                    <desc type="function">Private; funerary;</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Single-aisled timber-roofed church with an L-shaped closed portico on its northern and western side.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date when="1280-07-30" precision="high">July 30, 1280</date>(bema, nave)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1333" precision="medium">Early 14th century</date>(nave: Presentation of Christ in the 
+                            Temple, gallery: external west wall)</desc>
+                            <desc type="layer" n="3">3rd layer: <date notBefore="1467" notAfter="1533" precision="medium"> Late 15th c. - Early 16th c. </date>(gallery: external side of the northern wall)</desc>    
                     </desc>
-                    <desc type="conservation">...</desc>
+                    <desc type="conservation">1968, 2003, 2007</desc>
                     <desc type="donors">...</desc>
                     <desc type="painter">...</desc>
                     <desc type="graffiti">...</desc>
