@@ -333,6 +333,9 @@
       <xsl:value-of select="replace(@scope, '_', ' ')"/>
       <xsl:text>)</xsl:text>
     </xsl:if>
+    <xsl:if test="following-sibling::t:dimensions">
+      <xsl:text>; </xsl:text>
+    </xsl:if>
    </xsl:template>
    
   <xsl:template match="t:placeName|t:origPlace|t:repository" mode="medcyprus-location">
