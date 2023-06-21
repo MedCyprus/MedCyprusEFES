@@ -157,6 +157,7 @@
            <xsl:variable name="edtxt">
              <xsl:apply-templates select="//t:div[@type='edition']">
                <xsl:with-param name="parm-edition-type" select="'diplomatic'" tunnel="yes"/>
+               <xsl:with-param name="parm-verse-lines" select="'no'" tunnel="yes"/>
              </xsl:apply-templates>
            </xsl:variable>
            <!-- Moded templates found in htm-tpl-sqbrackets.xsl -->
