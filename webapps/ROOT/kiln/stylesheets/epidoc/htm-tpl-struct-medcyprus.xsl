@@ -310,7 +310,8 @@
   
   <xsl:template match="t:dimensions" mode="medcyprus-dimensions">
       <xsl:if test="//text()">
-        <xsl:if test="t:height/text()">h: 
+        <xsl:if test="t:height/text()">
+          <xsl:if test="normalize-space(t:height/text()) != 'n/a'"><xsl:text>h: </xsl:text></xsl:if> 
             <xsl:value-of select="t:height"/>
             <xsl:if test="t:width/text()">
               <xsl:text> x </xsl:text>
