@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Cryptograms, tetragram</title>
-                <editor xml:id="mgp">Maria G. Parani</editor>
-                <editor xml:id="tp">Theocharis Petrou</editor>
+                <author xml:id="tp">Theocharis Petrou</author>
+                <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -26,30 +26,32 @@
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                    <objectType>Painted inscription</objectType>.
-                                    <rs type="placement">Bema, north pilaster, east face, lower register</rs>
-                                    <dimensions unit="cm"><height>?</height><width>?</width></dimensions>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                    <rs type="placement-building" ref="#bema">Bema, north pilaster, east face, lower register</rs>
+                                    <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side and in-between the arms of a patriarchal cross.</layout>
+                                <layout>On either side and in-between the arms of a patriarchal cross</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against a white background <height unit="cm">?</height>
+                            <handNote>Pending...Black letters against grey background <height unit="cm">5,5-13,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#cross">patriarchal cross</rs> ...</p>
+                            <p>... <rs type="iconography" ref="iconography.xml#cross">Patriarchal cross</rs> ...</p>
                         </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Moutoullas">Moutoullas, Panagia Church</origPlace>
-                            <origDate when="1280" evidence="internal-date">1280</origDate>
+                            <origDate when="1280-07-30" precision="high">July 30, 1280</origDate>
                         </origin>                        
-                        <provenance type="observed">Modern location(s) (if different from repository, above)
-                        </provenance>
+                        <provenance when="2022">
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">22/09/2022</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -57,14 +59,18 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#cryptograms">Cryptograms</term>
+                    <term type="textType" ref="text_types.xml#doc10">Cryptograms</term>
                 </keywords>
             </textClass>
             <creation>...</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+           <graphic rend="primary" url="043-022-01.jpg"><desc>Bema, north pilaster, east face, lower register, inscription</desc></graphic>
+        <graphic url="043-022-02.jpg"><desc>Bema, north pilaster, east face, lower register, inscription, inscription detail</desc></graphic>
+        <graphic url="043-022-03.jpg"><desc>Bema, north pilaster, east face, lower register, inscription, inscription detail</desc></graphic>
+        <graphic url="043-022-04.jpg"><desc>Bema, north pilaster, east face, lower register, inscription, inscription detail</desc></graphic>
+        <graphic url="043-022-05.jpg"><desc>Bema, north pilaster, east face, lower register, inscription, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -100,12 +106,20 @@
                 </listApp>
             </div>
             <div type="translation">
-                <p>translation(s)</p>
+                <p>Pending</p>
             </div>
             <div type="commentary">
-                <p>commentary</p>
+                <p>Pending</p>
             </div>
             <div type="bibliography">
+             <listBibl>
+                <bibl><ptr target="Stylianou1960"/>,<citedRange>102-3</citedRange></bibl>
+                <bibl><ptr target="Mouriki1984"/>,<citedRange> 171-213</citedRange></bibl>
+                <bibl><ptr target="Papageorgiou2003"/>,<citedRange> 113</citedRange></bibl>
+                <bibl><ptr target="Rhoby2009"/>,<citedRange> 334, 341</citedRange></bibl>
+                <bibl><ptr target="PerdikisMyrianthefs2009"/></bibl>
+                <bibl><ptr target="VisCult"/><citedRange> 2, 1480-7</citedRange></bibl>
+                </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
         </body>
