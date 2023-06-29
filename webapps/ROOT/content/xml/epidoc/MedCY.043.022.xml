@@ -75,7 +75,7 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>
+                <ab>Pending
                     <lb n="1"/><milestone unit="column" n="left"/><persName type="divine" key="Christ"><expan><abbr><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr></expan></persName>
                     <lb n="2"/><milestone unit="column" n="left"/><expan><abbr><hi rend="ligature">Υ<choice><orig>ι</orig><reg>ἱ</reg></choice></hi></abbr><ex>ὸ</ex><abbr>ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan>
                     <lb n="3"/><milestone unit="column" n="left"/>Νι <milestone unit="column" n="right" break="no"/>κᾶ
