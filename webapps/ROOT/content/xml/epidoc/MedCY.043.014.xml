@@ -73,9 +73,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                 <lb n="1"/>Πάλιν 
-                 <lb n="2"/>κα<choice><orig>ι</orig><reg>ὶ</reg></choice> πο
-                 <lb n="3" break="no"/>λλάκις
+                 <lb n="1"/><w lemma="πάλιν">Πάλιν </w>
+                 <lb n="2"/>κα<choice><orig>ι</orig><reg>ὶ</reg></choice><w lemma="πολλάκις"> πο
+                 <lb n="3" break="no"/>λλάκις</w>
                  </ab>
             </div>
             <div type="apparatus">
