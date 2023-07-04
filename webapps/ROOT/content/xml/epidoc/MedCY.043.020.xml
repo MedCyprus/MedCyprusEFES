@@ -76,6 +76,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>Pending
+                    <lb n="1"/><g ref="#cross">+</g><w lemma="'ἀνοικοδομῶ"><supplied reason="lost">Ἀνοικο</supplied>δο<unclear>μ̣</unclear><supplied reason="lost">ήθη ὁ</supplied></w> <gap reason="lost" extent="unknown"></gap> <w lemma="πάνσεπτος"><supplied reason="lost">πα</supplied>
+                   <lb n="2" break="no"/>σσεπτος</w> <w lemma="ναός">ναω[<supplied reason="lost">ς</supplied></w> <gap reason="lost" extent="unknown"></gap>
+Δεσπίνης ἡμ̣[ῶν] [..?..]
+σηδρομῆς: καὶ πολ̣[λο]ῦ π̣ώ-
+θου Ἰω(άννου): τοῦ ⟦ Γερακ[ιώτη] Μουτου]λλὰ κε​
+τῆ σηνβίου αὑτοῦ: Ἰρίνης
+⟦σ] μινί Ἰουλίῳ εἰς τ(άς)·λ̣´· ἔτους ̧͵ϛψπ̣η̣´ 
+                    
+                    
                     <!--<lb n="1"/><g ref="#cross">+</g><supplied reason="lost">Ἀνοικο</supplied>δο<unclear>μ</unclear><supplied reason="lost">ήθη ο θείος και πα</supplied>
 <lb n="2" break="no"/><choice><corr>ν</corr><sic>σ</sic></choice>σεπτος ναο<unclear>ς</unclear><supplied reason="lost"> της <addName type="epithet" key="hyperagia">υπεραγίας</addName></supplied> 
 <lb n="3"/><addName type="epithet" key="despoina">δεσπ<supplied reason="omitted">o</supplied>ίνης</addName> η<unclear>μ</unclear><supplied reason="lost">ων <persName type="sacred" key="Theotokos">θεοτοκου</persName> δια</supplied>
