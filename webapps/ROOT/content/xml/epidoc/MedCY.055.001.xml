@@ -79,7 +79,7 @@
                     <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w></name>
                   <cb n="b"/>
                   <lb n="1"/>Mαθα<choice><orig>ί</orig><reg>ῖ</reg></choice>ος
-                  <lb n="2"/><addName type="epithet" key="Evangelist"><w lemma="εὐαγγελιστής"><choice><orig>ο</orig><reg>ὁ</reg></choice> <expan><abbr><choice><orig>ε</orig><reg>ἐ</reg></choice>βαγγεληστ</abbr><ex>ής</ex></expan></w></addName></persName>
+                  <lb n="2"/><addName type="epithet" key="Evangelist"><w lemma="εὐαγγελιστής"><choice><orig>ο</orig><reg>ὁ</reg></choice> <expan><abbr><choice><orig>ε</orig><reg>ἐ</reg></choice>βαγγε<hi rend="ligature">λη</hi>στ</abbr><ex>ής</ex></expan></w></addName></persName>
                 </ab>
             </div>
             <div type="apparatus">
