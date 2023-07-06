@@ -79,7 +79,7 @@
                     <lb n="4" break="no"/>
                     <cb n="b"/>
                     <lb n="1"/>γγελ<supplied reason="lost">ί</supplied>
-                    <lb n="2" break="no"/>ου</w> <persName type="divine" key="JesusChrist"><expan><abbr rend="supraline">Ι</abbr><supplied reason="lost"><ex>ησο</ex><abbr rend="supraline">ῦ</abbr></supplied></expan>
+                    <lb n="2" break="no"/>ου</w> <persName type="divine" key="JesusChrist"><name nymRef="Ἰησοῦς Χριστός"></name><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><supplied reason="lost"><ex>ησο</ex><abbr rend="supraline">ῦ</abbr></supplied></expan>
                     <lb  n="3"/><supplied reason="lost"><expan><abbr rend="supraline">Χ</abbr><ex>ριστο</ex><abbr rend="supraline">ῦ</abbr></expan></supplied></persName>
                 </ab>
             </div>
