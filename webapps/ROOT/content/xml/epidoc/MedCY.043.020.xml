@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ioannis Moutoullas First Inscription</title>
+                <title>Ioannes Moutoullas First Inscription</title>
                 <author xml:id="tp">Theocharis Petrou</author> 
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -38,11 +38,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                               <handNote>Black letters against ochre background. The inscription is written entirely in majuscule. Superscripts letters. Omega with crosslet. In line 6 tau with a star. Mu with its middle bar forms a tau. Double point after συνδρομῆς, Ἰω(άννου), Γερακ[ιώτη] Μουτου]λλά, αὐτοῦ. Use of diaeresis over iota in Ïρίνης (l. 6), Ïουλίω (l. 7). Middle dot after μηνί, εἰς. Horizontal wavy line above the abbreviation of  Ἰω(άννου). Letters ΠΤ, HΝ, ΟΥ in ligatures. Sporadic use of accents and breathings. Text between two ruled white coloured lines. Letter height: <height unit="cm">5,5-7,5</height>
+                               <handNote>Black letters against ochre background. The inscription is written entirely in majuscule. Superscripts letters. Omega with crosslet. In line 6 tau with a star. Mu with its middle bar forms a tau. Double point after συνδρομῆς, Ἰω(άννου), Γερακ[ιώτη] Μουτου]λλά, αὐτοῦ. Use of diaeresis over iota in Ïρίνης (l. 6), Ïουλίω (l. 7). Middle dot after μηνί, εἰς. Horizontal wavy line above the abbreviation of  Ἰω(άννου). Letters ΠΤ, HΝ, ΟΥ in ligatures. Sporadic use of accents and breathings. Letter height: <height unit="cm">5,5-7,5</height>
                             </handNote>
                          </handDesc>
                         <decoDesc>
-                              <p>... <rs type="iconography" ref="iconography.xml#michael">Archangel Michael</rs></p>
+                              <p>...</p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -84,7 +84,7 @@
                    <lb n="5" break="no"/>θου</w> <persName type="attested" role="founder" ref="#IoannesGerakiotes"><name nymRef="Ἰωάννης" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννου</ex></expan></name>: το<choice><orig>υ</orig><reg>ῦ</reg></choice> <name nymRef="Γερακιώτης" type="surname">
 Γερακ<supplied reason="lost"><del rend="erasure">ιώτη</del></supplied></name> <name nymRef="Μουτουλλάς" type="surname"><add><supplied reason="lost">Μουτ</supplied>ουλλ<choice><orig>α</orig><reg>ὰ</reg></choice></add></name></persName> κ<choice><orig>ε</orig><reg>ὲ</reg></choice>
                    <lb n="6"/>τ<choice><orig>η</orig><reg>ῆ</reg></choice> <w lemma="συμβία">σ<hi rend="ligature">ην</hi>βίου</w> <w lemma="αὐτός">α<choice><orig>ὐ</orig><reg>ὑ</reg></choice>το<choice><orig>υ</orig><reg>ῦ</reg></choice></w>: <persName type="attested" role="founder" ref="#Eirene"><name nymRef="Εἰρήνη" type="forename"><choice><orig>Ϊ</orig><reg>Ἰ</reg></choice>ρίνης</name></persName> 
-                   <lb n="7"/><del rend="erasure">σ</del> <w lemma="μήν">μινὶ</w> <w lemma="Ἰούλιος"><choice><orig>Ἰ</orig><reg>Ϊ</reg></choice>ουλί<choice><orig>ω</orig><reg>ῳ</reg></choice></w> ε<choice><orig>ι</orig><reg>ἰ</reg></choice>ς τ(άς)·<num value="30"><unclear>λ</unclear></num>·<w lemma="ἔτος">ἔτ<hi rend="ligature">ου</hi>ς</w><num value="6788"><hi rend="ligature">&#x03DB;</hi>ψ<unclear>πη</unclear></num>
+                   <lb n="7"/><del rend="erasure">σ</del> <w lemma="μήν">μινὶ</w> <w lemma="Ἰούλιος"><choice><orig>Ϊ</orig><reg>Ἰ</reg></choice>ουλί<choice><orig>ω</orig><reg>ῳ</reg></choice></w> ε<choice><orig>ι</orig><reg>ἰ</reg></choice>ς τ(άς)·<num value="30"><unclear>λ</unclear></num>·<w lemma="ἔτος">ἔτ<hi rend="ligature">ου</hi>ς</w><num value="6788"><hi rend="ligature">&#x03DB;</hi>ψ<unclear>πη</unclear></num>
                     
                     
                     <!--<lb n="1"/><g ref="#cross">+</g><supplied reason="lost">Ἀνοικο</supplied>δο<unclear>μ</unclear><supplied reason="lost">ήθη ο θείος και πα</supplied>
