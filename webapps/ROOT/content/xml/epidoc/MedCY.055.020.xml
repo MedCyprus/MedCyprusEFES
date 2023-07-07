@@ -81,7 +81,7 @@
                     <lb n="1"/><name nymRef="Ἰωάννης"><supplied reason="lost"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></supplied></name>
                     <lb n="2"/><choice><orig>o</orig><reg>ὁ</reg></choice><addName type="epithet" key="Theologian"> θε
                      <lb n="3" break="no"/>o
-                     <lb n="4" break="no"/>λόγος   </addName>
+                     <lb n="4" break="no"/>λ<choice><orig>ὁ</orig><reg>ό</reg></choice>γος   </addName>
                     </persName>
                 </ab>
             </div>
@@ -92,7 +92,7 @@
                 <p>Saint John the Theologian</p>
             </div>
             <div type="commentary">
-                <p>The inscription is badly damaged and only the column b with the saint's epithet has survived.</p>
+                <p>The inscription is badly damaged and only the column b with the saint's epithet has survived. Accents and breathings with errors.</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>
