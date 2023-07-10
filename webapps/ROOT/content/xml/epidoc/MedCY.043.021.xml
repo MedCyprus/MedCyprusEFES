@@ -78,25 +78,16 @@
                    <lb n="2"/> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <name nymRef="Μουτουλλᾶς" type="surname">Μουτου<supplied reason="lost">λ</supplied><unclear>λ</unclear><choice><orig>α</orig><reg>ᾶ</reg></choice> </name>τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice> </hi><w lemma="κτήτωρ">κτίτωρος</w></persName>
                    <lb n="3"/>κα<choice><orig>ι</orig><reg>ὶ</reg></choice> <hi rend="ligature">τ<choice><orig>η</orig><reg>ῆ</reg></choice></hi> <w lemma="συμβία">σ<hi rend="ligature">ην</hi>βί<hi rend="ligature">ου</hi></w> <w lemma="αὐτός">α<choice><orig>ὑ</orig><reg>ὐ</reg></choice>τ<hi rend="ligature">ο<choice><orig>ὺ</orig><reg>ῦ</reg></choice></hi></w>:
                    <lb n="4"/><persName type="attested" role="founder" ref="#Eirene"><name nymRef="Εἰρήνη" type="forename"><choice><orig>Ϊ</orig><reg>Ἰ</reg></choice>ρίνης</name></persName> 
-                    
-                    <!--<lb n="1"/><g ref="#cross">+</g><w lemma="'ἀνοικοδομῶ"><supplied reason="lost">Ἀνοικο</supplied>δο<unclear>μ̣</unclear><supplied reason="lost">ήθη ὁ</supplied></w> <gap reason="lost" extent="unknown"></gap> <w lemma="πάνσεπτος"><supplied reason="lost">πα</supplied>
-                   <lb n="2" break="no"/>σσε<hi rend="ligature">πτ</hi>ος</w> <w lemma="ναός">να<choice><orig>ω</orig><reg>ὼ</reg></choice><supplied reason="lost">ς</supplied></w> <gap reason="lost" extent="unknown"></gap>
-                   <lb n="3"></lb><addName type="epithet" key="despoina"><w lemma="Δέσποινα">Δεσπίνης</w></addName> <w lemma="ἐγώ"><choice><orig>η</orig><reg>ἡ</reg></choice><unclear>μ</unclear><supplied reason="lost">ῶν</supplied></w> <gap reason="lost" extent="unknown"></gap>
-                   <lb n="4"/><w lemma="συνδρομή">σηδρομ<choice><orig>η</orig><reg>ῆ</reg></choice>ς</w>: κα<choice><orig>ι</orig><reg>ὶ</reg></choice> <w lemma="πολύς">πο<unclear>λ</unclear><supplied reason="lost">λοῦ</supplied></w> <w lemma="πόθος"><unclear>π</unclear>ώ
-                   <lb n="5" break="no"/>θου</w> <persName type="attested" role="founder" ref="#IoannesGerakiotes"><name nymRef="Ἰωάννης" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννου</ex></expan></name>: το<choice><orig>υ</orig><reg>ῦ</reg></choice> <name nymRef="Γερακιώτης" type="surname">
-Γερακ<supplied reason="lost"><del rend="erasure">ιώτη</del></supplied></name> <name nymRef="Μουτουλλάς" type="surname"><add><supplied reason="lost">Μουτ</supplied>ουλλ<choice><orig>α</orig><reg>ὰ</reg></choice></add></name></persName> κ<choice><orig>ε</orig><reg>ὲ</reg></choice>
-                   <lb n="6"/>τ<choice><orig>η</orig><reg>ῆ</reg></choice> <w lemma="συμβία">σ<hi rend="ligature">ην</hi>βίου</w> <w lemma="αὐτός">α<choice><orig>ὐ</orig><reg>ὑ</reg></choice>το<choice><orig>υ</orig><reg>ῦ</reg></choice></w>: <persName type="attested" role="founder" ref="#Eirene"><name nymRef="Εἰρήνη" type="forename"><choice><orig>Ϊ</orig><reg>Ἰ</reg></choice>ρίνης</name></persName> 
-                   <lb n="7"/><del rend="erasure">σ</del> <w lemma="μήν">μινὶ</w> <w lemma="Ἰούλιος"><choice><orig>Ϊ</orig><reg>Ἰ</reg></choice>ουλί<choice><orig>ω</orig><reg>ῳ</reg></choice></w> ε<choice><orig>ι</orig><reg>ἰ</reg></choice>ς τ(άς)·<num value="30"><unclear>λ</unclear></num>·<w lemma="ἔτος">ἔτ<hi rend="ligature">ου</hi>ς</w><num value="6788"><hi rend="ligature">&#x03DB;</hi>ψ<unclear>πη</unclear></num>-->
                 </ab>
             </div>
             <div type="apparatus">
                <p>Pending</p>
             </div>
             <div type="translation">
-                <p>Pending</p>
+                <p>Invocation of the servant of God, Ioannes Moutoullas founder and his wife Eirene</p>
             </div>
             <div type="commentary">
-                <p>Pending...Partially preserved. A cross with dots in the angles marks the beginning of the text.</p>
+                <p>Partially damaged. A cross with dots in the angles marks the beginning of the text. The founder's surname given here is Μουτουλλᾶς. It's probably the same person with Gerakiotes. The words κτήτορος, συνβίου are misspelled. Also, the painter's writing seems to have been influenced by spoken language. This is confirmed again by the word σηνβίου instead of the correct συμβίας. Accents and breathings with errors.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
