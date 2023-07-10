@@ -74,9 +74,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>Pending
-                   <lb n="1"/>+ Δέ(ησις) τοῦ δούλου τοῦ Θ(εοῦ) Ἰω(άννου):
-                   <lb n="2"/> τοῦ Μουτου[λ]λᾶ τοῦ κτίτωρος
-                   <lb n="3"/>καὶ τῆ σηνβίου αὐτοῦ:
+                   <lb n="1"/><g ref="#cross">+</g><w lemma="δέησις"><expan><abbr rend="supraline">Δ<choice><orig>;ὲ</orig><reg>έ</reg></choice></abbr><ex>ησις</ex></expan></w> τ<hi rend="ligature">οῦ </hi><w lemma="δοῦλος">δ<hi rend="ligature">ού</hi>λ<hi rend="ligature">ου</hi></w> τ<hi rend="ligature">οῦ</hi> <persName type="divine" key="God"><name nymRef="Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></w></persName> <persName type="attested" role="founder" ref="#IoannesGerakiotes"><name nymRef="Ἰωάννης" type="forename"></name><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννου</ex></expan>:
+                   <lb n="2"/> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <name nymRef="Μουτουλλᾶς" type="surname">Μουτου<supplied reason="lost">λ</supplied><unclear>λ</unclear><choice><orig>α</orig><reg>ᾶ</reg></choice></name> <addName type="epithet" key="of the Founder">τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice> </hi><w lemma="κτήτωρ">κτίτωρος</w></addName></persName>
+                   <lb n="3"/>καὶ τῆ(ς) σηνβίου αὐτοῦ:
                    <lb n="4"/>Ἰρίνης
                     <!--<lb n="1"/><g ref="#cross">+</g><w lemma="'ἀνοικοδομῶ"><supplied reason="lost">Ἀνοικο</supplied>δο<unclear>μ̣</unclear><supplied reason="lost">ήθη ὁ</supplied></w> <gap reason="lost" extent="unknown"></gap> <w lemma="πάνσεπτος"><supplied reason="lost">πα</supplied>
                    <lb n="2" break="no"/>σσε<hi rend="ligature">πτ</hi>ος</w> <w lemma="ναός">να<choice><orig>ω</orig><reg>ὼ</reg></choice><supplied reason="lost">ς</supplied></w> <gap reason="lost" extent="unknown"></gap>
