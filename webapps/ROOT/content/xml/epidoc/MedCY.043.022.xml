@@ -76,12 +76,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><milestone unit="column" n="left"/><persName type="divine" key="Christ"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></persName>
+                    <lb n="1"/><milestone unit="column" n="left"/><persName type="divine" key="Christ"><name nymRef="Ἰησοῦς Χριστός"></name><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></persName>
                     <lb n="2"/><milestone unit="column" n="left"/><expan><abbr rend="supraline"><hi rend="ligature">Υ<choice><orig>ι</orig><reg>ἱ</reg></choice></hi></abbr><ex>ὸ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan>
                     <lb n="3"/><milestone unit="column" n="left"/>Νι <milestone unit="column" n="right" break="no"/>κ<choice><orig>α</orig><reg>ᾶ</reg></choice>
-                    <lb n="4"/><milestone unit="column" n="left"/><expan><abbr rend="supraline">Φ</abbr><ex>ὼς</ex></expan> <milestone unit="column" n="right"/><persName type="divine" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστοῦ</ex></expan></persName>
+                    <lb n="4"/><milestone unit="column" n="left"/><expan><abbr rend="supraline">Φ</abbr><ex>ῶς</ex></expan> <milestone unit="column" n="right"/><persName type="divine" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστοῦ</ex></expan></persName>
                     <lb n="5"/><milestone unit="column" n="left"/><expan><abbr rend="supraline">Φ</abbr><ex>αίνει</ex></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Π</abbr><ex>ᾶσιν</ex></expan>
-                    <lb n="6"/><milestone unit="column" n="left"/><persName type="sacred" key="Helena"><name nymRef="Ἑλένη"><expan><abbr>Ἑ</abbr><ex>λένη</ex></expan></name></persName> <expan><abbr>Ε</abbr><ex>ὕρεν</ex></expan> <milestone unit="column" n="right"/><expan><abbr>Ἐ</abbr><ex>λέους</ex></expan> <expan><abbr>Ἔ</abbr><ex>ρεισμα</ex></expan>                    
+                    <lb n="6"/><milestone unit="column" n="left"/><persName type="sacred" key="Helena"><name nymRef="Ἑλένη"><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἑ</reg></choice></abbr><ex>λένῃ</ex></expan></name></persName> <expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἐ</reg></choice></abbr><ex>κ Θεοῦ</ex></expan><milestone unit="column" n="right"/><w lemma="εὕρεμα"><expan><abbr rend="supraline">Ε</abbr><ex>ὓρεμα</ex></expan></w> <w lemma="δίδωμι"><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἐ</reg></choice></abbr><ex>δόθη</ex></expan></w>                    
                  </ab>
                
                 <!-- Alternative mark-up <ab>
@@ -96,17 +96,17 @@
             <div type="apparatus">
                 <listApp>
                     <app>
-                        <note> There are a number of alternative readings for the cryptogram ΕΕΕΕ (l.6) to that proposed by Perdikes and Myriantheus (2009, 19): 
-                            Ἔρεισμα/Εὕρημα εὗρεν εὐσεβὴς Ἑλένη (Perdikes and Myriantheus)
-                            Ἑλένης εὕρημα Ἑβραίων ἔλεγχος (Babić)
-                            Ἑλένῃ ἐκ Θεοῦ εὕρεμα ἐδόθη (Rhoby)
-                            Εὕρεμα ἐδώθη ἐκ Θεοῦ Ἑλένης (Rhoby)                            
+                        <note> There are a number of alternative readings for the cryptogram ΕΕΕΕ (l.6): 
+                            Ἔρεισμα/Εὕρημα εὗρεν εὐσεβὴς Ἑλένη (Perdikes and Myriantheus 2009, 19)
+                            Ἑλένης εὕρημα Ἑβραίων ἔλεγχος (Babić 1979, Les croix è cryptogrammes)
+                            Ἑλένῃ ἐκ Θεοῦ εὕρεμα ἐδόθη (Rhoby 2013, secret messages? Tetragrams)
+                            Εὕρεμα ἐδώθη ἐκ Θεοῦ Ἑλένης (Rhoby 2013, secret messages? Tetragrams)                            
                         </note>
                     </app>
                 </listApp>
             </div>
             <div type="translation">
-                <p>Pending</p>
+                <p>The discovery [of the cross] was given from God to Helena</p>
             </div>
             <div type="commentary">
                 <p>Pending</p>
