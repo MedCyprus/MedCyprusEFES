@@ -12,7 +12,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.043.022</idno>
+                <idno type="filename">MedCY.043.023</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
                 </availability>
@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, north pilaster, east face, lower register</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, southeastern pier, east face</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Pending...Black letters against grey background <height unit="cm">5,5-13,5</height>
+                            <handNote>Black letters against grey background. Majuscule letters. Horizontal wavy line above all the abbreviations. <height unit="cm">8-9,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -66,22 +66,22 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-           <graphic rend="primary" url="043-022-01.jpg"><desc>Bema, north pilaster, east face, lower register, inscription</desc></graphic>
-        <graphic url="043-022-02.jpg"><desc>Bema, north pilaster, east face, lower register, inscription, inscription detail</desc></graphic>
-        <graphic url="043-022-03.jpg"><desc>Bema, north pilaster, east face, lower register, inscription, inscription detail</desc></graphic>
-        <graphic url="043-022-04.jpg"><desc>Bema, north pilaster, east face, lower register, inscription, inscription detail</desc></graphic>
-        <graphic url="043-022-05.jpg"><desc>Bema, north pilaster, east face, lower register, inscription, inscription detail</desc></graphic>
+           <graphic rend="primary" url="043-023-01.jpg"><desc>Bema, southeastern pier, east face, inscription</desc></graphic>
+        <graphic url="043-023-02.jpg"><desc>Bema, southeaster pier, east face, inscription detail</desc></graphic>
+        <graphic url="043-023-03.jpg"><desc>Bema, southeastern pier, east face, inscription detail</desc></graphic>
+        <graphic url="043-023-04.jpg"><desc>Bema, southeastern pier, east face, inscription detail</desc></graphic>
+        <graphic url="043-023-05.jpg"><desc>Bema, southeastern pier, east face, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>
-                    <lb n="1"/><milestone unit="column" n="left"/><persName type="divine" key="Christ"><name nymRef="Ἰησοῦς Χριστός"></name><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></persName>
+                <ab>Pending
+                    <!--<lb n="1"/><milestone unit="column" n="left"/><persName type="divine" key="Christ"><name nymRef="Ἰησοῦς Χριστός"></name><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></persName>
                     <lb n="2"/><milestone unit="column" n="left"/><expan><abbr rend="supraline"><hi rend="ligature">Υ<choice><orig>ι</orig><reg>ἱ</reg></choice></hi></abbr><ex>ὸ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan>
                     <lb n="3"/><milestone unit="column" n="left"/>Νι <milestone unit="column" n="right" break="no"/>κ<choice><orig>α</orig><reg>ᾶ</reg></choice>
                     <lb n="4"/><milestone unit="column" n="left"/><expan><abbr rend="supraline">Φ</abbr><ex>ῶς</ex></expan> <milestone unit="column" n="right"/><persName type="divine" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστοῦ</ex></expan></persName>
                     <lb n="5"/><milestone unit="column" n="left"/><expan><abbr rend="supraline">Φ</abbr><ex>αίνει</ex></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Π</abbr><ex>ᾶσιν</ex></expan>
-                    <lb n="6"/><milestone unit="column" n="left"/><persName type="sacred" key="Helena"><name nymRef="Ἑλένη"><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἑ</reg></choice></abbr><ex>λένῃ</ex></expan></name></persName> <expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἐ</reg></choice></abbr><ex>κ Θεοῦ</ex></expan><milestone unit="column" n="right"/><w lemma="εὕρεμα"><expan><abbr rend="supraline">Ε</abbr><ex>ὓρεμα</ex></expan></w> <w lemma="δίδωμι"><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἐ</reg></choice></abbr><ex>δόθη</ex></expan></w>                    
+                    <lb n="6"/><milestone unit="column" n="left"/><persName type="sacred" key="Helena"><name nymRef="Ἑλένη"><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἑ</reg></choice></abbr><ex>λένῃ</ex></expan></name></persName> <expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἐ</reg></choice></abbr><ex>κ Θεοῦ</ex></expan><milestone unit="column" n="right"/><w lemma="εὕρεμα"><expan><abbr rend="supraline">Ε</abbr><ex>ὓρεμα</ex></expan></w> <w lemma="δίδωμι"><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἐ</reg></choice></abbr><ex>δόθη</ex></expan></w>-->                 
                  </ab>
                
                 <!-- Alternative mark-up <ab>
@@ -96,16 +96,16 @@
             <div type="apparatus">
                 <listApp>
                     <app>
-                        <note> There are a number of alternative readings for the cryptogram ΕΕΕΕ (l.6): Ἔρεισμα/Εὕρημα εὗρεν εὐσεβὴς Ἑλένη (Perdikes and Myriantheus 2009, 19), Ἑλένης εὕρημα Ἑβραίων ἔλεγχος (Babić 1979, Les croix è cryptogrammes), Ἑλένῃ ἐκ Θεοῦ εὕρεμα ἐδόθη (Rhoby 2013, secret messages? Tetragrams), Εὕρεμα ἐδώθη ἐκ Θεοῦ Ἑλένης (Rhoby 2013, secret messages? Tetragrams)                            
+                        <note>                           
                         </note>
                     </app>
                 </listApp>
             </div>
             <div type="translation">
-                <p>The discovery [of the cross] was given from God to Helena</p>
+                <p>Pending</p>
             </div>
             <div type="commentary">
-                <p>Good condition. The victorious acclamation Ἰ(ησοῦ)ς Χ(ριστὸ)ς Nικᾷ with the combination of Υἱ(ὸ)ς Θ(εο)ῦ usually appears on either side and in-between the arms of a patriarchal cross and it is very common in the byzantine painted churches. The connection of the acclamation to Constantine recalls his Vision of the Cross with the words τούτῳ νίκα before the Milvian bridge battle. The tetragram-acronym EEEE in the lower corners of the cross, glorifies the discovery of the True Cross by Constantine’s mother and can be interprete in many different ways.</p>
+                <p>Pending<!--Good condition. The victorious acclamation Ἰ(ησοῦ)ς Χ(ριστὸ)ς Nικᾷ with the combination of Υἱ(ὸ)ς Θ(εο)ῦ usually appears on either side and in-between the arms of a patriarchal cross and it is very common in the byzantine painted churches. The connection of the acclamation to Constantine recalls his Vision of the Cross with the words τούτῳ νίκα before the Milvian bridge battle. The tetragram-acronym EEEE in the lower corners of the cross, glorifies the discovery of the True Cross by Constantine’s mother and can be interprete in many different ways.--></p>
             </div>
             <div type="bibliography">
              <listBibl>
