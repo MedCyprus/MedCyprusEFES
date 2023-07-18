@@ -76,6 +76,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>Pending
+                    <lb n="1"/><persName type="divine" key="Christ"><name nymRef="Ἰησοῦς Χριστός"></name><expan><supplied reason="lost"><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex></supplied><abbr rend="supraline">ς</abbr></expan><milestone unit="column" n="right"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></persName>
+|                   <lb n="2"/>[Υἱ(ὸ)ς] |Θ(εο)ῦ
+                    <lb n="3"/><supplied reason="lost">Νι</supplied> |κᾶ
+                    <lb n="4"/> <supplied reason="lost"></supplied> / Τ(?)
+                    <lb n="5"/> <supplied reason="lost"></supplied> / Κ(?)
+                    <lb n="6"/> [E] [E] / Ε Ε
                     <!--<lb n="1"/><milestone unit="column" n="left"/><persName type="divine" key="Christ"><name nymRef="Ἰησοῦς Χριστός"></name><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></persName>
                     <lb n="2"/><milestone unit="column" n="left"/><expan><abbr rend="supraline"><hi rend="ligature">Υ<choice><orig>ι</orig><reg>ἱ</reg></choice></hi></abbr><ex>ὸ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan>
                     <lb n="3"/><milestone unit="column" n="left"/>Νι <milestone unit="column" n="right" break="no"/>κ<choice><orig>α</orig><reg>ᾶ</reg></choice>
