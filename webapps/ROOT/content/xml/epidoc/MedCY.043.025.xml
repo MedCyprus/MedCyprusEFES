@@ -28,8 +28,9 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, south pier</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <rs type="placement-building" ref="#naos">Naos, south pier, west face</rs>
+                                    <dimensions unit="cm" scope="text"><height>10</height><width>5,5</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>12</height><width>12</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background inside an ochre colour frame. The inscription is written in majuscule with the size of some characters varying. Accents and breathings systematic. Letter height: <height unit="cm">3</height>
+                            <handNote>Black letters against white background inside an ochre colour frame. The inscription is written in majuscule with the size of some characters varying. Letters MH in ligature. Mu with its middle bar forms an upsilon with a dot on its antennas. Double point after θύρα. Accents and breathings systematic. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -90,10 +91,10 @@
                <p>Pending</p>
             </div>
             <div type="translation">
-                <p>Pending</p>
+                <p>I am the gate. Whoever enters through me will be saved.</p>
             </div>
             <div type="commentary">
-                <p>Pending</p>
+                <p>Badly damaged. Very fragmentary. The words εἰμί and εἰσέλθῃ are misspelled. Accents and breathings with errors. The inscription is from Jonh' gospel  (John 10:9). </p>
             </div>
             <div type="bibliography">
                  <listBibl>
