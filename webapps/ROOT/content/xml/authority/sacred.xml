@@ -252,6 +252,8 @@
                 <person xml:id="MeterTheou">
                     <persName xml:lang="grc">Μήτηρ Θεοῦ</persName>
                     <persName xml:lang="en">Mother of God</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Eleousa">Ἐλεοῦσα</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Eleousa">Eleousa</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q345</idno>
                     <note>See also: Theotokos, Virgin, Maria</note>
                 </person>
