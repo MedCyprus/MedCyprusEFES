@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Christ's gospel</title>
+                <title>Christ's Antiphonetes gospel</title>
                  <author xml:id="tp">Theocharis Petrou</author> 
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -75,12 +75,12 @@
                 <ab>
                     <cb n="a"/>
                     <lb n="1"/><w lemma="εγώ"><choice><orig>Ἑ</orig><reg>Ἐ</reg></choice>γὼ</w><w lemma="εἰμί"> <supplied reason="lost">εἰ</supplied>
-                    <lb n="2" break="no"/><hi rend="ligature">μ<choice><orig>η</orig><reg>ὴ</reg></choice></hi></w> <w lemma="θύρα">θ[<supplied reason="lost">ύ</supplied>
+                    <lb n="2" break="no"/><hi rend="ligature">μ<choice><orig>η</orig><reg>ὴ</reg></choice></hi></w> <w lemma="θύρα">θ<supplied reason="lost">ύ</supplied>
                     <lb n="3" break="no"/>ρα</w>: δι <w lemma="ἐγώ"><choice><orig>ἑ</orig><reg>ἐ</reg></choice>
                     <lb n="4" break="no"/><supplied reason="lost">μοῦ</supplied></w> <choice><orig>ε</orig><reg>ἐ</reg></choice>
                     <lb n="5" break="no"/><supplied reason="lost">άν</supplied> <w lemma="τίς"><supplied reason="lost">τις</supplied></w>
                     <cb n="b"/>
-                    <lb n="1"/><w lemma="εἰσέρχομαι">ὐσ<supplied reason="lost">έλ</supplied>
+                    <lb n="1"/><w lemma="εἰσέρχομαι"><choice><orig>ὑ</orig><reg>ὐ</reg></choice>σ<supplied reason="lost">έλ</supplied>
                     <lb n="2" break="no"/>θ<choice><orig>η</orig><reg>ῃ</reg></choice></w> <w lemma="σῴζομαι"><supplied reason="lost">σω</supplied>
                     <lb n="3" break="no"/><supplied reason="lost">θήσε</supplied>
                     <lb n="4" break="no"/><supplied reason="lost">ται</supplied></w>
