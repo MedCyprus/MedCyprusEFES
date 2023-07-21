@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background inside an ochre colour frame. The inscription is written in majuscule with the size of some characters varying. Delta is formed with a lambda on a horizontal line, which at its ends has a vertical point. Mu with its middle bar forms an upsilon with a dot on its antennas and at the top of its vertical line. Letters ΤΗ, ΜΡ,ΟΥ,ΜΗΡ in ligature. The words δέησιν, μητρός, μῆτερ are rendered by an abbreviation with a wavy line above each word. In line 17, the abbreviation of the word εὐχαριστῶ is rendered by two irregular lines. Double point after λόγε, αἰτεῖς, σωτηρίαν, ἐπιστρέφουσι. Accents and breathings systematic.Letter height: <height unit="cm">2,5-4</height>
+                            <handNote>Black letters against white background inside an ochre colour frame. The inscription is written in majuscule with the size of some characters varying. Delta is formed with a lambda on a horizontal bar, which at its ends has a vertical point. Mu with its middle bar forms an upsilon with a dot on its antennas and at the top of its vertical bar. Pi with short line attached the horizontal bar; Letters ΤΗ, ΜΡ,ΟΥ,ΜΗΡ in ligature. The words δέησιν, μητρός, μῆτερ are rendered by an abbreviation with a wavy line above each word. In line 17, the abbreviation of the word εὐχαριστῶ is rendered by two irregular lines. Double point after λόγε, αἰτεῖς, σωτηρίαν, ἐπιστρέφουσι. Middle dot after λόγε. Accents and breathings systematic. Letter height: <height unit="cm">2,5-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -76,7 +76,22 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>Pending
-                    <lb n="1"/>   
+                    <lb n="1"/>+ 
+                    <lb n="2"/>Δέξε
+                    <lb n="3"/>δέ(ησι)ν τῆ
+                    <lb n="4"/>σῆς μ(η)τρό
+                    <lb n="5"/>ς σου λόγε·
+                    <lb n="6"/>τη μῆ(τε)ρ ἐτῆς ;
+                    <lb n="7"/>: Τῶν βρο-
+                    <lb n="8"/>τῶν σοτη-
+                    <lb n="9"/>ρία: Παρόρ-
+                    <lb n="10"/>σαν με
+                    <lb n="11"/>[συμπάθησον υι]-
+                    <lb n="12"/>έ μου [ἀλλ'ου]-
+                    <lb n="13"/>κ ἐπιστρ[έ]-
+                    <lb n="14"/>φουση: Κὲ
+                    <lb n="15"/>σῶσων χάρι[ν].
+                    <lb n="16"/>Ἐξουση λύτ[ρον]· Εὐχαριστῶ σοι λόγε 
                  </ab>
             </div>
             <div type="apparatus">
