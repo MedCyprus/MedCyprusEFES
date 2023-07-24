@@ -76,11 +76,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>Pending
-                    <lb n="1"/>+ 
-                    <lb n="2"/>Δέξε
-                    <lb n="3"/>δέ(ησι)ν τῆ
-                    <lb n="4"/>σῆς μ(η)τρό
-                    <lb n="5"/>ς σου λόγε·
+                    <lb n="1"/><g ref="#cross">+</g> 
+                    <lb n="2"/><w lemma="δέχομαι">Δέξε</w>
+                    <lb n="3"/><w lemma="δέησις"><expan><abbr rend="supraline">δέ</abbr><ex>ησι</ex><abbr rend="supraline">ν</abbr></expan></w> <hi rend="ligature">τ<choice><orig>η</orig><reg>ῆ</reg></choice></hi>
+                    <lb n="4"/><w lemma="σή">σῆς</w> <w lemma="μήτηρ"><expan><abbr rend="supraline">μ</abbr><ex>ητ</ex><abbr rend="supraline">ρό
+                    <lb n="5" break="no"/>ς</abbr></expan></w> <w lemma="σύ">σ<hi rend="ligature">ου</hi></w> <w lemma="λόγος">λόγε</w>·
                     <lb n="6"/>τη μῆ(τε)ρ ἐτῆς ;
                     <lb n="7"/>: Τῶν βρο-
                     <lb n="8"/>τῶν σοτη-
