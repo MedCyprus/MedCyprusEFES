@@ -29,7 +29,7 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, south wall, upper register, central scene</rs>
-                                    <dimensions><height></height></dimensions>
+                                    <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -76,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="divine" key="Christ"><name nymRef ="Χριστός"><expan><abbr rend="supraline">Χ</abbr><ex>ριστ</ex><abbr rend="supraline">ῦ</abbr></expan></name></persName> Γέ<hi rend="ligature">νν</hi>ισης
+                    <lb n="1"/><persName type="divine" key="Christ"><name nymRef ="Χριστός"><expan><abbr rend="supraline">Χ</abbr><ex>ριστο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></name></persName> Γ<choice><orig>ε</orig><reg>έ</reg></choice><hi rend="ligature">νν</hi>ισης
                  </ab>
             </div>
             <div type="apparatus">
@@ -86,7 +86,7 @@
                 <p>Christ's nativity</p>
             </div>
             <div type="commentary">
-                <p>Damaged. The word γέννησις is misspelled</p>
+                <p>Damaged. The word γέννησις is misspelled.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
