@@ -35,13 +35,23 @@
                         <note>Donor of the mural panel of St Anastasia the Deliverer from Poisons in the narthex of Panagia Phorbiotissa or Asinou, Niketari</note>
                     </person>
                     
+                    <person xml:id="ChristophorosΟmotes">
+                        <persName xml:lang="en"><forename>Christophoros</forename> <surname>Οmotes</surname></persName>
+                        <persName xml:lang="grc"><forename>Χριστοφόρος</forename> <surname>Ὀμότης</surname></persName>
+                        <floruit notBefore="1201" notAfter="1300">13th century</floruit>                
+                        <note>Donor of the mural panel of St Christopher in the naos of Panagia, Moutoullas</note>
+                    </person>
+                    <relation active="#ChristophorosΟmotes" ref="snap:husbandOf" passive="#Maria">
+                        <desc>husband of Maria</desc>
+                    </relation>
+                    
                     <person xml:id="Eirene">
                         <persName xml:lang="en"><forename>Eirene</forename></persName>
                         <persName xml:lang="grc">Εἰρήνη</persName>
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                     
                         <note>Founder of the church of Panagia, Moutoullas, and donor of its 1280 murals</note>
                     </person>
-                    <relation active="#Eirene" ref="snap:wifeOf" passive="#IoannesGerakiotes">
+                   <relation active="#Eirene" ref="snap:wifeOf" passive="#IoannesGerakiotes">
                         <desc>wife of Ioannes Gerakiotes</desc>
                     </relation>
                     
@@ -109,7 +119,7 @@
                         <idno type="wikidata"></idno>
                         <idno type="PBW">...</idno>-->
                     </person>
-                    <relation active="#Leon" ref="snap:sonOf" passive="#Authentes">
+                   <relation active="#Leon" ref="snap:sonOf" passive="#Authentes">
                         <desc>son of Authentes</desc>
                     </relation>
                     
@@ -122,7 +132,7 @@
                         <idno type="wikidata"></idno>
                         <idno type="PBW">...</idno>-->
                     </person>
-                    <relation active="#Authentes" ref="snap:fatherOf" passive="#Leon">
+                   <relation active="#Authentes" ref="snap:fatherOf" passive="#Leon">
                         <desc>father of Leon</desc>
                     </relation>
                     
@@ -135,6 +145,16 @@
                        <!-- <idno type="wikidata"></idno>
                         <idno type="PBW">...</idno>-->
                     </person>
+                    
+                    <person xml:id="Maria">
+                        <persName xml:lang="en"><forename>Maria</forename></persName>
+                        <persName xml:lang="grc">Μαρία</persName>
+                        <floruit notBefore="1201" notAfter="1300">13th century</floruit>                     
+                        <note>Donor of the mural panel of St Christopher in the naos of Panagia, Moutoullas</note>
+                    </person>
+                    <relation active="#Maria" ref="snap:wifeOf" passive="#ChristophorosΟmetes">
+                        <desc>wife of Christophoros Homotes</desc>
+                    </relation>
                     
                     <person xml:id="Neophytos">
                         <persName xml:lang="en"><forename>Neophytos</forename></persName>
