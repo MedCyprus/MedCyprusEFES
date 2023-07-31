@@ -72,7 +72,7 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>
+                <ab>Pending
               <lb n="1"/> <g ref="#cross">+</g> <w lemma="δέησις"><expan><abbr rend="supraline">Δ<choice><orig>ε</orig><reg>έ</reg></choice></abbr><ex>ησις</ex></expan></w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi>
               <lb n="2"/><w lemma="δοῦλος">δούλου</w> τ<hi rend="ligature">ου</hi> <persName type="divine" key="God"><name nymRef="Θεός"></name><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>· <persName type="attested" role="donor" ref="#ChristophorosΟmotes"><name nymRef="Χριστοφόρος" type="forename"></name>Χρι
               <lb n="3" break="no"/>στοφώρου· τοῦ <name nymRef="Ὀμότης" type="surname">ομότ(ου)</name></persName>
