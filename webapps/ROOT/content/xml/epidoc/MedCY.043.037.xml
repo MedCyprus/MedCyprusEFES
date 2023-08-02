@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Some characters' size varies. diagonal final sigma. Accents and breathing systematic. Letter height: <height unit="cm">2-4</height>
+                            <handNote>White letters against red background. Majuscule letters. Some characters' size varies. Diagonal final sigma. Accents and breathings systematic. Letter height: <height unit="cm">2-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -66,7 +66,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-037-01.jpg"><desc>Naos, south wall, lower register, next to St Christopehr, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-037-01.jpg"><desc>Naos, south wall, lower register, next to St Christopher, inscription detail</desc></graphic>
         <graphic url="043-037-02.jpg"><desc>Naos, south wall, lower register, next to St Christopher, inscription</desc></graphic>
     </facsimile>
     <text>
