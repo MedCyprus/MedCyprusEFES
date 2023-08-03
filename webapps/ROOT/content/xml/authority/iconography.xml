@@ -280,6 +280,9 @@
                 </list></item>
                 <item><list type="doctors">
                     <head>Doctor saints (Anargyroi)</head>
+                    <item xml:id="Cosmas"> 
+                        <term xml:lang="en">Cosmas</term>
+                    </item>
                     <item xml:id="damian"> 
                         <term xml:lang="en">Damian</term>
                     </item>
