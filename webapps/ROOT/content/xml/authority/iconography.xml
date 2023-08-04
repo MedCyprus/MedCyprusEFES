@@ -93,6 +93,10 @@
                 <term xml:lang="en">Christ</term>
                     </item>
                 
+                <item xml:id="ChristLazarusResurrection">
+                    <term xml:lang="en">Lazarus Resurrection, Christ</term>
+                </item>
+                
                 <item xml:id="ChristNativity">
                     <term xml:lang="en">Christ, Nativity</term>
                 </item>
