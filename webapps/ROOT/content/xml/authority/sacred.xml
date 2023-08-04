@@ -211,6 +211,12 @@
                     <note>See also: Christ, Word, Master</note>
                 </person>
                 
+                <person xml:id="Lazarus">
+                    <persName xml:lang="grc"><seg>ἅγιος </seg>Λάζαρος</persName>
+                    <persName xml:lang="en">Lazarus, saint</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q539890</idno>                   
+                </person>
+                
                 <person xml:id="Mamas">
                     <persName xml:lang="grc"><seg>ἅγιος</seg> Μάμας</persName>
                     <persName xml:lang="en">Mamas, saint</persName> 
