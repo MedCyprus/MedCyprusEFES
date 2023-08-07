@@ -96,8 +96,12 @@
                 <term xml:lang="en">Christ</term>
                     </item>
                 
-                <item xml:id="ChristLazarusResurrection">
-                    <term xml:lang="en">Lazarus Resurrection, Christ</term>
+                <item xml:id="christEmmanuel">
+                    <term xml:lang="en">Christ Emmanuel</term>
+                </item>
+                
+                <item xml:id="ChristAntiphonetes">
+                    <term xml:lang="en">Christ Antiphonetes</term>
                 </item>
                 
                 <item xml:id="ChristNativity">
@@ -108,13 +112,14 @@
                     <term xml:lang="en">Christ, Bathing</term>
                 </item>
                 
-                <item xml:id="christEmmanuel">
-                    <term xml:lang="en">Christ Emmanuel</term>
+                <item xml:id="ChristEntryIntoJerusalem">
+                    <term xml:lang="en">Entry into Jerusalem, Christ</term>
                 </item>
                 
-                <item xml:id="ChristAntiphonetes">
-                    <term xml:lang="en">Christ Antiphonetes</term>
+                <item xml:id="ChristLazarusResurrection">
+                    <term xml:lang="en">Lazarus Resurrection, Christ</term>
                 </item>
+                
                 
                 <item xml:id="ConstantineTheGreat">
                     <term xml:lang="en">Constantine the Great</term>
