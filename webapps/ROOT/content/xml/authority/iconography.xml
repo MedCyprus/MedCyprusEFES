@@ -205,6 +205,10 @@
                         <term xml:lang="en">John the Theologian</term>
                     </item>
                     
+                    <item xml:id="JohnTheologianCrucifixion">
+                        <term xml:lang="en">Crucifixion, John the Theologian</term>
+                    </item>
+                    
                     <item xml:id="Mark">
                         <term xml:lang="en">Mark the Evangelist</term>
                     </item>
