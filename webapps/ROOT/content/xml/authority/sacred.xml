@@ -267,6 +267,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43600</idno>                   
                 </person>
                 
+                <person xml:id="Maura">
+                    <persName xml:lang="grc"><seg>ἁγία</seg> Μαύρα</persName>
+                    <persName xml:lang="en">Maura, saint</persName>        
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q116026227</idno>                   
+                </person>
+                
                 <person xml:id="MeterTheou">
                     <persName xml:lang="grc">Μήτηρ Θεοῦ</persName>
                     <persName xml:lang="en">Mother of God</persName>
