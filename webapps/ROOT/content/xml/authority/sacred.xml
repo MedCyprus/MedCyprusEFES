@@ -22,6 +22,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2619342</idno>                   
                 </person>
                 
+                <person xml:id="Athanasia">
+                    <persName xml:lang="grc"><seg>ἁγία </seg>Ἀθανασία</persName>
+                    <persName xml:lang="en">Athanasia, saint</persName>
+                    <idno type="wikidata">not listed</idno>                   
+                </person>
+                
                 <person xml:id="AthanasiosPentaschoinites">
                     <persName xml:lang="grc"><seg>ἅγιος </seg>Ἀθανάσιος Πεντασχοινίτης</persName>
                     <persName xml:lang="en">Athanasios Pentaschoinites, saint</persName>
