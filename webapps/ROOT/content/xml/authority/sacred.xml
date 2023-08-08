@@ -48,6 +48,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q18222658</idno>                   
                 </person>
                 
+                <person xml:id="Barbara">
+                    <persName xml:lang="grc"><seg>ἁγία</seg> Βαρβάρα</persName>
+                    <persName xml:lang="en">Barbara, saint</persName>        
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q192816</idno>                   
+                </person>
+                
                 <person xml:id="Basil">
                     <persName xml:lang="grc"><seg>ἅγιος </seg>Βασίλειος</persName>
                     <persName xml:lang="en">Basil the Great, saint</persName>
@@ -242,6 +248,12 @@
                     <persName xml:lang="en" type="epithet" subtype="Maria" key="kecharitomene">full of grace</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q345</idno>
                     <note>See also: Mother of God, Theotokos, Virgin </note>
+                </person>
+                
+                <person xml:id="Marina">
+                    <persName xml:lang="grc"><seg>ἁγία</seg> Μαρίνα</persName>
+                    <persName xml:lang="en">Marina, saint</persName>        
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q297742</idno>                   
                 </person>
                 
                 <person xml:id="Mark">
