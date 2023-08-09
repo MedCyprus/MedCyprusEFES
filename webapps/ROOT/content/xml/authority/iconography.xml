@@ -120,6 +120,9 @@
                     <term xml:lang="en">Lazarus Resurrection, Christ</term>
                 </item>
                 
+                <item xml:id="ChristResurrection">
+                    <term xml:lang="en">Christ Resurrection</term>
+                </item>
                 
                 <item xml:id="ConstantineTheGreat">
                     <term xml:lang="en">Constantine the Great</term>
@@ -187,6 +190,14 @@
                     
                     <item xml:id="david"> 
                         <term xml:lang="en">David</term>
+                    </item>
+                    
+                    <item xml:id="JohnForerunner"> 
+                        <term xml:lang="en">John the Forerunner</term>
+                    </item>
+                    
+                    <item xml:id="ResurrectionJohnForerunner"> 
+                        <term xml:lang="en">Resurrection, John the Forerunner</term>
                     </item>
                     
                     <item xml:id="solomon"> 
