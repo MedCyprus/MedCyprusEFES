@@ -196,6 +196,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43706</idno>                   
                 </person>
                 
+                <person xml:id="JohnForerunner">
+                    <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰωάννης ὁ Πρόδρομος</persName>
+                    <persName xml:lang="en">John the Forerunner, saint</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="JohnForerunner" key="Forerunner">ὁ Πρόδρομος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JohnForerunner" key="Forerunner">Forerunner</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q40662</idno>                   
+                </person>
+                
                 <person xml:id="JohnTheologian">
                     <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰωάννης ὁ Θεολόγος</persName>
                     <persName xml:lang="en">John the Theologian, saint</persName> 
