@@ -14,6 +14,12 @@
         <body>
             <listPerson>
                 
+                <person xml:id="AnastasiaPharmakolytria">
+                    <persName xml:lang="grc"><seg>ἁγία </seg>Ἀναστασία</persName>
+                    <persName xml:lang="en">Anastasia, saint</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q232975</idno>                   
+                </person>
+                
                 <person xml:id="angel">
                     <persName xml:lang="grc">ἄγγελος</persName>
                     <persName xml:lang="en">angel</persName>                   
