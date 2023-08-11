@@ -352,6 +352,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q37085</idno>                   
                 </person>
                 
+                <person xml:id="Stylianos">
+                    <persName xml:lang="grc"><seg>ἅγιος </seg>Στυλιανός</persName>
+                    <persName xml:lang="en">Stylianos, saint</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q36786</idno>                   
+                </person>
+                
                 <person xml:id="Themonianos">
                     <persName xml:lang="grc"><seg>ὅσιος </seg>Θεμωνιανός</persName>
                     <persName xml:lang="en">Themonianos, saint</persName>
