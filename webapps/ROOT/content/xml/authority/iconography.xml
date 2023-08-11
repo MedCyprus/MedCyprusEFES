@@ -46,6 +46,12 @@
                 <item xml:id="annunciation">
                     <term xml:lang="en">Annunciation</term>
                 </item>
+                <item xml:id="Dormition">
+                    <term xml:lang="en">Dormition</term>
+                </item>
+                <item xml:id="DormitionVirgin">
+                    <term xml:lang="en">Dormition, Virgin</term>
+                </item>
             </list>
             
             <list type="other_compositions">
