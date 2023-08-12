@@ -29,7 +29,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, north wall, upper register, first scene on the left</rs>
-                                    <dimensions><height>Pending</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>12</height><width>5</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>19</height><width>5,5</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
