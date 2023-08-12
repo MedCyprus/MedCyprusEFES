@@ -73,8 +73,15 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>PENDING
-                       <!--<lb n="1"/><persName type="divine" key="JohnTheologian"><name nymRef ="Ἰωάννης ὁ Θεολόγος"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name></persName>-->
+                <ab>
+             <cb n="a"/>
+                    <lb n="1"/><persName type="sacred" key="Stylianos"><w lemma="ἅγιος">Ὁ
+                    <lb n="2"/>ἅ
+                    <lb n="3" break="no" />γι
+                    <lb n="4" break="no"/>ος</w>
+             <cb n="b"/>
+                    <lb n="1"/><name nymRef="Στυλιανός">Σ<hi rend="ligature">τη</hi>ληα
+                    <lb n="2" break="no"/>ν<choice><orig>ό</orig><reg>ὸ</reg></choice>ς</name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +91,7 @@
                 <p>Stylianos</p>
             </div>
             <div type="commentary">
-                <p>Pending.Poor condition</p>
+                <p>Poor condition. The saint's name is misspelled. The painter uses the eta instead of the upsilon and iota respectively.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
