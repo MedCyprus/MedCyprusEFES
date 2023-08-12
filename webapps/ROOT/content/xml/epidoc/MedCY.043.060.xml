@@ -73,15 +73,15 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>PENDING
-            <!-- <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="Stylianos"><w lemma="ἅγιος">Ὁ
-                    <lb n="2"/>ἅ
-                    <lb n="3" break="no" />γι
-                    <lb n="4" break="no"/>ος</w>
-             <cb n="b"/>
-                    <lb n="1"/><name nymRef="Στυλιανός">Σ<hi rend="ligature">τη</hi>ληα
-                    <lb n="2" break="no"/>ν<choice><orig>ὸ</orig><reg>ό</reg></choice>ς</name></persName> -->
+                <ab>
+                    <lb n="1"/><supplied reason="lost">Ἡ <w lemma="ἐλπίς">ἐλπίς</w></supplied>
+                    <lb n="2"/><supplied reason="lost"><w lemma="ἐγώ">μου</w> ὁ</supplied> <persName type="divine" key="God"><name nymRef="Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex>[<supplied reason="lost"><abbr rend="supraline">C</abbr></supplied></expan></w></persName>
+                    <lb n="3"/><w lemma="καταφυγή">καταφη
+                    <lb n="4" break="no"/>γί</w> <w lemma="ἐγώ">μου</w> ὁ <persName type="divine" key="Christ"><name nymRef="Χριστός"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></name></persName>
+                    <lb n="5"/><w lemma="σκέπη">σκαὶπι</w>
+                    <lb n="6"/><w lemma="ἐγώ">μου</w> τὸ <w lemma="πνεῦμα"><expan><abbr rend="supraline">πν</abbr><ex>εύμ</ex><abbr rend="supraline">α</abbr></expan></w>
+                    <lb n="7"/>τὸ <w lemma="ἅγιον">ἅγιων</w>
+                    <lb n="8"/><g ref="cross">+</g><g ref="cross">+</g><g ref="cross">+</g><g ref="cross">+</g>
                  </ab>
             </div>
             <div type="apparatus">
