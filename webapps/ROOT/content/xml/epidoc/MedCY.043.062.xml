@@ -29,7 +29,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, north wall, lower register, west half, central figure</rs>
-                                    <dimensions><height>n/a</height></dimensions>    
+                                    <dimensions unit="cm" scope="inside_frame"><height>4</height><width>7</width></dimensions>
+                                    <dimensions unit="cm" scope="outside_frame"><height>6</height><width>9</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -83,7 +84,7 @@
                 <p>Holy, holy, holy Lord of Sabaoth</p>
             </div>
             <div type="commentary">
-                <p>Good condition</p>
+                <p>Good condition. The inscription appears in abbreviated form rather than the earlier one used in Panagia tou Arakos' church at Lagoudera as complete word. The text is from the Isaiah 6:13 and it is referred in the Divine Liturgy in the Victory's hymn (Epinikios Ymnos) </p>
             </div>
             <div type="bibliography">
                  <listBibl>
