@@ -223,6 +223,8 @@
                 <person xml:id="Lord">
                     <persName xml:lang="grc">Κύριος</persName>
                     <persName xml:lang="en">Lord</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Lord" key="Holy">Ἅγιος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Lord" key="Holy">Holy</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q12826225</idno>              
                     <note>See also: Christ, God, Jesus Christ, Trinity, Word, Master</note>
                 </person>
