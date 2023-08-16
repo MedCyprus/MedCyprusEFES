@@ -73,7 +73,15 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>PENDING
+                <ab>
+                    <cb n="a"/>
+                    <lb n="1"/><persName type="sacred" key="George"><w lemma="ἅγιος">Ὁ
+                    <lb n="2"/>ἅ
+                    <lb n="3" break="no" />γι
+                    <lb n="4" break="no"/>ος</w>
+             <cb n="b"/>
+                    <lb n="1"/><name nymRef="Γεώργιος">Γεώργιος</name>
+                    <lb n="2" />ὁ <addName type="epithet" key="from Cappadocia">Καππαδόξ</addName></persName> 
                  </ab>
             </div>
             <div type="apparatus">
