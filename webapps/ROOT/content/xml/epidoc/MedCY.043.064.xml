@@ -73,11 +73,11 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>
+                <ab>PENDING
                     <lb n="1"/><w lemma="ἀδελφός"><supplied reason="lost">Ἀδελφοὶ</supplied></w>
                     <lb n="2"/><w lemma="παρακαλῶ"><supplied reason="lost">παρακαλῶ</supplied></w>
                     <lb n="3"/><w lemma="σύ"><supplied reason="lost">ὑμᾶς</supplied></w> <supplied reason="lost">ὡς</supplied> <w lemma="πάροικος"><supplied reason="lost">παροί
-                    <lb n="4" break="no"/>κους</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="παρεπίδημος"><supplied reason="lost">παρε
+                <lb n="4" break="no"/>κους</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="παρεπίδημος"><supplied reason="lost">παρε
                     <lb n="5" break="no"/>πιδήμους</supplied></w> <w lemma="ἀπέχω"><supplied reason="lost">ἀπέ</supplied>
                     <lb n="6" break="no"/>χ<unclear>εσ</unclear><supplied reason="lost">θαι</supplied></w> <supplied reason="lost">τῶν</supplied>
                     <lb n="7"/><w lemma="σαρκικός">σα<supplied reason="lost">ρκικῶν</supplied></w>
@@ -93,7 +93,9 @@
 </p>
             </div>
             <div type="commentary">
-                <p>PENDING.Poor condition. Faded. Accents and breathing with errors</p>
+                <p>Poor condition. Faded. Lines 1-5 not survived. Accents and breathing with errors. The inscription is from Peter's Epistle I, 2:11: Ἀγαπητοί, παρακαλῶ ὡς παροίκους καὶ παρεπιδήμους ἀπέχεσθαι τῶν σαρκικῶν ἐπιθυμιῶν. However, the incipit Ἀδελφοί, παρακαλῶ ὑμᾶς, originates from Paul's epistles. Text reconstruction was based on the example of Apostle Peter's mural from the church of the Transfiguration of the Saviour at Sotira.
+
+</p>
             </div>
             <div type="bibliography">
                  <listBibl>
