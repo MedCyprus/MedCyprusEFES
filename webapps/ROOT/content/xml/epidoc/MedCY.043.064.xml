@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Apostle Peter's scroll</title>
+                 <author xml:id="tp">Theocharis Petrou</author> 
+                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.043.064</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>                       
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                    <rs type="placement-building" ref="#naos">Naos, north wall, lower register, west half, next to the Archangel Michael</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>On the open scroll held in the left hand by the apostle</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Black letters against white background between two ruled ochre coloured line. Majuscule letters. Pi with short line attached the horizontal bar; Accents and breathings. Letter height: <height unit="cm">3</height>
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <p>... <rs type="iconography" ref="iconography.xml#Peter">Peter</rs></p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Moutoullas">Moutoullas, Panagia Church</origPlace>
+                            <origDate when="1280-07-30" precision="high">July 30, 1280</origDate>
+                        </origin>                        
+                        <provenance when="2022">
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">22/09/2022</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
+                </keywords>
+            </textClass>
+            <creation>...</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic rend="primary" url="043-064-01.jpg"><desc>Naos, north wall, lower register, west half, next to Archangel Michael, inscription detail</desc></graphic>
+         <graphic url="043-064-02.jpg"><desc>Naos, north wall, lower register, west half, next to Archangel Michael, inscription </desc></graphic>
+         <graphic url="043-064-03.jpg"><desc>Naos, north wall, lower register, west half, next to Archangel Michael, general view</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+             <cb n="a"/>
+                    <lb n="1"/><w lemma="ἀδελφός"><supplied reason="lost">Ἀδελφοὶ</supplied></w>
+                    <lb n="2"/><w lemma="παρακαλῶ"><supplied reason="lost">παρακαλῶ</supplied></w>
+                    <lb n="3"/><w lemma="σύ"><supplied reason="lost">ὑμᾶς</supplied></w> ὡς <w lemma="πάροικος"><supplied reason="lost">παροί
+                    <lb n="4" break="no"/>κους</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="παρεπίδημος"><supplied reason="lost">παρε
+                    <lb n="5" break="no"/>πιδήμους</supplied></w> <w lemma="ἀπέχω"><supplied reason="lost">ἀπέ</supplied>
+                    <lb n="6" break="no"/>χ<unclear>εσ</unclear><supplied reason="lost">θαι</supplied></w> <supplied reason="lost">τῶν</supplied>
+                    <lb n="7"/><w lemma="σαρκικός">σα<supplied reason="lost">ρκικῶν</supplied></w>
+                    <lb n="8"/><w lemma="ἐπιθυμία"><choice><orig>ἑ</orig><reg>ἐ</reg></choice>πι<supplied reason="lost">θυμι</supplied>
+                    <lb n="9" break="no"/><choice><orig>ω</orig><reg>ῶ</reg></choice><supplied reason="lost">ν</supplied>
+                 </w></ab>
+            </div>
+            <div type="apparatus">
+               <p>Pending</p>
+            </div>
+            <div type="translation">
+                <p>Brothers, I urge you, as foreigners and exiles, to abstain from sinful (desires).
+</p>
+            </div>
+            <div type="commentary">
+                <p>PENDING.Poor condition. Faded. Accents and breathing with errors</p>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                <bibl><ptr target="Stylianou1960"/>,<citedRange>102-3</citedRange></bibl>
+                <bibl><ptr target="Mouriki1984"/>,<citedRange> 171-213</citedRange></bibl>
+                <bibl><ptr target="Papageorgiou2003"/>,<citedRange> 113</citedRange></bibl>
+                <bibl><ptr target="Rhoby2009"/>,<citedRange> 334, 341</citedRange></bibl>
+                <bibl><ptr target="PerdikisMyrianthefs2009"/></bibl>
+                <bibl><ptr target="VisCult"/><citedRange> 2, 1480-7</citedRange></bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
