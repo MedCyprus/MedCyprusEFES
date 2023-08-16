@@ -74,10 +74,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-             <cb n="a"/>
                     <lb n="1"/><w lemma="ἀδελφός"><supplied reason="lost">Ἀδελφοὶ</supplied></w>
                     <lb n="2"/><w lemma="παρακαλῶ"><supplied reason="lost">παρακαλῶ</supplied></w>
-                    <lb n="3"/><w lemma="σύ"><supplied reason="lost">ὑμᾶς</supplied></w> ὡς <w lemma="πάροικος"><supplied reason="lost">παροί
+                    <lb n="3"/><w lemma="σύ"><supplied reason="lost">ὑμᾶς</supplied></w> <supplied reason="lost">ὡς</supplied> <w lemma="πάροικος"><supplied reason="lost">παροί
                     <lb n="4" break="no"/>κους</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="παρεπίδημος"><supplied reason="lost">παρε
                     <lb n="5" break="no"/>πιδήμους</supplied></w> <w lemma="ἀπέχω"><supplied reason="lost">ἀπέ</supplied>
                     <lb n="6" break="no"/>χ<unclear>εσ</unclear><supplied reason="lost">θαι</supplied></w> <supplied reason="lost">τῶν</supplied>
@@ -90,7 +89,7 @@
                <p>Pending</p>
             </div>
             <div type="translation">
-                <p>Brothers, I urge you, as foreigners and exiles, to abstain from sinful (desires).
+                <p>Brothers, I urge you, as foreigners and exiles, to abstain from sinful desires.
 </p>
             </div>
             <div type="commentary">
