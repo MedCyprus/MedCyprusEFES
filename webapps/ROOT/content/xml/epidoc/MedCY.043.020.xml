@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                               <handNote>Black letters against ochre background. The inscription is written entirely in majuscule. Superscripts letters. Omega with crosslet. In line 6 tau with a star. Mu with its middle bar forms a tau. Final sigma in Eirene's name ends in a long horizontal wavy line. Double point after συνδρομῆς, Ἰω(άννου), Γερακ[ιώτη] Μουτου]λλά, αὐτοῦ. Use of diaeresis over iota in Ïρίνης (l. 6), Ïουλίω (l. 7). Middle dot after μηνί, εἰς. Horizontal wavy line above the abbreviation of  Ἰω(άννου). Letters ΠΤ, HΝ, ΟΥ in ligatures. Sporadic use of accents and breathings. Letter height: <height unit="cm">5,5-7,5</height>
+                               <handNote>Black letters against ochre background. The inscription is written entirely in majuscule. Superscripts letters. Omega with crosslet. In line 6 tau with a star. Mu with its middle bar forms a tau. Double point after συνδρομῆς, Ἰω(άννου), Γερακ[ιώτη] Μουτου]λλά, αὐτοῦ. Use of diaeresis over iota in Ïρίνης (l. 6), Ïουλίω (l. 7). Middle dot after μηνί, εἰς. Horizontal wavy line above the abbreviation of  Ἰω(άννου). Letters ΠΤ, HΝ, ΟΥ in ligatures. Sporadic use of accents and breathings. Letter height: <height unit="cm">5,5-7,5</height>
                             </handNote>
                          </handDesc>
                         <decoDesc>
@@ -78,7 +78,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><g ref="#cross">+</g><w lemma="ἀνοικοδομῶ"><supplied reason="lost">Ἀνοικο</supplied>δο<unclear>μ̣</unclear><supplied reason="lost">ήθη ὁ</supplied></w> <gap reason="lost" extent="unknown"></gap> <w lemma="πάνσεπτος"><supplied reason="lost">πά</supplied>
-                   <lb n="2" break="no"/><choice><sic>σ</sic><corr>ν</corr></choice>σεπτος</w> <w lemma="ναός">να<choice><sic>ω<supplied reason="lost">ς</supplied></sic><corr>ὸ</corr></choice></w> <gap reason="lost" extent="unknown"></gap>
+                   <lb n="2" break="no"/><choice><sic>σ</sic><corr>ν</corr></choice>σε<hi rend="ligature">πτ</hi>ος</w> <w lemma="ναός">να<choice><sic>ω<supplied reason="lost">ς</supplied></sic><corr>ὸ</corr></choice></w> <gap reason="lost" extent="unknown"></gap>
                    <lb n="3"></lb><addName type="epithet" key="despoina"><w lemma="Δέσποινα">Δεσπ<choice><sic>ί</sic><corr>οί</corr></choice>νης</w></addName> <w lemma="ἐγώ"><choice><orig>η</orig><reg>ἡ</reg></choice><unclear>μ</unclear><supplied reason="lost">ῶν</supplied></w> <gap reason="lost" extent="unknown"></gap>
                    <lb n="4"/><w lemma="συνδρομή">σ<choice><sic>η</sic><corr>υν</corr></choice>δρομ<choice><orig>η</orig><reg>ῆ</reg></choice>ς</w>: κα<choice><orig>ι</orig><reg>ὶ</reg></choice> <w lemma="πολύς">πο<unclear>λ</unclear><supplied reason="lost">λοῦ</supplied></w> <w lemma="πόθος"><unclear>π</unclear><choice><sic>ω</sic><corr>ό</corr></choice>
                    <lb n="5" break="no"/>θου</w> <persName type="attested" role="founder" ref="#IoannesGerakiotes"><name nymRef="Ἰωάννης" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννου</ex></expan></name>: το<choice><orig>υ</orig><reg>ῦ</reg></choice> <name nymRef="Γερακιώτης" type="surname">
