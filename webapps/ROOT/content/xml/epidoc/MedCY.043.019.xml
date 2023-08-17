@@ -75,7 +75,7 @@ Double point after Κ(υρίο)υ. Almost systematic use of accents and breathin
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><g ref="#cross">+</g><w lemma="Ἰδού"><choice><orig>Ï</orig><reg>Ἰ</reg></choice>δ<hi rend="ligature">οὺ</hi></w> ἱ <w lemma="δούλη">δ<hi rend="ligature">ού</hi>λη</w>
-                    <lb n="2"/><persName type="divine" key="Lord"><name nymRef="Κύριος"></name><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">υ</abbr></expan></w></persName>: <w lemma="γίγνομαι">γέ<hi rend="ligature">νη</hi>τώ</w> <w lemma="εγώ">μι</w> 
+                    <lb n="2"/><persName type="divine" key="Lord"><name nymRef="Κύριος"></name><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">υ</abbr></expan></w></persName>: <w lemma="γίγνομαι">γέ<hi rend="ligature">νη</hi>τώ</w> <w lemma="ἐγώ">μι</w> 
                     <lb n="3"/>κατ<choice><orig>α</orig><reg>ὰ</reg></choice> <hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi> <w lemma="ῥῆμα"><choice><orig>ρ</orig><reg>ῥ</reg></choice>ίμα</w>
                     <lb n="4"/><w lemma="σύ">σου</w>
                  </ab>
