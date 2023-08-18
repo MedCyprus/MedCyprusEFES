@@ -1030,9 +1030,6 @@
                         <bibl><ptr target="bibliography.xml#Parani2018"/><citedRange>1-85</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Parani2020"/><citedRange>59-78</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange> 2, 566-91</citedRange></bibl>
-                        
-                        
-                        
                     </listBibl>
                 </place>
                 
@@ -1305,22 +1302,41 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date when="1280-07-30" precision="high">July 30, 1280</date> (bema, nave)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1333" precision="medium">Early 14th century </date>(nave: Presentation of Christ in the Temple, gallery: external west wall)</desc>
-                            <desc type="layer" n="3">3rd layer: <date notBefore="1467" notAfter="1533" precision="medium"> Late 15th c. - Early 16th century </date>(gallery: external side of the northern wall)</desc>    
+                            <desc type="layer" n="3">3rd layer: <date notBefore="1467" notAfter="1533" precision="medium"> Late 15th - Early 16th century </date>(gallery: external side of the northern wall)</desc>    
                     </desc>
                     <desc type="conservation">1968, 2003, 2007</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="donors">Ioannes Gerakiotes and his wife Irene</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti"><desc type="graffiti">See <ref target="http://grafmedia.cy.example.com/id/0101010">Grafmedia</ref></desc></desc>
+                    <idno type="IBCC">Not listed</idno>
+                    <idno type="HGC">https://cyprusgazetteer.org/146277/525/</idno>
+                    <idno type="geonames">https://www.geonames.org/12636/panagia.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>102-3</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Mouriki1984"/><citedRange>171-213</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange> 113</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange> 334, 341</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#PerdikisMyrianthefs2009"/></bibl>
+                        <bibl><ptr target="bibliography.xml#VisCult"/><citedRange> 2, 1480-7</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>102-3</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1968, 11</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1972"/><citedRange>201-12</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Mouriki1984"/><citedRange>171-213</citedRange></bibl>                        
+                       <bibl><ptr target="bibliography.xml#Stylianou1996"/><citedRange>1277-84</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>323-30</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2003, 22</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange>113</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2007, 24-5</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2009, 23</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange>334, 341</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2010, 31</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#PerdikisMyrianthefs2009"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Touliatos2021"/><citedRange>318-33</citedRange></bibl>
                     </listBibl>
                 </place>
+                
                 
                 <place xml:id="Menas" n="44">
                     <placeName xml:lang="en">Neo Chorio (Pafou), Saint Menas</placeName>
