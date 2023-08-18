@@ -162,10 +162,6 @@
                     
                     <bibl xml:id="Papacostas2007"><author><surname>Papacostas</surname> <forename>T.</forename></author>, <date>2007</date>, <title level="a">The History and Architecture of the Monastery of Saint John Chrysostomos at Koutsovendis, Cyprus</title>, <title level="j">DOP</title> <biblScope unit="volume">61</biblScope>,<biblScope unit="page"> 25-156</biblScope>.</bibl>
                     
-                    <bibl xml:id="Papageorgiou2010"><author><surname>Papageorgiou</surname><forename> A.</forename></author>, <date>2010</date>, <title level="m">Christian Art in the Turkish-Occupied part of Cyprus</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
-                    
-                    <bibl xml:id="Papageorgiou2018"><editor><surname>Papageorgiou</surname> <forename>A.</forename></editor>, <editor><surname>Bakirtzis</surname> <forename>Ch.</forename></editor>, and <editor><surname>Hadjicristodoulou</surname> <forename>Ch.</forename></editor> (eds), <date>2018</date>, <title level="m">The Church of Panagia tou Arakos</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
-                    
                     <bibl xml:id="Papageorgiou1963"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>1963</date>, <title level="a">Η μονή Αψινθιωτίσσης</title>, <title level="j">RDAC</title> 1963, <biblScope unit="page">73-83</biblScope>.</bibl>
                     
                     <bibl xml:id="Papageorgiou1964"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>1964</date>, <title level="a">Ἡ Παλαιοχριστιανικὴ καὶ Βυζαντινὴ Ἀρχαιολογία καὶ Τέχνη ἐν Κύπρῳ κατὰ τὸ 1963</title>, <title level="j">Ἀπόστολος Βαρνάβας</title> <biblScope unit="volume">25</biblScope>, <biblScope unit="page">153-62, 209-16, 274-84, 349-53</biblScope>.</bibl>
@@ -173,6 +169,8 @@
                     <bibl xml:id="Papageorgiou1965"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>1965</date>, <title level="a">Ἡ Παλαιοχριστιανικὴ καὶ Βυζαντινὴ Ἀρχαιολογία καὶ Τέχνη ἐν Κύπρῳ κατὰ τὸ 1964</title>, <title level="j">Ἀπόστολος Βαρνάβας</title> <biblScope unit="volume">26</biblScope>, <biblScope unit="page">37-43, 91-7, 225-34, 293-304</biblScope>.</bibl>
                     
                     <bibl xml:id="Papageorgiou1970"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>1970</date>, <title level="a">Ἡ Παλαιοχριστιανικὴ καὶ Βυζαντινὴ Ἀρχαιολογία καὶ Τέχνη ἐν Κύπρῳ κατὰ τὰ ἔτη 1967-1968</title>, <title level="j">Ἀπόστολος Βαρνάβας</title> <biblScope unit="volume">30</biblScope>, <biblScope unit="page">81-93, 145-60, 218-24, 280-90, 354-63</biblScope>.</bibl>
+                    
+                    <bibl xml:id="Papageorgiou1972"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>1972</date>, <title level="a">Ἰδιάζουσα βυζαντιναὶ τοιχογραφίαι τοῦ 13ου αἰώνος ἐν Κύπρῳ</title>, in <title level="m">Πρακτικὰ τοῦ Πρώτου Διεθνοῦς Κυπρολογικοῦ Συνεδρίου. Β'. Μεσαιωνικὸν Τμῆμα</title>, ed. <editor><forename>A.</forename> <surname>Papageorgiou</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">201-12</biblScope>.</bibl>
                     
                     <bibl xml:id="Papageorgiou1975"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>1975</date>, <title level="a">Οι ξυλόστεγοι ναοί της Κύπρου</title>, <title level="j">Τόμος ἀναμνηστικὸς ἐπὶ τῇ 50ετηρίδι τοῡ περιοδικοῦ «Ἀπόστολος Βαρνάβας» (1918-1968)</title>, <biblScope unit="page">361-556</biblScope>.</bibl>
                     
@@ -190,7 +188,11 @@
                     
                     <bibl xml:id="Papageorgiou2008"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>2008</date>, <title level="m">Η Λετύμπου και ο ναός των Αγίων Κηρύκου και Ιουλίττης στη Λετύμπου</title>, <pubPlace>Letymbou</pubPlace>.</bibl>
                     
+                    <bibl xml:id="Papageorgiou2010"><author><surname>Papageorgiou</surname><forename> A.</forename></author>, <date>2010</date>, <title level="m">Christian Art in the Turkish-Occupied part of Cyprus</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
+                                        
                     <bibl xml:id="Papageorgiou2012"><author><surname>Papageorgiou</surname> <name>A.</name></author>, <date>2012</date>, <title level="m">The Monastery of Saint John Lampadistis in Kalopanayiotis</title>, 2nd ed., <pubPlace>Nicosia</pubPlace>.</bibl>
+                    
+                    <bibl xml:id="Papageorgiou2018"><editor><surname>Papageorgiou</surname> <forename>A.</forename></editor>, <editor><surname>Bakirtzis</surname> <forename>Ch.</forename></editor>, and <editor><surname>Hadjicristodoulou</surname> <forename>Ch.</forename></editor> (eds), <date>2018</date>, <title level="m">The Church of Panagia tou Arakos</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
                     
                     <bibl xml:id="Papageorgiou2022"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>2022</date>, <title level="a">Η μονή της Παναγίας Αψινθιώτισσας</title>, <title level="j">ΕΚΜΙΜΚ</title> <biblScope unit="volume">13</biblScope>, <biblScope unit="page">121-46</biblScope>.</bibl>
                     
