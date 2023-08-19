@@ -118,6 +118,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q310633</idno>                   
                 </person>
                 
+                <person xml:id="DionysiusAreopagite">
+                    <persName xml:lang="grc"><seg>ἅγιος </seg>Διονύσιος</persName>
+                    <persName xml:lang="en">Dionysius, saint</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="DionysiusAreopagite">Ἀρεοπαγίτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="DionysiusAreopagite">the Areopagite</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q310686</idno>                   
+                </person>
+                
                 <!--<person xml:id="DouleKyriou">
                     <persName xml:lang="grc">Δούλη Κυρίου</persName>
                     <persName xml:lang="en">Lord's servant</persName>
