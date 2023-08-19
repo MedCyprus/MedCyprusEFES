@@ -72,6 +72,10 @@
                     <term xml:lang="en">Preparation of the Throne</term>
                 </item>
                 <!-- ... -->
+                <item xml:id="AbrahamSacrifice"> 
+                <term xml:lang="en">Abraham's sacrifice</term>
+                </item>
+                <!-- ... -->
             </list>
             
             <list type="sacred_objects">
@@ -266,6 +270,9 @@
                     </item>
                     <item xml:id="Basil"> 
                         <term xml:lang="en">Basil the Great</term>
+                    </item>
+                    <item xml:id="DionysiusAreopagite"> 
+                        <term xml:lang="en">Dionysius the Areopagite</term>
                     </item>
                     <item xml:id="Epiphanios"> 
                         <term xml:lang="en">Epiphanios</term>
