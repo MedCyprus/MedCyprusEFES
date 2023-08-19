@@ -280,6 +280,9 @@
                     <item xml:id="GregoryNazianzenos">
                         <term xml:lang="en">Gregory the Theologian</term>
                     </item>
+                    <item xml:id="IgnatiusTheophorus"> 
+                        <term xml:lang="en">Ignatius Theophorus</term>
+                    </item>
                     <item xml:id="JohnChrysostom">
                         <term xml:lang="en">John Chrysostom</term>
                     </item>
