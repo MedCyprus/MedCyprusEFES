@@ -431,6 +431,11 @@
                     <!--Theotokos is actually an epithet, but it is used often as a name for the Virgin Mary. List separately?-->
                 </person>
                 
+                <person xml:id="Triphyllios">
+                    <persName xml:lang="grc"><seg>ἅγιος</seg> Τριφύλλιος</persName>
+                    <persName xml:lang="en">Triphyllios, saint</persName>               
+                    <idno type="wikidata">Not listed</idno>                   
+                </person>
                 <person xml:id="TrueCross">
                     <persName xml:lang="grc">Τίμιος Σταυρός</persName>
                     <persName xml:lang="en">True Cross</persName>
