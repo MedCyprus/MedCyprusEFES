@@ -81,7 +81,7 @@
                     <lb n="4" break="no"/>ος</w>
              <cb n="b"/>
                     <lb n="1"/><name nymRef="Γεώργιος">Γε<choice><orig>ω</orig><reg>ώ</reg></choice>ργιος</name>
-                    <lb n="2" /><choice><orig>ο</orig><reg>ὁ</reg></choice> <addName type="epithet" key="Cappadocian">Κ<hi rend="ligature">απ</hi>αδ<choice><orig>ο̃</orig><reg>ό</reg></choice>ξ</addName></persName> 
+                    <lb n="2" /><choice><orig>ο</orig><reg>ὁ</reg></choice> <addName type="epithet" key="Cappadocian">Κ<hi rend="ligature">απ</hi><choice><orig>α</orig><reg>ά</reg></choice>δ<choice><orig>ο̃</orig><reg>ο</reg></choice>ξ</addName></persName> 
                  </ab>
             </div>
             <div type="apparatus">
@@ -91,7 +91,7 @@
                 <p>Saint George from Cappadocia</p>
             </div>
             <div type="commentary">
-                <p>Poor condition. Partially exfoliated. The epithet Καππαδόξ is misspelled. Accents with errors. </p>
+                <p>Poor condition. Partially exfoliated. The epithet Καππάδοξ is misspelled. Accents with errors. </p>
             </div>
             <div type="bibliography">
                  <listBibl>
