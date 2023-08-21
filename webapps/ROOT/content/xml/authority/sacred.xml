@@ -244,6 +244,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q40662</idno>                   
                 </person>
                 
+                <person xml:id="JohnMerciful">
+                    <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰωάννης ὁ Ἐλεήμων</persName>
+                    <persName xml:lang="en">John the Merciful, saint</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="JohnMerciful" key="Merciful">ὁ Ἐλεήμων</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JohnMerciful" key="Merciful">Merciful</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q372668</idno>                   
+                </person>
+                
                 <person xml:id="JohnTheologian">
                     <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰωάννης ὁ Θεολόγος</persName>
                     <persName xml:lang="en">John the Theologian, saint</persName> 
@@ -396,6 +404,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q37085</idno>                   
                 </person>
                 
+                <person xml:id="Spyridon">
+                    <persName xml:lang="grc"><seg>ἅγιος</seg> Σπυρίδων</persName>
+                    <persName xml:lang="en">Spyridon, saint</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q357093</idno>                   
+                </person>
+                
                 <person xml:id="Stylianos">
                     <persName xml:lang="grc"><seg>ἅγιος </seg>Στυλιανός</persName>
                     <persName xml:lang="en">Stylianos, saint</persName>
@@ -436,6 +450,13 @@
                     <persName xml:lang="en">Triphyllios, saint</persName>               
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
+                
+                <person xml:id="Tychon">
+                    <persName xml:lang="grc"><seg>ἅγιος</seg> Τύχων</persName>
+                    <persName xml:lang="en">Tychon, saint</persName>               
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q3991188</idno>                   
+                </person>
+                
                 <person xml:id="TrueCross">
                     <persName xml:lang="grc">Τίμιος Σταυρός</persName>
                     <persName xml:lang="en">True Cross</persName>
