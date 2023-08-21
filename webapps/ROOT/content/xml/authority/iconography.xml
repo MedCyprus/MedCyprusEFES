@@ -295,6 +295,9 @@
                     <item xml:id="JohnMerciful">
                         <term xml:lang="en">John Merciful</term>
                     </item>
+                    <item xml:id="Lazarus">
+                        <term xml:lang="en">Lazarus</term>
+                    </item>
                     <item xml:id="Nicholas">
                         <term xml:lang="en">Nicholas</term>
                     </item>
@@ -303,6 +306,9 @@
                     </item>
                     <item xml:id="Triphyllios">
                         <term xml:lang="en">Triphyllios</term>
+                    </item>
+                    <item xml:id="Tychicus">
+                        <term xml:lang="en">Τυχικός</term>
                     </item>
                     <item xml:id="Tychon">
                         <term xml:lang="en">Τύχων</term>
