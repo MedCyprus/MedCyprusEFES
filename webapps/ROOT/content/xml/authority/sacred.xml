@@ -183,6 +183,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44011</idno>                   
                 </person>
                 
+                <person xml:id="GregoryOfNyssa">
+                    <persName xml:lang="grc"><seg>ἅγιος</seg> Γρηγόριος</persName>
+                    <persName xml:lang="en">Gregory of Nyssa, saint</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="GregoryOfNyssa" key="of Nyssa">ὁ Νύσσης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="GregoryOfNyssa" key="of Nyssa">of Nyssa</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q191734</idno>                   
+                </person>
+                
                 <person xml:id="Helena">
                     <persName xml:lang="grc"><seg>ἁγία</seg> Ἑλένη</persName>
                     <persName xml:lang="en">Helena, saint</persName>
@@ -199,9 +207,17 @@
                 <person xml:id="IgnatiusTheophorus">
                     <persName xml:lang="grc"><seg>ἅγιος</seg>Ἰγνάτιος ὁ Θεοφόρος</persName>
                     <persName xml:lang="en">Ignatius Theophorus, saint</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="IgnatiusTheophorus">ὁ Θεοφόρος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="IgnatiusTheophorus">Theophorus</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="IgnatiusTheophorus" key="Theophorus">ὁ Θεοφόρος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="IgnatiusTheophorus" key="Theophorus">Theophorus</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44170</idno>                   
+                </person>
+                
+                <person xml:id="JamesLordBrother">
+                    <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰάκωβος</persName>
+                    <persName xml:lang="en">James the Lord's Brother, saint</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="JamesLordBrother" key="the Lord's Brother">ὁ Ἀδελφόθεος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JamesLordBrother" key="the Lord's Brother">the Lord's Brother</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q26925</idno>                   
                 </person>
                 
                 <person xml:id="JohnClimacus">
