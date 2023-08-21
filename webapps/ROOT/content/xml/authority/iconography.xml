@@ -319,6 +319,8 @@
                     <item xml:id="mary_egypt"> 
                         <term xml:lang="en">Mary of Egypt</term>
                     </item>
+                    <item xml:id="Zosimas">
+                        <term xml:lang="en">Zosimas</term></item>
                     <!-- ... -->
                     
                 </list></item>
