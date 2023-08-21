@@ -467,6 +467,12 @@
                     <note>See also: Mother of God, Theotokos, Maria</note>
                 </person>
                 
+                <person xml:id="Zosimas">
+                    <persName xml:lang="grc"><seg>ὅσιος </seg>Ζωσιμᾶς</persName>
+                    <persName xml:lang="en">Zosimas, saint</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2993862</idno>                   
+                </person>
+                
             </listPerson>
         </body>
     </text>
