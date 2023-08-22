@@ -19,8 +19,8 @@
             <list type="christological_narrative">
                 <head>Christological narrative scenes</head>
                 
-                <item xml:id="LazarusResurrection"> 
-                    <term xml:lang="en">Lazarus Resurrection</term>
+                <item xml:id="LazarosResurrection"> 
+                    <term xml:lang="en">Lazaros' Resurrection</term>
                 </item>
                 <item xml:id="EntryIntoJerusalem"> 
                     <term xml:lang="en">Entry into Jerusalem</term>
@@ -124,16 +124,16 @@
                     <term xml:lang="en">Christ, Nativity</term>
                 </item>
                 
-                <item xml:id="ChristBathing">
-                    <term xml:lang="en">Christ, Bathing</term>
+                <item xml:id="ChristBath">
+                    <term xml:lang="en">Bath of the child, Christ</term>
                 </item>
                 
                 <item xml:id="ChristEntryIntoJerusalem">
                     <term xml:lang="en">Entry into Jerusalem, Christ</term>
                 </item>
                 
-                <item xml:id="ChristLazarusResurrection">
-                    <term xml:lang="en">Lazarus Resurrection, Christ</term>
+                <item xml:id="ChristLazarosResurrection">
+                    <term xml:lang="en">Lazaros' Resurrection, Christ</term>
                 </item>
                 
                 <item xml:id="ChristResurrection">
@@ -295,8 +295,8 @@
                     <item xml:id="JohnMerciful">
                         <term xml:lang="en">John Merciful</term>
                     </item>
-                    <item xml:id="Lazarus">
-                        <term xml:lang="en">Lazarus</term>
+                    <item xml:id="Lazaros">
+                        <term xml:lang="en">Lazaros</term>
                     </item>
                     <item xml:id="Nicholas">
                         <term xml:lang="en">Nicholas</term>
