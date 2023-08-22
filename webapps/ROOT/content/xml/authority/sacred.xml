@@ -434,12 +434,12 @@
                     <persName xml:lang="en">The one who gave birth to God</persName>
                     <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Arakiotissa">τοῦ Άρακος</persName>
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Arakiotissa">of Arakas</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="despoina">δέσποινα</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Theotokos" key="despoina">lady</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="kecharitomene">κεχαριτωμένη</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Theotokos" key="kecharitomene">most blessed</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="hyperagia">ὑπεραγία</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Theotokos" key="hyperagia">most holy</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Despoina">δέσποινα</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Despoina">lady</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Kecharitomene">κεχαριτωμένη</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Kecharitomene">most blessed</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Hyperagia">ὑπεραγία</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Hyperagia">most holy</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q208542</idno>
                     <note>See also: Mother of God, Virgin, Maria</note>
                     <!--Theotokos is actually an epithet, but it is used often as a name for the Virgin Mary. List separately?-->
