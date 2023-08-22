@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Lazarus Resurrection, Christ</title>
+                <title>Lazarοs' Resurrection, Christ</title>
                  <author xml:id="tp">Theocharis Petrou</author> 
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -33,15 +33,15 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the Christ's head</layout>
+                                <layout>On either side of Christ's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. The sigla Ἰ(ησοῦ)ς Χ(ριστό)ς is fully rendered by an abbreviation with a big, wavy line above each word. Letter height: <height unit="cm">3</height>
+                            <handNote>White letters against red background. Majuscule letters. The sigla Ἰ(ησοῦ)ς Χ(ριστό)ς are fully rendered by an abbreviation with a big, wavy line above each word. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#ChristLazarusResurrection">Lazarus Resurrection, Christ</rs></p>
+                            <p>... <rs type="iconography" ref="iconography.xml#ChristLazarosResurrection">Lazaros' Resurrection, Christ</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
