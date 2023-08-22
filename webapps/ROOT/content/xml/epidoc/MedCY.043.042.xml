@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Lazarus Resurrection, Christ addresses to Lazarus</title>
+                <title>Lazaros' Resurrection, Christ addresses to Lazaros</title>
                  <author xml:id="tp">Theocharis Petrou</author> 
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -33,15 +33,15 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Between Christ's and Lazarus' heads</layout>
+                                <layout>Between Christ's and Lazaros' heads</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Some characters' size varies. Zeta is formed by the superscript seven and a backslash; delta with a lambda on a horizontal bar, which at its ends has a vertical point; xi with superscript zeta and wavy diagonal sigma. ΤΟΥ in ligature with the tau emerging from the upsilon. Double point after Λάζαρε. Accents and breathings systematic. Letter height: <height unit="cm">3</height>
+                            <handNote>White letters against red background. Majuscule letters. Letters' size varies. Zeta is formed by the superscript seven and a backslash; delta with a lambda on a horizontal bar, which at its ends has a vertical point; xi with superscript zeta and wavy diagonal sigma. ΤΟΥ in ligature with the tau emerging from the upsilon. Double point after Λάζαρε. Accents and breathings systematic. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#LazarusResurrection">Lazarus Resurrection</rs></p>
+                            <p>... <rs type="iconography" ref="iconography.xml#LazarosResurrection">Lazaros Resurrection</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,14 +73,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-            <lb n="1"/><persName type="sacred" key="Lazarus"><name nymRef="Λάζαρος"></name>Λάζαρε</persName>: <w lemma="δεῦρο">Δεῦρρο</w> <w lemma="ἔξω"><choice><orig>έ</orig><reg>ἔ</reg></choice>ξο</w>
+            <lb n="1"/><persName type="sacred" key="Lazaros"><name nymRef="Λάζαρος"></name>Λάζαρε</persName>: <w lemma="δεῦρο">Δεῦρρο</w> <w lemma="ἔξω"><choice><orig>έ</orig><reg>ἔ</reg></choice>ξο</w>
                  </ab>
             </div>
             <div type="apparatus">
                <p>Pending</p>
             </div>
             <div type="translation">
-                <p>Lazarus, come out</p>
+                <p>Lazaros, come out</p>
             </div>
             <div type="commentary">
                 <p>Good condition. The word δεῦρο and ἔξω are misspelled. Accents and breathings with errors. The inscription is from the John's gospel (John 11:43)
