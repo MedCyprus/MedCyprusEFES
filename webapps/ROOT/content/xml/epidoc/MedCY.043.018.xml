@@ -74,7 +74,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                        <lb n="1"/><g ref="#cross">+</g><w lemma="χαίρω">Χα<choice><orig>ί</orig><reg>ῖ</reg></choice>ραι: </w><addName type="epithet" subtype="Maria" key="kecharitomene"><w lemma="κεχαριτωμένη">καιχαρι
+                        <lb n="1"/><g ref="#cross">+</g><w lemma="χαίρω">Χα<choice><orig>ί</orig><reg>ῖ</reg></choice>ραι: </w><addName type="epithet" subtype="Maria" key="Kecharitomene"><w lemma="κεχαριτωμένη">καιχαρι
                     <lb n="2" break="no"/><hi rend="ligature">το</hi>μένι: </w></addName><persName type="sacred" key="Maria"><name nymRef="Μαρία"></name>Μαρία:</persName> ὁ 
                     <lb n="4"/><persName type="divine" key="Lord"><name nymRef="Κύριος"></name><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύριο</ex><abbr rend="supraline">ς</abbr> </expan></w></persName>μετ<choice><orig>α</orig><reg>ὰ</reg></choice> <w lemma="σύ">σο<choice><orig>υ</orig><reg>ῦ</reg></choice></w> 
                  </ab>
