@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Lazarus Resurrection</title>
+                <title>Lazaros' Resurrection</title>
                  <author xml:id="tp">Theocharis Petrou</author> 
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -37,11 +37,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Some characters' size varies. Zeta is formed by the superscript seven and a backslash. ΤΟΥ in ligature with the tau emerging from the upsilon. Double point after ἔγερσις. Accents and breathings systematic. Letter height: <height unit="cm">3</height>
+                            <handNote>White letters against red background. Majuscule letters. Letters' size varies. Zeta is formed by the superscript seven and a backslash. ΤΟΥ in ligature with the tau emerging from the upsilon. Double point after ἔγερσις. Accents and breathings systematic. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#LazarusResurrection">Lazarus Resurrection</rs></p>
+                            <p>... <rs type="iconography" ref="iconography.xml#LazarosResurrection">Lazaros' Resurrection</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -59,7 +59,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc12">Legend</term>
+                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
             <creation>...</creation>
@@ -73,14 +73,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-            <lb n="1"/><w lemma="ἔγερσις">Ἔγερσης</w>: <hi rend="ligature">το<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <persName type="sacred" key="Lazarus"><name nymRef="Λάζαρος">Λαζάρου</name></persName>
+            <lb n="1"/><w lemma="ἔγερσις">Ἔγερσης</w>: <hi rend="ligature">το<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <persName type="sacred" key="Lazaros"><name nymRef="Λάζαρος">Λαζάρου</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
                <p>Pending</p>
             </div>
             <div type="translation">
-                <p>Lazarus Resurrection</p>
+                <p>Lazaros' Resurrection</p>
             </div>
             <div type="commentary">
                 <p>Good condition. The word ἔγερσις is misspelled.
