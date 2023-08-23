@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. The inscription is written entirely in majuscule with the size of some characters varying. Round omicron attached to nearly round final sigma OC, ending in a horizontal wavy line. John is abbreviated Ἰω(άννης) with a big, wavy line above the Ἰω; wide omega with crosslet. Chrysostom's monogram includes six letters. Rho ends in a calligraphic omicron combined with a final sigma. Accents and breathings systematic. Letter height: <height unit="cm">2-5</height>
+                            <handNote>White letters against red background. The inscription is written entirely in majuscule. Letters's size varies. Round omicron attached to nearly round final sigma OC, ending in a horizontal wavy line. John is abbreviated Ἰω(άννης) with a big, wavy line above the Ἰω; wide omega with crosslet. Chrysostom's monogram includes six letters. Rho ends in a calligraphic omicron combined with a final sigma. Accents and breathings systematic. Letter height: <height unit="cm">2-5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -96,12 +96,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="Stylianou1960"/>,<citedRange>102-3</citedRange></bibl>
-                <bibl><ptr target="Mouriki1984"/>,<citedRange> 171-213</citedRange></bibl>
-                <bibl><ptr target="Papageorgiou2003"/>,<citedRange> 113</citedRange></bibl>
-                <bibl><ptr target="Rhoby2009"/>,<citedRange> 334, 341</citedRange></bibl>
-                <bibl><ptr target="PerdikisMyrianthefs2009"/></bibl>
-                <bibl><ptr target="VisCult"/><citedRange> 2, 1480-7</citedRange></bibl>
+                <bibl><ptr target="Mouriki1984"/>,<citedRange> 178</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
