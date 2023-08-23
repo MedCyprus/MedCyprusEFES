@@ -19,6 +19,9 @@
             <list type="christological_narrative">
                 <head>Christological narrative scenes</head>
                 
+                <item xml:id="PresentationChristTemple"> 
+                    <term xml:lang="en">Presentation of Christ to the temple</term>
+                </item>
                 <item xml:id="LazarosResurrection"> 
                     <term xml:lang="en">Lazaros' Resurrection</term>
                 </item>
@@ -144,7 +147,7 @@
                     <term xml:lang="en">Constantine the Great</term>
                 </item>
                 
-                <item xml:id="joseph"> 
+                <item xml:id="Joseph"> 
                     <term xml:lang="en">Joseph</term>
                 </item>
                 
