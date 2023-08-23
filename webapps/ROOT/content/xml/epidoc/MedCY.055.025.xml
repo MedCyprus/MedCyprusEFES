@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Joseph (Presentation of Christ to the Temple)</title>
+                <title>Presentation of Christ to the Temple, Saint Joseph</title>
                 <author xml:id="tp">Theocharis Petrou</author> 
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#joseph">Joseph</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Joseph">Joseph</rs></p>
                             </decoDesc>
                     </physDesc>
                     <history>
