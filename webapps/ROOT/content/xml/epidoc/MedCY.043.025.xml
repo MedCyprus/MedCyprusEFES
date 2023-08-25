@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background inside an ochre-coloured frame. The inscription is written in majuscule with the size of some characters varying. Letters MH in ligature. Mu with its middle bar forms an upsilon with a dot on its antennas. Double point after θύρα. Accents and breathings systematic. Letter height: <height unit="cm">3</height>
+                            <handNote>Black letters against white background inside an ochre-coloured frame. The inscription is written in majuscule. Letters' size varies. Letters MH in ligature. Mu with its middle bar forms an upsilon with a dot on its antennas. Double point after θύρα. Accents and breathings systematic. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -98,12 +98,8 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="Stylianou1960"/>,<citedRange>102-3</citedRange></bibl>
-                <bibl><ptr target="Mouriki1984"/>,<citedRange> 171-213</citedRange></bibl>
-                <bibl><ptr target="Papageorgiou2003"/>,<citedRange> 113</citedRange></bibl>
-                <bibl><ptr target="Rhoby2009"/>,<citedRange> 334, 341</citedRange></bibl>
-                <bibl><ptr target="PerdikisMyrianthefs2009"/></bibl>
-                <bibl><ptr target="VisCult"/><citedRange> 2, 1480-7</citedRange></bibl>
+                <bibl><ptr target="Mouriki1984"/>,<citedRange> 191</citedRange></bibl>
+                <bibl><ptr target="PerdikisMyrianthefs2009"/>, <citedRange> 19-20</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
