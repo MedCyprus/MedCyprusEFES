@@ -179,7 +179,7 @@
                     <term xml:lang="en">Crucifixion, Virgin</term>
                 </item>
                 
-                <item xml:id="virginBlachernitissa">
+                <item xml:id="VirginBlachernitissa">
                     <term xml:lang="en">Virgin Blachernitissa</term>
                 </item>
                 
@@ -189,6 +189,10 @@
                 
                 <item xml:id="VirginHodegetria">
                     <term xml:lang="en">Virgin Hodegetria</term>
+                </item>
+                
+                <item xml:id="VirginPantanassa">
+                    <term xml:lang="en">Virgin Pantanassa</term>
                 </item>
                 
                 <item><list type="Angelic_Powers">
