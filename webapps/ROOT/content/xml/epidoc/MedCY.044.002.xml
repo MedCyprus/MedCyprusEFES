@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Mu with its middle bar forming an upsilon. ΑΡ in ligature. Small, semicircle line above the abbreviations ἀρχάγγελος and Μιχαήλ. Accents and breathings systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Mu with its middle bar forms an upsilon. ΑΡ in ligature. Small, semicircle line above the abbreviations ἀρχάγγελος and Μιχαήλ. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -74,7 +74,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/><persName type="sacred" key="Michael"><name nymRef ="Ἀρχάγγελος Μιχαήλ"> <choice><orig>Ὀ</orig><reg>Ὁ</reg></choice> <w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><hi rend="ligature"><choice><orig>α</orig><reg>ἀ</reg></choice>ρ</hi>χ<am>&#x00A0;῀&#x00A0;</am></abbr><ex>άγγελος</ex></expan></w> <expan><abbr rend="supraline">Μιχ</abbr><ex>αήλ</ex></expan></name></persName>                    
+                    <lb n="1"/><persName type="sacred" key="Michael"><name nymRef ="Ἀρχάγγελος Μιχαήλ"> <choice><orig>Ὀ</orig><reg>Ὁ</reg></choice> <w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><hi rend="ligature"><choice><orig>α</orig><reg>ἀ</reg></choice>ρ</hi>χ<am>&#x00A0;῀&#x00A0;</am> </abbr><ex>άγγελος</ex></expan></w> <expan><abbr rend="supraline"> Μιχ</abbr><ex>αήλ</ex></expan></name></persName>                    
                  </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +84,7 @@
                 <p>Archangel Michael</p>
             </div>
             <div type="commentary">
-                <p>Good condition. Accents and breathings with error</p>
+                <p>Good condition. Accents and breathings with errors</p>
             </div>
             <div type="bibliography">
                  <listBibl>
