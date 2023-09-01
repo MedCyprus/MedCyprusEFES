@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#virginBlachernitissa">Virgin Blachernitissa</rs></p>
+                            <p>... <rs type="iconography" ref="iconography.xml#VirginBlachernitissa">Virgin Blachernitissa</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -59,7 +59,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc9">Sigla</term>
+                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
             <creation>...</creation>
