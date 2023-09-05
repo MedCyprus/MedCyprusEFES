@@ -66,10 +66,14 @@
             <creation>...</creation>
         </profileDesc>
     </teiHeader>
-    <!---<facsimile>
-         <graphic rend="primary" url="044-003-01.jpg"><desc>Bema, semidome, inscription detail</desc></graphic>
-        <graphic url="044-003-02.jpg"><desc>Bema, semidome, inscription </desc></graphic>
-        </facsimile>-->
+    <facsimile>
+         <graphic rend="primary" url="044-004-01.jpg"><desc>Bema, semicylindrical wall, cornice, inscription detail</desc></graphic>
+        <graphic url="044-004-02.jpg"><desc>Bema, semicylindrical wall, cornice, north side, inscription detail </desc></graphic>
+        <graphic url="044-004-03.jpg"><desc>Bema, semicylindrical wall, cornice, south side, inscription detail </desc></graphic>
+        <graphic url="044-004-04.jpg"><desc>Bema, semicylindrical wall, cornice, north side, general view </desc></graphic>
+        <graphic url="044-004-05.jpg"><desc>Bema, semicylindrical wall, cornice, central side, general view </desc></graphic>
+        <graphic url="044-004-06.jpg"><desc>Bema, semicylindrical wall, cornice, south side, general view </desc></graphic>
+        </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
