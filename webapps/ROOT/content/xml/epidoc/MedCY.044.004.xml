@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Pending......<!--White letters against blue background. Majuscule letters. Eta with a cross on its horizontal bar. ΑΡ, ΑΒ in ligatures. Small, semicircle line above the abbreviation ἀρχάγγελος. Angle up symbol and grave accent (βαρεῖα) above eta and lambda both function as βαρεῖα on eta. Accents and breathings systematic.-->
+                            <handNote>White letters against ochre background. Majuscule letters. Delta is formed with a lambda on a horizontal bar. Mu with its middle bar forms an upsilon with a dot at the top of its vertical bar. Omega with crosslet; tau with a star.  ΟΥ in ligature. Double point after ψυχῆς, δίκης, ὑσχυρίων. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -78,9 +78,10 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>
-PENDING
-                 </ab>
+                              <lg met="Dodecasyllable">
+                                  <l n="1"><lb n="1"/> <g ref="#cross">+</g>Ὦ Παντάνασσα κ(αὶ) πά[ντων ὑπερτέρα, Δέσποινα ἁγνὴ καὶ μῆτερ τοῦ Κυρίου: ἴδε τὸν πόθον τῆς ταλαίνη]ς ψυχῆς μου: καὶ γενοῦ μοι μεσήτης ἐν ὥρα</l>       
+                                  <l n="2"><lb n="2"/>δίκης: ὅπος ἐκφύγω μ[έρος τῶν ..?..]ω[..?.. Νικηφόρ]ος μάγιστρος ὁ Ὑσχυρίων: </l>
+                              </lg>
             </div>
             <div type="apparatus">
                <p>Pending</p>
