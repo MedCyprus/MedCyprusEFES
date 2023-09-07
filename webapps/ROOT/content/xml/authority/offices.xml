@@ -39,9 +39,13 @@
             
             <list type="dignities">
                 <head>Dignities</head>
-                <item xml:id="something..."> 
-                    <term xml:lang="en">...</term>
-                    <term xml:lang="grc">...</term>
+                <item xml:id="protistos_nobelisimon"> 
+                    <term xml:lang="en">protonobelissimos</term>
+                    <term xml:lang="grc">πρώτιστος νωβελλισίμων</term>
+                </item>
+                <item xml:id="magistros"> 
+                    <term xml:lang="en">magister</term>
+                    <term xml:lang="grc">μάγιστρος</term>
                 </item>
             </list>
             
