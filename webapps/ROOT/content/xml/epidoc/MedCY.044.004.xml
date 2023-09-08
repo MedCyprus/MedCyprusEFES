@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Verse inscription</title>
+                <title>Dedicatory, verse inscription</title>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -60,7 +60,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc12">Metrical inscription</term>
+                    <term type="textType" ref="text_types.xml#doc13">Dedicatory, verse inscription</term>
                 </keywords>
             </textClass>
             <creation><ptr target="Ševčenko2012"/>, 77-8, <ptr target="VisCult"/> 1, 184-6</creation>
@@ -80,7 +80,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                               <lg met="Dodecasyllable">
                                   <l n="1"><lb n="1"/> <g ref="#cross">+</g><choice><orig>Ω</orig><reg>Ὦ</reg></choice> <addName type="epithet" key="Pantanassa"><name nymRef="Παντάνασσα">Παντ<choice><orig>α</orig><reg>ά</reg></choice>νασσα</name></addName>· <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <w lemma="πᾶς">π<choice><orig>α</orig><reg>ά</reg></choice><supplied reason="lost">ντων</supplied></w> <w lemma="ὑπερτέρα"><supplied reason="lost">ὑπερτέρα</supplied></w>, <addName type="epithet" key="Despoina"><name nymRef="Δέσποινα"></name><supplied reason="lost">Δέσποινα</supplied></addName> <w lemma="ἁγνή"><supplied reason="lost">ἁγνὴ</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="μήτηρ"><supplied reason="lost">μῆτερ</supplied></w> <supplied reason="lost">τοῦ</supplied> <persName type="divine" key="Lord"><name nymRef="Κύριος"></name><w lemma="Κύριος"><supplied reason="lost">Κυρίου</supplied></w></persName><supplied reason="lost">:</supplied> <w lemma="ὁρῶ"><supplied reason="lost">ἴδε</supplied></w> <supplied reason="lost">τὸν</supplied> <w lemma="πόθος"><supplied reason="lost">πόθον</supplied></w> <supplied reason="lost">τῆς</supplied> <w lemma="τάλαινα"><supplied reason="lost">ταλαίνη</supplied>ς</w> <w lemma="ψυχή">ψυχ<choice><orig>η</orig><reg>ῆ</reg></choice>ς</w> <w lemma="ἐγώ">μ<hi rend="ligature">ου</hi></w>: καὶ <w lemma="γίγνομαι">γεν<hi rend="ligature">οῦ</hi></w> <w lemma="ἐγώ">μοι</w> <w lemma="μεσίτης">μεσήτης</w> ἐν <w lemma="ὥρα"><choice><orig>ῶ</orig><reg>ὥ</reg></choice>ρα</w></l>    
-                                  <l n="2"><lb n="2"/><w lemma="δίκη">δίκης</w>: <choice><orig>ὄ</orig><reg>ὅ</reg></choice>πος <w lemma="ἐκφεύγω">ἐκφύγω</w> <w lemma="μέρος">μ<supplied reason="lost">έρος</supplied></w> <supplied reason="lost">τῶν</supplied> <gap reason="lost" extent="unknown" unit="character"></gap>ω<gap reason="lost" extent="unknown" unit="character"></gap> <persName type="attested" role="founder" ref="#NikephorosIschyrios"><name nymRef="Νικηφόρος" type="forename"></name><supplied reason="lost">Νικηφόρ</supplied>ος <rs type="office" ref="offices.xml#magistros"><w lemma="μάγιστρος">μαγιστρὸς</w></rs> <choice><orig>ὀ</orig><reg>ὁ</reg></choice> <name nymRef="Ἰσχύριος" type="surname">Ὑσχυρίων</name></persName>: <g ref="#cross">+</g></l>
+                                  <l n="2"><lb n="2"/><w lemma="δίκη">δίκης</w>: <choice><orig>ὄ</orig><reg>ὅ</reg></choice>πος <w lemma="ἐκφεύγω">ἐκφύγω</w> <w lemma="μέρος">μ<supplied reason="lost">έρος</supplied></w> <supplied reason="lost">τῶν</supplied> <gap reason="lost" extent="unknown" unit="character"></gap>ω<gap reason="lost" extent="unknown" unit="character"></gap> <persName type="attested" role="founder" ref="#NikephorosIschyrios"><name nymRef="Νικηφόρος" type="forename"></name><supplied reason="lost">Νικηφόρ</supplied>ος <rs type="office" ref="offices.xml#magistros"><w lemma="μάγιστρος">μαγιστρὸς</w></rs> <choice><orig>ὀ</orig><reg>ὁ</reg></choice> <persName type="attested" key="#IschyrioiFamily"></persName><name nymRef="Ἰσχύριοι" type="surname">Ὑσχυρίων</name></persName>: <g ref="#cross">+</g></l>
                               </lg>
             </div>
             <div type="apparatus">
@@ -90,7 +90,7 @@
                 <p>O Pantanassa, and all-[surpassing chaste lady and mother of the Lord, see the desire of my miserable] soul and become my intercessor in the hour of judgment that I may be spared the lot of [...Nikephoros] magistros, of the (family of the) Ischyrioi. (<ptr target="Ševčenko2012"/>, 77)</p>
             </div>
             <div type="commentary">
-                <p>Poor condition. Partially preserved. A cross with dots in the angles marks the beginning and the end of the text. At the end of the inscription there are two units of pseudo-Kufic design. Μεσίτης, ὅπως, ὑσχυρίων are misspelled. Accents and breathings with errors. The reconstruction of the inscription is based on the apse inscription of the Panagia church at Trikomo, Cyprus. According to the scholars the frescoes of the Trikomo's church probably had the same donor as the Asinou church and are also attributed to the same painting workshop.
+                <p>Poor condition. Partially preserved. A cross with dots in the angles marks the beginning and the end of the text. At the end of the inscription there are two units of pseudo-Kufic design. Μεσίτης, ὅπως, ὑσχυρίων are misspelled. Accents and breathings with errors. The reconstruction of the inscription is based on the apse inscription of the Panagia church at Trikomo, Cyprus. According to the scholars, the murals of Trikomo's church are probably attributed to the same painting workshop as that of Asinou's church or had just the same donor.
 </p>
             </div>
             <div type="bibliography">
