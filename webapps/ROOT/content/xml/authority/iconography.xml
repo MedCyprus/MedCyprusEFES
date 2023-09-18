@@ -65,6 +65,9 @@
             
             <list type="other_compositions">
                 <head>Other compositions</head>
+                <item xml:id="CommunionApostlesMetalepsis"> 
+                    <term xml:lang="en">Communion of the Apostles, Metalepsis</term>
+                </item>
                 <item xml:id="deesis"> 
                     <term xml:lang="en">Deesis</term>
                 </item>
