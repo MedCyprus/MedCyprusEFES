@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Dedicatory, verse inscription</title>
+                <title>Dedicatory verse inscription</title>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -60,7 +60,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc13">Dedicatory, verse inscription</term>
+                    <term type="textType" ref="text_types.xml#doc13">Dedicatory verse inscription</term>
                 </keywords>
             </textClass>
             <creation><ptr target="Ševčenko2012"/>, 77-8, <ptr target="VisCult"/> 1, 184-6</creation>
