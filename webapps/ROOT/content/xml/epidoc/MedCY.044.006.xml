@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Communion of the Apostles (Metalepsis), Christ</title>
+                <title>Communion of the Apostles, Metalepsis (Offering of the Wine), Christ</title>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#CommunionApostlesMetalepsis">Communion of the Apostles, Metalepsis</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#CommunionApostlesMetalepsis">Communion of the Apostles, Metalepsis (Offering of the Wine)</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
