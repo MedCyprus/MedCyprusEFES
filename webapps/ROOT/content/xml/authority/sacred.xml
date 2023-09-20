@@ -312,7 +312,7 @@
                     <persName xml:lang="grc">Μαρία</persName>
                     <persName xml:lang="en">Maria, Virgin Mary</persName>
                     <persName xml:lang="grc" type="epithet" subtype="Maria" key="kecharitomene">κεχαριτωμένη</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Maria" key="kecharitomene">full of grace</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Maria" key="kecharitomene">Kecharitomene / Full of grace</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q345</idno>
                     <note>See also: Mother of God, Theotokos, Virgin </note>
                 </person>
@@ -437,12 +437,12 @@
                     <persName xml:lang="en">The one who gave birth to God</persName>
                     <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Arakiotissa">τοῦ Άρακος</persName>
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Arakiotissa">Arakiotissa / of Arakas</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Despoina">δέσποινα</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Despoina">lady</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Despoina">δέσποινα </persName>
+                    <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Despoina">Despoina / Our Lady</persName>
                     <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Kecharitomene">κεχαριτωμένη</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Kecharitomene">full of grace</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Kecharitomene">Kecharitomene / Full of grace</persName>
                     <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Hyperagia">ὑπεραγία</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Hyperagia">most holy</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Hyperagia">Hyperagia / Most holy</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q208542</idno>
                     <note>See also: Mother of God, Virgin, Maria</note>
                     <!--Theotokos is actually an epithet, but it is used often as a name for the Virgin Mary. List separately?-->
