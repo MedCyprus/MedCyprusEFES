@@ -65,6 +65,9 @@
             
             <list type="other_compositions">
                 <head>Other compositions</head>
+                <item xml:id="CommunionApostlesMetadosis"> 
+                    <term xml:lang="en">Communion of the Apostles, Metadosis (Offering of the Bread)</term>
+                </item>
                 <item xml:id="CommunionApostlesMetalepsis"> 
                     <term xml:lang="en">Communion of the Apostles, Metalepsis (Offering of the Wine)</term>
                 </item>
