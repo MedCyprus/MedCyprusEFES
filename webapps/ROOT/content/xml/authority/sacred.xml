@@ -443,9 +443,10 @@
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Kecharitomene">Kecharitomene / Full of grace</persName>
                     <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Hyperagia">ὑπεραγία</persName>
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Hyperagia">Hyperagia / Most holy</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Theotokos">Θεοτόκος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Theotokos">Theotokos</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q208542</idno>
                     <note>See also: Mother of God, Virgin, Maria</note>
-                    <!--Theotokos is actually an epithet, but it is used often as a name for the Virgin Mary. List separately?-->
                 </person>
                 
                 <person xml:id="Triphyllios">
