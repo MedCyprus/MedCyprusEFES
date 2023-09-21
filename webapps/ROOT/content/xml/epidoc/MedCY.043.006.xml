@@ -77,8 +77,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   <lb n="1"/> <choice><orig>Ο</orig><reg>Ὁ</reg></choice> <persName type="divine" key="God"><name nymRef="Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></w></persName>,                   
-                    <lb n="2"/><choice><orig>ο</orig><reg>ὁ</reg></choice> <persName type="divine" key="God"><name nymRef="Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></w></persName> <w lemma="ἐγώ"><hi rend="ligature">ἡμ</hi><choice><orig>ώ</orig><reg>ῶ</reg></choice>ν</w>
+                   <lb n="1"/> <choice><orig>Ο</orig><reg>Ὁ</reg></choice> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></w></persName>,                   
+                    <lb n="2"/><choice><orig>ο</orig><reg>ὁ</reg></choice> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></w></persName> <w lemma="ἐγώ"><hi rend="ligature">ἡμ</hi><choice><orig>ώ</orig><reg>ῶ</reg></choice>ν</w>
                     <lb n="3"/>ὁ τὼν <w lemma="οὐρἀνιος">ο<choice><orig>ὑ</orig><reg>ὐ</reg></choice>
                     <lb n="4" break="no"/>ράνιων </w>
                     <lb n="5"/><w lemma="ἄρτος"><choice><orig>ά</orig><reg>ἄ</reg></choice>ρτων</w> <hi rend="ligature">τ<choice><orig>η</orig><reg>ὴ</reg></choice></hi>ν 

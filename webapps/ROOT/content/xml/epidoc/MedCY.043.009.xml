@@ -75,7 +75,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                      <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="Nicholas"><w lemma="ἅγιος"><supplied reason="lost">Ὁ</supplied>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied><persName type="sacred" key="Nicholas"><name nymRef="#Νικόλαος"></name><w lemma="ἅγιος">
                     <lb n="2"/><choice><orig>ά</orig><reg>ἅ</reg></choice>
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/>ος</w>
