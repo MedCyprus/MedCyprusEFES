@@ -75,7 +75,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                   <cb n="a"/>
-                    <lb n="1"/>Ὁ<persName type="sacred" key="GregoryNazianzenos"><w lemma="ἅγιος"><expan><abbr rend="ligature">ἅ</abbr><ex>γιος</ex></expan></w>
+                    <lb n="1"/>Ὁ<persName type="sacred" key="GregoryNazianzenos"> <w lemma="ἅγιος"><expan><abbr rend="ligature">ἅ</abbr><ex>γιος</ex></expan></w>
                     <lb n="2"/><name nymRef="#Γρηγόριος">Γρη
                     <lb n="3" break="no"/>γό
                     <lb n="4" break="no"/>ρι
