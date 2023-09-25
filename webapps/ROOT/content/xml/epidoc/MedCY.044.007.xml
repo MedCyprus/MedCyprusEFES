@@ -33,7 +33,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the prelate's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -96,7 +96,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>Unpublished</bibl>
+                <bibl><ptr target="Sacopoulo1966"/>,<citedRange> 78</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
