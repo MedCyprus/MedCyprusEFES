@@ -75,15 +75,15 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                      <cb n="a"/>
-                    <lb n="1"/><supplied reason="lost">Ὁ</supplied><persName type="sacred" key="Nicholas"><name nymRef="#Νικόλαος"></name><w lemma="ἅγιος">
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied><persName type="sacred" key="Nicholas"><w lemma="ἅγιος">
                     <lb n="2"/><choice><orig>ά</orig><reg>ἅ</reg></choice>
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/>ος</w>
                   <cb n="b"/>
-                  <lb n="1"/>Νι
+                  <lb n="1"/><name nymRef="#Νικόλαος">Νι
                     <lb n="2" break="no"/>κό
                       <lb n="3" break="no"/>λα
-                      <lb n="4" break="no"/><hi rend="ligature">ος</hi></persName>           
+                      <lb n="4" break="no"/><hi rend="ligature">ος</hi></name></persName>           
                  </ab>
             </div>
             <div type="apparatus">
@@ -97,7 +97,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="Mouriki1984"/>,<citedRange> 178</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>,<citedRange> 178</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
