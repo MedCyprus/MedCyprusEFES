@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Maura</title>
-                 <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -74,11 +74,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                       <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="Maura"><w lemma="ἁγία">Ἡ
+                    <lb n="1"/>Ἡ<persName type="sacred" key="Maura"><w lemma="ἁγία">
                     <lb n="2"/>ἁγί
                     <lb n="3" break="no" />α</w>
                     <cb n="b"/>
-                    <lb n="1"/><name nymRef="Μαύρα">Μα<unclear>ύ</unclear>
+                    <lb n="1"/><name nymRef="#Μαύρα">Μα<unclear>ύ</unclear>
                     <lb n="2" break="no"/>ρα</name></persName>
                  </ab>
             </div>
@@ -93,7 +93,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="Mouriki1984"/>,<citedRange> 196</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>,<citedRange> 196</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

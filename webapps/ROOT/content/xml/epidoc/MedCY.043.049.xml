@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Crucifixion, John the Theologian</title>
-                 <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -73,12 +73,13 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                       <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="JohnTheologian"><w lemma="ἅγιος"><supplied reason="lost">Ὁ</supplied>
-                    <lb n="2"/><supplied reason="lost">ἅ</supplied>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied>
+                    <lb n="2"/><persName type="sacred" key="JohnTheologian"><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
                     <lb n="3" break="no" /><supplied reason="lost">γι</supplied>
                     <lb n="4" break="no"/><unclear>ος</unclear></w>
                     <cb n="b"/>
-                    <lb n="1"/><name nymRef="Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name>                     <lb n="2"/><choice><orig>o</orig><reg>ὁ</reg></choice><addName type="epithet" key="Theologian"> θε
+                    <lb n="1"/><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name>                    
+                      <lb n="2"/><choice><orig>o</orig><reg>ὁ</reg></choice><addName type="epithet" key="Theologian"> θε
                      <lb n="3" break="no"/><choice><orig>ὁ</orig><reg>o</reg></choice>λό
                      <lb n="4" break="no"/>γος</addName>
                     </persName>
@@ -96,8 +97,8 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="Mouriki1984"/>,<citedRange> 188</citedRange></bibl>
-                <bibl><ptr target="PerdikisMyrianthefs2009"/>,<citedRange> 31</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>,<citedRange> 188</citedRange></bibl>
+                <bibl><ptr target="#PerdikisMyrianthefs2009"/>,<citedRange> 31</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

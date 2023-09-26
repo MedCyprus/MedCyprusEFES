@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Barbara</title>
-                 <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -76,12 +76,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                   <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="Barbara"><w lemma="ἁγία">Ἡ
-                    <lb n="2"/>ἁ
+                    <lb n="1"/>Ἡ
+                    <lb n="2"/><persName type="sacred" key="Barbara"><w lemma="ἁγία">ἁ
                     <lb n="3" break="no" />γί
                     <lb n="4" break="no"/>α</w>
                     <cb n="b"/>
-                    <lb n="1"/><name nymRef="Βαρβάρα">Β<hi rend="ligature">αρ</hi>
+                    <lb n="1"/><name nymRef="#Βαρβάρα">Β<hi rend="ligature">αρ</hi>
                     <lb n="2" break="no"/>βά
                     <lb n="3" break="no"/>ρα</name>                     
                     </persName>
@@ -98,7 +98,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="Mouriki1984"/>,<citedRange> 197</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>,<citedRange> 197</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
