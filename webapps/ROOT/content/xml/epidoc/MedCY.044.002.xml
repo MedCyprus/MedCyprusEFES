@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Archangel Michael</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -74,7 +74,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/><persName type="sacred" key="Michael"><name nymRef ="Ἀρχάγγελος Μιχαήλ"> <choice><orig>Ὀ</orig><reg>Ὁ</reg></choice> <w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><hi rend="ligature"><choice><orig>α</orig><reg>ἀ</reg></choice>ρ</hi>χ<am>&#x00A0;῀&#x00A0;</am> </abbr><ex>άγγελος</ex></expan></w> <expan><abbr rend="supraline"> Μιχ</abbr><ex>αήλ</ex></expan></name></persName>                    
+                    <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Michael"><name nymRef ="#Ἀρχάγγελος Μιχαήλ">  <w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><hi rend="ligature"><choice><orig>α</orig><reg>ἀ</reg></choice>ρ</hi>χ<am>&#x00A0;῀&#x00A0;</am> </abbr><ex>άγγελος</ex></expan></w> <expan><abbr rend="supraline"> Μιχ</abbr><ex>αήλ</ex></expan></name></persName>                    
                  </ab>
             </div>
             <div type="apparatus">
