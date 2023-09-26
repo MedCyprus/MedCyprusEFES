@@ -74,10 +74,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   <lb n="1"/><g ref="#cross">+</g><w lemma="δέησις"><expan><abbr rend="supraline">Δ<choice><orig>;ὲ</orig><reg>έ</reg></choice></abbr><ex>ησις</ex></expan></w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice> </hi><w lemma="δοῦλος">δ<hi rend="ligature">ού</hi>λ<hi rend="ligature">ου</hi></w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <persName type="divine" key="God"><name nymRef="Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></w></persName> <persName type="attested" role="founder" ref="#IoannesGerakiotes"><name nymRef="Ἰωάννης" type="forename"></name><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννου</ex></expan>:
-                   <lb n="2"/> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <name nymRef="Μουτουλλᾶς" type="surname">Μουτ<hi rend="ligature">ου</hi><supplied reason="lost">λ</supplied><unclear>λ</unclear><choice><orig>α</orig><reg>ᾶ</reg></choice> </name>τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice> </hi><w lemma="κτήτωρ">κτίτωρος</w></persName>
+                   <lb n="1"/><g ref="#cross">+</g><w lemma="δέησις"><expan><abbr rend="supraline">Δ<choice><orig>;ὲ</orig><reg>έ</reg></choice></abbr><ex>ησις</ex></expan></w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice> </hi><w lemma="δοῦλος">δ<hi rend="ligature">ού</hi>λ<hi rend="ligature">ου</hi></w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></w></persName> <persName type="attested" role="founder" ref="#IoannesGerakiotes"><name nymRef="#Ἰωάννης" type="forename"></name><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννου</ex></expan>:
+                   <lb n="2"/> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <name nymRef="#Μουτουλλᾶς" type="surname">Μουτ<hi rend="ligature">ου</hi><supplied reason="lost">λ</supplied><unclear>λ</unclear><choice><orig>α</orig><reg>ᾶ</reg></choice> </name>τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice> </hi><w lemma="κτήτωρ">κτίτωρος</w></persName>
                    <lb n="3"/>κα<choice><orig>ι</orig><reg>ὶ</reg></choice> <hi rend="ligature">τ<choice><orig>η</orig><reg>ῆ</reg></choice></hi> <w lemma="συμβία">σ<hi rend="ligature">ην</hi>βί<hi rend="ligature">ου</hi></w> <w lemma="αὐτός">α<choice><orig>ὑ</orig><reg>ὐ</reg></choice>τ<hi rend="ligature">ο<choice><orig>ὺ</orig><reg>ῦ</reg></choice></hi></w>:
-                   <lb n="4"/><persName type="attested" role="founder" ref="#Eirene"><name nymRef="Εἰρήνη" type="forename"><choice><orig>Ϊ</orig><reg>Ἰ</reg></choice>ρίνης</name></persName> 
+                   <lb n="4"/><persName type="attested" role="founder" ref="#Eirene"><name nymRef="#Εἰρήνη" type="forename"><choice><orig>Ϊ</orig><reg>Ἰ</reg></choice>ρίνης</name></persName> 
                 </ab>
             </div>
             <div type="apparatus">
@@ -91,11 +91,11 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="Stylianou1960"/>,<citedRange>102-3</citedRange></bibl>
-                <bibl><ptr target="Mouriki1984"/>,<citedRange> 172-73</citedRange></bibl>
-                <bibl><ptr target="Papageorgiou2003"/>,<citedRange> 113</citedRange></bibl>
-                <bibl><ptr target="PerdikisMyrianthefs2009"/>,<citedRange> 49-50</citedRange></bibl>
-                <bibl><ptr target="VisCult"/><citedRange> 2, 1480-7</citedRange></bibl>
+                <bibl><ptr target="#Stylianou1960"/>,<citedRange>102-3</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>,<citedRange> 172-73</citedRange></bibl>
+                <bibl><ptr target="#Papageorgiou2003"/>,<citedRange> 113</citedRange></bibl>
+                <bibl><ptr target="#PerdikisMyrianthefs2009"/>,<citedRange> 49-50</citedRange></bibl>
+                <bibl><ptr target="#VisCult"/><citedRange> 2, 1480-7</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

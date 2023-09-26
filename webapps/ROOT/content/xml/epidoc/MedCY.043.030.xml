@@ -76,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="divine" key="Christ"><name nymRef ="Χριστός"><expan><abbr rend="supraline">Χ</abbr><ex>ριστο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></name></persName> Γ<choice><orig>ε</orig><reg>έ</reg></choice><hi rend="ligature">νν</hi>ισης
+                    <lb n="1"/><persName type="divine" key="Christ"><name nymRef ="#Χριστός"><expan><abbr rend="supraline">Χ</abbr><ex>ριστο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></name></persName> Γ<choice><orig>ε</orig><reg>έ</reg></choice><hi rend="ligature">νν</hi>ισης
                  </ab>
             </div>
             <div type="apparatus">
@@ -90,7 +90,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="Mouriki1984"/>,<citedRange> 185</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>,<citedRange> 185</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

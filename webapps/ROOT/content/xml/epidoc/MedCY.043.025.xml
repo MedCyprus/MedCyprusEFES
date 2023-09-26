@@ -98,8 +98,8 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="Mouriki1984"/>,<citedRange> 191</citedRange></bibl>
-                <bibl><ptr target="PerdikisMyrianthefs2009"/>, <citedRange> 19-20</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>,<citedRange> 191</citedRange></bibl>
+                <bibl><ptr target="#PerdikisMyrianthefs2009"/>, <citedRange> 19-20</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
