@@ -74,7 +74,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="sacred" key="MeterTheou"><name nymRef="#Μήτηρ Θεοῦ"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
+                    <lb n="1"/><persName type="sacred" key="#MeterTheou"><name nymRef="#Μήτηρ Θεοῦ"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
                     <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></name></persName>                       
                  </ab>
             </div>
@@ -89,7 +89,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="Mouriki1984"/>,<citedRange> 175</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>,<citedRange> 175</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
