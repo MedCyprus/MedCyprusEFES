@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, 1st figure to the left</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, first figure on the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -66,9 +66,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-011-01.jpg"><desc>Bema, semicylindrical wall, south half, 1st figure to the left, inscription</desc></graphic>
-        <graphic url="043-011-02.jpg"><desc>Bema, semicylindrical wall, south half, 1st figure to the left, inscription detail</desc></graphic>
-        <graphic url="043-011-03.jpg"><desc>Bema, semicylindrical wall, south half, 1st figure to the left, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-011-01.jpg"><desc>Bema, semicylindrical wall, south half, first figure on the left, inscription</desc></graphic>
+        <graphic url="043-011-02.jpg"><desc>Bema, semicylindrical wall, south half, first figure on the left, inscription detail</desc></graphic>
+        <graphic url="043-011-03.jpg"><desc>Bema, semicylindrical wall, south half, first figure on the left, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -97,7 +97,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="Mouriki1984"/>,<citedRange> 178</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>,<citedRange> 178</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

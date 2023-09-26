@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, 1st figure to the right</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, first figure on the right</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -75,12 +75,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                      <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="Auxibios"><w lemma="ἅγιος"><choice><orig>Ὅ</orig><reg>Ὁ</reg></choice>
-                    <lb n="2"/><choice><orig>ά</orig><reg>ἅ</reg></choice>
+                    <lb n="1"/><persName type="sacred" key="Auxibios"><choice><orig>Ὅ</orig><reg>Ὁ</reg></choice>
+                    <lb n="2"/><w lemma="ἅγιος"><choice><orig>ά</orig><reg>ἅ</reg></choice>
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/>ος</w>
                   <cb n="b"/>
-                  <lb n="1"/><name nymRef="Αὐξίβιος"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>ξί
+                  <lb n="1"/><name nymRef="#Αὐξίβιος"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>ξί
                     <lb n="2" break="no"/>βι
                       <lb n="3" break="no"/>ος</name></persName>       
                  </ab>
@@ -96,7 +96,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="Mouriki1984"/>,<citedRange> 178</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>,<citedRange> 178</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, 1st figure to the left</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, first figure on the left</rs>
                                     <dimensions unit="cm" scope="text"><height>29,5</height><width>9</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>40</height><width>11,5</width></dimensions>
                                 </support>
@@ -67,9 +67,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-012-01.jpg"><desc>Bema, semicylindrical wall, south half, 1st figure to the left, inscription</desc></graphic>
-        <graphic url="043-012-02.jpg"><desc>Bema, semicylindrical wall, south half, 1st figure to the left, inscription detail</desc></graphic>
-        <graphic url="043-012-03.jpg"><desc>Bema, semicylindrical wall, south half, 1st figure to the left, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-012-01.jpg"><desc>Bema, semicylindrical wall, south half, first figure on the left, inscription</desc></graphic>
+        <graphic url="043-012-02.jpg"><desc>Bema, semicylindrical wall, south half, first figure on the left, inscription detail</desc></graphic>
+        <graphic url="043-012-03.jpg"><desc>Bema, semicylindrical wall, south half, first figure on the left, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -94,8 +94,8 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="Mouriki1984"/>,<citedRange> 178</citedRange></bibl>
-                <bibl><ptr target="PerdikisMyrianthefs2009"/>,<citedRange> 14-5</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>,<citedRange> 178</citedRange></bibl>
+                <bibl><ptr target="#PerdikisMyrianthefs2009"/>,<citedRange> 14-5</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
