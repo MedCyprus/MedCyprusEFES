@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Cosmas</title>
-                 <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -73,12 +73,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-            <lb n="1"/><persName type="sacred" key="Cosmas"><w lemma="ἅγιος"><unclear>Ὁ</unclear>
+            <lb n="1"/><unclear>Ὁ</unclear><persName type="sacred" key="Cosmas"><w lemma="ἅγιος">
                     <lb n="2"/><supplied reason="lost">ἅ</supplied>
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/>ος</w>
              <cb n="b"/>
-                    <lb n="1"/><name nymRef="Κοσμᾶς">Κ<unclear>ο</unclear>σ
+                    <lb n="1"/><name nymRef="#Κοσμᾶς">Κ<unclear>ο</unclear>σ
                     <lb n="2" break="no"/>μ<unclear>α</unclear>ς</name></persName>  
                  </ab>
             </div>
@@ -94,7 +94,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="Mouriki1984"/>,<citedRange> 196</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>,<citedRange> 196</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

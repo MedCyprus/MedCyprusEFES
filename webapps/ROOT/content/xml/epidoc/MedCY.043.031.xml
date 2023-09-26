@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Nativity, Virgin</title>
-                 <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -74,7 +74,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-              <lb n="1"/><persName type="sacred" key="MeterTheou"><name nymRef="Μήτηρ Θεοῦ"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
+              <lb n="1"/><persName type="sacred" key="MeterTheou"><name nymRef="#Μήτηρ Θεοῦ"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
                     <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice><am>&#x00A0;῀&#x00A0;</am></abbr></expan></name></persName>   
                  </ab>
             </div>

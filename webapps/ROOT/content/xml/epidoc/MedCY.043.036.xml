@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Christophoros Omotes' invocation</title>
-                 <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -75,10 +75,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
               <lb n="1"/> <g ref="#cross">+</g> <w lemma="δέησις"><expan><abbr rend="supraline">Δ<choice><orig>ε</orig><reg>έ</reg></choice></abbr><ex>ησις</ex></expan></w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi>
-              <lb n="2"/><w lemma="δοῦλος">δούλου</w> τ<hi rend="ligature">ου</hi> <persName type="divine" key="God"><name nymRef="Θεός"></name><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>· <persName type="attested" role="donor" ref="#ChristophorosΟmotes"><name nymRef="Χριστοφόρος" type="forename"></name>Χρι
-              <lb n="3" break="no"/>σ<hi rend="ligature">το</hi>φώρου· τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <name nymRef="Ὀμότης" type="surname"><choice><orig>ὁ</orig><reg>ὀ</reg></choice>μότ(ου)</name></persName>
+              <lb n="2"/><w lemma="δοῦλος">δούλου</w> τ<hi rend="ligature">ου</hi> <persName type="divine" key="God"><name nymRef="#Θεός"></name><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>· <persName type="attested" role="donor" ref="#ChristophorosΟmotes"><name nymRef="#Χριστοφόρος" type="forename"></name>Χρι
+              <lb n="3" break="no"/>σ<hi rend="ligature">το</hi>φώρου· τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <name nymRef="#Ὀμότης" type="surname"><choice><orig>ὁ</orig><reg>ὀ</reg></choice>μότ(ου)</name></persName>
               <lb n="4"/>κ<choice><orig>ε</orig><reg>ὲ</reg></choice> <hi rend="ligature">τ<choice><orig>η</orig><reg>ῆ</reg></choice> </hi><w lemma="συμβία">σηβί<hi rend="ligature">ου</hi></w> <w lemma="αὐτός">α<choice><orig>ὑ</orig><reg>ὐ</reg></choice>τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi></w>
-              <lb n="5"/> <persName type="attested" role="donor" ref="#Maria"><name nymRef="Μαρία" type="forename"></name>Μαρίας</persName>
+              <lb n="5"/> <persName type="attested" role="donor" ref="#Maria"><name nymRef="#Μαρία" type="forename"></name>Μαρίας</persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -93,8 +93,8 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="Mouriki1984"/>,<citedRange> 192</citedRange></bibl>
-                <bibl><ptr target="PerdikisMyrianthefs2009"/>,<citedRange> 37</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>,<citedRange> 192</citedRange></bibl>
+                <bibl><ptr target="#PerdikisMyrianthefs2009"/>,<citedRange> 37</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Christopher</title>
-                 <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -79,12 +79,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
               <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="Christopher"><w lemma="ἅγιος">Ὁ
+                    <lb n="1"/>Ὁ<persName type="sacred" key="Christopher"><w lemma="ἅγιος">
                     <lb n="2"/>ἅ
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/>ος</w>
              <cb n="b"/>
-                    <lb n="1"/><name nymRef="Χριστοφόρος">Χριστο
+                    <lb n="1"/><name nymRef="#Χριστοφόρος">Χριστο
                     <lb n="2" break="no"/>φώ
                     <lb n="3" break="no"/>ρος</name></persName>  
                  </ab>
@@ -100,7 +100,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="Mouriki1984"/>,<citedRange> 193</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>,<citedRange> 193</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
