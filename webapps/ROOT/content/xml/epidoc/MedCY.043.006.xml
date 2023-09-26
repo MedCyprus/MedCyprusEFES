@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, north half, 1st figure to the right</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, north half, first figure on the right</rs>
                                     <dimensions unit="cm" scope="text"><height>29,5</height><width>9</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>38,5</height><width>11,5</width></dimensions>
                                 </support>
