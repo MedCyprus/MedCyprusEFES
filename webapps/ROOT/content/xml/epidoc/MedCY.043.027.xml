@@ -85,7 +85,7 @@
                     <lb n="7"/>: Τ<choice><orig>ω</orig><reg>ῶ</reg></choice>ν <w lemma="βροτός">βρο
                     <lb n="8" break="no"/>τῶν</w> <w lemma="σωτηρία">σο<hi rend="ligature">τη</hi>
                     <lb n="9" break="no"/>ρία</w>: <w lemma="παροργίζω">Παρόρ
-                    <lb n="10" break="no"/>σ<hi rend="ligature">άν</hi></w> <w lemma="ἐγώ"><hi rend="ligature">μ</hi><unclear>ε</unclear></w>
+                    <lb n="10" break="no"/>σ<hi rend="ligature" xml:id="lig1">άν</hi></w> <w lemma="ἐγώ"><hi rend="ligature" xml:id="lig2">μ</hi><join target="#lig1 #lig2"/><unclear>ε</unclear></w>
                     <lb n="11"/><supplied reason="lost"><w lemma="συμπαθῶ">συμπάθησον</w></supplied> <w lemma="υἱός"><supplied reason="lost">υἱ</supplied>
                     <lb n="12" break="no"/>έ</w> <w lemma="ἐγώ">μου</w> <supplied reason="lost"><w lemma="ἀλλά">ἀλλ</w>'ου</supplied>
                     <lb n="13" break="no"/>κ <w lemma="ἐπιστρέφω"><choice><orig>ε</orig><reg>ἐ</reg></choice>πισ<hi rend="ligature">τρ</hi><supplied reason="lost">έ</supplied>
