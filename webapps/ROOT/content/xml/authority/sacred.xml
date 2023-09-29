@@ -204,11 +204,11 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q4176601</idno>                   
                 </person>
                 
-                <person xml:id="IgnatiusTheophorus">
+                <person xml:id="IgnatiosTheophoros">
                     <persName xml:lang="grc"><seg>ἅγιος</seg>Ἰγνάτιος ὁ Θεοφόρος</persName>
-                    <persName xml:lang="en">Ignatius Theophorus, saint</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="IgnatiusTheophorus" key="Theophorus">ὁ Θεοφόρος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="IgnatiusTheophorus" key="Theophorus">Theophorus</persName>
+                    <persName xml:lang="en">Ignatios Theophoros, saint</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="IgnatiosTheophoros" key="Theophoros">ὁ Θεοφόρος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="IgnatiosTheophoros" key="Theophoros">the God-bearing</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44170</idno>                   
                 </person>
                 
