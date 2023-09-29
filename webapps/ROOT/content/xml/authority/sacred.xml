@@ -118,11 +118,11 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q310633</idno>                   
                 </person>
                 
-                <person xml:id="DionysiusAreopagite">
+                <person xml:id="DionysiosAreopagites">
                     <persName xml:lang="grc"><seg>ἅγιος </seg>Διονύσιος</persName>
-                    <persName xml:lang="en">Dionysius, saint</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="DionysiusAreopagite">Ἀρεοπαγίτης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="DionysiusAreopagite">the Areopagite</persName>
+                    <persName xml:lang="en">Dionysios, saint</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="DionysiosAreopagites" key="Areopagite">Ἀρεοπαγίτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="DionysiosAreopagites" key="Areopagite">Areopagite</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q310686</idno>                   
                 </person>
                 
