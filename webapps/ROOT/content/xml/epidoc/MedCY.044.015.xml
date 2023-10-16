@@ -74,7 +74,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   <lb n="1"/> <persName type="sacred" key="Angel"><w lemma="ἄγγελος">Ἄγγελος</w> <addName type="epithet" key="of Lord"> <expan><abbr rend="supraline">Κυ</abbr><ex>ρίου</ex></expan></addName></persName>
+                   <lb n="1"/> <persName type="sacred" key="Angel"><w lemma="ἄγγελος">Ἄγγελος</w> <addName type="epithet" key="of Lord"> <expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">υ</abbr></expan></addName></persName>
                 </ab>
             </div>
             <div type="apparatus">
