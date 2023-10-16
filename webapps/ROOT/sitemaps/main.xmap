@@ -34,21 +34,16 @@
                   type="image" />
       </map:match>
 
-      <map:match id="local-images-jpeg-thumbnail" pattern="images/**-thumb.JPG">
-        <map:read mime-type="image/jpeg" src="../content/images/{1}.JPG"
+      <map:match id="local-images-jpeg-thumbnail" pattern="images/**-thumb.jpg">
+        <map:read mime-type="image/jpeg" src="../content/images/{1}.jpg"
                   type="image">
           <map:parameter name="width" value="100" />
         </map:read>
       </map:match>
 
-      <!--<map:match id="local-images-jpeg" pattern="images/**.jpg">
+      <map:match id="local-images-jpeg" pattern="images/**.jpg">
         <map:read mime-type="image/jpeg" src="../content/images/{1}.jpg"
                   type="image" />
-      </map:match>-->
-      
-      <map:match id="local-images-jpeg" pattern="images/**.JPG">
-        <map:read mime-type="image/jpeg" src="../content/images/{1}.JPG"
-          type="image" />
       </map:match>
 
       <map:match id="local-images-png" pattern="images/**.png">
