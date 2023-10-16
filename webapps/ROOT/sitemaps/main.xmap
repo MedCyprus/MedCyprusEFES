@@ -41,10 +41,10 @@
         </map:read>
       </map:match>
 
-      <map:match id="local-images-jpeg" pattern="images/**.jpg">
+      <!--<map:match id="local-images-jpeg" pattern="images/**.jpg">
         <map:read mime-type="image/jpeg" src="../content/images/{1}.jpg"
                   type="image" />
-      </map:match>
+      </map:match>-->
       
       <map:match id="local-images-jpeg" pattern="images/**.JPG">
         <map:read mime-type="image/jpeg" src="../content/images/{1}.JPG"
