@@ -74,7 +74,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   <lb n="1"/>Ἡ θυσία τοῦ Αβραάμ    
+                   <lb n="1"/>Ἡ θυσία τ<hi rend="ligature">οῦ</hi> Ἀβραάμ    
                 </ab>
             </div>
             <div type="apparatus">
@@ -84,11 +84,11 @@
                 <p>Abraham's sacrifice</p>
             </div>
             <div type="commentary">
-                <p>Pending</p>
+                <p>Poor Condition </p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="Sacopoulo1966"/>,<citedRange> PENDING</citedRange></bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
