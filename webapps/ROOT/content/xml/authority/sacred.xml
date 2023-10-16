@@ -21,7 +21,7 @@
                 </person>
                 
                 <person xml:id="Angel">
-                    <persName xml:lang="grc">/Ἄγγελος</persName>
+                    <persName xml:lang="grc">Ἄγγελος</persName>
                     <persName xml:lang="en">Angel</persName>                   
                     <persName xml:lang="grc" type="epithet" subtype="Angel" key="ofGod">Θεοῦ</persName>
                     <persName xml:lang="en" type="epithet" subtype="Angel" key="ofGod">of God</persName>
