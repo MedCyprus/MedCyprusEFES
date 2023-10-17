@@ -14,6 +14,12 @@
         <body>
             <listPerson>
                 
+                <person xml:id="Abraham">
+                    <persName xml:lang="grc"><seg>προφήτης</seg>Ἀβραάμ</persName>
+                    <persName xml:lang="en">Abraham, prophet</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q9181</idno>                   
+                </person>
+                
                 <person xml:id="AnastasiaPharmakolytria">
                     <persName xml:lang="grc"><seg>ἁγία </seg>Ἀναστασία</persName>
                     <persName xml:lang="en">Anastasia, saint</persName>
