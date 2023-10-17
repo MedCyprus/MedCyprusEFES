@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Abraham's sacrifice, Angel</title>
+                <title>Abraham's sacrifice, angel</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -33,7 +33,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the right of the Angel's head</layout>
+                                <layout>On the right of the angel's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#AbrahamSacrifice">Abraham's sacrifice, Angel</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#AbrahamSacrifice">Abraham's sacrifice, angel</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -74,14 +74,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   <lb n="1"/> <persName type="sacred" key="Angel"><w lemma="ἄγγελος">Ἄγγελος</w> <addName type="epithet" key="of Lord"> <expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">υ</abbr></expan></addName></persName>
+                   <lb n="1"/> <persName type="sacred" key="Angel"><w lemma="ἄγγελος">Ἄγγελος</w> <addName type="epithet" key="of Lord"> <name nymRef="Κύριος"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">υ</abbr></expan></w></name></addName></persName>
                 </ab>
             </div>
             <div type="apparatus">
                <p>Pending</p>
             </div>
             <div type="translation">
-                <p>Angel of Lord</p>
+                <p>Angel of the Lord</p>
             </div>
             <div type="commentary">
                 <p>Poor condition</p>
