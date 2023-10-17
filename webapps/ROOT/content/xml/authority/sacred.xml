@@ -25,8 +25,8 @@
                     <persName xml:lang="en">Angel</persName>                   
                     <persName xml:lang="grc" type="epithet" subtype="Angel" key="ofGod">Θεοῦ</persName>
                     <persName xml:lang="en" type="epithet" subtype="Angel" key="ofGod">of God</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Angel" key="ofLord">Κυρίου</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Angel" key="ofLord">of Lord</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Angel" key="of the Lord">Κυρίου</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Angel" key="of the Lord">of the Lord</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2619342</idno>                   
                 </person>
                 
