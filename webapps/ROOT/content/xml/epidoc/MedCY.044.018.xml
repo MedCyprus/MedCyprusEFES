@@ -74,8 +74,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   <lb n="1"/><unclear>Ὁ</unclear> <w lemma="ἅγιος">ἅ<supplied reason="lost">γιος</supplied></w> <milestone unit="column"/> <persName type="sacred" key="JohnofDamascus"><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name> ὁ Δαμα
-                   <lb n="2" break="no"/><milestone unit="column"/><supplied reason="lost">σ</supplied>κι<unclear>ν</unclear><supplied reason="lost">ος</supplied></persName>
+                    <cb n="a"/>
+                   <lb n="1"/><unclear>Ὁ</unclear> <w lemma="ἅγιος">ἅ<supplied reason="lost">γιος</supplied></w> 
+                    <cb n="b"/>
+                   <lb n="1"/><persName type="sacred" key="JohnofDamascus"><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name> <choice><orig>ο</orig><reg>ὁ</reg></choice> Δαμα
+                   <lb n="2" break="no"/><supplied reason="lost">σ</supplied>κι<unclear>ν</unclear><supplied reason="lost">ος</supplied></persName>
                 </ab>
             </div>
             <div type="apparatus">
