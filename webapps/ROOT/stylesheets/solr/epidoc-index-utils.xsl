@@ -57,6 +57,7 @@
         </xsl:if>
       </xsl:for-each>
       <xsl:text>#</xsl:text>
+      <xsl:if test="ancestor::tei:div[@type='edition']">
       <xsl:value-of select="preceding::tei:lb[1]/@n" />
       <xsl:text>#</xsl:text>
       <xsl:choose>
@@ -67,7 +68,38 @@
           <xsl:text>0</xsl:text>
         </xsl:otherwise>
       </xsl:choose>
+      <!-- for contextual index of words -->
+      <xsl:text>#</xsl:text>
+      <xsl:if test="self::tei:w[@lemma]">
+        <!-- <xsl:value-of select="replace(self::tei:w,'\s','')"/> -->
+        <xsl:apply-templates mode="word-index" select="self::tei:w"/>
+      </xsl:if>
+      </xsl:if>
     </field>
+    
   </xsl:template>
-
+  
+  <xsl:template mode="word-index" match="tei:w">
+    <xsl:apply-templates mode="word-index"/>
+  </xsl:template>
+  
+  <xsl:template mode="word-index" match="tei:choice">
+    <xsl:apply-templates mode="word-index"/>
+  </xsl:template>
+  
+  <xsl:template mode="word-index" match="tei:orig">
+    <xsl:value-of select="replace(., '\s','')"/>
+  </xsl:template>
+  
+  <xsl:template mode="word-index" match="tei:sic">
+    <xsl:value-of select="replace(., '\s','')"/>
+  </xsl:template>
+  
+  <xsl:template mode="word-index" match="tei:corr | tei:reg |  tei:am"/>
+  
+  <xsl:template mode="word-index" match="text()">
+    <xsl:value-of select="replace(.,'\s','')"/>
+  </xsl:template>
+  
+  
 </xsl:stylesheet>
