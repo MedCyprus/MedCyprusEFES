@@ -75,8 +75,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="Nikon"><w lemma="ἅγιος">Ὁ
-                    <lb n="2"/>ἅ
+                    <lb n="1"/><persName type="sacred" key="Nikon">Ὁ
+                    <lb n="2"/><w lemma="ἅγιος">ἅ
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/><hi rend="ligature">ος</hi></w>
                     <cb n="b"/>
