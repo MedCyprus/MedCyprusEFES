@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ascension second verse inscription</title>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
+                <editor xml:id="mgp"> Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.044.022</idno>
+                <availability>
+                  <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                    <rs type="placement-building" ref="#bema">Bema, southern apse respond, south panel</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Above the Virgin's panel message to the Archangel</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>PENDING.White letters against blue background. Majuscule letters. Characters size's varies. 
+                            </handNote>
+                        </handDesc>
+                         <decoDesc>
+                            <p>...</p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Asinou">Niketari, Panagia Phorbiotissa or Asinou</origPlace>
+                            <origDate precision="high">1105/6</origDate>
+                        </origin>
+                        <provenance when="2022">
+                        </provenance>
+                        <provenance type="observed" resp="#tp">31/08/2022
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc12">Metrical inscription</term>
+                </keywords>
+            </textClass>
+            <creation><ptr target="Ševčenko2012"/>, 75-7</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic rend="primary" url="044-022-01.JPG"><desc>Bema, southern apse respond, south panel, inscription</desc></graphic>
+        <graphic url="044-022-02.JPG"><desc>Bema, southern apse respond, south panel, inscription detail </desc></graphic>
+         <graphic url="044-022-03.JPG"><desc>Bema, southern apse respond, south panel, general view </desc></graphic>
+        </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <lg met="Dodecasyllable">
+               <l n="1"><lb n="1"/>PENDING.στων + μα[. . .]οστόδ οτη σελας: ταυ
+                   γισεκοτα-
+                   μενοι τ[.]ν α-
+                   νο προς τον
+                   κ(αὶ) νύν βλε-
+                   πουσίν ἐρρό-
+                   μενὸν τόν 
+                   κτήστην: όν 
+                   συνήθος ἔχου
+                   σιν αγγελοῖ βλέ-
+                   πιν</l>
+               
+                </lg>
+            </div>
+            <div type="apparatus">
+               <p>Pending</p>
+            </div>
+            <div type="translation">
+                <p>Pending</p>
+            </div>
+            <div type="commentary">
+                <p>PENDING.Partially preserved</p>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                <bibl><ptr target="#Ševčenko2012"/>, <citedRange> 75-7</citedRange></bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
