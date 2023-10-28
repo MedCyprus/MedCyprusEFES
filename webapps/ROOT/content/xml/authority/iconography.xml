@@ -31,6 +31,12 @@
                 <item xml:id="Crucifixion"> 
                     <term xml:lang="en">Crucifixion</term>
                 </item>
+                <item xml:id="Ascension">
+                    <term xml:lang="en">Ascension</term>
+                </item>
+                <item xml:id="AscensionChrist">
+                    <term xml:lang="en">Ascension, Christ</term>
+                </item>
                 <item xml:id="Nativity"> 
                     <term xml:lang="en">Nativity</term>
                 </item>
@@ -48,12 +54,6 @@
                 <!-- ... -->
                 <item xml:id="Αnnunciation">
                     <term xml:lang="en">Annunciation</term>
-                </item>
-                <item xml:id="Ascension">
-                    <term xml:lang="en">Ascension</term>
-                </item>
-                <item xml:id="AscensionChrist">
-                    <term xml:lang="en">Ascension, Christ</term>
                 </item>
                 <item xml:id="Dormition">
                     <term xml:lang="en">Dormition</term>
