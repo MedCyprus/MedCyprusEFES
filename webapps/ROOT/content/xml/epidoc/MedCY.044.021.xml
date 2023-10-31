@@ -74,16 +74,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <lg met="Dodecasyllable">
-               <l><lb n="1"/><gap reason="lost" extent="unknown" unit="character"></gap> <w lemma="δεξιόθεν">δεξιόθεν</w>:</l>
-               <l><lb n="2"/>ηξι<unclear>τ</unclear><gap reason="lost" extent="unknown" unit="character"></gap> με</l>
-               <l><lb n="3" break="no"/>τα <w lemma="δόξα">δ<choice><orig>ο</orig><reg>ό</reg></choice>ξις</w> του </l>
-               <l><lb n="5"/>κηριε: καὶ ἀπ<choice><orig>ο</orig><reg>ὸ</reg></choice> </l>
-               <l><lb n="6"/>ση <gap reason="lost" extent="unknown"></gap> <w lemma="σκιά">σκιά</w> στου</l>
-               <l><lb n="7" break="no"/><gap reason="lost" extent="unknown"></gap> ξ <unclear>λ</unclear></l>
-                <l><lb n="8"/><choice><orig>ε</orig><reg>ἐ</reg></choice>ν το˜ μεσῶ τ<gap reason="lost" extent="unknown" unit="character"></gap> </l>
-                <l><lb n="9"/><choice><orig>ε</orig><reg>ἐ</reg></choice>ν τ<choice><orig>η</orig><reg>ῇ</reg></choice> <w lemma="κρίσις">κρ<choice><orig>ι</orig><reg>ί</reg></choice>ση</w> </l>
-                <l><lb n="10"/>μ<choice><orig>η</orig><reg>ὴ</reg></choice> <w lemma="κρίνω">κ<hi rend="ligature">ρή</hi>ν<choice><orig>η</orig><reg>ῃ</reg></choice>ς</w></l>
-                <l><lb n="11"/><g ref="#cross">+</g></l>
+               <l n="1"><lb n="1"/><gap reason="lost" extent="unknown" unit="character"></gap> <w lemma="δεξιόθεν">δεξηόθεν</w>:</l>
+               <l n="2"><lb n="2"/>ηξι<unclear>τ</unclear><gap reason="lost" extent="unknown" unit="character"></gap> με
+               <lb n="3" break="no"/>τα <w lemma="δόξα">δ<choice><orig>ο</orig><reg>ό</reg></choice>ξις</w> του
+               <lb n="4"/>κηριε:</l>
+               <l n="3">καὶ ἀπ<choice><orig>ο</orig><reg>ὸ</reg></choice>
+               <lb n="5"/>ση <gap reason="lost" extent="unknown"></gap> <w lemma="σκιά">σκιά</w> στου
+               <lb n="6"/><gap reason="lost" extent="unknown"></gap> ξ <unclear>λ</unclear></l>
+               <l n="4"><lb n="7"/><choice><orig>ε</orig><reg>ἐ</reg></choice>ν το˜ μεσῶ τ<gap reason="lost" extent="unknown" unit="character"></gap> 
+               <lb n="8"/><choice><orig>ε</orig><reg>ἐ</reg></choice>ν τ<choice><orig>η</orig><reg>ῇ</reg></choice> <w lemma="κρίσις">κρ<choice><orig>ι</orig><reg>ί</reg></choice>ση</w>
+                <lb n="9"/>μ<choice><orig>η</orig><reg>ὴ</reg></choice> <w lemma="κρίνω">κ<hi rend="ligature">ρή</hi>ν<choice><orig>η</orig><reg>ῃ</reg></choice>ς</w><lb n="10"/><g ref="#cross">+</g></l>
                 </lg>
             </div>
             <div type="apparatus">
@@ -93,7 +93,7 @@
                 <p>Pending</p>
             </div>
             <div type="commentary">
-                <p>PENDING.Partially preserved. Τhe words δόξης, κύριε, ἀπό, κρίνῃς ... are misspelled.Somewordsarenotsurvived and their meaning is...</p>
+                <p>PENDING.Partially preserved. Τhe words δεξιόθεν, δόξης, κύριε, ἀπό, κρίνῃς ... are misspelled.Somewordsarenotsurvived and their meaning is...</p>
             </div>
             <div type="bibliography">
                  <listBibl>
