@@ -76,26 +76,26 @@
                 <lg met="Dodecasyllable">
                <l n="1"><lb n="1"/><gap reason="lost" extent="unknown" unit="character"></gap> <w lemma="δεξιόθεν">δεξηόθεν</w>:</l>
                <l n="2"><lb n="2"/>ηξι<unclear>τ</unclear><gap reason="lost" extent="unknown" unit="character"></gap> με
-               <lb n="3" break="no"/>τα <w lemma="δόξα">δ<choice><orig>ο</orig><reg>ό</reg></choice>ξις</w> του
-               <lb n="4"/><persName type="divine" key="Lord"><name nymRef="#Κύριος"></name><w lemma="Κύριος">Κηριε</w></persName>:</l>
+               <lb n="3" break="no"/>τα <w lemma="δόξα">δ<choice><orig>ο</orig><reg>ό</reg></choice>ξις</w> το<choice><orig>υ</orig><reg>ῦ</reg></choice>
+               <lb n="4"/><persName type="divine" key="Lord"><name nymRef="#Κύριος"></name><w lemma="Κύριος">Κ<choice><orig>η</orig><reg>ή</reg></choice>ριε</w></persName>:</l>
                <l n="3">καὶ ἀπ<choice><orig>ο</orig><reg>ὸ</reg></choice>
                <lb n="5"/>ση <gap reason="lost" extent="unknown"></gap> <w lemma="σκιά">σκιά</w> στου
                <lb n="6"/><gap reason="lost" extent="unknown"></gap> ξ <unclear>λ</unclear></l>
                <l n="4"><lb n="7"/><choice><orig>ε</orig><reg>ἐ</reg></choice>ν το˜ <w lemma="μέσῳ">μ<choice><orig>ε</orig><reg>έ</reg></choice>σ<choice><orig>ῶ</orig><reg>ῳ</reg></choice></w> τ<supplied reason="lost">ῶν</supplied> 
                <lb n="8"/><choice><orig>ε</orig><reg>ἐ</reg></choice>ν τ<choice><orig>η</orig><reg>ῇ</reg></choice> <w lemma="κρίσις">κρ<choice><orig>ι</orig><reg>ί</reg></choice>ση</w>
-                <lb n="9"/>μ<choice><orig>η</orig><reg>ὴ</reg></choice> <w lemma="κρίνω">κ<hi rend="ligature">ρή</hi>ν<choice><orig>η</orig><reg>ῃ</reg></choice>ς</w><lb n="10"/><g ref="#cross">+</g></l>
+                <lb n="9"/>μ<choice><orig>η</orig><reg>ὴ</reg></choice> <w lemma="κρίνω">κ<hi rend="ligature">ρή</hi>ν<choice><orig>η</orig><reg>ῃ</reg></choice>ς</w><lb n="10"/><space extent="unknown" unit="character"></space><g ref="#cross">+</g></l>
                 </lg>
             </div>
             <div type="apparatus">
                <p>Pending</p>
             </div>
             <div type="translation">
-                <p>Pending</p>
+                <p>Non possible</p>
             </div>
             <div type="commentary">
-                <p>Partially preserved. Τhe words δεξιόθεν, δόξης, κύριε, κρίνῃς are misspelled. Some words are partially preserved and therefore we are unaware of their origin and meaning. Accens and breathings with errors.</p>
+                <p>Partially preserved. Τhe words δεξιόθεν, δόξης, κύριε, κρίνῃς are misspelled. Some words are partially preserved and therefore we are unaware of their origin and meaning. Accents and breathings with errors.The text ends with a cross with four rays in the angles. Οnly the phrases: ἐν τῷ μέσῳ τῶν ἐν τῆ κρίσει μὴ κρίνῃς, in lines 7-10 are understandable. Text: Unknown.</p>
             </div>
-            <div type="bibliography">
+            <div type="bibliography"> 
                  <listBibl>
                 <bibl><ptr target="#Ševčenko2012"/>, <citedRange> 75-7</citedRange></bibl>
                 </listBibl>
