@@ -82,13 +82,13 @@
                    <lb n="5" break="no"/> μενοι</l> 
                <l n="2">τ<gap reason="lost" unit="character" quantity="1"></gap>ν α
                    <lb n="6" break="no"/>νο προς το<unclear>ν</unclear></l>
-                <l n="3"><lb n="7"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan><am>`</am> <w lemma="νῦν">ν<choice><orig>ύ</orig><reg>ῦ</reg></choice>ν</w> βλε
-                    <lb n="8" break="no"/>πουσίν ἐρρό
-                    <lb n="9" break="no"/>μενὸν τόν 
-                    <lb n="10"/> κτήστην:</l><l n="4">όν
-                    <lb n="11"/>συνήθος ἔχου
-                    <lb n="12" break="no"/>σιν αγγελοῖ βλέ
-                    <lb n="13" break="no"/>πιν</l>
+                <l n="3"><lb n="7"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan><am>`</am> <w lemma="νῦν">ν<choice><orig>ύ</orig><reg>ῦ</reg></choice>ν</w> <w lemma="βλέπω">βλέ
+                    <lb n="8" break="no"/>πουσιν</w> <w lemma="αἴρω">ἐρρό
+                    <lb n="9" break="no"/>μενὸν</w> τόν 
+                    <lb n="10"/> <w lemma="κτίστης">κτήστην</w>:</l><l n="4">όν
+                    <lb n="11"/><w lemma="συνήθως">συνήθος</w> <w lemma="ἔχω">ἔχου
+                    <lb n="12" break="no"/>σιν</w> <w lemma="ἄγγελος">αγγελοῖ</w> <w lemma="βλέπω">βλέ
+                    <lb n="13" break="no"/>πιν</w></l>
                 </lg>
             </div>
             <div type="apparatus">
@@ -98,7 +98,8 @@
                 <p>Pending</p>
             </div>
             <div type="commentary">
-                <p>PENDING.Partially preserved</p>
+                <p>Partially preserved. The second line starts with a cross. Τhe words αἰρόμενον, κτίστην, συνήθως, βλέπειν are misspelled. Some words are partially preserved and therefore we are unaware of their origin and meaning. Accents and breathings with errors. Οnly the phrases: καὶ νῦν βλέπουσιν αἰρόμενον τὸν κτίστην
+ὃν συνήθως ἔχουσιν ἄγγελοι βλέπειν, in lines 7-13 are understandable. Text: Unknown.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
