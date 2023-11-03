@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.White letters against blue background. Majuscule letters. Characters size's varies. 
+                            <handNote>White letters against blue background. Majuscule letters. Characters size's varies. Nu with its central bar forms a diagonal line. ΟΥ, ΤΗ, ΤΗΝ in ligature. In line 3 and 10 double point after the letters -ελας and the word κτήστην respectively. Almost systematic use of accents and breathings.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,14 +75,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <lg met="Dodecasyllable">
-               <l n="1"><lb n="1"/>PENDING.στων 
-                   <lb n="2"/>+ μα[. . .]οστόδο
+               <l n="1"><lb n="1"/><gap reason="lost" extent="unknown"></gap>στων 
+                   <lb n="2"/><g ref="#cross">+</g> μα<gap reason="lost" unit="character" quantity="3"></gap>οστόδο
                    <lb n="3" break="no"/>τησελας: ταυ
                    <lb n="4" break="no"/>γισεκοτα
                    <lb n="5" break="no"/> μενοι</l> 
-               <l n="2">τ[.]ν α
-                   <lb n="6" break="no"/>νο προς τον</l>
-                <l n="3"><lb n="7"/>κ(αὶ) νύν βλε
+               <l n="2">τ<gap reason="lost" unit="character" quantity="1"></gap>ν α
+                   <lb n="6" break="no"/>νο προς το<unclear>ν</unclear></l>
+                <l n="3"><lb n="7"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan><am>`</am> <w lemma="νῦν">ν<choice><orig>ύ</orig><reg>ῦ</reg></choice>ν</w> βλε
                     <lb n="8" break="no"/>πουσίν ἐρρό
                     <lb n="9" break="no"/>μενὸν τόν 
                     <lb n="10"/> κτήστην:</l><l n="4">όν
