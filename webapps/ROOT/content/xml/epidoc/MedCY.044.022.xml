@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters size's varies. Nu with its central bar forms a diagonal line. ΟΥ, ΤΗ, ΤΗΝ in ligature. In line 3 and 10 double point after the letters -ελας and the word κτήστην respectively. Almost systematic use of accents and breathings.
+                            <handNote>White letters against blue background. Majuscule letters. Characters size's varies. Nu with its central bar forms a diagonal line. ΟΥ, ΤΗ, ΤΗΝ, ΝΗ in ligature. In line 3 and 10 double point after the letters -ελας and the word κτήστην respectively. Almost systematic use of accents and breathings.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -82,12 +82,12 @@
                    <lb n="5" break="no"/> μενοι</l> 
                <l n="2">τ<gap reason="lost" unit="character" quantity="1"></gap>ν α
                    <lb n="6" break="no"/>νο προς το<unclear>ν</unclear></l>
-                <l n="3"><lb n="7"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan><am>`</am> <w lemma="νῦν">ν<choice><orig>ύ</orig><reg>ῦ</reg></choice>ν</w> <w lemma="βλέπω">βλέ
-                    <lb n="8" break="no"/>πουσιν</w> <w lemma="αἴρω">ἐρρό
-                    <lb n="9" break="no"/>μενὸν</w> τόν 
-                    <lb n="10"/> <w lemma="κτίστης">κτήστην</w>:</l><l n="4">όν
-                    <lb n="11"/><w lemma="συνήθως">συνήθος</w> <w lemma="ἔχω">ἔχου
-                    <lb n="12" break="no"/>σιν</w> <w lemma="ἄγγελος">αγγελοῖ</w> <w lemma="βλέπω">βλέ
+                <l n="3"><lb n="7"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan><am>`</am> <w lemma="νῦν">ν<choice><orig>ὺ</orig><reg>ῦ</reg></choice>ν</w> <w lemma="βλέπω">βλ<choice><orig>ε</orig><reg>έ</reg></choice>
+                    <lb n="8" break="no"/>π<hi rend="ligature">ου</hi>σιν</w> <w lemma="αἴρω">ἐρρό
+                    <lb n="9" break="no"/>μενὸν</w> τ<choice><orig>ο</orig><reg>ὸ</reg></choice>ν 
+                    <lb n="10"/> <w lemma="κτίστης">κτήστην</w>:</l><l n="4"><w lemma="ὅς"><choice><orig>ό</orig><reg>ὅ</reg></choice>ν</w>
+                    <lb n="11"/><w lemma="συνήθως">συ<hi rend="ligature">ν<choice><orig>ὴ</orig><reg>ή</reg></choice></hi>θος</w> <w lemma="ἔχω">ἔχ<hi rend="ligature">ου</hi>
+                    <lb n="12" break="no"/>σιν</w> <w lemma="ἄγγελος"><choice><orig>α</orig><reg>ἄ</reg></choice>γγελο<choice><orig>ῖ</orig><reg>ι</reg></choice></w> <w lemma="βλέπω">βλέ
                     <lb n="13" break="no"/>πιν</w></l>
                 </lg>
             </div>
@@ -95,7 +95,7 @@
                <p>Pending</p>
             </div>
             <div type="translation">
-                <p>Pending</p>
+                <p>Non possible</p>
             </div>
             <div type="commentary">
                 <p>Partially preserved. The second line starts with a cross. Τhe words αἰρόμενον, κτίστην, συνήθως, βλέπειν are misspelled. Some words are partially preserved and therefore we are unaware of their origin and meaning. Accents and breathings with errors. Οnly the phrases: καὶ νῦν βλέπουσιν αἰρόμενον τὸν κτίστην
