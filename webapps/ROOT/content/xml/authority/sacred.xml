@@ -346,8 +346,8 @@
                 </person>
                 
                 <person xml:id="MaryOfEgypt">
-                    <persName xml:lang="grc"><seg>ὁσία</seg> Μαρία ἡ Αἰγυπτία</persName>
-                    <persName xml:lang="en">Mary of Egypt, hosia</persName> 
+                    <persName xml:lang="grc"><seg>ἁγία</seg> Μαρία ἡ Αἰγυπτία</persName>
+                    <persName xml:lang="en">Mary of Egypt, saint</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="MaryOfEgypt" key="Egyptian">ἡ Αἰγυπτία</persName>
                     <persName xml:lang="en" type="epithet" subtype="MaryOfEgypt" key="Egyptian">Egyptian</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q237583</idno>                   
@@ -521,8 +521,8 @@
                 </person>
                 
                 <person xml:id="Zosimas">
-                    <persName xml:lang="grc"><seg>ὅσιος </seg>Ζωσιμᾶς</persName>
-                    <persName xml:lang="en">Zosimas, hosios</persName>
+                    <persName xml:lang="grc"><seg>ἅγιος </seg>Ζωσιμᾶς</persName>
+                    <persName xml:lang="en">Zosimas, saint</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2993862</idno>                   
                 </person>
                 
