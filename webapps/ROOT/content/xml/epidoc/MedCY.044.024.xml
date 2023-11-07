@@ -76,17 +76,19 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                 PENDING 
+                    <lb n="1"/><g ref="#cross">+</g><w lemma="Ἰδού"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>δ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ὺ</reg></choice></hi></w> <choice><orig>η</orig><reg>ἡ</reg></choice> <w lemma="δούλη">δ<hi rend="ligature">ού</hi>λη</w> <persName type="divine" key="Lord"><name nymRef="#Κύριος"></name><w lemma="Κύριος"><supplied reason="lost">Κυρίου</supplied></w></persName> <w lemma="γίγνομαι"><supplied reason="lost">γέ</supplied>
+                    <lb n="2" break="no"/>νοιτό</w> <w lemma="ἐγώ">μοι</w> κατὰ τ<supplied reason="lost">ο</supplied> <w lemma="ῥῆμα"><supplied reason="lost">"ῥῆ</supplied>
+                    <lb n="4" break="no"/>μα</w> <w lemma="σύ">σ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi></w>
                  </ab>
             </div>
             <div type="apparatus">
                <p>Pending</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>I am the Lord’s servant. May your word to me be fulfilled.</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Partially preserved. A cross with rays in the angles marks the beginning of the text. The inscription is based on the dialoque between the Archangel Gabriel and the Virgin according to Luke 1:28, 38. </p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
