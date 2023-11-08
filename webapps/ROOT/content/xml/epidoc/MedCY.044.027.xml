@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, north wall, upper register</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, north wall, center, upper register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.White letters against blue background. Majuscule letters. Accents and breathings systematic.
+                            <handNote>PENDING.White letters against blue background. Majuscule letters. Characters size's varies. Tau in superscript. ΟΥ, ΝΝ, ΤΗ, ΗΝ in ligature. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -74,9 +74,11 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>
-                    PENDING
-                 </ab>
+                <lg met="Dodecasyllable">
+                    <l n="1"><lb n="1"/><g ref="#cross">+</g> ἡ <persName type="sacred" key="Virgin"><w lemma="παρθένος">παρθένου</w></persName> <w lemma="γέννησις">γ<choice><orig>ε</orig><reg>έ</reg></choice>ννησις</w> <choice><orig>ἠ</orig><reg>ἡ</reg></choice> <w lemma="σωτηρία">σοτηρία</w></l>
+                    <l n="2"><lb n="2"/><w lemma="χαίρω">χάριθη</w> <w lemma="κόσμε">κόσμαι</w> <w lemma="σή">σὴν</w> <w lemma="ἀνάστασις">ἀνάστασην</w> 
+                    <lb n="3"/><w lemma="βλέπω">βλέπων</w></l>
+                </lg> 
             </div>
             <div type="apparatus">
                <p>Pending</p>
@@ -85,7 +87,7 @@
                 <p>PENDING</p>
             </div>
             <div type="commentary">
-                <p>Poor condition. Partially preserved</p>
+                <p>Poor condition. Partially preserved. A cross with rays in the angles marks the beginning of the text. The words σωτηρία, χάρηθι, κόσμε, ανάστασιν are misspelled. Accents and breathings with errors.</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
