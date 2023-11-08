@@ -63,7 +63,7 @@
                     <term type="textType" ref="text_types.xml#doc12">Metrical inscription</term>
                 </keywords>
             </textClass>
-            <creation><ptr target="Ševčenko2012"/>, 75-7</creation>
+            <creation><ptr target="#Ševčenko2012"/>, 75-7</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
