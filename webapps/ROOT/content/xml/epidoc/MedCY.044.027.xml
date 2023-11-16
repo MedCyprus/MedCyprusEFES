@@ -63,7 +63,7 @@
                     <term type="textType" ref="text_types.xml#doc12">Metrical inscription</term>
                 </keywords>
             </textClass>
-            <creation></creation>
+                    <creation><ptr target="Ševčenko2012"/>, 73-4</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -75,16 +75,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <lg met="Dodecasyllable">
-                    <l n="1"><lb n="1"/>PENDING<g ref="#cross">+</g> ἡ <persName type="sacred" key="Virgin"><w lemma="παρθένος">παρθένου</w></persName> <w lemma="γέννησις">γ<choice><orig>ε</orig><reg>έ</reg></choice>ννησις</w> <choice><orig>ἠ</orig><reg>ἡ</reg></choice> <w lemma="σωτηρία">σοτηρία</w></l>
-                    <l n="2"><lb n="2"/><w lemma="χαίρω">χάριθη</w> <w lemma="κόσμε">κόσμαι</w> <w lemma="σή">σὴν</w> <w lemma="ἀνάστασις">ἀνάστασην</w> 
-                    <lb n="3"/><w lemma="βλέπω">βλέπων</w></l>
+                    <l n="1"><lb n="1"/><g ref="#cross">+</g> ἡ <persName type="sacred" key="Virgin"><w lemma="παρθένος">παρθένου</w></persName> <w lemma="γέννησις">γ<choice><orig>ε</orig><reg>έ</reg></choice>ννησις</w>, <choice><orig>ἠ</orig><reg>ἡ</reg></choice> <w lemma="σωτηρία">σοτηρία</w></l>
+                    <l n="2"><lb n="2"/><w lemma="χαίρω">χάριθη</w> <w lemma="κόσμε">κόσμαι</w>, <w lemma="σή">σὴν</w> <w lemma="ἀνάστασις">ἀνάστασην</w> 
+                    <lb n="3"/><space extent="17" unit="character"></space><w lemma="βλέπω">βλέπων</w>.</l>
                 </lg> 
             </div>
             <div type="apparatus">
                <p>Pending</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>The birth of the Virgin, salvation. Rejoice, O world, seeing your resurrection.</p>
             </div>
             <div type="commentary">
                 <p>Poor condition. Partially preserved. A cross with rays in the angles marks the beginning of the text. The words σωτηρία, χάρηθι, κόσμε, ανάστασιν are misspelled. Accents and breathings with errors.</p>
@@ -92,6 +92,7 @@
             <div type="bibliography"> 
                  <listBibl>
                 <bibl><ptr target="#Ševčenko2012"/>, <citedRange> 73-4</citedRange></bibl>
+                                     <bibl><ptr target="#Rhoby2009"/>, <citedRange> 352</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
