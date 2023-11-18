@@ -220,6 +220,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44170</idno>                   
                 </person>
                 
+                <person xml:id="Joachim">
+                    <persName xml:lang="grc"><seg>ἅγιος </seg>Ἰωακείμ</persName>
+                    <persName xml:lang="en">Joachim, saint</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q314700</idno>                   
+                </person>
+                
                 <person xml:id="JamesLordBrother">
                     <persName xml:lang="grc"><seg>ἅγιος</seg> Ἰάκωβος</persName>
                     <persName xml:lang="en">James the Lord's Brother, saint</persName> 
