@@ -429,6 +429,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q33923</idno>                   
                 </person>
                 
+                <person xml:id="Romanos">
+                    <persName xml:lang="grc"><seg>ἅγιος</seg> Ρωμανός</persName>
+                    <persName xml:lang="en">Romanos, saint</persName> 
+                    <!--<persName xml:lang="grc" type="epithet" subtype="RomanosMelodos" key="Melodist">ὁ Μελωδός</persName>
+                    <persName xml:lang="en" type="epithet" subtype="RomanosMelodos" key="Melodist">the Melodist</persName>-->
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q221059</idno>                   
+                </person>
+                
                 <person xml:id="Solomon">
                     <persName xml:lang="grc"><seg>προφήτης</seg> Σολομών</persName>
                     <persName xml:lang="en">Solomon, prophet</persName>                   
