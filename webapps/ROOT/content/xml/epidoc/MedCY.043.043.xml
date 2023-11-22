@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Lazarοs' Resurrection, Christ</title>
+                <title>Raising of Lazaros, Christ</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#ChristLazarosResurrection">Lazaros' Resurrection, Christ</rs></p>
+                            <p>... <rs type="iconography" ref="iconography.xml#ChristLazarosRaising">Raising of Lazaros, Christ</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
