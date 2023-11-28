@@ -15,8 +15,8 @@
             <listPerson>
                 
                 <person xml:id="Abraham">
-                    <persName xml:lang="grc"><!--<seg>προφήτης</seg>--> Ἀβραάμ</persName>
-                    <persName xml:lang="en">Abraham<!--, prophet--></persName>                   
+                    <persName xml:lang="grc">Ἀβραάμ</persName>
+                    <persName xml:lang="en">Abraham</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9181</idno>                   
                 </person>
                 
