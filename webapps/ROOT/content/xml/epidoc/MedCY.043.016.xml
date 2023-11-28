@@ -5,9 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Preparation of the Throne</title>
-                 <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <title>Hetoimasia</title>
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#PreparationOfTheThrone">Preparation of the Throne</rs></p>
+                            <p>... <rs type="iconography" ref="iconography.xml#Hetoimasia">Hetoimasia</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
