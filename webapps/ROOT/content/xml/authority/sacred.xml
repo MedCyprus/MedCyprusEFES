@@ -37,8 +37,8 @@
                 </person>
                 
                 <person xml:id="Athanasia">
-                    <persName xml:lang="grc"><seg>ἁγία </seg>Ἀθανασία</persName>
-                    <persName xml:lang="en">Athanasia, saint</persName>
+                    <persName xml:lang="grc"><!--<seg>ἁγία </seg>-->Ἀθανασία</persName>
+                    <persName xml:lang="en">Athanasia</persName>
                     <idno type="wikidata">not listed</idno>                   
                 </person>
                 
