@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Unidentified saint</title>
+                <title>Saint, unidentified</title>
                 <author xml:id="tp">Theocharis Petrou</author> 
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#unidentified_saint_MedCY055.024">Saint, unidentified</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#MaleSaintUnidentified_MedCY055.024">Male saint, unidentified</rs></p>
                             </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +73,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="Unidentified_saint_MedCy.055.024"><supplied reason="lost">Ὁ</supplied>
+                    <lb n="1"/><persName type="sacred" key="MaleSaintUnidentified_MedCY055.024"><supplied reason="lost">Ὁ</supplied>
                     <lb n="2"/><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w>
