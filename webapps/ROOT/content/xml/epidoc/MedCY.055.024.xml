@@ -73,13 +73,13 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="MaleSaintUnidentified_MedCY055.024"><supplied reason="lost">Ὁ</supplied>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied>
                     <lb n="2"/><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w>
                     <cb n="b"/>
                     <lb n="1"/><name nymRef="Ἀδιάγνωστος"><gap reason="lost" extent="unknown" unit="line"></gap>
-                   </name></persName>
+                   </name>
                 </ab>
             </div>
             <div type="apparatus">
