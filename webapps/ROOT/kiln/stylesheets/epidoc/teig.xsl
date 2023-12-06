@@ -90,7 +90,7 @@
    <xsl:param name="g"></xsl:param>
    
    <!--      stores the chardecl: if locally included, uses that one, otherways uses the common one, i.e. local definitions override -->
-   <xsl:variable name="chardecl" select="if (//t:charDecl) then //t:charDecl else doc(concat('file:',system-property('user.dir'),'/webapps/ROOT/kiln/stylesheets/epidoc/charDecl.xml'))"/>
+   <xsl:variable name="chardecl" select="if (//t:charDecl) then //t:charDecl else (if (doc('charDecl.xml')) then doc('charDecl.xml') else doc(concat('file:',system-property('user.dir'),'/webapps/ROOT/kiln/stylesheets/epidoc/charDecl.xml')))"/>
    <xsl:variable name="glyphID" select="EDF:refID(current()/@ref)"/>
    <xsl:choose>
       <xsl:when test="starts-with($parm-leiden-style, 'edh')"/>
@@ -132,7 +132,7 @@
          <!--            ref may be a full string, or rather use a prefix, declared in prefixDecl, the xml:id assigned to the glyph may be thus without anchor, and needs to be reconstructed before-->
          <xsl:variable name="parsedRef" select="EDF:refParser(@ref, //t:listPrefixDef)"/>
          
-         <xsl:variable name="externalCharDecl" select="concat('file:',system-property('user.dir'),'/webapps/ROOT/content/xml/authority/', substring-before($parsedRef, '#'))"/>
+         <xsl:variable name="externalCharDecl" select="if $parm-leiden-style='medcyprus' then concat('file:',system-property('user.dir'),'/webapps/ROOT/content/xml/authority/', substring-before($parsedRef, '#')) else substring-before($parsedRef, '#')"/>
          <xsl:choose>
             <xsl:when test="doc-available($externalCharDecl)">
                <xsl:variable name="externalCharDecldoc" select="doc($externalCharDecl)"/>
