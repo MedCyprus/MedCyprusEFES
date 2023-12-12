@@ -214,7 +214,7 @@
                 
                 <person xml:id="IgnatiosTheophoros">
                     <persName xml:lang="grc">Ἰγνάτιος ὁ Θεοφόρος</persName>
-                    <persName xml:lang="en">Ignatios Theophoros, saint</persName> 
+                    <persName xml:lang="en">Ignatios Theophoros</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="IgnatiosTheophoros" key="Theophoros">ὁ Θεοφόρος</persName>
                     <persName xml:lang="en" type="epithet" subtype="IgnatiosTheophoros" key="Theophoros">the God-bearing</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44170</idno>                   
@@ -470,7 +470,7 @@
                  
                 <person xml:id="Theotokos">
                     <persName xml:lang="grc">Θεοτόκος</persName>
-                    <persName xml:lang="en">The one who gave birth to God</persName>
+                    <persName xml:lang="en">Theotokos</persName>
                     <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Arakiotissa">τοῦ Άρακος</persName>
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Arakiotissa">Arakiotissa / of Arakas</persName>
                     <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Despoina">δέσποινα </persName>
