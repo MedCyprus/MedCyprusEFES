@@ -4,6 +4,15 @@
                 xmlns:t="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="t" 
                 version="2.0">
 
-   <xsl:template match="t:teiHeader|t:facsimile"/>
+   <xsl:template match="t:teiHeader"/>
   
+   <xsl:template match="t:facsimile">
+      <xsl:choose>
+         <xsl:when test="$parm-edn-structure='medcyprus'"/>
+         <xsl:otherwise>
+            <xsl:apply-templates/>
+         </xsl:otherwise>
+      </xsl:choose>
+   </xsl:template>
+
 </xsl:stylesheet>
