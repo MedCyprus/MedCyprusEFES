@@ -160,7 +160,7 @@
                 </person>
                 
                 <person xml:id="Gabriel">
-                    <persName xml:lang="grc"><seg>Ἀρχάγγελος</seg> Γαβριήλ</persName>
+                    <persName xml:lang="grc">Γαβριήλ</persName>
                     <persName xml:lang="en">Gabriel</persName>   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q81989</idno>                   
                 </person>
@@ -392,8 +392,8 @@
                 </person>
                 
                 <person xml:id="Michael">
-                    <persName xml:lang="grc"><seg>Ἀρχάγγελος</seg> Μιχαήλ</persName>
-                    <persName xml:lang="en">Michael, archangel</persName>   
+                    <persName xml:lang="grc">Μιχαήλ</persName>
+                    <persName xml:lang="en">Michael</persName>   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q45581</idno>                   
                 </person>
                 
