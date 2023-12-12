@@ -271,8 +271,8 @@
                 </person>
                 
                 <person xml:id="JohnTheologian">
-                    <persName xml:lang="grc">Ἰωάννης ὁ Θεολόγος</persName>
-                    <persName xml:lang="en">John the Theologian</persName> 
+                    <persName xml:lang="grc">Ἰωάννης ὁ Εὐαγγελιστῆς / ὁ Θεολόγος</persName>
+                    <persName xml:lang="en">John the Evangelist / Theologian</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="JohnTheologian" key="Theologian">ὁ Θεολόγος</persName>
                     <persName xml:lang="en" type="epithet" subtype="JohnTheologian" key="Theologian">Theologian</persName>
                     <persName xml:lang="grc" type="epither" subtype="JohnTheologian" key="Evangelist">ὁ Εὐαγγελιστῆς</persName>
@@ -345,7 +345,7 @@
                 
                 <person xml:id="Mark">
                     <persName xml:lang="grc">Μᾶρκος</persName>
-                    <persName xml:lang="en">Mark, the Evangelist</persName>        
+                    <persName xml:lang="en">Mark</persName>        
                     <persName xml:lang="grc" type="epithet" subtype="Mark" key="Evangelist">ὁ Εὐαγγελιστῆς</persName>
                     <persName xml:lang="en" type="epithet" subtype="Mark" key="Evangelist">Evangelist</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q31966</idno>                   
@@ -368,7 +368,7 @@
                 
                 <person xml:id="Matthew">
                     <persName xml:lang="grc">Ματθαῖος</persName>
-                    <persName xml:lang="en">Matthew, the Evangelist</persName>        
+                    <persName xml:lang="en">Matthew</persName>        
                     <persName xml:lang="grc" type="epithet" subtype="Matthew" key="Evangelist">ὁ Εὐαγγελιστῆς</persName>
                     <persName xml:lang="en" type="epithet" subtype="Matthew" key="Evangelist">Evangelist</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43600</idno>                   
