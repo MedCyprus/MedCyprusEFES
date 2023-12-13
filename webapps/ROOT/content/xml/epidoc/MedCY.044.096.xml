@@ -6,45 +6,53 @@
         <fileDesc>
             <titleStmt>
                 <title>Forty Martyrs of Sebaste’s poem</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
                 <idno type="filename">MedCY.044.096</idno>
-                <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence></availability>
+                <availability>
+                  <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
                         <repository>n/a</repository>
-                        <idno>inventory number</idno>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>Painted inscription <material/>
-                                    <rs type="placement">Naos, northwest recess, lunette </rs>,
-                                    <dimensions unit="cm"><height>4 cm </height> <width></width></dimensions></support>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                    <rs type="placement-building" ref="#naos">Naos, northwest recess, lunette</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout></layout>
+                                <layout>PENDING:Εδώ το articulation of inscription</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Partially preserved, faded<height>, 4 cm</height>
+                            <handNote>PENDING: Εδώ τα letters<height>, 4 cm</height>
                             </handNote>
                         </handDesc>
+                    <decoDesc>
+                            <p>... <rs type="iconography" ref="iconography.xml#FortyMartyrs">Forty Martyrs of Sebaste</rs></p>
+                        </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Asinou">Niketari, Panagia Phorbiotissa or Asinou</origPlace>
                             <origDate precision="high">1105/6</origDate>
                         </origin>
-                        <provenance type="found"> Findspot and circumstances/context
+                        <provenance when="2022">
                         </provenance>
-                        <provenance type="observed">
+                        <provenance type="observed" resp="#tp">31/08/2022
                         </provenance>
                     </history>
                 </msDesc>
@@ -53,15 +61,22 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#...">...</term>
+                     <term type="textType" ref="text_types.xml#doc12">Metrical inscription</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+                    <creation></creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
-    </facsimile>
+         <graphic rend="primary" url="044-096-01.JPG"><desc>Naos, northwest recess, lunette, inscription</desc></graphic>
+        <graphic url="044-096-02.JPG"><desc>Naos, northwest recess, lunette, inscription detail</desc></graphic>
+        <graphic url="044-096-03.JPG"><desc>Bema, northwest recess, lunette, inscription detail </desc></graphic>
+        <graphic url="044-096-04.JPG"><desc>Bema, northwest recess, lunette, inscription detail </desc></graphic>
+        <graphic url="044-096-05.JPG"><desc>Bema, northwest recess, lunette, inscription detail </desc></graphic>
+        <graphic url="044-096-06.JPG"><desc>Bema, northwest recess, lunette, inscription detail </desc></graphic>
+        <graphic url="044-096-07.JPG"><desc>Bema, northwest recess, lunette, general view</desc></graphic>
+        <graphic url="044-096-08.JPG"><desc>Bema, northwest recess, lunette, general view</desc></graphic>
+        </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
@@ -73,16 +88,16 @@
                 </ab>
             </div>
             <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
+                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>translation(s)</p>
+                <p>PENDING</p>
             </div>
             <div type="commentary">
-                <p>commentary</p>
+                <p>PENDING</p>
             </div>
             <div type="bibliography">
-                <p>bibliography of previous editions, discussion, etc.</p>
+                <p>PENDING</p>
             </div>
         </body>
     </text>
