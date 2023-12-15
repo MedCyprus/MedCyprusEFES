@@ -5,14 +5,15 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Prelate, unidentified</title>
+                <title>Saint Lazaros</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.044.039</idno>
+                <idno type="filename">MedCY.044.040</idno>
                 <availability>
                   <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
                 </availability>
@@ -28,7 +29,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, east vault, north side, lower register, on the west</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, east vault, north side, lower register, on the east</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -41,7 +42,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#PrelateUnidentified_MedCY044.039">Prelate, unidentified</rs></p>
+                            <p>... <rs type="iconography" ref="iconography.xml#Lazaros">Lazaros</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,8 +68,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-039-01.JPG"><desc>Bema, east vault, north side, lower register, on the west, inscription</desc></graphic>
-        <graphic url="044-039-02.JPG"><desc>Bema, east vault, north side, lower register, on the west, general view</desc></graphic>
+         <graphic rend="primary" url="044-040-01.JPG"><desc>Bema, east vault, north side, lower register, on the east, inscription</desc></graphic>
+        <graphic url="044-040-02.JPG"><desc>Bema, east vault, north side, lower register, on the east, inscription</desc></graphic>
+        <graphic url="044-040-03.JPG"><desc>Bema, east vault, north side, lower register, on the east, inscription</desc></graphic>
         </facsimile>
     <text>
         <body>
