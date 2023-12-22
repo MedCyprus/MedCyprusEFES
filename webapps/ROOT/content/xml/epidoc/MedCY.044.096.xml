@@ -34,11 +34,11 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>PENDING</layout>
+                                <layout>Between the figures of the Forty Martyrs of Sebaste and the crowns distributed by Christ.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING<height>, 4 cm</height>
+                            <handNote>White letters against blue background. The inscription is made up of two lines and is written in majuscule with sporadic use of miniscule omicron. The words TOY, TO and OY in ligatures, with the tau emerging from the upsilon and omicron respectively, and upsilon in ligature OY from omicron. Short, horizontal lines in the middle of the vertical line of tau and at the bottom of the upsilon. The word μαρτύρων is rendered by the abbreviation ΜΡ with the superposition of the letter rho. Almost systematic use of accents and breathings. Τhe double dots after the words ἐνθάδε, μαρτύρων and βία denote the end of the verses, while the middle point after the word βλέπουσιν the caesura. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                     <decoDesc>
@@ -83,7 +83,7 @@
                 <ab>
                     <lg>
                <l><lb n="1"/><g ref="#cross">+</g> Χιμῶν <gap reason="illegible" unit="character" atLeast="4"/>πόν σάρξ <hi rend="ligature">το</hi> πάσχον ενθάδε:</l><l><gap reason="lost" unit="character" atLeast="4"/>σχόν ακ<hi rend="ligature">ου</hi>σὶς <expan><abbr>κ</abbr><ex>αὶ</ex></expan> στεναγμω<gap reason="illegible" unit="character" quantity="2"/> <expan><abbr>μ</abbr><ex>α</ex><abbr>ρ</abbr><ex>τύρων</ex></expan>:</l>
- <l><lb n="2"/> <gap reason="illegible" unit="character" atLeast="3"/> oυκ ακο<supplied reason="lost">υσ</supplied>ης καρτερούσι τη βία: </l><l>προς τα στέφι βλέπουσιν· <hi rend="ligature">οὐ</hi> πρὸς <hi rend="ligature">τοὺ</hi>ς πόν<hi rend="ligature">ου</hi>ς <supplied reason="lost"><g ref="#cross">+</g></supplied></l>
+ <l><lb n="2"/> <gap reason="illegible" unit="character" atLeast="3"/> oυκ ακο<supplied reason="lost">υσ</supplied>ης καρτερούσι τη βία: </l><l>προς τα στέφι βλέπουσιν· <hi rend="ligature">οὐ</hi> πρὸς <hi rend="ligature">τοὺ</hi>ς πόν<hi rend="ligature">ου</hi>ς<g ref="#cross">+</g></l>
                </lg> 
                 </ab>
             </div>
@@ -91,13 +91,17 @@
                 <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Winter (brings) the pain, flesh the suffering here. If you pay attention, you will ever here the groans of the forty martyrs; But if you do not listen, they will (still) endure the violence (of the cold), Looking to the crowns, not to the toils ( <ptr target="#Ševčenko 2012"/>, 72)</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition. A significant destruction a large destruction in the middle of the first line and other fades spots in the beginning of the first and second line. A cross with arrays in the angles marks the beginning and the end of the text. The words χιμῶν (instead of χειμὼν), προσχόν (instead of προσχὠν), ακούσις (instead of ἀκούσεις), as well στέφι (instead of στέφη) are misspelled. The text constitutes a version of a poem composed in the early tenth century by John Geometres, which enjoyed great popularity in Byzantium and has survived in several manuscripts. Three deviations from the poem of Geometres: in verse 2 σαράντα μαρτύρων (Geometres: μαρτύρων), in verse 3 τῇ βίᾳ (Geometres: τὴν βίαν) and in verse 4 βλέπουσιν (Geometres: βλέποντες). Although composed for another occasion, the epigram is well suited to the iconography of the scene at Asinou. It has never been selected to be inscribed on any other image of the Martyrdom of the Forty Martyrs of Sebaste known to date (Rhoby 2009, 350-2; Ševčenko 2012, 70-2).</p>
             </div>
             <div type="bibliography">
-                <p>PENDING</p>
+                   <listBibl>
+                  <bibl><ptr target="#Rhoby2009"/>,<citedRange> 350-52</citedRange></bibl>
+                  <bibl><ptr target="#Ševčenko 2012"/>,<citedRange> 70-2</citedRange></bibl>
+             </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>                     
             </div>
         </body>
     </text>
