@@ -445,6 +445,11 @@
                 </list></item>
                 <item><list type="Martyrs">
                     <head>Martyrs</head>
+                    
+                    <item xml:id="Adrianos"> 
+                        <term xml:lang="en">Adrianos</term>
+                    </item>
+                    
                     <item xml:id="Anastasia_poison"> 
                         <term xml:lang="en">Anastasia the Poison-curer (Pharmakolytria) </term>
                     </item>
