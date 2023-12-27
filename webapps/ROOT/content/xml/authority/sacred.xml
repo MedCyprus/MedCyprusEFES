@@ -20,6 +20,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9181</idno>                   
                 </person>
                 
+                <!--<person xml:id="Adrianos">
+                    <persName xml:lang="grc">Ἀδριανός</persName>
+                    <persName xml:lang="en">Adrianos</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q14634630</idno>                   
+                </person>-->
+                
                 <person xml:id="AnastasiaPharmakolytria">
                     <persName xml:lang="grc">Ἀναστασία</persName>
                     <persName xml:lang="en">Anastasia</persName>
