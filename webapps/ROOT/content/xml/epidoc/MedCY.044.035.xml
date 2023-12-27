@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint John the Merciful</title>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. Characters size's varies. Small thin lines in the circular parts of the omega. Mu with its middle bar forming a tau. The word ἅγιος is abbreviated inside an omicron which indicates the article. Double dots after Ἐλεήμων. Βig, horizontal line above the abbreviation Ἰωάννης. Accents and breathings almost systematic. Letter height: <height unit="cm">3-4,5</height>  
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,21 +76,26 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
+                    <cb n="a"/> 
+                    <lb n="1"/>Ὁ<persName type="sacred" key="JohnMerciful"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>ά</orig><reg>ἅ</reg></choice> </abbr><ex>γιος</ex></expan></w>
+                    <lb n="2"/><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name></persName>
+                    <lb n="3" break="no"/><addName type="epithet" key="Merciful"><choice><orig>Ο</orig><reg>Ὁ</reg></choice></addName>
+                     <lb n="4" break="no"/>ήμω 
+                    <lb n="5" break="no"/>ν:
                 </ab> 
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Saint John the Merciful</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good Condition. The abbreviation ὁ ἅ(γιος) is very frequent in Asinou.</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
