@@ -75,11 +75,10 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>
-                    <cb n="a"/> 
-                    <lb n="1"/>Ὁ<persName type="sacred" key="JohnMerciful"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>ά</orig><reg>ἅ</reg></choice> </abbr><ex>γιος</ex></expan></w>
+                <ab>                   
+                    <lb n="1"/>Ὁ <persName type="sacred" key="JohnMerciful"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
                     <lb n="2"/><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name></persName>
-                    <lb n="3" break="no"/><addName type="epithet" key="Merciful"><choice><orig>Ο</orig><reg>Ὁ</reg></choice></addName>
+                    <lb n="3"/><addName type="epithet" key="Merciful"><choice><orig>Ο</orig><reg>Ὁ</reg></choice> Ἐλε</addName>
                      <lb n="4" break="no"/>ήμω 
                     <lb n="5" break="no"/>ν:
                 </ab> 
