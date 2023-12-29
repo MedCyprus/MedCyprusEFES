@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Romanos</title>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. The word ἅγιος is abbreviated inside an omicron which indicates the article. Characters' size varies. Omega with crosslet. Mu with a cross in its middle bar. Final sigma is formed by a horizontal wavy line. Accents and breathings almost systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,21 +76,34 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
-                </ab> 
+                    <cb n="a"/> 
+                    <!--<lb n="1"/>Ὁ <persName type="sacred" key="RomanostheMelode"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                    <lb n="2"/><name nymRef="#Ρωμανός">Ρω
+                    <lb n="3"/>μα
+                    <lb n="4"/>ν
+                    <lb n="5"/><choice><orig>o</orig><reg>ό</reg></choice>
+                     <lb n="6"/>ς</name></persName>
+                     <cb n="b"/> 
+                     <lb n="1"/><addName type="epithet" key="Melode">Ὁ
+                     <lb n="2"/> M
+                     <lb n="3"/> ε
+                     <lb n="4"/><supplied reason="lost">λ</supplied>
+                     <lb n="5"/><supplied reason="lost">ω</supplied>
+                     <lb n="6"/><supplied reason="lost">δ</supplied>
+                     <lb n="7"/><supplied reason="lost">ὸς</supplied></addName> -->
+                     </ab> 
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Saint Romanos the Me[lode]</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
