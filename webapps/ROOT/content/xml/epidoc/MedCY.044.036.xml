@@ -76,8 +76,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <cb n="a"/> 
-                    <!--<lb n="1"/>Ὁ <persName type="sacred" key="RomanostheMelode"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                    <lb n="2"/><name nymRef="#Ρωμανός">Ρω
+                   Pending <!--<cb n="a"/> 
+                    <lb n="1"/>Ὁ <persName type="sacred" key="RomanostheMelode"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                    <lb n="2"/><name nymRef="#Ρωμανός">Ρω
                     <lb n="3"/>μα
                     <lb n="4"/>ν
                     <lb n="5"/><choice><orig>o</orig><reg>ό</reg></choice>
