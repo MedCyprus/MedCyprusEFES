@@ -6,9 +6,10 @@
         <fileDesc>
             <titleStmt>
                 <title>Birth of the Virgin, Joachim</title>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
-                <editor xml:id="mgp"> Maria G. Parani</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
@@ -33,7 +34,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Above the bath of the Virgin</layout>
+                                <layout>On the right of the Joachim’s head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -75,21 +76,24 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
+                   <lb n="1"/>Ὁ<persName type="sacred" key="Joachim"><w lemma="ἅγιος"><expan><abbr rend="supraline"> ἅ</abbr><ex>γιος</ex></expan></w>
+                    <lb n="2"/><name nymRef="#Ἰωακεὶμ"> <choice><orig>Ἱ</orig><reg>Ἰ</reg></choice>ω<choice><orig></orig><reg>α</reg></choice>
+                    <lb n="3" break="no"/>κ<choice><orig>η</orig><reg>εὶ</reg></choice>
+                    <lb n="4" break="no"/>μ</name></persName>
                 </ab> 
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Saint Joachim</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition. At the beginning of the name, the letter alpha is missing after iota and there is a spelling error in the final syllable with eta instead of epsilon iota (Ἱωκημ instead of Ἰωακεὶμ).</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
