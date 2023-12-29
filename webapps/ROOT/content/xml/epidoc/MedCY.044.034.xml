@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Tychikos</title>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. OC in the word ἅγιος in ligature, with C formed with a long wavy line. C in word Τυχικὸς formed with an inverted lunate C and a small line at the bottom. Accents and breathings almost systematic. Letters' size varies.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,21 +77,31 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
+                   <cb n="a"/>
+                    <lb n="1"/><unclear>Ὁ</unclear><persName type="sacred" key="Tychikos"><w lemma="ἅγιος">
+                    <lb n="2"/><choice><orig>ά</orig><reg>ἅ</reg></choice>
+                    <lb n="3" break="no" />γι
+                    <lb n="4" break="no"/><hi rend="ligature">ος</hi></w>
+                    <cb n="b"/>
+                  <lb n="1"/><name nymRef="#Τυχικός">Τ
+                  <lb n="2" break="no"/>υ
+                  <lb n="3" break="no"/>χι
+                  <lb n="4" break="no"/>κο
+                  <lb n="4" break="no"/>ς</name></persName>  
                 </ab> 
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Saint Tychikos</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
