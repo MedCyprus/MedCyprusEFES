@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Prelate, unidentified</title>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters.The word ἅγιος is abbreviated inside an omicron which indicates the article. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -74,21 +75,21 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>a</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
                 </ab> 
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Saint [--?--]</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Poorly preserved. The saint's name has not survived.</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
