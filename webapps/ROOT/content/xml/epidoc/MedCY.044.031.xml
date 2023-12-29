@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Nikon</title>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. The word ἅγιος is abbreviated inside an omicron which indicates the article. Omega with crosslet and small thin round and horizontal lines in the circular parts. The accent in word Νίκων is missing.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,21 +76,26 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
+                     <cb n="a"/>
+                    <lb n="1"/><persName type="sacred" key="Nikon"><w lemma="ἅγιος"></w><supplied reason="lost">Ὁ ἅγιος</supplied>
+                    <cb n="b"/>
+                  <lb n="1"/><name nymRef="#Νίκων">Ν<choice><orig>ι</orig><reg>ί</reg></choice>κ
+                  <lb n="2" break="no"/>ο
+                  <lb n="3" break="no"/>ν</name></persName>     
                 </ab> 
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>[Saint] Nikon</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Poorly preserved</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
