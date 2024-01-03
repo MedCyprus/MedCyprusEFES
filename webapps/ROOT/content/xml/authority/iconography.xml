@@ -429,6 +429,10 @@
                 <item><list type="Military_Saints">
                     <head>Military Saints</head>
                     
+                    <item xml:id="Bacchos"> 
+                        <term xml:lang="en">Bacchos</term>
+                    </item>
+                    
                     <item xml:id="Christopher"> 
                         <term xml:lang="en">Christopher</term>
                     </item>
