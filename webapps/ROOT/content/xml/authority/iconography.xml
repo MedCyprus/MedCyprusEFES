@@ -392,8 +392,15 @@
                 <item><list type="Monastics">
                     <head>Monastics and Ascetics</head>
                     
+                    <item xml:id="Arsenios">
+                        <term xml:lang="en">Arsenios</term>
+                    </item>
                     <item xml:id="Athanasia">
                         <term xml:lang="en">Athanasia</term></item>
+                    
+                    <item xml:id="Ephraem">
+                        <term xml:lang="en">Ephraem</term>
+                    </item>
                     
                     <item xml:id="JohnOfDamascus">
                         <term xml:lang="en">John of Damascus</term></item>
