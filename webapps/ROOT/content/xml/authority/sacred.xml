@@ -74,6 +74,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q18222658</idno>                   
                 </person>
                 
+                <person xml:id="Bacchos">
+                    <persName xml:lang="grc">Βάκχος</persName>
+                    <persName xml:lang="en">Bacchos</persName>               
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q140013</idno>                   
+                </person>
+                
                 <person xml:id="Barbara">
                     <persName xml:lang="grc"> Βαρβάρα</persName>
                     <persName xml:lang="en">Barbara</persName>        
