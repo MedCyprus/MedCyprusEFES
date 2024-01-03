@@ -473,6 +473,14 @@
                     <persName xml:lang="en">Theodore</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2363350</idno>                   
                 </person>
+                
+                <person xml:id="Theodosios">
+                    <persName xml:lang="grc">Θεοδόσιος</persName>
+                    <persName xml:lang="en">Theodosios</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theodosios" key="Cenobiarch">ὁ Κοινοβιάρχης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Theodosios" key="Cenobiarch">Cenobiarch</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1885832</idno>                   
+                </person>
                  
                 <person xml:id="Theotokos">
                     <persName xml:lang="grc">Θεοτόκος</persName>
