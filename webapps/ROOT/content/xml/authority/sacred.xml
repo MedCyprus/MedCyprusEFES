@@ -42,6 +42,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2619342</idno>                   
                 </person>
                 
+                <person xml:id="Arsenios">
+                    <persName xml:lang="grc">Ἀρσένιος</persName>
+                    <persName xml:lang="en">Arsenios</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q530065</idno>                   
+                </person>
+                
                 <person xml:id="Athanasia">
                     <persName xml:lang="grc">Ἀθανασία</persName>
                     <persName xml:lang="en">Athanasia</persName>
@@ -146,6 +152,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q869974</idno>
                     <note>See also: Theotokos, Virgin, Maria</note>
                 </person>-->
+                
+                <person xml:id="EphraemSyrian">
+                    <persName xml:lang="grc">Ἐφραίμ</persName>
+                    <persName xml:lang="en">Ephraem</persName>     
+                    <persName xml:lang="grc" type="epithet" subtype="EphraemSyrian">ὁ Σύρος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="EphraemSyrian">Syrian</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q200608</idno>                   
+                </person>
                 
                 <person xml:id="Epiphanios">
                     <persName xml:lang="grc">Ἐπιφάνιος</persName>
