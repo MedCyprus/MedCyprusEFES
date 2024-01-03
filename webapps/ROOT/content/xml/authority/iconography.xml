@@ -404,6 +404,9 @@
                     <item xml:id="MaryOfEgypt"> 
                         <term xml:lang="en">Mary of Egypt</term>
                     </item>
+                    <item xml:id="Theodosios">
+                        <term xml:lang="en">Theodosios the Cenobiarch</term>
+                    </item>
                     <item xml:id="Zosimas">
                         <term xml:lang="en">Zosimas</term></item>
                     <!-- ... -->
