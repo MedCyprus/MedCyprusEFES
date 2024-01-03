@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. OC in Ἀδελφόθεος in ligature with a vertical, wavy final sigma. Accents and breathings systematic. Letter height: <height unit="cm">3,5-4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,7 +75,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
+                    <!--<cb n="a"/>
+                  <lb n="1"/>Ὁ <persName type="sacred" key="JamestheLord'sbrother"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                  <lb n="2"/><name nymRef="#Ἰάκωβος ὁ Ἀδελφόθεος">Ἰά
+                    <lb n="3"/> κω   
+                     <lb n="4"/> βος</name>  
+                      <cb n="b"/>
+                    <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice><addName type="epithet" key="Lord'sbrother">
+                    <lb n="2"/>δελ
+                  <lb n="3"/> φοθε
+                  <lb n="4"/><hi rend="ligature">ος</hi></addName></persName> -->
                 </ab> 
             </div>
             <div type="apparatus">
@@ -85,11 +94,11 @@
                 <p>Saint James the Lord's brother</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
