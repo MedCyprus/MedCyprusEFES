@@ -448,12 +448,16 @@
                     <item xml:id="constantineormideia">
                         <term xml:lang="en">Constantine of Ormideia (?)</term>
                     </item>
+                    <item xml:id="Sergios"> 
+                        <term xml:lang="en">Sergios</term>
+                    </item>
                     <item xml:id="TheodoreStratelates"> 
                         <term xml:lang="en">Theodore Stratelates</term>
                     </item>
                     <!-- ... -->
                 </list></item>
                 <item><list type="doctors">
+                    
                     <head>Doctor saints (Anargyroi)</head>
                     <item xml:id="Cosmas"> 
                         <term xml:lang="en">Cosmas</term>
