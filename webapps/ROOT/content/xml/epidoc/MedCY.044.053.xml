@@ -28,7 +28,7 @@
                                 <support>
                                 <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, central bay, south wall</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, central bay, south wall, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
                             </supportDesc>
@@ -67,8 +67,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-053-01.JPG"><desc>Naos, central bay, south wall, inscription</desc></graphic>
-        <graphic url="044-053-02.JPG"><desc>Naos, central bay, south wall, general view </desc></graphic>
+         <graphic rend="primary" url="044-053-01.JPG"><desc>Naos, central bay, south wall, lunette, inscription</desc></graphic>
+        <graphic url="044-053-02.JPG"><desc>Naos, central bay, south wall, lunette, general view </desc></graphic>
     </facsimile>
     <text>
         <body>
