@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Gregory the Theologian / Nazianzenos</title>
+                <title>Saint Gregory of Nyssa</title>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#GregoryNazianzenos">Gregory Nazianzenos</rs></p>
+                            <p>... <rs type="iconography" ref="iconography.xml#GregoryOfNyssa">Gregory of Nyssa</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -76,21 +76,32 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
+                   <cb n="a"/>
+                  <lb n="1"/>Ὁ <persName type="sacred" key="Gregory of Nyssa"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                  <lb n="2"/><name nymRef="#Γρηγόριος ὁ Νύσσης">Γρη
+                    <lb n="3" break="no"/> γό
+                     <lb n="4" break="no"/> ρι
+                      <lb n="5" break="no"/><hi rend="ligature">ος</hi></name>  
+                      <cb n="b"/>
+                    <lb n="1"/><addName type="epithet" key="of Nyssa"><choice><orig>O</orig><reg>Ὁ</reg></choice>
+                    <lb n="2"/>N<choice><orig>οι</orig><reg>ύ</reg></choice>
+                  <lb n="3"/><choice><orig>σ</orig><reg>σσ</reg></choice>
+                  <lb n="4"/><choice><orig>ι</orig><reg>η</reg></choice>
+                  <lb n="5"/><supplied reason="lost">ς</supplied> </addName></persName> 
                 </ab> 
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Saint Gregory Nazianzenos</p>
+                <p>Saint Gregory of Nyssa</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
