@@ -40,6 +40,9 @@
                 <item xml:id="Nativity"> 
                     <term xml:lang="en">Nativity</term>
                 </item>
+                <item xml:id="Pentecost">
+                    <term xml:lang="en">Pentecost</term>
+                </item>
                 <!-- ... -->
             </list>
             
