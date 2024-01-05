@@ -398,8 +398,8 @@
                     <item xml:id="Athanasia">
                         <term xml:lang="en">Athanasia</term></item>
                     
-                    <item xml:id="Ephraem">
-                        <term xml:lang="en">Ephraem</term>
+                    <item xml:id="Ephraim">
+                        <term xml:lang="en">Ephraim</term>
                     </item>
                     
                     <item xml:id="JohnOfDamascus">
@@ -429,7 +429,7 @@
                 <item><list type="Military_Saints">
                     <head>Military Saints</head>
                     
-                    <item xml:id="Bacchos"> 
+                    <item xml:id="Bakchos"> 
                         <term xml:lang="en">Bacchos</term>
                     </item>
                     
@@ -486,6 +486,10 @@
                         <term xml:lang="en">Hermolaos</term>
                     </item>
                     
+                    <item xml:id="Lauros">
+                        <term xml:lang="en">Lauros</term>
+                    </item>
+                    
                     <item xml:id="mamas"> 
                         <term xml:lang="en">Mamas</term>
                     </item>
@@ -500,6 +504,10 @@
                     
                     <item xml:id="nikon"> 
                         <term xml:lang="en">Nikon</term>
+                    </item>
+                    
+                    <item xml:id="Phloros">
+                        <term xml:lang="en">Phloros</term>
                     </item>
                     <!-- ... -->
                 </list></item>
