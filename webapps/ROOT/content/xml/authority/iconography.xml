@@ -43,6 +43,12 @@
                 <item xml:id="Pentecost">
                     <term xml:lang="en">Pentecost</term>
                 </item>
+                <item xml:id="WashingOfTheFeet">
+                    <term xml:lang="en">Washing of the feet</term>
+                </item>
+                <item xml:id="WashingOfTheFeetChrist">
+                    <term xml:lang="en">Washing of the feet, Christ</term>
+                </item>
                 <!-- ... -->
             </list>
             
