@@ -74,9 +74,9 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q18222658</idno>                   
                 </person>
                 
-                <person xml:id="Bacchos">
+                <person xml:id="Bakchos">
                     <persName xml:lang="grc">Βάκχος</persName>
-                    <persName xml:lang="en">Bacchos</persName>               
+                    <persName xml:lang="en">Bakchos</persName>               
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q140013</idno>                   
                 </person>
                 
@@ -159,11 +159,11 @@
                     <note>See also: Theotokos, Virgin, Maria</note>
                 </person>-->
                 
-                <person xml:id="EphraemSyrian">
+                <person xml:id="EphraimSyrian">
                     <persName xml:lang="grc">Ἐφραίμ</persName>
-                    <persName xml:lang="en">Ephraem</persName>     
-                    <persName xml:lang="grc" type="epithet" subtype="EphraemSyrian">ὁ Σύρος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="EphraemSyrian">Syrian</persName>
+                    <persName xml:lang="en">Ephraim</persName>     
+                    <persName xml:lang="grc" type="epithet" subtype="EphraimSyrian">ὁ Σύρος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="EphraimSyrian">Syrian</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q200608</idno>                   
                 </person>
                 
@@ -342,6 +342,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q539890</idno>                   
                 </person>
                 
+                <person xml:id="Lauros">
+                    <persName xml:lang="grc">Λαύρος</persName>
+                    <persName xml:lang="en">Lauros</persName> 
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2333926</idno>                   
+                </person>
+                
                 <person xml:id="Mamas">
                     <persName xml:lang="grc">Μάμας</persName>
                     <persName xml:lang="en">Mamas</persName> 
@@ -453,6 +459,12 @@
                     <persName xml:lang="grc">Πέτρος</persName>
                     <persName xml:lang="en">Peter</persName> 
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q33923</idno>                   
+                </person>
+                
+                <person xml:id="Phloros">
+                    <persName xml:lang="grc">Φλώρος</persName>
+                    <persName xml:lang="en">Phloros</persName> 
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2333926</idno>                   
                 </person>
                 
                      <person xml:id="Romanos">
