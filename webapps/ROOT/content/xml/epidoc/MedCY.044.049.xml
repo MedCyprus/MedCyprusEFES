@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                      <handNote>White letters against blue background. Majuscule letters.The word ἅγιος is abbreviated inside an omicron which indicates the article.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,21 +76,22 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
-                </ab> 
+                   <lb n="1"/><choice><orig>Ο</orig><reg>Ὁ</reg></choice><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>a</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
+                   <lb n="2"/> <name nymRef="#Ἀδιάγνωστος"/> <gap reason="illegible" quantity="1" unit="character"/>E
+                    </ab> 
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Saint [--?--]</p>
+                <p>Saint [--?--]E[--?--]</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p> Poor condition. Of the saint's name, only the letter E is legible. The deacon resemles St. Vincent from the parreklesion of Holy Trinity at the monasterly of St. John Chrysostom Koutsoventis (ca. 1100) (Mango – Hawkins – Boyd 1990, 80; Parani 2018, 24). </p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
