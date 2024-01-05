@@ -74,17 +74,17 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>PENDING
-                    <!--<cb n="a"/>
-                  <lb n="1"/>Ὁ <persName type="sacred" key="JamestheLord'sbrother"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                <ab>
+                  <cb n="a"/>
+                  <lb n="1"/>Ὁ <persName type="sacred" key="James the Lord's Brother"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
                   <lb n="2"/><name nymRef="#Ἰάκωβος ὁ Ἀδελφόθεος">Ἰά
-                    <lb n="3"/> κω   
-                     <lb n="4"/> βος</name>  
+                    <lb n="3"  break="no"/> κω   
+                     <lb n="4" break="no"/> βος</name>  
                       <cb n="b"/>
-                    <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice><addName type="epithet" key="Lord'sbrother">
-                    <lb n="2"/>δελ
-                  <lb n="3"/> φοθε
-                  <lb n="4"/><hi rend="ligature">ος</hi></addName></persName> -->
+                    <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice><addName type="epithet" key="the Lord's Brother"><supplied reason="lost">Ἀ</supplied>
+                    <lb n="2" break='no'/>δελ
+                  <lb n="3" break='no'/> φόθε
+                  <lb n="4" break="no"/><hi rend="ligature">ος</hi></addName></persName> 
                 </ab> 
             </div>
             <div type="apparatus">
