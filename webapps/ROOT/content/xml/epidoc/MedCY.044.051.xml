@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. The word ἅγιος is abbreviated inside an omicron which indicates the article. A round, small omicron almost attached to the final sigma, formed by a horizontal wavy line. Accents and breathings almost systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,21 +75,25 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
-                </ab> 
+                  <lb n="1"/>Ὁ<w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                
+                  <lb n="2" break="no"/><name nymRef="#Ἀδιάγνωστος"/>Ρ
+                  <lb n="3" break="no"/><gap reason="lost" extent="1" unit="character"/>αν
+                  <lb n="4" break="no"/>δρ
+                  <lb n="4" break="no"/>ος
+                </ab>  
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Saint [Ρ-andros] </p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Partially preserved</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
