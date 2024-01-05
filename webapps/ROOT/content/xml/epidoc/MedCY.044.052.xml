@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote><!-- White letters against blue background. Majuscule letters.The word ἅγιος is abbreviated inside an omicron which indicates the article. Tau and chi with serifs. Omega with crosslet and semicircular dots stuck on the circular walls. Accents and breathings systematic. -->
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,21 +75,25 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
+                    <lb n="1"/>Ὁ <persName type="sacred" key="Tychon"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                    <lb n="2"/><name nymRef="#Τύχων">Τύ
+                    <lb n="3"  break="no"/> χ
+                     <lb n="4" break="no"/> ω
+                     <lb n="5" break="no"/>ν</name></persName>  
                 </ab> 
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Saint Tychon</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
