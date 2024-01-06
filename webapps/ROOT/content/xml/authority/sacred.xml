@@ -255,8 +255,8 @@
                 <person xml:id="JamesLordBrother">
                     <persName xml:lang="grc">Ἰάκωβος</persName>
                     <persName xml:lang="en">James the Lord's Brother</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="JamesLordBrother" key="the Lord's Brother">ὁ Ἀδελφόθεος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="JamesLordBrother" key="the Lord's Brother">the Lord's Brother</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JamesLordBrother" key="Lord's Brother">ὁ Ἀδελφόθεος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JamesLordBrother" key="Lord's Brother">the Lord's Brother</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q26925</idno>                   
                 </person>
                 
