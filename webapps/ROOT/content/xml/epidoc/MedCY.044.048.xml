@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. The word ἅγιος is abbreviated inside an omicron which indicates the article. OC in Γρηγόριος in ligature with a vertical, wavy final sigma. Accents and breathings almost systematic. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -77,8 +77,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                    <cb n="a"/>
-                  <lb n="1"/>Ὁ <persName type="sacred" key="Gregory of Nyssa"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
-                  <lb n="2"/><name nymRef="#Γρηγόριος ὁ Νύσσης">Γρη
+                  <lb n="1"/>Ὁ <persName type="sacred" key="GregoryOfNyssa"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                  <lb n="2"/><name nymRef="#Γρηγόριος">Γρη
                     <lb n="3" break="no"/> γό
                      <lb n="4" break="no"/> ρι
                       <lb n="5" break="no"/><hi rend="ligature">ος</hi></name>  
