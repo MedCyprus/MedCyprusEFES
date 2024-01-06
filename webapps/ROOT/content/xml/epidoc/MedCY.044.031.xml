@@ -77,7 +77,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                      <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="Nikon"><w lemma="ἅγιος"></w><supplied reason="lost">Ὁ ἅγιος</supplied>
+                    <lb n="1"/><persName type="sacred" key="Nikon"><supplied reason="lost">Ὁ <w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w></supplied>
                     <cb n="b"/>
                   <lb n="1"/><name nymRef="#Νίκων">Ν<choice><orig>ι</orig><reg>ί</reg></choice>κ
                   <lb n="2" break="no"/>ο
@@ -91,7 +91,7 @@
                 <p>[Saint] Nikon</p>
             </div>
             <div type="commentary">
-                <p>Poorly preserved</p>
+                <p>Poorly preserved. We reconstructed the word ἅγιος based on previous examples of the monument.</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
