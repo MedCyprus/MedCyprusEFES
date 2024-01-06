@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. The word ἅγιος is abbreviated inside an omicron which indicates the article. Small thin lines in the circular parts of the omega. Accents and breathings almost systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -77,9 +77,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                    <lb n="1"/>Ὁ<persName type="sacred" key="Joachim"><w lemma="ἅγιος"><expan><abbr rend="supraline"> ἅ</abbr><ex>γιος</ex></expan></w>
-                    <lb n="2"/><name nymRef="#Ἰωακεὶμ"> <choice><orig>Ἱ</orig><reg>Ἰ</reg></choice>ω<choice><orig></orig><reg>α</reg></choice>
-                    <lb n="3" break="no"/>κ<choice><orig>η</orig><reg>εὶ</reg></choice>
-                    <lb n="4" break="no"/>μ</name></persName>
+                    <lb n="2"/><name nymRef="#Ἰωακείμ"> <choice><orig>Ἱ</orig><reg>Ἰ</reg></choice><choice><orig>ὠ</orig><reg>ω</reg></choice><choice><orig></orig><reg>α</reg></choice>
+                    <lb n="3" break="no"/>κ<choice><orig>η</orig><reg>εί</reg></choice>
+                    <lb n="4" break="no"/>μ<am>&#x00A0;΄&#x00A0;</am></name></persName>
                 </ab> 
             </div>
             <div type="apparatus">
@@ -89,7 +89,7 @@
                 <p>Saint Joachim</p>
             </div>
             <div type="commentary">
-                <p>Good condition. At the beginning of the name, the letter alpha is missing after iota and there is a spelling error in the final syllable with eta instead of epsilon iota (Ἱωκημ instead of Ἰωακεὶμ).</p>
+                <p>Good condition. At the beginning of the name, the letter alpha is missing after iota and there is a spelling error in the final syllable with eta instead of epsilon iota (Ἱὠκημ instead of Ἰωακείμ). Accent after mu.</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
