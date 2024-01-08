@@ -76,20 +76,20 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   Pending <!--<cb n="a"/> 
-                    <lb n="1"/>Ὁ <persName type="sacred" key="RomanostheMelode"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                    <lb n="2"/><name nymRef="#Ρωμανός">Ρω
-                    <lb n="3"/>μα
-                    <lb n="4"/>ν
-                    <lb n="5"/><choice><orig>o</orig><reg>ό</reg></choice>
-                     <lb n="6"/>ς</name></persName>
+                   <cb n="a"/> 
+                    <lb n="1"/>Ὁ <persName type="sacred" key="RomanosMelode"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                    <lb n="2"/><name nymRef="#Ρωμανός">Ρω
+                    <lb n="3" break="no"/>μα
+                    <lb n="4" break="no"/>ν
+                    <lb n="5" break="no"/><choice><orig>o</orig><reg>ό</reg></choice>
+                     <lb n="6" break="no"/>ς</name>
                      <cb n="b"/> 
                      <lb n="1"/><addName type="epithet" key="Melode">Ὁ
-                     <lb n="2"/> M
-                     <lb n="3"/> ε
-                     <lb n="4"/><supplied reason="lost">λ</supplied>
-                     <lb n="5"/><supplied reason="lost">ω</supplied>
-                     <lb n="6"/><supplied reason="lost">δ</supplied>
-                     <lb n="7"/><supplied reason="lost">ὸς</supplied></addName> -->
+                     <lb n="2"/>M
+                     <lb n="3" break="no"/> ε
+                     <lb n="4" break="no"/><supplied reason="lost">λ</supplied>
+                     <lb n="5" break="no"/><supplied reason="lost">ω</supplied>
+                     <lb n="6" break="no"/><supplied reason="lost">δ</supplied>
+                     <lb n="7" break="no"/><supplied reason="lost">ός</supplied></addName></persName>
                      </ab> 
             </div>
             <div type="apparatus">
