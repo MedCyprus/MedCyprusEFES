@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. The word ἅγιος is abbreviated inside an omicron which indicates the article. A round, small omicron almost attached to the final sigma, formed by a horizontal wavy line. Accents and breathings almost systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. A round, small omicron almost attached to the final sigma, formed by a horizontal wavy line.The word ἅγιος is abbreviated inside an omicron which indicates the article. Accents and breathings almost systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,18 +75,18 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                  <lb n="1"/>Ὁ<w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                
-                  <lb n="2" break="no"/><name nymRef="#Ἀδιάγνωστος"/>Ρ
-                  <lb n="3" break="no"/><gap reason="lost" extent="1" unit="character"/>αν
+                  <lb n="1"/>Ὁ <w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                
+                  <lb n="2" break="no"/><name nymRef="#Ἀδιάγνωστος">Ρ
+                  <lb n="3" break="no"/><gap reason="lost" quantity="1" unit="character"/>αν
                   <lb n="4" break="no"/>δρ
-                  <lb n="4" break="no"/>ος
+                  <lb n="4" break="no"/>ος</name>
                 </ab>  
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Saint [Ρ-andros] </p>
+                <p>Saint [Ρ.andros] </p>
             </div>
             <div type="commentary">
                 <p>Partially preserved</p>
