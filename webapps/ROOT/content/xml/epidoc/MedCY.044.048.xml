@@ -84,10 +84,10 @@
                       <lb n="5" break="no"/><hi rend="ligature">ος</hi></name>  
                       <cb n="b"/>
                     <lb n="1"/><addName type="epithet" key="of Nyssa"><choice><orig>O</orig><reg>Ὁ</reg></choice>
-                    <lb n="2"/>N<choice><orig>οι</orig><reg>ύ</reg></choice>
-                  <lb n="3"/><choice><orig>σ</orig><reg>σσ</reg></choice>
-                  <lb n="4"/><choice><orig>ι</orig><reg>η</reg></choice>
-                  <lb n="5"/><supplied reason="lost">ς</supplied> </addName></persName> 
+                    <lb n="2"/>Nο<choice><orig>ι</orig><reg>ί</reg></choice>
+                  <lb n="3" break="no"/>σ
+                  <lb n="4" break="no"/>ι
+                  <lb n="5" break="no"/><supplied reason="lost">ς</supplied> </addName></persName> 
                 </ab> 
             </div>
             <div type="apparatus">
