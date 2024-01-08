@@ -77,7 +77,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                      <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="Nikon"><supplied reason="lost">Ὁ <w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w></supplied>
+                    <lb n="1"/>Ὁ <persName type="sacred" key="Nikon"><supplied reason="lost"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w></supplied>
                     <cb n="b"/>
                   <lb n="1"/><name nymRef="#Νίκων">Ν<choice><orig>ι</orig><reg>ί</reg></choice>κ
                   <lb n="2" break="no"/>ο
