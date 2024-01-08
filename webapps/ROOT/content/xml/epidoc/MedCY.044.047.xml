@@ -77,11 +77,11 @@
                 <ab>
                   <cb n="a"/>
                   <lb n="1"/>Ὁ <persName type="sacred" key="JamesLordBrother"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
-                  <lb n="2"/><name nymRef="#Ἰάκωβος">Ἰά
+                  <lb n="2"/><name nymRef="#Ἰάκωβος"><choice><orig>Ἱ</orig><reg>Ἰ</reg></choice><choice><orig>ἀ</orig><reg>ά</reg></choice>
                     <lb n="3"  break="no"/> κω   
                      <lb n="4" break="no"/> βος</name>  
                       <cb n="b"/>
-                    <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice><addName type="epithet" key="Lord's Brother"><supplied reason="lost">Ἀ</supplied>
+                    <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice> <addName type="epithet" key="Lord's Brother"><supplied reason="lost">Ἀ</supplied>
                     <lb n="2" break='no'/>δελ
                   <lb n="3" break='no'/> φόθε
                   <lb n="4" break="no"/><hi rend="ligature">ος</hi></addName></persName> 
