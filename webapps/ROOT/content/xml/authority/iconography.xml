@@ -43,6 +43,9 @@
                 <item xml:id="Pentecost">
                     <term xml:lang="en">Pentecost</term>
                 </item>
+                <item xml:id="PentecostBartholomew">
+                    <term xml:lang="en">Pentecost, Bartholomew</term>
+                </item>
                 <item xml:id="WashingOfTheFeet">
                     <term xml:lang="en">Washing of the feet</term>
                 </item>
@@ -284,11 +287,7 @@
                     <item xml:id="andrew"> 
                         <term xml:lang="en">Andrew</term>
                     </item>
-                    
-                    <item xml:id="Bartholomew">
-                        <term xml:lang="en">Bartholomew</term>
-                    </item>
-                    
+                                                  
                     <item xml:id="JohnTheologian">
                         <term xml:lang="en">John the Theologian</term>
                     </item>
