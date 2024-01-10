@@ -505,6 +505,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q36786</idno>                   
                 </person>
                 
+                <person xml:id="Thomas">
+                    <persName xml:lang="grc">Θωμᾶς</persName>
+                    <persName xml:lang="en">Thomas</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q43669</idno>                   
+                </person>
+                
                 <person xml:id="Themonianos">
                     <persName xml:lang="grc">Θεμωνιανός</persName>
                     <persName xml:lang="en">Themonianos</persName>
