@@ -29,7 +29,7 @@
                                 <support>
                                 <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, southwestern pilaster, south face, lower register</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, southwestern pilaster, north face, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
                             </supportDesc>
@@ -68,10 +68,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-059-01.JPG"><desc>Naos, southwestern pilaster, south face, lower register, inscription detail</desc></graphic>
-        <graphic url="044-059-02.JPG"><desc>Naos, southwestern pilaster, south face, lower register, inscription</desc></graphic>
-        <graphic url="044-059-03.JPG"><desc>Naos, southwestern pilaster, south face, lower register, general view </desc></graphic>
-        <graphic url="044-059-04.JPG"><desc>Naos, southwestern pilaster, south face, lower register, general view </desc></graphic>
+         <graphic rend="primary" url="044-059-01.JPG"><desc>Naos, southwestern pilaster, north face, lower register, inscription detail</desc></graphic>
+        <graphic url="044-059-02.JPG"><desc>Naos, southwestern pilaster, north face, lower register, inscription</desc></graphic>
+        <graphic url="044-059-03.JPG"><desc>Naos, southwestern pilaster, north face, lower register, general view </desc></graphic>
+        <graphic url="044-059-04.JPG"><desc>Naos, southwestern pilaster, north face, lower register, general view </desc></graphic>
             </facsimile>
     <text>
         <body>
