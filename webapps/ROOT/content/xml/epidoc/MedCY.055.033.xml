@@ -26,7 +26,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, east vault, south part, upper register</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, east vault, south part, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against grey background. Beta in majuscule. Bartholomew is abbreviated Β(αρθολομαίος) with a wavy line above the Beta.  
+                            <handNote>Black letters against grey background. Beta in majuscule. Bartholomew is abbreviated Β(αρθολομαίος) with a wavy line above the beta.  
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -65,10 +65,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="055-033-01.jpg"><desc>Naos, east vault, south part, upper register, inscription detail</desc></graphic>
-        <graphic url="055-033-02.jpg"><desc>Naos, east vault, south part, upper register, inscription</desc></graphic>
-        <graphic url="055-033-03.jpg"><desc>Naos, east vault, south part, upper register, general view</desc></graphic>
-        <graphic url="055-033-04.jpg"><desc>Naos, east vault, south part, upper register, general view</desc></graphic>
+        <graphic rend="primary" url="055-033-01.jpg"><desc>Naos, east vault, south part, lower register, inscription detail</desc></graphic>
+        <graphic url="055-033-02.jpg"><desc>Naos, east vault, south part, lower register, inscription</desc></graphic>
+        <graphic url="055-033-03.jpg"><desc>Naos, east vault, south part, lower register, general view</desc></graphic>
+        <graphic url="055-033-04.jpg"><desc>Naos, east vault, south part, lower register, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
