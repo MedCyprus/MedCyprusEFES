@@ -178,11 +178,7 @@
                 <item xml:id="ChristResurrection">
                     <term xml:lang="en">Christ Resurrection</term>
                 </item>
-                
-                <item xml:id="ConstantineTheGreat">
-                    <term xml:lang="en">Constantine the Great</term>
-                </item>
-                
+                                   
                 <item xml:id="Joachim"> 
                     <term xml:lang="en">Joachim</term>
                 </item>
@@ -530,7 +526,7 @@
                 
                 <item><list type="Imperial">
                     <head>Imperial saints</head>
-                    <item xml:id="constantine"> 
+                    <item xml:id="Constantine"> 
                         <term xml:lang="en">Constantine</term>
                     </item>
                     <item xml:id="helena"> 
