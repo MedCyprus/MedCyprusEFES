@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nikephoros Ischyrios dedicatory inscription </title>
+                <author xml:id="tp">Theocharis Petrou</author>
+                <author xml:id="dk">Dora Konstantellou</author>
+                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.044.061</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                    <rs type="placement-building" ref="#naos">Naos, southwest pilaster to southwest recess, middle register</rs>
+                                    <dimensions unit="cm"><height>4</height></dimensions>
+                               </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Beneath Saint Constantine and Saint Helena figures</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>PENDING
+                            </handNote>
+                        </handDesc>
+                    <decoDesc>
+                            <p>...</p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Asinou">Niketari, Panagia Phorbiotissa or Asinou</origPlace>
+                            <origDate precision="high">1105/6</origDate>
+                        </origin>
+                        <provenance when="2022">
+                        </provenance>
+                        <provenance type="observed" resp="#tp">31/08/2022
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc1">Donor inscription</term>
+                 </keywords>
+            </textClass>
+                    <creation></creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic rend="primary" url="044-061-01.jpg"><desc>Naos, southwest pilaster to southwest recess, middle register, general view</desc></graphic>
+        <graphic url="044-061-02.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, inscription detail</desc></graphic>
+        <graphic url="044-061-03.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, inscription detail</desc></graphic>
+        <graphic url="044-061-04.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, inscription detail</desc></graphic>
+        <graphic url="044-061-05.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, inscription detail</desc></graphic>
+        <graphic url="044-061-06.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, inscription detail</desc></graphic>
+        <graphic url="044-061-07.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, inscription detail</desc></graphic>
+        <graphic url="044-061-08.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, inscription</desc></graphic>
+        <graphic url="044-061-09.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, inscription</desc></graphic>
+        <graphic url="044-061-10.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, general view</desc></graphic>
+        <graphic url="044-061-11.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, general view</desc></graphic>
+        </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+               <ab>
+                   <lb n="1"/><milestone unit="surface" n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" unit="character" quantity="1"/><orig>Σ</orig> <expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κ<hi rend="ligature">ου</hi></abbr></expan> <supplied reason="lost">δι</supplied><milestone unit="surface" n="2" break="no"/>α συνδρομῆς <expan><abbr>κ</abbr><ex>αὶ</ex></expan> πολλ<hi rend="ligature">ου</hi> ποθ<hi rend="ligature">ου</hi> Νικ<milestone unit="surface" n="3" break="no"/>ηφόρου Μαγίστρου τ<hi rend="ligature">ου</hi> Υσχιρί<hi rend="ligature">ου</hi>· βασιλευων<supplied reason="lost">το</supplied>ς Αλεξί<hi rend="ligature">ου</hi> τ<hi rend="ligature">ου</hi> Κομνην<hi rend="ligature">ου</hi> · έ<hi rend="ligature">του</hi>ς <num value="6614"><hi rend="ligature">&#x03DB;</hi>χιδ</num>· <expan><abbr>ιν</abbr><ex>δικτιῶνος</ex></expan> <num value="14">ιδ</num>:
+               </ab>
+            </div>
+            <div type="apparatus">
+                <p>PENDING</p>
+            </div>
+            <div type="translation">
+                <p>PENDING</p>
+            </div>
+            <div type="bibliography"> 
+                 <listBibl>
+                <bibl>Unpublished</bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
