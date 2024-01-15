@@ -616,6 +616,12 @@
                     <note>See also: Mother of God, Theotokos, Maria</note>
                 </person>
                 
+                <person xml:id="Zacharias">
+                    <persName xml:lang="grc">Ζαχαρίας</persName>
+                    <persName xml:lang="en">Zacharias</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q604259</idno>                   
+                </person>
+                
                 <person xml:id="Zosimas">
                     <persName xml:lang="grc">Ζωσιμᾶς</persName>
                     <persName xml:lang="en">Zosimas</persName>
