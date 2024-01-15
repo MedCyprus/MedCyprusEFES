@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Presentation of the Virgin to the Temple verse inscription</title>
-                <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="dk"> Dora Konstantellou</editor>
+                <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -77,7 +77,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <lg met="Dodecasyllable">
-                    <l n="1"><lb n="1"/>PENDING</l>
+                         <l> <lb n="1"/> την <gap reason="lost" unit="character" quantity="3"/> αγ <gap reason="lost" unit="character" quantity="3"/><unclear>παναγι</unclear><gap reason="lost" unit="character" quantity="3"/></l><l><lb n="2"/> <gap reason="lost" unit="character" quantity="3"/> σι<unclear>ε</unclear>ιν <gap reason="lost" unit="character" quantity="3"/>ομένι <w lemma="κόρη">κόρι</w><gap reason="lost" unit="character" quantity="1"/></l><l><lb n="3"/>κ<gap reason="lost" unit="character" quantity="3"/><unclear>ε</unclear> <gap reason="lost" unit="character" quantity="1"/> <unclear>χβ</unclear> <gap reason="lost" unit="character" quantity="3"/> ετα</l><l><lb n="4"/>ὁ</l><l><lb n="5"/><persName type="sacred" key="Zacharias"><name nymRef="#Ζαχαρίας">Ζαχαρι</name></persName>
+                </l>
                 </lg> 
             </div>
             <div type="apparatus">
@@ -87,8 +88,7 @@
                 <p>PENDING</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
-            </div>
+<p> Now lost. Ševčenko fills in some words, based on phrases frequently encountered in the troparia for the feast. For line 1 she suggests: τὰ ἅγία τῶν ἁγίων, for line 2: [προσαγ]ομένη / [εἰσερχ]ομένη / [εἰσαγ]-ομένη / [κεκλει]ομένη κόρη, for lines 3-5: [εὐφραίν]εται ὁ Ζαχαρί[ας] (<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 74-5</citedRange>)</bibl>.</p></div>
             <div type="bibliography"> 
                  <listBibl>
                 <bibl><ptr target="#Ševčenko2012"/>, <citedRange> 74-5</citedRange></bibl>
