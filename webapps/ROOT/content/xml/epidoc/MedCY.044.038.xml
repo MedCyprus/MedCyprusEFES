@@ -74,7 +74,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                  <lb n="1"/><expan><abbr rend="supraline">Φ</abbr><ex>ῶς</ex></expan><milestone unit="column" n="right"/> Χ
+                  <lb n="1"/><w lemma="φῶς"><expan><abbr rend="supraline">Φ</abbr><ex>ῶς</ex></expan></w><milestone unit="column" n="right"/> Χ
                   <lb n="2"/>Φ<milestone unit="column" n="right"/> Ι
                 </ab> 
             </div>
