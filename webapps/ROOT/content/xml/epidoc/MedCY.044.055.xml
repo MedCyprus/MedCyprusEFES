@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. TH in ligature. Accents and breathings systematic. Rough breathing of the archaic variety, i.e. shaped like the left half of a majuscule eta.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,7 +76,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+              <lb n="1"/><g ref="#cross">+</g>Ἡ<w lemma="Πεντηκοστή">Πεντικ<supplied reason="lost">οσ</supplied>
+              <lb n="2" break="no"/> τ<choice><orig>ὴ</orig><reg>ή</reg></choice></w>
               </ab>
             </div>
             <div type="apparatus">
@@ -86,11 +87,11 @@
                 <p>The Pentecost</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition. A cross with arrays in the angles marks the beginning of the caption.The word Πεντικοστή is mispelled (instead of Πεντηκοστή).</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 56</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
