@@ -32,6 +32,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q232975</idno>                   
                 </person>
                 
+                <person xml:id="Andronikos">
+                    <persName xml:lang="grc">Ἀνδρόνικος</persName>
+                    <persName xml:lang="en">Andronikos</persName>
+                    <idno type="wikidata">not listed</idno>                   
+                </person>
+                
                 <person xml:id="Angel">
                     <persName xml:lang="grc">Ἄγγελος</persName>
                     <persName xml:lang="en">Angel</persName>                   
@@ -40,6 +46,12 @@
                     <persName xml:lang="grc" type="epithet" subtype="Angel" key="of the Lord">Κυρίου</persName>
                     <persName xml:lang="en" type="epithet" subtype="Angel" key="of the Lord">of the Lord</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2619342</idno>                   
+                </person>
+                
+                <person xml:id="Antonios">
+                    <persName xml:lang="grc">Ἀντώνιος</persName>
+                    <persName xml:lang="en">Antonios</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q170547</idno>                   
                 </person>
                 
                 <person xml:id="Arsenios">
@@ -179,6 +191,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q313922</idno>                   
                 </person>
                 
+                <person xml:id="Euthymios">
+                    <persName xml:lang="grc">Εὐθύμιος</persName>
+                    <persName xml:lang="en">Euthymios</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q441249</idno>                   
+                </person>
+                
                 <person xml:id="Fathers">
                     <persName xml:lang="grc"> <seg>οἱ</seg> τριακόσιοι δεκαοκτὼ θεοφόροι Πατέρες</persName>
                     <persName xml:lang="en">318 Godbearing Fathers (of the First Ecumenical Council) </persName>
@@ -242,6 +260,12 @@
                     <persName xml:lang="grc">Ἑρμόλαος</persName>
                     <persName xml:lang="en">Hermolaos</persName>               
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q4176601</idno>                   
+                </person>
+                
+                <person xml:id="Hilarion">
+                    <persName xml:lang="grc">Ἱλαρίων</persName>
+                    <persName xml:lang="en">Hilarion</persName>               
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q468685</idno>                   
                 </person>
                 
                 <person xml:id="IgnatiosTheophoros">
@@ -316,6 +340,12 @@
                     <persName xml:lang="grc">Ἰωσήφ</persName>
                     <persName xml:lang="en">Joseph</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q128267</idno>                   
+                </person>
+                
+                <person xml:id="Kyriakos">
+                    <persName xml:lang="grc">Κυριακός</persName>
+                    <persName xml:lang="en">Kyriakos</persName>               
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q743246</idno>                   
                 </person>
                 
                 <person xml:id="Lord">
@@ -479,6 +509,12 @@
                     <persName xml:lang="grc" type="epithet" subtype="Romanos" key="Melode">ὁ Μελωδός</persName>
                     <persName xml:lang="en" type="epithet" subtype="Romanos" key="Melode">the Melode</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q221059</idno>                   
+                </person>
+                
+                <person xml:id="Sabbas">
+                    <persName xml:lang="grc">Σάββας</persName>
+                    <persName xml:lang="en">Sabbas</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q316440</idno>                   
                 </person>
                 
                 <person xml:id="Sergios">
