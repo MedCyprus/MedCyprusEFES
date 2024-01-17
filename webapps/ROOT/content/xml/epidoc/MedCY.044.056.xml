@@ -34,11 +34,11 @@
                             </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the left of Christ's head</layout>
+                                <layout>Almost in the middle of the upper part of the scene. It begins to the left of Christ's head and ends next to the tomb of Lazarus</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. TOY in ligature with the tau emerging from the upsilon. Accents and breathings almost systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -78,7 +78,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                   <lb n="1"/><choice><orig>Η</orig><reg>Ἡ</reg></choice><w lemma="ἔγερσις">Ἔγερσις</w>το<choice><orig>υ</orig><reg>ῦ</reg></choice><persName type="sacred" key="Lazaros"><name nymRef="#Λάζαρος">Λαζά
+                    <lb n="2" break="no"/>ρου</name></persName>
               </ab>
             </div>
             <div type="apparatus">
@@ -88,11 +89,11 @@
                 <p>The Raising of Lazaros</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition. The inscription begins with the symbol of a cross with four rays in the angles.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 22</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
