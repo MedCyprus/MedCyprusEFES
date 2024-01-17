@@ -511,6 +511,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43669</idno>                   
                 </person>
                 
+                <person xml:id="Thekla">
+                    <persName xml:lang="grc">Θέκλα</persName>
+                    <persName xml:lang="en">Thekla</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q51885</idno>                   
+                </person>
+                
                 <person xml:id="Themonianos">
                     <persName xml:lang="grc">Θεμωνιανός</persName>
                     <persName xml:lang="en">Themonianos</persName>
