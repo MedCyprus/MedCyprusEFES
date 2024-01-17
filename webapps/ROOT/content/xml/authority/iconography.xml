@@ -403,14 +403,31 @@
                 <item><list type="Monastics">
                     <head>Monastics and Ascetics</head>
                     
+                    <item xml:id="Andronikos">
+                        <term xml:lang="en">Andronikos</term>
+                    </item>
+                    
+                    <item xml:id="Antonios">
+                        <term xml:lang="en">Antonios</term>
+                    </item>
+                    
                     <item xml:id="Arsenios">
                         <term xml:lang="en">Arsenios</term>
                     </item>
+                    
                     <item xml:id="Athanasia">
                         <term xml:lang="en">Athanasia</term></item>
                     
                     <item xml:id="Ephraim">
                         <term xml:lang="en">Ephraim</term>
+                    </item>
+                    
+                    <item xml:id="Euthymios">
+                        <term xml:lang="en">Euthymios</term>
+                    </item>
+                    
+                    <item xml:id="Hilarion">
+                        <term xml:lang="en">Hilarion</term>
                     </item>
                     
                     <item xml:id="JohnOfDamascus">
@@ -419,8 +436,15 @@
                     <item xml:id="JohnClimacus">
                     <term xml:lang="en">John Climacus</term></item>
                     
+                    <item xml:id="Kyriakos">
+                        <term xml:lang="en">Kyriakos</term>
+                    </item>
+                    
                     <item xml:id="MaryOfEgypt"> 
                         <term xml:lang="en">Mary of Egypt</term>
+                    </item>
+                    <item xml:id="Sabbas">
+                        <term xml:lang="en">Sabbas</term>
                     </item>
                     <item xml:id="Theodosios">
                         <term xml:lang="en">Theodosios the Cenobiarch</term>
