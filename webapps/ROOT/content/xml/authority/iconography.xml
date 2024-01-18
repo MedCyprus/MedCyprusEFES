@@ -37,6 +37,11 @@
                 <item xml:id="AscensionChrist">
                     <term xml:lang="en">Ascension, Christ</term>
                 </item>
+                
+                <item xml:id="LastSupper">
+                    <term xml:lang="en">Last Supper</term>
+                </item>
+                
                 <item xml:id="Nativity"> 
                     <term xml:lang="en">Nativity</term>
                 </item>
