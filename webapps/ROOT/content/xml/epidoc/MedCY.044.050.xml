@@ -76,8 +76,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   <lb n="1"/>Λ<milestone unit="column" n="right"/>Π
-                  <lb n="2"/>Μ<milestone unit="column" n="right"/>C
+                   <lb n="1"/><abbr>Λ</abbr><milestone unit="column" n="right"/><abbr>Π</abbr>
+                  <lb n="2"/><abbr rend="supraline">Μ</abbr><milestone unit="column" n="right"/><abbr rend="supraline">C</abbr>
                 </ab> 
             </div>
             <div type="apparatus">
