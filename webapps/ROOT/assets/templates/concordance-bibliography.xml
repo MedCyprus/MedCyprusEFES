@@ -72,6 +72,21 @@
               </xsl:apply-templates>
             </tbody>
           </table>
+          
+          <h2 id="textualsourcs">Textual Sources</h2>
+          <table class="tablesorter">
+            <thead>
+              <tr>
+                <th scope="col">Date</th>
+                <th scope="col">Bibliographic reference</th>
+              </tr>
+            </thead>
+            <tbody>
+              <xsl:apply-templates mode="bibl-list" select="/aggregation/response/result/doc[str[@name='concordance_bibliography_type']=('textualsources','textualsourcesCOPY')]">
+                <xsl:sort select="str[@name='concordance_bibliography_short']"/>
+              </xsl:apply-templates>
+            </tbody>
+          </table>
 
         </div>
       </div>
