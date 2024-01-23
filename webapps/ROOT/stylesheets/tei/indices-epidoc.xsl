@@ -54,10 +54,14 @@
             <xsl:value-of select="$location_parts[3]" />
           </span>
         </xsl:if>
-        <xsl:text>.</xsl:text>
-        <span class="index-instance-line">
+        
+       <xsl:if test="$location_parts[4]">
+         <span class="index-instance-line">
+          <xsl:text>.</xsl:text>
           <xsl:value-of select="$location_parts[4]" />
         </span>
+       </xsl:if>
+        
         <xsl:if test="$location_parts[5] = '1'">
           <xsl:text>]</xsl:text>
         </xsl:if>
