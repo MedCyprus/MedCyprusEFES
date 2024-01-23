@@ -627,13 +627,13 @@
                     <persName xml:lang="en">Word of God</persName>
                 </person>
                 
-                <person xml:id="PrelateUnidentified_MedCy.044.032">
+                <!--<person xml:id="PrelateUnidentified_MedCy.044.032">
                     <persName xml:lang="grc"></persName>
                     <persName xml:lang="en">Prelate, unidentified</persName>
                     <idno type="wikidata">not listed</idno>                   
-                </person>
+                </person>-->
                 
-                <person xml:id="PrelateUnidentified_MedCy.044.033">
+                <!--<person xml:id="PrelateUnidentified_MedCy.044.033">
                     <persName xml:lang="grc"></persName>
                     <persName xml:lang="en">Prelate, unidentified</persName>
                     <idno type="wikidata">not listed</idno>                   
@@ -649,7 +649,7 @@
                     <persName xml:lang="grc"></persName>
                     <persName xml:lang="en">Male saint, unidentified</persName>
                     <idno type="wikidata">not listed</idno>                   
-                </person>
+                </person>-->
                 
                 <person xml:id="Virgin">
                     <persName xml:lang="grc">ἡ Παρθένος</persName>
