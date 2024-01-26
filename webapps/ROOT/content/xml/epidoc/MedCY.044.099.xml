@@ -34,7 +34,7 @@
                             </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the right of the church, into of the southwestern pilaster</layout>
+                                <layout>On the right of the church, inside of the southwestern pilaster</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -64,12 +64,12 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation></creation>
+            <creation>Transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
          <graphic rend="primary" url="044-099-01.JPG"><desc>Naos, southwest recess' façade, east side, middle register, inscription detail</desc></graphic>
-        <graphic url="044-099-02.JPG"><desc>Naos, southwest recess' façade, east side, middle register inscription</desc></graphic>
+        <graphic url="044-099-02.JPG"><desc>Naos, southwest recess' façade, east side, middle register, inscription</desc></graphic>
         <graphic url="044-099-03.JPG"><desc>Naos, southwest recess' façade, east side, middle register, general view </desc></graphic>
             </facsimile>
     <text>
