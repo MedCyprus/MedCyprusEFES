@@ -473,6 +473,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44269</idno>                   
                 </person>
                 
+                <person xml:id="Niketas">
+                    <persName xml:lang="grc">Νικήτας</persName>
+                    <persName xml:lang="en">Niketas</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q129434</idno>                   
+                </person>
+                
                 <person xml:id="Nikon">
                     <persName xml:lang="grc">Νίκων</persName>
                     <persName xml:lang="en">Nikon</persName>               
