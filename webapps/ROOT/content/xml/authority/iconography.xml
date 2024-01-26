@@ -351,6 +351,9 @@
                     <item xml:id="GregoryOfNyssa">
                         <term xml:lang="en">Gregory of Nyssa</term>
                     </item>
+                    <item xml:id="Herakleidios"> 
+                        <term xml:lang="en">Herakleidios</term>
+                    </item>
                     <item xml:id="IgnatiosTheophoros"> 
                         <term xml:lang="en">Ignatios</term>
                     </item>
@@ -368,6 +371,9 @@
                     </item>
                     <item xml:id="Nicholas">
                         <term xml:lang="en">Nicholas</term>
+                    </item>
+                    <item xml:id="Philagrios"> 
+                        <term xml:lang="en">Philagrios</term>
                     </item>
                     <item xml:id="Spyridon">
                         <term xml:lang="en">Spyridon</term>
