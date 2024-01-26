@@ -256,6 +256,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q170164</idno>                   
                 </person>
                 
+                <person xml:id="Herakleidios">
+                    <persName xml:lang="grc">Ἡρακλείδιος</persName>
+                    <persName xml:lang="en">Herakleidios</persName>   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q31284689</idno>                   
+                </person>
+                
                 <person xml:id="Hermolaos">
                     <persName xml:lang="grc">Ἑρμόλαος</persName>
                     <persName xml:lang="en">Hermolaos</persName>               
@@ -507,6 +513,12 @@
                     <persName xml:lang="grc">Φλώρος</persName>
                     <persName xml:lang="en">Phloros</persName> 
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2333926</idno>                   
+                </person>
+                
+                <person xml:id="Philagrios">
+                    <persName xml:lang="grc">Φιλάγριος</persName>
+                    <persName xml:lang="en">Philagrios</persName>   
+                    <idno type="wikidata">not listed</idno>                   
                 </person>
                 
                      <person xml:id="RomanosMelode">
