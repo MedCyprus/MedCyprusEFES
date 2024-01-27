@@ -30,7 +30,8 @@
                                 <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwestern pilaster, north face, lower register</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>15</height><width unit="cm">10</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>18</height><width unit="cm">14</width></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote> Black letters against greenish background. Majuscule letters. Nu with its central bar forms a vertical, zig zag line. Mu with its middle bar forms a tau. Dot after λέγει (line 2). The word endings ΟC in the word νόμος (line 1), ΟΙC in τοις (line 3) and Ν in ἐν (line 3) are rendered with tachygraphic signs. Accents systematic. Letter height: <height unit="cm">4</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -77,21 +78,23 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <w lemma="νόμος">νόμ<expan><ex>ος</ex></expan></w>
+                  <lb n="2"/><w lemma="λέγω">λέγει</w>·
+                  <lb n="3"/>τ<expan><ex>οῖς</ex></expan><gap reason="lost" extent="unknown" unit="character"></gap> <choice><orig>ε</orig><reg>ἐ</reg></choice><expan><ex>v</ex></expan>
               </ab>
             </div>
             <div type="apparatus">
                 <p>PENDING</p>
                  </div>
             <div type="translation">
-                <p>PENDING</p> 
+                <p>Τhe law says to [---] those</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Partly preserved. The inscription is taken from Peter's epistles to the Romans 3:19, 1-2: Now we know that whatever the law says, it says to those who are under the law.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                        <bibl><ptr target="#WeylCarr2012"/>,<citedRange> 213</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
