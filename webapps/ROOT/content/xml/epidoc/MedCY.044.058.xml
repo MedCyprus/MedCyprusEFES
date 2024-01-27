@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. The word Χ(ριστό)ς is fully rendered by an abbreviation with a big horizontal line above. Accents and breathings are missing.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                  <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς Χριστός"><supplied reason="lost"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan></supplied> <expan><abbr rend="supraline"> Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></name></persName> 
               </ab>
             </div>
             <div type="apparatus">
@@ -86,11 +86,11 @@
                 <p>[Jesus] Christ</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Partrly preserved. The reconstruction of the word Ἰ(ησοῦ)ς is based on other examples in the church.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
