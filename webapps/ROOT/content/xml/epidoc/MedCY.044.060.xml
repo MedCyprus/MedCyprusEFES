@@ -30,7 +30,8 @@
                                 <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, northwestern pilaster, south face, lower register</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>16</height><width unit="cm">12</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>19</height><width unit="cm">16</width></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black letters against white background. Majuscule letters. Nu with its central bar forms a vertical, zig zag line. Eta with a cross on its horizontal bar. Omega formed by two omicron. Stroke constrast with two levels of boldness in the strokes that compose the letter, the vertical strokes being thick, the horizontal ones thin. Accents and breathings systematic. Long graves accents. Rough breathing in the form of inverted comma. Letter height: <height unit="cm">3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,21 +77,26 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                  <lb n="1"/> <supplied reason="lost">Ὁ <w lemma="φρονῶ">φρονῶν</w></supplied>               
+                  <lb n="2"/><w lemma="ἡμέρα"><supplied reason="lost">τὴν ἡμέ</supplied>
+                  <lb n="3" break="no"/>ραν</w> Κ<hi rend="ligature">ρί</hi><choice><orig>ω</orig><reg>ῳ</reg></choice>
+                  <lb n="4"/><w lemma="φρονῶ">φρονεῖ</w>
+                  <lb n="5"/>καὶ ὁ μὴ 
+                  <lb n="6"/><w lemma="φρονῶ">φ<supplied reason="lost">ρ</supplied>ονῶ<supplied reason="lost">ν</supplied></w>
               </ab>
             </div>
             <div type="apparatus">
                 <p>PENDING</p>
                  </div>
             <div type="translation">
-                <p>PENDING</p> 
+                <p>Whoever regards one day as special does so to the Lord and whoeved doesn't regard [it] as special.</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Partially preserved. <!--The inscription is taken from Paul's Epistles on Romans, Rom. 14:6,1: or from a Catena on Pauline letters on Romans? (Maria Xenaki)  >--></p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl><ptr target="#WeylCarr2012"/>,<citedRange>213</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
