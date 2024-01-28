@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. Character's size varies. The word ἅγιος is abbreviated inside an omicron which indicates the article. OC in ligature with final sigma shaped with a vertical wavy line. An horizontal wavy line above the letters CE. Accents and breathings almost systematic. Rough and smooth breathings of the archaic variety, i.e. shaped like the left or the right half of a majuscule eta respectively. Letter height: <height unit="cm">3-5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -64,7 +64,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation></creation>
+            <creation>Transcription (G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -75,7 +75,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+             <cb n="a"/> 
+             <lb n="1"/>Ὁ<persName type="sacred" key="Arsenios"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+             <cb n="b"/>     
+              <lb n="1"/><name nymRef="#Ἀρσένιοs">Αρ  
+              <lb n="2" break="no"/><hi rend="supraline">σέ</hi>νι
+               <lb n="3" break="no"/><hi rend="ligarure">ος</hi></name></persName>        
               </ab>
             </div>
             <div type="apparatus">
@@ -85,11 +90,11 @@
                 <p>Saint Arsenios</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange>96</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
