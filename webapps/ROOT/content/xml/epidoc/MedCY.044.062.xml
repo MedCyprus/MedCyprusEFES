@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. The word ἅγιος is abbreviated inside an omicron which indicates the article. Characters' size varies. Omega with crosslet. Tau with a cross in its vetical bar. Final sigma is formed by a horizontal wavy line. A horizontal wavy line above ΩΝ. Accents and breathings systematic. Rough breathing of the archaic variety, i.e. shaped like the left half of a majuscule eta.Letter height: <height unit="cm">4</height>.
+                            <handNote>White letters against blue background. Majuscule letters. The word ἅγιος is abbreviated inside an omicron which indicates the article. Characters' size varies. Omega with crosslet. Tau with a cross in its vetical bar. Final sigma is formed by a horizontal wavy line. A horizontal wavy line above ΩΝ. Accents and breathings systematic. Rough breathing of the archaic variety, i.e. shaped like the left half of a majuscule eta. Letter height: <height unit="cm">4</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -77,7 +77,7 @@
               <ab>
                    <lb n="1"/>Ὁ <persName type="sacred" key="Conastantine"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
                   <lb n="2"/><name nymRef="#Kωνσταντίνος">Κ<hi rend="supraline">ων</hi> 
-                  <lb n="3" break="no"/>στα
+                  <lb n="3" break="no"/>σταν
                   <lb n="4" break="no"/>τή
                   <lb n="5" break="no"/>νο
                   <lb n="6" break="no"/>ς</name></persName>
