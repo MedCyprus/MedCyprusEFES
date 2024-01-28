@@ -33,7 +33,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the Christ</layout>
+                                <layout>On either side of Christ</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#christEmmanuel">Christ Emmanuel</rs></p>
+                            <p>... <rs type="iconography" ref="iconography.xml#ChristEmmanuel">Christ Emmanuel</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
