@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. Letters' size varies. Midde dot after ἁγία, and double dot after name Ἑλένη. Accents and breathings systematic. Rough and smooth breathing of the archaic variety, i.e. shaped like the left or the right half of a majuscule eta respectively.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,7 +75,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                  <cb n="a"/> 
+                  <lb n="1"/>Ἡ <persName type="sacred" key="Ηelena"><w lemma="ἁγία">ἁ
+                  <lb n ="2" break="no"/>γί
+                  <lb n="3" break ='no'/>α</w>
+                   <cb n="b"/>   
+                   <lb n="1"/><name nymRef="#Ἑλένη">Ἑ  
+                   <lb n ="2" break="no"/>λέ
+                   <lb n ="3" break="no"/>νη</name></persName>
               </ab>
             </div>
             <div type="apparatus">
@@ -85,11 +92,11 @@
                 <p>Saint Helena</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 91</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
