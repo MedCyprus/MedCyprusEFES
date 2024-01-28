@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters.The word ἅγιος is abbreviated inside an omicron which indicates the article. Characters' size varies. OC in ligature wich final sigma formed with a vertical wavy line. Wavy, diagonal final sigma in the word ὁ Κοινοβιάρχης. Accents and breathings almost systematic.The Ὁ and ἅγιος bear rough breathings of the archaic variety, i.e. shaped like the left half of a majuscule eta. Letter height: <height unit="cm">4</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,7 +75,20 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                  <cb n="a"/> 
+               <lb n="1"/>Ὁ <persName type="sacred" key="Theodosios"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+               <lb n="2"/><name nymRef="#Θεοδόσιος">Θε
+               <lb n="3" break="no"/>ο
+                <lb n="4" break="no"/>δό
+                <lb n="5" break="no"/>σι
+                <lb n="6" break="no"/><hi rend="ligature">ος</hi></name>
+                <cb n="b"/>   
+                <lb n="1"/><choice><orig>Ο</orig><reg>Ὁ</reg></choice> <addName type="epithet" key="Cenobiarch">Kη
+                <lb n="2" break="no"/>νο
+                <lb n="3" break="no"/>βι
+                <lb n="4" break="no"/>άρ
+                <lb n="5" break="no"/>χη
+                <lb n="6" break="no"/>ς</addName></persName>
               </ab>
             </div>
             <div type="apparatus">
@@ -85,11 +98,11 @@
                 <p>Saint Theodosios the Cenobiarch</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition. The word Κοινοβιάρχης is misspelled.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange>95</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
