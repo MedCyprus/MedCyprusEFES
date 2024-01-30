@@ -29,7 +29,7 @@
                                 <support>
                                 <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#narthex">Narthex, south conch, semicylindrical wall</rs>
+                                    <rs type="placement-building" ref="#narthex">Narthex, south conch, semicylindrical wall, central scene</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
                             </supportDesc>
@@ -68,13 +68,13 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-104-01.JPG"><desc>Narthex, south conch, semicylindrical wall, inscription</desc></graphic>
-        <graphic url="044-104-02.JPG"><desc>Narthex, south conch, semicylindrical wall, inscription detail</desc></graphic>
-        <graphic url="044-104-03.JPG"><desc>Narthex, south conch, semicylindrical wall, inscription detail</desc></graphic>
-        <graphic url="044-104-04.JPG"><desc>Narthex, south conch, semicylindrical wall, general view</desc></graphic>
-        <graphic url="044-104-05.JPG"><desc>Narthex, south conch, semicylindrical wall, general view</desc></graphic>
-        <graphic url="044-104-06.JPG"><desc>Narthex, south conch, semicylindrical wall, inscription</desc></graphic>
-        <graphic url="044-104-04.JPG"><desc>Narthex, south conch, semicylindrical wall, inscription</desc></graphic>
+         <graphic rend="primary" url="044-104-01.JPG"><desc>Narthex, south conch, semicylindrical wall, central scene, inscription</desc></graphic>
+        <graphic url="044-104-02.JPG"><desc>Narthex, south conch, semicylindrical wall, central scene, inscription detail</desc></graphic>
+        <graphic url="044-104-03.JPG"><desc>Narthex, south conch, semicylindrical wall, central scene, inscription detail</desc></graphic>
+        <graphic url="044-104-04.JPG"><desc>Narthex, south conch, semicylindrical wall, central scene, general view</desc></graphic>
+        <graphic url="044-104-05.JPG"><desc>Narthex, south conch, semicylindrical wall, central scene, general view</desc></graphic>
+        <graphic url="044-104-06.JPG"><desc>Narthex, south conch, semicylindrical wall, central scene, inscription</desc></graphic>
+        <graphic url="044-104-04.JPG"><desc>Narthex, south conch, semicylindrical wall, central scene, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>
