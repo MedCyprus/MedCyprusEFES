@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies.The word ἅγιος is abbreviated inside an omicron which indicates the article. OC in ligature with final sigma shaped with a vertical wavy line. Accents and breathings systematic. Breathings of the archaic variety (ancular).
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -77,7 +77,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                   <cb n="a"/>
+                    <lb n="1"/>Ὁ <persName type="sacred" key="Sergios"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                     <cb n="b"/>
+                  <lb n="1"/><name nymRef="#Σέργιος">Σέργι
+                  <lb n="2" break="no"/><hi rend="ligature">oς</hi></name></persName>    
               </ab>
             </div>
             <div type="apparatus">
@@ -87,11 +91,11 @@
                 <p>Saint Sergios</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
