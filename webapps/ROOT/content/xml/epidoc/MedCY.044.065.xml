@@ -30,15 +30,16 @@
                                 <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwest recess, lower register, first figure on the left</rs>
-                                    <dimensions><height>n/a</height></dimensions>
-                            </support>
+                                    <dimensions unit="cm" scope="text"><height>36</height><width unit="cm">14</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>50</height><width unit="cm">20</width></dimensions>
+                                  </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>On the open scroll held in the left hand by the saint</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black letters in greenish background. Majuscule letters. Character's size varies. Short, horizontal and vertical lines in alpha, zeta, eta, tau, upsilon and pi. Omega with crosslet. Mu with its middle bar forms an upsilon; a short, horizontal line in its middle bar. NH,and OY in ligatures, with upsilon emerging from omicron. Systematic use of accents and breathings. BRough and smooth breathing of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,21 +76,28 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                  <lb n="1"/><g ref="#cross">+</g>Ἡ <w lemma="νηστεία">νηστεί              
+                  <lb n="2" break="no"/>α</w> <w lemma="ταπεινῶ">ταπεινοῖ</w>
+                  <lb n="3"/>τὸ <w lemma="σῶμα">σῶμα</w> ἡ
+                  <lb n="4"/><w lemma="ἀγρυπνία">ἀγρυπνία</w>
+                  <lb n="5"/><w lemma="καθαρίζω">καθαρίζει</w>
+                  <lb n="6"/>τὸν <w lemma="νοῦς">ν<hi rend="ligature">οῦ</hi>ν</w> ἡ
+                  <lb n="7"/>δε <w lemma="ἡσυχία">ἡσ<supplied reason="lost">υχί</supplied>α</w>
+                  <lb n="8"/><w lemma="φέρω"><supplied reason="lost">φέρει</supplied></w><supplied reason="lost">τὸ</supplied><w lemma="πένθος"><supplied reason="lost">πένθος</supplied></w> 
               </ab>
             </div>
             <div type="apparatus">
                 <p>PENDING</p>
                  </div>
             <div type="translation">
-                <p>PENDING</p> 
+                <p>Fasting humbles the body; watching by night purifies the mind; hêsychia produces sorrow; (<bibl><ptr target="Wortley 2013"/>,<citedRange> 380</citedRange></bibl>).</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition. A cross with arrays in the angles marks the beginning  of the text. The inscription is identified with a saying attributed to Abba Longinus in the Apophegmata Patrum (APanon "Collection")(<bibl><ptr target="Wortley 2013"/>,<citedRange> 380</citedRange></bibl>).</p>  
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 96</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
