@@ -38,8 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
-                            </handNote>
+                          <handNote>White letters against blue background. Majuscule letters. Letters's size varies. Acute accent only in Thecla. Letter height: <height unit="cm">4</height>.                            </handNote>
                         </handDesc>
                          <decoDesc>
                             <p>... <rs type="iconography" ref="iconography.xml#Thekla">Thekla</rs></p>
@@ -76,7 +75,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                  <lb n="1"/><choice><orig>H</orig><reg>Ἡ</reg></choice><persName type="sacred" key="Thekla"><w lemma="ἁγία"><choice><orig>a</orig></choice><reg>ἁ</reg>γ<choice><orig>ι</orig><reg>ί</reg></choice>α</w>
+                   <lb n="2"/><name nymRef="#Θέκλα">Θέ  
+                   <lb n ="2" break="no"/>κλ
+                   <lb n ="3" break="no"/>α</name></persName>
               </ab>
             </div>
             <div type="apparatus">
@@ -86,11 +88,11 @@
                 <p>Saint Thekla</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 85</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
