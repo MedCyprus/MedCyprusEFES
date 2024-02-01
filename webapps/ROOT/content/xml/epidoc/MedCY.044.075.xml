@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Omega with a crosslet. Final sigma in the form of zeta. Α dot above iota. Accents and breathings almost systematic. Rough breathing of the archaic variety (ancular).
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -78,7 +78,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                    <lb n="1"/>Ἡ <w lemma="βαϊοφόρος">Βα<choice><orig>ι</orig><reg>ϊ</reg></choice>ω
+                    <lb n="2" break="no"/>φόρος</w>
               </ab>
             </div>
             <div type="apparatus">
@@ -88,11 +89,11 @@
                 <p>Entry into Jerusalem</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition. The inscription begins with the symbol of a cross with dots. The word Βαϊοφόρος is misspelled.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 27</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
