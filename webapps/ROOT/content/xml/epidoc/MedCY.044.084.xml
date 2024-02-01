@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. The word ἅγιος is abbreviated inside an omicron which indicates the article. Characters' size varies. Letter height: <height unit="cm">4</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,8 +75,13 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>
-                  PENDING
+                 <ab>
+                 <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Hilarion"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>a</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
+                  <lb n="2"/><name nymRef="#Ἱλαρίων"><choice><orig>H</orig><reg>Ἡ</reg></choice>
+                   <lb n="3" break="no"/>λα
+                   <lb n="4" break="no"/>ρ<choice><orig>ι</orig><reg>ί</reg></choice>
+                   <lb n="5" break="no"/>ω
+                   <lb n="6" break="no"/>ν</name></persName>
               </ab>
             </div>
             <div type="apparatus">
@@ -86,11 +91,11 @@
                 <p>Saint Hilarion</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition. The name Ἱλαρίων is misspelled.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 101</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
