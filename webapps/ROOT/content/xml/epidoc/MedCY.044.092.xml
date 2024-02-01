@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. The word ἅγιος is abbreviated inside an omicron which indicates the article. Accents and breathings systematic. Breathing of the archaic variety (ancular). Letter height: <height unit="cm">4</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,7 +76,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+              <lb n="1"/>Ὁ <persName type="sacred" key="Sabbas"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+              <lb n="2"/><name nymRef="#Σάββας">Σά
+              <lb n="3" break="no"/>βα
+              <lb n="4" break="no"/>ς</name></persName>
               </ab>
             </div>
             <div type="apparatus">
@@ -86,11 +89,11 @@
                 <p>Saint Sabbas</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 106</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
