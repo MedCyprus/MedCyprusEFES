@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Wavy, diagonal final sigma. The word ἅγιος is abbreviated inside an omicron which indicates the article. Accents and breathings almost systematic. Βreathings of the archaic variety (angular). Letter height: <height unit="cm">4</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,7 +76,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                  <lb n="1"/>Ὁ <persName type="sacred" key="Kyriakos"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>;;ά</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
+                   <lb n="2"/><name nymRef="#Κυριακός">Κυ
+                   <lb n="3" break="no"/>ρι
+                   <lb n="4" break="no"/>α
+                   <lb n="5" break="no"/>κ
+                   <lb n="6" break="no"/>ό
+                   <lb n="7" break="no"/>ς</name></persName>
               </ab>
             </div>
             <div type="apparatus">
@@ -86,11 +92,11 @@
                 <p>Saint Kyriakos</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 103</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
