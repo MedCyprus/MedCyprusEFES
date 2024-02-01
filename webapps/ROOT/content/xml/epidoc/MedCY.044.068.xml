@@ -96,7 +96,7 @@
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl><bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 98</citedRange></bibl></bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 98</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
