@@ -39,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters in greenish background. Majuscule letters. Character's size varies. Short, horizontal and vertical lines in alpha, zeta, eta, tau, upsilon and pi. Omega with crosslet. Mu with its middle bar forms an upsilon; a short, horizontal line in its middle bar. NH,and OY in ligatures, with upsilon emerging from omicron. Systematic use of accents and breathings. BRough and smooth breathing of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
+                            <handNote>Black letters in greenish background. Majuscule letters. Character's size varies. Short, horizontal and vertical lines in alpha, zeta, eta, tau, upsilon and pi. Omega with crosslet. Mu with its middle bar forms an upsilon; a short, horizontal line in its middle bar. NH,and OY in ligatures, with upsilon emerging from omicron. Systematic use of accents and breathings. Brough and smooth breathing of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -83,17 +83,17 @@
                   <lb n="5"/><w lemma="καθαρίζω">καθαρίζει</w>
                   <lb n="6"/>τὸν <w lemma="νοῦς">ν<hi rend="ligature">οῦ</hi>ν</w> ἡ
                   <lb n="7"/>δε <w lemma="ἡσυχία">ἡσ<supplied reason="lost">υχί</supplied>α</w>
-                  <lb n="8"/><w lemma="φέρω"><supplied reason="lost">φέρει</supplied></w><supplied reason="lost">τὸ</supplied><w lemma="πένθος"><supplied reason="lost">πένθος</supplied></w> 
+                  <lb n="8"/><w lemma="φέρω"><supplied reason="lost">φέρει</supplied></w> <supplied reason="lost">τὸ</supplied> <w lemma="πένθος"><supplied reason="lost">πένθος</supplied></w> 
               </ab>
             </div>
             <div type="apparatus">
                 <p>PENDING</p>
                  </div>
             <div type="translation">
-                <p>Fasting humbles the body; watching by night purifies the mind; hêsychia produces sorrow; (<bibl><ptr target="Wortley 2013"/>,<citedRange> 380</citedRange></bibl>).</p> 
+                <p>Fasting humbles the body; watching by night purifies the mind; hêsychia produces sorrow; (<bibl><ptr target="#Wortley2013"/>,<citedRange> 380</citedRange></bibl>).</p> 
             </div>
             <div type="commentary">
-                <p>Good condition. A cross with arrays in the angles marks the beginning  of the text. The inscription is identified with a saying attributed to Abba Longinus in the Apophegmata Patrum (APanon "Collection")(<bibl><ptr target="Wortley 2013"/>,<citedRange> 380</citedRange></bibl>).</p>  
+                <p>Good condition. A cross with arrays in the angles marks the beginning  of the text. The inscription is identified with a saying attributed to Abba Longinus in the Apophegmata Patrum (APanon "Collection")(<bibl><ptr target="#Wortley2013"/>,<citedRange> 380</citedRange></bibl>).</p>  
             </div>
             <div type="bibliography">
                 <listBibl> 
