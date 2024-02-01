@@ -180,8 +180,8 @@
                 <person xml:id="EphraimSyrian">
                     <persName xml:lang="grc">Ἐφραίμ</persName>
                     <persName xml:lang="en">Ephraim</persName>     
-                    <persName xml:lang="grc" type="epithet" subtype="EphraimSyrian">ὁ Σύρος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="EphraimSyrian">Syrian</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="EphraimSyrian" key="Syrian">ὁ Σύρος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="EphraimSyrian" key="Syrian">Syrian</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q200608</idno>                   
                 </person>
                 
