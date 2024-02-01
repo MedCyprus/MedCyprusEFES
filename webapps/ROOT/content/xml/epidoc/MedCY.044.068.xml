@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. The word ἅγιος is abbreviated inside an omicron which indicates the article. Characters' size varies. Accents and breathings almost systematic. The Ὁ and ἅγιος bear rough breathings of the archaic variety, i.e. shaped like the left half of a majuscule eta. The Ὁ before the Syrian bears a rough breathing of the modern variety, i.e. simiral to inverted comma. Letter height: <height unit="cm">4</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,7 +75,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+              <cb n="a"/> 
+               <lb n="1"/>Ὁ <persName type="sacred" key="Ephraim"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+               <lb n="2"/><name nymRef="#Ἐφραίμ"><choice><orig>Ε</orig><reg>Ἐ</reg></choice>φραί
+               <lb n="3" break="no"/>μ</name></persName>
+               <cb n="a"/>   
+               <lb n="1"/>Ὁ<addName type="epithet" key="EphraimSyrian"> Σύ
+                <lb n="2" break="no"/>ρο
+                <lb n="3" break="no"/><supplied reason="lost">ς</supplied></addName>
               </ab>
             </div>
             <div type="apparatus">
@@ -85,11 +92,11 @@
                 <p>Saint Ephraim the Syrian</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl><bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 98</citedRange></bibl></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
