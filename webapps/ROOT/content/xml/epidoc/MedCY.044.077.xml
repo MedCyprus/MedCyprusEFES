@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters.Accents and breathings systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,7 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/>Ὁ <w lemma="δεῖπνος">Δείπνος</w>
+                   <lb n="1"/><g ref="#cross">+</g> Ὁ <w lemma="δεῖπνος">Δε<choice><orig>ί</orig><reg>ῖ</reg></choice>πνος</w>
               </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +85,7 @@
                 <p>The Supper</p> 
             </div>
             <div type="commentary">
-                <p>Good condition. The text ends with a cross with four rays in the angles.</p>
+                <p>Good condition. The text ends with a cross with four rays in the angles. The word δεῖπνος is misspelled.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
