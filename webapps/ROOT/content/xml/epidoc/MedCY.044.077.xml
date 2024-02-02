@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters.Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,7 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                   <lb n="1"/>Ὁ <w lemma="δεῖπνος">Δείπνος</w>
               </ab>
             </div>
             <div type="apparatus">
@@ -85,11 +85,11 @@
                 <p>The Supper</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition. The text ends with a cross with four rays in the angles.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 30</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
