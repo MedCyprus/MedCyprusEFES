@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. Short, horizontal and vertical lines at the bottom of upsilon, in the middle bar of mu and eta. OY in ligature with the omicron emerging from the upsilon. The word Θεοτόκου is fully rendered by an abbreviation with a big, horizontal line above the word. Accute accent only in upsilon of ΚΥΜΗCIC. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -77,7 +77,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                  <lb n="1"/><choice><orig>Η</orig><reg>Ἡ</reg></choice> <w lemma="κοίμησις">κύμησις</w> της
+                  <lb n="2" /><persName type="sacred" key="Theotokos"><name nymRef="#Θεοτόκος"><expan><abbr rend="supraline">Θ</abbr><ex>εοτό</ex><abbr rend="supraline">κ<hi rend="ligature">ου</hi></abbr></expan></name></persName>
               </ab>
             </div>
             <div type="apparatus">
@@ -87,11 +88,11 @@
                 <p>The Dormition of the Virgin</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition. The word Κοίμησις is misspelled.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 37</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
