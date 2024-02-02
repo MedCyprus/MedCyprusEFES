@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Long, wavy final singma, written under the letters ΓΟ. Accents and breathings systematic. Rough breathing of the archaic variety (ancular).
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,21 +76,27 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                  <cb n="a"/>
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="JohnTheologian"><supplied reason="lost"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w></supplied>
+                      <lb n="2"/><supplied reason="lost"><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name></supplied>
+                      <cb n="b"/>
+                  <lb n="1"/>Ὁ
+                  <lb n="2"/><addName type="epithet" key="Theologian">Θεολό
+                  <lb n="3" break="no"/>γος</addName></persName>
               </ab>
             </div>
             <div type="apparatus">
                 <p>PENDING</p>
                  </div>
             <div type="translation">
-                <p>[--?--] the Theologian</p> 
+                <p>[Saint John] the Theologian</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Partially preserved. We reconstracted the name of the saint based on his iconography and on the other inscriptions.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
