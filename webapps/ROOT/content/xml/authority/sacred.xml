@@ -66,6 +66,12 @@
                     <idno type="wikidata">not listed</idno>                   
                 </person>
                 
+                <person xml:id="Athanasios">
+                    <persName xml:lang="grc">Ἀθανάσιος</persName>
+                    <persName xml:lang="en">Athanasios</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q44024</idno>                   
+                </person>
+                
                 <person xml:id="AthanasiosPentaschoinites">
                     <persName xml:lang="grc">Ἀθανάσιος Πεντασχοινίτης</persName>
                     <persName xml:lang="en">Athanasios Pentaschoinites</persName>
@@ -390,6 +396,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2333926</idno>                   
                 </person>
                 
+                <person xml:id="Makedonios">
+                    <persName xml:lang="grc">Μακεδόνιος</persName>
+                    <persName xml:lang="en">Makedonios</persName> 
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1273634</idno>                   
+                </person>
+                
                 <person xml:id="Mamas">
                     <persName xml:lang="grc">Μάμας</persName>
                     <persName xml:lang="en">Mamas</persName> 
@@ -452,6 +464,14 @@
                     <persName xml:lang="grc">Μαύρα</persName>
                     <persName xml:lang="en">Maura</persName>        
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q116026227</idno>                   
+                </person>
+                
+                <person xml:id="MeletiosAntioch">
+                    <persName xml:lang="grc">Μελέτιος Ἀντιοχείας</persName>
+                    <persName xml:lang="en">Meletios of Antioch</persName> 
+                    <!--<persName xml:lang="grc" type="epithet" subtype="MeletiosAntioch" key="of Antioch">ὁ Ἀντιοχείας</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="MeletiosAntioch" key="of Antioch">of Antioch</persName>-->
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q433452</idno>                   
                 </person>
                 
                 <person xml:id="MeterTheou">
@@ -590,6 +610,14 @@
                     <persName xml:lang="grc" type="epithet" subtype="Theodosios" key="Cenobiarch">ὁ Κοινοβιάρχης</persName>
                     <persName xml:lang="en" type="epithet" subtype="Theodosios" key="Cenobiarch">Cenobiarch</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1885832</idno>                   
+                </person>
+                
+                <person xml:id="TheophanesPoet">
+                    <persName xml:lang="grc">Θεοφάνης ὁ Ποιητής</persName>
+                    <persName xml:lang="en">Theophane the poet</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="TheophanesPoet" key="Poet">ὁ Ποιτητής</persName>
+                    <persName xml:lang="en" type="epithet" subtype="TheophanesPoet" key="Poet">Poet</persName>
+                    <idno type="wikidata">not listed</idno>                   
                 </person>
                  
                 <person xml:id="Theotokos">
