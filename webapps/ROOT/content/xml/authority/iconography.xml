@@ -334,6 +334,10 @@
                 <item><list type="Ecclesiastics">
                     <head>Ecclesiastics (prelates, priests, deacons)</head>
                     
+                    <item xml:id="Athanasios"> 
+                        <term xml:lang="en">Athanasios</term>
+                    </item>
+                    
                     <item xml:id="athanasiospentaschoinites"> 
                         <term xml:lang="en">Athanasios Pentaschoinites</term>
                     </item>
@@ -376,6 +380,9 @@
                         <item xml:id="Makedonios"> 
                             <term xml:lang="en">Makedonios</term>
                         </item>
+                    <item xml:id="MeletiosAntioch"> 
+                        <term xml:lang="en">Meletios</term>
+                    </item>
                     <item xml:id="Nicholas">
                         <term xml:lang="en">Nicholas</term>
                     </item>
