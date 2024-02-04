@@ -30,7 +30,8 @@
                                 <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwest recess, lower register, first figure on the right</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>45</height><width unit="cm">13</width></dimensions>
+                                     <dimensions unit="cm" scope="scroll"><height>51</height><width unit="cm">18</width></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black letters in greenish background. Majuscule letters. Characters' size varies. Short, horizontal and vertical lines appear sporadically in horizontal and vertical bars in eta, tau,and p. Omega with crosslet. Mu with its middle bar forms an upsilon; a short, horizontal line appears in its middle bar. TΡ and ΤΟ in ligatures, with tau in TO emerging from omicron.The word ending Ν in ταπείνωσιν (line 7) is rendered with tachygraphic sign. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height:<height unit="cm">3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,7 +76,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                  <lb n="1"/><g ref="#cross">+</g>Ἡ <w lemma="μακάριος">Maκά             
+                  <lb n="2" break="no"/>ριος</w><w lemma="ἀληθῶς">ἀλη
+                  <lb n="3" break="no"/>θῶς</w><expan><abbr>κ</abbr><ex>αὶ</ex></expan><w lemma="τρισμακάριστος">τρισ
+                  <lb n="4" break="no"/>μακάρισ
+                  <lb n="5" break="no"/>τος</w>ὁ<w lemma="ἐγκράτεια">ἐγκρά
+                  <lb n="6" break="no"/>τειαν</w><expan><abbr>κ</abbr><ex>αὶ</ex></expan><w lemma="ταπείνωσις">τα
+                  <lb n="7" break="no"/>πείνωσι<expan><ex>ν</ex></expan></w>
+                  <lb n="8"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan><w lemma="ἀγάπη">ἀγάπην</w><w lemma="κτῶμαι">ἐ 
+                  <lb n="9" break="no"/><supplied reason="lost">κ</supplied>τήσατ<choice><orig>ῶ</orig></choice><reg>ω</reg></w>
               </ab>
             </div>
             <div type="apparatus">
@@ -85,11 +94,11 @@
                 <p>PENDING</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition. A cross with arrays in the angles marks the beginning of the text.The text derives from the Ephrem the Syrian's homily "Sermo de virtutibus et vitiis". </p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                   <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 100</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
