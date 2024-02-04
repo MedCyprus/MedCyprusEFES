@@ -611,6 +611,14 @@
                     <persName xml:lang="en" type="epithet" subtype="Theodosios" key="Cenobiarch">Cenobiarch</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1885832</idno>                   
                 </person>
+                
+                <person xml:id="TheophanesPoet">
+                    <persName xml:lang="grc">Θεοφάνης ὁ Ποιητής</persName>
+                    <persName xml:lang="en">Theophane the poet</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="TheophanesPoet" key="Poet">ὁ Ποιτητής</persName>
+                    <persName xml:lang="en" type="epithet" subtype="TheophanesPoet" key="Poet">Poet</persName>
+                    <idno type="wikidata">not listed</idno>                   
+                </person>
                  
                 <person xml:id="Theotokos">
                     <persName xml:lang="grc">Θεοτόκος</persName>
