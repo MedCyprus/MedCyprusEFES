@@ -66,6 +66,12 @@
                     <idno type="wikidata">not listed</idno>                   
                 </person>
                 
+                <person xml:id="Athanasios">
+                    <persName xml:lang="grc">Ἀθανάσιος</persName>
+                    <persName xml:lang="en">Athanasios</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q44024</idno>                   
+                </person>
+                
                 <person xml:id="AthanasiosPentaschoinites">
                     <persName xml:lang="grc">Ἀθανάσιος Πεντασχοινίτης</persName>
                     <persName xml:lang="en">Athanasios Pentaschoinites</persName>
@@ -458,6 +464,14 @@
                     <persName xml:lang="grc">Μαύρα</persName>
                     <persName xml:lang="en">Maura</persName>        
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q116026227</idno>                   
+                </person>
+                
+                <person xml:id="MeletiosAntioch">
+                    <persName xml:lang="grc">Μελέτιος Ἀντιοχείας</persName>
+                    <persName xml:lang="en">Meletios of Antioch</persName> 
+                    <!--<persName xml:lang="grc" type="epithet" subtype="MeletiosAntioch" key="of Antioch">ὁ Ἀντιοχείας</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="MeletiosAntioch" key="of Antioch">of Antioch</persName>-->
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q433452</idno>                   
                 </person>
                 
                 <person xml:id="MeterTheou">
