@@ -390,6 +390,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2333926</idno>                   
                 </person>
                 
+                <person xml:id="Makedonios">
+                    <persName xml:lang="grc">Μακεδόνιος</persName>
+                    <persName xml:lang="en">Makedonios</persName> 
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1273634</idno>                   
+                </person>
+                
                 <person xml:id="Mamas">
                     <persName xml:lang="grc">Μάμας</persName>
                     <persName xml:lang="en">Mamas</persName> 
