@@ -30,7 +30,8 @@
                                 <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, south half, lower register, first figure on the right</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                   <dimensions unit="cm" scope="text"><height>13</height><width unit="cm">10</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>18</height><width unit="cm">17</width></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black letters in greenish background. Majuscule letters.  Short, horizontal and vertical lines in alpha, tau, upsilon and chi. HN in ligature. Systematic use of accents. Letter height: <height unit="cm">3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,21 +76,22 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+              <lb n="1"/><g ref="#cross">+</g>Τὴν <w lemma="ψυχοβλαβής">ψυχο             
+              <lb n="2" break="no"/>βλαβὴ</w>
               </ab>
             </div>
             <div type="apparatus">
                 <p>PENDING</p>
                  </div>
             <div type="translation">
-                <p>PENDING</p> 
+                <p>Τhat is injuring the soul</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Partially preserved. A cross with arrays in the angles marks the beginning of the text. </p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
