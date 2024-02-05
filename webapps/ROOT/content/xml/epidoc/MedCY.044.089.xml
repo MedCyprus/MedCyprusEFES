@@ -9,7 +9,7 @@
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
-                <editor xml:id="mgp"> Maria G. Parani</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
@@ -30,7 +30,8 @@
                                 <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, north half, lower register, first figure on the left</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                     <dimensions unit="cm" scope="text"><height>40</height><width unit="cm">13</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>48</height><width unit="cm">19</width></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black letters in greenish background. Majuscule letters. Omega with crosslet. ΑΥ, ΕΙ, OY and TO in ligatures, with upsilon and tau emerging from omicron repsectively.The word ending Ν in αὐτόν (line 4) is rendered with tachygraphic sign. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,21 +77,29 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                  <lb n="1"/><g ref="#cross">+</g><w lemma="ἐγώ"><choice><orig>Ἑ</orig><reg>Ἐ</reg></choice>γὼ</w><w lemma="οὐκέτι">οὐ           
+                  <lb n="2" break="no"/>κέτι</w><w lemma="φοβέομαι">φοβ
+                  <lb n="3" break="no"/><supplied reason="lost">οῦμαι</supplied></w><supplied reason="lost">τὸν</supplied><persName type="divine" key="God"><name nymRef="#Θεός">
+                   <w lemma="Θεός"><supplied reason="lost">Θεὸν</supplied></w></name></persName><w lemma="ἀλλά"><supplied reason="lost">ἀλλά</supplied></w><w lemma="ἀγαπῶ"><supplied reason="lost">ἀ</supplied>
+                  <lb n="4" break="no"/>γαπο</w><w lemma="αὐτός">αὐτ<choice><οrig>ω</οrig><reg>ὼ</reg></choice><expan><ex>ν</ex></expan></w>ἡ
+                  <lb n="5"/><supplied reason="lost">γὰρ</supplied><w lemma="ἀγάπη"></w><supplied reason="lost">ἀ</supplied>γ<supplied reason="lost">ά</supplied>π<supplied reason="lost">η</supplied>
+                  <lb n="6"/><w lemma="ἔξω"><supplied reason="lost">ἔξω</supplied></w><w lemma="βάλλω"><supplied reason="lost">βά</supplied>
+                  <lb n="7" break="no"/>λει</w>τὸν<w lemma="βόφος">φ<supplied reason="lost">ό</supplied>
+                  <lb n="8" break="no"/>β<supplied reason="lost">ο</supplied>ν</w><g ref="#cross">+</g>
               </ab>
             </div>
             <div type="apparatus">
                 <p>PENDING</p>
                  </div>
             <div type="translation">
-                <p>PENDING</p> 
+                <p>I no longer fear God, but I love Him. For love casts out fear</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Partially preserved. A cross with arrays in the angles marks the beginning and probably the end of the text. Τhe words αὐτόν και βάλλει are mispelled. The inscription is identified with a saying of Saint Antonios from the Apophegmata Patrum (PG 65,85). The same text is proposed for the scroll of Saint Antonios in the Painter's Manual  of Dionysios of Fourna (<bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 105, n.1</citedRange></bibl>).</p> 
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                   <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 105</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
