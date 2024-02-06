@@ -551,6 +551,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q158825</idno>                   
                 </person>
                 
+                <person xml:id="Onouphrios">
+                    <persName xml:lang="grc">Ονούφριος</persName>
+                    <persName xml:lang="en">Onouphrios</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q464959</idno>                   
+                </person>
+                
                 <person xml:id="Paul">
                     <persName xml:lang="grc">Παῦλος</persName>
                     <persName xml:lang="en">Paul</persName> 
