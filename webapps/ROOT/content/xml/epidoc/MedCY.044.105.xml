@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mu with its middle bar forms a tau. Nu with its central bar forms a vertical, zig zag line. Short vetical and horizontal lines in the horizontal bar of eta and at the bottom of ypsilon. ΑΝ and ΤΡ in ligatures. Systematic use of accents and breathings. Breathing of the modern variety (circular). Letter height:<height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,7 +76,21 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                <ab>
-                   PENDING
+                  <cb n="a"/> 
+                  <lb n="1"/><choice><orig>Ἠ</orig><reg>Ἡ</reg></choice> 
+                  <lb n="2"/><persName type="sacred" key="AnastasiaPharmakolytria"><w lemma="ἁγία">ἁ
+                  <lb n="3"/><name nymRef="#Ἀναστασία"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>ναστασία</name>
+                   <lb n="4" break="no"/>γί
+                   <lb n="5" break="no"/>a</w>
+                   <cb n="b"/>   
+                   <lb n="1"/><choice><orig>Ἠ</orig><reg>Ἡ</reg></choice> 
+                   <lb n ="2" break="no"/><addName type="epithet" key="Poison-curer">Φ
+                   <lb n ="3" break="no"/>αρ
+                   <lb n ="4" break="no"/>μα
+                   <lb n ="5" break="no"/>κο
+                   <lb n ="6" break="no"/>λ<choice><orig>ύ</orig><reg>υ</reg></choice> 
+                   <lb n ="7" break="no"/>τρ<choice><orig>ί</orig><reg>ι</reg></choice> 
+                   <lb n ="8" break="no"/>α</addName></persName>
                </ab> 
             </div>
             <div type="apparatus">
@@ -86,11 +100,11 @@
                 <p>Saint Anastasia the Poison-curer (Pharmakolytria)</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                   <bibl><ptr target="#Kalopissi-Verti2012"/>,<citedRange> 116</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
