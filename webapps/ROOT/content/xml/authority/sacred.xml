@@ -354,6 +354,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q128267</idno>                   
                 </person>
                 
+                <person xml:id="KosmasPoet">
+                    <persName xml:lang="grc">Κοσμάς ὁ Ποιητής</persName>
+                    <persName xml:lang="en">Kosmas the Poet</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="KosmasPoet" key="Poet">ὁ Ποιτητής</persName>
+                    <persName xml:lang="en" type="epithet" subtype="KosmasPoet" key="Poet">Poet</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2496948</idno>                   
+                </person>
+                
                 <person xml:id="Kyriakos">
                     <persName xml:lang="grc">Κυριακός</persName>
                     <persName xml:lang="en">Kyriakos</persName>               
@@ -499,6 +507,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44269</idno>                   
                 </person>
                 
+                <person xml:id="Nikanor">
+                    <persName xml:lang="grc">Νικάνωρ</persName>
+                    <persName xml:lang="en">Nikanor</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2181212</idno>                   
+                </person>
+                
                 <person xml:id="Niketas">
                     <persName xml:lang="grc">Νικήτας</persName>
                     <persName xml:lang="en">Niketas</persName>
@@ -579,6 +593,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q36786</idno>                   
                 </person>
                 
+                <person xml:id="SymeonArchimandrite">
+                    <persName xml:lang="grc">Συμεών ὁ Ἀρχιμανδρίτης</persName>
+                    <persName xml:lang="en">Symeon the Archimandrite</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="SymeonArchimandrite" key="Archimandrite">ὁ Ἀρχιμανδρίτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="SymeonArchimandrite" key="Archimandrite">Archimandrite</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2181212</idno>                   
+                </person>
+                
                 <person xml:id="Thomas">
                     <persName xml:lang="grc">Θωμᾶς</persName>
                     <persName xml:lang="en">Thomas</persName>                   
@@ -614,7 +636,7 @@
                 
                 <person xml:id="TheophanesPoet">
                     <persName xml:lang="grc">Θεοφάνης ὁ Ποιητής</persName>
-                    <persName xml:lang="en">Theophanes the poet</persName>
+                    <persName xml:lang="en">Theophanes the Poet</persName>
                     <persName xml:lang="grc" type="epithet" subtype="TheophanesPoet" key="Poet">ὁ Ποιτητής</persName>
                     <persName xml:lang="en" type="epithet" subtype="TheophanesPoet" key="Poet">Poet</persName>
                     <idno type="wikidata">not listed</idno>                   
