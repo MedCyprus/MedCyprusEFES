@@ -30,7 +30,8 @@
                                 <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, south half, lower register, middle figure</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>21</height><width unit="cm">12</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>26</height><width unit="cm">19</width></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black letters in greenish background. Majuscule letters. Characters' size varies. Short, vertical and horizontal lines at horizontal bar of eta and at the bottom of upsilon. Mu with its middle bar forms an upsilon; a short, horizontal line apperas in its middle bar. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,7 +77,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                  <lb n="1"/><g ref="#cross">+</g>Ἡ <w lemma="ψυχή">ψυχὴ</w>              
+                  <lb n="2"/><w lemma="ἕβδομος">ἑβδ<choice><orig>ο</orig><reg>ό</reg></choice>μὴ</w>
+                  <lb n="3"/><gap reason="lost" extent="3" unit="character"/>
+                  <lb n="4"/><gap reason="lost" extent="3" unit="character"/><unclear>δου</unclear>
+                  <lb n="5"/><gap reason="lost" extent="3" unit="character"/><unclear>῀</unclear><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς Χριστός"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></name></persName>   
               </ab>
             </div>
             <div type="apparatus">
@@ -86,11 +91,11 @@
                 <p>PENDING</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p> Badly damaged. A cross with arrays in the angles marks the beginning of the text. </p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                   <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 102</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
