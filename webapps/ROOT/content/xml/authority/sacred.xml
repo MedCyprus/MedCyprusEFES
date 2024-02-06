@@ -286,6 +286,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2667621</idno>                   
                 </person>
                 
+                <person xml:id="Isaiah">
+                    <persName xml:lang="grc">Ἠσαΐας</persName>
+                    <persName xml:lang="en">Isaiah</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q188794</idno>                   
+                </person>
+                
                 <person xml:id="IgnatiosTheophoros">
                     <persName xml:lang="grc">Ἰγνάτιος ὁ Θεοφόρος</persName>
                     <persName xml:lang="en">Ignatios Theophoros</persName> 
@@ -613,9 +619,9 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q357093</idno>                   
                 </person>
                 
-                <person xml:id="Stachys">
-                    <persName xml:lang="grc">Στάχυς</persName>
-                    <persName xml:lang="en">Stachys</persName>                   
+                <person xml:id="Stachios">
+                    <persName xml:lang="grc">Στάχιος</persName>
+                    <persName xml:lang="en">Stachios</persName>                   
                     <idno type="wikidata">not listed</idno>                   
                 </person>
                 
