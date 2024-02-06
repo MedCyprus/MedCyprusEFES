@@ -613,6 +613,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q357093</idno>                   
                 </person>
                 
+                <person xml:id="Stachys">
+                    <persName xml:lang="grc">Στάχυς</persName>
+                    <persName xml:lang="en">Stachys</persName>                   
+                    <idno type="wikidata">not listed</idno>                   
+                </person>
+                
                 <person xml:id="Stephen">
                     <persName xml:lang="grc">Στέφανος</persName>
                     <persName xml:lang="en">Stephen</persName> 
