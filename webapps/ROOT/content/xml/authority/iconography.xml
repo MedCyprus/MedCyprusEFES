@@ -491,6 +491,11 @@
                     <item xml:id="MaryOfEgypt"> 
                         <term xml:lang="en">Mary of Egypt</term>
                     </item>
+                    
+                    <item xml:id="Onouphrios">
+                        <term xml:lang="en">Onouphrios</term>
+                    </item>
+                    
                     <item xml:id="Sabbas">
                         <term xml:lang="en">Sabbas</term>
                     </item>
