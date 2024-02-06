@@ -614,7 +614,7 @@
                 
                 <person xml:id="TheophanesPoet">
                     <persName xml:lang="grc">Θεοφάνης ὁ Ποιητής</persName>
-                    <persName xml:lang="en">Theophane the poet</persName>
+                    <persName xml:lang="en">Theophanes the poet</persName>
                     <persName xml:lang="grc" type="epithet" subtype="TheophanesPoet" key="Poet">ὁ Ποιτητής</persName>
                     <persName xml:lang="en" type="epithet" subtype="TheophanesPoet" key="Poet">Poet</persName>
                     <idno type="wikidata">not listed</idno>                   
