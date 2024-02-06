@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. The inscription is written entirely in majuscule. Letters' size varies. Delta is formed with a lambda on a horizontal bar. Eta with a short, thin line on its horizontal bar. Nu with its central bar forms a vertical, zig zag line. Μιddle dot after Anastasias and double point with a hyphen after Σαραμαλύνας. Letters TH, OY, AN, AM in ligatures.The word endings -ης in δούλης and -ας in Ἀναστασίας are rendered with tachygraphic signs. Horizontal wavy lines above the abbreviations of δέησις and Θεού. Systematic use of accents and breathings of the modern variety (circular). Letter height: <height unit="cm">2,5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -77,21 +77,22 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                <ab>
-                   PENDING
+                   <lb n="1"/><w lemma="δέησις"><expan><abbr rend="supraline">Δέ</abbr><ex>ησις</ex></expan></w> τῆς <w lemma="δούλη">δ<hi rend="ligature">ού</hi>λ<hi rend="ligature">ης</hi></w> τοῦ <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></w></persName> <persName type="attested" role="donor" ref="#AnastasiaSaramalyna"><name nymRef="#Ἀναστασία" type="forename">Ἀναστασί<hi rend="ligature">ας·</hi></name>
+                   <lb n="2"/> τῆς <name nymRef="#Σαραμαλύνα" type="surname">Σαραμάλυνας:-</name></persName>
                </ab> 
             </div>
             <div type="apparatus">
                 <p>PENDING</p>
                  </div>
             <div type="translation">
-                <p>PENDING</p> 
+                <p> Prayer of the servant of God Anastasia Saramalyna </p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl><ptr target="#Kalopissi-Verti2012"/>,<citedRange> 116</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
