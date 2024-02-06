@@ -362,6 +362,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2496948</idno>                   
                 </person>
                 
+                <person xml:id="Kyprianos">
+                    <persName xml:lang="grc">Κυπριανός</persName>
+                    <persName xml:lang="en">Kyprianos</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q190240</idno>                   
+                </person>
+                
                 <person xml:id="Kyriakos">
                     <persName xml:lang="grc">Κυριακός</persName>
                     <persName xml:lang="en">Kyriakos</persName>               
@@ -598,7 +604,15 @@
                     <persName xml:lang="en">Symeon the Archimandrite</persName>
                     <persName xml:lang="grc" type="epithet" subtype="SymeonArchimandrite" key="Archimandrite">ὁ Ἀρχιμανδρίτης</persName>
                     <persName xml:lang="en" type="epithet" subtype="SymeonArchimandrite" key="Archimandrite">Archimandrite</persName>
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2181212</idno>                   
+                    <idno type="wikidata">PENDING</idno>                   
+                </person>
+                
+                <person xml:id="SymeonYounger">
+                    <persName xml:lang="grc">Συμεών Στυλίτης ὁ Θαυμαστορείτης</persName>
+                    <persName xml:lang="en">Symeon Stylites the Younger</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="SymeonYounger" key="Thaumatourgos">ὁ Θαυματουργός</persName>
+                    <persName xml:lang="en" type="epithet" subtype="SymeonYounger" key="Thaumatourgos">Thaumatourgos</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2742399</idno>                   
                 </person>
                 
                 <person xml:id="Thomas">
