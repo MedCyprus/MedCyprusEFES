@@ -76,15 +76,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-              <lb n="1"/><g ref="#cross">+</g>Τὴν <w lemma="ψυχοβλαβής">ψυχο             
+              <lb n="1"/><g ref="#cross">+</g>Τὴν <w lemma="ψυχοβλαβής">ψυχο          
               <lb n="2" break="no"/>βλαβὴ</w>
+              <lb n="3"/><gap reason="lost" extent="3" unit="character"></gap>
               </ab>
             </div>
             <div type="apparatus">
                 <p>PENDING</p>
                  </div>
             <div type="translation">
-                <p>Τhat is injuring the soul</p> 
+                <p>Τhat is injuring the soul [...]</p> 
             </div>
             <div type="commentary">
                 <p>Partially preserved. A cross with arrays in the angles marks the beginning of the text.</p>
