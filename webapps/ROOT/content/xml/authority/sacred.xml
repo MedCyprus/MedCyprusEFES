@@ -280,6 +280,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q468685</idno>                   
                 </person>
                 
+                <person xml:id="Hypatios">
+                    <persName xml:lang="grc">Ὑπάτιος</persName>
+                    <persName xml:lang="en">Hypatios</persName> 
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2667621</idno>                   
+                </person>
+                
                 <person xml:id="IgnatiosTheophoros">
                     <persName xml:lang="grc">Ἰγνάτιος ὁ Θεοφόρος</persName>
                     <persName xml:lang="en">Ignatios Theophoros</persName> 
@@ -352,6 +358,14 @@
                     <persName xml:lang="grc">Ἰωσήφ</persName>
                     <persName xml:lang="en">Joseph</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q128267</idno>                   
+                </person>
+                
+                <person xml:id="JosephPoet">
+                    <persName xml:lang="grc">Ἰωσήφ ὁ Ποιητής</persName>
+                    <persName xml:lang="en">Joseph the Poet</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JosephPoet" key="Poet">ὁ Ποιτητής</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JosephPoet" key="Poet">Poet</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2282958</idno>                   
                 </person>
                 
                 <person xml:id="KosmasPoet">
@@ -593,6 +607,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q357093</idno>                   
                 </person>
                 
+                <person xml:id="Stephen">
+                    <persName xml:lang="grc">Στέφανος</persName>
+                    <persName xml:lang="en">Stephen</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="Stephan" key="Protomartyr">ὁ Πρωτομάρτυρας</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Stephan" key="Protomartyr">Protomartyr</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q161775</idno>                   
+                </person>
+                
                 <person xml:id="Stylianos">
                     <persName xml:lang="grc">Στυλιανός</persName>
                     <persName xml:lang="en">Stylianos</persName>
@@ -607,11 +629,11 @@
                     <idno type="wikidata">PENDING</idno>                   
                 </person>
                 
-                <person xml:id="SymeonYounger">
+                <person xml:id="SymeonMiracleWorker">
                     <persName xml:lang="grc">Συμεών Στυλίτης ὁ Θαυμαστορείτης</persName>
-                    <persName xml:lang="en">Symeon Stylites the Younger</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="SymeonYounger" key="Thaumatourgos">ὁ Θαυματουργός</persName>
-                    <persName xml:lang="en" type="epithet" subtype="SymeonYounger" key="Thaumatourgos">Thaumatourgos</persName>
+                    <persName xml:lang="en">Symeon Stylites the Miracle-Worker</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="SymeonMiracleWorker" key="Thaumatourgos">ὁ Θαυματουργός</persName>
+                    <persName xml:lang="en" type="epithet" subtype="SymeonMiracleWorker" key="Thaumatourgos">Thaumatourgos</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2742399</idno>                   
                 </person>
                 
