@@ -374,6 +374,9 @@
                     <item xml:id="JohnMerciful">
                         <term xml:lang="en">John the Merciful</term>
                     </item>
+                    <item xml:id="Kyprianos">
+                        <term xml:lang="en">Kyprianos</term>
+                    </item>
                     <item xml:id="Lazaros">
                         <term xml:lang="en">Lazaros</term>
                     </item>
@@ -500,6 +503,9 @@
                     </item>
                     <item xml:id="SymeonArchimandrite"> 
                         <term xml:lang="en">Symeon the Archimandrite</term>
+                    </item>
+                    <item xml:id="SymeonYounger">
+                        <term xml:lang="en">Symeon Stylites the Younger</term>
                     </item>
                     <!-- ... -->
                 </list></item> 
