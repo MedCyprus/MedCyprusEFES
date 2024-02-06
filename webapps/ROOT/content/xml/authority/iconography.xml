@@ -374,6 +374,9 @@
                     <item xml:id="JohnMerciful">
                         <term xml:lang="en">John the Merciful</term>
                     </item>
+                    <item xml:id="Kyprianos">
+                        <term xml:lang="en">Kyprianos</term>
+                    </item>
                     <item xml:id="Lazaros">
                         <term xml:lang="en">Lazaros</term>
                     </item>
@@ -385,6 +388,9 @@
                     </item>
                     <item xml:id="Nicholas">
                         <term xml:lang="en">Nicholas</term>
+                    </item>
+                    <item xml:id="Nikanor">
+                        <term xml:lang="en">Nikanor</term>
                     </item>
                     <item xml:id="Philagrios"> 
                         <term xml:lang="en">Philagrios</term>
@@ -495,6 +501,12 @@
                     <item xml:id="daniel_stylite"> 
                         <term xml:lang="en">Daniel</term>
                     </item>
+                    <item xml:id="SymeonArchimandrite"> 
+                        <term xml:lang="en">Symeon the Archimandrite</term>
+                    </item>
+                    <item xml:id="SymeonYounger">
+                        <term xml:lang="en">Symeon Stylites the Younger</term>
+                    </item>
                     <!-- ... -->
                 </list></item> 
                 <item><list type="Military_Saints">
@@ -604,6 +616,16 @@
                 </list></item>
             <!-- ... -->
             </list>
+            
+            <list type="Hymnographers">
+                <head>Hymnographers</head>
+                
+                <item xml:id="TheophanesPoet"> 
+                    <term xml:lang="en">Theophanes the Poet</term>
+                </item>
+                <item xml:id="KosmasPoet"> 
+                    <term xml:lang="en">Kosmas the Poet</term>
+                </item></list>
             
             <list type="supplicants">
                 <head>Supplicants</head> <!--number of monument to facilitate identification? Can the number be "live"?--> 
