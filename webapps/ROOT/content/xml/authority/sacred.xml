@@ -300,6 +300,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44170</idno>                   
                 </person>
                 
+                <person xml:id="Jeremiah">
+                    <persName xml:lang="grc">Ἱερεμίας</persName>
+                    <persName xml:lang="en">Jeremiah</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q158825</idno>                   
+                </person>
+                
                 <person xml:id="Joachim">
                     <persName xml:lang="grc">Ἰωακείμ</persName>
                     <persName xml:lang="en">Joachim</persName>
