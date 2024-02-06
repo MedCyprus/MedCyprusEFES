@@ -386,6 +386,9 @@
                     <item xml:id="Nicholas">
                         <term xml:lang="en">Nicholas</term>
                     </item>
+                    <item xml:id="Nikanor">
+                        <term xml:lang="en">Nikanor</term>
+                    </item>
                     <item xml:id="Philagrios"> 
                         <term xml:lang="en">Philagrios</term>
                     </item>
@@ -494,6 +497,9 @@
                     <head>Stylites</head>
                     <item xml:id="daniel_stylite"> 
                         <term xml:lang="en">Daniel</term>
+                    </item>
+                    <item xml:id="SymeonArchimandrite"> 
+                        <term xml:lang="en">Symeon the Archimandrite</term>
                     </item>
                     <!-- ... -->
                 </list></item> 
@@ -607,8 +613,12 @@
             
             <list type="Hymnographers">
                 <head>Hymnographers</head>
+                
                 <item xml:id="TheophanesPoet"> 
-                    <term xml:lang="en">Theophanes the poet</term>
+                    <term xml:lang="en">Theophanes the Poet</term>
+                </item>
+                <item xml:id="KosmasPoet"> 
+                    <term xml:lang="en">Kosmas the Poet</term>
                 </item></list>
             
             <list type="supplicants">
