@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against red background. The inscription is written entirely in majuscule. The sigla Ἰ(ησοῦ)ς Χ(ριστό)ς are fully rendered by an abbreviation with a big, wavy line above each word.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,7 +76,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς Χριστός"> <expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς<am> &#x00A0;῀&#x00A0;</am></abbr></expan>
+                    <milestone unit="column" n="right"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></name></persName>  
               </ab>
             </div>
             <div type="apparatus">
@@ -86,11 +87,11 @@
                 <p>Christ Emmanuel</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
