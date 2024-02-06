@@ -398,6 +398,9 @@
                     <item xml:id="Spyridon">
                         <term xml:lang="en">Spyridon</term>
                     </item>
+                    <item xml:id="Stephen">
+                        <term xml:lang="en">Stephen</term>
+                    </item>
                     <item xml:id="Triphyllios">
                         <term xml:lang="en">Triphyllios</term>
                     </item>
@@ -406,6 +409,9 @@
                     </item>
                     <item xml:id="Tychon">
                         <term xml:lang="en">Tychon</term>
+                    </item>
+                    <item xml:id="Hypatios">
+                        <term xml:lang="en">Hypatios</term>
                     </item>
                     <item xml:id="Zenon"> 
                         <term xml:lang="en">Zenon</term>
@@ -504,8 +510,8 @@
                     <item xml:id="SymeonArchimandrite"> 
                         <term xml:lang="en">Symeon the Archimandrite</term>
                     </item>
-                    <item xml:id="SymeonYounger">
-                        <term xml:lang="en">Symeon Stylites the Younger</term>
+                    <item xml:id="SymeonMiracleWorker">
+                        <term xml:lang="en">Symeon the Miracle-Worker</term>
                     </item>
                     <!-- ... -->
                 </list></item> 
@@ -620,6 +626,9 @@
             <list type="Hymnographers">
                 <head>Hymnographers</head>
                 
+                <item xml:id="JosephPoet"> 
+                    <term xml:lang="en">Joseph the Poet</term>
+                </item>
                 <item xml:id="TheophanesPoet"> 
                     <term xml:lang="en">Theophanes the Poet</term>
                 </item>
