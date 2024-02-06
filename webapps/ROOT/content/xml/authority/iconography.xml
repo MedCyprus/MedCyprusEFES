@@ -279,9 +279,13 @@
                     <item xml:id="daniel"> 
                         <term xml:lang="en">Daniel</term>
                     </item>
-                    
+                                                        
                     <item xml:id="david"> 
                         <term xml:lang="en">David</term>
+                    </item>
+                    
+                    <item xml:id="Isaiah"> 
+                        <term xml:lang="en">Isaiah</term>
                     </item>
                     
                     <item xml:id="JohnForerunner"> 
@@ -397,6 +401,9 @@
                     </item>
                     <item xml:id="Spyridon">
                         <term xml:lang="en">Spyridon</term>
+                    </item>
+                    <item xml:id="Stachios">
+                        <term xml:lang="en">Stachios</term>
                     </item>
                     <item xml:id="Stephen">
                         <term xml:lang="en">Stephen</term>
