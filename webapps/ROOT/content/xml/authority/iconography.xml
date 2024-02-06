@@ -605,6 +605,12 @@
             <!-- ... -->
             </list>
             
+            <list type="Hymnographers">
+                <head>Hymnographers</head>
+                <item xml:id="TheophanesPoet"> 
+                    <term xml:lang="en">Theophanes the poet</term>
+                </item></list>
+            
             <list type="supplicants">
                 <head>Supplicants</head> <!--number of monument to facilitate identification? Can the number be "live"?--> 
                 <item><list type="donor_portrait">
