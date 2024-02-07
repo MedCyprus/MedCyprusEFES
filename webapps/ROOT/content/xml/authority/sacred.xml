@@ -83,7 +83,7 @@
                 <person xml:id="Auxentios">
                     <persName xml:lang="grc">Aὐξέντιος</persName>
                     <persName xml:lang="en">Auxentios</persName>
-                    <idno type="wikidata">not listed</idno>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q54366475</idno>                   
                 </person>
                 
                 <person xml:id="Auxibios">
@@ -213,6 +213,18 @@
                     <persName xml:lang="grc">Ἐπιφάνιος</persName>
                     <persName xml:lang="en">Epiphanios</persName>               
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q313922</idno>                   
+                </person>
+                
+                <person xml:id="Eugenios">
+                    <persName xml:lang="grc">Εὐγένιος</persName>
+                    <persName xml:lang="en">Eugenios</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q3567462</idno>                   
+                </person>
+                
+                <person xml:id="Eustratios">
+                    <persName xml:lang="grc">Εὐστράτιος</persName>
+                    <persName xml:lang="en">Eustratios</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q3463776</idno>                   
                 </person>
                 
                 <person xml:id="Euthymios">
@@ -501,7 +513,7 @@
                 <person xml:id="Mardarios">
                     <persName xml:lang="grc">Μαρδάριος</persName>
                     <persName xml:lang="en">Mardarios</persName> 
-                    <idno type="wikidata">not listed</idno>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q54366475</idno>                   
                 </person>
                 
                 <person xml:id="Maria">
@@ -617,6 +629,12 @@
                     <persName xml:lang="grc">Ονούφριος</persName>
                     <persName xml:lang="en">Onouphrios</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q464959</idno>                   
+                </person>
+                
+                <person xml:id="Orestes">
+                    <persName xml:lang="grc">Ὀρέστης</persName>
+                    <persName xml:lang="en">Orestes</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q7101660</idno>                   
                 </person>
                 
                 <person xml:id="Paul">
