@@ -293,6 +293,10 @@
                         <term xml:lang="en">Elijah</term>
                     </item>
                     
+                    <item xml:id="Ezekiel"> 
+                        <term xml:lang="en">Ezekiel</term>
+                    </item>
+                    
                     <item xml:id="Gedeon"> 
                         <term xml:lang="en">Gedeon</term>
                     </item>
@@ -311,6 +315,10 @@
                     
                     <item xml:id="JohnForerunner"> 
                         <term xml:lang="en">John the Forerunner</term>
+                    </item>
+                    
+                    <item xml:id="Jonah"> 
+                        <term xml:lang="en">Jonah</term>
                     </item>
                     
                     <item xml:id="ResurrectionJohnForerunner"> 
