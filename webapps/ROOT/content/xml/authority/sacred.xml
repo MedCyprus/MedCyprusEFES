@@ -221,6 +221,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q441249</idno>                   
                 </person>
                 
+                <person xml:id="Ezekiel">
+                    <persName xml:lang="grc">Ἰεζεκιήλ</persName>
+                    <persName xml:lang="en">Ezekiel</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q194064</idno>                   
+                </person>
+                
                 <person xml:id="Fathers">
                     <persName xml:lang="grc"> <seg>οἱ</seg> τριακόσιοι δεκαοκτὼ θεοφόροι Πατέρες</persName>
                     <persName xml:lang="en">318 Godbearing Fathers (of the First Ecumenical Council) </persName>
@@ -394,6 +400,12 @@
                     <persName xml:lang="grc" type="epither" subtype="JohnTheologian" key="Evangelist">ὁ Εὐαγγελιστῆς</persName>
                     <persName xml:lang="grc" type="epither" subtype="JohnTheologian" key="Evangelist">Evangelist</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q328804</idno>                   
+                </person>
+                
+                <person xml:id="Jonah">
+                    <persName xml:lang="grc">Ἰωνάς</persName>
+                    <persName xml:lang="en">Jonah</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2468262</idno>                   
                 </person>
                 
                 <person xml:id="Joseph">
