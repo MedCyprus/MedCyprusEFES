@@ -38,7 +38,8 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black letters against ochre background. Majuscule letters. Chraracters' size varies. The doulbe dots after the words ἀμαρτίας, φρίκης, and logon probably denote the end of the verses. Systamic use of accents.
+                                Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -77,21 +78,26 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                  
               </ab>
             </div>
             <div type="apparatus">
                 <p>PENDING</p>
                  </div>
             <div type="translation">
-                <p>PENDING</p> 
+                <p>And you, (O) Virgin, in death [..]
+                   redemption of sin [...]
+                   [is] the miracle, and full of every (kind of) fright
+                   But (it/he/she) will not possess/restaint the [...]
+                   [she who] bears the Lord the Logos (<bibl><ptr target="#Ševčenko2012"/>, <citedRange> 81</citedRange></bibl></p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Poor condition. Partially preserved. A cross with arrays in the angles marks the end of the text. Based on the other examples (metrical inscriptions), a similar cross could have occurred at the beginning of the text.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                   <bibl><ptr target="#Rhoby2009"/>,<citedRange> 347-48</citedRange></bibl>
+                    <bibl><ptr target="#Ševčenko2012"/>, <citedRange> 81</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
