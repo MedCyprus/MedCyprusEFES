@@ -276,7 +276,8 @@
                 
                 <item><list type="Prophets">
                     <head>Prophets</head>
-                    <item xml:id="daniel"> 
+                    
+                    <item xml:id="Daniel"> 
                         <term xml:lang="en">Daniel</term>
                     </item>
                                                         
@@ -284,8 +285,16 @@
                         <term xml:lang="en">David</term>
                     </item>
                     
+                    <item xml:id="Elisha"> 
+                        <term xml:lang="en">Elisha</term>
+                    </item>
+                    
                     <item xml:id="Elijah"> 
                         <term xml:lang="en">Elijah</term>
+                    </item>
+                    
+                    <item xml:id="Gedeon"> 
+                        <term xml:lang="en">Gedeon</term>
                     </item>
                     
                     <item xml:id="Isaiah"> 
