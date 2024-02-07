@@ -183,6 +183,12 @@
                     <note>See also: Theotokos, Virgin, Maria</note>
                 </person>-->
                 
+                <person xml:id="Elijah">
+                    <persName xml:lang="grc">Ἠλίας</persName>
+                    <persName xml:lang="en">Elijah</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q133507</idno>                   
+                </person>
+                
                 <person xml:id="EphraimSyrian">
                     <persName xml:lang="grc">Ἐφραίμ</persName>
                     <persName xml:lang="en">Ephraim</persName>     
