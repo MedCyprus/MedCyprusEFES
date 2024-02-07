@@ -196,7 +196,11 @@
                     <term xml:lang="en">Joseph</term>
                 </item>
                 
-                <item xml:id="mardarios"> 
+                <item xml:id="Luke"> 
+                    <term xml:lang="en">Luke the Evangelist </term>
+                </item>
+                
+                <item xml:id="Mardarios"> 
                     <term xml:lang="en">Mardarios</term>
                 </item>
                 
@@ -319,6 +323,10 @@
                     
                     <item xml:id="Jonah"> 
                         <term xml:lang="en">Jonah</term>
+                    </item>
+                    
+                    <item xml:id="Moses"> 
+                        <term xml:lang="en">Moses</term>
                     </item>
                     
                     <item xml:id="ResurrectionJohnForerunner"> 
