@@ -154,6 +154,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q193507</idno>                   
                 </person>
                 
+                <person xml:id="Daniel">
+                    <persName xml:lang="grc">Δανιήλ</persName>
+                    <persName xml:lang="en">Daniel</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q171724</idno>                   
+                </person>
+                
                 <person xml:id="David">
                     <persName xml:lang="grc">Δαυΐδ</persName>
                     <persName xml:lang="en">David</persName>                   
@@ -187,6 +193,12 @@
                     <persName xml:lang="grc">Ἠλίας</persName>
                     <persName xml:lang="en">Elijah</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q133507</idno>                   
+                </person>
+                
+                <person xml:id="Elisha">
+                    <persName xml:lang="grc">Ἐλισσαίος</persName>
+                    <persName xml:lang="en">Elisha</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q206238</idno>                   
                 </person>
                 
                 <person xml:id="EphraimSyrian">
@@ -225,6 +237,12 @@
                     <persName xml:lang="grc">Γαβριήλ</persName>
                     <persName xml:lang="en">Gabriel</persName>   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q81989</idno>                   
+                </person>
+                
+                <person xml:id="Gedeon">
+                    <persName xml:lang="grc">Γεδεών</persName>
+                    <persName xml:lang="en">Gedeon</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q176125</idno>                   
                 </person>
                 
                 <person xml:id="George">
