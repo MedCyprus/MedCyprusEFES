@@ -280,8 +280,12 @@
                         <term xml:lang="en">Daniel</term>
                     </item>
                                                         
-                    <item xml:id="david"> 
+                    <item xml:id="David"> 
                         <term xml:lang="en">David</term>
+                    </item>
+                    
+                    <item xml:id="Elijah"> 
+                        <term xml:lang="en">Elijah</term>
                     </item>
                     
                     <item xml:id="Isaiah"> 
