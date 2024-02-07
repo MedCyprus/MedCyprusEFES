@@ -77,8 +77,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                <ab>
-                   <lb n="1"/><w lemma="δέησις"><expan><abbr rend="supraline">Δέ</abbr><ex>ησις</ex></expan></w> τῆς <w lemma="δούλη">δ<hi rend="ligature">ού</hi>λ<hi rend="ligature">ης</hi></w> τοῦ <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></w></persName> <persName type="attested" role="donor" ref="#AnastasiaSaramalyna"><name nymRef="#Ἀναστασία" type="forename">Ἀναστασί<hi rend="ligature">ας·</hi></name>
-                   <lb n="2"/> τῆς <name nymRef="#Σαραμαλύνα" type="surname">Σαραμάλυνας:-</name></persName>
+                   <lb n="1"/><w lemma="δέησις"><expan><abbr rend="supraline">Δέ</abbr><ex>ησις</ex></expan></w> τῆς <w lemma="δούλη">δ<hi rend="ligature">ού</hi>λ<hi rend="ligature">ης</hi></w> τοῦ <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></w></persName> <persName type="attested" role="donor" ref="#AnastasiaSaramalyna"><name nymRef="#Ἀναστασία" type="forename">Ἀναστασί<expan><ex>ας·</ex></expan>
+                   <lb n="2"/> τῆς <name nymRef="#Σαραμαλύνα" type="surname">Σαραμάλυνας:-</name></name></persName>
                </ab> 
             </div>
             <div type="apparatus">
