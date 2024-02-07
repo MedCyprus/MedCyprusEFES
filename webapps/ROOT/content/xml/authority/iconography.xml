@@ -151,11 +151,7 @@
             
             <list type="individual_saintly_figures">
                 <head>Individual saintly figures</head>
-                
-                <item xml:id="auxentios"> 
-                    <term xml:lang="en">Auxentios</term>
-                </item>
-                
+                                                
                 <item xml:id="Christ">
                 <term xml:lang="en">Christ</term>
                     </item>
@@ -187,7 +183,7 @@
                 <item xml:id="ChristResurrection">
                     <term xml:lang="en">Christ Resurrection</term>
                 </item>
-                                   
+                                                                  
                 <item xml:id="Joachim"> 
                     <term xml:lang="en">Joachim</term>
                 </item>
@@ -616,8 +612,20 @@
                         <term xml:lang="en">Anastasia the Poison-curer (Pharmakolytria) </term>
                     </item>
                     
+                    <item xml:id="Auxentios"> 
+                        <term xml:lang="en">Auxentios</term>
+                    </item>
+                    
                     <item xml:id="Barbara"> 
                         <term xml:lang="en">Barbara</term>
+                    </item>
+                    
+                    <item xml:id="Eugenios"> 
+                        <term xml:lang="en">Eugenios</term>
+                    </item>
+                    
+                    <item xml:id="Eustratios"> 
+                        <term xml:lang="en">Eustratios</term>
                     </item>
                     
                     <item xml:id="hermolaos"> 
@@ -646,6 +654,10 @@
                     
                     <item xml:id="Nikon"> 
                         <term xml:lang="en">Nikon</term>
+                    </item>
+                    
+                    <item xml:id="Orestes"> 
+                        <term xml:lang="en">Orestes</term>
                     </item>
                     
                     <item xml:id="Phloros">
