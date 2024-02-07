@@ -30,7 +30,7 @@
                                 <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#narthex">Narthex, south conch, semicylindrical wall, central scene</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                          <dimensions unit="cm" scope="text"><height>37</height><width unit="cm">67</width></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote> White letters against blue background. The inscription is written in majuscule letters. Short, double, horizontal lines decorate the iota, and the vertical pars of pi, gama and tau. Omega with crosslet. Letters TΗΡ, TΩ, ΡΗ, ΤΗΝ, ΤΟΥ, ΜΜ, ΟΥ, ΜΑΡ, ΤΥ, TH, NH, ΤΩ, ΦΟ, NK, ΑΥ, ΝΤ in ligatures. The inscription is made up of eight lines, which correspond to eight metrical verses and one unmetrical line. Τhe dot, middle dot, and the double dots after the words Νικηφόρος, πόθῳ, εἰκόνα, Γεωργίου, Φορβίων, κρίσει, σταφανίτην, and  denote the end of the verses. Almost systematic use of accents and breathings. Letter height: <height unit="cm">2,5-3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -80,20 +80,29 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <lg met="Dodecasyllable">
-               <l n="1"><lb n="1"/>PENDING</l>
-                </lg></div>
+               <l><lb n="1"/><g ref="#cross">+</g><choice><orig>Ί</orig><reg>Ἵ</reg></choice>ππων ἀκεστὴρ εὐσεβὴς Νικηφόρος·</l><l>θερμῶ κινηθεὶς <lb n="2"/>ἐνδιαθέτω πόθω·</l><l>ἀνιστόρησεν ἐμφερῶς τὴν εἰκόνα:</l><l><lb n="3"/>τοῦ παμμεγίστου μάρτυρος Γεωργίου:</l><l>κἀν τῆδε σεπτῶς τῆ μονῆ τῶν <lb n="4"/>φορβίω<expan><ex>ν</ex></expan></l> <l>ποθῶν ἐφευρεῖν ἀντίληψιν <choice><orig>ε</orig><reg>ἐ</reg></choice>ν κρίσει:</l><l>τ<choice><orig>ὼ</orig><reg>ῶ</reg></choice> ὑπεραυγῆ <lb n="5"/>μάρτυρα στε<unclear>φ</unclear>ανίτη<unclear>ν</unclear></l><l><expan><abbr>κ</abbr><ex>αὶ</ex></expan> τ<supplied reason="lost">ὰ</supplied>ς προσευχ<expan><ex>ὰς</ex></expan> τῶν μενόντων <lb n="6"/>ἐνθάδε:-</l></lg> 
+                <lb n="7"/><w lemma="δέησις"><expan><abbr rend="supraline">Δέ</abbr><ex>ησις</ex></expan></w> Νικηφό <lb n="8" break="no"/>ρου τοῦ Καλληά
+            </div>
             <div type="apparatus">
                 <p>PENDING</p>
                  </div>
-            <div type="translation">
-                <p>PENDING</p> 
+            <div type="translation"> 
+                <p>A healer of horses, Nikephoros the pious,
+                moved by warm heartfelt desire with like feeling painted the image 
+                of the very great martyr George;
+                amd revently in this monastery of the Phorbia,
+                desirous of finding help at [the] Judjement from the most brilliant crowned martyr, and the prayers of those dwelling here.
+                Invocation of Nikephoros the farrier (?)</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition. A cross marks the beginning and the end of the text.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                 <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 12-3</citedRange></bibl>  
+                <bibl><ptr target="#Rhoby2009"/>,<citedRange> 342</citedRange></bibl>
+                 <bibl><ptr target="#Ševčenko2012"/>,<citedRange> 82</citedRange></bibl>
+                 <bibl><ptr target="#VisCult"/>,<citedRange> 190</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
