@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background.The inscription is written entirely in majuscule. Letters' size varies. Mu, with its middle bar split into two parts, the upper part in the shape of an upsilon above a iota-shaped element with a dot at the top. Short lines suspending from the horizontal bars of eta and theta. The sigla Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a wavy line above each word. There is a ligature of the letters ΜΗΡ. The epithet ἡ Φορβιώτισσα is divided in two columns. Sporadic use of accents and breathings. Systematic use of accents and breathings of the modern variety (circular).
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -78,7 +78,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><persName type="sacred" key="MeterTheou"><name nymRef="#Μήτηρ Θεοῦ"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
+                    <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></name></persName> 
+                   <lb n="2"/>Ἡ <addName type="epithet" key="Phorbiotissa">Φορβ<choice><orig>ῖ<reg>ι</reg></orig></choice> <milestone unit="column" n="right"/>ότισσα</addName>        
               </ab>
             </div>
             <div type="apparatus">
@@ -88,11 +90,11 @@
                 <p>Mother of God Phorbiotissa</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Very good condition. The epithet Φορβιώτισσα is misspelled.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                   <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 12</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
