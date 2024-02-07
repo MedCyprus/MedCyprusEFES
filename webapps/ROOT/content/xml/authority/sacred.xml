@@ -279,6 +279,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q191734</idno>                   
                 </person>
                 
+                <person xml:id="Habakkuk">
+                    <persName xml:lang="grc">Γεδεών</persName>
+                    <persName xml:lang="en">Gedeon</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q176125</idno>                   
+                </person>
+                
                 <person xml:id="Helena">
                     <persName xml:lang="grc">Ἑλένη</persName>
                     <persName xml:lang="en">Helena</persName>
@@ -580,13 +586,7 @@
                     <persName xml:lang="en">Nikon</persName>               
                     <idno type="wikidata">not listed</idno>                   
                 </person>
-                
-                <person xml:id="Jeremiah">
-                    <persName xml:lang="grc">Ἱερεμίας</persName>
-                    <persName xml:lang="en">Jeremiah</persName>                   
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q158825</idno>                   
-                </person>
-                
+                                              
                 <person xml:id="Onouphrios">
                     <persName xml:lang="grc">Ονούφριος</persName>
                     <persName xml:lang="en">Onouphrios</persName>                   
