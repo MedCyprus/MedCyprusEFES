@@ -1370,7 +1370,7 @@
                 <place xml:id="Asinou" n="44">
                     <placeName xml:lang="en">Nikitari, Panagia Phorbiotissa or Asinou</placeName>
                     <placeName xml:lang="en">Niketari, Panagia Phorbiotissa or Asinou</placeName>
-                    <placeName xml:lang="el">Νικιτάρι, Παναγία Φορβιώτισσα ή της Ασίνου</placeName>
+                    <placeName xml:lang="el">Νικητάρι, Παναγία ἡ Φορβιώτισσα ή τὴς Ἀσίνου</placeName>
                     <placeName type="district" ref="district.xml#Nicosia">Nicosia</placeName>
                     <placeName type="diocese" ref="diocese.xml#Morphou">Bishopric of Morphou</placeName>
                     <location><geo>35.04630695352788, 32.97334536642621</geo></location>
@@ -1380,9 +1380,10 @@
                     <desc type="architectural">Single barrel-vaulted church with a second timber gable roof and narthex</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date when="1105" precision="high">1105/6</date> (bema, nave, narthex)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1151" notAfter="1200" precision="medium">Second half of the 12th century</date> (narthex: south conch: Saint George)</desc><desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="medium"> Late 13th century </date> (bema, nave, narthex: south conch: semidome, semicylindrical wall: St. Anastasia Pharmakolytria with the donor Anastasia Saramalina )</desc>   
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1151" notAfter="1200" precision="medium">Second half of the 12th century</date> (narthex: south conch: Saint George)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="medium"> Late 13th century </date> (bema, nave, narthex: south conch: semidome, semicylindrical wall: St. Anastasia Pharmakolytria with the donor Anastasia Saramalina )</desc>   
                         <desc type="layer" n="4">4th layer: <date when="1332" precision="high">1332/3</date> (nave, narthex)</desc>
-                        <desc type="layer" n="5">5th layer: <date notBefore="1601" notAfter="1650" precision="medium"> First half of the 17th century</date>(Christ Emmanuel: now in bema)</desc>
+                        <desc type="layer" n="5">5th layer: <date notBefore="1601" notAfter="1650" precision="medium"> First half of the 17th century</date> (Christ Emmanuel: now in bema)</desc>
                     </desc>
                     <desc type="conservation">1954-1955, 1965-1967 (Dumbarton Oaks Centre), 1995-1996</desc>
                     <desc type="donors">Nikephoros Ischyrios</desc>
