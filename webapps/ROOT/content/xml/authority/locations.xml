@@ -1338,7 +1338,7 @@
                 </place>
                 
                 
-                <place xml:id="Menas" n="44">
+                <!--<place xml:id="Menas" n="44">
                     <placeName xml:lang="en">Neo Chorio (Pafou), Saint Menas</placeName>
                     <placeName xml:lang="en">Neo Chorio (Paphos), Saint Menas</placeName>
                     <placeName xml:lang="el">...</placeName>
@@ -1365,9 +1365,9 @@
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
-                </place>
+                </place>-->
                 
-                <place xml:id="Asinou" n="45">
+                <place xml:id="Asinou" n="44">
                     <placeName xml:lang="en">Nikitari, Panagia Phorbiotissa or Asinou</placeName>
                     <placeName xml:lang="en">Niketari, Panagia Phorbiotissa or Asinou</placeName>
                     <placeName xml:lang="el">...</placeName>
