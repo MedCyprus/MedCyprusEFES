@@ -1380,8 +1380,7 @@
                     <desc type="architectural">Single barrel-vaulted church with a second timber gable roof and narthex</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date when="1105" precision="high">1105/6</date> (bema, nave, narthex)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1151" notAfter="1200" precision="medium">Second half of the 12th century</date> (narthex: south conch: Saint George)</desc>
-                <desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="medium"> Late 13th century </date> (bema, nave, narthex: south conch: semidome, semicylindrical wall: St. Anastasia Pharmakolytria with the donor Anastasia Saramalina )</desc>   
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1151" notAfter="1200" precision="medium">Second half of the 12th century</date> (narthex: south conch: Saint George)</desc><desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="medium"> Late 13th century </date> (bema, nave, narthex: south conch: semidome, semicylindrical wall: St. Anastasia Pharmakolytria with the donor Anastasia Saramalina )</desc>   
                         <desc type="layer" n="4">4th layer: <date when="1332" precision="high">1332/3</date> (nave, narthex)</desc>
                         <desc type="layer" n="5">5th layer: <date notBefore="1601" notAfter="1650" precision="medium"> First half of the 17th century</date>(Christ Emmanuel: now in bema)</desc>
                     </desc>
@@ -1394,9 +1393,9 @@
                     <idno type="geonames">https://www.geonames.org/16467/panagia-forviotissa.html</idno>
                     <listBibl type="inscriptions">
                         <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>98-9</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Sacopoulo1966"/><citedRange></citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Stylianou1973"/><citedRange></citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#HadjichristodoulouMyriantheus2002"/><citedRange></citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Sacopoulo1966"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1973"/></bibl>
+                        <bibl><ptr target="bibliography.xml#HadjichristodoulouMyriantheus2002"/></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange> 107-8, 111-2</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange> 334, 341-52</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kalopissi-Verti2012"/><citedRange>115-208</citedRange></bibl>
@@ -1406,7 +1405,7 @@
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>98-9</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1966, 7</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Sacopoulo1966"/><citedRange></citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Sacopoulo1966"/></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1967, 10</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#WinfieldHawkins1967"/><citedRange>260-6</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Winfield1972"/><citedRange>285-91</citedRange></bibl>
@@ -1417,7 +1416,7 @@
                         <bibl><ptr target="bibliography.xml#Kalopissi-Verti2012"/><citedRange>115-208</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#NicolaïdèsWinfield2012"/><citedRange>93-112</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Ševčenko2012"/><citedRange>69-90</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#WeylCarrNicolaïdès2012"/><citedRange></citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#WeylCarrNicolaïdès2012"/></bibl>
                     </listBibl>
                 </place>
                 
