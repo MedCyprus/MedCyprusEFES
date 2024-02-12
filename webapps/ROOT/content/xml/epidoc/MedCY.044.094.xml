@@ -34,11 +34,11 @@
                             </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Above the metrical inscription</layout>
+                                <layout>Above the crowns of the martyrs distributed by Christ</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White letters against blue background. The inscription is made up of two lines and is written in majuscule.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -78,21 +78,22 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                <lb n="1"/><supplied reason="lost">Οἱ</supplied> <supplied reason="lost"><w lemma="ἅγιος">ἅγιοι</w></supplied> <persName type="sacred" key="FortyMartyrs"><name nymRef="#οἱ ἅγιοι Τεσσαράκοντα"><w lemma= "τεσσαράκοντα">τεσσαράκοντα</w></name></persName> <w lemma= "μάρτυρ">μ<supplied reason="lost">άρτυρες</supplied></w> <w lemma="καλλίνικος">καλλίνικοι</w>
+               <lb n="1"/><space quantity="15" unit="character"></space><placeName ref="mentioned_places.xml#sebaste">Σεβ<supplied reason="lost">άστειας</supplied></placeName>
               </ab>
             </div>
             <div type="apparatus">
                 <p>PENDING</p>
                  </div>
             <div type="translation">
-                <p>Forty Μartyrs of Sebaste</p> 
+                <p>[The Forty] gloriously triumphant Μ[artyrs] of Seb[aste]</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Badly damaged.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                    <bibl>Unpublished.</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
