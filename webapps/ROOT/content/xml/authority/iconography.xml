@@ -189,7 +189,7 @@
                 </item>
                 
                 <item xml:id="JosephMnestor"> 
-                    <term xml:lang="en">Joseph, Husband of the Virgin</term>
+                    <term xml:lang="en">Joseph</term>
                 </item>
                 
                 <item xml:id="Luke"> 
@@ -631,6 +631,14 @@
                         <term xml:lang="en">Barbara</term>
                     </item>
                     
+                    <item xml:id="BiblicalMagi">
+                        <term xml:lang="en">Magi</term>
+                    </item>
+                    
+                    <item xml:id="Chariton">
+                        <term xml:lang="en">Chariton</term>
+                    </item>
+                    
                     <item xml:id="Eugenios"> 
                         <term xml:lang="en">Eugenios</term>
                     </item>
@@ -669,6 +677,10 @@
                     
                     <item xml:id="Orestes"> 
                         <term xml:lang="en">Orestes</term>
+                    </item>
+                    
+                    <item xml:id="Panteleimon">
+                        <term xml:lang="en">Panteleimon</term>
                     </item>
                     
                     <item xml:id="Phloros">
