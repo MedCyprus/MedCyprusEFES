@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Joseph">Joseph</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#JosephMnestor">Joseph, Husband of the Virgin</rs></p>
                             </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +73,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="Joseph"><choice><orig>O</orig><reg>Ὁ</reg></choice> <name nymRef="'Ἰωσήφ"><unclear>H</unclear>οσ<choice><orig>η</orig><reg>ή</reg></choice>φ</name></persName>
+                    <lb n="1"/><persName type="sacred" key="JosephMnestor"><choice><orig>O</orig><reg>Ὁ</reg></choice> <name nymRef="'Ἰωσήφ"><unclear>H</unclear>οσ<choice><orig>η</orig><reg>ή</reg></choice>φ</name></persName>
                 </ab>
             </div>
             <div type="apparatus">
