@@ -123,8 +123,14 @@
                     <placeName xml:lang="grc">Ῥώμη</placeName>
                     <placeName xml:lang="ru">Рим</placeName>
                     <idno type="pleiades">http://pleiades.stoa.org/places/423025</idno>
+                </place>>-->
+                 <place xml:id="sebaste">
+                    <placeName xml:lang="grc">Σεβάστεια</placeName>
+                    <placeName xml:lang="en">Sebaste</placeName>
+                    <placeName xml:lang="ru">Сивас</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/609521/?searchterm=sebaste*</idno>
                 </place>
-                <place xml:id="sougdaia">
+               <!--> <place xml:id="sougdaia">
                     <placeName xml:lang="grc">Σουγδαία</placeName>
                     <placeName xml:lang="en">Sougdaia</placeName>
                     <placeName xml:lang="en">Sudak</placeName>
