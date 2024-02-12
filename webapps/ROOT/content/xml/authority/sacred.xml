@@ -128,6 +128,18 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44258</idno>                   
                 </person>
                 
+                <person xml:id="BiblicalMagi">
+                    <persName xml:lang="grc">Μάγοι</persName>
+                    <persName xml:lang="en">Τhree Wise Men</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q51671</idno>                   
+                </person>
+                
+                <person xml:id="Chariton">
+                    <persName xml:lang="grc">Χαρίτων</persName>
+                    <persName xml:lang="en">Chariton</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q984059</idno>                   
+                </person>
+                
                 <person xml:id="Christ">
                     <persName xml:lang="grc">Χριστός</persName>
                     <persName xml:lang="en">Christ</persName>
@@ -442,6 +454,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2468262</idno>                   
                 </person>
                 
+                <person xml:id="JosephMartyr">
+                    <persName xml:lang="grc">Ἰωσήφ</persName>
+                    <persName xml:lang="en">Joseph</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q108114654</idno>                   
+                </person>
+                
                 <person xml:id="JosephMnestor">
                     <persName xml:lang="grc">Ἰωσήφ</persName>
                     <persName xml:lang="en">Joseph</persName>
@@ -647,6 +665,12 @@
                     <persName xml:lang="grc">Ὀρέστης</persName>
                     <persName xml:lang="en">Orestes</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q7101660</idno>                   
+                </person>
+                
+                <person xml:id="Panteleimon">
+                    <persName xml:lang="grc">Παντελεήμων</persName>
+                    <persName xml:lang="en">Panteleimon</persName> 
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q378656</idno>                   
                 </person>
                 
                 <person xml:id="Paul">
