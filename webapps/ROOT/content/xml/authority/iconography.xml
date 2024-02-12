@@ -188,8 +188,8 @@
                     <term xml:lang="en">Joachim</term>
                 </item>
                 
-                <item xml:id="Joseph"> 
-                    <term xml:lang="en">Joseph</term>
+                <item xml:id="JosephMnestor"> 
+                    <term xml:lang="en">Joseph, Husband of the Virgin</term>
                 </item>
                 
                 <item xml:id="Luke"> 
@@ -371,6 +371,14 @@
                 <item><list type="Ecclesiastics">
                     <head>Ecclesiastics (prelates, priests, deacons)</head>
                     
+                    <item xml:id="Aeithalas"> 
+                        <term xml:lang="en">Aeithalas</term>
+                    </item>
+                    
+                    <item xml:id="Akepsimas"> 
+                        <term xml:lang="en">Akepsimas</term>
+                    </item>
+                    
                     <item xml:id="Athanasios"> 
                         <term xml:lang="en">Athanasios</term>
                     </item>
@@ -410,6 +418,9 @@
                     </item>
                     <item xml:id="JohnMerciful">
                         <term xml:lang="en">John the Merciful</term>
+                    </item>
+                    <item xml:id="Joseph"> 
+                        <term xml:lang="en">Joseph</term>
                     </item>
                     <item xml:id="Kyprianos">
                         <term xml:lang="en">Kyprianos</term>
