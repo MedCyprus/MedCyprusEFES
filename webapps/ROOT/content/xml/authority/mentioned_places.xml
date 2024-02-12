@@ -17,16 +17,23 @@
     <text>
         <body>
             <listPlace>
+                <place xml:id="AgiosNicholaostisStegis">
+                    <placeName xml:lang="grc">Άγιος Νικόλαος της Στέγης</placeName>
+                    <placeName xml:lang="en">Saint Nicholas of the Roof</placeName>
+                    <idno type="cyprusgazetteer">https://cyprusgazetteer.org/146711/252/</idno>
+                </place>
+                
                 <place xml:id="Pelendri">
                     <placeName xml:lang="grc">Πελένδρι</placeName>
                     <placeName xml:lang="en">Pelendri</placeName>
                     <idno type="cyprusgazetteer">https://cyprusgazetteer.org/hu/64/</idno>
                 </place>
                 
-                <place xml:id="AgiosNicholaostisStegis">
-                    <placeName xml:lang="grc">Άγιος Νικόλαος της Στέγης</placeName>
-                    <placeName xml:lang="en">Saint Nicholas of the Roof</placeName>
-                    <idno type="cyprusgazetteer">https://cyprusgazetteer.org/146711/252/</idno>
+                <place xml:id="Sebaste">
+                    <placeName xml:lang="grc">Σεβάστεια</placeName>
+                    <placeName xml:lang="en">Sebaste</placeName>
+                    <placeName xml:lang="ru">Сивас</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/609521/?searchterm=sebaste*</idno>
                 </place>
                 
                 <!-- <place xml:id="asten">
@@ -124,12 +131,7 @@
                     <placeName xml:lang="ru">Рим</placeName>
                     <idno type="pleiades">http://pleiades.stoa.org/places/423025</idno>
                 </place>>-->
-                 <place xml:id="sebaste">
-                    <placeName xml:lang="grc">Σεβάστεια</placeName>
-                    <placeName xml:lang="en">Sebaste</placeName>
-                    <placeName xml:lang="ru">Сивас</placeName>
-                    <idno type="pleiades">https://pleiades.stoa.org/places/609521/?searchterm=sebaste*</idno>
-                </place>
+                 
                <!--> <place xml:id="sougdaia">
                     <placeName xml:lang="grc">Σουγδαία</placeName>
                     <placeName xml:lang="en">Sougdaia</placeName>
