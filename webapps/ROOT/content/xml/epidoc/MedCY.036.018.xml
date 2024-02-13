@@ -12,7 +12,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.036.018</idno>
+                <idno type="filename">MedCY.036.003</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
                 </availability>
@@ -21,23 +21,23 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>n/a</repository>    
-                        <idno>inventory number</idno>
-                    </msIdentifier>
+                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
-                                <objectType/>Painted Inscription  
-                                    <rs type="placement-building">Nave, northwest recess </rs>
-                                    <dimensions unit="cm"><height>n/a</height><width>n/a</width></dimensions>
-                                    </support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                    <rs type="placement-building" ref="#nave">Nave, northwest recess</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                </support>
                             </supportDesc>
                             <layoutDesc>
                                 <layout>beneath Baptism scene</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>White letters against a blue background <height unit="cm">?</height>
+                             <handNote>PENDING
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -46,9 +46,9 @@
                             <origPlace ref="locations.xml#Lagoudera">Lagoudera, Panagia tou Araka or Arakiotissa </origPlace>
                             <origDate when="1192-12" evidence="internal-date">Indiction 11, December 1192</origDate>
                         </origin>
-                        <provenance type="found"> Findspot and circumstances/context
+                        <provenance when="2022">
                         </provenance>
-                        <provenance type="observed" resp="#tp">
+                        <provenance type="observed" resp="#tp">26-27/09/2022
                         </provenance>
                     </history>
                 </msDesc>
@@ -57,10 +57,10 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#...">...</term>
+                    <term type="textType" ref="text_types.xml#doc14">Funerary inscription</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>Transcription (Th. Petrou), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -77,15 +77,18 @@
                 </ab>
             </div>
             <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
+                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>translation(s)</p>
+                <p>PENDING</p>
             </div>
             <div type="commentary">
-                <p>commentary</p>
+                <p>PENDING</p>
             </div>
             <div type="bibliography">
+                 <listBibl>
+                <bibl>PENDING</bibl>
+                </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
         </body>
