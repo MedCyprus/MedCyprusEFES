@@ -703,8 +703,16 @@
                         <term xml:lang="en">Thekla</term>
                     </item>
                     
+                    <item xml:id="Tryphon"> 
+                        <term xml:lang="en">Tryphon</term>
+                    </item>
+                    
                     <item xml:id="Victor"> 
                         <term xml:lang="en">Victor</term>
+                    </item>
+                    
+                    <item xml:id="Vincent"> 
+                        <term xml:lang="en">Vincent</term>
                     </item>
                     <!-- ... -->
                 </list></item>

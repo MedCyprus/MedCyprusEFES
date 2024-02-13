@@ -879,9 +879,21 @@
                     <persName xml:lang="en">Word of God</persName>
                 </person>
                 
+                <person xml:id="Tryphon">
+                    <persName xml:lang="grc">Τρύφων</persName>
+                    <persName xml:lang="en">Tryphon</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q109859523</idno>                   
+                </person>
+                
                 <person xml:id="Victor">
                     <persName xml:lang="grc">Βίκτωρ</persName>
                     <persName xml:lang="en">Victor</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q269088</idno>                   
+                </person>
+                
+                <person xml:id="Vincent">
+                    <persName xml:lang="grc">Βικέντιος</persName>
+                    <persName xml:lang="en">Vincent</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q269088</idno>                   
                 </person>
                 
