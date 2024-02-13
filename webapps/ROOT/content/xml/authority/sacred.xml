@@ -214,6 +214,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q193507</idno>                   
                 </person>
                 
+                <person xml:id="Damian">
+                    <persName xml:lang="grc">Δαμιανός</persName>
+                    <persName xml:lang="en">Damian</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q76486</idno>                   
+                </person>
+                
                 <person xml:id="Daniel">
                     <persName xml:lang="grc">Δανιήλ</persName>
                     <persName xml:lang="en">Daniel</persName>                   
