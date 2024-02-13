@@ -176,6 +176,16 @@
                         <idno type="PBW">...</idno>-->
                     </person> 
                     
+                    <person xml:id="Nikephoros">
+                        <persName xml:lang="en"><forename>Nikephoros</forename></persName>
+                        <persName xml:lang="grc">Νικηφόρος</persName>
+                        <occupation type="occupation">veterinary doctor</occupation>
+                        <note>Donor of the late-twelfth century frecso of Saint George on horseback in the the narthex of Asinou</note>
+                        <!--<floruit notBefore="..." notAfter="...">...</floruit>
+                        <idno type="wikidata"></idno>
+                        <idno type="PBW">...</idno>-->
+                    </person> 
+                    
                     <person xml:id="NikephorosIschyrios">
                         <persName xml:lang="en"><forename>Nikephoros</forename> <surname>Ischyrios</surname></persName>
                         <persName xml:lang="grc"><forename>Νικηφόρος</forename> <surname>Ἰσχύριος</surname></persName>    
