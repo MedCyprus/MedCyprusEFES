@@ -66,6 +66,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2619342</idno>                   
                 </person>
                 
+                <person xml:id="Anne">
+                    <persName xml:lang="grc">Ἄννα</persName>
+                    <persName xml:lang="en">Anne</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q164294</idno>                   
+                </person>
+                
                 <person xml:id="Antonios">
                     <persName xml:lang="grc">Ἀντώνιος</persName>
                     <persName xml:lang="en">Antonios</persName>
@@ -411,6 +417,8 @@
                 <person xml:id="Joachim">
                     <persName xml:lang="grc">Ἰωακείμ</persName>
                     <persName xml:lang="en">Joachim</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Joachim" key="Rightneous">ὁ Δίκαιος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Joachim" key="Rightneous">Rightneous</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q314700</idno>                   
                 </person>
                 
