@@ -879,6 +879,12 @@
                     <persName xml:lang="en">Word of God</persName>
                 </person>
                 
+                <person xml:id="Victor">
+                    <persName xml:lang="grc">Βίκτωρ</persName>
+                    <persName xml:lang="en">Victor</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q269088</idno>                   
+                </person>
+                
                 <person xml:id="Zenon">
                     <persName xml:lang="grc">Ζήνων</persName>
                     <persName xml:lang="en">Zenon</persName>   
