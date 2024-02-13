@@ -777,6 +777,14 @@
                     <idno type="wikidata">PENDING</idno>                   
                 </person>
                 
+                <person xml:id="SymeonGodReceiver">
+                    <persName xml:lang="grc">Συμεών</persName>
+                    <persName xml:lang="en">Symeon</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="SymeonGodReceiver" key="GodReceiver">ὁ Θεοδόχος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="SymeonGodReceiver" key="GodReceiver">God-receiver</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q345205</idno>                   
+                </person>
+                
                 <person xml:id="SymeonMiracleWorker">
                     <persName xml:lang="grc">Συμεών Στυλίτης ὁ Θαυμαστορείτης</persName>
                     <persName xml:lang="en">Symeon Stylites the Miracle-Worker</persName>
