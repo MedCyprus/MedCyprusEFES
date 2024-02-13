@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote> White letters against blue background. The inscription is written in majuscule letters. Short, double, horizontal lines decorate the iota, and the vertical pars of pi, gama and tau. Omega with crosslet. Letters TΗΡ, TΩ, ΡΗ, ΤΗΝ, ΤΟΥ, ΜΜ, ΟΥ, ΜΑΡ, ΤΥ, TH, NH, ΤΩ, ΦΟ, NK, ΑΥ, ΝΤ in ligatures. The inscription is made up of eight lines, which correspond to eight metrical verses and one unmetrical line. Τhe dot, middle dot, and the double dots after the words Νικηφόρος, πόθῳ, εἰκόνα, Γεωργίου, Φορβίων, κρίσει, σταφανίτην, and  denote the end of the verses. Almost systematic use of accents and breathings. Letter height: <height unit="cm">2,5-3</height>
+                            <handNote> White letters against blue background. The inscription is written in majuscule letters. Characters' size varies. Short, double, horizontal lines decorate the iota, and the vertical bars of pi, gama and tau. Omega with crosslet. Letters TΗΡ, TΩ, ΡΗ, ΤΗΝ, ΤΟΥ, ΜΜ, ΟΥ, ΜΑΡ, ΤΥ, TH, NH, ΤΩ, ΦΟ, NK, ΑΥ, ΝΤ in ligatures. Middle dot and double dots after the words Νικηφόρος, πόθῳ, εἰκόνα, Γεωργίου, Φορβίων, κρίσει, στεφανίτην. Almost systematic use of accents and breathings. Letter height: <height unit="cm">2,5-3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -80,22 +80,25 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <lg met="Dodecasyllable">
-               <l><lb n="1"/><g ref="#cross">+</g><choice><orig>Ί</orig><reg>Ἵ</reg></choice>ππων ἀκεστὴρ εὐσεβὴς Νικηφόρος·</l><l>θερμῶ κινηθεὶς <lb n="2"/>ἐνδιαθέτω πόθω·</l><l>ἀνιστόρησεν ἐμφερῶς τὴν εἰκόνα:</l><l><lb n="3"/>τοῦ παμμεγίστου μάρτυρος Γεωργίου:</l><l>κἀν τῆδε σεπτῶς τῆ μονῆ τῶν <lb n="4"/>φορβίω<expan><ex>ν</ex></expan></l> <l>ποθῶν ἐφευρεῖν ἀντίληψιν <choice><orig>ε</orig><reg>ἐ</reg></choice>ν κρίσει:</l><l>τ<choice><orig>ὼ</orig><reg>ῶ</reg></choice> ὑπεραυγῆ <lb n="5"/>μάρτυρα στε<unclear>φ</unclear>ανίτη<unclear>ν</unclear></l><l><expan><abbr>κ</abbr><ex>αὶ</ex></expan> τ<supplied reason="lost">ὰ</supplied>ς προσευχ<expan><ex>ὰς</ex></expan> τῶν μενόντων <lb n="6"/>ἐνθάδε:-</l></lg> 
-                <lb n="7"/><w lemma="δέησις"><expan><abbr rend="supraline">Δέ</abbr><ex>ησις</ex></expan></w> Νικηφό <lb n="8" break="no"/>ρου τοῦ Καλληά
+               <l><lb n="1"/><g ref="#cross">+</g><w lemma="ἵππος"><choice><orig>Ί</orig><reg>Ἵ</reg></choice>ππων</w> <w lemma="ἀκεστήρ">ἀκεστὴρ</w> <w lemma="εὐσεβής">εὐσεβὴς</w> <persName type="attested" role="donor" ref="#Nikephoros"><name nymRef="#Νικηφόρος" type="forename">Νικηφόρος</name></persName>·</l><l><w lemma="θερμός">θερμῶ</w> <w lemma="κινοῦμαι">κινηθεὶς</w> <lb n="2"/><w lemma="ἐνδιάθετος">ἐνδιαθέτω</w> <w lemma="πόθος">πόθω</w>·</l><l><w lemma="ἀνιστορῶ">ἀνιστόρησεν</w> <w lemma="ἐμφερῶς">ἐμφερῶς</w> τὴν <w lemma="εἰκών">εἰκόνα</w>:</l><l><lb n="3"/>τοῦ <w lemma="παμμέγιστος">παμμεγίστου</w> <w lemma="μάρτυρ">μάρτυρος</w> <persName type="sacred" key="George"><name nymRef="#Γεώργιος">Γεωργίου</name></persName>:</l><l>κἀν <w lemma="τῆδε">τῆδε</w> <w lemma="σεπτῶς">σεπτῶς</w> τῆ <w lemma="μονή">μονῆ</w> τῶν <lb n="4"/><w lemma="φορβή">φορβίω<expan><ex>ν</ex></expan></w></l> <l><w lemma="ποθῶ">ποθῶν</w> <w lemma="ἐφευρίσκω">ἐφευρεῖν</w> <w lemma="ἀντίληψις">ἀντίληψιν</w> <choice><orig>ε</orig><reg>ἐ</reg></choice>ν <w lemma="κρίσις">κρίσει</w>:</l><l>τ<choice><orig>ὼ</orig><reg>ῶ</reg></choice> <w lemma="ὑπεραυγής">ὑπεραυγῆ</w> <lb n="5"/><w lemma="μάρτυρ">μάρτυρα</w> <w lemma="στεφανίτης">στε<unclear>φ</unclear>ανίτη<unclear>ν</unclear></w></l><l><expan><abbr>κ</abbr><ex>αὶ</ex></expan> τ<supplied reason="lost">ὰ</supplied>ς <w lemma="προσευχή">προσευχ<expan><ex>ὰς</ex></expan></w> τῶν <w lemma="μένω">μενόντων</w> <lb n="6"/><w lemma="ἐνθάδε">ἐνθάδε</w>:-</l></lg> 
             </div>
             <div type="apparatus">
                 <p>PENDING</p>
                  </div>
             <div type="translation"> 
                 <p>A healer of horses, Nikephoros the pious,
-                moved by warm heartfelt desire with like feeling painted the image 
+                moved by warm heartfelt desire 
+                with like feeling painted the image 
                 of the very great martyr George;
-                amd revently in this monastery of the Phorbia,
-                desirous of finding help at [the] Judjement from the most brilliant crowned martyr, and the prayers of those dwelling here.
-                Invocation of Nikephoros the farrier (?)</p> 
+                and revently in this monastery of the Phorbia,
+                desirous of finding help at [the] Judjement 
+                from the most brilliant crowned martyr, 
+                and the prayers of those dwelling here.
+                (<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 82</citedRange></bibl>)
+                </p> 
             </div>
             <div type="commentary">
-                <p>Good condition. A cross marks the beginning and the end of the text.</p>
+                <p>Good condition. The inscription is made up of six lines, which correspond to eight metrical verses. A cross marks the beginning and the end of the dedicatory poem. Τhe dot, middle dot, and the double dots after the words Νικηφόρος, πόθῳ, εἰκόνα, Γεωργίου, Φορβίων, κρίσει, and στεφανίτην denote the end of the verses.Τhe donor of the mural icon, the veterinaria of horses Nikephoros, is probably a different person from the Nikephoros mentioned in the invocation that is inscribed below the epigram examined (see MedCY.044.105) (<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 83</citedRange></bibl>; <bibl><ptr target="#VisCult"/>,<citedRange> 189</citedRange></bibl>). </p>
             </div>
             <div type="bibliography">
                 <listBibl> 
