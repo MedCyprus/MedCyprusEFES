@@ -702,6 +702,10 @@
                     <item xml:id="Thekla"> 
                         <term xml:lang="en">Thekla</term>
                     </item>
+                    
+                    <item xml:id="Victor"> 
+                        <term xml:lang="en">Victor</term>
+                    </item>
                     <!-- ... -->
                 </list></item>
                 
