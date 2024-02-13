@@ -548,7 +548,9 @@
                 
                 <person xml:id="Kyriakos">
                     <persName xml:lang="grc">Κυριακός</persName>
-                    <persName xml:lang="en">Kyriakos</persName>               
+                    <persName xml:lang="en">Kyriakos</persName>     
+                    <persName xml:lang="grc" type="epithet" subtype="Kyriakos" key="Anchorite">ὁ Ἀναχωρητής</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Kyriakos" key="Anchorite">Anchorite</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q743246</idno>                   
                 </person>
                 
