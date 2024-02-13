@@ -463,6 +463,8 @@
                 <person xml:id="JosephMnestor">
                     <persName xml:lang="grc">Ἰωσήφ</persName>
                     <persName xml:lang="en">Joseph</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JosephMnestor" key="Dikaios">ὁ Δίκαιος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JosephMnestor" key="Dikaios">Righteous</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q128267</idno>                   
                 </person>
                 
