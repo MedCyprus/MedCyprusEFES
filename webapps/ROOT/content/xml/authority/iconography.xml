@@ -22,6 +22,9 @@
                 <item xml:id="PresentationChristTemple"> 
                     <term xml:lang="en">Presentation of Christ to the temple</term>
                 </item>
+                <item xml:id="Baptism">
+                    <term xml:lang="en">Baptism</term>
+                </item>
                 <item xml:id="LazarosRaising"> 
                     <term xml:lang="en">Raising of Lazaros</term>
                 </item>
@@ -626,7 +629,7 @@
                     <item xml:id="Cosmas"> 
                         <term xml:lang="en">Cosmas</term>
                     </item>
-                    <item xml:id="damian"> 
+                    <item xml:id="Damian"> 
                         <term xml:lang="en">Damian</term>
                     </item>
                     <!-- ... -->
