@@ -22,6 +22,9 @@
                 <item xml:id="PresentationChristTemple"> 
                     <term xml:lang="en">Presentation of Christ to the temple</term>
                 </item>
+                <item xml:id="Baptism">
+                    <term xml:lang="en">Baptism</term>
+                </item>
                 <item xml:id="LazarosRaising"> 
                     <term xml:lang="en">Raising of Lazaros</term>
                 </item>
@@ -154,6 +157,10 @@
                 
                 <item xml:id="Adam">
                     <term xml:lang="en">Adam</term>
+                </item>
+                
+                <item xml:id="Anne"> 
+                    <term xml:lang="en">Anne</term>
                 </item>
                                                 
                 <item xml:id="Christ">
@@ -476,6 +483,9 @@
                     <item xml:id="Hypatios">
                         <term xml:lang="en">Hypatios</term>
                     </item>
+                    <item xml:id="Zacharias">
+                        <term xml:lang="en">Zacharias</term>
+                    </item>
                     <item xml:id="Zenon"> 
                         <term xml:lang="en">Zenon</term>
                     </item>
@@ -619,20 +629,32 @@
                     <item xml:id="Cosmas"> 
                         <term xml:lang="en">Cosmas</term>
                     </item>
-                    <item xml:id="damian"> 
+                    <item xml:id="Damian"> 
                         <term xml:lang="en">Damian</term>
                     </item>
                     <!-- ... -->
                 </list></item>
                 <item><list type="Martyrs">
                     <head>Martyrs</head>
+                                                          
+                    <item xml:id="Abibos"> 
+                        <term xml:lang="en">Abibos</term>
+                    </item>
                     
-                    <!--<item xml:id="Adrianos"> 
-                        <term xml:lang="en">Adrianos</term>
-                    </item>-->
+                    <item xml:id="Akindynos"> 
+                        <term xml:lang="en">Akindynos</term>
+                    </item>
                     
                     <item xml:id="AnastasiaPharmakolytria"> 
                         <term xml:lang="en">Anastasia the Poison-curer (Pharmakolytria) </term>
+                    </item>
+                    
+                    <item xml:id="Anempodistos"> 
+                        <term xml:lang="en">Anempodistos</term>
+                    </item>
+                    
+                    <item xml:id="Aphthonios"> 
+                        <term xml:lang="en">Aphthonios</term>
                     </item>
                     
                     <item xml:id="Auxentios"> 
@@ -651,12 +673,20 @@
                         <term xml:lang="en">Chariton</term>
                     </item>
                     
+                    <item xml:id="Elpidophoros"> 
+                        <term xml:lang="en">Elpidophoros</term>
+                    </item>
+                    
                     <item xml:id="Eugenios"> 
                         <term xml:lang="en">Eugenios</term>
                     </item>
                     
                     <item xml:id="Eustratios"> 
                         <term xml:lang="en">Eustratios</term>
+                    </item>
+                    
+                    <item xml:id="Gourias"> 
+                        <term xml:lang="en">Gourias</term>
                     </item>
                     
                     <item xml:id="hermolaos"> 
@@ -699,8 +729,16 @@
                         <term xml:lang="en">Panteleimon</term>
                     </item>
                     
+                    <item xml:id="Pegasios"> 
+                        <term xml:lang="en">Pegasios</term>
+                    </item>
+                    
                     <item xml:id="Phloros">
                         <term xml:lang="en">Phloros</term>
+                    </item>
+                    
+                    <item xml:id="Samonas">
+                        <term xml:lang="en">Samonas</term>
                     </item>
                     
                     <item xml:id="Thekla"> 

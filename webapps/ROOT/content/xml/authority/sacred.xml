@@ -14,6 +14,12 @@
         <body>
             <listPerson>
                 
+                <person xml:id="Abibos">
+                    <persName xml:lang="grc">Ἄβιβος</persName>
+                    <persName xml:lang="en">Abibos</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q3125328</idno>                   
+                </person>
+                
                 <person xml:id="Abraham">
                     <persName xml:lang="grc">Ἀβραάμ</persName>
                     <persName xml:lang="en">Abraham</persName>                   
@@ -44,6 +50,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q4673101</idno>                   
                 </person>
                 
+                <person xml:id="Akindynos">
+                    <persName xml:lang="grc">Ἀκίνδυνος</persName>
+                    <persName xml:lang="en">Akindynos</persName>                   
+                    <idno type="wikidata">not listed</idno>                   
+                </person>
+                
                 <person xml:id="AnastasiaPharmakolytria">
                     <persName xml:lang="grc">Ἀναστασία</persName>
                     <persName xml:lang="en">Anastasia</persName>
@@ -53,6 +65,12 @@
                 <person xml:id="Andronikos">
                     <persName xml:lang="grc">Ἀνδρόνικος</persName>
                     <persName xml:lang="en">Andronikos</persName>
+                    <idno type="wikidata">not listed</idno>                   
+                </person>
+                
+                <person xml:id="Anempodistos">
+                    <persName xml:lang="grc">Ἀνεμπόδιστος</persName>
+                    <persName xml:lang="en">Anempodistos</persName>                   
                     <idno type="wikidata">not listed</idno>                   
                 </person>
                 
@@ -66,10 +84,22 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2619342</idno>                   
                 </person>
                 
+                <person xml:id="Anne">
+                    <persName xml:lang="grc">Ἄννα</persName>
+                    <persName xml:lang="en">Anne</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q164294</idno>                   
+                </person>
+                
                 <person xml:id="Antonios">
                     <persName xml:lang="grc">Ἀντώνιος</persName>
                     <persName xml:lang="en">Antonios</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q170547</idno>                   
+                </person>
+                
+                <person xml:id="Aphthonios">
+                    <persName xml:lang="grc">Ἀφθόνιος</persName>
+                    <persName xml:lang="en">Aphthonios</persName>                   
+                    <idno type="wikidata">not listed</idno>                   
                 </person>
                 
                 <person xml:id="Arsenios">
@@ -231,6 +261,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q206238</idno>                   
                 </person>
                 
+                <person xml:id="Elpidophoros">
+                    <persName xml:lang="grc">Ἐλπιδοφόρος</persName>
+                    <persName xml:lang="en">Elpidophoros</persName>                   
+                    <idno type="wikidata">not listed</idno>                   
+                </person>
+                
                 <person xml:id="EphraimSyrian">
                     <persName xml:lang="grc">Ἐφραίμ</persName>
                     <persName xml:lang="en">Ephraim</persName>     
@@ -315,6 +351,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q825</idno>                   
                     <!--What do we do with Lord? It also occurs on its own, but it also occurs as Lord God - Kyrios o Theos-->
                     <note>See also: Christ, Jesus Christ, Lord, Trinity, Word, Master</note>
+                </person>
+                
+                <person xml:id="Gourias">
+                    <persName xml:lang="grc">Γουρίας</persName>
+                    <persName xml:lang="en">Gourias</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q59550534</idno>                   
                 </person>
                 
                 <person xml:id="GregoryNazianzenos">
@@ -411,6 +453,8 @@
                 <person xml:id="Joachim">
                     <persName xml:lang="grc">Ἰωακείμ</persName>
                     <persName xml:lang="en">Joachim</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Joachim" key="Rightneous">ὁ Δίκαιος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Joachim" key="Rightneous">Rightneous</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q314700</idno>                   
                 </person>
                 
@@ -504,7 +548,9 @@
                 
                 <person xml:id="Kyriakos">
                     <persName xml:lang="grc">Κυριακός</persName>
-                    <persName xml:lang="en">Kyriakos</persName>               
+                    <persName xml:lang="en">Kyriakos</persName>     
+                    <persName xml:lang="grc" type="epithet" subtype="Kyriakos" key="Anchorite">ὁ Ἀναχωρητής</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Kyriakos" key="Anchorite">Anchorite</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q743246</idno>                   
                 </person>
                 
@@ -699,6 +745,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9200</idno>                   
                 </person>
                 
+                <person xml:id="Pegasios">
+                    <persName xml:lang="grc">Πηγάσιος</persName>
+                    <persName xml:lang="en">Pegasios</persName>                   
+                    <idno type="wikidata">not listed</idno>                   
+                </person>
+                
                 <person xml:id="Peter">
                     <persName xml:lang="grc">Πέτρος</persName>
                     <persName xml:lang="en">Peter</persName> 
@@ -729,6 +781,12 @@
                     <persName xml:lang="grc">Σάββας</persName>
                     <persName xml:lang="en">Sabbas</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q316440</idno>                   
+                </person>
+                
+                <person xml:id="Samonas">
+                    <persName xml:lang="grc">Σαμωνάς</persName>
+                    <persName xml:lang="en">Samonas</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q59550534</idno>                   
                 </person>
                 
                 <person xml:id="Sergios">
