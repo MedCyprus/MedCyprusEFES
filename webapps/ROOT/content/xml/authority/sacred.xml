@@ -20,6 +20,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9181</idno>                   
                 </person>
                 
+                <person xml:id="Adam">
+                    <persName xml:lang="grc">Ἀδάμ</persName>
+                    <persName xml:lang="en">Adam</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q70899</idno>                   
+                </person>
+                
                 <!--<person xml:id="Adrianos">
                     <persName xml:lang="grc">Ἀδριανός</persName>
                     <persName xml:lang="en">Adrianos</persName>
@@ -255,6 +261,12 @@
                     <persName xml:lang="grc">Εὐθύμιος</persName>
                     <persName xml:lang="en">Euthymios</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q441249</idno>                   
+                </person>
+                
+                <person xml:id="Eve">
+                    <persName xml:lang="grc">Εὔα</persName>
+                    <persName xml:lang="en">Eve</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q830183</idno>                   
                 </person>
                 
                 <person xml:id="Ezekiel">
@@ -606,6 +618,12 @@
                     <!--<persName xml:lang="grc" type="epithet" subtype="MeletiosAntioch" key="of Antioch">ὁ Ἀντιοχείας</persName>
                     <persName xml:lang="grc" type="epithet" subtype="MeletiosAntioch" key="of Antioch">of Antioch</persName>-->
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q433452</idno>                   
+                </person>
+                
+                <person xml:id="Menas">
+                    <persName xml:lang="grc">Μηνάς</persName>
+                    <persName xml:lang="en">Menas</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q163432</idno>                   
                 </person>
                 
                 <person xml:id="MeterTheou">
