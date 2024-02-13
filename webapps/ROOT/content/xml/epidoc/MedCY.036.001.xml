@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Virgin and Christ child enthroned</title>
+                <editor xml:id="dk">Dora Konstantellou</editor>
+                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="mx">Maria Xenaki</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.036.001</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>    
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                    <rs type="placement-building" ref="#bema">Bema, semidome</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>On either side of the Virgin's head</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                             <handNote>PENDING
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <p>... <rs type="iconography" ref="iconography.xml#VirginEnthroned">Virgin and Christ child enthroned</rs></p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Lagoudera">Lagoudera, Panagia tou Araka or Arakiotissa </origPlace>
+                            <origDate notBefore="1170" notAfter="1178">1170-1178</origDate>
+                        </origin>
+                        <provenance when="2022">
+                        </provenance>
+                        <provenance type="observed" resp="#tp">26-27/09/2022
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                </keywords>
+            </textClass>
+            <creation>Transcription (Th. Petrou), publications</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic rend="primary" url="036-001-01.JPG"><desc>Bema, semidome, inscription </desc></graphic>
+        <graphic url="036-001-02.JPG"><desc>Bema, semidome, inscription detail</desc></graphic>
+        <graphic url="036-001-03.JPG"><desc>Bema, semidome, inscription detail</desc></graphic>
+        <graphic url="036-001-04.JPG"><desc>Bema, semidome, general view</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+              <ab>
+                    <lb n="1"/><persName type="sacred" key="MeterTheou"><name nymRef="#Μήτηρ Θεοῦ"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi><am>´</am></w>
+                    <milestone unit="column"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice><am>&#x00A0;῀&#x00A0;</am></abbr></expan></name></persName> 
+               </ab>
+            </div>
+            <div type="apparatus">
+               <p>PENDING</p>
+            </div>
+            <div type="translation">
+                <p>Mother of God</p>
+            </div>
+            <div type="commentary">
+                <p>PENDING</p>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                <bibl>PENDING</bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
