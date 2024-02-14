@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Christ Antiphonetes' gospel</title>
-                 <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background inside an ochre-coloured frame. The inscription is written in majuscule. Letters' size varies. Letters MH in ligature. Mu with its middle bar forms an upsilon with a dot on its antennas. Double point after θύρα. Accents and breathings systematic. Letter height: <height unit="cm">3</height>
+                            <handNote>Black letters against white background inside an ochre-coloured frame. Majuscule letters. Characters' size varies. MH in ligature. Mu with its middle bar forms an upsilon with a dot on its antennas. Double point after θύρα. Accents and breathings systematic. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -63,12 +63,12 @@
                     <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-025-01.jpg"><desc>Naos, south pier, west face, inscription detail </desc></graphic>
-        <graphic url="043-025-02.jpg"><desc>Naos, south pier, west face, inscription</desc></graphic>
+         <graphic rend="primary" url="043-025-01.JPG"><desc>Naos, south pier, west face, inscription detail </desc></graphic>
+        <graphic url="043-025-02.JPG"><desc>Naos, south pier, west face, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>

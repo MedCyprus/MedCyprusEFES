@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Cryptograms</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against grey background. Majuscule letters. Horizontal wavy line above all the abbreviations. <height unit="cm">8-9,5</height>
+                            <handNote>Black letters against grey background. Majuscule letters. Characters' size varies. Horizontal wavy line above all the abbreviations. <height unit="cm">8-9,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -62,15 +62,15 @@
                     <term type="textType" ref="text_types.xml#doc10">Cryptograms</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-           <graphic rend="primary" url="043-023-01.jpg"><desc>Bema, southeastern pier, east face, inscription</desc></graphic>
-        <graphic url="043-023-02.jpg"><desc>Bema, southeaster pier, east face, inscription detail</desc></graphic>
-        <graphic url="043-023-03.jpg"><desc>Bema, southeastern pier, east face, inscription detail</desc></graphic>
-        <graphic url="043-023-04.jpg"><desc>Bema, southeastern pier, east face, inscription detail</desc></graphic>
-        <graphic url="043-023-05.jpg"><desc>Bema, southeastern pier, east face, inscription detail</desc></graphic>
+           <graphic rend="primary" url="043-023-01.JPG"><desc>Bema, southeastern pier, east face, inscription</desc></graphic>
+        <graphic url="043-023-02.JPG"><desc>Bema, southeaster pier, east face, inscription detail</desc></graphic>
+        <graphic url="043-023-03.JPG"><desc>Bema, southeastern pier, east face, inscription detail</desc></graphic>
+        <graphic url="043-023-04.JPG"><desc>Bema, southeastern pier, east face, inscription detail</desc></graphic>
+        <graphic url="043-023-05.JPG"><desc>Bema, southeastern pier, east face, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>

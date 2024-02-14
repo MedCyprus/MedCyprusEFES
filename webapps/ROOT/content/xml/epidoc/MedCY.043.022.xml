@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Cryptograms, tetragram</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -62,26 +62,26 @@
                     <term type="textType" ref="text_types.xml#doc10">Cryptograms</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-           <graphic rend="primary" url="043-022-01.jpg"><desc>Bema, north pier, east face, lower register, inscription</desc></graphic>
-        <graphic url="043-022-02.jpg"><desc>Bema, north pier, east face, lower register, inscription detail</desc></graphic>
-        <graphic url="043-022-03.jpg"><desc>Bema, north pier, east face, lower register, inscription detail</desc></graphic>
-        <graphic url="043-022-04.jpg"><desc>Bema, north pier, east face, lower register, inscription detail</desc></graphic>
-        <graphic url="043-022-05.jpg"><desc>Bema, north pier, east face, lower register, inscription detail</desc></graphic>
+           <graphic rend="primary" url="043-022-01.JPG"><desc>Bema, north pier, east face, lower register, inscription</desc></graphic>
+        <graphic url="043-022-02.JPG"><desc>Bema, north pier, east face, lower register, inscription detail</desc></graphic>
+        <graphic url="043-022-03.JPG"><desc>Bema, north pier, east face, lower register, inscription detail</desc></graphic>
+        <graphic url="043-022-04.JPG"><desc>Bema, north pier, east face, lower register, inscription detail</desc></graphic>
+        <graphic url="043-022-05.JPG"><desc>Bema, north pier, east face, lower register, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><milestone unit="column" n="left"/><persName type="divine" key="Christ"><name nymRef="#Ἰησοῦς Χριστός"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></name></persName>
-                    <lb n="2"/><milestone unit="column" n="left"/><persName type="divine" key="SonOfGod"><expan><abbr rend="supraline"><hi rend="ligature">Υ<choice><orig>ι</orig><reg>ἱ</reg></choice></hi></abbr><ex>ὸ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>
-                    <lb n="3"/><milestone unit="column" n="left"/><hi rend="supraline">Νι</hi> <milestone unit="column" n="right" break="no"/><hi rend="supraline">κ<choice><orig>α</orig><reg>ᾶ</reg></choice></hi>
-                    <lb n="4"/><milestone unit="column" n="left"/><expan><abbr rend="supraline">Φ</abbr><ex>ῶς</ex></expan> <milestone unit="column" n="right"/><persName type="divine" key="Christ"><name nymRef="#Χριστός"></name><expan><abbr rend="supraline">Χ</abbr><ex>ριστοῦ</ex></expan></persName>
-                    <lb n="5"/><milestone unit="column" n="left"/><expan><abbr rend="supraline">Φ</abbr><ex>αίνει</ex></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Π</abbr><ex>ᾶσιν</ex></expan>
-                    <lb n="6"/><milestone unit="column" n="left"/><persName type="sacred" key="Helena"><name nymRef="#Ἑλένη"><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἑ</reg></choice></abbr><ex>λένῃ</ex></expan></name></persName> <expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἐ</reg></choice></abbr><ex>κ Θεοῦ</ex></expan><milestone unit="column" n="right"/><w lemma="εὕρεμα"><expan><abbr rend="supraline">Ε</abbr><ex>ὓρεμα</ex></expan></w> <w lemma="δίδωμι"><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἐ</reg></choice></abbr><ex>δόθη</ex></expan></w>                    
+                    <lb n="1"/><persName type="divine" key="Christ"><name nymRef="#Ἰησοῦς Χριστός"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></name></persName>
+                    <lb n="2"/><persName type="divine" key="SonOfGod"><expan><abbr rend="supraline"><hi rend="ligature">Υ<choice><orig>ι</orig><reg>ἱ</reg></choice></hi></abbr><ex>ὸ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>
+                    <lb n="3"/><hi rend="supraline">Νι</hi> <milestone unit="column" n="right" break="no"/><hi rend="supraline">κ<choice><orig>α</orig><reg>ᾶ</reg></choice></hi>
+                    <lb n="4"/><expan><abbr rend="supraline">Φ</abbr><ex>ῶς</ex></expan> <milestone unit="column"/><persName type="divine" key="Christ"><name nymRef="#Χριστός"></name><expan><abbr rend="supraline">Χ</abbr><ex>ριστοῦ</ex></expan></persName>
+                    <lb n="5"/><expan><abbr rend="supraline">Φ</abbr><ex>αίνει</ex></expan> <milestone unit="column"/><expan><abbr rend="supraline">Π</abbr><ex>ᾶσιν</ex></expan>
+                    <lb n="6"/><persName type="sacred" key="Helena"><name nymRef="#Ἑλένη"><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἑ</reg></choice></abbr><ex>λένῃ</ex></expan></name></persName> <expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἐ</reg></choice></abbr><ex>κ Θεοῦ</ex></expan><milestone unit="column"/><w lemma="εὕρεμα"><expan><abbr rend="supraline">Ε</abbr><ex>ὓρεμα</ex></expan></w> <w lemma="δίδωμι"><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἐ</reg></choice></abbr><ex>δόθη</ex></expan></w>                    
                  </ab>
                
                 <!-- Alternative mark-up <ab>

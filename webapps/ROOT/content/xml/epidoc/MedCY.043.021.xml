@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Ioannes Moutoullas Second Inscription</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -37,11 +37,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                               <handNote>Black letters against ochre background. The inscription is written entirely in majuscule. Letters' size varies. Superscripts letters. Final sigma in Eirene's name ends in a calligraphic horizontal wavy line.  Use of diaeresis over iota in Ïρίνης. Horizontal wavy line above the abbreviation of  δέησις, Ἰω(άννου). Double point after Ἰω(άννου), αὐτοῦ.Letters ΟΥ, ΗΤ,ΗΝ in ligatures. Sporadic use of accents and breathings. Letter height: <height unit="cm">3,5-5</height>
+                               <handNote>Black letters against ochre background. Majuscule letters. Characters' size varies. Superscripts letters. Final sigma in Eirene's name ends in a calligraphic horizontal wavy line. Use of diaeresis over iota in Ïρίνης. Horizontal wavy line above the abbreviation of  δέησις, Ἰω(άννου). Double point after Ἰω(άννου), αὐτοῦ.Letters ΟΥ, ΗΤ,ΗΝ in ligatures. Sporadic use of accents and breathings. Letter height: <height unit="cm">3,5-5</height>
                             </handNote>
                          </handDesc>
                         <decoDesc>
-                              <p>...Pending</p>
+                              <p>... <rs type="iconography" ref="iconography.xml#IoannisEireneGerakiotes_MedCY043">Ioannes and Eirene Gerakiotes</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -62,13 +62,13 @@
                     <term type="textType" ref="text_types.xml#doc11">Invocation</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-021-01.jpg"><desc>Bema, north wall, lower register, inscription detail</desc></graphic>
-        <graphic url="043-021-02.jpg"><desc>Bema, north wall, lower register, inscription</desc></graphic>
-        <graphic url="043-021-03.jpg"><desc>Bema, north wall, lower register, general view</desc></graphic>
+         <graphic rend="primary" url="043-021-01.JPG"><desc>Bema, north wall, lower register, inscription detail</desc></graphic>
+        <graphic url="043-021-02.JPG"><desc>Bema, north wall, lower register, inscription</desc></graphic>
+        <graphic url="043-021-03.JPG"><desc>Bema, north wall, lower register, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
