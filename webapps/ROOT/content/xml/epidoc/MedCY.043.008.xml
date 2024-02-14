@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Gregory's scroll</title>
-                 <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. The inscription is written entirely in majuscule. Superscript nu in line 3.
+                            <handNote>Black letters against white background. Majuscule letters. Characters' size varies. Superscript nu in line 3.
                       Mu with its middle bar forms an upsilon with dots on its antennas and at the top of its vertical line. Middle dot after δέσποτα.  Letters HM, ΤΗ in ligatures. Horizontal wavy line above the abbreviation of Θ(εό)ς. The letters' size in the last line is smaller than the rest of the letters of the inscription due to lack of space. Accents and breathings systematic. Text between two ruled ochre-coloured lines. Letter height: <height unit="cm">3-4,5</height>
                             </handNote>
                         </handDesc>
@@ -64,14 +64,14 @@
                     <term type="textType" ref="text_types.xml#doc8">Liturgical citation</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-008-01.jpg"><desc>Bema, semicylindrical wall, north half, middle figure, inscription</desc></graphic>
-        <graphic url="043-008-02.jpg"><desc>Bema, semicylindrical wall, north half, middle figure, inscription</desc></graphic>
-        <graphic url="043-008-03.jpg"><desc>Bema, semicylindrical wall, north half, middle figure, inscription detail</desc></graphic>
-        <graphic url="043-008-04.jpg"><desc>Bema, semicylindrical wall, north half, middle figure, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-008-01.JPG"><desc>Bema, semicylindrical wall, north half, middle figure, inscription</desc></graphic>
+        <graphic url="043-008-02.JPG"><desc>Bema, semicylindrical wall, north half, middle figure, inscription</desc></graphic>
+        <graphic url="043-008-03.JPG"><desc>Bema, semicylindrical wall, north half, middle figure, inscription detail</desc></graphic>
+        <graphic url="043-008-04.JPG"><desc>Bema, semicylindrical wall, north half, middle figure, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>

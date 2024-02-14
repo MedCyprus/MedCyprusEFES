@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Epiphanios' scroll</title>
-                 <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -62,12 +62,12 @@
                     <term type="textType" ref="text_types.xml#doc8">Liturgical citation</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-014-01.jpg"><desc>Bema, semicylindrical wall, south half, middle figure, inscription</desc></graphic>
-        <graphic url="043-014-02.jpg"><desc>Bema, semicylindrical wall, south half, middle figure, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-014-01.JPG"><desc>Bema, semicylindrical wall, south half, middle figure, inscription</desc></graphic>
+        <graphic url="043-014-02.JPG"><desc>Bema, semicylindrical wall, south half, middle figure, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
