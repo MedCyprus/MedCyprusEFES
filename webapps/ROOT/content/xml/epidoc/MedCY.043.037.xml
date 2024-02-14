@@ -62,12 +62,12 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-037-01.jpg"><desc>Naos, south wall, lower register, next to St Christopher, inscription detail</desc></graphic>
-        <graphic url="043-037-02.jpg"><desc>Naos, south wall, lower register, next to St Christopher, inscription</desc></graphic>
+         <graphic rend="primary" url="043-037-01.JPG"><desc>Naos, south wall, lower register, next to St Christopher, inscription detail</desc></graphic>
+        <graphic url="043-037-02.JPG"><desc>Naos, south wall, lower register, next to St Christopher, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>
