@@ -75,7 +75,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING
+                 <lb n="1"/><w lemma="μήν">Μην<choice><orig>ῖ</orig><reg>ὶ</reg></choice></w> <w lemma="Δεκέμβριος">Δηκ<supplied reason="lost">ε</supplied>βρίο</w> ΙΖ
+                 <lb n="2"/>  ΙΕ  <w lemma="ἔτος">ἔ<hi rend="ligature">του</hi>ς</w> <w lemma="κοιμῶμαι">ἐκυ
+                 <lb n="3" break="no"/>μήθη</w> ἡ <w lemma="δούλη">δ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ύ</reg></choice></hi>λι</w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> Θεου Γέφυ
+                 <lb n="4" break="no"/>ρα
               </ab>
             </div>
             <div type="apparatus">
@@ -89,7 +92,8 @@
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>PENDING</bibl>
+                   <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 10</citedRange></bibl> 
+                    
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
