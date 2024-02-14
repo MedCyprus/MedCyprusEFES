@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">?</height>
+                            <handNote>hite letters against blue background. Majuscule letters. Characters' size varies. Letters ΟΥ and ΤΟΥ in ligatures. Systematic use of accents.Letter height: <height unit="cm">?</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,20 +76,22 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                <ab>PENDIND
-                <lb n="1"/><w lemma="δέησις"><expan><abbr rend="supraline">Δέ</abbr><ex>ησις</ex></expan></w> Νικηφό <lb n="8" break="no"/>ρου τοῦ Καλληά
+                <lb n="1"/><w lemma="δέησις"><expan><abbr rend="supraline">Δέ</abbr><ex>ησις</ex></expan></w> <persName type="attested" role="donor" ref="#Nikephorosthefarrier"><name nymRef="#Νικηφόρος" type="forename">Νικηφό <lb n="8" break="no"/>ρ<hi rend="ligature">ου</hi></name></persName> <hi rend="ligature">τοῦ</hi> Καλληά
             </ab></div>
             <div type="apparatus">
                 <p>PENDING</p>
                  </div>
             <div type="translation"> 
-                <p>Invocation of Nikephoros the farrier (?)</p> 
+                <p>Invocation of Nikephoros the farrier (?)(<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 82</citedRange></bibl>)</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition.The inscription, written in a different colour to the dedicatory epigram above(see MedCY.044.104), may have been added when this and the fresco of Saint George on horseback were completed. Consequently, Nikephoros the farrier is probably a different person from the veterinarian Nikephoros, mentioned in the dedicatory epigram (<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 83</citedRange></bibl>; <bibl><ptr target="#VisCult"/>,<citedRange> 189</citedRange></bibl>).</p>
             </div>
             <div type="bibliography">
                 <listBibl>
-                 <bibl>PENDING</bibl>
+                  <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 12-3</citedRange></bibl>   
+                 <bibl><ptr target="#Ševčenko2012"/>,<citedRange> 82</citedRange></bibl>
+                 <bibl><ptr target="#VisCult"/>,<citedRange> 190</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
