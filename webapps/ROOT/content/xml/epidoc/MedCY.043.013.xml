@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Epiphanios</title>
-                 <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -62,13 +62,13 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-013-01.jpg"><desc>Bema, semicylindrical wall, south half, middle figure, inscription</desc></graphic>
-        <graphic url="043-013-02.jpg"><desc>Bema, semicylindrical wall, south half, middle figure, inscription detail</desc></graphic>
-        <graphic url="043-013-03.jpg"><desc>Bema, semicylindrical wall, south half, middle figure, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-013-01.JPG"><desc>Bema, semicylindrical wall, south half, middle figure, inscription</desc></graphic>
+        <graphic url="043-013-02.JPG"><desc>Bema, semicylindrical wall, south half, middle figure, inscription detail</desc></graphic>
+        <graphic url="043-013-03.JPG"><desc>Bema, semicylindrical wall, south half, middle figure, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
