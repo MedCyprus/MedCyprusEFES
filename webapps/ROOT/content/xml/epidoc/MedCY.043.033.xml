@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Nativity, Angel addresses the shepherd</title>
-                 <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -62,19 +62,18 @@
                     <term type="textType" ref="text_types.xml#doc7">Hymnographical citation</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-033-01.jpg"><desc>Naos, south wall, upper register, inscription detail</desc></graphic>
-        <graphic url="043-033-02.jpg"><desc>Naos, south wall, upper register, inscription</desc></graphic>
+         <graphic rend="primary" url="043-033-01.JPG"><desc>Naos, south wall, upper register, inscription detail</desc></graphic>
+        <graphic url="043-033-02.JPG"><desc>Naos, south wall, upper register, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-            <lb n="1"/><w lemma="παύω">Π<unclear>α</unclear><supplied reason="lost">ύσατε</supplied></w> <w lemma="ἀγραυλῶ"><supplied reason="lost">Ἀγραυ</supplied>
-            <lb n="2" break="no"/>λο<choice><orig>υ</orig><reg>ύ</reg></choice><supplied reason="lost">ντες</supplied></w>     
+            <lb n="1"/><w lemma="παύω">Π<unclear>α</unclear><supplied reason="lost">ύσατε</supplied></w> <w lemma="ἀγραυλῶ"><supplied reason="lost">Ἀγραυ</supplied>            <lb n="2" break="no"/>λο<choice><orig>υ</orig><reg>ύ</reg></choice><supplied reason="lost">ντες</supplied></w>     
                  </ab>
             </div>
             <div type="apparatus">

@@ -62,19 +62,19 @@
                     <term type="textType" ref="text_types.xml#doc9">Sigla</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-034-01.jpg"><desc>Naos, south wall, upper register, inscription detail</desc></graphic>
-        <graphic url="043-034-02.jpg"><desc>Naos, south wall, upper register, inscription</desc></graphic>
-        <graphic url="043-034-03.jpg"><desc>Naos, south wall, upper register, general view</desc></graphic>
+         <graphic rend="primary" url="043-034-01.JPG"><desc>Naos, south wall, upper register, inscription detail</desc></graphic>
+        <graphic url="043-034-02.JPG"><desc>Naos, south wall, upper register, inscription</desc></graphic>
+        <graphic url="043-034-03.JPG"><desc>Naos, south wall, upper register, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-            <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς Χριστός"> <expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></name></persName>    
+            <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς Χριστός"> <expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan><space unit="character" quantity="1"></space><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></name></persName>    
                  </ab>
             </div>
             <div type="apparatus">

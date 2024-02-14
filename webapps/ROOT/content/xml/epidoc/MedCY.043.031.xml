@@ -62,13 +62,13 @@
                     <term type="textType" ref="text_types.xml#doc9">Sigla</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-031-01.jpg"><desc>Naos, south wall, upper register, inscription</desc></graphic>
-        <graphic url="043-031-02.jpg"><desc>Naos, south wall, upper register, inscription detail</desc></graphic>
-        <graphic url="043-031-03.jpg"><desc>Naos, south wall, upper register, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-031-01.JPG"><desc>Naos, south wall, upper register, inscription</desc></graphic>
+        <graphic url="043-031-02.JGP"><desc>Naos, south wall, upper register, inscription detail</desc></graphic>
+        <graphic url="043-031-03.JPG"><desc>Naos, south wall, upper register, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>

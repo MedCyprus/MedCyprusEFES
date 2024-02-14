@@ -62,17 +62,17 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-035-01.jpg"><desc>Naos, south wall, lower register, inscription</desc></graphic>
-        <graphic url="043-035-02.jpg"><desc>Naos, south wall, lower register, inscription detail</desc></graphic>
-        <graphic url="043-035-03.jpg"><desc>Naos, south wall, lower register, inscription detail</desc></graphic>
-        <graphic url="043-035-04.jpg"><desc>Naos, south wall, lower register, general view</desc></graphic>
-        <graphic url="043-035-05.jpg"><desc>Naos, south wall, lower register, general view</desc></graphic>
-        <graphic url="043-035-06.jpg"><desc>Naos, south wall, lower register, general view</desc></graphic>
-        <graphic url="043-035-07.jpg"><desc>Naos, south wall, lower register, general view</desc></graphic>
+         <graphic rend="primary" url="043-035-01.JPG"><desc>Naos, south wall, lower register, inscription</desc></graphic>
+        <graphic url="043-035-02.JPG"><desc>Naos, south wall, lower register, inscription detail</desc></graphic>
+        <graphic url="043-035-03.JPG"><desc>Naos, south wall, lower register, inscription detail</desc></graphic>
+        <graphic url="043-035-04.JPG"><desc>Naos, south wall, lower register, general view</desc></graphic>
+        <graphic url="043-035-05.JPG"><desc>Naos, south wall, lower register, general view</desc></graphic>
+        <graphic url="043-035-06.JPG"><desc>Naos, south wall, lower register, general view</desc></graphic>
+        <graphic url="043-035-07.JPG"><desc>Naos, south wall, lower register, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
