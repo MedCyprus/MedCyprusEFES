@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Ioannes Moutoullas First Inscription</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                               <handNote>Black letters against ochre background. The inscription is written entirely in majuscule. Superscripts letters. Omega with crosslet. In line 6 tau with a star. Mu with its middle bar forms a tau. Double point after συνδρομῆς, Ἰω(άννου), Γερακ[ιώτη] Μουτου]λλά, αὐτοῦ. Use of diaeresis over iota in Ïρίνης (l. 6), Ïουλίω (l. 7). Middle dot after μηνί, εἰς. Horizontal wavy line above the abbreviation of  Ἰω(άννου). Letters ΠΤ, HΝ, ΟΥ in ligatures. Sporadic use of accents and breathings. Letter height: <height unit="cm">5,5-7,5</height>
+                               <handNote>Black letters against ochre background. Majuscule letters. Characters' size varies. Superscripts letters. Omega with crosslet. In line 6 tau with a star. Mu with its middle bar forms a tau. Double point after συνδρομῆς, Ἰω(άννου), Γερακ[ιώτη] Μουτου]λλά, αὐτοῦ. Use of diaeresis over iota in Ïρίνης (l. 6), Ïουλίω (l. 7). Middle dot after μηνί, εἰς. Horizontal wavy line above the abbreviation of  Ἰω(άννου). Letters ΠΤ, HΝ, ΟΥ in ligatures. Sporadic use of accents and breathings. Letter height: <height unit="cm">5,5-7,5</height>
                             </handNote>
                          </handDesc>
                         <decoDesc>
@@ -63,15 +63,15 @@
                     <term type="textType" ref="text_types.xml#doc1">Donor inscription</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-020-01.jpg"><desc>Bema, north wall, upper register, inscription</desc></graphic>
-        <graphic url="043-020-02.jpg"><desc>Bema, north wall, upper register, general view</desc></graphic>
-        <graphic url="043-020-03.jpg"><desc>Bema, north wall, upper register, inscription detail</desc></graphic>
-        <graphic url="043-020-04.jpg"><desc>Bema, north wall, upper register, inscription detail</desc></graphic>
-        <graphic url="043-020-05.jpg"><desc>Bema, north wall, upper register, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-020-01.JPG"><desc>Bema, north wall, upper register, inscription</desc></graphic>
+        <graphic url="043-020-02.JPG"><desc>Bema, north wall, upper register, general view</desc></graphic>
+        <graphic url="043-020-03.JPG"><desc>Bema, north wall, upper register, inscription detail</desc></graphic>
+        <graphic url="043-020-04.JPG"><desc>Bema, north wall, upper register, inscription detail</desc></graphic>
+        <graphic url="043-020-05.JPG"><desc>Bema, north wall, upper register, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
