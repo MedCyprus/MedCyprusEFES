@@ -62,20 +62,20 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-016-01.jpg"><desc>Bema, eastern wall, center, inscription</desc></graphic>
-        <graphic url="043-016-02.jpg"><desc>Bema, eastern wall, center, inscription detail</desc></graphic>
-        <graphic url="043-016-03.jpg"><desc>Bema, eastern wall, center, inscription detail</desc></graphic>
-                <graphic url="043-016-03.jpg"><desc>Bema, eastern wall, center, general view</desc></graphic>
+         <graphic rend="primary" url="043-016-01.JPG"><desc>Bema, eastern wall, center, inscription</desc></graphic>
+        <graphic url="043-016-02.JPG"><desc>Bema, eastern wall, center, inscription detail</desc></graphic>
+        <graphic url="043-016-03.JPG"><desc>Bema, eastern wall, center, inscription detail</desc></graphic>
+        <graphic url="043-016-04.JPG"><desc>Bema, eastern wall, center, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/><choice><orig>Η</orig><reg>Ἡ</reg></choice> <w lemma="ἑτοιμασία"><choice><orig>Ε</orig><reg>Ἑ</reg></choice>τη <milestone unit="column" n="right"/>μασήα   </w>   
+                    <lb/><choice><orig>Η</orig><reg>Ἡ</reg></choice> <w lemma="ἑτοιμασία"><choice><orig>Ε</orig><reg>Ἑ</reg></choice>τη <milestone unit="column" />μασήα   </w>   
                  </ab>
             </div>
             <div type="apparatus">
