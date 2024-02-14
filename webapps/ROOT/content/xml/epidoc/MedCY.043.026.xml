@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Virgin Eleousa</title>
-                 <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. The inscription is written entirely in majuscule. Letters' size varies. The sigla Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, wavy line above each word. The epithet Ἡ Ἐλεοῦσα is divided in two columns. Sporadic use of accents and breathings. Letter height: <height unit="cm">3-4</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. The sigla Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, wavy line above each word. The epithet Ἡ Ἐλεοῦσα is divided in two columns. Sporadic use of accents and breathings. Letter height: <height unit="cm">3-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -62,13 +62,13 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-026-01.jpg"><desc>Naos, north pier, west face, inscription </desc></graphic>
-        <graphic url="043-026-02.jpg"><desc>Naos, north pier, west face, inscription detail</desc></graphic>
-        <graphic url="043-026-03.jpg"><desc>Naos, north pier, west face, general view</desc></graphic>
+         <graphic rend="primary" url="043-026-01.JPG"><desc>Naos, north pier, west face, inscription </desc></graphic>
+        <graphic url="043-026-02.JPG"><desc>Naos, north pier, west face, inscription detail</desc></graphic>
+        <graphic url="043-026-03.JPG"><desc>Naos, north pier, west face, general view</desc></graphic>
     </facsimile>
     <text>
         <body>

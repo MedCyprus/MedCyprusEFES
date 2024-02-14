@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Christ</title>
-                 <author xml:id="tp">Theocharis Petrou</author> 
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -62,13 +62,13 @@
                     <term type="textType" ref="text_types.xml#doc9">Sigla</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-029-01.jpg"><desc>Naos, south wall, east side, inscription detail</desc></graphic>
-        <graphic url="043-029-02.jpg"><desc>Naos, south wall, east side, inscription</desc></graphic>
-        <graphic url="043-029-03.jpg"><desc>Naos, south wall, east side, general view</desc></graphic>
+         <graphic rend="primary" url="043-029-01.JPG"><desc>Naos, south wall, east side, inscription detail</desc></graphic>
+        <graphic url="043-029-02.JPG"><desc>Naos, south wall, east side, inscription</desc></graphic>
+        <graphic url="043-029-03.JPG"><desc>Naos, south wall, east side, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -84,7 +84,7 @@
                 <p>Jesus Christ</p>
             </div>
             <div type="commentary">
-                <p>Damaged. Partially preserved.</p>
+                <p>Damaged. Partially preserved</p>
             </div>
             <div type="bibliography">
                  <listBibl><bibl>Unpublished</bibl>

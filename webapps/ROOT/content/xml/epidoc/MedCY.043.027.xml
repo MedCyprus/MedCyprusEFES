@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Virgin Eleousa's scroll</title>
-                 <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background inside an ochre-coloured frame. Majuscule letters. Characters's size varies. Delta is formed with a lambda on a horizontal bar, which at its ends has a vertical point. Mu with its middle bar forms an upsilon with a dot on its antennas and at the top of its vertical bar. Pi with short line attached the horizontal bar; Letters ΤΗ, ΜΡ,ΟΥ,ΜΗΡ in ligature. The words δέησιν, μητρός, μῆτερ are rendered by an abbreviation with a wavy line above each word. In line 17, the abbreviation of the word εὐχαριστῶ is rendered by two irregular lines. Double point after λόγε, αἰτεῖς, σωτηρίαν, ἐπιστρέφουσι. Middle dot after λόγε. Accents and breathings systematic. Letter height: <height unit="cm">2,5-4</height>
+                            <handNote>Black letters against white background inside an ochre-coloured frame. Majuscule letters. Characters' size varies. Delta is formed with a lambda on a horizontal bar, which at its ends has a vertical point. Mu with its middle bar forms an upsilon with a dot on its antennas and at the top of its vertical bar. Pi with short line attached the horizontal bar; Letters ΤΗ, ΜΡ,ΟΥ,ΜΗΡ in ligatures. The words δέησιν, μητρός, μῆτερ are rendered by an abbreviation with a wavy line above each word. In line 17, the abbreviation of the word εὐχαριστῶ is rendered by two irregular lines. Double point after λόγε, αἰτεῖς, σωτηρίαν, ἐπιστρέφουσι. Middle dot after λόγε. Accents and breathings systematic. Letter height: <height unit="cm">2,5-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -63,14 +63,14 @@
                     <term type="textType" ref="text_types.xml#doc11">Invocation</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-027-01.jpg"><desc>Naos, north pier, west face, inscription </desc></graphic>
-        <graphic url="043-027-02.jpg"><desc>Naos, north pier, west face, inscription detail</desc></graphic>
-        <graphic url="043-027-03.jpg"><desc>Naos, north pier, west face, inscription detail</desc></graphic>
-        <graphic url="043-027-03.jpg"><desc>Naos, north pier, west face, general view</desc></graphic>
+         <graphic rend="primary" url="043-027-01.JPG"><desc>Naos, north pier, west face, inscription </desc></graphic>
+        <graphic url="043-027-02.JPG"><desc>Naos, north pier, west face, inscription detail</desc></graphic>
+        <graphic url="043-027-03.JPG"><desc>Naos, north pier, west face, inscription detail</desc></graphic>
+        <graphic url="043-027-03.JPG"><desc>Naos, north pier, west face, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
