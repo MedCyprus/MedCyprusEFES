@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint John Chrysostom's scroll</title>
-                 <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. The inscription is written entirely in majuscule. Letters' size varies. Superscripts letters. In line 1, round omicron with four semicylindrical dots stuck on its walls forming an abstract cross; theta with crosslet attached to nearly round sigma; omega with crosslet. Letters HM, ΗΝ in ligatures. Mu with its middle bar forms an upsilon with a dot at the top of its vertical line. Horizontal wavy line above the abbreviations of Θ(εό)ς. Accents and breathings systematic. Text between two ruled ochre-coloured lines. Letter height: <height unit="cm">3-4</height>
+                            <handNote>Black letters against white background. Majuscule letters. Characters' size varies. Superscripts letters. In line 1, round omicron with four semicylindrical dots stuck on its walls forming an abstract cross; theta with crosslet attached to nearly round sigma; omega with crosslet. Letters HM, ΗΝ in ligatures. Mu with its middle bar forms an upsilon with a dot at the top of its vertical line. Horizontal wavy line above the abbreviations of Θ(εό)ς. Accents and breathings systematic. Text between two ruled ochre-coloured lines. Letter height: <height unit="cm">3-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -63,15 +63,15 @@
                     <term type="textType" ref="text_types.xml#doc8">Liturgical citation</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-006-1.jpg"><desc>Bema, semicylindrical wall, north half, 1st figure from the right, inscription</desc></graphic>
-        <graphic url="043-006-02.jpg"><desc>Bema, semicylindrical wall, north half, 1st figure from the right, inscription</desc></graphic>
-        <graphic url="043-006-03.jpg"><desc>Bema, semicylindrical wall, north half, 1st figure to the right, inscription detail</desc></graphic>
-        <graphic url="043-006-04.jpg"><desc>Bema, semicylindrical wall, north half, 1st figure to the right, inscription detail</desc></graphic>
-        <graphic url="043-006-05.jpg"><desc>Bema, semicylindrical wall, north half, 1st figure to the right, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-006-1.JPG"><desc>Bema, semicylindrical wall, north half, 1st figure from the right, inscription</desc></graphic>
+        <graphic url="043-006-02.JPG"><desc>Bema, semicylindrical wall, north half, 1st figure from the right, inscription</desc></graphic>
+        <graphic url="043-006-03.JPG"><desc>Bema, semicylindrical wall, north half, 1st figure to the right, inscription detail</desc></graphic>
+        <graphic url="043-006-04.JPG"><desc>Bema, semicylindrical wall, north half, 1st figure to the right, inscription detail</desc></graphic>
+        <graphic url="043-006-05.JPG"><desc>Bema, semicylindrical wall, north half, 1st figure to the right, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
