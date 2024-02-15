@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Presentation of Christ to the Temple, Saint Joseph</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -61,19 +61,18 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-025-02.jpg"><desc>Naos, eastern vault, north part, lower register, general view</desc></graphic>
-        <graphic rend="primary" url="055-025-01.jpg"><desc>Naos, eastern vault, north part, lower register, inscription detail</desc></graphic>
+         <graphic url="055-025-02.JPG"><desc>Naos, eastern vault, north part, lower register, general view</desc></graphic>
+        <graphic rend="primary" url="055-025-01.JPG"><desc>Naos, eastern vault, north part, lower register, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="JosephMnestor"><choice><orig>O</orig><reg>Ὁ</reg></choice> <name nymRef="'Ἰωσήφ"><unclear>H</unclear>οσ<choice><orig>η</orig><reg>ή</reg></choice>φ</name></persName>
+                   <lb n="1"/><persName type="sacred" key="JosephMnestor"><choice><orig>O</orig><reg>Ὁ</reg></choice> <name nymRef="'#Ἰωσήφ"><unclear>H</unclear>οσ<choice><orig>η</orig><reg>ή</reg></choice>φ</name></persName>
                 </ab>
             </div>
             <div type="apparatus">
@@ -83,7 +82,7 @@
                 <p>Joseph</p>
             </div>
             <div type="commentary">
-                <p>Badly damaged. Τhe name Ἰωσήφ is mispelled.
+                <p>Badly damaged. Τhe name Ἰωσήφ is misspelled.
 </p>
             </div>
             <div type="bibliography">

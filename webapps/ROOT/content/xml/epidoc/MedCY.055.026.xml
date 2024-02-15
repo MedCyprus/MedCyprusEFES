@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Personification of the Sea (Last Judgment)</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -61,20 +61,19 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-026-01.jpg"><desc>Naos, western vault, southern part, lower register, general view</desc></graphic>
-        <graphic rend="primary" url="055-026-02.jpg"><desc>Naos, western vault, southern part, lower register, inscription detail</desc></graphic>
-        <graphic rend="secondary" url="055-026-03.jpg"><desc>Naos, western vault, southern part, lower register, inscription</desc></graphic>
+         <graphic url="055-026-01.JPG"><desc>Naos, western vault, southern part, lower register, general view</desc></graphic>
+        <graphic rend="primary" url="055-026-02.JPG"><desc>Naos, western vault, southern part, lower register, inscription detail</desc></graphic>
+        <graphic rend="secondary" url="055-026-03.JPG"><desc>Naos, western vault, southern part, lower register, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <cb n="a"/>
-                    <lb n="1"/>Ἡ <w lemma="θάλασσα">θάλασ<supplied reason="lost">σα</supplied></w>
+                   <lb n="1"/>Ἡ <w lemma="θάλασσα">θάλασ<supplied reason="lost">σα</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">

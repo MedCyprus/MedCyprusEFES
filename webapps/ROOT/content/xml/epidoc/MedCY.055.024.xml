@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Male saint, unidentified</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Μinuscule, thin giota. 
+                            <handNote>White letters against red background
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -61,12 +61,12 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-024-02.jpg"><desc>Naos, dome, north arch, soffit, west half, general view</desc></graphic>
-        <graphic rend="primary" url="055-024-01.jpg"><desc>Naos, dome, north arch, soffit, west half, inscription </desc></graphic>
+         <graphic url="055-024-02.JPG"><desc>Naos, dome, north arch, soffit, west half, general view</desc></graphic>
+        <graphic rend="primary" url="055-024-01.JPG"><desc>Naos, dome, north arch, soffit, west half, inscription </desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -78,9 +78,8 @@
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w>
                     <cb n="b"/>
-                    <lb n="1"/><name nymRef="Ἀδιάγνωστος"><gap reason="lost" extent="unknown" unit="line"></gap>
-                   </name>
-                </ab>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"></gap>
+                 </ab>
             </div>
             <div type="apparatus">
                 <p>n/a</p>

@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>The falsifier of weight (Last Judgment)</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Short horizontal line above ΠΑ; ligature AN.
+                            <handNote>White letters against red background. Majuscule letters. Short horizontal line above ΠΑ; ΑΝ in ligature.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -61,20 +61,20 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-027-01.jpg"><desc>Naos, western vault, southern part, lower register, inscription</desc></graphic>
-        <graphic rend="primary" url="055-027-02.jpg"><desc>Naos, western vault, southern part, lower register, inscription detail</desc></graphic>
-        <graphic rend="secondary" url="055-027-03.jpg"><desc>Naos, western vault, southern part, lower register, inscription</desc></graphic>
-        <graphic rend="tertiary" url="055-027-04.jpg"><desc>Naos, western vault, southern part, lower register, general view</desc></graphic>
+         <graphic url="055-027-01.JPG"><desc>Naos, western vault, southern part, lower register, inscription</desc></graphic>
+        <graphic rend="primary" url="055-027-02.JPG"><desc>Naos, western vault, southern part, lower register, inscription detail</desc></graphic>
+        <graphic rend="secondary" url="055-027-03.JPG"><desc>Naos, western vault, southern part, lower register, inscription</desc></graphic>
+        <graphic rend="tertiary" url="055-027-04.JPG"><desc>Naos, western vault, southern part, lower register, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/>Ὁ <name nymRef="πανραζυγιαστής"><w lemma="πανραζυγιαστής">π<hi rend="ligature">αν</hi>ρα<unclear>ζ</unclear><supplied reason="lost">υγια</supplied>στής</w></name>
+                    <lb n="1"/>Ὁ <name nymRef="#πανραζυγιαστής"><w lemma="πανραζυγιαστής">π<hi rend="ligature">αν</hi>ρα<unclear>ζ</unclear><supplied reason="lost">υγια</supplied>στής</w></name>
                 </ab>
             </div>
             <div type="apparatus">
