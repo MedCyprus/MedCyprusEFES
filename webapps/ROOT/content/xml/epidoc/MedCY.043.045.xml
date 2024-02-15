@@ -62,12 +62,12 @@
                     <term type="textType" ref="text_types.xml#doc9">Sigla</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-045-01.jpg"><desc>Naos, west wall, upper register, central scene, inscription</desc></graphic>
-         <graphic url="043-045-02.jpg"><desc>Naos, west wall, upper register, central scene, general view</desc></graphic>
+         <graphic rend="primary" url="043-045-01.JPG"><desc>Naos, west wall, upper register, central scene, inscription</desc></graphic>
+         <graphic url="043-045-02.JPG"><desc>Naos, west wall, upper register, central scene, general view</desc></graphic>
     </facsimile>
     <text>
         <body>

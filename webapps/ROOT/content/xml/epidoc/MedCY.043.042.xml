@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Letters' size varies. Zeta is formed by the superscript seven and a backslash; delta with a lambda on a horizontal bar, which at its ends has a vertical point; xi with superscript zeta and wavy diagonal sigma. ΤΟΥ in ligature with the tau emerging from the upsilon. Double point after Λάζαρε. Accents and breathings systematic. Letter height: <height unit="cm">3</height>
+                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. Zeta is formed by the superscript seven and a backslash; delta with a lambda on a horizontal bar, which at its ends has a vertical point; xi with superscript zeta and wavy diagonal sigma. ΤΟΥ in ligature with the tau emerging from the upsilon. Double point after Λάζαρε. Accents and breathings systematic. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -62,12 +62,12 @@
                     <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-042-01.jpg"><desc>Naos, west wall, upper register, first scene on the left, inscription</desc></graphic>
-         <graphic url="043-042-02.jpg"><desc>Naos, west wall, upper register, first scene on the left, general view</desc></graphic>
+         <graphic rend="primary" url="043-042-01.JPG"><desc>Naos, west wall, upper register, first scene on the left, inscription</desc></graphic>
+         <graphic url="043-042-02.JPG"><desc>Naos, west wall, upper register, first scene on the left, general view</desc></graphic>
     </facsimile>
     <text>
         <body>

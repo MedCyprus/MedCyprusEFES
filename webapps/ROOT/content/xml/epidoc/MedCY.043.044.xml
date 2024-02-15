@@ -62,12 +62,12 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-044-01.jpg"><desc>Naos, west wall, upper register, central scene, inscription</desc></graphic>
-         <graphic url="043-044-02.jpg"><desc>Naos, west wall, upper register, central scene, general view</desc></graphic>
+         <graphic rend="primary" url="043-044-01.JPG"><desc>Naos, west wall, upper register, central scene, inscription</desc></graphic>
+         <graphic url="043-044-02.JPG"><desc>Naos, west wall, upper register, central scene, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -83,7 +83,7 @@
                 <p>Entry to Jerusalem</p>
             </div>
             <div type="commentary">
-                <p>Badly damaged. Partially preserved. The word βαϊοφόρος is misspelled. The scene is narrated in Matt. 21:1–11, Mark 11:1–11, Luke 19:28–44 and John 12:12–19
+                <p>Badly damaged. Partially preserved. The word βαϊοφόρος is misspelled. The scene is narrated in Matt. 21:1–11, Mark 11:1–11, Luke 19:28–44 and John 12:12–19.
 </p>
             </div>
             <div type="bibliography">
