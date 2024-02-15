@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue backgroud. Majuscule letters. Characters'size varies. The letters MHN, ΔΗ, ΤΟΥ, ΜΗ and OY are in ligatures. Breathings and accents almost systematic. Breathing of the modern variety (circular).
+                            <handNote>White letters against blue backgroud. Majuscule letters. Characters'size varies. The letters MHN, ΔΗ, ΤΟΥ, ΜΗ and OY are in ligatures. Use of diaeresis over iota in ÏZ and ÏE. Small rounded marks above the letters indicating the numbers.The word ινδικτιῶνος is fully rendered by an abbreviation with a wavy line above the word Breathings and accents almost systematic. Breathing of the modern variety (circular).
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,20 +75,20 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                 <lb n="1"/><w lemma="μήν">Μην<choice><orig>ῖ</orig><reg>ὶ</reg></choice></w> <w lemma="Δεκέμβριος">Δηκ<supplied reason="lost">ε</supplied>βρίο</w> ΙΖ
-                 <lb n="2"/>  ΙΕ  <w lemma="ἔτος">ἔ<hi rend="ligature">του</hi>ς</w> <w lemma="κοιμῶμαι">ἐκυ
-                 <lb n="3" break="no"/>μήθη</w> ἡ <w lemma="δούλη">δ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ύ</reg></choice></hi>λι</w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> Θεου Γέφυ
-                 <lb n="4" break="no"/>ρα
+                 <lb n="1"/><w lemma="μήν">Μην<choice><orig>ῖ</orig><reg>ὶ</reg></choice></w> <w lemma="Δεκέμβριος">Δηκ<supplied reason="lost">ε</supplied>βρίο</w> <num value="17">ΙΖ</num>
+                 <lb n="2"/><expan><abbr rend="supraline">ιν</abbr><ex>δικτιῶνος</ex></expan> <num value="15">ΙΕ</num> <w lemma="ἔτος">ἔ<hi rend="ligature">του</hi>ς</w> <num value="6608"><hi rend="ligature">&#x03DB;</hi>ϛχε</num> <w lemma="κοιμῶμαι">ἐκυ
+                 <lb n="3" break="no"/>μήθη</w> ἡ <w lemma="δούλη">δ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ύ</reg></choice></hi>λι</w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr>Θ</abbr><ex>εο</ex><abbr><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></w></persName> <persName type="attested" role="donor" ref="#Gefyra"><name nymRef="#Γέφυρα" type="forename">Γέφυ
+                 <lb n="4" break="no"/>ρα</name></persName>
               </ab>
             </div>
             <div type="apparatus">
                 <p>PENDING</p>
                  </div>
             <div type="translation">
-                <p> PENDING</p> 
+                <p> On December 17 of the fifteenth indiction of the year 6608 (1099) died Gephyra, the servant of God.</p> 
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition. The words Δεκεμβρίω, ἐκοιμήθη, and δούλη are mispelled. </p>
             </div>
             <div type="bibliography">
                 <listBibl> 
