@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Prophet Solomon</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -61,13 +61,13 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="055-014-02.jpg"><desc>Naos, southwestern pilaster, below the dome, north face, upper register, inscription </desc></graphic>
-        <graphic url="055-014-01.jpg"><desc>Naos, southwestern pilaster, below the dome, north face, upper register, inscription detail</desc></graphic>
-        <graphic url="055-014-03.jpg"><desc>Naos, southwestern pilaster, below the dome, north face, upper register, inscription detail</desc></graphic>
+         <graphic rend="primary" url="055-014-02.JPG"><desc>Naos, southwestern pilaster, below the dome, north face, upper register, inscription </desc></graphic>
+        <graphic url="055-014-01.JPG"><desc>Naos, southwestern pilaster, below the dome, north face, upper register, inscription detail</desc></graphic>
+        <graphic url="055-014-03.JPG"><desc>Naos, southwestern pilaster, below the dome, north face, upper register, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -77,7 +77,7 @@
                     <lb n="1"/><persName type="sacred" key="Solomon">Ὁ<am> &#x00A0;῾&#x00A0;</am>
                     <lb n="2"/><w lemma="προφήτης"><expan><abbr rend="supraline">πρ</abbr><ex>ο</ex><abbr rend="supraline">φ</abbr><ex>ή</ex><abbr rend="supraline">τ</abbr><ex>ης</ex></expan><am>&#x00A0;΄&#x00A0;</am></w>
                   <cb n="b"/>
-                  <lb n="1"/><name nymRef="Σολομών">Σο</name>
+                  <lb n="1"/><name nymRef="#Σολομών">Σο</name>
                   <lb n="2" break="no"/>λ<supplied reason="lost">ο</supplied>
                         <lb n="3" break="no"/><supplied reason="lost">μών</supplied>
                     </persName>

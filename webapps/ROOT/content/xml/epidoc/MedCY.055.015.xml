@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Prophet Solomon's scroll</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two ruled ochre coloured lines. The inscription is written entirely in majuscule. Iota is decorated with a star; round omicron attached to nearly round final sigma. Sporadic accents. Letter height: <height unit="cm">4</height>
+                            <handNote>Black letters against white background between two ruled ochre coloured lines. Majuscule letters. Iota is decorated with a star; round omicron attached to nearly round final sigma. Sporadic accents. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -61,12 +61,12 @@
                     <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-015-02.jpg"><desc>Naos, southwestern pilaster, below the dome, north face, upper register, inscription detail</desc></graphic>
-        <graphic rend="primary" url="055-015-01.jpg"><desc>Naos, southwestern pilaster, below the dome, north face, upper register, inscription </desc></graphic>
+         <graphic url="055-015-02.JPG"><desc>Naos, southwestern pilaster, below the dome, north face, upper register, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-015-01.JPG"><desc>Naos, southwestern pilaster, below the dome, north face, upper register, inscription </desc></graphic>
     </facsimile>
     <text>
         <body>

@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Apostle Peter's scroll</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two ruled ochre coloured lines. The inscription is written in majuscule with a sporadic use of minuscule letters (ο, α, ι). Round omicron attached to nearly round final sigma OC (line 4).Throughout the inscription there are ligatures of the letters ΙΜ, αΙ. In line 5 and 7 the ligature αΙ is written with a minuscule alpha attached to a majuscule iota. There are also superscripts of the letters Φ and Ρ. Sporadic accents and breathings. Letter height: <height unit="cm">4</height>
+                            <handNote>Black letters against white background between two ruled ochre coloured lines. Majuscule letters. Characters' size varies. Round omicron attached to nearly round final sigma OC (line 4).Throughout the inscription there are ligatures of the letters ΙΜ, αΙ. In line 5 and 7 the ligature αΙ is written with a minuscule alpha attached to a majuscule iota. There are also superscripts of the letters Φ and Ρ. Sporadic accents and breathings. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -61,13 +61,13 @@
                     <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
                 </keywords>
             </textClass>
-            <creation> © Department of Antiquities, Cyprus, Photographic Archive</creation>
+            <creation> transcription (Th. Petrou), Photographic Archive © Department of Antiquities, Cyprus</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="055-013-001.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
-            <graphic url="055-013-02.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription</desc></graphic>
-        <graphic url="055-013-03.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, scroll</desc></graphic>
+        <graphic rend="primary" url="055-013-001.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
+            <graphic url="055-013-02.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription</desc></graphic>
+        <graphic url="055-013-03.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, scroll</desc></graphic>
         
     </facsimile>
     <text>

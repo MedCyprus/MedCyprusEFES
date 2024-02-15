@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Peter the Apostle</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -61,13 +61,13 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="055-012-01.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription</desc></graphic>
-        <graphic url="055-012-02.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription detail</desc></graphic>
-        <graphic url="055-012-03.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription detail </desc></graphic>
+        <graphic rend="primary" url="055-012-01.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription</desc></graphic>
+        <graphic url="055-012-02.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription detail</desc></graphic>
+        <graphic url="055-012-03.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription detail </desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -79,7 +79,7 @@
                     <lb n="3" break="no"/><supplied reason="lost">γι</supplied>
                     <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w>
                     <cb n="b"/>
-                    <lb n="1"/><name nymRef="Πέτρος">Πέ
+                    <lb n="1"/><name nymRef="#Πέτρος">Πέ
                     <lb n="2" break="no"/>τ<supplied reason="lost">ρος</supplied></name></persName>
                 </ab>
             </div>

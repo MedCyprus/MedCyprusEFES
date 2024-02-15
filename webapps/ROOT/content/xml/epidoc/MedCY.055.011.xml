@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Apostle Paul's scroll</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two ruled ochre coloured lines. The inscription is written in majuscule with a sporadic use of minuscule letters (ι, α, γ, ο). There are also superscripts of the letters Ν, T, Ι, whose size varies. Throughout the inscription there are ligatures of the letters αΙ, ΤH, ΝΗΠ, τι, Το. In line 3 the ligature αΙ is written with a minuscule alpha attached to a majuscule iota. Mu in l. 4, with middle bar split into two parts, the upper part in the shape of an upsilon ending on a dot above a iota-shaped element; wide omega with crosslet in l. 9; use of diaeresis over iota in παντὶ (l. 5). Almost systematic use of accents and breathings. Double point after Ἀδελφοί and after ἀγαθόν. Letter height: <height unit="cm">4-5</height>
+                            <handNote>Black letters against white background between two ruled ochre coloured lines. Majuscule letters. Characters' size varies. Ν, T, Ι in superscripts. ΑΙ, ΤH, ΝΗΠ, ΤΙ, ΤΟ in ligatures. In line 3 the ligature αΙ is written with a minuscule alpha attached to a majuscule iota. Mu in l. 4, with middle bar split into two parts, the upper part in the shape of an upsilon ending on a dot above a iota-shaped element; wide omega with crosslet in l. 9; use of diaeresis over iota in παντὶ (l. 5). Almost systematic use of accents and breathings. Double point after Ἀδελφοί and after ἀγαθόν. Letter height: <height unit="cm">4-5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -61,16 +61,16 @@
                     <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-011-02.jpg"><desc>Naos, southwestern pilaster, below the dome, north face, lower register, inscription detail</desc></graphic>
-        <graphic rend="primary" url="055-011-01.jpg"><desc>Naos, southwestern pilaster, below the dome,  north face, lower register, scroll</desc></graphic>
-        <graphic rend="secondary" url="055-011-03.jpg"><desc>Naos, southwestern pilaster, below the dome, north face, lower register, inscription detail</desc></graphic>
-        <graphic rend="3" url="055-011-04.jpg"><desc>Naos, southwestern pilaster, below the dome, north face, lower register, inscription detail</desc></graphic>
-        <graphic rend="4" url="055-011-05.jpg"><desc>Naos, southwestern pilaster, below the dome, north face, lower register, inscription detail</desc></graphic>
-         <graphic rend="5" url="055-011-06.jpg"><desc>Naos, southwestern pilaster, below the dome, north face, lower register, inscription </desc></graphic>
+         <graphic url="055-011-02.JPG"><desc>Naos, southwestern pilaster, below the dome, north face, lower register, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-011-01.JPG"><desc>Naos, southwestern pilaster, below the dome,  north face, lower register, scroll</desc></graphic>
+        <graphic rend="secondary" url="055-011-03.JPG"><desc>Naos, southwestern pilaster, below the dome, north face, lower register, inscription detail</desc></graphic>
+        <graphic rend="3" url="055-011-04.JPG"><desc>Naos, southwestern pilaster, below the dome, north face, lower register, inscription detail</desc></graphic>
+        <graphic rend="4" url="055-011-05.JPG"><desc>Naos, southwestern pilaster, below the dome, north face, lower register, inscription detail</desc></graphic>
+         <graphic rend="5" url="055-011-06.JPG"><desc>Naos, southwestern pilaster, below the dome, north face, lower register, inscription </desc></graphic>
     </facsimile>
     <text>
         <body>
