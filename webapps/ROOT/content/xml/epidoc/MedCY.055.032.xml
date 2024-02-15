@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Sphere's Cryptograms and tetragram</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Brown letters against white background. Majuscule letters except of the use of minuscule upsilon in ligature with iota. Each of the cryptogram has a line above it signified its abbreviation. In the lower corners of the cross there is the tetragram EEEE also abbreviated with a line above it. Letter height: <height unit="cm">1,5-3</height>
+                            <handNote>Brown letters against white background. Majuscule letters. Each of the cryptogram has a line above it signified its abbreviation. In the lower corners of the cross there is the tetragram EEEE also abbreviated with a line above it. Letter height: <height unit="cm">1,5-3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -61,23 +61,22 @@
                     <term type="textType" ref="text_types.xml#doc2">Cryptograms, tetragram</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="055-032-01.jpg"><desc>Naos, northeastern pilaster, below the dome, west face, lower register, inscription</desc></graphic>
-        <graphic url="055-032-02.jpg"><desc>Naos, northeastern pilaster, below the dome, west face, lower register, general view</desc></graphic>
+        <graphic rend="primary" url="055-032-01.JPG"><desc>Naos, northeastern pilaster, below the dome, west face, lower register, inscription</desc></graphic>
+        <graphic url="055-032-02.JPG"><desc>Naos, northeastern pilaster, below the dome, west face, lower register, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                         <lb n="1"/><milestone unit="column" n="left"/><persName type="divine" key="JesusChrist"><name nymRef="Ἰησοῦς Χριστός"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></name>
-                       <lb n="2"/><milestone unit="column" n="left"/><persName type="divine" key="SonOfGod"><expan><abbr rend="supraline"><hi rend="ligature">Υ<choice><orig>ι</orig><reg>ἱ</reg></choice></hi></abbr><ex>ό</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName></persName>
-                    <lb n="3"/><milestone unit="column" n="left"/><w lemma="νικῶ">Νι <milestone unit="column" n="right" break="no"/>κ<choice><orig>α</orig><reg>ᾷ</reg></choice></w>
-                    <lb n="4"/><milestone unit="column" n="left"/>
-       <w lemma="εὕρεμα"><expan><abbr rend="supraline">Ε</abbr><ex>ὕρεμα</ex></expan></w> <w lemma="δίδωμι"><expan><abbr rend="supraline"><choice><orig>ε</orig><reg>ἐ</reg></choice></abbr><ex>δόθη</ex></expan></w>
-      <milestone unit="column" n="right"/> <expan><abbr rend="supraline"><choice><orig>ε</orig><reg>ἐ</reg></choice></abbr><ex>κ Θεοῦ <!--<persName type="divine" key="God"><name nymRef="Θεός">Θεοῦ</name></persName>--></ex></expan> <persName type="sacred" key="Helena"><name nymRef="Ἐλένη"></name><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἑ</reg></choice></abbr><ex>λένης</ex></expan> </persName>                  
+                         <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς Χριστός"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></name>
+                       <lb n="2"/><persName type="divine" key="SonOfGod"><expan><abbr rend="supraline"><hi rend="ligature">Υ<choice><orig>ι</orig><reg>ἱ</reg></choice></hi></abbr><ex>ό</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName></persName>
+                    <lb n="3"/><w lemma="νικῶ">Νι <milestone unit="column" break="no"/>κ<choice><orig>α</orig><reg>ᾷ</reg></choice></w>
+                    <lb n="4"/><w lemma="εὕρεμα"><expan><abbr rend="supraline">Ε</abbr><ex>ὕρεμα</ex></expan></w> <w lemma="δίδωμι"><expan><abbr rend="supraline"><choice><orig>ε</orig><reg>ἐ</reg></choice></abbr><ex>δόθη</ex></expan></w>
+      <milestone unit="column"/> <expan><abbr rend="supraline"><choice><orig>ε</orig><reg>ἐ</reg></choice></abbr><ex>κ Θεοῦ <!--<persName type="divine" key="God"><name nymRef="#Θεός">Θεοῦ</name></persName>--></ex></expan> <persName type="sacred" key="Helena"><name nymRef="#Ἐλένη"></name><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἑ</reg></choice></abbr><ex>λένης</ex></expan> </persName>                  
                 </ab>
             </div>
             <div type="apparatus">
