@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Prophet David</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -61,12 +61,12 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-016-01.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, upper register, inscription detail</desc></graphic>
-        <graphic rend="primary" url="055-016-02.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, upper register, inscription </desc></graphic>
+         <graphic url="055-016-01.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, upper register, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-016-02.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, upper register, inscription </desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -76,7 +76,7 @@
                     <lb n="1"/><persName type="sacred" key="David"><supplied reason="lost">Ὁ</supplied>
                     <lb n="2"/><w lemma="προφήτης"><supplied reason="lost"><expan><abbr rend="supraline">πρ</abbr><ex>ο</ex><abbr rend="supraline">φ</abbr><ex>ή</ex><abbr rend="supraline">τ</abbr><ex>ης</ex></expan></supplied></w>
                   <cb n="b"/>
-                  <lb n="1"/><name nymRef="Δαυΐδ"><expan><abbr rend="supraline">Δα</abbr><ex>υΐ</ex><abbr rend="supraline">δ</abbr></expan></name>
+                  <lb n="1"/><name nymRef="#Δαυΐδ"><expan><abbr rend="supraline">Δα</abbr><ex>υΐ</ex><abbr rend="supraline">δ</abbr></expan></name>
                     </persName>
                 </ab>
             </div>

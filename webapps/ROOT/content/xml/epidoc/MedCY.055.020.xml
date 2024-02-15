@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint John the Theologian (Crucifixion scene)</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -61,12 +61,12 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-020-01.jpg"><desc>Naos, south wall, below the dome, lower register, on the west, inscription detail</desc></graphic>
-        <graphic rend="primary" url="055-020-02.jpg"><desc>Naos, south wall, below the dome, lower register, on the west, inscription</desc></graphic>
+         <graphic url="055-020-01.JPG"><desc>Naos, south wall, below the dome, lower register, on the west, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-020-02.JPG"><desc>Naos, south wall, below the dome, lower register, on the west, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>

@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Prophet David's scroll</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two ruled ochre coloured lines. The inscription is written in majuscule letters, except the α from the ligature αΙ. Round omicron attached to nearly round final sigma. In the middle of the horizontal bar of Π letter, there is a short, thin line, very frequent in Sotera. Accents and breathings systematic. Letter height: <height unit="cm">4</height>
+                            <handNote>Black letters against white background between two ruled ochre coloured lines. Majuscule letters. Some characters' size varies. Round omicron attached to nearly round final sigma. In the middle of the horizontal bar of Π letter, there is a short, thin line, very frequent in Sotera. ΑΙ in ligature. Accents and breathings systematic. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -61,12 +61,12 @@
                     <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-017-02.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, upper register, inscription detail</desc></graphic>
-        <graphic rend="primary" url="055-017-01.jpg"><desc>Naos, northwestern pilaster, below the dome, south face, upper register, inscription </desc></graphic>
+         <graphic url="055-017-02.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, upper register, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-017-01.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, upper register, inscription </desc></graphic>
     </facsimile>
     <text>
         <body>

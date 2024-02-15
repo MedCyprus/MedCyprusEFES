@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint John Climacus</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -61,14 +61,14 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="055-021-2.jpg"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription detail</desc></graphic>
-        <graphic url="055-021-3.jpg"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription detail</desc></graphic>
-        <graphic rend="primary" url="055-021-1.jpg"><desc>Naos, dome, south arch, soffit, west half, inscription </desc></graphic>
-  </facsimile>
+        <graphic rend="primary" url="055-021-1.JPG"><desc>Naos, dome, south arch, soffit, west half, inscription </desc></graphic>
+        <graphic url="055-021-2.JPG"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription detail</desc></graphic>
+        <graphic url="055-021-3.JPG"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription detail</desc></graphic>
+          </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
@@ -79,7 +79,7 @@
                     <lb n="3" break="no" /><supplied reason="lost">γι</supplied>
                     <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w>
                     <cb n="b"/>
-                    <lb n="1"/><name nymRef="Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>
+                    <lb n="1"/><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>
                     <lb n="2"/>ὁ
                      <lb n="3"/>τ<choice><orig>η</orig><reg>ῆ</reg></choice>ς
                      <lb n="4"/><w lemma="κλῖμαξ">κλί

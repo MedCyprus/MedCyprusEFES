@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Demetrios</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. The inscription is written entirely in majuscule. In the column a, use of a round omicron; diagonal, wavy line for final sigma. In the column b, a round omicron attached to nearly round final sigma. There is one ligature of the letters ΜΗ, TΡ. Accents and breathings systematic. Letter height: <height unit="cm">4</height>
+                            <handNote>White letters against red background. Majuscule letters. In the column a, use of a round omicron; diagonal, wavy line for final sigma. In the column b, a round omicron attached to nearly round final sigma. ΜΗ, TΡ in ligatures. Accents and breathings systematic. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -61,13 +61,13 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="055-019-02.jpg"><desc>Naos, southwestern pilaster, below the dome, east face, lower register, inscription</desc></graphic>
-        <graphic url="055-019-01.jpg"><desc>Naos, southwestern pilaster, below the dome, east face, lower register, inscription detail</desc></graphic>
-        <graphic url="055-019-03.jpg"><desc>Naos, southwestern pilaster, below the dome, east face, lower register, inscription detail</desc></graphic>
+         <graphic rend="primary" url="055-019-02.JPG"><desc>Naos, southwestern pilaster, below the dome, east face, lower register, inscription</desc></graphic>
+        <graphic url="055-019-01.JPG"><desc>Naos, southwestern pilaster, below the dome, east face, lower register, inscription detail</desc></graphic>
+        <graphic url="055-019-03.JPG"><desc>Naos, southwestern pilaster, below the dome, east face, lower register, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -79,7 +79,7 @@
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/>ος</w>
                     <cb n="b"/>
-                     <lb n="1"/><name nymRef="Δημήτριος">Δη
+                     <lb n="1"/><name nymRef="#Δημήτριος">Δη
                      <lb n="2" break="no"/><hi rend="ligature">μ<unclear>ή</unclear></hi>
                     <lb n="3" break="no"/><hi rend="ligature">τρ</hi>ιος</name></persName>
                 </ab>
