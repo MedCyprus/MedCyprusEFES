@@ -61,7 +61,7 @@
                     <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
                 </keywords>
             </textClass>
-            <creation>transcription</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -77,7 +77,7 @@
                 </ab>
             </div>
             <div type="apparatus">
-                <p>n/a</p>
+                <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>Book of the birth of Jesus Christ</p>

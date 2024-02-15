@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Mamas</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -61,13 +61,13 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-009-002.jpg"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription detail</desc></graphic>
-        <graphic rend="primary" url="055-009-001.jpg"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription </desc></graphic>
-        <graphic rend="secondary" url="055-009-003.jpg"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription detail</desc></graphic>
+         <graphic url="055-009-002.JPG"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-009-001.JPG"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription </desc></graphic>
+        <graphic rend="secondary" url="055-009-003.JPG"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -76,12 +76,12 @@
                     <cb n="a"/>
                     <lb n="1"/>Ὁ<persName type="sacred" key="Mamas"><w lemma="ἅγιος"><expan><abbr rend="supraline"> ἅ</abbr><ex>γιος</ex></expan></w>
                         <cb n="b"/>
-                        <lb n="1"/><name nymRef="Μάμας"><supplied reason="lost">Μάμας</supplied></name>
+                        <lb n="1"/><name nymRef="#Μάμας"><supplied reason="lost">Μάμας</supplied></name>
                      </persName>
                 </ab>
             </div>
             <div type="apparatus">
-                <p>n/a</p>
+                <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>Saint Mamas</p>
