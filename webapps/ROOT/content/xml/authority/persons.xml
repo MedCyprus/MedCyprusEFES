@@ -70,6 +70,18 @@
                         <idno type="PBW">http://pbw2016.kdl.kcl.ac.uk/person/Eumathios/102/</idno>
                     </person>
                     
+                    <person xml:id="Gephyra">
+                        <persName xml:lang="en"><forename>Gephyra</forename></persName>
+                        <persName xml:lang="grc">Γέφυρα</persName>
+                        <!--> <floruit notAfter="1105">late 11th century-early 12th century</floruit>-->                     
+                       <!--> <note>Donor of the church of Panagia Phorbiotissa or Asinou, Niketari, and its 1105/6 murals</note>-->
+                    </person>
+                    <relation active="#Gephyra" ref="snap:wifeOf" passive="#NikephorosIshcyrios">
+                        <desc>Mother, daugter, sibling, or spouse of Nikephorus Ischyrios</desc>
+                    </relation>
+                    
+                    
+                    
                     <person xml:id="Germanos">
                         <persName xml:lang="en"><forename>Germanos</forename></persName>
                         <persName xml:lang="grc"><forename>Γερμανός</forename></persName>
