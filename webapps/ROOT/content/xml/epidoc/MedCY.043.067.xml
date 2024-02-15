@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint John the Forerunner's scroll</title>
-                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -63,12 +63,12 @@
                     <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-067-01.jpg"><desc>Naos, north wall, east half, lower register, next to Saint George, inscription</desc></graphic>
-         <graphic url="043-067-02.jpg"><desc>Naos, north wall, east half, lower register, next to Saint George, general view </desc></graphic>        
+         <graphic rend="primary" url="043-067-01.JPG"><desc>Naos, north wall, east half, lower register, next to Saint George, inscription</desc></graphic>
+         <graphic url="043-067-02.JPG"><desc>Naos, north wall, east half, lower register, next to Saint George, general view </desc></graphic>        
     </facsimile>
     <text>
         <body>

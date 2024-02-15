@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Archangel Michael</title>
-                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -62,14 +62,14 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-061-01.jpg"><desc>Naos, north wall, lower register, west half, central figure, inscription</desc></graphic>
-         <graphic url="043-061-02.jpg"><desc>Naos, north wall, lower register, west half, central figure, inscription detail </desc></graphic>
-         <graphic url="043-061-03.jpg"><desc>Naos, north wall, lower register, west half, central figure, inscription detail </desc></graphic>
-         <graphic url="043-061-04.jpg"><desc>Naos, north wall, lower register, west half, central figure, general view </desc></graphic>
+         <graphic rend="primary" url="043-061-01.JPG"><desc>Naos, north wall, lower register, west half, central figure, inscription</desc></graphic>
+         <graphic url="043-061-02.JPG"><desc>Naos, north wall, lower register, west half, central figure, inscription detail </desc></graphic>
+         <graphic url="043-061-03.JPG"><desc>Naos, north wall, lower register, west half, central figure, inscription detail </desc></graphic>
+         <graphic url="043-061-04.JPG"><desc>Naos, north wall, lower register, west half, central figure, general view </desc></graphic>
     </facsimile>
     <text>
         <body>
