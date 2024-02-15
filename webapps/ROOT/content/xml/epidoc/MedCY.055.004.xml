@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Mark' s gospel</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background inside an ochre colour frame. The inscription is written in majuscule with the size of some characters varying. Accents and breathings non systematic. 
+                            <handNote>Black letters against white background inside an ochre colour frame. Majuscule letters. Some characters' size varies. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -61,12 +61,12 @@
                     <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-004-01.jpg"><desc>Naos, northeastern pilaster, below the dome, south face, upper register, inscription</desc></graphic>
-        <graphic rend="primary" url="055-004-02.jpg"><desc>Naos, northeastern pilaster, below the dome, south face, upper register, inscription detail</desc></graphic>
+         <graphic url="055-004-01.JPG"><desc>Naos, northeastern pilaster, below the dome, south face, upper register, inscription</desc></graphic>
+        <graphic rend="primary" url="055-004-02.JPG"><desc>Naos, northeastern pilaster, below the dome, south face, upper register, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -79,7 +79,7 @@
                     <lb n="4" break="no"/>
                     <cb n="b"/>
                     <lb n="1"/>γγελ<supplied reason="lost">ί</supplied>
-                    <lb n="2" break="no"/>ου</w> <persName type="divine" key="JesusChrist"><name nymRef="Ἰησοῦς Χριστός"></name><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><supplied reason="lost"><ex>ησο</ex><abbr rend="supraline">ῦ</abbr></supplied></expan>
+                    <lb n="2" break="no"/>ου</w> <persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς Χριστός"></name><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><supplied reason="lost"><ex>ησο</ex><abbr rend="supraline">ῦ</abbr></supplied></expan>
                     <lb  n="3"/><supplied reason="lost"><expan><abbr rend="supraline">Χ</abbr><ex>ριστο</ex><abbr rend="supraline">ῦ</abbr></expan></supplied></persName>
                 </ab>
             </div>

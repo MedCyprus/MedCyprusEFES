@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Constantine of Ormideia</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. The inscription is written entirely in majuscule. However, many letters haven't survived. Letter height: <height unit="cm">4-5</height>
+                            <handNote>White letters against blue background. Majuscule letters. However, many letters haven't survived. Letter height: <height unit="cm">4-5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -61,14 +61,14 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-005-002.jpg"><desc>Naos, southeastern pilaster, below the dome, north face, lower register, inscription detail</desc></graphic>
-        <graphic rend="primary" url="055-005-001.jpg"><desc>Naos, southeastern pilaster, below the dome, north face, lower register, inscription </desc></graphic>
-        <graphic rend="secondary" url="055-005-03.jpg"><desc>Naos, southeastern pilaster, below the dome, north face, lower register, nscription detail</desc></graphic>
-        <graphic rend="tertiary" url="055-005-04.jpg"><desc>Naos, southeastern pilaster, below the dome, north face, lower register, inscription detail</desc></graphic>
+         <graphic url="055-005-002.JPG"><desc>Naos, southeastern pilaster, below the dome, north face, lower register, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-005-001.JPG"><desc>Naos, southeastern pilaster, below the dome, north face, lower register, inscription </desc></graphic>
+        <graphic rend="secondary" url="055-005-03.JPG"><desc>Naos, southeastern pilaster, below the dome, north face, lower register, nscription detail</desc></graphic>
+        <graphic rend="tertiary" url="055-005-04.JPG"><desc>Naos, southeastern pilaster, below the dome, north face, lower register, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -80,7 +80,7 @@
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w>
                   <cb n="b"/>
-                  <lb n="1"/><name nymRef="Κωνσταντίνος της Ορμήδειας"><supplied reason="lost">Κ</supplied><unclear>οσ</unclear></name>
+                  <lb n="1"/><name nymRef="#Κωνσταντίνος της Ορμήδειας"><supplied reason="lost">Κ</supplied><unclear>οσ</unclear></name>
                   <lb n="2" break="no"/><supplied reason="lost">τ</supplied>αν
                         <lb n="3" break="no"/><supplied reason="lost">τ</supplied>
                         <lb n="4" break="no"/>ῆ

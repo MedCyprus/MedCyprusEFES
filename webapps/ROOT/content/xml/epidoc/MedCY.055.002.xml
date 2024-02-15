@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Matthew' s gospel</title>
-                <author xml:id="tp">Theocharis Petrou</author> 
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background inside an ochre colour frame. The inscription is written entirely in majuscule. Iota with a star; round omicron. The abbreviation of the word Γένεσις is faded and exfoliated. Accents and breathings non systematic.   <height unit="cm"></height>
+                            <handNote>Black letters against white background inside an ochre colour frame. Majuscule letters. Iota with a star; round omicron. The abbreviation of the word Γένεσις is faded and exfoliated. Accents and breathings non systematic.   <height unit="cm"></height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -61,11 +61,11 @@
                     <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="055-002-01.jpg"><desc>Naos, southeastern pilaster, below the dome, north face, upper register, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-002-01.JPG"><desc>Naos, southeastern pilaster, below the dome, north face, upper register, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
