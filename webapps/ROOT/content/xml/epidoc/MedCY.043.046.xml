@@ -62,12 +62,12 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-046-01.jpg"><desc>Naos, west wall, upper register, first scene from the right, inscription</desc></graphic>
-         <graphic url="043-046-02.jpg"><desc>Naos, west wall, upper register, first scene from the right, general view</desc></graphic>
+         <graphic rend="primary" url="043-046-01.JPG"><desc>Naos, west wall, upper register, first scene from the right, inscription</desc></graphic>
+         <graphic url="043-046-02.JPG"><desc>Naos, west wall, upper register, first scene from the right, general view</desc></graphic>
     </facsimile>
     <text>
         <body>

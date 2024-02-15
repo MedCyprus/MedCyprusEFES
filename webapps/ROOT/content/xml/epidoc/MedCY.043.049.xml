@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Crucifixion, John the Theologian</title>
-                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Letters' size varies. Based on the other inscriptions on the monument, the saint's caption would also be written entirely in majuscule. John is abbreviated Ἰω(άννης) with a small horizontal line above the Ἰω. Round omicron; diagonal, wavy final sigma. Accents and breathings systematic. Letter height: <height unit="cm">2,5</height>
+                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. Based on the other inscriptions on the monument, the saint's caption would also be written entirely in majuscule. John is abbreviated Ἰω(άννης) with a small horizontal line above the Ἰω. Round omicron; diagonal, wavy final sigma. Accents and breathings systematic. Letter height: <height unit="cm">2,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -62,11 +62,11 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-049-01.jpg"><desc>Naos, west wall, upper register, first scene on the right, inscription</desc></graphic>
+         <graphic rend="primary" url="043-049-01.JPG"><desc>Naos, west wall, upper register, first scene on the right, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>

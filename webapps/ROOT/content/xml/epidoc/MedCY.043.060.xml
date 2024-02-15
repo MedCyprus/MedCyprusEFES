@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Stylianos' scroll</title>
-                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two ruled ochre-coloured line. Majuscule letters. Some characters' size varies. Mu with its middle bar forms a tau; omega with crosslet. ΟΥ, ΤΟ, ΠΝ in ligature. Double point before καταφυγή and σκέπη. Accents and breathings systematic. Letter height: <height unit="cm">3-3,5</height>
+                            <handNote>Black letters against white background between two ruled ochre-coloured line. Majuscule letters. Some characters' size varies. Mu with its middle bar forms a tau; omega with crosslet. ΟΥ, ΤΟ, ΠΝ in ligatures. Double point before καταφυγή and σκέπη. Accents and breathings systematic. Letter height: <height unit="cm">3-3,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -63,12 +63,12 @@
                     <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-060-01.jpg"><desc>Naos, north wall, lower register, west half, first figure on the left, inscription detail</desc></graphic>
-         <graphic url="043-060-02.jpg"><desc>Naos, north wall, lower register, west half, first figure on the left, general view </desc></graphic>
+         <graphic rend="primary" url="043-060-01.JPG"><desc>Naos, north wall, lower register, west half, first figure on the left, inscription detail</desc></graphic>
+         <graphic url="043-060-02.JPG"><desc>Naos, north wall, lower register, west half, first figure on the left, general view </desc></graphic>
     </facsimile>
     <text>
         <body>

@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Crucifixion, Virgin</title>
-                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -62,11 +62,11 @@
                     <term type="textType" ref="text_types.xml#doc9">Sigla</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-048-01.jpg"><desc>Naos, west wall, upper register, first scene from the right, inscription</desc></graphic>
+         <graphic rend="primary" url="043-048-01.JPG"><desc>Naos, west wall, upper register, first scene from the right, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>

@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Barbara</title>
-                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -62,14 +62,14 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-052-01.jpg"><desc>Naos, west wall, lower register, north side, first figure on the left, inscription detail</desc></graphic>
-         <graphic url="043-052-02.jpg"><desc>Naos, west wall, lower register, north side, first figure on the left, inscription</desc></graphic>
-         <graphic url="043-052-03.jpg"><desc>Naos, west wall, lower register, north side, first figure on the left, general view</desc></graphic>
-         <graphic url="043-052-04.jpg"><desc>Naos, west wall, lower register, north side, first figure on the left, general view</desc></graphic>
+         <graphic rend="primary" url="043-052-01.JPG"><desc>Naos, west wall, lower register, north side, first figure on the left, inscription detail</desc></graphic>
+         <graphic url="043-052-02.JPG"><desc>Naos, west wall, lower register, north side, first figure on the left, inscription</desc></graphic>
+         <graphic url="043-052-03.JPG"><desc>Naos, west wall, lower register, north side, first figure on the left, general view</desc></graphic>
+         <graphic url="043-052-04.JPG"><desc>Naos, west wall, lower register, north side, first figure on the left, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
