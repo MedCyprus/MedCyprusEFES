@@ -108,7 +108,10 @@
                 </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <listApp>
+                   <app loc="1"><rdg resp="#Stylianou1960">ΘΕΙΟΣ ΚΑΙ ΠΑΝ</rdg><rdg resp="#Mouriki1984">ΘΕΙΟΣ ΚΑΙ ΠΑ</rdg><rdg resp="#Papageorgiou2003">ὁ πα</rdg><rdg resp="PerdikisMyrianthefs2009">ΘΕΙΟΣ ΚΑΙ ΠΑ</rdg><rdg resp="VisCult">θεῖος καὶ πά</rdg></app>
+               </listApp>
+              
             </div>
             <div type="translation">
                 <p>The most venerable church of our Lady was erected by the contribution and the great desire of Ioannes Gerakiotes/Moutoullas and his wife Eirene, on the thirtieth of July of the year 6788 (1280).</p>
