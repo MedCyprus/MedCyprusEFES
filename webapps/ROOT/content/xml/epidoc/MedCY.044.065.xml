@@ -39,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters in greenish background. Majuscule letters. Characters' size varies. Short, horizontal and vertical lines in alpha, zeta, eta, tau, upsilon and pi. Omega with crosslet. Mu with its middle bar forms an upsilon; a short, horizontal line apperas in its middle bar. NH,and OY in ligatures, with upsilon emerging from omicron. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
+                            <handNote>Black letters in greenish background. Majuscule letters. Characters' size varies. Short, horizontal and vertical lines in alpha, zeta, eta, tau, upsilon and pi. Omega with crosslet. Mu with its middle bar forms an upsilon; a short, horizontal line apperas in its middle bar. NH, and OY in ligatures, with upsilon emerging from omicron. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -65,7 +65,7 @@
                     <term type="textType" ref="text_types.xml#doc15">Hagiographical citation</term>
                 </keywords>
             </textClass>
-            <creation></creation>
+            <creation>transcription (G. Apeitos, Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>

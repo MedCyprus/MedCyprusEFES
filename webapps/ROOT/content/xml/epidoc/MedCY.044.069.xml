@@ -65,7 +65,7 @@
                     <term type="textType" ref="text_types.xml#doc15">Hagiographical citation</term>
                 </keywords>
             </textClass>
-            <creation></creation>
+            <creation>transcription (G. Apeitos, Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -78,12 +78,12 @@
               <ab>
                   <lb n="1"/><g ref="#cross">+</g>Ἡ <w lemma="μακάριος">Mακά             
                   <lb n="2" break="no"/>ριος</w> <w lemma="ἀληθῶς">ἀλη
-                  <lb n="3" break="no"/>θῶς</w> <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <w lemma="τρισμακάριος">τρισ
+                  <lb n="3" break="no"/>θῶς</w> <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <w lemma="τρισμακάριος"><hi rend="ligature">τρ</hi>ισ
                   <lb n="4" break="no"/>μακάρισ
-                  <lb n="5" break="no"/>τος</w> ὁ <w lemma="ἐγκράτεια">ἐγκρά
+                  <lb n="5" break="no"/><hi rend="ligature">το</hi>ς</w> ὁ <w lemma="ἐγκράτεια">ἐγκρά
                   <lb n="6" break="no"/>τειαν </w><expan><abbr> κ</abbr><ex>αὶ</ex></expan> <w lemma="ταπείνωσις">τα
                   <lb n="7" break="no"/>πείνωσι<expan><ex>ν</ex></expan></w>
-                  <lb n="8"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan> <w lemma="ἀγάπη">ἀγάπην</w> <w lemma="κτῶμαι">ἐ 
+                  <lb n="8"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan> <w lemma="ἀγάπη">ἀγά<hi rend="ligature">πην</hi></w> <w lemma="κτῶμαι">ἐ 
                   <lb n="9" break="no"/><supplied reason="lost">κ</supplied>τήσατ<choice><orig>ῶ</orig></choice><reg>ω</reg></w>
               </ab>
             </div>

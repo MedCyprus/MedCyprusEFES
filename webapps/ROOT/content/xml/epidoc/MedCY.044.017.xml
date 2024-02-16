@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. ΑΒ, ΑΜ, ΜΗ, ΛΗ, ΤΗ, ΑΝ, ΑΡ in ligature. Accents and breathings systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. ΑΒ, ΑΜ, ΜΗ, ΛΗ, ΤΗ, ΑΝ, ΑΡ in ligatures. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -63,7 +63,7 @@
                     <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
                 </keywords>
             </textClass>
-            <creation></creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>

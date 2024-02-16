@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two ruled grey-coloured lines. Majuscule letters. Characters size's varies. Nu with its central bar forms a vertical, zig zag line; omega formed by two omicron. ΑΝ, ΗΝ in ligature. Accents and breathings systematic.
+                            <handNote>Black letters against white background between two ruled grey-coloured lines. Majuscule letters. Characters size's varies. Nu with its central bar forms a vertical, zig zag line; omega formed by two omicron. ΑΝ, ΗΝ in ligatures. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -63,7 +63,7 @@
                     <term type="textType" ref="text_types.xml#doc7">Hymnographical citation</term>
                 </keywords>
             </textClass>
-            <creation></creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
