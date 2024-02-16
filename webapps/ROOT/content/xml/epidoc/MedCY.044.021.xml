@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters size's varies. Nu with its central bar forms a diagonal line. Double point after the word δεξιόθεν. Accents and breathings non systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Nu with its central bar forms a diagonal line. Double point after the word δεξιόθεν. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,7 +76,7 @@
                 <lg met="Dodecasyllable">
                <l n="1"><lb n="1"/><gap reason="lost" extent="unknown" unit="character"></gap> <w lemma="δεξιόθεν"><choice><sic>δεξηόθεν</sic><corr>δεξιόθεν</corr></choice></w>:</l>
                <l n="2"><lb n="2"/>ηξι<unclear>τ</unclear><gap reason="lost" extent="unknown" unit="character"></gap> με
-               <lb n="3" break="no"/>τα <w lemma="δόξα">δ<choice><orig>ο</orig><reg>ό</reg></choice>ξις</w> το<choice><orig>υ</orig><reg>ῦ</reg></choice>
+               <lb n="3" break="no"/>τα <w lemma="δόξα"><choice><sic>δ<choice><orig>ο</orig><reg>ό</reg></choice>ξις</sic><corr>δόξης</corr></choice></w> το<choice><orig>υ</orig><reg>ῦ</reg></choice>
                <lb n="4"/><persName type="divine" key="Lord"><name nymRef="#Κύριος"></name><w lemma="Κύριος"><choice><sic>Κ<choice><orig>η</orig><reg>ή</reg></choice>ριε</sic><corr>Κύριε</corr></choice></w></persName>:</l>
                <l n="3">καὶ ἀπ<choice><orig>ο</orig><reg>ὸ</reg></choice>
                <lb n="5"/>ση <gap reason="lost" extent="unknown"></gap> <w lemma="σκιά">σκιά</w> στου
@@ -87,7 +87,7 @@
                 </lg>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <listApp><app><note>Due to the very fragmentary inscription we relied on Ševčenko's transcription</note></app></listApp>
             </div>
             <div type="translation">
                 <p>Not possible</p>
