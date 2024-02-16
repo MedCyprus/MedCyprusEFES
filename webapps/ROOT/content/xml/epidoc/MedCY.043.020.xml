@@ -109,7 +109,9 @@
             </div>
             <div type="apparatus">
                <listApp>
-                   <app loc="1"><rdg resp="#Stylianou1960">ΘΕΙΟΣ ΚΑΙ ΠΑΝ</rdg><rdg resp="#Mouriki1984">ΘΕΙΟΣ ΚΑΙ ΠΑ</rdg><rdg resp="#Papageorgiou2003">ὁ πα</rdg><rdg resp="PerdikisMyrianthefs2009">ΘΕΙΟΣ ΚΑΙ ΠΑ</rdg><rdg resp="VisCult">θεῖος καὶ πά</rdg></app>
+                   <app loc="1"><rdg resp="#Stylianou1960">ΘΕΙΟΣ ΚΑΙ ΠΑΝ</rdg><rdg resp="#Mouriki1984">ΘΕΙΟC ΚΑΙ ΠΑ</rdg><rdg resp="#Papageorgiou2003">ὁ πα</rdg><rdg resp="#PerdikisMyrianthefs2009">ΘΕΙΟΣ ΚΑΙ ΠΑ</rdg><rdg resp="#VisCult">θεῖος καὶ πά</rdg></app>
+                   <app loc="2"><rdg resp="#Stylianou1960">Σ ΤΗΣ ΥΠΕΡΑΓΙΑΣ</rdg><rdg resp="#Mouriki1984">C THC ΥΠΕΡΑΓΙΑC</rdg><rdg resp="#Papageorgiou2003">τῆς ὑπεραγίας</rdg><rdg resp="#PerdikisMyrianthefs2009">Σ ΤΗΣ ΥΠΕΡΑΓΙΑΣ</rdg><rdg resp="#VisCult">ς τῆς ὐπεραγίας</rdg></app>
+                   <app loc="3"><rdg resp="PENDING">PENDING</rdg></app>
                </listApp>
               
             </div>
