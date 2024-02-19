@@ -78,7 +78,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <lb n="1"/><g ref="#cross">+</g>Ἡ <w lemma="ψυχή">ψυχὴ</w>              
-                  <lb n="2"/><w lemma="ἕβδομος">ἑβδ<choice><orig>ο</orig><reg>ό</reg></choice>μὴ</w>
+                  <lb n="2"/><w lemma="ἕβδομος">ἑβδ<choice><orig>ο</orig><reg>ό</reg></choice>μ<choice><orig>ὴ</orig><reg>η</reg></choice></w>
                   <lb n="3"/><gap reason="lost" extent="3" unit="character"/>
                   <lb n="4"/><gap reason="lost" extent="3" unit="character"/><unclear>δου</unclear>
                   <lb n="5"/><gap reason="lost" extent="3" unit="character"/><unclear>῀</unclear><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς Χριστός"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></name></persName>   
