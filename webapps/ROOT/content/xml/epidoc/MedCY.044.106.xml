@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mu with its middle bar forms a tau. Nu with its central bar forms a vertical, zig zag line. Short vetical and horizontal lines in the horizontal bar of eta and at the bottom of ypsilon. ΑΝ and ΤΡ in ligatures. Systematic use of accents and breathings. Breathing of the modern variety (circular). Letter height:<height unit="cm">3</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mu with its middle bar forms a tau. Nu with its central bar forms a vertical, zig zag line. Short vetical and horizontal lines in the horizontal bar of eta and at the bottom of ypsilon. ΑΝ and ΤΡ in ligatures. Systematic use of accents and breathings. Breathings of the modern variety (circular). Letter height:<height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -79,7 +79,7 @@
                   <cb n="a"/> 
                   <lb n="1"/><choice><orig>Ἠ</orig><reg>Ἡ</reg></choice> 
                   <lb n="2"/><persName type="sacred" key="AnastasiaPharmakolytria"><w lemma="ἁγία">ἁ
-                  <lb n="3"/><name nymRef="#Ἀναστασία"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>ναστασία</name>
+                  <lb n="3"/> <name nymRef="#Ἀναστασία"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>ναστασία</name>
                    <lb n="4" break="no"/>γί
                    <lb n="5" break="no"/>a</w>
                    <cb n="b"/>   
