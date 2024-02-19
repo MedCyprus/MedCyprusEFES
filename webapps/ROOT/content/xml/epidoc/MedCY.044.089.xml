@@ -77,13 +77,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><g ref="#cross">+</g><w lemma="ἐγώ"><choice><orig>Ἑ</orig><reg>Ἐ</reg></choice>γὼ</w> <w lemma="οὐκέτι">οὐ           
+                  <lb n="1"/><g ref="#cross">+</g><w lemma="ἐγώ"><choice><orig>Ἑ</orig><reg>Ἐ</reg></choice>γὼ</w> <w lemma="οὐκέτι"><hi rend="ligature">οὐ</hi>         
                   <lb n="2" break="no"/>κέτι</w> <w lemma="φοβέομαι">φοβ
-                  <lb n="3" break="no"/><supplied reason="lost">οῦμαι</supplied></w> <supplied reason="lost">τὸν</supplied> <persName type="divine" key="God"><name nymRef="#Θεός"><w lemma="Θεός"><supplied reason="lost"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></supplied></w></name></persName> <w lemma="ἀλλά"><supplied reason="lost">ἀλλά</supplied></w> <w lemma="ἀγαπῶ"><supplied reason="lost">ἀ</supplied>
-                  <lb n="4" break="no"/>γαπο</w> <w lemma="αὐτός">αὐτ<choice><orig>ω</orig><reg>ὼ</reg></choice><expan><ex>ν</ex></expan></w> ἡ
+                  <lb n="3" break="no"/><supplied reason="lost">οῦμαι</supplied></w> <supplied reason="lost">τὸν</supplied> <persName type="divine" key="God"><name nymRef="#Θεός"><w lemma="Θεός"><supplied reason="lost"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">v</abbr></expan></supplied></w></name></persName> <w lemma="ἀλλά"><supplied reason="lost">ἀλλά</supplied></w> <w lemma="ἀγαπῶ"><supplied reason="lost">ἀ</supplied>
+                  <lb n="4" break="no"/>γαπο</w> <w lemma="αὐτός">αὐ<hi rend="ligature"><choice><orig>ω</orig><reg>ὼ</reg></choice></hi><expan><ex>ν</ex></expan></w> ἡ
                   <lb n="5"/><supplied reason="lost">γὰρ</supplied> <w lemma="ἀγάπη"></w><supplied reason="lost">ἀ</supplied>γ<supplied reason="lost">ά</supplied>π<supplied reason="lost">η</supplied>
                   <lb n="6"/><w lemma="ἔξω"><supplied reason="lost">ἔξω</supplied></w> <w lemma="βάλλω"><supplied reason="lost">βά</supplied>
-                  <lb n="7" break="no"/>λει</w> τον <w lemma="φόβος">φ<supplied reason="lost">ό</supplied>
+                  <lb n="7" break="no"/>λει</w> <hi rend="ligature">το</hi>ν <w lemma="φόβος">φ<supplied reason="lost">ό</supplied>
                   <lb n="8" break="no"/>β<supplied reason="lost">ο</supplied>ν</w><g ref="#cross">+</g>
               </ab>
             </div>
