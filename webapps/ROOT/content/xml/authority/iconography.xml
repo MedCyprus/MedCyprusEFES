@@ -267,18 +267,22 @@
                     <term xml:lang="en">Virgin Eleousa</term>
                 </item>
                 
+                <item xml:id="VirginEnthroned">
+                    <term xml:lang="en">Virgin enthroned with the Christ child</term>
+                </item>
+                
                 <item xml:id="VirginHodegetria">
                     <term xml:lang="en">Virgin Hodegetria</term>
+                </item>
+                
+                <item xml:id="VirginMercy">
+                    <term xml:lang="en">Virgin of the Mercy</term>
                 </item>
                 
                 <item xml:id="VirginOrans">
                     <term xml:lang="en">Virgin Orans</term>
                 </item>
-                
-                <item xml:id="VirginEnthroned">
-                    <term xml:lang="en">Virgin enthroned with the Christ child</term>
-                </item>
-                
+                                             
                 <item><list type="Angelic_Powers">
                     <head>Angelic Powers</head>
                     <item xml:id="Michael"> 
