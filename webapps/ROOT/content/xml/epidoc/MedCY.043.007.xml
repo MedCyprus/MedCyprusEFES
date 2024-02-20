@@ -74,16 +74,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                     <cb n="a"/>
-                    <lb n="1"/>Ὁ<persName type="sacred" key="GregoryNazianzenos"><w lemma="ἅγιος">
-                    <lb n="2"/>ἅ
-                    <lb n="3" break="no" />γι
-                    <lb n="4" break="no"/>ος</w>
-                  <cb n="b"/>
-                  <lb n="1"/><name nymRef="#Γρηγόριος">Γρ<choice><sic><hi rend="ligature"></hi>ι</sic><corr>η</corr></choice>
-                    <lb n="2" break="no"/>γ<choice><sic>ώ</sic><corr>ό</corr></choice>
-                      <lb n="3" break="no"/><unclear>ρ</unclear><supplied reason="lost">ι</supplied>
-                      <lb n="4" break="no"/>ος</name></persName>           
+                    <cb n="a"/>
+                        <lb n="1"/>Ὁ 
+                        <lb n="2"/><persName type="sacred" key="GregoryNazianzenos"><w lemma="ἅγιος">ἅ
+                        <lb n="3" break="no" />γι
+                        <lb n="4" break="no"/>ος</w>
+                    <cb n="b"/>
+                         <lb n="1"/><name nymRef="#Γρηγόριος">Γρ<choice><sic><hi rend="ligature"></hi>ι</sic><corr>η</corr></choice>
+                         <lb n="2" break="no"/>γ<choice><sic>ώ</sic><corr>ό</corr></choice>
+                         <lb n="3" break="no"/><unclear>ρ</unclear><supplied reason="lost">ι</supplied>
+                         <lb n="4" break="no"/>ος</name></persName>           
                  </ab>
             </div>
             <div type="apparatus">
@@ -93,7 +93,7 @@
                 <p>Saint Gregory</p>
             </div>
             <div type="commentary">
-                <p>Good condition. Iota has not survived while the rho isn't discernible. The name Γρηγόριος is misspelled.</p>
+                <p>Good condition. Iota has not survived while the rho is not discernible. The name Γρηγόριος is misspelled.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
