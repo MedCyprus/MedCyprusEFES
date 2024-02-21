@@ -222,11 +222,7 @@
                 <item xml:id="Symeon"> 
                     <term xml:lang="en">Symeon</term>
                 </item>
-                
-                <item xml:id="Romanos"> 
-                    <term xml:lang="en">Romanos</term>
-                </item>
-                
+                                                
                 <item xml:id="MaleSaintUnidentified_MedCY044.037"> 
                     <term xml:lang="en">Male saint, unidentified</term>
                 </item>
@@ -782,6 +778,9 @@
                 
                 <item xml:id="JosephPoet"> 
                     <term xml:lang="en">Joseph the Poet</term>
+                </item>
+                <item xml:id="Romanos"> 
+                    <term xml:lang="en">Romanos</term>
                 </item>
                 <item xml:id="TheophanesPoet"> 
                     <term xml:lang="en">Theophanes the Poet</term>
