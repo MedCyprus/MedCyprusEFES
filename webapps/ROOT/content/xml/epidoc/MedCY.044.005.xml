@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Spiral xi ending in a reversed sigma. Mu with its middle bar forms an upsilon. ΟΥ, ΤΗ, ΝΗ in ligature. Accents and breathings non systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Spiral xi ending in a reversed sigma. Mu with its middle bar forms an upsilon. ΟΥ, ΤΗ, ΝΗ in ligatures. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -63,7 +63,7 @@
                     <term type="textType" ref="text_types.xml#doc8">Liturgical citation</term>
                 </keywords>
             </textClass>
-            <creation></creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -82,7 +82,7 @@
                 </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Drink of it, all of you. This is my blood from the new covenant, which is poured out for you for the forgiveness of sins.</p>

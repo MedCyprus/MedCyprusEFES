@@ -63,7 +63,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou, M. Xenaki, G. Apeitos)</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -82,7 +82,7 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Mother of God, Queen of All</p>
