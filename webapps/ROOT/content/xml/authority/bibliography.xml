@@ -92,9 +92,9 @@
                     
                     <bibl xml:id="HadjichristodoulouFoulias2020"><author><surname>Hadjichristodoulou</surname> <forename>Ch.</forename></author> and  <author><surname>Foulias</surname><forename> A.</forename></author>, <date>2020</date>, <title level="m">Παναγία Θεοτόκος Τρικώμου. Από το φωτογραφικό αρχείο του Σταύρου Μπαλτογιάννη</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
                     
-                    <bibl xml:id="HadjichristodoulouMyriantheus2002"><author><surname>Hadjichristodoulou</surname> <forename>Ch.</forename></author> and <author><surname>Myriantheus</surname> <forename>D.</forename></author>, <date>2002</date>, <title level="m">The Church of Our Lady of Asinou</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
+                    <bibl xml:id="HadjichristodoulouMyrianthefs2002"><author><surname>Hadjichristodoulou</surname> <forename>Ch.</forename></author> and <author><surname>Myrianthefs</surname> <forename>D.</forename></author>, <date>2002</date>, <title level="m">The Church of Our Lady of Asinou</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
                     
-                    <bibl xml:id="HadjichristodoulouMyriantheus2009"><author><surname>Hadjichristodoulou</surname> <forename>Ch.</forename></author> and <author><surname>Myriantheus</surname> <forename>D.</forename></author>, <date>2009</date>, <title level="m">Ο ναός της Παναγίας της Φορβιώτισσας στην Ασίνου</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
+                    <bibl xml:id="HadjichristodoulouMyrianthefs2009"><author><surname>Hadjichristodoulou</surname> <forename>Ch.</forename></author> and <author><surname>Myrianthefs</surname> <forename>D.</forename></author>, <date>2009</date>, <title level="m">Ο ναός της Παναγίας της Φορβιώτισσας στην Ασίνου</title>, 2nd ed.,  <pubPlace>Nicosia</pubPlace>.</bibl>
                     
                     <bibl xml:id="HatfieldYoung1978"><author><surname>Hatfield Young</surname> <forename>S.</forename></author> and <author><surname>Hatfield Young</surname> <forename>N.</forename></author>, <date>1978</date>, <title level="a">The Iconography and Date of the Wall Paintings at Ayia Solomoni, Paphos, Cyprus</title>, <title level="j">Byzantion</title> <biblScope unit="volume">48</biblScope>, <biblScope unit="page">91-111</biblScope>.</bibl>
                     
@@ -318,7 +318,7 @@
             
             <bibl copyOf="#HadjichristodoulouFoulias2020"></bibl>
             
-            <bibl copyOf="#HadjichristodoulouMyriantheus2009"></bibl>
+            <bibl copyOf="#HadjichristodoulouMyrianthefs2009"></bibl>
             
             <bibl copyOf="#HatfieldYoung1978"></bibl>
             
@@ -375,6 +375,8 @@
             <bibl copyOf="#PerdikisMyrianthefs2009"></bibl>
             
             <bibl xml:id="Rhoby2009"><author><surname>Rhoby</surname> <forename>A.</forename></author>, <date>2009</date>, <title>Byzantinische Epigramme auf Fresken und Mosaiken</title> (Byzantinische Epigramme in Inschriftlicher Überlieferung 1), <pubPlace>Vienna</pubPlace>. </bibl>
+            
+            <bibl copyOf="#MoutafovRhoby2012"></bibl>
             
             <bibl copyOf="#Sacopoulo1966"></bibl>
             
