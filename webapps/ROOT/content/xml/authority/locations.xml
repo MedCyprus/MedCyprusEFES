@@ -1396,9 +1396,10 @@
                         <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>98-9</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Sacopoulo1966"/></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1973"/></bibl>
-                        <bibl><ptr target="bibliography.xml#HadjichristodoulouMyriantheus2009"/></bibl>
+                        <bibl><ptr target="bibliography.xml#HadjichristodoulouMyrianthefs2009"/></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange> 107-8, 111-2</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange> 334, 341-52</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MoutafovRhoby2012"/><citedRange> 334, 341-52</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kalopissi-Verti2012"/><citedRange>115-208</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Ševčenko2012"/><citedRange>69-90</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#VisCult"/><citedRange> 1, 179-98</citedRange></bibl>
@@ -1413,8 +1414,9 @@
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>114-40</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2, 67-8</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange> 107-8, 111-2</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#HadjichristodoulouMyriantheus2002"/></bibl>
+                        <bibl><ptr target="bibliography.xml#HadjichristodoulouMyrianthefs2002"/></bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange>341-52</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MoutafovRhoby2012"/><citedRange> 334, 341-52</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kalopissi-Verti2012"/><citedRange>115-208</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#NicolaïdèsWinfield2012"/><citedRange>93-112</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Ševčenko2012"/><citedRange>69-90</citedRange></bibl>
