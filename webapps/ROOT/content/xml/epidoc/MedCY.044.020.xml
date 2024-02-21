@@ -63,7 +63,7 @@
                     <term type="textType" ref="text_types.xml#doc9">Sigla</term>
                 </keywords>
             </textClass>
-            <creation></creation>
+            <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -74,11 +74,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                      <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς Χριστός"> <supplied reason="lost"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan></supplied><milestone unit="column" n="right"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς<am>′</am></abbr></expan></name></persName>   
+                      <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς Χριστός"> <supplied reason="lost"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan></supplied><milestone unit="column"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς<am>′</am></abbr></expan></name></persName>   
                 </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>[Jesus] Christ</p>
