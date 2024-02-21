@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Πρ(ο)φ(ή)(τη)ς is abbreviated. ΠΦΡ, ΑΒ, ΑΜ in ligature. Tau in superscript. Accents and breathings systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Πρ(ο)φ(ή)(τη)ς is abbreviated. ΠΦΡ, ΑΒ, ΑΜ in ligatures. Tau in superscript. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -63,7 +63,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation></creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -78,7 +78,7 @@
                 </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Prophet Abraham</p>
