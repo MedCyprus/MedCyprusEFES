@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters size's varies. Small thin lines in the circular parts of the omega. Mu with its middle bar forming a tau. The word ἅγιος is abbreviated inside an omicron which indicates the article. Double dots after Ἐλεήμων. Βig, horizontal line above the abbreviation Ἰωάννης. Accents and breathings almost systematic. Letter height: <height unit="cm">3-4,5</height>  
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Small thin lines in the circular parts of the omega. Mu with its middle bar forming a tau. The word ἅγιος is abbreviated inside an omicron which indicates the article. Double dots after Ἐλεήμων. Βig, horizontal line above the abbreviation Ἰωάννης. Accents and breathings almost systematic. Letter height: <height unit="cm">3-4,5</height>  
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -64,7 +64,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-                    <creation></creation>
+                    <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -84,7 +84,7 @@
                 </ab> 
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Saint John the Merciful</p>

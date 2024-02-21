@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters size's varies.OC in the word ἅγιος in ligature, with C formed with a long wavy line. C in word Τυχικὸς formed with an inverted lunate C and a small line at the bottom. Accents and breathings almost systematic. Letters: <height unit="cm">2-4</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies.OC in the word ἅγιος in ligature, with C formed with a long wavy line. C in word Τυχικὸς formed with an inverted lunate C and a small line at the bottom. Accents and breathings almost systematic. Letter height: <height unit="cm">2-4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -64,7 +64,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-                    <creation></creation>
+                    <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -78,8 +78,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                    <cb n="a"/>
-                    <lb n="1"/><unclear>Ὁ</unclear><persName type="sacred" key="Tychikos"><w lemma="ἅγιος">
-                    <lb n="2"/><choice><orig>ά</orig><reg>ἅ</reg></choice>
+                    <lb n="1"/><unclear>Ὁ</unclear>
+                    <lb n="2"/><persName type="sacred" key="Tychikos"><w lemma="ἅγιος"><choice><orig>ά</orig><reg>ἅ</reg></choice>
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/><hi rend="ligature">ος</hi></w>
                     <cb n="b"/>
@@ -91,7 +91,7 @@
                 </ab> 
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Saint Tychikos</p>

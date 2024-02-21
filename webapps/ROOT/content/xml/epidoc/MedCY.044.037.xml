@@ -64,7 +64,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-                    <creation></creation>
+                    <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -78,11 +78,11 @@
                    <cb n="a"/> 
                     <lb n="1"/><supplied reason="lost">Ὁ <w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w></supplied>
                     <cb n="b"/>
-                    <lb n="1"/><name nymRef="Ἀδιάγνωστος">Νο<gap reason="lost" extent="unknown" unit="character"></gap></name>
+                    <lb n="1"/><name nymRef="#Ἀδιάγνωστος">Νο<gap reason="lost" extent="unknown" unit="character"></gap></name>
                 </ab> 
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>[Saint] No[--?--]</p>
