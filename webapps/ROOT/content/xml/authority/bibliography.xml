@@ -94,6 +94,8 @@
                     
                     <bibl xml:id="HadjichristodoulouMyriantheus2002"><author><surname>Hadjichristodoulou</surname> <forename>Ch.</forename></author> and <author><surname>Myriantheus</surname> <forename>D.</forename></author>, <date>2002</date>, <title level="m">The Church of Our Lady of Asinou</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
                     
+                    <bibl xml:id="HadjichristodoulouMyriantheus2009"><author><surname>Hadjichristodoulou</surname> <forename>Ch.</forename></author> and <author><surname>Myriantheus</surname> <forename>D.</forename></author>, <date>2009</date>, <title level="m">Ο ναός της Παναγίας της Φορβιώτισσας στην Ασίνου</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
+                    
                     <bibl xml:id="HatfieldYoung1978"><author><surname>Hatfield Young</surname> <forename>S.</forename></author> and <author><surname>Hatfield Young</surname> <forename>N.</forename></author>, <date>1978</date>, <title level="a">The Iconography and Date of the Wall Paintings at Ayia Solomoni, Paphos, Cyprus</title>, <title level="j">Byzantion</title> <biblScope unit="volume">48</biblScope>, <biblScope unit="page">91-111</biblScope>.</bibl>
                     
                     <bibl xml:id="Ioannou2014"><author><surname>Ioannou</surname> <forename>C.</forename></author>, <date>2014</date>, <title level="a">Οι εργασίες συντήρησης των τοιχογραφιών στο ναό της Παναγίας Κοφίνου</title>, in <title level="m">Ευμάθιος Φιλοκάλης. Ανάδειξη βυζαντινών μνημείων Κρήτης και Κύπρου</title>, ed. <editor><forename>E.</forename><surname>Procopiou</surname></editor> and <editor><forename>N.</forename> <surname>Pyrrou</surname></editor>, <pubPlace>Rethymno</pubPlace>, <biblScope unit="page">278-99</biblScope>.</bibl>
@@ -316,7 +318,7 @@
             
             <bibl copyOf="#HadjichristodoulouFoulias2020"></bibl>
             
-            <bibl copyOf="#HadjichristodoulouMyriantheus2002"></bibl>
+            <bibl copyOf="#HadjichristodoulouMyriantheus2009"></bibl>
             
             <bibl copyOf="#HatfieldYoung1978"></bibl>
             
