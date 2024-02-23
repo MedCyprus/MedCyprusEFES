@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. The words Ἰ(ησοῦ)ς Χ(ριστό)ς are fully rendered by an abbreviation with a big horizontal line above each word. Accents and breathings amlmost systematic.
+                            <handNote>White letters against blue background. Majuscule letters. The sigla Ἰ(ησοῦ)ς Χ(ριστό)ς are fully rendered by an abbreviation with a big horizontal line above each word. Accents and breathings amlmost systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -64,7 +64,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation></creation>
+            <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
