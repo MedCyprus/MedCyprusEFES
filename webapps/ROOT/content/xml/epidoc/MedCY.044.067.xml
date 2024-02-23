@@ -65,7 +65,7 @@
                     <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
                 </keywords>
             </textClass>
-            <creation></creation>
+            <creation>transcription (G. Apeitos, Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -91,7 +91,7 @@
                 <p>PENDING</p>
                  </div>
             <div type="translation">
-                <p>Flee, maintain silence, live a life of contemplative quiet.These are the roots of being without sin and justice.</p> 
+                <p>Flee, maintain silence, live a life of contemplative quiet. These are the roots of being without sin and justice.</p> 
             </div>
             <div type="commentary">
                 <p> Partially preserved. Crosses with arrays in the angles mark the beginning and the end of the text. The inscription is identified with a saying of Arsenios from the Apophegmata Patrum (PG 65, 88β)(<bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 97</citedRange></bibl>).</p>  
