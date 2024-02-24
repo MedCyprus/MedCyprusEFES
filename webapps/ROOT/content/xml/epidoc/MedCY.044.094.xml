@@ -64,7 +64,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation></creation>
+            <creation>transcription (G. Apeitos, Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -79,7 +79,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                 <lb n="1"/><supplied reason="lost">Οἱ</supplied> <supplied reason="lost"><w lemma="ἅγιος">ἅγιοι</w></supplied> <persName type="sacred" key="FortyMartyrs"><name nymRef="#οἱ ἅγιοι Τεσσαράκοντα"><w lemma= "τεσσαράκοντα"><supplied reason="lost">τεσσαράκοντα</supplied></w></name></persName> <w lemma= "μάρτυρ">μ<supplied reason="lost">άρτυρες</supplied></w> <w lemma="καλλίνικος">καλλίνικοι</w>
-               <lb n="1"/><space quantity="15" unit="character"></space><placeName ref="mentioned_places.xml#Sebaste">Σεβ<supplied reason="lost">άστειας</supplied></placeName>
+               <lb n="1"/><space quantity="15" unit="character"></space><placeName ref="mentioned_places.xml#Sebaste">Σεβ<supplied reason="lost">αστείας</supplied></placeName>
               </ab>
             </div>
             <div type="apparatus">
@@ -89,11 +89,11 @@
                 <p>[The Forty] gloriously triumphant Μ[artyrs] of Seb[aste]</p> 
             </div>
             <div type="commentary">
-                <p>Badly damaged.</p>
+                <p>Badly damaged</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl>Unpublished.</bibl>
+                    <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
