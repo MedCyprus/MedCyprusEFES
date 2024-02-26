@@ -64,7 +64,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>Transcription (G. Apeitos), publications</creation>
+            <creation>transcription (G. Apeitos, Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -102,7 +102,7 @@
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange>95</citedRange></bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 95</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

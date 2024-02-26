@@ -64,7 +64,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-                    <creation></creation>
+                    <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -83,13 +83,13 @@
                     </ab> 
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Saint [..?..]E[..?..]</p>
             </div>
             <div type="commentary">
-                <p> Poor condition. Of the saint's name, only the letter E is legible. The deacon resemles St. Vincent from the parreklesion of Holy Trinity at the monasterly of St. John Chrysostom Koutsoventis (ca. 1100) (Mango – Hawkins – Boyd 1990, 80; Parani 2018, 24). </p>
+                <p> Poor condition. Of the saint's name, only the letter E is legible. The deacon resemles St. Vincent from the parreklesion of Holy Trinity at the monasterly of St. John Chrysostom Koutsoventis (ca. 1100) (<bibl><ptr target="#MangoHawkinsBoyd1990"/>, <citedRange> 80</citedRange>; <ptr target="#Parani2018"/>, <citedRange> 24</citedRange></bibl>). </p>
             </div>
             <div type="bibliography"> 
                  <listBibl>

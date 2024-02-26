@@ -65,7 +65,7 @@
                     <term type="textType" ref="text_types.xml#doc15">Hagiographical citation</term>
                 </keywords>
             </textClass>
-            <creation></creation>
+            <creation>transcription (G. Apeitos, Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -82,7 +82,7 @@
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <p>n/a</p>
                  </div>
             <div type="translation">
                 <p>Τhat is injuring the soul [...]</p> 

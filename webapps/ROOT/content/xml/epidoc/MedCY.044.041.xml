@@ -64,11 +64,12 @@
                     <term type="textType" ref="text_types.xml#doc12">Metrical inscription</term>
                 </keywords>
             </textClass>
-                    <creation><ptr target="Ševčenko2012"/>, 74-5</creation>
+                    <creation>transcription (Th. Petrou), publication, © DOP Photographic Archive, # L67.933 [IŠ]</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-041-01.JPG"><desc>Bema, southeast recess, lunette, upper register, inscription </desc></graphic>
+         <graphic rend="primary" url="044-041-1.jpg"><desc>Bema, southeast recess, lunette, upper register, inscription </desc></graphic>
+        <graphic url="044-041-01.JPG"><desc>Bema, southeast recess, lunette,upper register, inscription (Ševčenko 2012, fig. 3.3, © DOP Photographic Archive, # L67.933 [IŠ])</desc></graphic>
         <graphic url="044-041-02.JPG"><desc>Bema, southeast recess, lunette,upper register, general view </desc></graphic>
         <graphic url="044-041-03.JPG"><desc>Bema, southeast recess, lunette, upper register, isncription fragments </desc></graphic>
         <graphic url="044-041-04.JPG"><desc>Bema, southeast recess, lunette, upper register, inscription fragments </desc></graphic>
