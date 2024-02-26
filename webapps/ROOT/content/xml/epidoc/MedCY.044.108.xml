@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. The inscription is written entirely in majuscule. The words Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, wavy line above each word. There is a ligature of the letters ΜΗΡ.  Mu, with its middle bar split into two parts, the upper part in the shape of an upsilon. Accents are systematically indicated.
+                            <handNote>White letters against red background. The inscription is written entirely in majuscule. The sigla Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, wavy line above each word. There is a ligature of the letters ΜΗΡ.  Mu, with its middle bar split into two parts, the upper part in the shape of an upsilon. Accents are systematically indicated.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -64,7 +64,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>Transcription (G. Apeitos, Th. Petrou), publication</creation>
+            <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -88,7 +88,7 @@
                 <p>Mother of God</p> 
             </div>
             <div type="commentary">
-                <p>Poor condition.</p>
+                <p>Poor condition</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
