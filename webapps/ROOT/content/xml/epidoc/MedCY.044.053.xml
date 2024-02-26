@@ -105,8 +105,9 @@
             </div>
             <div type="bibliography">
                 <listBibl> 
-                   <bibl><ptr target="#Papageorgiou2003"/>,<citedRange> 107-8</citedRange></bibl>   
+                   <bibl><ptr target="#Stylianou1960"/>,<citedRange> 98</citedRange></bibl>     
                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 11</citedRange></bibl>   
+                   <bibl><ptr target="#Papageorgiou2003"/>,<citedRange> 107-8</citedRange></bibl> 
                    <bibl><ptr target="#Rhoby2009"/>,<citedRange> 349</citedRange></bibl>
                    <bibl><ptr target="#Ševčenko2012"/>,<citedRange> 79</citedRange></bibl>
                    <bibl><ptr target="#VisCult"/>,<citedRange> 184</citedRange></bibl>  
