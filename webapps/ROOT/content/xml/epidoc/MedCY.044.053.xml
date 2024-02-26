@@ -81,9 +81,9 @@
                     <lb n="4"/><w lemma="παρθένος">π<hi rend="ligature">αρ</hi>θένε</w></l> <l><persName type="attested" role="founder" ref="#NikephorosIschyrios"><name nymRef="#Νικηφόρος" type="forename">Νικηφόρος</name></persName> <rs type="office" ref="offices.xml#magistros"><w lemma="μάγιστρος">μ<hi rend="ligature">άγ</hi>ι<hi rend="ligature">στ</hi>ρ<hi rend="ligature">ος</hi></w></rs> <w lemma="οἰκτρός"><hi rend="ligature">ε<choice><orig>ἱ</orig><reg>ἰ</reg></choice></hi>κτρ<choice><orig>῀ο</orig><reg>ὸ</reg></choice>ς</w> <w lemma="ἱκέτης">ἡ
                     <lb n="5" break="no"/><expan><abbr>κ</abbr><ex>έ</ex></expan><hi rend="ligature">τη</hi>ς</w></l> <l><w lemma="ἐγείρω"><choice><orig>ἥ</orig><reg>ἤ</reg></choice>γίρα</w> τ<choice><orig>ω</orig><reg>ώ</reg></choice>νδε τ<choice><orig>ῶ</orig><reg>ὸ</reg></choice> <w lemma="ναός">να<choice><orig>ο</orig><reg>ὸ</reg></choice><hi rend="ligature" xml:id="lig1">ν</hi></w> <w lemma="μετά"><hi rend="ligature" xml:id="lig2">μ</hi><join target="#lig1 #lig2"/>ετ<hi rend="ligature" xml:id="lig3"><choice><orig>α</orig><reg>ὰ</reg></choice></hi></w> <w lemma="πόθος"><hi rend="ligature" xml:id="lig4">π</hi><join target="#lig3 #lig4"/>όθ<hi rend="ligature">ου</hi></w></l> <l><w lemma="ἀντί"><choice><orig>ἅ</orig><reg>ἀ</reg></choice>νθ</w>
                        <w lemma="οὗπερ"> <hi rend="ligature">ο<choice><orig>υ</orig><reg>ὗ</reg></choice></hi>
-                    <lb n="6"/>περ</w> <w lemma="αἰτῶ"><choice><orig>ε</orig><reg>ἐ</reg></choice>τ<choice><orig>ο</orig><reg>ῶ</reg></choice></w> <w lemma="προστάτης">προ<hi rend="ligature">στ</hi>άτυν</w> <w lemma="εὑρίσκω"><expan>εὑρι<abbr>κ</abbr><ex>αί</ex>ν</expan>ε</w></l> <l>ἐ<hi rend="ligature">ν <w lemma="ἡμέρα"><choice><orig>η</orig><reg>ἡ</reg></choice>μ</hi>έ</l>
-                    <l><lb n="7" break="no"/>ρα</w> </reg></choice> σε τ<choice><orig>ι</orig><reg>ῇ</reg></choice> <w lemma="φρικώδης">φρικ<choice><orig>ὼ</orig><reg>ώ</reg></choice><hi rend="ligature">δη</hi></w>
-                        <hi rend="ligature">τ<choice><orig>η</orig><reg>ῆ</reg></choice></hi>ς <w lemma="δίκη">δίκης</w>/l>
+                    <lb n="6"/>περ</w> <w lemma="αἰτῶ"><choice><orig>ε</orig><reg>ἐ</reg></choice>τ<choice><orig>ο</orig><reg>ῶ</reg></choice></w> <w lemma="προστάτης">προ<hi rend="ligature">στ</hi>άτυν</w><w lemma="εὑρίσκω"><expan>εὑρι<abbr>κ</abbr><ex>αί</ex>ν</expan>ε</w></l> 
+                      <l>ἐ<hi rend="ligature" xml:id="lig5">ν</hi><w lemma="ἡμέρα"><hi rend="ligature" xml:id="lig6"><choice><orig>η</orig><reg>ἡ</reg></choice>μ</hi><join target="#lig5 #lig6"/>έ
+                      <lb n="7" break="no"/>ρα</w> σε τ<choice><orig>ι</orig><reg>ῖ</reg></choice> <w lemma="φρικώδης">φρικ<choice><orig>ὼ</orig><reg>ώ</reg></choice><hi rend="ligature">δη</hi></w> <hi rend="ligature">τ<choice><orig>η</orig><reg>ῆ</reg></choice></hi>ς <w lemma="δίκη">δίκης</w></l>
                   </lg>
               </ab>
             </div>
@@ -105,7 +105,7 @@
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl><ptr target="#Papageorgiou2003"/>,<citedRange> 107-8</citedRange></bibl>   
+                   <bibl><ptr target="#Papageorgiou2003"/>,<citedRange> 107-8</citedRange></bibl>   
                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 11</citedRange></bibl>   
                    <bibl><ptr target="#Rhoby2009"/>,<citedRange> 349</citedRange></bibl>
                    <bibl><ptr target="#Ševčenko2012"/>,<citedRange> 79</citedRange></bibl>
