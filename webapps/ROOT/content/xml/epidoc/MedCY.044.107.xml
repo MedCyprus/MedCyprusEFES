@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. The inscription is written entirely in majuscule. Letters' size varies. Delta is formed with a lambda on a horizontal bar. Eta with a short, thin line on its horizontal bar. Nu with its central bar forms a vertical, zig zag line. Middle dot after Anastasias and double point with a hyphen after Σαραμαλύνας. Letters TH, OY, AN, AM in ligatures. The word endings -ης in δούλης and -ας in Ἀναστασίας are rendered with tachygraphic signs. Horizontal wavy lines above the abbreviations of δέησις and Θεού. Systematic use of accents and breathings of the modern variety (circular). Letter height: <height unit="cm">2,5</height>
+                            <handNote>White letters against blue background. The inscription is written entirely in majuscule. Characters' size varies. Delta is formed with a lambda on a horizontal bar. Eta with a short, thin line on its horizontal bar. Nu with its central bar forms a vertical, zig zag line. Middle dot after Anastasias and double point with a hyphen after Σαραμαλύνας. Letters TH, OY, AN, AM in ligatures. The word endings -ης in δούλης and -ας in Ἀναστασίας are rendered with tachygraphic signs. Horizontal wavy lines above the abbreviations of δέησις and Θεού. Systematic use of accents and breathings of the modern variety (circular). Letter height: <height unit="cm">2,5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -64,7 +64,7 @@
                     <term type="textType" ref="text_types.xml#doc11">Invocation</term>
                 </keywords>
             </textClass>
-            <creation>Transcription (G. Apeitos, Th. Petrou), publications</creation>
+            <creation>transcription (G. Apeitos, Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
