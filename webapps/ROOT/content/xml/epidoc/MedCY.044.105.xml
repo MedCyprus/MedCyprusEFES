@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nikephoros the farrier's Invocation</title>
+                <title>Nikephoros the farrier's invocation</title>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>hite letters against blue background. Majuscule letters. Characters' size varies. Letters ΟΥ and ΤΟΥ in ligatures. Systematic use of accents.Letter height: <height unit="cm">?</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Letters ΟΥ and ΤΟΥ in ligatures. Systematic use of accents. Letter height: <height unit="cm">2,5-3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -64,7 +64,7 @@
                     <term type="textType" ref="text_types.xml#doc11">Invocation</term>
                 </keywords>
             </textClass>
-            <creation>Transcription (G. Apeitos, Th. Petrou), publications</creation>
+            <creation>transcription (G. Apeitos, Th. Petrou), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -75,7 +75,7 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-               <ab>PENDIND
+               <ab>
                 <lb n="1"/><w lemma="δέησις"><expan><abbr rend="supraline">Δέ</abbr><ex>ησις</ex></expan></w> <persName type="attested" role="donor" ref="#Nikephorosthefarrier"><name nymRef="#Νικηφόρος" type="forename">Νικηφό <lb n="8" break="no"/>ρ<hi rend="ligature">ου</hi></name></persName> <hi rend="ligature">τοῦ</hi> Καλληά
             </ab></div>
             <div type="apparatus">

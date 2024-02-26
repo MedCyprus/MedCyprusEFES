@@ -64,7 +64,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>Transcription (G. Apeitos)</creation>
+            <creation>transcription (G. Apeitos, Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -84,7 +84,7 @@
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <p>n/a</p>
                  </div>
             <div type="translation">
                 <p>Saint Niketas</p> 

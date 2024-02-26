@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Short, horizontal and vertical lines, chi- and flower-like motifs decorate the letters. OC and ΩΡ in ligatures with Ρ emerging from Ω. OC in Γεώργιος is formed by two joining spirals placed in opposite direction. Almost systematic use of accents and breathings. Letter height:<height unit="cm">5-7</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Short, horizontal and vertical lines, chi- and flower-like motifs decorate the letters. OC and ΩΡ in ligatures with Ρ emerging from Ω. OC in Γεώργιος is formed by two joining spirals placed in opposite direction. Almost systematic use of accents and breathings. Letter height: <height unit="cm">5-7</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -64,7 +64,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>Transcription (G. Apeitos, Th. Petrou), publication</creation>
+            <creation>transcription (G. Apeitos, Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -95,7 +95,7 @@
                 <p>Saint George</p> 
             </div>
             <div type="commentary">
-                <p>Very good condition.</p>
+                <p>Very good condition</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
