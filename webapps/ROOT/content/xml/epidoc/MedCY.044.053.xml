@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Letters in majuscule except υν in the word προστάτυν (line 6). Characters' size varies. Omega with crosslet, gama with wavy horizontal line, final sigma in ligatur OC formed with a wavy, vertical line. Throughout the inscription there are many ligatures of the letters ΑΓ, ΑΡ, CT, ΟC, EI, ΤΡ, TH, ΗΡ, ΤΝ, ΝΜ, ΑΠ, ΟΥ, ΑΝ, ΤΟ, ΠΡ, ΝΗΜ, and ΔΗ. Tau is often positioned above omega and υν. Accents and breathings almost systematic. Breathing of the modern variety (circular).
+                            <handNote>White letters against blue background. Letters in majuscule except υν in the word προστάτυν (line 6). Characters' size varies. Omega with crosslet, gama with wavy horizontal line, final sigma in ligatur OC formed with a wavy, vertical line. Throughout the inscription there are many ligatures of the letters ΑΓ, ΑΡ, CT, ΟC, EI, ΤΡ, TH, ΗΡ, ΤΝ, ΝΜ, ΑΠ, ΟΥ, ΑΝ, ΤΟ, ΠΡ, ΝΗΜ, and ΔΗ. Tau is often positioned above omega and υν. Accents and breathings almost systematic. Breathings of the modern variety (circular).
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -78,7 +78,7 @@
                     <l><lb n="1"/><w lemma="πολύς">Πολλοῖς</w> <w lemma="τεθηλώς">τεθηλ<choice><orig>ῶ</orig><reg>ὼ</reg></choice>ς</w>
                    <lb n="2"/><w lemma="ἀγαθός"><hi rend="ligature">ἀγ</hi>αθοῖς </w> <choice><orig>ἑ</orig><reg>ἐ</reg></choice>ν τ<choice><orig>ω</orig><reg>ῷ</reg></choice> <w lemma="βίος">β<choice><orig>ΐ</orig><reg>ί</reg></choice>ο</w></l> <l><w lemma="ὅσπερ"><choice><orig>ὡ</orig><reg>ὧ</reg></choice>ν
                     <lb n="3" break="no"/>π<choice><orig>έ</orig><reg>ε</reg></choice>ρ</w> <w lemma="χορηγός">χορηγ<choice><orig>῀ο</orig><reg>ὸ</reg></choice>ς</w> <w lemma="ὁρῶ"> <choice><orig>ο</orig><reg>ὁ</reg></choice>ράθης</w> <w lemma="σύ">σ<choice><orig>υ</orig><reg>ὺ</reg></choice></w>
-                    <lb n="4"/><w lemma="παρθένος">π<hi rend="ligature">αρ</hi>θένε</w></l> <l><persName type="attested" role="founder" ref="#NikephorosIschyrios"><name nymRef="#Νικηφόρος" type="forename">Νικηφόρος</name></persName> <rs type="office" ref="offices.xml#magistros"><w lemma="μάγιστρος">μ<hi rend="ligature">άγ</hi>ι<hi rend="ligature">στ</hi>ρ<hi rend="ligature">ος</hi></w></rs> <w lemma="οἰκτρός"><hi rend="ligature">ε<choice><orig>ἱ</orig><reg>ἰ</reg></choice></hi>κτρ<choice><orig>῀ο</orig><reg>ὸ</reg></choice>ς</w> <w lemma="ἱκέτης">ἡ
+                    <lb n="4"/><persName type="sacred" key="Parthenos"><name nymRef="#Παρθένος"></name><w lemma="παρθένος">π<hi rend="ligature">αρ</hi>θένε</w></persName></l> <l><persName type="attested" role="founder" ref="#NikephorosIschyrios"><name nymRef="#Νικηφόρος" type="forename">Νικηφόρος</name></persName> <rs type="office" ref="offices.xml#magistros"><w lemma="μάγιστρος">μ<hi rend="ligature">άγ</hi>ι<hi rend="ligature">στ</hi>ρ<hi rend="ligature">ος</hi></w></rs> <w lemma="οἰκτρός"><hi rend="ligature">ε<choice><orig>ἱ</orig><reg>ἰ</reg></choice></hi>κτρ<choice><orig>῀ο</orig><reg>ὸ</reg></choice>ς</w> <w lemma="ἱκέτης">ἡ
                     <lb n="5" break="no"/><expan><abbr>κ</abbr><ex>έ</ex></expan><hi rend="ligature">τη</hi>ς</w></l> <l><w lemma="ἐγείρω"><choice><orig>ἥ</orig><reg>ἤ</reg></choice>γίρα</w> τ<choice><orig>ω</orig><reg>ώ</reg></choice>νδε τ<choice><orig>ῶ</orig><reg>ὸ</reg></choice> <w lemma="ναός">να<choice><orig>ο</orig><reg>ὸ</reg></choice><hi rend="ligature" xml:id="lig1">ν</hi></w> <w lemma="μετά"><hi rend="ligature" xml:id="lig2">μ</hi><join target="#lig1 #lig2"/>ετ<hi rend="ligature" xml:id="lig3"><choice><orig>α</orig><reg>ὰ</reg></choice></hi></w> <w lemma="πόθος"><hi rend="ligature" xml:id="lig4">π</hi><join target="#lig3 #lig4"/>όθ<hi rend="ligature">ου</hi></w></l> <l><w lemma="ἀντί"><choice><orig>ἅ</orig><reg>ἀ</reg></choice>νθ</w>
                        <w lemma="οὗπερ"> <hi rend="ligature">ο<choice><orig>υ</orig><reg>ὗ</reg></choice></hi>
                     <lb n="6"/>περ</w> <w lemma="αἰτῶ"><choice><orig>ε</orig><reg>ἐ</reg></choice>τ<choice><orig>ο</orig><reg>ῶ</reg></choice></w> <w lemma="προστάτης">προ<hi rend="ligature">στ</hi>άτυν</w><w lemma="εὑρίσκω"><expan>εὑρι<abbr>κ</abbr><ex>αί</ex>ν</expan>ε</w></l> 
@@ -98,10 +98,10 @@
                     Erected this church with devotion,
                     In return for which I beg to fint thee my 
                     protectress
-                    On the terrible day of judfement.<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 79</citedRange></bibl></p> 
+                    On the terrible day of judfement. (<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 79</citedRange></bibl>)</p> 
             </div>
             <div type="commentary">
-                <p> Very good condition. The inscriprion is made up of seven lines, which correspond to six verses. The the use of sigla wich are in this metrical inscription absent. The words βίῳ, χορηγὸς, ὡράθης, οἰκτρὸς, ἱκέτης, ἤγειρα, τόνδε, τὸν, αἰτῶ, προστάτιν, εὑρηκέναι, τῇ as well φρικώδει are misspelled. Breathings and accents with errrors.</p>
+                <p> Very good condition. The inscriprion is made up of seven lines, which correspond to six verses. The sigla, which often mark the beginning and end of verses, are missing from this poem. The words βίῳ, χορηγός, ὡράθης, οἰκτρός, ἱκέτης, ἤγειρα, τόνδε, τόν, αἰτῶ, προστάτιν, εὑρηκέναι, τῇ as well φρικώδει are misspelled. Breathings and accents with errrors.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
