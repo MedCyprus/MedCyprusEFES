@@ -739,6 +739,13 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q7101660</idno>                   
                 </person>
                 
+                <person xml:id="Panagia">
+                    <persName xml:lang="grc">Παναγία</persName>
+                    <persName xml:lang="en">Panagia</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1485229</idno> 
+                    <note>See also: Maria, Mother of God, Theodokos, Virgin </note>
+                </person>
+                
                 <person xml:id="Panteleimon">
                     <persName xml:lang="grc">Παντελεήμων</persName>
                     <persName xml:lang="en">Panteleimon</persName> 
