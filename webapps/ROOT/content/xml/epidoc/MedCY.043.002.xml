@@ -79,7 +79,8 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+                <listApp>
+                     <app loc="1"><rdg resp="#Mouriki1984"><hi rend="supraline">ΙC</hi> <hi rend="supraline">XC</hi></rdg></app></listApp>
             </div>
             <div type="translation">
                 <p>Jesus Christ</p>
