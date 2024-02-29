@@ -110,9 +110,9 @@
             <div type="apparatus">
                <listApp>
                    <app loc="1"><rdg resp="#Stylianou1960">ΘΕΙΟΣ ΚΑΙ ΠΑΝ</rdg><rdg resp="#Mouriki1984">ΘΕΙΟC ΚΑΙ ΠΑ</rdg><rdg resp="#Papageorgiou2003">ὁ πα</rdg><rdg resp="#PerdikisMyrianthefs2009">ΘΕΙΟΣ ΚΑΙ ΠΑ</rdg><rdg resp="#VisCult">θεῖος καὶ πά</rdg></app>
-                   <app loc="2"><rdg resp="#Stylianou1960">Σ ΤΗΣ ΥΠΕΡΑΓΙΑΣ</rdg><rdg resp="#Mouriki1984">C THC ΥΠΕΡΑΓΙΑC</rdg><rdg resp="#Papageorgiou2003">τῆς ὑπεραγίας</rdg><rdg resp="#PerdikisMyrianthefs2009">Σ ΤΗΣ ΥΠΕΡΑΓΙΑΣ</rdg><!--<rdg resp="#VisCult">ς τῆς ὐπεραγίας</rdg>--></app>
-                   <app loc="3"><rdg resp="#Stylianou1960">ΔΕΣΠΙΝΗΣ; ΘΕΟΤΟΚΟΥ ΔΙΑ</rdg><rdg resp="#Mouriki1984">ΘΕΟΤΟΚΟΥ ΔΙΑ</rdg><rdg resp="#Papageorgiou2003">Θεοτόκου διά</rdg><rdg resp="#PerdikisMyrianthefs2009">ΔΕΣΠΙΝΗΣ; ΘΕΟΤΟΚΟΥ ΔΙΑ</rdg><!--<rdg resp="#VisCult">δεσποίνης ἡμῶν Θεοτόκου διὰ</rdg>--></app>
-                   <app loc="4"><rdg resp="#Stylianou1960">ΣΗ(Ν)ΔΡΟΜΗΣ</rdg><rdg resp="#Papageorgiou2003">σηδρομῆς</rdg><rdg resp="#PerdikisMyrianthefs2009">ΣΗΔΡΟΜΗΣ</rdg><!--<rdg resp="#VisCult">συνδρομῆς</rdg>--></app>
+                   <app loc="2"><rdg resp="#Stylianou1960">Σ ΤΗΣ ΥΠΕΡΑΓΙΑΣ</rdg><rdg resp="#Mouriki1984">C THC ΥΠΕΡΑΓΙΑC</rdg><rdg resp="#Papageorgiou2003">τῆς ὑπεραγίας</rdg><rdg resp="#PerdikisMyrianthefs2009">Σ ΤΗΣ ΥΠΕΡΑΓΙΑΣ</rdg><rdg resp="#VisCult">ς τῆς ὐπεραγίας</rdg></app>
+                   <app loc="3"><rdg resp="#Stylianou1960">ΔΕΣΠΙΝΗΣ; ΘΕΟΤΟΚΟΥ ΔΙΑ</rdg><rdg resp="#Mouriki1984">ΘΕΟΤΟΚΟΥ ΔΙΑ</rdg><rdg resp="#Papageorgiou2003">Θεοτόκου διά</rdg><rdg resp="#PerdikisMyrianthefs2009">ΔΕΣΠΙΝΗΣ; ΘΕΟΤΟΚΟΥ ΔΙΑ</rdg><rdg resp="#VisCult">δεσποίνης ἡμῶν Θεοτόκου διὰ</rdg></app>
+                   <app loc="4"><rdg resp="#Stylianou1960">ΣΗ(Ν)ΔΡΟΜΗΣ</rdg><rdg resp="#Papageorgiou2003">σηδρομῆς</rdg><rdg resp="#PerdikisMyrianthefs2009">ΣΗΔΡΟΜΗΣ</rdg><rdg resp="#VisCult">συνδρομῆς</rdg></app>
                    <app loc="6"><rdg resp="#Stylianou1960">ΜΟΥΤΟΥ</rdg><rdg resp="#Mouriki1984">ΓΕΡΑΚΟΥΛΛΑ</rdg><rdg resp="#Papageorgiou2003">Γερακού.τα</rdg><rdg resp="#PerdikisMyrianthefs2009">ΓΕΡΑΚΙΩΤΗ</rdg><rdg resp="#VisCult">Γερακούλλα</rdg></app>
                    <app loc="7"><rdg resp="#Stylianou1960">ΤΗΣ (Σ)ΗΝΒΙΟΥ; ΙΡΙΝΗΣ</rdg><rdg resp="#Mouriki1984">ΤΗ CHNBIOY; ΪΡΙΝΗC</rdg><rdg resp="#Papageorgiou2003">τῆ σηνβίου; Ιρίνης</rdg><rdg resp="#PerdikisMyrianthefs2009">ΤΗ ΣΗΝΒΙΟΥ; ΙΡΙΝΗΣ</rdg><rdg resp="#VisCult">τῆς συνβίου; Εἰρήνης</rdg></app>
                </listApp>
