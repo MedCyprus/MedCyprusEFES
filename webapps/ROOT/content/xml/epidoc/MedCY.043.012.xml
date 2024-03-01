@@ -77,10 +77,8 @@
                 <ab>
                  <lb n="1"/><w lemma="οὐδείς">Οὐδεὶς </w>
                  <lb n="2"/><w lemma="ἄξιος"><choice><orig>ά</orig><reg>ἄ</reg></choice>ξιος</w> τ<choice><orig>ω</orig><reg>ῶ</reg></choice>ν 
-                 <lb n="3"/><w lemma="συνδῶ">σ<hi rend="ligature">ην</hi>δε
-                 <lb n="4" break="no"/>δεμέ
-                 <lb n="5" break="no"/>νων</w> τ<hi rend="ligature">α<choice><orig>ι</orig><reg>ῖ</reg></choice></hi>ς 
-                 <lb n="6"/><w lemma="σαρκική"><expan><abbr>σαρκυ</abbr><ex>καῖς</ex></expan></w>
+                 <lb n="3"/><w lemma="συνδῶ"><choice><sic>σ<hi rend="ligature">ην</hi>δε<lb n="4" break="no"/>δεμέ<lb n="5" break="no"/>νων</sic><corr>συνδε<lb n="4" break="no"/>δεμέ<lb n="4" break="no"/>νων</corr></choice></w> τ<hi rend="ligature">α<choice><orig>ι</orig><reg>ῖ</reg></choice></hi>ς 
+                 <lb n="6"/><w lemma="σαρκική"><choice><sic><expan><abbr>σαρκυ</abbr><ex>καῖς</ex></expan></sic><corr>σαρκι</corr></choice></w>
                  </ab>
             </div>
             <div type="apparatus">

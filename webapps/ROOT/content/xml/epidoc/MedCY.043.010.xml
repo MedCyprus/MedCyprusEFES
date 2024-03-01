@@ -83,7 +83,7 @@
                     <lb n="3"/><w lemma="σώζω">σ<choice><orig>ὼ</orig><reg>ῶ</reg></choice>σον </w>
                     <lb n="4"/><hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi>ν <w lemma="λαός">λ<del rend="erasure">α</del>α
                     <lb n="5" break="no"/>ὸν</w> <w lemma="σύ">σου</w> 
-                    <lb n="6"/>κ<choice><orig>ε</orig><reg>ὲ</reg></choice> <w lemma="εὐλογῶ"><expan><abbr>εὑλόγι</abbr><ex>σον</ex></expan></w>
+                    <lb n="6"/><w><choice><sic>κ<choice><orig>ε</orig><reg>ὲ</reg></choice></sic><corr>καὶ</corr></choice></w> <w lemma="εὐλογῶ"><choice><sic><expan><abbr>εὑλόγι</abbr><ex>σον</ex></expan></sic><corr>εὐλόγη</corr></choice></w>
                  </ab>
             </div>
             <div type="apparatus">
