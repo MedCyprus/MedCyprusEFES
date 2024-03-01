@@ -74,9 +74,9 @@ Double point after Κ(υρίο)υ. Almost systematic use of accents and breathin
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><g ref="#cross">+</g><w lemma="Ἰδού"><choice><orig>Ï</orig><reg>Ἰ</reg></choice>δ<hi rend="ligature">οὺ</hi></w> ἱ <w lemma="δούλη">δ<hi rend="ligature">ού</hi>λη</w>
-                    <lb n="2"/><persName type="divine" key="Lord"><name nymRef="#Κύριος"></name><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">υ</abbr></expan></w></persName>: <w lemma="γίγνομαι">γέ<hi rend="ligature">νη</hi>τώ</w> <w lemma="ἐγώ">μι</w> 
-                    <lb n="3"/>κατ<choice><orig>α</orig><reg>ὰ</reg></choice> <hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi> <w lemma="ῥῆμα"><choice><orig>ρ</orig><reg>ῥ</reg></choice>ίμα</w>
+                    <lb n="1"/><g ref="#cross">+</g><w lemma="Ἰδού"><choice><orig>Ï</orig><reg>Ἰ</reg></choice>δ<hi rend="ligature">οὺ</hi></w> <w><choice><sic>ἱ</sic><corr>ἡ</corr></choice></w> <w lemma="δούλη">δ<hi rend="ligature">ού</hi>λη</w>
+                    <lb n="2"/><persName type="divine" key="Lord"><name nymRef="#Κύριος"></name><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">υ</abbr></expan></w></persName>: <w lemma="γίγνομαι"><choice><sic>γέ<hi rend="ligature">νη</hi>τώ</sic><corr>γένοιτό</corr></choice></w> <w lemma="ἐγώ"><choice><sic>μι</sic><corr>μοι</corr></choice></w>
+                     <lb n="3"/>κατ<choice><orig>α</orig><reg>ὰ</reg></choice> <hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi> <w lemma="ῥῆμα"><choice><sic><choice><orig>ρ</orig><reg>ῥ</reg></choice>ίμα</sic><corr>ρήμα</corr></choice></w>
                     <lb n="4"/><w lemma="σύ">σου</w>
                  </ab>
             </div>
@@ -87,7 +87,7 @@ Double point after Κ(υρίο)υ. Almost systematic use of accents and breathin
                 <p>I am the Lord’s servant. May your word to me be fulfilled.</p>
             </div>
             <div type="commentary">
-                <p>Poor condition. Exfoliated. A cross with dots in the angles marks the beginning of the text. The inscription is based on the dialoque between the Archangel Gabriel and the Virgin according to Luke 1:28, 38.</p>
+                <p>Poor condition. Exfoliated. A cross with dots in the angles marks the beginning of the text. The article ἡ, and the words γένοιτο, μοι, ρήμα are misspelled. The inscription is based on the dialoque between the Archangel Gabriel and the Virgin according to Luke 1:28, 38.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
