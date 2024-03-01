@@ -101,6 +101,7 @@
             </div>
             <div type="bibliography">
                 <listBibl> 
+                  <bibl><ptr target="#Stylianou1960"/>,<citedRange> 105</citedRange></bibl>   
                  <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 12-3</citedRange></bibl>  
                 <bibl><ptr target="#Rhoby2009"/>,<citedRange> 342</citedRange></bibl>
                  <bibl><ptr target="#Ševčenko2012"/>,<citedRange> 82</citedRange></bibl>
