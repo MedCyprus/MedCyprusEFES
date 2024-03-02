@@ -84,13 +84,13 @@
             <div type="apparatus">
                 <listApp>
            <app><note>The Mango, Hawkins’s Report 1964 was written before the completion of the conservation of the murals of the chapel</note></app>              
-                    <app loc="1"><rdg resp="MangoHawkins1964">προσώ̣πο[ις]</rdg><rdg resp="MangoHawkinsBoyd1990">προσώπω̣̣ (note 49, προσώποις)</rdg><rdg resp="MangoHawkins1964">προσκυ[νουμέν[η]ν </rdg></app>
-                    <app loc="2"><rdg resp="MangoHawkins1964">[ἄν]αρχον </rdg><rdg resp="MangoHawkins1964">ἀρχὴν</rdg></app>
-                    <app loc="3"><rdg resp="MangoHawkins1964">ἀλκήν</rdg></app>
-                    <app loc="4"><rdg resp="MangoHawkins1964">Φιλο[κάλ[ης]</rdg><rdg resp="Rhoby2009">Φιλοκάλ<supplied reason="omitted">ης</supplied></rdg></app>
-                    <app loc="5"><rdg resp="MangoHawkins1964">νω[βε]λλισίμων</rdg><rdg resp="MangoHawkinsBoyd1990">νωβε̣λλισίμων </rdg><rdg resp="Rhoby2009">νω[βε]λλισίμων· </rdg></app>
-                    <app loc="6"><rdg resp="MangoHawkinsBoyd1990">βά̣θρων </rdg><rdg resp="MangoHawkinsBoyd1990">νεων </rdg><rdg resp="MangoHawkinsBoyd1990">ἤγειρε </rdg></app>
-                    <app loc="7"><rdg resp="MangoHawkins1964">ἐξιλασμόν </rdg><rdg resp="MangoHawkins1964">ὧ̣ν </rdg></app>
+                    <app loc="1"><rdg resp="#MangoHawkins1964">προσώ̣πο[ις]</rdg><rdg resp="#MangoHawkinsBoyd1990">προσώπω̣̣ (note 49, προσώποις)</rdg><rdg resp="MangoHawkins1964">προσκυ[νουμέν[η]ν </rdg></app>
+                    <app loc="2"><rdg resp="#MangoHawkins1964">[ἄν]αρχον </rdg><rdg resp="#MangoHawkins1964">ἀρχὴν</rdg></app>
+                    <app loc="3"><rdg resp="#MangoHawkins1964">ἀλκήν</rdg></app>
+                    <app loc="4"><rdg resp="#MangoHawkins1964">Φιλο[κάλ[ης]</rdg><rdg resp="#Rhoby2009">Φιλοκάλ<supplied reason="omitted">ης</supplied></rdg></app>
+                    <app loc="5"><rdg resp="#MangoHawkins1964">νω[βε]λλισίμων</rdg><rdg resp="#MangoHawkinsBoyd1990">νωβε̣λλισίμων </rdg><rdg resp="#Rhoby2009">νω[βε]λλισίμων· </rdg></app>
+                    <app loc="6"><rdg resp="#MangoHawkinsBoyd1990">βά̣θρων </rdg><rdg resp="#MangoHawkinsBoyd1990">νεων </rdg><rdg resp="#MangoHawkinsBoyd1990">ἤγειρε </rdg></app>
+                    <app loc="7"><rdg resp="#MangoHawkins1964">ἐξιλασμόν </rdg><rdg resp="#MangoHawkins1964">ὧ̣ν </rdg></app>
                 </listApp> </div>
             <div type="translation">
                 <p>
@@ -111,10 +111,10 @@ The epithets ὑπεράρχιον, ̣ἄναρχον, ὑπερούσιον, ar
 Regarding the content of the inscription, it is a foundation inscription of the Dux of Cyprus Eumathios Philokales, a military governor of Cyprus from 1093 to ca. 1112 https://pbw2016.kdl.kcl.ac.uk/person/120119/. As the inscription refers, Philokales built the chapel of the Holy Trinity in order to atone for the sins he made in his life. </p>
             </div>
             <div type="bibliography">
-                <listBibl><bibl><ptr target="MangoHawkinsBoyd1990"/></bibl>
-                <bibl><ptr target="Rhoby2009"/>,<citedRange> 319-322</citedRange></bibl>
+                <listBibl><bibl><ptr target="#MangoHawkinsBoyd1990"/></bibl>
+                <bibl><ptr target="#Rhoby2009"/>,<citedRange> 319-322</citedRange></bibl>
                 <!-- How do we write specific pages of each bibliography reference? I tried this: <bibl><ptr target="#Chotzakoglou2005"/>,<citedRange>596</citedRange></bibl>but it shows me also the whole pages of the reference -->
-                <bibl><ptr target="VisCult"/><citedRange> 2, 1359-63</citedRange></bibl>
+                <bibl><ptr target="#VisCult"/><citedRange> 2, 1359-63</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
