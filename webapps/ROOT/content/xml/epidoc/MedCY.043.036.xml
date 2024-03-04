@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Some characters' size varies. Delta is formed with a lambda on a horizontal bar, which at its ends has a vertical point. Omega with crosslet; nearly round final sigma ending in a horizontal wavy line; Letters ΟΥ, TO, TH, TOY in ligatures. The words δέησις, Θεοῦ, are rendered by an abbreviation with a wavy line above each word. Accents systematic. Letter height: <height unit="cm">2-3</height>
+                            <handNote>White letters against red background. Majuscule letters. Some characters' size varies. Delta is formed with a lambda on a horizontal bar, which at its ends has a vertical point. Omega with crosslet; nearly round final sigma ending in a horizontal wavy line; ΟΥ, TO, TH, TOY in ligatures. The words δέησις, Θεοῦ, are rendered by an abbreviation with a wavy line above each word. Accents systematic. Letter height: <height unit="cm">2-3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -74,7 +74,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
               <lb n="1"/> <g ref="#cross">+</g> <w lemma="δέησις"><expan><abbr rend="supraline">Δ<choice><orig>ε</orig><reg>έ</reg></choice></abbr><ex>ησις</ex></expan></w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi>
-              <lb n="2"/><w lemma="δοῦλος">δούλου</w> τ<hi rend="ligature">ου</hi> <persName type="divine" key="God"><name nymRef="#Θεός"></name><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>· <persName type="attested" role="donor" ref="#ChristophorosΟmotes"><name nymRef="#Χριστοφόρος" type="forename"><choice><sic>Χρι<lb n="3" break="no"/>σ<hi rend="ligature">το</hi>φώρου</sic><corr>Χρι<lb n="3" break="no"/>στοφόρου</corr></choice></name>· τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <name nymRef="#Ὀμότης" type="surname"><choice><orig>ὁ</orig><reg>ὀ</reg></choice>μότ(ου)</name></persName>
+              <lb n="2"/><w lemma="δοῦλος">δούλου</w> τ<hi rend="ligature">ου</hi> <persName type="divine" key="God"><name nymRef="#Θεός"></name><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>· <persName type="attested" role="donor" ref="#ChristophorosΟmotes"><name nymRef="#Χριστοφόρος" type="forename"><choice><sic>Χρι<lb n="3" break="no"/>σ<hi rend="ligature">το</hi>φώρου</sic><corr>Χρι<lb n="3" break="no"/>στοφόρου</corr></choice></name>· τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <name nymRef="#Ὀμότης" type="surname"><choice><sic><choice><orig>ὁ</orig><reg>ὀ</reg></choice>μότ(ου)</sic><corr>Ὀμότου</corr></choice></name></persName>
               <lb n="4"/><w><choice><sic>κε</sic><corr>καὶ</corr></choice></w> <w><choice><sic><hi rend="ligature">τη</hi></sic><corr>τῆς</corr></choice></w> <w lemma="συμβία"><choice><sic>σηβί<hi rend="ligature">ου</hi></sic><corr>συμβίου</corr></choice></w> <w lemma="αὐτός">α<choice><orig>ὑ</orig><reg>ὐ</reg></choice>τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi></w>
               <lb n="5"/> <persName type="attested" role="donor" ref="#Maria"><name nymRef="#Μαρία" type="forename"></name>Μαρίας</persName>
                  </ab>
@@ -91,7 +91,7 @@
                 <p>Invocation of the servant of the God Christophoros Omotes and his wife Maria</p>
             </div>
             <div type="commentary">
-                <p>Good condition. A cross with dots in the angles marks the beginning of the text. The names Χριστοφόρου, Ὀμότου, as well as καί, τῆς, συνβίου are misspelled. The painter's writing seems to have been influenced again by spoken language. This is confirmed by the word τῆ σηβίου instead of the correct τῆς συμβίας. Accents and breathings with errors. According to <bibl><ptr target="Mouriki1984"/>,<citedRange> 192</citedRange></bibl> , the donors Christophoros Omotes and his wife Maria financed the mural of Saint Christopher and possibly the depictions of Saints Theodore and Paul which are in the same frame as Saint Christopher. The individual donation it seems that was made at the same period with the main decoration of the church.
+                <p>Good condition. A cross with dots in the angles marks the beginning of the text. The names Χριστοφόρου, Ὀμότου, as well as καί, τῆς, συνβίου are misspelled. The painter's writing seems to have been influenced again by spoken language. This is confirmed by the word τῆ σηβίου instead of the correct τῆς συμβίας. Accents and breathings with errors. According to <bibl><ptr target="#Mouriki1984"/>,<citedRange> 192</citedRange></bibl>, the donors Christophoros Omotes and his wife Maria financed the mural of Saint Christopher and possibly the depictions of Saints Theodore and Paul which are in the same frame as Saint Christopher. The individual donation it seems that was made at the same period with the main decoration of the church.
 </p>
             </div>
             <div type="bibliography">

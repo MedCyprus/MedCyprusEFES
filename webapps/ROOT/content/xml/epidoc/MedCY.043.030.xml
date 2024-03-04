@@ -74,7 +74,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="divine" key="Christ"><name nymRef ="#Χριστός"><expan><abbr rend="supraline">Χ</abbr><ex>ριστο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></name></persName> Γ<choice><orig>ε</orig><reg>έ</reg></choice><hi rend="ligature">νν</hi>ισης
+                    <lb n="1"/><persName type="divine" key="Christ"><name nymRef ="#Χριστός"><expan><abbr rend="supraline">Χ</abbr><ex>ριστο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></name></persName> <w lemma="γέννησις"><choice><sic>Γ<choice><orig>ε</orig><reg>έ</reg></choice><hi rend="ligature">νν</hi>ισης</sic><corr>γέννησις</corr></choice></w>
                  </ab>
             </div>
             <div type="apparatus">

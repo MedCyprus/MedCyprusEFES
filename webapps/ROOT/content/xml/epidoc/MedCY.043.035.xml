@@ -76,14 +76,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
               <cb n="a"/>
-                    <lb n="1"/>Ὁ<persName type="sacred" key="Christopher"><w lemma="ἅγιος">
-                    <lb n="2"/>ἅ
+                    <lb n="1"/>Ὁ
+                    <lb n="2"/><persName type="sacred" key="Christopher"><w lemma="ἅγιος">ἅ
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/>ος</w>
              <cb n="b"/>
-                    <lb n="1"/><name nymRef="#Χριστοφόρος">Χριστο
-                    <lb n="2" break="no"/>φώ
-                    <lb n="3" break="no"/>ρος</name></persName>  
+                    <lb n="1"/><name nymRef="#Χριστοφόρος"><choice><sic>Χριστο<lb n="2" break="no"/>φώ<lb n="3" break="no"/>ρος</sic><corr>Χριστο<lb n="3" break="no"/>φό<lb n="3" break="no"/>ρος</corr></choice></name></persName>  
                  </ab>
             </div>
             <div type="apparatus">
