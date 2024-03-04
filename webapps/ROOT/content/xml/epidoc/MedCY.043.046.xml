@@ -73,7 +73,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-            <lb n="1"/>Στα<choice><orig>υ</orig><reg>ύ</reg></choice>ροσης
+            <lb n="1"/><w lemma="Σταύρωσις"><choice><sic>Στα<choice><orig>υ</orig><reg>ύ</reg></choice>ροσης</sic><corr>Σταύρωσις</corr></choice></w>
                  </ab>
             </div>
             <div type="apparatus">
