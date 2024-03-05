@@ -75,10 +75,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w lemma="ὁρῶ"><choice><orig>Ι</orig><reg>Ἴ</reg></choice>δε</w>
-                    <lb n="2"/><w lemma="ὅς"><choice><orig>ὼ</orig><reg>ὣ</reg></choice>ν</w> <w lemma="λέγω"><choice><orig>ύ</orig><reg>ὖ</reg></choice>
-                    <lb n="3" break="no"/>πων</w>
-                    <lb n="4"/><w lemma="σύ"><hi rend="ligature">ἡμ<choice><orig>ὴ</orig><reg>ῆ</reg></choice>ν</hi></w>
+                    <lb n="1"/><w lemma="ὁρῶ"><choice><sic><choice><orig>Ι</orig><reg>Ἴ</reg></choice>δε</sic><corr>ἴδε</corr></choice></w>
+                    <lb n="2"/><w lemma="ὅς"><choice><sic><choice><orig>ὼ</orig><reg>ὣ</reg></choice>ν</sic><corr>οὗτός ἐστι περὶ οὗ</corr></choice></w> <w lemma="λέγω"><choice><sic><choice><orig>ύ</orig><reg>ὖ</reg></choice><lb n="3" break="no"/>πων</sic><corr>εἶ<lb n="3" break="no"/>πον</corr></choice></w><lb n="4"/><w lemma="σύ"><choice><sic><hi rend="ligature">ἡμ<choice><orig>ὴ</orig><reg>ῆ</reg></choice>ν</hi></sic><corr>ὑμῖν</corr></choice></w>
                  </ab>
             </div>
             <div type="apparatus">
