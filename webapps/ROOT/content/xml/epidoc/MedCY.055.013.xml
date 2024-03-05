@@ -76,11 +76,9 @@
                 <ab>
                     <lb n="1"/><w lemma="ἀδελφός"><choice><orig>Α</orig><reg>Ἀ</reg></choice>δελφο<supplied reason="lost"><choice><orig>ι</orig><reg>ὶ</reg></choice></supplied></w>
                     <lb n="2"/><w lemma="παρακαλῶ">παρακ<unclear>α</unclear>                    
-                    <lb n="3" break="no"/>λ<choice><orig>ο</orig><reg>ῶ</reg></choice></w> <w lemma="σύ"><hi rend="ligature">ἡμ</hi><choice><orig>α</orig><reg>ᾶ</reg></choice><supplied reason="lost">ς</supplied></w>
-                    <lb n="4"/><choice><orig>ο</orig><reg>ὁ</reg></choice>ς <w lemma="πάροικος">παρί<unclear>κου</unclear><supplied reason="lost">ς</supplied></w>
-                    <lb n="5"/>κα<choice><orig>ι</orig><reg>ὶ</reg></choice> <w lemma="παρεπίδημος">παρα<supplied reason="lost">ι</supplied>
-                    <lb n="6" break="no"/>πιδ<hi rend="ligature"><choice><orig>η</orig><reg>ή</reg></choice>μ</hi><supplied reason="lost">ους</supplied></w>
-                    <lb n="7"/><w lemma="ἀπέχω"><choice><orig>α</orig><reg>ἀ</reg></choice>πέχαι<unclear>σθ</unclear><supplied reason="lost">αι</supplied></w>
+                    <lb n="3" break="no"/>λ<choice><orig>ο</orig><reg>ῶ</reg></choice></w> <w lemma="σύ"><choice><sic><hi rend="ligature">ἡμ</hi><choice><orig>α</orig><reg>ᾶ</reg></choice><supplied reason="lost">ς</supplied></sic><corr>ὑμᾶς</corr></choice></w>
+                    <lb n="4"/><w><choice><sic><choice><orig>ο</orig><reg>ὁ</reg></choice>ς</sic><corr>ὡς</corr></choice></w> <w lemma="πάροικος"><choice><sic>παρί<unclear>κου</unclear><supplied reason="lost">ς</supplied></sic><corr>παροίκους</corr></choice></w>
+                    <lb n="5"/>κα<choice><orig>ι</orig><reg>ὶ</reg></choice> <w lemma="παρεπίδημος"><choice><sic>παρα<supplied reason="lost">ι</supplied><lb n="6" break="no"/>πιδ<hi rend="ligature"><choice><orig>η</orig><reg>ή</reg></choice>μ</hi><supplied reason="lost">ους</supplied></sic><corr>παρε<lb n="6" break="no"/>πιδήμους</corr></choice></w><lb n="7"/><w lemma="ἀπέχω"><choice><sic><choice><orig>α</orig><reg>ἀ</reg></choice>πέχαι<unclear>σθ</unclear><supplied reason="lost">αι</supplied></sic><corr>ἀπέχεσθαι</corr></choice></w>
                     <lb n="8"/><supplied reason="lost">τ</supplied>ων <w lemma="σαρκικός">σαρ<unclear>κ</unclear><supplied reason="lost">ι</supplied>
                     <lb n="9" break="no"/><supplied reason="lost">κ</supplied><choice><orig><unclear>ω</unclear></orig><reg><unclear>ῶ</unclear></reg></choice>ν</w>
                 </ab>
