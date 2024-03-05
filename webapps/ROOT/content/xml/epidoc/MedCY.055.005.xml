@@ -75,16 +75,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                   <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="Constantine_Ormideia"><supplied reason="lost">Ὁ</supplied>
-                    <lb n="2"/><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied>
+                    <lb n="2"/><persName type="sacred" key="Constantine_Ormideia"><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w>
                   <cb n="b"/>
-                  <lb n="1"/><name nymRef="#Κωνσταντίνος της Ορμήδειας"><supplied reason="lost">Κ</supplied><unclear>οσ</unclear></name>
-                  <lb n="2" break="no"/><supplied reason="lost">τ</supplied>αν
-                        <lb n="3" break="no"/><supplied reason="lost">τ</supplied>
-                        <lb n="4" break="no"/>ῆ
-                        <lb n="5" break="no"/><supplied reason="lost">νος</supplied>
+                  <lb n="1"/><name nymRef="#Κωνσταντίνος της Ορμήδειας"><choice><sic><supplied reason="lost">Κ</supplied><unclear>οσ</unclear><lb n="2" break="no"/><supplied reason="lost">τ</supplied>αν<lb n="3" break="no"/><supplied reason="lost">τ</supplied><lb n="4" break="no"/>ῆ<lb n="5" break="no"/><supplied reason="lost">νος</supplied></sic><corr>Κωνσ<lb n="2" break="no"/>ταν<lb n="3" break="no"/>τ<lb n="4" break="no"/>ῖ<lb n="5" break="no"/>νος</corr></choice></name>
                     </persName>
                 </ab>
             </div>
@@ -92,10 +88,10 @@
                 <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Saint Constantine (of Ormideia) ?</p>
+                <p>Saint Constantine</p>
             </div>
             <div type="commentary">
-                <p>Badly damaged. Exfoliated. The inscription ὁ ἅγιος to the right of the saint is hardly preserved. On the second column, the name Κωνσταντίνος is misspelled with omicron instead of omega. </p>
+                <p>Badly damaged. Exfoliated. The inscription ὁ ἅγιος to the right of the saint is hardly preserved. On the second column, the name Κωνσταντῖνος is misspelled with omicron instead of omega. </p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>

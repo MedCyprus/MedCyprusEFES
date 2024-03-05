@@ -73,13 +73,13 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                   <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="Matthew"><name nymRef="#Ματθαῖος"><supplied reason="lost">Ὁ</supplied>
-                    <lb n="2"/><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied>
+                    <lb n="2"/><persName type="sacred" key="Matthew"><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
                     <lb n="3" break="no" /><supplied reason="lost">γι</supplied>
-                    <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w></name>
+                    <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w>
                   <cb n="b"/>
-                  <lb n="1"/>Mαθα<choice><orig>ί</orig><reg>ῖ</reg></choice>ος
-                  <lb n="2"/><addName type="epithet" key="Evangelist"><w lemma="εὐαγγελιστής"><choice><orig>ο</orig><reg>ὁ</reg></choice> <expan><abbr><choice><orig>ε</orig><reg>ἐ</reg></choice>βαγγε<hi rend="ligature">λη</hi>στ</abbr><ex>ής</ex></expan></w></addName></persName>
+                  <lb n="1"/><name nymRef="#Ματθαῖος"><choice><sic>Mαθα<choice><orig>ί</orig><reg>ῖ</reg></choice>ος</sic><corr>Ματθαῖος</corr></choice></name>
+                  <lb n="2"/><addName type="epithet" key="Evangelist"><w lemma="εὐαγγελιστής"><choice><orig>ο</orig><reg>ὁ</reg></choice><choice><sic> <expan><abbr><choice><orig>ε</orig><reg>ἐ</reg></choice>βαγγε<hi rend="ligature">λη</hi>στ</abbr><ex>ής</ex></expan></sic><corr>εὐαγγελιστής</corr></choice></w></addName></persName>
                 </ab>
             </div>
             <div type="apparatus">
@@ -89,7 +89,7 @@
                 <p>Matthew the Evangelist</p>
             </div>
             <div type="commentary">
-                <p>Poor condition. Exfoliated. The inscription ὁ ἅγιος to the right of the evangelist has been lost. Based on the examples of Paul and Mark we reconstructed the word. </p>
+                <p>Poor condition. Exfoliated. The inscription ὁ ἅγιος to the right of the evangelist has been lost. Both the name and the saint's epithet are misspelled. Based on the examples of Paul and Mark we reconstructed the word. </p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>
