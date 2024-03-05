@@ -75,14 +75,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="Constantine"><supplied reason="lost">Ὁ</supplied>
-                    <lb n="2"/><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied>
+                    <lb n="2"/><persName type="sacred" key="Constantine"><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
                     <lb n="3" break="no" /><supplied reason="lost">γι</supplied>
                     <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w>
                     <cb n="b"/>
-                     <lb n="1"/><name nymRef="#Kωνσταντῖνος">Κωστ<hi rend="ligature">αν</hi>
-                     <lb n="2" break="no"/>τ<choice><orig>ί</orig><reg>ῖ</reg></choice>
-                     <lb n="3" break="no"/>νος
+                     <lb n="1"/><name nymRef="#Kωνσταντῖνος"><choice><sic>Κωστ<hi rend="ligature">αν</hi><lb n="2" break="no"/>τ<choice><orig>ί</orig><reg>ῖ</reg></choice><lb n="3" break="no"/>νος</sic><corr>Κωνσταν<lb n="2" break="no"/>τῖ<lb n="3" break="no"/>νος</corr></choice>
                      </name></persName>
                 </ab>
             </div>
@@ -90,10 +88,10 @@
                 <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Constantine</p>
+                <p>[Saint] Constantine</p>
             </div>
             <div type="commentary">
-                <p>The inscription is badly damaged and only the column b with the saint's name has partially survived.</p>
+                <p>The inscription is badly damaged and only the column b with the misspelled saint's name has partially survived.</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>
