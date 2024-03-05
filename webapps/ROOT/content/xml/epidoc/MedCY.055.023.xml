@@ -80,10 +80,7 @@
                     <lb n="3" break="no" /><supplied reason="lost">γι</supplied>
                     <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w>
                     <cb n="b"/>
-                    <lb n="1"/><name nymRef="#Αὐξέντιος"><supplied reason="lost">Αὐ</supplied>
-                    <lb n="2" break="no"/>ξέ
-                     <lb n="3" break="no"/><supplied reason="omitted">ν</supplied>τη
-                     <lb n="4" break="no"/>ος</name></persName>
+                    <lb n="1"/><name nymRef="#Αὐξέντιος"><choice><sic><supplied reason="lost">Αὐ</supplied><lb n="2" break="no"/>ξέ<lb n="3" break="no"/>τη<lb n="4" break="no"/>ος</sic><corr>Αὐ<lb n="2" break="no"/>ξέ<lb n="3" break="no"/>ντι<lb n="4" break="no"/>ος</corr></choice></name></persName>
                 </ab>
             </div>
             <div type="apparatus">
@@ -93,7 +90,7 @@
                 <p>Saint Auxentios</p>
             </div>
             <div type="commentary">
-                <p>The inscription is badly damaged and only the column b with the saint's name has survived.  </p>
+                <p>The inscription is badly damaged and only the column b with the misspelled saint's name has survived.  </p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>
