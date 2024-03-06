@@ -1110,9 +1110,9 @@
                     <desc type="conservation">1968-1973 (Dumbarton Oaks Institute), 1977</desc>
                     <desc type="donors">Leo Authentes</desc>
                     <desc type="painter">
-                        1st layer: Theodore Apseudes (?) or "Painter of Apseudes"
-                        2nd layer: "Painter of Leo"
-                        3rd  layer: Leontios the Deacon</desc>
+                        <desc type="layer"></desc>1st layer: Theodore Apseudes (?) or "Painter of Apseudes"
+                        <desc type="layer"></desc>2nd layer: "Painter of Leo"
+                        <desc type="layer"></desc>3rd  layer: Leontios the Deacon</desc>
                     <desc type="graffiti"><desc type="graffiti">See <ref target="http://grafmedia.cy.example.com/id/0101010">Grafmedia</ref></desc></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0015.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146407/192/</idno>
