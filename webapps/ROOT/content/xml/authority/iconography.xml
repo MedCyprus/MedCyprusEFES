@@ -776,6 +776,9 @@
             <list type="Hymnographers">
                 <head>Hymnographers</head>
                 
+                <item xml:id="JohnOfDamascusHymnographer">
+                    <term xml:lang="en">John of Damascus</term></item>
+                
                 <item xml:id="JosephPoet"> 
                     <term xml:lang="en">Joseph the Poet</term>
                 </item>
