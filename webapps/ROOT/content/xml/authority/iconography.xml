@@ -551,8 +551,8 @@
                         <term xml:lang="en">Hilarion</term>
                     </item>
                     
-                    <item xml:id="JohnOfDamascus">
-                        <term xml:lang="en">John of Damascus</term></item>
+                    <!--<item xml:id="JohnOfDamascus">
+                        <term xml:lang="en">John of Damascus</term></item>-->
                     
                     <item xml:id="JohnClimacus">
                     <term xml:lang="en">John Climacus</term></item>
