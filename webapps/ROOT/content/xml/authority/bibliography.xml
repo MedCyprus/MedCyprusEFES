@@ -44,6 +44,8 @@
                     
                     <bibl xml:id="Boyd1974"><author><surname>Boyd</surname> <forename>S.</forename></author>, <date>1974</date>, <title level="a">The Church of the Panagia Amasgou, Monagri, Cyprus, and Its Wall Paintings</title>, <title level="j">DOP</title> <biblScope unit="volume">28</biblScope>, <biblScope unit="page">276-349</biblScope>.</bibl>
                     
+                    <bibl xml:id="Buckler1933"><author><surname>Buckler</surname> <forename> W. H.</forename></author>, <author><surname>Seymer</surname> <forename>V</forename></author>, and <author><surname>Buckler</surname> <forename>G.</forename></author><date>1933</date>, <title level="a">The Church of Asinou, Cyprus, and its Frescoes</title>, <title level="j">Archaeologia or Miscelanneous Tracts Relating to Antiquity </title> <biblScope unit="volume">83</biblScope>, <biblScope unit="page">327-50</biblScope>.</bibl>
+                    
                     <bibl xml:id="Chotzakoglou2005"><author><surname>Chotzakoglou</surname> <forename>Ch.</forename></author>, <date>2005</date>, <title level="a">Βυζαντινὴ ἀρχιτεκτονικὴ καὶ τέχνη στὴν Κύπρο</title>, in <title level="m">Ἱστορία τῆς Κύπρου</title>,  <biblScope unit="volume">Γ’</biblScope>: Βυζαντινὴ Κύπρος, ed. <editor><forename>Th. </forename><surname>Papadopoullos</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">465-788</biblScope>.</bibl>
                     
                     <bibl xml:id="Chotzakoglou2010a"><title type="short">Chotzakoglou 2010a</title> <author><surname>Chotzakoglou</surname> <forename>Ch.</forename></author>, <date>2010</date>, <title level="a">Η εντοίχια μνημειακή διακόσμηση στους ναούς της Καρπασίας (4ος-15ος αιώνας)</title>, in <title level="m">Καρπασία. Πρακτικά Α' Επιστημονικού Συνεδρίου, 4-5 Απριλίου 2009</title>, ed. <editor><forename>P.</forename> <surname>Papageorgiou</surname></editor>, <pubPlace>Limassol</pubPlace>, <biblScope unit="page">421-60</biblScope>.</bibl>
@@ -296,6 +298,8 @@
             
             <bibl copyOf="#Bakirtzis2019"></bibl>
             
+            <bibl copyOf="#Buckler1933"></bibl>
+                        
             <bibl copyOf="#Bordne2015"></bibl>
             
             <bibl copyOf="#Boyd1974"></bibl>
