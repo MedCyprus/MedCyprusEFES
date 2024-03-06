@@ -1113,18 +1113,27 @@
                         1st layer: Theodore Apseudes (?) or "Painter of Apseudes"
                         2nd layer: "Painter of Leo"
                         3rd  layer: Leontios the Deacon</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="graffiti"><desc type="graffiti">See <ref target="http://grafmedia.cy.example.com/id/0101010">Grafmedia</ref></desc></desc>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0015.html</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/146407/192/</idno>
+                    <idno type="geonames">https://www.geonames.org/12314/panagia-tou-araka.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Nicolaïdès1996"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Winfield2003"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Konstantinidi2018"/><citedRange> 49-88</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#VisCult"/><citedRange> 1, 199-213</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
-                    </listBibl>
+                        <bibl><ptr target="bibliography.xml#Nicolaïdès1996"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Sophocleous1998"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2, 86</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Winfield2003"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>622-6</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2018"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Touliatos2021"/><citedRange>266-87</citedRange></bibl>     
+                 </listBibl>
                 </place>
-                
+                    
                 <place xml:id="Lampousa" n="37">
                     <placeName xml:lang="en">Lampousa, Panagia Acheiropoietos</placeName>
                     <placeName xml:lang="el">...</placeName>
