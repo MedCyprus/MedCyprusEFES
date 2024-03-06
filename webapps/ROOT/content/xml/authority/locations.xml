@@ -1102,17 +1102,17 @@
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Domed-hall structure, with an early 12th-13th c. narthex covered both with a large timber roof</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1170" notAfter="1178" precision="medium" >1170s</date>(bema apse)</desc>
-                        <desc type="layer" n="2">2nd layer: <date when="1192" precision="high" >1178</date>bema, dome, nave</desc>
-                        <desc type="layer" n="3">3rd layer: <date when="1132" precision="medium" >1132/3</date>(narthex: external wall-door lunette)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1170" notAfter="1178" precision="medium" >1170s</date> (bema apse)</desc>
+                        <desc type="layer" n="2">2nd layer: <date when="1192" precision="high" >1178</date> (bema, dome, nave)</desc>
+                        <desc type="layer" n="3">3rd layer: <date when="1132" precision="medium" >1132/3</date> (narthex: external wall-door lunette)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1601" notAfter="1650" precision="medium" >First half 17th century</date>(external north wall)</desc>
                     </desc>
                     <desc type="conservation">1968-1973 (Dumbarton Oaks Institute), 1977</desc>
                     <desc type="donors">Leo Authentes</desc>
                     <desc type="painter">
-                        <desc type="layer" n="1">1st layer: </desc>Theodore Apseudes (?) or "Painter of Apseudes"
-                        <desc type="layer" n="2">2nd layer: </desc>"Painter of Leo"
-                        <desc type="layer" n="3">3rd  layer: </desc>Leontios the Deacon</desc>
+                        1st layer: Theodore Apseudes (?) or "Painter of Apseudes"
+                        2nd layer: "Painter of Leo"
+                        3rd  layer: Leontios the Deacon</desc>
                     <desc type="graffiti">...</desc>
                     <idno type="IBCC">...</idno>
                     <idno type="HGC">...</idno>
