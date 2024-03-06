@@ -1408,18 +1408,20 @@
                     <idno type="HGC">http://www.cyprusgazetteer.org/16467/310/</idno>
                     <idno type="geonames">https://www.geonames.org/16467/panagia-forviotissa.html</idno>
                     <listBibl type="inscriptions">
+                        <bibl><ptr target="bibliography.xml#Buckler1933"/><citedRange>327-50</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>98-9</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Sacopoulo1966"/></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1973"/></bibl>
                         <bibl><ptr target="bibliography.xml#HadjichristodoulouMyrianthefs2009"/></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange> 107-8, 111-2</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange> 334, 341-52</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#MoutafovRhoby2012"/><citedRange> 185</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kalopissi-Verti2012"/><citedRange>115-208</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MoutafovRhoby2012"/><citedRange> 185</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Ševčenko2012"/><citedRange>69-90</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#VisCult"/><citedRange> 1, 179-98</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Buckler1933"/><citedRange>327-50</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>98-9</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1966, 7</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Sacopoulo1966"/></bibl>
