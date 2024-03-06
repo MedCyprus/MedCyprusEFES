@@ -94,6 +94,7 @@
             </div>
             <div type="bibliography">
                 <listBibl> 
+                    <bibl><ptr target="#MoutafovRhoby2012"/>,<citedRange> 185</citedRange></bibl>
                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 12</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
