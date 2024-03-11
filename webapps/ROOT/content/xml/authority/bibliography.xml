@@ -130,9 +130,7 @@
                     <bibl xml:id="Lymboure-Kozakou2018"><author><surname>Lymboure-Kozakou</surname> <forename>E.</forename></author>, <date>2018</date>, <title level="m">Αποκαταστάσεις μνημείων στην Κύπρο. Από την ίδρυση του Τμήματος Αρχαιοτήτων το 1935 έως το 2005</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
                     
                     <bibl xml:id="Lysandrou2011"><author><surname>Lysandrou</surname> <forename>V.</forename></author>, <date>2011</date>, <title level="m">Μνημεία Μητρόπολης Ταμασού και Ορεινής, ναοί και ξωκλήσια</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
-                    
-                    <bibl xml:id="Maguire1977"><author><surname>Maguire</surname> <forename>H.</forename></author>, <date>1977</date>, <title level="a">The Depiction of Sorrow in Middle Byzantine Art</title>, <title level="j">DOP</title> <biblScope unit="volume">31</biblScope>, <biblScope unit="page">123-74</biblScope>.</bibl>
-                                       
+                                                                               
                     <bibl xml:id="MangoHawkins1964"><author><surname>Mango</surname> <forename>C.</forename></author> and <author><surname>Hawkins</surname> <forename>E. J. W.</forename></author>, <date>1964</date>, <title level="a">Report on Field Work in Istanbul and Cyprus, 1962-1963</title>, <title level="j">DOP</title> <biblScope unit="volume">18</biblScope>, <biblScope unit="page">319-40</biblScope>.</bibl>
                     
                     <bibl xml:id="MangoHawkins1966"><author><surname>Mango</surname> <forename>C.</forename></author> and <author><surname>Hawkins</surname> <forename>E. J. W.</forename></author>, <date>1966</date>, <title level="a">The Hermitage of St. Neophytos and Its Wall Paintings</title>, <title level="j">DOP</title> <biblScope unit="volume">20</biblScope>, <biblScope unit="page">119-206</biblScope>.</bibl>
@@ -331,9 +329,7 @@
             <bibl copyOf="#Konstantinidi2008"></bibl>
             
             <!--  --><bibl copyOf="#Konstantinidi2018"></bibl>
-            
-            <bibl copyOf="#Maguire1977"></bibl>
-            
+                                   
             <bibl copyOf="#MangoHawkins1964"></bibl>
             
             <bibl copyOf="#MangoHawkins1966"></bibl>
@@ -406,6 +402,8 @@
             
             <listBibl xml:id="textualsources">
                 <head>Textual Sources</head>
+                
+                <bibl xml:id="Maguire1977"><author><surname>Maguire</surname> <forename>H.</forename></author>, <date>1977</date>, <title level="a">The Depiction of Sorrow in Middle Byzantine Art</title>, <title level="j">DOP</title> <biblScope unit="volume">31</biblScope>, <biblScope unit="page">123-74</biblScope>.</bibl>
                 
                 <bibl xml:id="Maguire1996"><author><surname>Maguire</surname> <forename>H.</forename></author>, <date>1996</date>, <title level="m">Image and Imagination: The Byzantine Epigram as Evidence for Viewer Response</title>, <pubPlace>Toronto</pubPlace>.</bibl>
                 
