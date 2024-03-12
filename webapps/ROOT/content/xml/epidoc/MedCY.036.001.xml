@@ -48,7 +48,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Lagoudera">Lagoudera, Panagia tou Araka or Arakiotissa </origPlace>
-                            <origDate notBefore="1170" notAfter="1178">1170-1178</origDate>
+                            <origDate notBefore="1170" notAfter="1178">1170s</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
@@ -64,7 +64,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>Transcription (Th. Petrou), publications</creation>
+            <creation>transcription (Th. Petrou), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
