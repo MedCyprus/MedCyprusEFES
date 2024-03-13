@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#donor_portrait">Donor portraits</rs></p>
+                            <p>... <rs type="iconography" ref="iconography.xml#DonorPortrait">Donor portraits</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
