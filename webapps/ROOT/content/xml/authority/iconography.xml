@@ -795,7 +795,7 @@
             <list type="supplicants">
                 <head>Supplicants</head> <!--number of monument to facilitate identification? Can the number be "live"?--> 
                 
-                <item><list type="Donor_Portrait">
+                <item><list type="DonorPortrait">
                     <head>Donor portraits</head>
                     
                     <item xml:id="AnastasiaSaramalyna_MedCY044"> 
