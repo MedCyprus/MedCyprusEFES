@@ -134,6 +134,7 @@
             
             <list type="sacred_objects">
                 <head>Sacred objects</head>
+                
                 <item xml:id="CrossProcessional"> 
                     <term xml:lang="en">Cross, Processional</term>
                     <!--Do we want to distinguish type of crosses? E.g., Patriarchal, Latin, processional etc.?-->
@@ -793,7 +794,8 @@
             
             <list type="supplicants">
                 <head>Supplicants</head> <!--number of monument to facilitate identification? Can the number be "live"?--> 
-                <item><list type="donor_portrait">
+                
+                <item><list type="DonorPortrait">
                     <head>Donor portraits</head>
                     
                     <item xml:id="AnastasiaSaramalyna_MedCY044"> 
