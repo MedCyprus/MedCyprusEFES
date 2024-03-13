@@ -104,10 +104,10 @@
                 <item xml:id="CommunionApostlesMetalepsis"> 
                     <term xml:lang="en">Communion of the Apostles, Metalepsis (Offering of the Wine)</term>
                 </item>
-                <item xml:id="deesis"> 
+                <item xml:id="Deesis"> 
                     <term xml:lang="en">Deesis</term>
                 </item>
-                <item xml:id="last_judgment"> 
+                <item xml:id="LastJudgment"> 
                     <term xml:lang="en">Last Judgment</term>
                 </item>
                 <item xml:id="Hetoimasia"> 
@@ -127,11 +127,14 @@
                 <item xml:id="FortyMartyrs"> 
                     <term xml:lang="en">Forty Martyrs of Sebaste</term>
                 </item>
+                <item xml:id="BiblicalMagi">
+                    <term xml:lang="en">Magi</term>
+                </item>
             </list>
             
             <list type="sacred_objects">
                 <head>Sacred objects</head>
-                <item xml:id="cross_processional"> 
+                <item xml:id="CrossProcessional"> 
                     <term xml:lang="en">cross, processional</term>
                     <!--Do we want to distinguish type of crosses? E.g., Patriarchal, Latin, processional etc.?-->
                 </item>
@@ -604,7 +607,7 @@
                         <term xml:lang="en">Christopher</term>
                     </item>
                     
-                    <item xml:id="demetrios"> 
+                    <item xml:id="Demetrios"> 
                         <term xml:lang="en">Demetrios</term>
                     </item>
                     
@@ -664,11 +667,7 @@
                     <item xml:id="Barbara"> 
                         <term xml:lang="en">Barbara</term>
                     </item>
-                    
-                    <item xml:id="BiblicalMagi">
-                        <term xml:lang="en">Magi</term>
-                    </item>
-                    
+                                                            
                     <item xml:id="Chariton">
                         <term xml:lang="en">Chariton</term>
                     </item>
