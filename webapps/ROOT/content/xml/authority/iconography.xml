@@ -795,12 +795,13 @@
             <list type="supplicants">
                 <head>Supplicants</head> <!--number of monument to facilitate identification? Can the number be "live"?--> 
                 
-                <item><list type="DonorPortrait">
-                    <head>Donor portraits</head>
-                    
+                                
                     <item xml:id="AnastasiaSaramalyna_MedCY044"> 
                         <term xml:lang="en">Anastasia Saramalyna</term>
                     </item>
+                <item xml:id="DonorPortraits"> 
+                    <term xml:lang="en">Donor Prortrait</term>
+                </item>
                     <item xml:id="IoannisEireneGerakiotes_MedCY043"> 
                         <term xml:lang="en">Ioannes and Eirene Gerakiotes</term>
                     </item>
@@ -811,7 +812,6 @@
                         <term xml:lang="en">wife of John (<ref target="locations.xml#MedCY018">MedCY018</ref>)</term>
                     </item>
                     <!-- ... -->
-                </list></item>
                 
                 <item><list type="funerary_portrait">
                     <head>Funerary portraits</head>
