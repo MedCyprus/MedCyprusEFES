@@ -115,6 +115,8 @@
                    <app loc="4"><rdg resp="Stylianou1960">ΣΗ(Ν)ΔΡΟΜΗΣ</rdg><rdg resp="#Papageorgiou2003">σηδρομῆς</rdg><rdg resp="#VisCult">συνδρομῆς</rdg></app>
                    <app loc="6"><rdg resp="#Stylianou1960">ΜΟΥΤΟΥ</rdg><rdg resp="#Mouriki1984">ΓΕΡΑΚΟΥΛΛΑ</rdg><rdg resp="#Papageorgiou2003">Γερακού.τα</rdg><rdg resp="#PerdikisMyrianthefs2009">ΓΕΡΑΚΙΩΤΗ</rdg><rdg resp="#VisCult">Γερακούλλα</rdg></app>
                    <app loc="7"><rdg resp="#Stylianou1960">ΤΗΣ (Σ)ΗΝΒΙΟΥ; ΙΡΙΝΗΣ</rdg><rdg resp="#Mouriki1984">ΤΗ CHNBIOY; ΪΡΙΝΗC</rdg><rdg resp="#Papageorgiou2003">τῆ σηνβίου; Ιρίνης</rdg><rdg resp="#PerdikisMyrianthefs2009">ΤΗ ΣΗΝΒΙΟΥ; ΙΡΙΝΗΣ</rdg><rdg resp="#VisCult">τῆς συνβίου; Εἰρήνης</rdg></app>
+                   <!--<app loc="8"><lem>ΣΗ(Ν)ΔΡΟΜΗΣ</lem> <note>Stylianou</note></app>-->
+                   <app loc="8"><rdg>ΣΗ(Ν)ΔΡΟΜΗΣ:</rdg> <note>Stylianou</note> <rdg>σηδρομῆς:</rdg> <note>Papageorgiou</note></app>
                </listApp>
               
             </div>
