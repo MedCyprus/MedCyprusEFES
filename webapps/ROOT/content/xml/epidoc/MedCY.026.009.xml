@@ -32,13 +32,16 @@
                                     </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side and in-between the arms of a <rs type="iconography" ref="iconography.xml#cross_processionial">processional cross</rs> on a tall shaft.</layout>
+                                <layout>On either side and in-between the arms of a processional cross on a tall shaft.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
                             <handNote>Black letters against white background. The letters are scattered on each side and in-between the cross arms. Letters between the cross arms are written in majuscule and those on the lower level are both in majuscule and minuscule. Most of them are abbreviations having the line above them. The thickness of the letters in some points varies. The lower register combines Greek and Latin characters both in majuscule and minuscule. Partially preserved. <height unit="cm">2-14,5 cm</height>
                             </handNote>
                         </handDesc>
+                        <decoDesc>
+                            <p>... <rs type="iconography" ref="iconography.xml#CrossProcessional">Processional Cross</rs></p>
+                        </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
