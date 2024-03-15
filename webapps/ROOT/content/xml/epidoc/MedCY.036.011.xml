@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Chrysostom</title>
+                <title>Saint John Chrysostom</title>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING
+                             <handNote>PENDING. Letter height: <height unit="cm">3-4,5</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -82,7 +82,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Saint Chrysostom</p>
+                <p>Saint John Chrysostom</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
