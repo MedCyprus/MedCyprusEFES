@@ -100,6 +100,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
+                <bibl><ptr target="#Buckler1933"/>,<citedRange> 342</citedRange></bibl>
                 <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 83</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
