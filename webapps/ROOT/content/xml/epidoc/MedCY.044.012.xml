@@ -77,20 +77,19 @@
                 <ab>
                   <cb n="a"/>
                     <lb n="1"/>Ὁ <persName type="sacred" key="IgnatiosTheophoros"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
-                    <lb n="2"/><name nymRef="#Ἰγνάτιος"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>
-                    <lb n="3" break="no"/>γν
-                    <lb n="4" break="no"/>ά
-                    <lb n="5" break="no"/>τ<supplied reason="omitted">ι</supplied>
-                    <lb n="6" break="no"/>ος</name> 
+                    <lb n="2"/><name nymRef="#Ἰγνάτιος"><choice><sic><choice><orig>Ι</orig><reg>Ἰ</reg></choice><lb n="3" break="no"/>γν<lb n="4" break="no"/>ά<lb n="5" break="no"/>τ<supplied reason="omitted">ι</supplied><lb n="6" break="no"/>ος</sic><corr>Ἰ<lb n="2" break="no"/>γν<lb n="3" break="no"/>ά<lb n="4" break="no"/>τ<lb n="5" break="no"/>ιος</corr></choice></name> 
                   <cb n="b"/>
-                  <lb n="5"/>Ὁ <addName type="epithet" key="Theophoros">Θεο
-                  <lb n="7" break="no"/>φώ
-                  <lb n="8" break="no"/>ρο
-                  <lb n="9" break="no"/>ς</addName></persName>
+                  <lb n="1"/>Ὁ <addName type="epithet" key="Theophoros">Θεο
+                  <lb n="2" break="no"/>φώ
+                  <lb n="3" break="no"/>ρο
+                  <lb n="4" break="no"/>ς</addName></persName>
               </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p><app loc="1-5"><rdg>Ἰγνάτιος:</rdg> <note>Buckler</note> <rdg>ΙΓΝΑΤΗΟC: </rdg><note>Sacopoulo</note></app>
+               <app loc="other_case"><rdg>Ἰγνάτιος:</rdg> <note>Buckler, Sacopoulo</note></app>
+                   <app loc="alternative"><rdg source="#Buckler1933">Ἰγνάτιος</rdg></app>
+               </p>          
             </div>
             <div type="translation">
                 <p>Saint Ignatios the God-bearing</p>
