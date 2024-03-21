@@ -161,7 +161,10 @@
                 </item>                
                 <item xml:id="David"> 
                     <term xml:lang="en">David</term>
-                </item>         
+                </item>
+                <!--<item xml:id="DeaconUnidentified_MedCY044.049"> 
+                        <term xml:lang="en">Deacon, unidentified</term>
+                    </item>-->         
                 <item xml:id="DionysiosAreopagites"> 
                     <term xml:lang="en">Dionysios the Areopagite</term>
                 </item>
@@ -262,10 +265,10 @@
                     <term xml:lang="en">Mardarios</term>
                 </item>
                 <item xml:id="Mark">
-                        <term xml:lang="en">Mark the Evangelist</term>
+                    <term xml:lang="en">Mark the Evangelist</term>
                 </item>                    
                 <item xml:id="Matthew">
-                        <term xml:lang="en">Matthew the Evangelist</term>
+                    <term xml:lang="en">Matthew the Evangelist</term>
                 </item>
                 <item xml:id="MeletiosAntioch"> 
                     <term xml:lang="en">Meletios</term>
@@ -290,6 +293,33 @@
                 <item xml:id="Philagrios"> 
                     <term xml:lang="en">Philagrios</term>
                 </item>
+                <!--<item xml:id="PrelateUnidentified_MedCY033.003"> 
+                    <term xml:lang="en">Prelate, unidentified</term>
+                </item>
+                <item xml:id="PrelateUnidentified_MedCY033.004"> 
+                    <term xml:lang="en">Prelate, unidentified</term>
+                </item>
+                <item xml:id="PrelateUnidentified_MedCY044.032"> 
+                    <term xml:lang="en">Prelate, unidentified</term>
+                </item>
+                <item xml:id="PrelateUnidentified_MedCY044.033"> 
+                    <term xml:lang="en">Prelate, unidentified</term>
+                </item>
+                <item xml:id="PrelateUnidentified_MedCY044.039"> 
+                    <term xml:lang="en">Prelate, unidentified</term>
+                </item>
+                <item xml:id="PrelateUnidentified_MedCY044.042"> 
+                    <term xml:lang="en">Prelate, unidentified</term>
+                </item>
+                <item xml:id="PrelateUnidentified_MedCY044.044"> 
+                    <term xml:lang="en">Prelate, unidentified</term>
+                </item>
+                <item xml:id="PrelateUnidentified_MedCY044.045"> 
+                    <term xml:lang="en">Prelate, unidentified</term>
+                </item>
+                <item xml:id="PrelateUnidentified_MedCY044.051"> 
+                    <term xml:lang="en">Prelate, unidentified</term>
+                </item> -->
                 <item xml:id="Solomon"> 
                     <term xml:lang="en">Solomon</term>
                 </item>
@@ -319,6 +349,12 @@
                 </item>
                 <item xml:id="Virgin">
                     <term xml:lang="en">Virgin</term>
+                </item>
+                <item xml:id="Zacharias">
+                    <term xml:lang="en">Zacharias</term>
+                </item>
+                <item xml:id="Zenon"> 
+                    <term xml:lang="en">Zenon</term>
                 </item>
                 
             </list>
@@ -366,9 +402,44 @@
                 <item xml:id="apostle">
                     <term xml:lang="en">Apostle</term>
                 </item>
+                <item xml:id="archangel">
+                    <term xml:lang="en">Archangel</term>
+                </item>
+                <item xml:id="ascetic">
+                    <term xml:lang="en">Ascetic</term>
+                </item>
                 <item xml:id="deacon">
                     <term xml:lang="en">Deacon</term>
-                </item> 
+                </item>
+                <item xml:id="deceased">
+                    <term xml:lang="en">Deceased</term>
+                </item>
+                <item xml:id="divine">
+                    <term xml:lang="en">Divine</term>
+                </item>
+                <item xml:id="donor">
+                    <term xml:lang="en">Donor</term>
+                </item>
+                <item xml:id="evangelist">
+                    <term xml:lang="en">Evangelist</term>
+                </item><item xml:id="hymnographer">
+                    <term xml:lang="en">Hymnographer</term>
+                </item>
+                <item xml:id="imperial">
+                    <term xml:lang="en">Imperial</term>
+                </item>
+                <item xml:id="martyr">
+                    <term xml:lang="en">Martyr</term>
+                </item>
+                <item xml:id="militarysaint">
+                    <term xml:lang="en">Military Saint</term>
+                </item>
+                <item xml:id="monastic">
+                    <term xml:lang="en">Monastic</term>
+                </item>
+                <item xml:id="personification">
+                    <term xml:lang="en">Personification</term>
+                </item>
                 <item xml:id="prelate">
                     <term xml:lang="en">Prelate</term>
                 </item>
@@ -377,49 +448,19 @@
                 </item>  
                 <item xml:id="prophete">
                     <term xml:lang="en">Prophet</term>
+                </item>
+                <item xml:id="supplicant">
+                    <term xml:lang="en">Supplicant</term>
                 </item> 
-                    
+                
                 </list> 
                    
                     
                     
                     
-                    <item xml:id="Zacharias">
-                        <term xml:lang="en">Zacharias</term>
-                    </item>
-                    <item xml:id="Zenon"> 
-                        <term xml:lang="en">Zenon</term>
-                    </item>
-                    <item xml:id="unidentified_prelate_MedCY033.003"> 
-                        <term xml:lang="en">Prelate, unidentified</term>
-                    </item>
-                    <item xml:id="PrelateUnidentified_MedCY033.004"> 
-                        <term xml:lang="en">Prelate, unidentified</term>
-                    </item>
-                    <item xml:id="PrelateUnidentified_MedCY044.032"> 
-                        <term xml:lang="en">Prelate, unidentified</term>
-                    </item>
-                    <item xml:id="PrelateUnidentified_MedCY044.033"> 
-                        <term xml:lang="en">Prelate, unidentified</term>
-                    </item>
-                    <item xml:id="PrelateUnidentified_MedCY044.039"> 
-                        <term xml:lang="en">Prelate, unidentified</term>
-                    </item>
-                    <item xml:id="PrelateUnidentified_MedCY044.042"> 
-                        <term xml:lang="en">Prelate, unidentified</term>
-                    </item>
-                    <item xml:id="PrelateUnidentified_MedCY044.044"> 
-                        <term xml:lang="en">Prelate, unidentified</term>
-                    </item>
-                    <item xml:id="PrelateUnidentified_MedCY044.045"> 
-                        <term xml:lang="en">Prelate, unidentified</term>
-                    </item>
-                    <item xml:id="PrelateUnidentified_MedCY044.051"> 
-                        <term xml:lang="en">Prelate, unidentified</term>
-                    </item>
-                    <item xml:id="DeaconUnidentified_MedCY044.049"> 
-                        <term xml:lang="en">Deacon, unidentified</term>
-                    </item>
+                    
+                    
+                    
                 
                 <item><list type="Monastics">
                     <head>Monastics and Ascetics</head>
