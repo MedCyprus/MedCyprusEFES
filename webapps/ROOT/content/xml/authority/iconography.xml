@@ -32,6 +32,12 @@
                 <item xml:id="Baptism">
                     <term xml:lang="en">Baptism</term>
                 </item>                
+                <item xml:id="BathChild">
+                    <term xml:lang="en">Bath of the Child</term>
+                </item>
+                <item xml:id="VirginBath">
+                    <term xml:lang="en">Bath of the infant Virgin</term>
+                </item>
                 <item xml:id="BirthVirgin"> 
                     <term xml:lang="en">Birth of the Virgin</term>
                 </item>                
@@ -46,6 +52,9 @@
                 </item>                
                 <item xml:id="Deesis"> 
                     <term xml:lang="en">Deesis</term>
+                </item> 
+                <item xml:id="DescentIntoHell"> 
+                    <term xml:lang="en">Descent into Hell</term>
                 </item>
                 <item xml:id="Dormition">
                     <term xml:lang="en">Dormition</term>
@@ -76,7 +85,8 @@
                 </item>                
                 <item xml:id="PresentationChristTemple"> 
                     <term xml:lang="en">Presentation of Christ to the Temple</term>
-                </item><item xml:id="PresentationVirgin"> 
+                </item>
+                <item xml:id="PresentationVirgin"> 
                     <term xml:lang="en">Presentation of the Virgin to the Temple</term>
                 </item>
                 <item xml:id="AbrahamSacrifice"> 
@@ -116,234 +126,156 @@
                 <item xml:id="Adam">
                     <term xml:lang="en">Adam</term>
                 </item>
-                
+                <!--<item xml:id="andrew"> 
+                    <term xml:lang="en">Andrew</term>
+                </item>-->
+                <item xml:id="Angel"> 
+                    <term xml:lang="en">Angel</term>
+                </item>                
                 <item xml:id="Anne"> 
                     <term xml:lang="en">Anne</term>
-                </item>
-                                                
+                </item>                                                
                 <item xml:id="Christ">
                 <term xml:lang="en">Christ</term>
-                    </item>
-                
-                <item xml:id="ChristEmmanuel">
-                    <term xml:lang="en">Christ Emmanuel</term>
+                </item> 
+                <item xml:id="Daniel"> 
+                    <term xml:lang="en">Daniel</term>
+                </item>                
+                <item xml:id="David"> 
+                    <term xml:lang="en">David</term>
+                </item>                
+                <item xml:id="Elisha"> 
+                    <term xml:lang="en">Elisha</term>
+                </item>                
+                <item xml:id="Elijah"> 
+                    <term xml:lang="en">Elijah</term>
                 </item>
-                
-                <item xml:id="ChristAntiphonetes">
-                    <term xml:lang="en">Christ Antiphonetes</term>
-                </item>
-                
-                <item xml:id="ChristNativity">
-                    <term xml:lang="en">Christ, Nativity</term>
-                </item>
-                
-                <item xml:id="ChristBath">
-                    <term xml:lang="en">Bath of the child, Christ</term>
-                </item>
-                
-                <item xml:id="ChristEntryIntoJerusalem">
-                    <term xml:lang="en">Entry into Jerusalem, Christ</term>
-                </item>
-                
-                <item xml:id="LazarosRaisingChrist">
-                    <term xml:lang="en">Raising of Lazaros, Christ</term>
-                </item>
-                
-                <item xml:id="ChristResurrection">
-                    <term xml:lang="en">Christ Resurrection</term>
-                </item>
-                
                 <item xml:id="Eve">
                     <term xml:lang="en">Eve</term>
+                </item>                
+                <item xml:id="Ezekiel"> 
+                    <term xml:lang="en">Ezekiel</term>
+                </item>  
+                <item xml:id="Gabriel"> 
+                    <term xml:lang="en">Archangel Gabriel</term>
                 </item>
-                                                                  
+                <item xml:id="Gedeon"> 
+                    <term xml:lang="en">Gedeon</term>
+                </item>
+                <item xml:id="Habakkuk"> 
+                    <term xml:lang="en">Habakkuk</term>
+                </item>
+                <item xml:id="Isaiah"> 
+                    <term xml:lang="en">Isaiah</term>
+                </item>                
+                <item xml:id="Jeremiah"> 
+                    <term xml:lang="en">Jeremiah</term>
+                </item>
                 <item xml:id="Joachim"> 
                     <term xml:lang="en">Joachim</term>
                 </item>
-                
-                <item xml:id="JosephMnestor"> 
+                <item xml:id="JohnForerunner"> 
+                    <term xml:lang="en">John the Forerunner</term>
+                </item>
+                <item xml:id="JohnTheologian">
+                    <term xml:lang="en">John the Theologian</term>
+                </item>                              
+                <item xml:id="Jonah"> 
+                    <term xml:lang="en">Jonah</term>
+                </item> 
+                <item xml:id="Joseph"> 
                     <term xml:lang="en">Joseph</term>
                 </item>
-                
                 <item xml:id="Luke"> 
                     <term xml:lang="en">Luke the Evangelist </term>
-                </item>
-                
+                </item>                
+                <!--<item xml:id="MaleSaintUnidentified_MedCY044.037"> 
+                    <term xml:lang="en">Male saint, unidentified</term>
+                </item>                
+                <item xml:id="MaleSaintUnidentified_MedCY044.100"> 
+                    <term xml:lang="en">Male saint, unidentified</term>
+                </item>                
+                <item xml:id="MaleSaintUnidentified_MedCY055.024"> 
+                    <term xml:lang="en">Male saint, unidentified</term>
+                </item> -->
                 <item xml:id="Mardarios"> 
                     <term xml:lang="en">Mardarios</term>
                 </item>
-                
+                <item xml:id="Mark">
+                        <term xml:lang="en">Mark the Evangelist</term>
+                </item>                    
+                <item xml:id="Matthew">
+                        <term xml:lang="en">Matthew the Evangelist</term>
+                </item>
+                <item xml:id="Michael"> 
+                        <term xml:lang="en">Archangel Michael</term>
+                </item>
+                <item xml:id="Moses"> 
+                    <term xml:lang="en">Moses</term>
+                </item>
+                <item xml:id="Paul"> 
+                    <term xml:lang="en">Paul</term>
+                </item>                
+                <item xml:id="Peter"> 
+                    <term xml:lang="en">Peter</term>
+                </item>
+                <item xml:id="Solomon"> 
+                    <term xml:lang="en">Solomon</term>
+                </item>
                 <item xml:id="Stylianos"> 
                     <term xml:lang="en">Stylianos</term>
                 </item>
-                
                 <item xml:id="Symeon"> 
                     <term xml:lang="en">Symeon</term>
                 </item>
-                                                
-                <item xml:id="MaleSaintUnidentified_MedCY044.037"> 
-                    <term xml:lang="en">Male saint, unidentified</term>
-                </item>
-                
-                <item xml:id="MaleSaintUnidentified_MedCY044.100"> 
-                    <term xml:lang="en">Male saint, unidentified</term>
-                </item>
-                
-                <item xml:id="MaleSaintUnidentified_MedCY055.024"> 
-                    <term xml:lang="en">Male saint, unidentified</term>
-                </item>
-                
                 <item xml:id="Virgin">
-                <term xml:lang="en">Virgin</term>
+                    <term xml:lang="en">Virgin</term>
                 </item>
                 
-                <item xml:id="VirginBath">
-                    <term xml:lang="en">Bath of the infant Virgin, Virgin</term>
-                </item>
+            </list>
                 
-                <item xml:id="VirginAnnunciation">
-                    <term xml:lang="en">Virgin, Annunciation</term>
-                </item>
-                
-                <item xml:id="VirginNativity">
-                    <term xml:lang="en">Virgin, Nativity</term>
-                </item>
-                
-                <item xml:id="VirginCrucifixion">
-                    <term xml:lang="en">Crucifixion, Virgin</term>
-                </item>
-                
-                <item xml:id="VirginBlachernitissa">
+            <list type="individual_figure_iconography">
+                <head>Individual Figure Iconographic Types</head>
+              
+                <!--<item xml:id="VirginBlachernitissa">
                     <term xml:lang="en">Virgin Blachernitissa</term>
-                </item>
-                
+                </item>                
                 <item xml:id="VirginEleousa">
                     <term xml:lang="en">Virgin Eleousa</term>
-                </item>
-                
+                </item>                
                 <item xml:id="VirginEnthroned">
                     <term xml:lang="en">Virgin enthroned with the Christ child</term>
-                </item>
-                
+                </item>                
                 <item xml:id="VirginHodegetria">
                     <term xml:lang="en">Virgin Hodegetria</term>
-                </item>
-                
+                </item>                
                 <item xml:id="VirginMercy">
                     <term xml:lang="en">Virgin of the Mercy</term>
-                </item>
-                
+                </item>                
                 <item xml:id="VirginOrans">
                     <term xml:lang="en">Virgin Orans</term>
+                </item> -->                
+                
+            </list> 
+  
+            <list type="individual_figure_categories">
+                <head>Individual Figure Categories</head>    
+                
+                <item xml:id="angelicpower">
+                    <term xml:lang="en">Angelic Power</term>
                 </item>
-                                             
-                <item><list type="Angelic_Powers">
-                    <head>Angelic Powers</head>
-                    <item xml:id="Michael"> 
-                        <term xml:lang="en">Archangel Michael</term>
-                    </item>
-                    <!-- ... -->
-                    <item xml:id="Gabriel"> 
-                        <term xml:lang="en">Archangel Gabriel</term>
-                    </item>
-                    <item xml:id="AngelNativity"> 
-                        <term xml:lang="en">Nativity, Angel addresses to the shepherd</term>
-                    </item>
-                </list></item>
+                <item xml:id="apostle">
+                    <term xml:lang="en">Apostle</term>
+                </item>
+                <item xml:id="prophete">
+                    <term xml:lang="en">Prophet</term>
+                </item> 
+                    
+                </list>
                 
-                <item><list type="Prophets">
-                    <head>Prophets</head>
+      
                     
-                    <item xml:id="Daniel"> 
-                        <term xml:lang="en">Daniel</term>
-                    </item>
-                                                        
-                    <item xml:id="David"> 
-                        <term xml:lang="en">David</term>
-                    </item>
                     
-                    <item xml:id="Elisha"> 
-                        <term xml:lang="en">Elisha</term>
-                    </item>
-                    
-                    <item xml:id="Elijah"> 
-                        <term xml:lang="en">Elijah</term>
-                    </item>
-                    
-                    <item xml:id="Ezekiel"> 
-                        <term xml:lang="en">Ezekiel</term>
-                    </item>
-                    
-                    <item xml:id="Gedeon"> 
-                        <term xml:lang="en">Gedeon</term>
-                    </item>
-                    
-                    <item xml:id="Habakkuk"> 
-                        <term xml:lang="en">Habakkuk</term>
-                    </item>
-                    
-                    <item xml:id="Isaiah"> 
-                        <term xml:lang="en">Isaiah</term>
-                    </item>
-                    
-                    <item xml:id="Jeremiah"> 
-                        <term xml:lang="en">Jeremiah</term>
-                    </item>
-                    
-                    <item xml:id="JohnForerunner"> 
-                        <term xml:lang="en">John the Forerunner</term>
-                    </item>
-                    
-                    <item xml:id="Jonah"> 
-                        <term xml:lang="en">Jonah</term>
-                    </item>
-                    
-                    <item xml:id="Moses"> 
-                        <term xml:lang="en">Moses</term>
-                    </item>
-                    
-                    <item xml:id="ResurrectionJohnForerunner"> 
-                        <term xml:lang="en">Resurrection, John the Forerunner</term>
-                    </item>
-                    
-                    <item xml:id="solomon"> 
-                        <term xml:lang="en">Solomon</term>
-                    </item>
-                    <!-- ... -->
-                </list></item>
-                
-                <item><list type="Apostles">
-                    <head>Apostles</head>
-                    <item xml:id="andrew"> 
-                        <term xml:lang="en">Andrew</term>
-                    </item>
-                                                  
-                    <item xml:id="JohnTheologian">
-                        <term xml:lang="en">John the Theologian</term>
-                    </item>
-                    
-                    <item xml:id="JohnTheologianCrucifixion">
-                        <term xml:lang="en">Crucifixion, John the Theologian</term>
-                    </item>
-                    
-                    <item xml:id="Mark">
-                        <term xml:lang="en">Mark the Evangelist</term>
-                    </item>
-                    
-                    <item xml:id="Matthew">
-                        <term xml:lang="en">Matthew the Evangelist</term>
-                    </item>
-                    <!-- ... -->
-                    
-                    <item xml:id="Paul"> 
-                        <term xml:lang="en">Paul</term>
-                    </item>
-                    
-                    <item xml:id="Peter"> 
-                        <term xml:lang="en">Peter</term>
-                    </item>
-                    
-                </list></item>
                 
                 <item><list type="Ecclesiastics">
                     <head>Ecclesiastics (prelates, priests, deacons)</head>
@@ -809,7 +741,13 @@
                 </item>
             </list>
                   
-        
+            <item xml:id="ChristEmmanuel">
+                <term xml:lang="en">Christ Emmanuel</term>
+            </item>
+            
+            <item xml:id="ChristAntiphonetes">
+                <term xml:lang="en">Christ Antiphonetes</term>
+            </item>
             
         </body>
     </text>
