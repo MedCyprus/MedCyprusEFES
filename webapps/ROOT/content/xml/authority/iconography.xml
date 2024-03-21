@@ -16,148 +16,102 @@
     </teiHeader>
     <text>
         <body>
-            <list type="christological_narrative">
-                <head>Christological narrative scenes</head>
-                
-                <item xml:id="PresentationChristTemple"> 
-                    <term xml:lang="en">Presentation of Christ to the temple</term>
-                </item>
-                <item xml:id="Baptism">
-                    <term xml:lang="en">Baptism</term>
-                </item>
-                <item xml:id="LazarosRaising"> 
-                    <term xml:lang="en">Raising of Lazaros</term>
-                </item>
-                <item xml:id="EntryIntoJerusalem"> 
-                    <term xml:lang="en">Entry into Jerusalem</term>
-                </item>
-                <item xml:id="Crucifixion"> 
-                    <term xml:lang="en">Crucifixion</term>
-                </item>
-                <item xml:id="Ascension">
-                    <term xml:lang="en">Ascension</term>
-                </item>
-                <item xml:id="AscensionChrist">
-                    <term xml:lang="en">Ascension, Christ</term>
-                </item>
-                
-                <item xml:id="LastSupper">
-                    <term xml:lang="en">Last Supper</term>
-                </item>
-                
-                <item xml:id="LastSupperChrist">
-                    <term xml:lang="en">Last Supper, Christ</term>
-                </item>
-                
-                <item xml:id="Nativity"> 
-                    <term xml:lang="en">Nativity</term>
-                </item>
-                <item xml:id="Pentecost">
-                    <term xml:lang="en">Pentecost</term>
-                </item>
-                <item xml:id="PentecostBartholomew">
-                    <term xml:lang="en">Pentecost, Bartholomew</term>
-                </item>
-                <item xml:id="PentecostThomas">
-                    <term xml:lang="en">Pentecost, Thomas</term>
-                </item>
-                <item xml:id="WashingOfTheFeet">
-                    <term xml:lang="en">Washing of the feet</term>
-                </item>
-                <item xml:id="WashingOfTheFeetChrist">
-                    <term xml:lang="en">Washing of the feet, Christ</term>
-                </item>
-                <!-- ... -->
-            </list>
             
-            <list type="mariological_narrative">
-                <head>Mariological narrative scenes</head>
-                <item xml:id="BirthVirgin"> 
-                    <term xml:lang="en">Birth of the Virgin</term>
+            <list type="scene">
+                <head>Narrative Scenes</head>
+                
+                <item xml:id="AdorationMagi">
+                    <term xml:lang="en">Adoration of the Magi</term>
                 </item>
-                <item xml:id="PresentationVirgin"> 
-                    <term xml:lang="en">Presentation of the Virgin to the Temple</term>
-                </item>
-                <!-- ... -->
                 <item xml:id="Αnnunciation">
                     <term xml:lang="en">Annunciation</term>
                 </item>
-                <item xml:id="Dormition">
-                    <term xml:lang="en">Dormition</term>
-                </item>
-                <item xml:id="DormitionVirgin">
-                    <term xml:lang="en">Dormition, Virgin</term>
-                </item>
-                <item xml:id="DormitionChrist">
-                    <term xml:lang="en">Dormition, Christ</term>
-                </item>
-                <item xml:id="DormitionJohnTheologian">
-                    <term xml:lang="en">Dormition, John the Theologian</term>
-                </item>
-            </list>
-            
-            <list type="other_compositions">
-                <head>Other compositions</head>
+                <item xml:id="Ascension">
+                    <term xml:lang="en">Ascension</term>
+                </item>                
+                <item xml:id="Baptism">
+                    <term xml:lang="en">Baptism</term>
+                </item>                
+                <item xml:id="BirthVirgin"> 
+                    <term xml:lang="en">Birth of the Virgin</term>
+                </item>                
                 <item xml:id="CommunionApostlesMetadosis"> 
                     <term xml:lang="en">Communion of the Apostles, Metadosis (Offering of the Bread)</term>
                 </item>
                 <item xml:id="CommunionApostlesMetalepsis"> 
                     <term xml:lang="en">Communion of the Apostles, Metalepsis (Offering of the Wine)</term>
-                </item>
+                </item>                
+                <item xml:id="Crucifixion"> 
+                    <term xml:lang="en">Crucifixion</term>
+                </item>                
                 <item xml:id="Deesis"> 
                     <term xml:lang="en">Deesis</term>
+                </item>
+                <item xml:id="Dormition">
+                    <term xml:lang="en">Dormition</term>
+                </item>                
+                <item xml:id="EntryIntoJerusalem"> 
+                    <term xml:lang="en">Entry into Jerusalem</term>
+                </item>                
+                <item xml:id="Hetoimasia"> 
+                    <term xml:lang="en">Hetoimasia</term>
                 </item>
                 <item xml:id="LastJudgment"> 
                     <term xml:lang="en">Last Judgment</term>
                 </item>
-                <item xml:id="Hetoimasia"> 
-                    <term xml:lang="en">Hetoimasia</term>
+                <item xml:id="LastSupper">
+                    <term xml:lang="en">Last Supper</term>
+                </item>                
+                <item xml:id="LazarosRaising"> 
+                    <term xml:lang="en">Raising of Lazaros</term>
+                </item>                
+                <item xml:id="FortyMartyrs_martyrdom"> 
+                    <term xml:lang="en">Martyrdom of the Forty Martyrs of Sebaste</term>
                 </item>
-                <!-- ... -->
+                <item xml:id="Nativity"> 
+                    <term xml:lang="en">Nativity</term>
+                </item>                
+                <item xml:id="Pentecost">
+                    <term xml:lang="en">Pentecost</term>
+                </item>                
+                <item xml:id="PresentationChristTemple"> 
+                    <term xml:lang="en">Presentation of Christ to the Temple</term>
+                </item><item xml:id="PresentationVirgin"> 
+                    <term xml:lang="en">Presentation of the Virgin to the Temple</term>
+                </item>
                 <item xml:id="AbrahamSacrifice"> 
-                <term xml:lang="en">Abraham's sacrifice</term>
+                    <term xml:lang="en">The Sacrifice of Abraham</term>
+                </item>                                
+                <item xml:id="WashingOfTheFeet">
+                    <term xml:lang="en">Washing of the Feet</term>
                 </item>
-                <!-- ... -->
-                <item xml:id="AbrahamSacrificeAngel"> 
-                    <term xml:lang="en">Abraham's sacrifice, angel of the Lord</term>
-                </item>
-                <item xml:id="AbrahamSacrificeAbraham"> 
-                    <term xml:lang="en">Abraham's sacrifice, Abraham</term>
-                </item>
-                <item xml:id="FortyMartyrs"> 
-                    <term xml:lang="en">Forty Martyrs of Sebaste</term>
-                </item>
-                <item xml:id="BiblicalMagi">
-                    <term xml:lang="en">Magi</term>
-                </item>
-            </list>
-            
-            <list type="sacred_objects">
-                <head>Sacred objects</head>
                 
-                <item xml:id="CrossProcessional"> 
-                    <term xml:lang="en">Cross, Processional</term>
-                    <!--Do we want to distinguish type of crosses? E.g., Patriarchal, Latin, processional etc.?-->
+            </list> 
+                                                   
+            <list type="scenecategories">
+                <head>Narrative Scene Categories</head>
+                
+                <item xml:id="christological">
+                    <term xml:lang="en">Christological</term>
                 </item>
-                <item xml:id="keramidion"> 
-                    <term xml:lang="en">Keramidion</term>
+                <item xml:id="hagiographic">
+                    <term xml:lang="en">Hagiographic</term>
+                </item><item xml:id="mariological">
+                    <term xml:lang="en">Mariological</term>
                 </item>
-                <item xml:id="Mandylion"> 
-                    <term xml:lang="en">Mandylion</term>
+                <item xml:id="liturgical">
+                    <term xml:lang="en">Liturgical</term>
+                </item><item xml:id="newtestament">
+                    <term xml:lang="en">New Testament</term>
                 </item>
-                <!-- ... -->
-            </list>
-            
-            <list type="Personifications">
-                <head>Personifications</head>
-                <item xml:id="Sea_Personification">
-                    <term xml:lang="en">Personification of the sea</term>
-                    <!-- ... -->
+                <item xml:id="oldtestament">
+                    <term xml:lang="en">Old Testament</term>
                 </item>
-            </list>
-            
-            <list type="individual_saintly_figures">
-                <head>Individual saintly figures</head>
+                
+            </list>            
+                        
+            <list type="individual_figures">
+                <head>Individual Figures</head>
                 
                 <item xml:id="Adam">
                     <term xml:lang="en">Adam</term>
@@ -829,6 +783,30 @@
                     <!-- ... -->
                 </list></item>
             <!-- ... -->
+            </list>
+            
+            <list type="sacred_objects">
+                <head>Sacred objects</head>
+                
+                <item xml:id="CrossProcessional"> 
+                    <term xml:lang="en">Cross, Processional</term>
+                    <!--Do we want to distinguish type of crosses? E.g., Patriarchal, Latin, processional etc.?-->
+                </item>
+                <item xml:id="keramidion"> 
+                    <term xml:lang="en">Keramidion</term>
+                </item>
+                <item xml:id="Mandylion"> 
+                    <term xml:lang="en">Mandylion</term>
+                </item>
+                <!-- ... -->
+            </list>
+            
+            <list type="Personifications">
+                <head>Personifications</head>
+                <item xml:id="Sea_Personification">
+                    <term xml:lang="en">Personification of the sea</term>
+                    <!-- ... -->
+                </item>
             </list>
                   
         
