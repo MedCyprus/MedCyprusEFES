@@ -48,8 +48,8 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Lagoudera">Lagoudera, Panagia tou Araka or Arakiotissa </origPlace>
-                            <origDate notBefore="1170" notAfter="1178">1170s</origDate>
-                        </origin>
+                            <origDate when="1192-12" precision="high">Indiction 11, December 1192</origDate>
+                         </origin>
                         <provenance when="2022">
                         </provenance>
                         <provenance type="observed" resp="#tp">26-27/09/2022
