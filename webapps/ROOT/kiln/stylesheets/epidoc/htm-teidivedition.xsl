@@ -8,6 +8,7 @@
 
    <!-- Text edition div -->
     <xsl:template match="t:div[@type = 'edition']" priority="1">
+        <xsl:param name="parm-leiden-style" tunnel="yes" required="no"/>
         <xsl:param name="parm-internal-app-style" tunnel="yes" required="no"/>
         <xsl:param name="parm-external-app-style" tunnel="yes" required="no"/>
        <div id="edition">
@@ -28,14 +29,19 @@
                     <xsl:call-template name="tpl-iospe-apparatus"/>
                </xsl:when>
                <xsl:when test="$parm-internal-app-style ='fullex'">
-                   <!-- Template to be added in htm-tpl-apparatus.xsl -->
+                   <!-- Template found in htm-tpl-apparatus.xsl -->
                    <xsl:call-template name="tpl-fullex-apparatus"/>
                </xsl:when>
-               
-               <xsl:when test="$parm-internal-app-style ='minex'">
-                   <!-- Template to be added in htm-tpl-apparatus.xsl -->
-                   <xsl:call-template name="tpl-minex-apparatus"/>
-               </xsl:when>
+              
+              <xsl:when test="$parm-internal-app-style ='minex'">
+                 <!-- Template found in htm-tpl-apparatus.xsl -->
+                 <xsl:call-template name="tpl-minex-apparatus"/>
+              </xsl:when>
+              
+              <xsl:when test="$parm-internal-app-style ='medcyprus'">
+                 <!-- Template found in htm-tpl-apparatus.xsl -->
+                 <xsl:call-template name="tpl-medcyprus-apparatus"/>
+              </xsl:when>
 
 
                <!--     the default if nothing is selected is to print no internal apparatus      -->

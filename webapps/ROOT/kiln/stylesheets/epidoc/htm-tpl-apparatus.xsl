@@ -275,7 +275,7 @@
               <xsl:value-of select="preceding::t:lb[1]/@n"/>
               <!-- NOTE: need to handle line ranges -->
             </xsl:attribute>
-<xsl:call-template name="intappchoice"/>
+        <xsl:call-template name="intappchoice"/>
           </xsl:element>
         </xsl:for-each>
        
@@ -390,18 +390,17 @@
 
 <!--this only renders choice and app-->
   <xsl:template name="tpl-minex-apparatus">
-    
     <xsl:variable name="listapp"><!-- generate a list of app entries, with line numbers for each (and render them later) -->
       
-      <xsl:for-each select=".//t:choice[child::t:reg and not(ancestor::t:rdg)]">
-        <xsl:element name="app">
-          <xsl:attribute name="n">
-            <xsl:value-of select="preceding::t:lb[1]/@n"/>
-            <!-- NOTE: need to handle line ranges -->
-          </xsl:attribute>
-          <xsl:call-template name="intappchoice"/>
-        </xsl:element>
-      </xsl:for-each>
+        <xsl:for-each select=".//t:choice[child::t:reg and not(ancestor::t:rdg)]">
+          <xsl:element name="app">
+            <xsl:attribute name="n">
+              <xsl:value-of select="preceding::t:lb[1]/@n"/>
+              <!-- NOTE: need to handle line ranges -->
+            </xsl:attribute>
+            <xsl:call-template name="intappchoice"/>
+          </xsl:element>
+        </xsl:for-each>
       
       <xsl:for-each select=".//t:choice[child::t:corr and not(ancestor::t:rdg)]">
         <xsl:element name="app">
@@ -413,26 +412,71 @@
         </xsl:element>
       </xsl:for-each>
       
-      <xsl:for-each select=".//t:app[@type='editorial']">
+          <xsl:for-each select=".//t:app[@type='editorial']">
+          <xsl:element name="app">
+            <xsl:attribute name="n">
+              <xsl:value-of select="preceding::t:lb[1]/@n"/>
+              <!-- NOTE: need to handle line ranges -->
+            </xsl:attribute>
+            <xsl:call-template name="intappedit"/>
+          </xsl:element>
+        </xsl:for-each>
+        
+        <xsl:for-each select=".//t:app[@type='alternative']">
+          <xsl:element name="app">
+            <xsl:attribute name="n">
+              <xsl:value-of select="preceding::t:lb[1]/@n"/>
+              <!-- NOTE: need to handle line ranges -->
+            </xsl:attribute>
+            <xsl:call-template name="intappapp"/>
+          </xsl:element>
+        </xsl:for-each>
+      
+    </xsl:variable>
+    
+    <!--generate the actual apparatus printing the separators between each info and the reference to line number-->
+    <p class="miniapp">
+      <xsl:if test="ancestor-or-self::t:div[@type='textpart'][@n]">
+        <xsl:attribute name="id">
+          <xsl:text>miniapp</xsl:text>
+          <xsl:for-each select="ancestor-or-self::t:div[@type='textpart'][@n]">
+            <xsl:value-of select="@n"/>
+            <xsl:text>-</xsl:text>
+          </xsl:for-each>
+        </xsl:attribute>
+      </xsl:if>
+      <xsl:for-each select="$listapp/app">
+        <xsl:sort select="@n" data-type="number"/>
+        <xsl:if test="not(preceding-sibling::app[@n=current()/@n])">
+          <xsl:text>l.</xsl:text>
+          <xsl:value-of select="@n"/>
+          <xsl:text> </xsl:text>
+        </xsl:if>
+        <xsl:value-of select="."/>
+        <xsl:if test="not(position()=last())">
+          <xsl:text> | </xsl:text>
+        </xsl:if>
+      </xsl:for-each>
+    </p>
+  </xsl:template>
+  
+  <xsl:template name="tpl-medcyprus-apparatus">
+    <!-- generate a list of app entries, with line numbers for each (and render them later) -->
+    <xsl:variable name="listapp">
+      <xsl:for-each select=".//t:choice[child::t:corr and not(ancestor::t:rdg)]">
         <xsl:element name="app">
           <xsl:attribute name="n">
+            <xsl:choose>
+              <xsl:when test="child::t:lb">
+                <xsl:value-of select="concat(preceding::t:lb[1]/@n,'–',child::t:lb/@n)"/>
+              </xsl:when>
+            </xsl:choose>
             <xsl:value-of select="preceding::t:lb[1]/@n"/>
             <!-- NOTE: need to handle line ranges -->
           </xsl:attribute>
-          <xsl:call-template name="intappedit"/>
+          <xsl:call-template name="intappsiccorr"/>
         </xsl:element>
       </xsl:for-each>
-      
-      <xsl:for-each select=".//t:app[@type='alternative']">
-        <xsl:element name="app">
-          <xsl:attribute name="n">
-            <xsl:value-of select="preceding::t:lb[1]/@n"/>
-            <!-- NOTE: need to handle line ranges -->
-          </xsl:attribute>
-          <xsl:call-template name="intappapp"/>
-        </xsl:element>
-      </xsl:for-each>
-      
     </xsl:variable>
     
     <!--generate the actual apparatus printing the separators between each info and the reference to line number-->
@@ -488,8 +532,8 @@ choice with sic and corr
 -->
   <xsl:template name="intappsiccorr">
     
-        <xsl:text>sic, orig. </xsl:text>
-        <xsl:value-of select="t:sic"/>
+        <xsl:text>reg </xsl:text>
+        <xsl:value-of select="t:corr"/>
   </xsl:template>
 
   <!-- Regularization

@@ -128,7 +128,7 @@
         <epidoc-edn-structure>medcyprus</epidoc-edn-structure>
         <epidoc-external-app-style>iospe</epidoc-external-app-style>
         <epidoc-image-loc>/images/</epidoc-image-loc>
-        <epidoc-internal-app-style>iospe</epidoc-internal-app-style>
+        <epidoc-internal-app-style>medcyprus</epidoc-internal-app-style>
         <epidoc-leiden-style>medcyprus</epidoc-leiden-style>
         <epidoc-line-inc>5</epidoc-line-inc>
         <epidoc-verse-lines>on</epidoc-verse-lines>
