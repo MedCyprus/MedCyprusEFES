@@ -467,11 +467,13 @@
         <xsl:element name="app">
           <xsl:attribute name="n">
             <xsl:choose>
-              <xsl:when test="child::t:lb">
-                <xsl:value-of select="concat(preceding::t:lb[1]/@n,'–',child::t:lb/@n)"/>
+              <xsl:when test="child::t:corr/child::t:lb">
+                <xsl:value-of select="concat(preceding::t:lb[1]/@n,'–',child::t:corr/child::t:lb[last()]/@n)"/>
               </xsl:when>
+             <xsl:otherwise>
+              <xsl:value-of select="preceding::t:lb[1]/@n"/>
+             </xsl:otherwise>
             </xsl:choose>
-            <xsl:value-of select="preceding::t:lb[1]/@n"/>
             <!-- NOTE: need to handle line ranges -->
           </xsl:attribute>
           <xsl:call-template name="intappsiccorr"/>
@@ -493,9 +495,9 @@
       <xsl:for-each select="$listapp/app">
         <xsl:sort select="@n" data-type="number"/>
         <xsl:if test="not(preceding-sibling::app[@n=current()/@n])">
-          <xsl:text>l.</xsl:text>
+          <!--<xsl:text>l.</xsl:text>-->
           <xsl:value-of select="@n"/>
-          <xsl:text> </xsl:text>
+          <xsl:text>: </xsl:text>
         </xsl:if>
         <xsl:value-of select="."/>
         <xsl:if test="not(position()=last())">
@@ -532,7 +534,7 @@ choice with sic and corr
 -->
   <xsl:template name="intappsiccorr">
     
-        <xsl:text>reg </xsl:text>
+        <!--<xsl:text>reg </xsl:text>-->
         <xsl:value-of select="t:corr"/>
   </xsl:template>
 
