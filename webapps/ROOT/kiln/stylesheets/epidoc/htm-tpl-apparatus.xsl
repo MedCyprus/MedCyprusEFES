@@ -468,7 +468,7 @@
           <xsl:attribute name="n">
             <xsl:choose>
               <xsl:when test="child::t:corr/child::t:lb">
-                <xsl:value-of select="concat(preceding::t:lb[1]/@n,'–',child::t:corr/child::t:lb/@n)"/>
+                <xsl:value-of select="concat(preceding::t:lb[1]/@n,'–',child::t:corr/child::t:lb[last()]/@n)"/>
               </xsl:when>
              <xsl:otherwise>
               <xsl:value-of select="preceding::t:lb[1]/@n"/>
