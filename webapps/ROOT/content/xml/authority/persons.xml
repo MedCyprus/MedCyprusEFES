@@ -217,10 +217,11 @@
                         <occupation type="dignity" xml:lang="en">magistros</occupation>                        
                         <occupation type="dignity" xml:lang="grc">μάγιστρος</occupation>
                         <note>Founder of the church of Panagia Phorbiotissa or Asinou, Niketari, and donor of its 1105/6 murals</note>
-                        <relation active="#NikephorosIschyrios" ref="snap:memberOf" passive="#IschyrioiFamily">
-                            <desc>member of Ischyrioi</desc>
-                        </relation>
                     </person>
+                    
+                    <relation active="#NikephorosIschyrios" ref="snap:memberOf" passive="#IschyrioiFamily">
+                        <desc>member of Ischyrioi</desc>
+                    </relation>
                     
                     <person xml:id="TheodoreApseudes">
                         <persName xml:lang="en"><forename>Theodore</forename> <surname>Apseudes</surname></persName>
