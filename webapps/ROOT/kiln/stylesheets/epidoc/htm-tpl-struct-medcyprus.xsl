@@ -137,20 +137,37 @@
      
 
      <div class="section-container tabs" data-section="tabs">
-       <section>
-         <p class="title" data-section-title="data-section-title"><a href="#"><i18n:text i18n:key="epidoc-xslt-medcyprus-edition">Interpretive</i18n:text></a></p>
+       <section><!-- #1 interpretative (verse-lines off) -->
+         <p class="title" data-section-title="data-section-title"><a href="#"><i18n:text i18n:key="epidoc-xslt-medcyprus-edition">Interpretative</i18n:text></a></p>
          <div class="content" id="edition" data-section-content="data-section-content">
            <!-- Edited text output -->
            <xsl:variable name="edtxt">
              <xsl:apply-templates select="//t:div[@type='edition']">
                <xsl:with-param name="parm-edition-type" select="'interpretive'" tunnel="yes"/>
+               <xsl:with-param name="parm-verse-lines" select="'off'" tunnel="yes"/>
              </xsl:apply-templates>
            </xsl:variable>
            <!-- Moded templates found in htm-tpl-sqbrackets.xsl -->
            <xsl:apply-templates select="$edtxt" mode="sqbrackets"/>
          </div>
        </section>
-       <section>
+       <xsl:if test="//t:div[@type='edition'][descendant::t:lg or descendant::t:l]">
+         <section><!-- #2 verse (optional) -->
+           <p class="title" data-section-title="data-section-title"><a href="#"><i18n:text i18n:key="epidoc-xslt-medcyprus-edition">Verse</i18n:text></a></p>
+           <div class="content" id="edition" data-section-content="data-section-content">
+             <!-- Edited text output -->
+             <xsl:variable name="edtxt">
+               <xsl:apply-templates select="//t:div[@type='edition']">
+                 <xsl:with-param name="parm-edition-type" select="'interpretive'" tunnel="yes"/>
+                 <xsl:with-param name="parm-verse-lines" select="'on'" tunnel="yes"/>
+               </xsl:apply-templates>
+             </xsl:variable>
+             <!-- Moded templates found in htm-tpl-sqbrackets.xsl -->
+             <xsl:apply-templates select="$edtxt" mode="sqbrackets"/>
+           </div>
+         </section>
+       </xsl:if>
+       <section><!-- #3 diplomatic -->
          <p class="title" data-section-title="data-section-title"><a href="#"><i18n:text i18n:key="epidoc-xslt-medcyprus-diplomatic">Diplomatic</i18n:text></a></p>
          <div class="content" id="diplomatic" data-section-content="data-section-content">
            <!-- Edited text output -->
