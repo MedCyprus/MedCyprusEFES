@@ -336,7 +336,10 @@
                 </item>
                 <item xml:id="JohnTheologian">
                     <term xml:lang="en">John the Theologian</term>
-                </item>                              
+                </item>   
+               <!--<item xml:id="JohnEvangelist">
+                    <term xml:lang="en">John the Evangelist</term>
+                </item>--><!-- Κυρία Παρανή σ'αυτή την περίπτωση τί κάνουμε; Eίναι ξεχωριστός εικονογραφικός τύπος. Θα μπει John the Theologian και μετά subtype evangelist;-->
                 <item xml:id="Jonah"> 
                     <term xml:lang="en">Jonah</term>
                 </item> 
