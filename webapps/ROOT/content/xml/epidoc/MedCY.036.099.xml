@@ -29,7 +29,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, southeastern pier</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, southeastern pier, west face</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -68,8 +68,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-099-01.JPG"><desc>Naos, southeastern pier, inscription</desc></graphic>
-        <graphic url="036-099-02.JPG"><desc>Naos, southeastern pier, general view</desc></graphic>
+         <graphic rend="primary" url="036-099-01.JPG"><desc>Naos, southeastern pier, west face, inscription</desc></graphic>
+        <graphic url="036-099-02.JPG"><desc>Naos, southeastern pier, west face, general view</desc></graphic>
       </facsimile>
     <text>
         <body>
