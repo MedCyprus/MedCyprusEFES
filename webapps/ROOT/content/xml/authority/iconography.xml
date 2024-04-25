@@ -606,7 +606,10 @@
                 </item>                
                 <item xml:id="VirginMercy">
                     <term xml:lang="en">Virgin of Mercy</term>
-                </item>                
+                </item>         
+                <item xml:id="VirginOfThePassion">
+                    <term xml:lang="en">Virgin of the Passion</term>
+                </item>
                 <item xml:id="VirginOrans">
                     <term xml:lang="en">Virgin Orans</term>
                 </item> 
