@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Archangel's sphere Christogram</title>
+                <title>Archangel Michael</title>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -34,7 +34,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the sphere held in the left hand by the archangel</layout>
+                                <layout>On either side of the archangel's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -61,7 +61,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc10">Christogram</term>
+                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
@@ -82,7 +82,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Jesus Christ</p>
+                <p>Archangel Michael</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
