@@ -576,7 +576,10 @@
                 </item>
                 <item xml:id="ChristPantokrator">
                     <term xml:lang="en">Christ Pantokrator</term>
-                </item>                
+                </item>     
+                <item xml:id="InfantChrist">
+                    <term xml:lang="en">The infant Christ</term>
+                </item>
                 <item xml:id="dressantique">
                     <term xml:lang="en">Dress, antique</term>
                 </item>
