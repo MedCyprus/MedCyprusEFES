@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Leo Authentes First Inscription</title>
+                <editor xml:id="dk">Dora Konstantellou</editor>
+                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="mx">Maria Xenaki</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.036.152</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>    
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                    <rs type="placement-building" ref="#naos">Naos, north wall, lower register, above the north entrance</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Within the panel of the holy keramidion representation</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                             <handNote>PENDING.
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <p>... <rs type="iconography" ref="iconography.xml#Keramidion">Keramidion</rs></p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Lagoudera">Lagoudera, Panagia tou Araka or Arakiotissa </origPlace>
+                            <origDate when="1192-12" precision="high">Indiction 11, December 1192</origDate>
+                         </origin>
+                        <provenance when="2022">
+                        </provenance>
+                        <provenance type="observed" resp="#tp">26-27/09/2022
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc1">Donor inscription</term>
+                </keywords>
+            </textClass>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic rend="primary" url="036-152-01.JPG"><desc>Naos, north wall, lower register, above the north entrance, inscription</desc></graphic>
+        <graphic url="036-152-02.JPG"><desc>Naos, lower register, above the north entrance, general view</desc></graphic>
+        <graphic url="036-152-03.JPG"><desc>Naos, lower register, above the north entrance, inscription detail</desc></graphic>
+        <graphic url="036-152-04.JPG"><desc>Naos, lower register, above the north entrance, inscription detail</desc></graphic>
+      </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+              <ab>
+                    <lb n="1"/><g ref="#cross">+</g> Ἀνιστορή<surplus>σ</surplus>θ<supplied reason="omitted">η</supplied> ὁ πανσεπτος ναὸς <hi rend="ligature">της</hi> <expan><abbr>ὑπ</abbr><ex>ε</ex><abbr>ρ</abbr><ex>αγίας</ex></expan> <persName type="sacred" key="Theotokos"><name nymRef="#Θεοτόκος"></name><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κ<hi rend="ligature">ου</hi></abbr></expan> <addName type="epithet" subtype="Virgin" key="Arakiotissa">τ<hi rend="ligature">οῦ</hi> <hi rend="ligature">Ἄρ</hi>α<hi rend="ligature">κος</hi></addName></persName>
+                        <lb n="2"/>διὰ <expan><abbr>συνδρομ</abbr><ex>ῆς</ex></expan> κα<supplied reason="lost">ι</supplied> <expan><abbr>πολλ</abbr><ex>οῦ</ex></expan> <expan><abbr>πόθ</abbr><ex>ου</ex></expan> <rs type="honorific">κυρ<hi rend="ligature">οῦ</hi></rs> <persName type="attested" ref="#Leon"><name nymRef="#Λέων" type="forename"><expan><abbr>Λέ<choice><corr>o</corr><sic>ω</sic></choice>ντ</abbr><ex>ος</ex></expan></name> τ<hi rend="ligature">οῦ</hi> <name type="surname" nymRef="#Αὐθέντης" ><expan><abbr>Αὐθέ</abbr><ex>ν</ex><abbr>τ</abbr><ex>ου</ex></expan></name></persName>·μηνι Δεκ<choice><corr>ε</corr><sic>αι</sic></choice><supplied reason="omitted">μ</supplied>βρί<choice><corr>ῳ</corr><sic>ο</sic></choice> 
+<lb n="3"/><expan><abbr>ινδ</abbr><ex>ικτιῶνος</ex></expan> <num value="11">ια</num> τω <num value="6701"></num><hi rend="ligature">&#x03DB;</hi>ψα’ἔτους
+                </ab>
+            </div>
+            <div type="apparatus">
+                <note>The absence of certain accents and breathings may be due to paint loss. </note>
+                <listApp>
+                         <app loc="1">
+                        <rdg resp="#Nicolaïdès1996"><!-- Nicolaïdès1996, 4 -->Ἀνιστορήσθ(η)</rdg></app>
+                    <app loc="2">
+                        <rdg resp="#Nicolaïdès1996"><!-- Nicolaïdès1996, 4 -->Λέοντ(ος) τοῦ Αὐθέ(ν)τ(ου) ou (ος)· μηνι Δεκεμβρίω </rdg></app>
+                    <app loc="3">
+                        <rdg resp="#Nicolaïdès1996"><!-- Nicolaïdès1996, 4 -->τοῦ</rdg>
+                    </app>
+                </listApp>
+            </div>
+            <div type="translation">
+                <p>PENDING</p>
+            </div>
+            <div type="commentary">
+                <p>PENDING</p>
+            </div>
+            <div type="bibliography">
+                  <listBibl>
+                    <bibl><ptr target="#Nicolaïdès1996"/>, <citedRange>1-137</citedRange></bibl>
+                    <bibl><ptr target="#WinfieldWinfield2003"/></bibl>
+                    <bibl><ptr target="#Konstantinidi2018"/>, <citedRange>49-88</citedRange></bibl>
+                    <bibl><ptr target="#VisCult"/><citedRange> 1, 199-213</citedRange></bibl>
+                  </listBibl>
+            </div>
+        </body>
+    </text>
+</TEI>
