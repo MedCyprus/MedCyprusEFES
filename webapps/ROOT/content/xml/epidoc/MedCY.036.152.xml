@@ -30,7 +30,7 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, north wall, lower register, above the north entrance</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions><height>PENDING</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -76,13 +76,13 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>
+              <ab>PENDING.
                     <lb n="1"/><g ref="#cross">+</g> Ἀνιστορή<surplus>σ</surplus>θ<supplied reason="omitted">η</supplied> ὁ πανσεπτος ναὸς <hi rend="ligature">της</hi> <expan><abbr>ὑπ</abbr><ex>ε</ex><abbr>ρ</abbr><ex>αγίας</ex></expan> <persName type="sacred" key="Theotokos"><name nymRef="#Θεοτόκος"></name><expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κ<hi rend="ligature">ου</hi></abbr></expan> <addName type="epithet" subtype="Virgin" key="Arakiotissa">τ<hi rend="ligature">οῦ</hi> <hi rend="ligature">Ἄρ</hi>α<hi rend="ligature">κος</hi></addName></persName>
                         <lb n="2"/>διὰ <expan><abbr>συνδρομ</abbr><ex>ῆς</ex></expan> κα<supplied reason="lost">ι</supplied> <expan><abbr>πολλ</abbr><ex>οῦ</ex></expan> <expan><abbr>πόθ</abbr><ex>ου</ex></expan> <rs type="honorific">κυρ<hi rend="ligature">οῦ</hi></rs> <persName type="attested" ref="#Leon"><name nymRef="#Λέων" type="forename"><expan><abbr>Λέ<choice><corr>o</corr><sic>ω</sic></choice>ντ</abbr><ex>ος</ex></expan></name> τ<hi rend="ligature">οῦ</hi> <name type="surname" nymRef="#Αὐθέντης" ><expan><abbr>Αὐθέ</abbr><ex>ν</ex><abbr>τ</abbr><ex>ου</ex></expan></name></persName>·μηνι Δεκ<choice><corr>ε</corr><sic>αι</sic></choice><supplied reason="omitted">μ</supplied>βρί<choice><corr>ῳ</corr><sic>ο</sic></choice> 
 <lb n="3"/><expan><abbr>ινδ</abbr><ex>ικτιῶνος</ex></expan> <num value="11">ια</num> τω <num value="6701"></num><hi rend="ligature">&#x03DB;</hi>ψα’ἔτους
                 </ab>
             </div>
-            <div type="apparatus">
+            <div type="apparatus"><p>PENDING</p>
                 <note>The absence of certain accents and breathings may be due to paint loss. </note>
                 <listApp>
                          <app loc="1">
@@ -102,10 +102,10 @@
             </div>
             <div type="bibliography">
                   <listBibl>
-                    <bibl><ptr target="#Nicolaïdès1996"/>, <citedRange>1-137</citedRange></bibl>
+                    <bibl>PENDING <!--<ptr target="#Nicolaïdès1996"/>, <citedRange>1-137</citedRange></bibl>
                     <bibl><ptr target="#WinfieldWinfield2003"/></bibl>
                     <bibl><ptr target="#Konstantinidi2018"/>, <citedRange>49-88</citedRange></bibl>
-                    <bibl><ptr target="#VisCult"/><citedRange> 1, 199-213</citedRange></bibl>
+                    <bibl><ptr target="#VisCult"/><citedRange> 1, 199-213</citedRange>--></bibl>
                   </listBibl>
             </div>
         </body>
