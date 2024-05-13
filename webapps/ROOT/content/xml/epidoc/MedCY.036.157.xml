@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saint John the Forerunner's scroll</title>
+                <editor xml:id="dk">Dora Konstantellou</editor>
+                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="mx">Maria Xenaki</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.036.157</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>    
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                    <rs type="placement-building" ref="#naos">Naos, north wall, lower register, west of the north entrance</rs>
+                                    <dimensions><height>PENDING</height></dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>The inscription appears on the open scroll held in the left hand by the saint</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                             <handNote>PENDING.
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <p>... <rs type="iconography" ref="iconography.xml#JohnForerunner">John the Forerunner</rs></p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Lagoudera">Lagoudera, Panagia tou Araka or Arakiotissa </origPlace>
+                            <origDate when="1192-12" precision="high">Indiction 11, December 1192</origDate>
+                         </origin>
+                        <provenance when="2022">
+                        </provenance>
+                        <provenance type="observed" resp="#tp">26-27/09/2022
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
+                </keywords>
+            </textClass>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic rend="primary" url="036-157-01.JPG"><desc>Naos, north wall, lower register, west of the north entrance, inscription</desc></graphic>
+        <graphic url="036-157-02.JPG"><desc>Naos, lower register, west of the north entrance, general view</desc></graphic>
+       </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+              <ab>
+                   PENDING
+                </ab>
+            </div>
+            <div type="apparatus">
+               <p>PENDING</p>
+            </div>
+            <div type="translation">
+                <p>PENDING</p>
+            </div>
+            <div type="commentary">
+                <p>PENDING</p>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                <bibl>PENDING</bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
