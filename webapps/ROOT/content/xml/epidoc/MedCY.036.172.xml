@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Mary of Egypt</title>
+                <title>Communion of Mary of Egypt, Saint Mary of Egypt</title>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#MaryOfEgypt">Mary of Egypt</rs></p>
+                            <p>... <rs type="iconography" ref="iconography.xml#CommunionMaryofEgypt">Communion of Mary of Egypt, Mary of Egypt</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -83,7 +83,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Saint Mary of Egypt</p>
+                <p>Hosia Mary of Egypt</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
