@@ -81,10 +81,10 @@
             </div>
             <div type="apparatus">
                <listApp>
-                   <app loc="1"><rdg resp="#PerdikisMyrianthefs2009">ΔΕ(ΗΣΗΣ)</rdg></app>
-                   <app loc="2"><rdg resp="#PerdikisMyrianthefs2009">Θ(Ε)ΟΥ</rdg></app>
-                   <app loc="3"><rdg resp="#PerdikisMyrianthefs2009">ΣΤΟΦΟΡΟΥ; ΟΜΩΤΟΥ</rdg></app>
-                   <app loc="4"><rdg resp="#PerdikisMyrianthefs2009">ΣΥΜΒΙΟΥ</rdg></app>
+                   <app loc="1"><rdg source="#PerdikisMyrianthefs2009">ΔΕ(ΗΣΗΣ)</rdg></app>
+                   <app loc="2"><rdg source="#PerdikisMyrianthefs2009">Θ(Ε)ΟΥ</rdg></app>
+                   <app loc="3"><rdg source="#PerdikisMyrianthefs2009">ΣΤΟΦΟΡΟΥ; ΟΜΩΤΟΥ</rdg></app>
+                   <app loc="4"><rdg source="#PerdikisMyrianthefs2009">ΣΥΜΒΙΟΥ</rdg></app>
                </listApp>
             </div>
             <div type="translation">
