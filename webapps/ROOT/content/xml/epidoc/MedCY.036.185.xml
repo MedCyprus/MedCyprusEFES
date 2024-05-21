@@ -64,7 +64,7 @@
                     <term type="textType" ref="text_types.xml#doc14">Funerary inscription</term>
                 </keywords>
             </textClass>
-            <creation>Transcription (Th. Petrou), publications, Bishopric of Morphou Photographic Archive: <ptr target="#Papageorgiou2018"/></creation>
+            <creation>transcription (Th. Petrou), publications, Bishopric of Morphou Photographic Archive: <ptr target="#Papageorgiou2018"/></creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -74,7 +74,7 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>
+                <ab>PENDING
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>μνησ<supplied reason="lost" cert="low">θητι</supplied><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">δ</supplied><hi rend="ligature">ού</hi>λ<hi rend="ligature">ου</hi> <orig><unclear>Σ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/><orig>ΟΔ</orig><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>Ι</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost">μ</supplied>οναχ<hi rend="ligature">ου</hi> και
