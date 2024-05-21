@@ -217,6 +217,7 @@
     <xsl:call-template name="sources">
       <xsl:with-param name="root" select="ancestor-or-self::t:TEI"/>
     </xsl:call-template>
+    <!-- temporary fix to external app. ELLI DELETE THIS when https://github.com/MedCyprus/MedCyprusEFES/issues/16 implemented -->
     <xsl:if test="@source">
       <xsl:text> </xsl:text>
       <xsl:value-of select="translate(substring-after(@source,'#'),'0123456789','')"/>
