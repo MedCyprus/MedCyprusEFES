@@ -34,7 +34,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>beneath Baptism scene</layout>
+                                <layout>On the right of Christ's legs</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -64,12 +64,12 @@
                     <term type="textType" ref="text_types.xml#doc14">Funerary inscription</term>
                 </keywords>
             </textClass>
-            <creation>Transcription (Th. Petrou), publications</creation>
+            <creation>Transcription (Th. Petrou), publications, Bishopric of Morphou Photographic Archive: <ptr target="#Papageorgiou2018"/></creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-185-01.JPG"><desc>Naos, northwestern recess, lunette, inscription detail (© Bishopric of Morphou: Papageorghiou, Bakirtzis, Hadjichristodoulou 2018)</desc></graphic>
-        <graphic url="036-185-02.JPG"><desc>Naos, northwestern recess, lunette, general view (© Bishopric of Morphou:Papageorghiou, Bakirtzis, Hadjichristodoulou 2018)</desc></graphic>
+         <graphic rend="primary" url="036-185-01.JPG"><desc>Naos, northwestern recess, lunette, inscription detail (© Bishopric of Morphou: Papageorghiou, Bakirtzis, Hadjichristodoulou 2018, pl. 120)</desc></graphic>
+        <graphic url="036-185-02.JPG"><desc>Naos, northwestern recess, lunette, general view (© Bishopric of Morphou:Papageorghiou, Bakirtzis, Hadjichristodoulou 2018, pl. 120)</desc></graphic>
       </facsimile>
     <text>
         <body>
