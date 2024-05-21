@@ -6,6 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Funerary inscription</title>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -28,7 +29,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#nave">Nave, northwest recess</rs>
+                                    <rs type="placement-building" ref="#nave">Nave, northwestern recess, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -40,6 +41,9 @@
                              <handNote>PENDING
                             </handNote>
                         </handDesc>
+                        <decoDesc>
+                            <p>... <rs type="iconography" ref="iconography.xml#Baptism">Baptism</rs></p>
+                        </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
@@ -64,8 +68,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
-    </facsimile>
+         <graphic rend="primary" url="036-185-01.JPG"><desc>Naos, northwestern recess, lunette, inscription detail (© Bishopric of Morphou: Papageorghiou, Bakirtzis, Hadjichristodoulou 2018)</desc></graphic>
+        <graphic url="036-185-02.JPG"><desc>Naos, northwestern recess, lunette, general view (© Bishopric of Morphou:Papageorghiou, Bakirtzis, Hadjichristodoulou 2018)</desc></graphic>
+      </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
