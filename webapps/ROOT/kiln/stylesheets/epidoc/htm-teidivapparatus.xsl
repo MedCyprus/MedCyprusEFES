@@ -217,6 +217,10 @@
     <xsl:call-template name="sources">
       <xsl:with-param name="root" select="ancestor-or-self::t:TEI"/>
     </xsl:call-template>
+    <xsl:if test="@source">
+      <xsl:text> </xsl:text>
+      <xsl:value-of select="translate(substring-after(@source,'#'),'0123456789','')"/>
+    </xsl:if>
     <xsl:if test="following-sibling::t:rdg and not(following-sibling::*[1][self::t:note])">
       <xsl:text>; </xsl:text>
     </xsl:if>
