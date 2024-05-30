@@ -40,7 +40,7 @@
                     <desc type="graffiti">See <ref target="http://grafmedia.cy.example.com/id/01010101">Grafmedia</ref>
                         <!--Unknown/Presence unconfirmed/Unpublished/linkGrafmedia-->
                     </desc>
-                    <idno type="IBCC">Not included</idno>
+                    <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/hu/281/</idno>
                     <idno type="geonames">https://www.geonames.org/10347045/acheleia.html</idno>
                     <listBibl type="inscriptions">
@@ -76,8 +76,8 @@
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <!--<desc type="graffiti">Unknown/Presence uncofirmed/Unpublished/linkGrafmedia</desc>-->
-                    <idno type="IBCC">Not included</idno>
-                    <idno type="HGC">Not included</idno>
+                    <idno type="IBCC">Not listed</idno>
+                    <idno type="HGC">Not listed</idno>
                     <idno type="geonames">http://www.geonames.org/20648/agios-sozomenos.html</idno>
                     <listBibl type="inscriptions">
                         <bibl><ptr target="bibliography.xml#Papageorgiou1999"/>Papageorgiou 1999, <citedRange> 47-52</citedRange></bibl>
@@ -274,7 +274,7 @@
                     <desc type="graffiti">See <ref target="http://grafmedia.cy.example.com/id/01010101">Grafmedia</ref>
                         <!--Unknown/Presence unconfirmed/Unpublished/linkGrafmedia-->
                     </desc>
-                    <idno type="IBCC">Not included</idno>
+                    <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146490/154/</idno>
                     <idno type="geonames">https://www.geonames.org/146490/chlorakas.html</idno>
                     <listBibl type="inscriptions">
@@ -805,8 +805,8 @@
                     <desc type="graffiti">See <ref target="http://grafmedia.cy.example.com/id/01010101">Grafmedia</ref>
                         <!--Unknown/Presence unconfirmed/Unpublished/linkGrafmedia-->
                     </desc>
-                    <idno type="IBCC">Not included</idno>
-                    <idno type="HGC">Not included</idno>
+                    <idno type="IBCC">Not listed</idno>
+                    <idno type="HGC">Not listed</idno>
                     <idno type="geonames">https://www.geonames.org/146272/kato-pafos.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="published"/>
@@ -2007,8 +2007,8 @@
                     <desc type="graffiti">See <ref target="http://grafmedia.cy.example.com/id/01010101">Grafmedia</ref>
                         <!-\-Unknown/Presence unconfirmed/Unpublished/linkGrafmedia-\->
                     </desc>
-                    <idno type="IBCC">Not included</idno>
-                    <idno type="HGC">Not included</idno>
+                    <idno type="IBCC">Not listed</idno>
+                    <idno type="HGC">Not listed</idno>
                     <idno type="geonames">http://www.geonames.org/12185/panagia-kivotos.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
