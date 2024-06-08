@@ -1899,7 +1899,6 @@
                     <idno type="geonames">https://www.geonames.org/146714/agios-neofytos.html</idno>
                     <listBibl type="inscriptions">
                         <bibl>PENDING</bibl>
-                        <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#..."/>PENDING<citedRange>...</citedRange></bibl>
