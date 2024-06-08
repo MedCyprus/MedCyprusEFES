@@ -1876,16 +1876,17 @@
                 
                 <place xml:id="Tala" n="59">
                     <placeName xml:lang="en">Tala, Hermitage of Saint Neophytos</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Τάλα, Εγκλείστρα Αγίου Νεοφύτου</placeName>
+                    <placeName type="district" ref="district.xml#Paphos">Paphos</placeName>
+                    <placeName type="diocese" ref="diocese.xml#Paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.84692924848204, 32.44507332518793</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1159" notAfter="1160" precision="medium">Second half of the 12th century (1159-1160)</date></desc>
+                    <desc type="function">Monastic; funerary</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Rock-cut hermitage in three consecutive caves: nave, bema, cell-tomb</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date when="1183" precision="high">1183</date> (bema, cell)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1196" notAfter="1214" precision="medium">1196 or ca. 1200 or &lt;1214</date> (bema, naos, refectory)</desc>
                     </desc>
                     <desc type="conservation">...</desc>
                     <desc type="donors">...</desc>
