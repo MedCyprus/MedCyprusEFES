@@ -1441,7 +1441,7 @@
                     </listBibl>
                 </place>
                 
-                <place xml:id="Ormideia" n="46">
+                <place xml:id="Ormideia" n="45">
                     <placeName xml:lang="en">Ormideia, Saint George of Agkona</placeName>
                     <placeName xml:lang="en">Ormedeia, Saint George of Ankona</placeName>
                     <placeName xml:lang="el">...</placeName>
@@ -1470,7 +1470,7 @@
                     </listBibl>
                 </place>
                 
-                <place xml:id="PanoLefkara" n="47">
+                <place xml:id="PanoLefkara" n="46">
                     <placeName xml:lang="en">Pano Lefkara, Holy Cross</placeName>
                     <placeName xml:lang="el">...</placeName>
                     <placeName type="district" ref="district.xml#...">...</placeName>
@@ -1498,7 +1498,7 @@
                     </listBibl>
                 </place>
                 
-                <place xml:id="PanoPyrgos" n="48">
+                <place xml:id="PanoPyrgos" n="47">
                     <placeName xml:lang="en">Pano Pyrgos, Panagia Galoktiste</placeName>
                     <placeName xml:lang="el">...</placeName>
                     <placeName type="district" ref="district.xml#...">...</placeName>
@@ -1526,7 +1526,7 @@
                     </listBibl>
                 </place>
                 
-                <place xml:id="Pelendri" n="49">
+                <place xml:id="Pelendri" n="48">
                     <placeName xml:lang="en">Pelendri, Holy Cross</placeName>
                     <placeName xml:lang="el">Πελένδρι, Τίμιος Σταυρός</placeName>
                     <placeName type="district" ref="district.xml#limassol">Limassol</placeName>
@@ -1571,7 +1571,7 @@
                     </listBibl>
                 </place>
                 
-                <place xml:id="PeraChorio" n="50">
+                <place xml:id="PeraChorio" n="49">
                     <placeName xml:lang="en">Pera Chorio, Holy Apostles</placeName>
                     <placeName xml:lang="el">...</placeName>
                     <placeName type="district" ref="district.xml#...">...</placeName>
@@ -1599,7 +1599,7 @@
                     </listBibl>
                 </place>
                 
-                <place xml:id="Peristerona" n="51">
+                <place xml:id="Peristerona" n="50">
                     <placeName xml:lang="en">Peristerona (Lefkosias), Saints Barnabas and Hilarion</placeName>
                     <placeName xml:lang="en">Peristerona (Nicosia), Saints Barnabas and Hilarion</placeName>
                     <placeName xml:lang="el">...</placeName>
@@ -1628,7 +1628,7 @@
                     </listBibl>
                 </place>
                 
-                <place xml:id="Polemi" n="52">
+                <place xml:id="Polemi" n="51">
                     <placeName xml:lang="en">Polemi, Panagia Chryseleousa</placeName>
                     <placeName xml:lang="el">...</placeName>
                     <placeName type="district" ref="district.xml#...">...</placeName>
@@ -1656,7 +1656,7 @@
                     </listBibl>
                 </place>
                 
-                <place xml:id="Rizokarpaso" n="53">
+                <place xml:id="Rizokarpaso" n="52">
                     <placeName xml:lang="en">Rizokarpaso, Saint Mavra</placeName>
                     <placeName xml:lang="el">...</placeName>
                     <placeName type="district" ref="district.xml#...">...</placeName>
@@ -1684,7 +1684,7 @@
                     </listBibl>
                 </place>
                 
-                <place xml:id="SichariKatholikon" n="54">
+                <place xml:id="SichariKatholikon" n="53">
                     <placeName xml:lang="en">Sichari, Monastery of Panagia Apsinthiotissa, katholikon</placeName>
                     <placeName xml:lang="en">Sychari, Monastery of Panagia Apsinthiotissa, katholikon</placeName>
                     <placeName xml:lang="el">...</placeName>
@@ -1713,7 +1713,7 @@
                     </listBibl>
                 </place>
                 
-                <place xml:id="SichariRefectory" n="55">
+                <place xml:id="SichariRefectory" n="54">
                     <placeName xml:lang="en">Sichari, Monastery of Panagia Apsinthiotissa, refectory</placeName>
                     <placeName xml:lang="en">Sychari, Monastery of Panagia Apsinthiotissa, refectory</placeName>
                     <placeName xml:lang="el">...</placeName>
@@ -1789,7 +1789,7 @@
                     </listBibl>
                 </place>
                 
-                <place xml:id="Steni" n="57">
+                <place xml:id="Steni" n="56">
                     <placeName xml:lang="en">Steni, Panagia Chrysolakourna</placeName>
                     <placeName xml:lang="el">Stene, Panagia Chrysolakourna</placeName>
                     <placeName type="district" ref="district.xml#...">...</placeName>
@@ -1817,7 +1817,7 @@
                     </listBibl>
                 </place>
                 
-                <place xml:id="Strovolos" n="58">
+                <place xml:id="Strovolos" n="57">
                     <placeName xml:lang="en">Strovolos, Panagia Chryseleousa</placeName>
                     <placeName xml:lang="el">...</placeName>
                     <placeName type="district" ref="district.xml#...">...</placeName>
@@ -1845,7 +1845,7 @@
                     </listBibl>
                 </place>
                 
-                <place xml:id="Sygkrasi" n="59">
+                <place xml:id="Sygkrasi" n="58">
                     <placeName xml:lang="en">Sygkrasi, Saint Prokopios</placeName>
                     <placeName xml:lang="en">Synkrasi, Saint Prokopios</placeName>
                     <placeName xml:lang="el">...</placeName>
@@ -1874,7 +1874,7 @@
                     </listBibl>
                 </place>
                 
-                <place xml:id="Tala" n="60">
+                <place xml:id="Tala" n="59">
                     <placeName xml:lang="en">Tala, Hermitage of Saint Neophytos</placeName>
                     <placeName xml:lang="el">...</placeName>
                     <placeName type="district" ref="district.xml#...">...</placeName>
