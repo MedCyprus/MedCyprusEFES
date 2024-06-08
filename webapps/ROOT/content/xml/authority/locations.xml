@@ -1887,19 +1887,22 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date when="1183" precision="high">1183</date> (bema, cell)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1196" notAfter="1214" precision="medium">1196 or ca. 1200 or &lt;1214</date> (bema, naos, refectory)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1495" notAfter="1505" precision="low">ca. 1500</date> (narthex)</desc>
+                        <desc type="layer" n="4">4th layer: <date when="1503" precision="high">1503 </date> (bema, naos)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
+                    <desc type="conservation">1963-1964, 1970 (Dumbarton Oaks Centre), 1976,1984, 1987, 1989, 1992, 2005</desc>
+                    <desc type="donors">Saint Neophytos, monk Neophytos</desc>
+                    <desc type="painter">Theodore Apseudes (1183)</desc>
                     <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <idno type="IBCC">Not listed</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/146714/390/</idno>
+                    <idno type="geonames">https://www.geonames.org/146714/agios-neofytos.html</idno>
                     <listBibl type="inscriptions">
+                        <bibl>PENDING</bibl>
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#..."/>PENDING<citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
                 
