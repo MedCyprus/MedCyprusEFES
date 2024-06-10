@@ -1898,7 +1898,12 @@
                     <idno type="HGC">http://www.cyprusgazetteer.org/146714/390/</idno>
                     <idno type="geonames">https://www.geonames.org/146714/agios-neofytos.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl>PENDING</bibl>
+                        <bibl><ptr target="bibliography.xml.#Stylianou1960"/><citedRange>99-101</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml.#MangoHawkins1966"/><citedRange>119-206</citedRange></bibl>
+                        <!--<bibl><ptr target="bibliography.xml.#Papageorgiou1999?"/><citedRange>119-206</citedRange></bibl>-->
+                        <bibl><ptr target="bibliography.xml.#Rhoby2009"/><citedRange>352-61</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml.#Bordne2015"/><citedRange>27-36</citedRange></bibl>
+                        <bibl><author>Carr</author> in <ptr target="#VisCult"/><citedRange> 1, 255-64</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#..."/>PENDING<citedRange>...</citedRange></bibl>
