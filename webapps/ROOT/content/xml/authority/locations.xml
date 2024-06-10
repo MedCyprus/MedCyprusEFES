@@ -1876,7 +1876,7 @@
                 
                 <place xml:id="Tala" n="59">
                     <placeName xml:lang="en">Tala, Hermitage of Saint Neophytos</placeName>
-                    <placeName xml:lang="el">Τάλα, Εγκλείστρα Αγίου Νεοφύτου</placeName>
+                    <placeName xml:lang="el">Τάλα, Ἐγκλείστρα Αγίου Νεοφύτου</placeName>
                     <placeName type="district" ref="district.xml#Paphos">Paphos</placeName>
                     <placeName type="diocese" ref="diocese.xml#Paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.84692924848204, 32.44507332518793</geo></location>
@@ -1906,7 +1906,22 @@
                         <bibl><author>Carr</author> in <ptr target="#VisCult"/><citedRange> 1, 255-64</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>PENDING<citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>99-101</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1963, 10</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1964, 8</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml.#MangoHawkins1966"/><citedRange>119-206</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1970, 12</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1976, 21</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Tomeković1993"/><citedRange>151-71</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>71-2</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>351-81</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2, 91-2</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1999"/><citedRange>60-9</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/>533-4, 611-22, 649-50</bibl>
+                        <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange>352-61</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2010b"/><citedRange>917-57</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#KakkouliFischer2010"/><citedRange>437-61</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml.#Bordne2015"/><citedRange>27-36</citedRange></bibl>
                     </listBibl>
                 </place>
                 
