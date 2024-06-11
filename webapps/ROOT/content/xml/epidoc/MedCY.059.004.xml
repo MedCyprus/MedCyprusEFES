@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint John Chrysostom's scroll</title>
+                <title>Saint John Chrysostom</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -33,7 +33,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the open scroll held in both hands by the co-officiating prelate.</layout>
+                                <layout>On the right of the saint's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -59,15 +59,16 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc8">Liturgical citation</term>
+                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-004-01.JPG"><desc>Bema, apse,  middle register, right of the Virgin, inscription detail</desc></graphic>
-        <graphic url="059-004-02.JPG"><desc>Bema, apse, middle register, right of the Virgin, inscription</desc></graphic>
+         <graphic rend="primary" url="059-003-01.JPG"><desc>Bema, apse,  middle register, right of the Virgin, inscription detail</desc></graphic>
+        <graphic url="059-003-02.JPG"><desc>Bema, apse, middle register, right of the Virgin, inscription</desc></graphic>
+        <graphic url="059-003-03.JPG"><desc>Bema, apse, middle register, right of the Virgin, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -80,7 +81,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Saint John Chrysostom</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
