@@ -47,7 +47,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Tala">Tala, Hermitage of Saint Neophytos</origPlace>
-                            <origDate when="1280-07-30" precision="high">July 30, 1280</origDate>
+                            <origDate when="1183" precision="high">1183</origDate>
                         </origin>                        
                         <provenance when="2022">
                         </provenance>    
@@ -73,7 +73,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς Χριστός"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan><milestone unit="column"/><supplied reason="lost"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></supplied></name></persName>                       
+                    <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς Χριστός"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan><milestone unit="column"/><supplied reason="lost"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></supplied></name></persName>                       
                  </ab>
             </div>
             <div type="apparatus">
