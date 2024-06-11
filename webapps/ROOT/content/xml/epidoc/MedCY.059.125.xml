@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Painter's Signature</title>
+                <author xml:id="tp">Theocharis Petrou</author> 
+                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.059.001</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Painted Inscription, <objectType/>Cell, north wall, beneath deesis scene in a conch <dimensions unit="cm"><height> 3 cm (letters)</height><width>? cm</width></dimensions></support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>beneath deesis scene, over the desk</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote> Brown letters against ochre background. Partially preserved<height unit="cm">3 cm</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Tala">Tala, Hermitage of Saint Neophytos</origPlace>
+                            <origDate notBefore="1151" notAfter="1200" precision="medium">ca 1151-1200</origDate>
+                        </origin>
+                        <provenance when="2022">
+                        </provenance>
+                        <provenance type="observed" resp="#tp">
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="..."/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                   <lb n="1"/><w lemma="ἱστορῶ"><unclear>Ιστοριθ</unclear><supplied reason="lost">η</supplied> </w><gap reason="lost" extent="unknown" unit="character"></gap> <supplied reason="lost">εγκ</supplied><unclear>λ</unclear>ειστρα> δι̣α <w lemma="χείρ"><unclear>χει̣ρο</unclear><supplied reason="lost">ς</supplied></w> <w lemma="ἐγώ"><unclear>εμο</unclear>υ </w><persName type="attested" ref="persons.xml#TheodoreApseudes"><name nymRef="#Θεόδωρος" type="forename">Θεοδώρ<hi rend="ligature">ου</hi></name> τ<hi rend="ligature">ου</hi> <name nymRef="#Αψευδής" type="surname">Αψευδ<hi rend="ligature">ου</hi>ς</name></persName>
+                   <lb n="2"/><supplied reason="lost">ἔτ</supplied>ει <num value="6691"><hi rend="ligature">&#x03DB;</hi >χ<hi rend="ligature">&#x03DE;</hi></num><hi rend="ligature">α'</hi> (ινδικτίωνος)<unclear>α</unclear>'
+
+                    
+                    
+                    <!--<lb n="1"/><gap reason="lost" extent="unknown" unit="character"></gap> <w lemma="ἅγιος">αγιος </w><w lemma="ναὸς">ναὸς</w> τ<hi rend="ligature">οῦ</hi> <w lemma="ὅσιος">οσί<hi rend="ligature">ου</hi></w> <w lemma="πατὴρ"><expan><abbr>π</abbr><ex>α</ex>τρ<ex>ο</ex>ς</expan></w> <persName type="sacred" key="Themonianos"><name nymRef="Θεμωνιανός"></name><w lemma="Θεμωνιανός">Θεμονιαν<hi rend="ligature">ου</hi></w></persName> διὰ <w lemma="συνδρομὴ">συνδρομῆς </w>καὶ έκ <w lemma="πολὺς"><expan><abbr>π</abbr><ex>ο</ex>λλ<hi rend="ligature">ου</hi></expan></w> <w lemma="πόθος">ποθ<hi rend="ligature">ου</hi></w> <persName type="attested" xml:id="Laurentios"><name nymRef="#Λαυρέντιος" type="forename"></name>Λαυρεντι<hi rend="ligature">ου</hi></persName> <rs type="office" ref="offices.xml#hieromonachos"><expan><abbr>ἱερομονάχ</abbr><ex>ου</ex></expan></rs> και <rs type="office" ref="offices.xml#hegoumenos">καθηγουμεν<hi rend="ligature">ου</hi></rs> τ<hi rend="ligature">ης </hi><w lemma="σεβάσμια">σεβασμιας</w> <w lemma="μονή">μονης</w> <gap reason="lost" extent="unknown" unit="character" ></gap>-->
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
