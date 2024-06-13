@@ -29,7 +29,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, middle register, left of the Virgin</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>?</height><width>7</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>28</height><width>8</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>PENDING. Letter height: <height unit="cm">2</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
