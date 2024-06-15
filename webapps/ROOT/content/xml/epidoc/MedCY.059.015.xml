@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, ceiling, west inscline, on the right of St. Neophytos</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, ceiling, west incline, on the right of St. Neophytos</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -66,10 +66,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-015-01.JPG"><desc>Bema, ceiling, west inscline, on the right of St. Neophytos, inscription detail</desc></graphic>
-        <graphic url="059-015-02.JPG"><desc>Bema, ceiling, west inscline, on the right of St. Neophytos, inscription</desc></graphic>
-        <graphic url="059-015-03.JPG"><desc>Bema, ceiling, west inscline, on the right of St. Neophytos, general view</desc></graphic>
-        <graphic url="059-015-04.JPG"><desc>Bema, ceiling, west inscline, on the right of St. Neophytos, general view</desc></graphic>
+         <graphic rend="primary" url="059-015-01.JPG"><desc>Bema, ceiling, west incline, on the right of St. Neophytos, inscription detail</desc></graphic>
+        <graphic url="059-015-02.JPG"><desc>Bema, ceiling, west incline, on the right of St. Neophytos, inscription</desc></graphic>
+        <graphic url="059-015-03.JPG"><desc>Bema, ceiling, west incline, on the right of St. Neophytos, general view</desc></graphic>
+        <graphic url="059-015-04.JPG"><desc>Bema, ceiling, west incline, on the right of St. Neophytos, general view</desc></graphic>
     </facsimile>
     <text>
         <body>

@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, ceiling, west inscline, between the archangels</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, ceiling, west incline, between the archangels</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -67,8 +67,8 @@
     </teiHeader>
     <facsimile>
          <graphic rend="primary" url="059-013-01.JPG"><desc>Bema, ceiling, west inscline, between the archangels, inscription detail</desc></graphic>
-        <graphic url="059-013-02.JPG"><desc>Bema, ceiling, west inscline, between the archangels, inscription</desc></graphic>
-        <graphic url="059-013-03.JPG"><desc>Bema, ceiling, west inscline, between the archangels, general view</desc></graphic>
+        <graphic url="059-013-02.JPG"><desc>Bema, ceiling, west incline, between the archangels, inscription</desc></graphic>
+        <graphic url="059-013-03.JPG"><desc>Bema, ceiling, west incline, between the archangels, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
