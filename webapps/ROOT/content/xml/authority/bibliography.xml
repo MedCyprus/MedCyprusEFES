@@ -138,7 +138,9 @@
                     
                     <bibl xml:id="MegawHawkins1962"><author><surname>Megaw</surname> <forename>A. H. S.</forename></author>and <author><surname>Hawkins</surname> <forename>E. J. W.</forename></author>, <date>1962</date>, <title level="a">The Church of the Holy Apostles at Perachorio, Cyprus, and Its Frescoes</title>, <title level="j">DOP</title> <biblScope unit="volume">16</biblScope>, <biblScope unit="page">277-348</biblScope>.</bibl>
                     
-                    <bibl xml:id="MegawHawkins1977"><author><surname>Megaw</surname> <forename>A. H. S.</forename></author> and <author><surname>Hawkins</surname> <forename>E. J. W.</forename></author>, <date>1977</date>, <title>The Church of the Panagia Kanakaria at Lythrankomi in Cyprus. Its Mosaics and Frescoes</title>, <pubPlace>Washington, DC</pubPlace>.</bibl>
+                    <bibl xml:id="MegawHawkins1977"><author><surname>Megaw</surname> <forename>A. H. S.</forename></author> and <author><surname>Hawkins</surname> <forename>E. J. W.</forename></author>, <date>1977</date>, <title level="a">The Church of the Panagia Kanakaria at Lythrankomi in Cyprus. Its Mosaics and Frescoes</title>, <pubPlace>Washington, DC</pubPlace>.</bibl>
+                    
+                    <bibl xml:id="Metcalf2009"><author><surname>Metcalf</surname> <forename>D. M.</forename></author>, <date>2009</date>, <title level="m">Byzantine Cyprus, 491-1191</title>, <pubPlace>Nicosia</pubPlace></bibl>
                     
                     <bibl xml:id="Michael2001"><author><surname>Michael</surname> <forename>M. A.</forename></author>, <date>2001</date>, <title level="a">The Paintings in the Church of the Panagia Chrysospiliotissa at Kato Devtera (Nicosia)</title>, <title level="j">Bulletin of British Byzantine Studies</title> <biblScope unit="volume">27</biblScope>, <biblScope unit="page">110-12</biblScope>.</bibl>
                     
@@ -218,6 +220,7 @@
                     <bibl xml:id="Philotheou2008"><author><surname>Philotheou</surname> <forename>G.</forename></author>, <date>2008</date>,<title level="a"> Ο ναός της Αγίας Παρασκευής. Οι τοιχογραφίες του ναού</title>, in <title level="m">Γεροσκήπου. Από την αρχαιότητα μέχρι σήμερα</title>, ed. <editor><forename>Ch.</forename> <surname>Andreou</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">73-94</biblScope>.</bibl>
                     
                     <bibl xml:id="Philotheou2010"><author><surname>Philotheou</surname> <forename>G.</forename></author>, <date>2010</date>, <title level="a">Η εκκλησία της Παναγίας της Γαλόκτιστης στον Πύργο Τηλλυρίας</title>, in <title level="m">Τηλλυρία: Μνήμες, Ιστορία και Αρχαιολογία (Πρακτικά Συνεδρίου)</title>, ed.<editor> <forename>S.</forename> <surname>Perdikes</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">97-120</biblScope>.</bibl>             
+                    
                     <bibl xml:id="Philotheou2021"><author><surname>Philotheou</surname> <forename>G.</forename></author>, <date>2021</date>, <title level="a">Σπάραγμα τοιχογραφίας με τον Άγιο Θεοσέβιο Αρσινοΐτη</title>, in <author><forename>A.</forename> <surname>Foulias</surname></author> and<author><forename>C. </forename><surname>Hadjichristodoulou</surname></author>, <title level="m">Εκκλησιαστικά μνημεία της Πόλης Χρυσοχούς</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
                     
                     <bibl xml:id="Procopiou2007"><author><surname>Procopiou</surname> <forename>E.</forename></author>, <date>2007</date>, <title level="m">O συνεπτυγμένος σταυροειδής εγγεγραμμένος ναός στην Κύπρο (9ος-12ος αιώνας)</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
@@ -339,6 +342,8 @@
             <bibl copyOf="#MegawHawkins1962"></bibl>
             
             <bibl copyOf="#MegawHawkins1977"></bibl>
+            
+            <bibl copyOf="#Metcalf2009"></bibl>
             
             <bibl copyOf="#Mouriki1984"></bibl>
             
