@@ -573,7 +573,7 @@
                     <desc type="conservation">...</desc>
                     <desc type="donors">...</desc>
                     <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
+                    <desc type="graffiti">https://historic-graffiti.cyi.ac.cy/place/1/</desc>
                     <idno type="IBCC">...</idno>
                     <idno type="HGC">...</idno>
                     <idno type="geonames">...</idno>
@@ -658,7 +658,7 @@
                     <desc type="conservation">...</desc>
                     <desc type="donors">...</desc>
                     <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
+                    <desc type="graffiti">https://historic-graffiti.cyi.ac.cy/place/4/</desc>
                     <idno type="IBCC">...</idno>
                     <idno type="HGC">...</idno>
                     <idno type="geonames">...</idno>
@@ -687,7 +687,7 @@
                     <desc type="conservation">...</desc>
                     <desc type="donors">...</desc>
                     <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
+                    <desc type="graffiti">https://historic-graffiti.cyi.ac.cy/place/4/</desc>
                     <idno type="IBCC">...</idno>
                     <idno type="HGC">...</idno>
                     <idno type="geonames">...</idno>
@@ -1322,7 +1322,7 @@
                     <desc type="conservation">1968, 2003, 2007</desc>
                     <desc type="donors">Ioannes Gerakiotes and his wife Irene</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">See <ref target="http://grafmedia.cy.example.com/id/0101010">Grafmedia</ref></desc>
+                    <desc type="graffiti">https://historic-graffiti.cyi.ac.cy/place/6/</desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/146277/525/</idno>
                     <idno type="geonames">https://www.geonames.org/12636/panagia.html</idno>
@@ -1547,9 +1547,7 @@
                     <desc type="conservation">Good but with multiple hitmarks</desc> <!--TO WHICH LAYER ARE YOU REFERRING TO HERE?-->
                     <desc type="donors">Priest Georgios </desc><!--SPECIFY LAYER-->
                     <desc type="painter">Mon[o]machos (?)</desc><!--DITTO-->
-                    <desc type="graffiti">See Grafmedia: http://grafmedia.cy.example.com/id/01010101
-                        <!--Unknown/Presence unconfirmed/Unpublished/linkGrafmedia-->
-                    </desc>
+                    <desc type="graffiti">https://historic-graffiti.cyi.ac.cy/place/3/</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0061.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146198/217/</idno>
                     <idno type="geonames">https://www.geonames.org/12522/timios-stavros.html</idno>
