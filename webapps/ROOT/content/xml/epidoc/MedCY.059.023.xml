@@ -29,11 +29,11 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#bema">Bema, west bay, curving wall, first figure on the left</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>?</height><width>9</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>The inscription appears on the open scroll held in the left hand by the saint.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
