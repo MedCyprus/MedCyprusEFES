@@ -75,7 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/><choice><orig>Η</orig><reg>Ἡ</reg></choice> <w lemma="ἑτοιμασία"><choice><sic><choice><orig>Ε</orig><reg>Ἑ</reg></choice>τη <milestone unit="column" />μασήα</sic><corr>Ἐτοιμασία</corr></choice></w>   
+                    <lb/><choice><orig>Η</orig><reg>Ἡ</reg></choice> <w lemma="ἑτοιμασία"><choice><sic><choice><orig>Ε</orig><reg>Ἑ</reg></choice>τη <milestone unit="column" />μασήα</sic><corr>Ἑτοιμασία</corr></choice></w>   
                  </ab>
             </div>
             <div type="apparatus">
