@@ -62,32 +62,31 @@
                     <placeName type="diocese" ref="diocese.xml#trimythous">Bishopric of Trimythous</placeName>
                     <location><geo>35.067463372392375, 33.43608826042591</geo></location>
                     <desc type="construction"><date notBefore="0901" notAfter="1000" precision="medium">10th century</date></desc>
-                    <desc type="function">Anchorite cell and burial place, pilgrimage</desc>
+                    <desc type="function">Anchorite cell and burial place; pilgrimage</desc>
                     <desc type="context">Rural</desc>
-                    <desc type="architectural">Rock-cut, single-nave, <!--roughly orthogonal (CHECK!)--></desc>
+                    <desc type="architectural">Rock-cut, single-cell</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="0901" notAfter="1000" precision="medium">10th century</date> (nave, north wall, eastern side)
-                            Some of the paintings are held by the <rs ref="#rep1">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</rs> 
-                            <!--CHECK DATES. SOME OF THE PAINTINGS HAVE BEEN REMOVED. WHICH LAYER? CHECK-->
+                        <desc type="layer" n="1">1st layer: <date notBefore="0901" notAfter="1000" precision="medium">10th century</date> (naos: north wall, above the tomb; north wall, eastern side). Some of the paintings have been removed to the <rs ref="#rep1">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</rs> 
                         </desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1001" notAfter="1200" precision="medium">?</date><!--CHECK DATE OF SECOND LAYER--> (naos, north wall, eastern side)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1201" notAfter="1400" precision="medium"> 13th-14th c.? First half of the 14th c.?</date> (bema, naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1001" notAfter="1200" precision="medium">Undetermined; prior to the 13th-14th c.</date> (naos: north wall, eastern side)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1201" notAfter="1400" precision="medium"> 13th-14th c.? First half of the 14th c.?</date> (bema; naos: east, north and west wall; ceiling)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; condition poor</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-                    <!--<desc type="graffiti">Unknown/Presence uncofirmed/Unpublished/linkGrafmedia</desc>-->
+                    <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">Not listed</idno>
                     <idno type="geonames">http://www.geonames.org/20648/agios-sozomenos.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl><ptr target="bibliography.xml#Papageorgiou1999"/>Papageorgiou 1999, <citedRange> 47-52</citedRange></bibl>
-                        <bibl><ptr target="bibliographyxml#Bakirtzis2019"/>Bakirtzis 2019, <citedRange>83-100</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1999"/><citedRange> 47-52</citedRange></bibl>
+                        <bibl><ptr target="bibliographyxml#Bakirtzis2019"/><citedRange>83-100</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
-                        <!--<bibl><ptr target="bibliography.xml#ARDAC"/>ARDAC<citedRange></citedRange></bibl>-->
-                        <bibl><ptr target="bibliography.xml#Papageorgiou1999"/>Papageorgiou 1999, <citedRange> 47-52</citedRange></bibl>
-                        <bibl><ptr target="bibliographyxml#Bakirtzis2019"/>Bakirtzis 2019, <citedRange>83-100</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1990, 20; 1991, 17-18; 1993, 17-18</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1999"/><citedRange>47-52</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2005, 20; 2006, 21</citedRange></bibl>
+                        <bibl><ptr target="bibliographyxml#Bakirtzis2019"/><citedRange>83-100</citedRange></bibl>
                     </listBibl>
                 </place>
                 
