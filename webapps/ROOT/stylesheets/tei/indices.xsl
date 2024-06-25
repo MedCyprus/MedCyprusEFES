@@ -338,7 +338,13 @@
   
   <xsl:template match="arr[@name='index_external_resource']/str">
     <b><xsl:value-of select="substring-before(., ': ')"/>: </b>
-    <a target="_blank" href="{substring-after(., ': ')}"><xsl:value-of select="substring-after(., ': ')"/></a>
+    <!-- EM added -->
+    <xsl:choose>
+      <xsl:when test="contains(substring-after(., ': '),'http')">
+        <a target="_blank" href="{substring-after(., ': ')}"><xsl:value-of select="substring-after(., ': ')"/></a>
+      </xsl:when>
+      <xsl:otherwise><xsl:value-of select="substring-after(., ': ')"/></xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
   
   <xsl:template match="arr[@name='index_graffiti']">
