@@ -121,7 +121,7 @@
                         <!--<bibl><ptr target="bibliography.xml#ARDAC"/>ARDAC<citedRange></citedRange></bibl>-->
                         <!--<bibl><ptr target="bibliography.xml#MKE"/>ΜΚΕ<citedRange></citedRange></bibl>-->
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/>Chotzakoglou 2010a, <citedRange>442-44</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/>Papageorgiou 2010, <citedRange>397-403 <!-- or 349-55 PLEASE CHECK: DIFFERENCE BETWEEN GREEK AND ENGLISH VERSIONS OF BOOK --></citedRange></bibl>                    </listBibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/>Papageorgiou 2010, <citedRange>349-55 <!-- CHECKED/CORRECTED--></citedRange></bibl>                    </listBibl>
                 </place>
                 
                 <place xml:id="AigialousaMichael" n="4">
