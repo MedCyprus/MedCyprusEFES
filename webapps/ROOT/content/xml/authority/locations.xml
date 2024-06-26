@@ -127,29 +127,39 @@
                 <place xml:id="AigialousaMichael" n="4">
                     <placeName xml:lang="en">Aigialousa, Archangel Michael</placeName>
                     <placeName xml:lang="en">Gialousa, Archangel Michael</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Αιγιαλούσα, Αρχάγγελος Μιχαήλ</placeName>
+                    <placeName xml:lang="el">Γιαλούσα, Αρχάγγελος Μιχαήλ</placeName>
+                    <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
+                    <placeName type="diocese" ref="diocese.xml#karpasia">Bishopric of Karpasia</placeName>
                     <location><geo>35.53670829, 34.18690454</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1001" notAfter="1133" precision="medium">11th c. or early 12th c., with later additions </date></desc>
+                    <desc type="function">Parochial</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Domed hall; narthex added later (12th c.)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1401" precision="medium">13th-14th c.</date> (naos)</desc>
+                        <!-- What do we do when we do not know how many layers are actually there or cannot verify it? Is it still 1st layer or just extant layer or something else -->
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
+                    <desc type="conservation">Very fragmentary and badly preserved</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Not verified</desc>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0017.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/145955/143/</idno>
-                    <idno type="geonames">...</idno>
+                    <idno type="geonames">https://www.geonames.org/145955/aigialousa.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>252-52</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Soteriou1935"/><citedRange>pl. 42a</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>468-69</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/>2<citedRange>15</citedRange></bibl>                        
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>520, pl. 173</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>406-07, note 374</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>454-55</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>460-64</citedRange></bibl>                    
+                        <bibl><ptr target="bibliography.xml#MKE"/>3<citedRange>34-35</citedRange></bibl>    
                     </listBibl>
                 </place>
                 
