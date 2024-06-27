@@ -135,7 +135,7 @@
                     <desc type="construction"><date notBefore="1001" notAfter="1133" precision="medium">11th century or early 12th century, with later additions </date></desc>
                     <desc type="function">Parochial</desc>
                     <desc type="context">Rural</desc>
-                    <desc type="architectural">Domed hall; domed-hall narthex subsequently added to the west (12th century)</desc>
+                    <desc type="architectural">Domed-hall church; domed-hall narthex subsequently added to the west (12th century)</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1401" precision="medium">13th-14th century</date> (naos)</desc>
                         <!-- What do we do when we do not know how many layers are actually there or cannot verify it? Is it still 1st layer or just extant layer or something else -->
@@ -174,7 +174,7 @@
                     <desc type="construction"><date notBefore="1067" notAfter="1133" precision="medium">Late 11th - Early 12th century</date></desc>
                     <desc type="function">Unknown</desc>
                     <desc type="context">Rural</desc>
-                    <desc type="architectural">single-aisled barrel-vaulted church; narthex with drumless dome subsequently added to the west</desc>
+                    <desc type="architectural">Single-aisled barrel-vaulted church; narthex with drumless dome subsequently added to the west</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1233" precision="medium">early 13th century</date> (naos: north and south wall)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1267" notAfter="1300" precision="medium">late 13th century(?)</date> (naos: south wall)</desc>
@@ -210,7 +210,7 @@
                     <desc type="construction"><date notBefore="1001" notAfter="1100" precision="medium">11th century</date></desc>
                     <desc type="function">Parochial(?)</desc>
                     <desc type="context">Rural</desc>
-                    <desc type="architectural">domed pier cross-in-square church</desc>
+                    <desc type="architectural">Domed pier cross-in-square church</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium">11th century</date> (bema)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (bema)</desc>
@@ -276,19 +276,17 @@
                     <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.79343900425516, 32.41286529226267</geo></location>
-                    <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium">12th century</date></desc>
-                    <desc type="function">Parochial(?), pilgrimage(?)</desc>
+                    <desc type="construction"><date notBefore="0801" notAfter="1100" precision="medium">9th/10th century (Procopiou) or 11th century(Kaffenberger)</date></desc>
+                    <desc type="function">Parochial(?)</desc>
                     <desc type="context">Rural</desc>
-                    <desc type="architectural">cross-in-square church; narthex added later</desc>
+                    <desc type="architectural">Domed hall church; narthex subsequently added to the west (16th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1250" precision="medium">first half of the 13th century</date> (bema, naos)</desc><!--IS THERE ANOTHER LAYER?-->
+                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1250" precision="medium">first half of the 13th century</date> (bema; naos)</desc><!--IS THERE ANOTHER LAYER?-->
                     </desc>
                     <desc type="conservation">Partially preserved</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">See <ref target="http://grafmedia.cy.example.com/id/01010101">Grafmedia</ref>
-                        <!--Unknown/Presence unconfirmed/Unpublished/linkGrafmedia-->
-                    </desc>
+                    <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146490/154/</idno>
                     <idno type="geonames">https://www.geonames.org/146490/chlorakas.html</idno>
@@ -296,11 +294,12 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <!--<bibl><ptr target="bibliography.xml#ARDAC"/>ARDAC<citedRange></citedRange></bibl>-->
-                        <!--<bibl><ptr target="bibliography.xml#MKE"/>ΜΚΕ2 2011<citedRange>14: 24</citedRange></bibl>-->
-                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/>Chotzakoglou 2005, <citedRange> 622</citedRange></bibl>                        
-                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/>Kaffenberger 2020, <citedRange> 2: 114</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Procopiou2007"/>Procopiou 2007, <citedRange> 389-99</citedRange></bibl>                        
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>268</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2005, 41</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>622</citedRange></bibl>                        
+                        <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange> 389-99</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/>14<citedRange>24</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/>2<citedRange>114</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -316,7 +315,7 @@
                     </desc>
                     <desc type="function">Parochial</desc>
                     <desc type="context">Rural</desc>
-                    <desc type="architectural">domed-hall church with a later extension to the west, built on the ruins of a 7th-century three-aisled basilica</desc>
+                    <desc type="architectural">Domed-hall church with a later extension to the west, built on the ruins of a 7th-century three-aisled basilica</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (bema, naos)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="medium">first half of the 16th century</date> (bema, dome, naos)</desc>
