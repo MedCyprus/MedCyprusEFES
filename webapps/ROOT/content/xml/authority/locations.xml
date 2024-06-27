@@ -242,13 +242,15 @@
                     <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.79913858, 32.40832746</geo></location>
-                    <!--<desc type="construction"> <date notBefore="1167" notAfter="1400" precision="medium">Late 12th century or later (Kaffenberger: 14th century)</date></desc>-->
+                    <desc type="construction">
+                        <date notBefore="1167" notAfter="1300" precision="medium" source="bibliography.xml#Papageorgiou1996">Papageorgiou: late 12th century or 13th century</date>
+                        <date notBefore="1301" notAfter="1400" precision="medium" source="bibliography.xml#Kaffenberger2020">Kaffenberger: 14th century</date></desc>
                     <desc type="function">Parochial</desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Free-cross domed church; western crossarm subsequently extended westwards</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300">13th century?</date> (west crossarm: south wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500">15th century</date> (bema; central bay and dome; north and south crossarm</desc></desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300">13th century(?)?</date> (west crossarm: south wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500">15th century(?); overpainted in the 20th century</date> (bema; central bay and dome; north and south crossarm</desc></desc>
                     <desc type="conservation">Murals of 1st layer, very fragmentary</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
@@ -276,7 +278,10 @@
                     <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.79343900425516, 32.41286529226267</geo></location>
-                    <desc type="construction"><date notBefore="0801" notAfter="1100" precision="medium">9th/10th century (Procopiou) or 11th century(Kaffenberger)</date></desc>
+                    <desc type="construction">
+                        <date notBefore="0801" notAfter="1000" precision="medium" source="bibliography.xml#Procopiou2007">Procopiou: 9th or 10th century</date>
+                        <date notBefore="1000" notAfter="1100" precision="medium" source="bibliography.xml#Kaffenberger2020">Kaffenberger: 11th century</date>
+                    </desc>
                     <desc type="function">Parochial(?)</desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Domed hall church; narthex subsequently added to the west (16th century)</desc>
