@@ -68,8 +68,8 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="0901" notAfter="1000" precision="medium">10th century</date> (naos: north wall, above the tomb; north wall, eastern side). Some of the paintings have been removed to the <rs ref="#rep1">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</rs> 
                         </desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1001" notAfter="1200" precision="medium">Undetermined; prior to the 13th-14th c.</date> (naos: north wall, eastern side)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1201" notAfter="1400" precision="medium"> 13th-14th c.? First half of the 14th c.?</date> (bema; naos: east, north and west wall; ceiling)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1001" notAfter="1200" precision="medium">Undetermined; prior to the 13th-14th century</date> (naos: north wall, eastern side)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1201" notAfter="1400" precision="medium"> 13th-14th century? First half of the 14th century?</date> (bema; naos: east, north and west wall; ceiling)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; condition poor</desc>
                     <desc type="donors">Unknown</desc>
@@ -99,7 +99,7 @@
                     <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium">12th century, with later additions</date></desc>
                     <desc type="function">Parochial</desc>
                     <desc type="context">Rural</desc>
-                    <desc type="architectural">Single-aisled vaulted church; later additions: south lateral aisle (12th-13th c.?) and western open porch (14th-15th c.?) </desc>
+                    <desc type="architectural">Single-aisled vaulted church; later additions: south lateral aisle (12th-13th century?) and western open porch (14th-15th century?) </desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium">late 12th century</date> (naos: south wall, western side; west wall)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium">13th century?</date> (naos: west wall; north wall, central recess?)</desc>                
@@ -132,15 +132,15 @@
                     <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
                     <placeName type="diocese" ref="diocese.xml#karpasia">Bishopric of Karpasia</placeName>
                     <location><geo>35.53670829, 34.18690454</geo></location>
-                    <desc type="construction"><date notBefore="1001" notAfter="1133" precision="medium">11th c. or early 12th c., with later additions </date></desc>
+                    <desc type="construction"><date notBefore="1001" notAfter="1133" precision="medium">11th century or early 12th century, with later additions </date></desc>
                     <desc type="function">Parochial</desc>
                     <desc type="context">Rural</desc>
-                    <desc type="architectural">Domed hall; narthex added later (12th c.)</desc>
+                    <desc type="architectural">Domed hall; domed-hall narthex subsequently added to the west (12th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1401" precision="medium">13th-14th c.</date> (naos)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1401" precision="medium">13th-14th century</date> (naos)</desc>
                         <!-- What do we do when we do not know how many layers are actually there or cannot verify it? Is it still 1st layer or just extant layer or something else -->
                     </desc>
-                    <desc type="conservation">Very fragmentary and badly preserved</desc>
+                    <desc type="conservation">Very fragmentary; badly preserved</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Not verified</desc>
@@ -167,6 +167,7 @@
                     <placeName xml:lang="en">Aigialousa, Saint George Sakkas</placeName>
                     <placeName xml:lang="en">Gialousa, Saint George Sakkas</placeName>
                     <placeName xml:lang="el">Αιγιαλούσα, Άγιος Γεώργιος Σακκάς</placeName>
+                    <placeName xml:lang="el">Γιαλούσα, Άγιος Γεώργιος Σακκάς</placeName>
                     <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
                     <placeName type="diocese" ref="diocese.xml#karpasia">Bishopric of Karpasia</placeName>
                     <location><geo>35.53513, 34.18944</geo></location>
@@ -175,31 +176,29 @@
                     <desc type="context">Rural</desc>
                     <desc type="architectural">single-aisled barrel-vaulted church; narthex with drumless dome subsequently added to the west</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1233" precision="medium">early 13th century</date> (nave, north and south wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1267" notAfter="1300" precision="medium">late 13th century(?)</date> (nave, south wall)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1233" precision="medium">early 13th century</date> (naos: north and south wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1267" notAfter="1300" precision="medium">late 13th century(?)</date> (naos: south wall)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; badly preserved</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">See <ref target="http://grafmedia.cy.example.com/id/01010101">Grafmedia</ref>
-                        <!--Unknown/Presence unconfirmed/Unpublished/linkGrafmedia-->
+                    <desc type="graffiti">Not verified
                     </desc>
-                    <!-- <idno type="MedCY">XXX</idno>-->
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0044.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/145955/144/</idno>
                     <idno type="geonames">https://www.geonames.org/145955/aigialousa.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/>Chotzakoglou 2010a, <citedRange> 444-45</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Panayotidi-Kesisiglou2015"/>Panayotidi-Kesisoglou 2015, <citedRange> 357-66</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange> 444-45</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Panayotidi-Kesisiglou2015"/><citedRange> 357-66</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
-                        <!--<bibl><ptr target="bibliography.xml#ARDAC"/>ARDAC<citedRange></citedRange></bibl>-->
-                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/>Chotzakoglou 2005, <citedRange> 650-51</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/>Chotzakoglou 2010a, <citedRange> 444-45</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Eliades2010"/>Eliades 2010, <citedRange> 473-74</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Panayotidi-Kesisiglou2015"/>Panayotidi-Kesisoglou 2015, <citedRange> 357-66</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papacostas1999"/>Papacostas 1999, <!--<biblScope unit="volume">2</biblScope>-->, <citedRange> 32</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/>Papageorgiou 2010, <citedRange> 453-56</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1973, 16</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/>2<citedRange> 32</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange> 650-51</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange> 444-45</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Eliades2010"/><citedRange> 473-74</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange> 453-56</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Panayotidi-Kesisiglou2015"/><citedRange> 357-66</citedRange></bibl> 
                     </listBibl>
                 </place>
                 
