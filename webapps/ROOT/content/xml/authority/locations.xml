@@ -320,17 +320,15 @@
                     </desc>
                     <desc type="function">Parochial</desc>
                     <desc type="context">Rural</desc>
-                    <desc type="architectural">Domed-hall church with a later extension to the west, built on the ruins of a 7th-century three-aisled basilica</desc>
+                    <desc type="architectural">Domed-hall church, with a later extension to the west; built on the ruins of a 7th-century three-aisled basilica</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (bema, naos)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="medium">first half of the 16th century</date> (bema, dome, naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="medium">First half of the 16th century</date> (bema, dome, naos)</desc>
                     </desc>
                     <desc type="conservation">Badly damaged; very fragmentary</desc>
-                    <desc type="donors">Unknown</desc>
-                    <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">See <ref target="http://grafmedia.cy.example.com/id/01010101">Grafmedia</ref>
-                        <!--Unknown/Presence unconfirmed/Unpublished/linkGrafmedia-->
-                    </desc>
+                    <!--  <desc type="donors">1st layer: unknown; 2nd layer: Sabbas with his family (1509); Hilarion the monk (1552)</desc>
+                    <desc type="painter">1st layer: unknown; 2nd layer: Symeon (1509)</desc>-->
+                    <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0069.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/4867/155/</idno>
                     <idno type="geonames">https://www.geonames.org/4821/panagia-tou-kampou.html</idno>
@@ -338,16 +336,21 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <!--<bibl><ptr target="bibliography.xml#ARDAC"/>ARDAC<citedRange></citedRange></bibl>-->
-                        <!--<bibl><ptr target="bibliography.xml#MKE"/>ΜΚΕ2 2011<citedRange>8: 141-42</citedRange></bibl>-->
-                        <bibl><ptr target="bibliography.xml#Enlart1987"/>Enlart 1987, <citedRange> 336-37</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/>Kaffenberger 2020, <citedRange> 2: 526</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papacostas1999"/>Papacostas 1999, <citedRange> 2: 50</citedRange></bibl> 
-                        <bibl><ptr target="bibliography.xml#Procopiou2007"/>Procopiou 2007, <citedRange> 178-90</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Procopiou2018"/>Procopiou 2018, <citedRange> 80-81</citedRange></bibl>                        
-                        <bibl><ptr target="bibliography.xml#Soteriou1937"/>Soteriou 1937, <citedRange> 42-43</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Spanou2002"/>Spanou 2002, <citedRange> 31</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Stewart2020"/>Stewart 2020, <citedRange> 173</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>349-50</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>263-68</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Soteriou1937"/><citedRange> 42-43, fig. 32, pl. 36b</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Enlart1987"/><citedRange> 336-37</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1998, 26</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/>2<citedRange>50</citedRange></bibl> 
+                        <bibl><ptr target="bibliography.xml#Spanou2002"/><citedRange> 31</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2003, 18; 2004, 34</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange> 178-90</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2008, 28</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/>8<citedRange>141-42</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Procopiou2018"/><citedRange> 80-81</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/>2<citedRange>526</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stewart2020"/><citedRange> 173</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/>2<citedRange> 554-63</citedRange></bibl> 
                     </listBibl>
                 </place>
                 
