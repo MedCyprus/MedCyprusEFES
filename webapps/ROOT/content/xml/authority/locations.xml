@@ -390,13 +390,13 @@
                 
                 <place xml:id="ChoulouGeorge" n="11">
                     <placeName xml:lang="en">Choulou, Saint George</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Χούλου, Άγιος Γεώργιος</placeName>
+                    <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
+                    <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.86560311978039, 32.55097098304513</geo></location>
                     <desc type="construction"><date>...</date></desc>
                     <desc type="function">...</desc>
-                    <desc type="context">...</desc>
+                    <desc type="context">Rural</desc>
                     <desc type="architectural">...</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
@@ -404,10 +404,10 @@
                     <desc type="conservation">...</desc>
                     <desc type="donors">...</desc>
                     <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0047.html</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/146485/156/</idno>
+                    <idno type="geonames">https://www.geonames.org/16759/agios-georgios.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
