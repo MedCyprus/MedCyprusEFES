@@ -344,7 +344,7 @@
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 50</citedRange></bibl> 
                         <bibl><ptr target="bibliography.xml#Spanou2002"/><citedRange> 31</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2003, 18; 2004, 34</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange> 178-90</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>178-90</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2008, 28</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>8: 141-42</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Procopiou2018"/><citedRange> 80-81</citedRange></bibl>
@@ -356,29 +356,35 @@
                 
                 <place xml:id="Chortakia" n="10">
                     <placeName xml:lang="en">Chortakia, Saint Theodore</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Χορτάκια, Άγιος Θεόδωρος</placeName>
+                    <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
+                    <placeName type="diocese" ref="diocese.xml#constantia">Bishopric of Constantia and Famagusta</placeName>
                     <location><geo>35.026683703231505, 33.932386603820234</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1001" notAfter="1100" precision="medium">11th century</date></desc>
+                    <desc type="function">Parochial</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Domed-hall church (today, ruinous), with narthex subsequently added to the west (12th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1201" precision="medium">12th century</date> (narthex)</desc>
+                        <!-- What do we do when we do not know how many layers are actually there or cannot verify it? Is it still 1st layer or just extant layer or something else -->
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="conservation">Fragmentary; very poorly preserved. One mural detached and displayed at the Ecclesiastical Museum of Sotera (Famagusta District)</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0108.html</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/146068/241/</idno>
+                    <idno type="geonames">https://www.geonames.org/18973/agios-theodoros.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>386</citedRange></bibl>                        
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 75-76</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gkioles2003"/><citedRange>65</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>363-60</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2008, 34; 2010, 37-38</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>7: 222</citedRange></bibl>
                     </listBibl>
                 </place>
                 
