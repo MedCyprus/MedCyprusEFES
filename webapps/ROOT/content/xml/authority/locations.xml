@@ -50,7 +50,7 @@
                         <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>63, 74, 91, 94</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>407-8</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2002, 41</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#EcclesMon"/>2<citedRange> 44-57</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 44-57</citedRange></bibl>
                     </listBibl>
                 </place>
                            
@@ -116,11 +116,11 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1967, 11; 1973, 16</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papacostas1999"/>2<citedRange>50</citedRange></bibl>                        
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 50</citedRange></bibl>                        
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>442-44</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>349-55</citedRange></bibl>                    
-                        <bibl><ptr target="bibliography.xml#MKE"/>18<citedRange>499-500</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/>2<citedRange> 412-13</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>18: 499-500</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2: 412-13</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -154,12 +154,12 @@
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>252-52</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Soteriou1935"/><citedRange>pl. 42a</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>468-69</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papacostas1999"/>2<citedRange>15</citedRange></bibl>                        
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 15</citedRange></bibl>                        
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>520, pl. 173</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>406-07, note 374</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>454-55</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>460-64</citedRange></bibl>                    
-                        <bibl><ptr target="bibliography.xml#MKE"/>3<citedRange>34-35</citedRange></bibl>    
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>3: 34-35</citedRange></bibl>    
                     </listBibl>
                 </place>
                 
@@ -192,12 +192,12 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1973, 16</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papacostas1999"/>2<citedRange> 32</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange> 650-51</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange> 444-45</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Eliades2010"/><citedRange> 473-74</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange> 453-56</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Panayotidi-Kesisiglou2015"/><citedRange> 357-66</citedRange></bibl> 
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 32</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>650-51</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>444-45</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Eliades2010"/><citedRange>473-74</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>453-56</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Panayotidi-Kesisiglou2015"/><citedRange>357-66</citedRange></bibl> 
                     </listBibl>
                 </place>
                 
@@ -267,8 +267,8 @@
                         <bibl><ptr target="bibliography.xml#Stylianou1996"/><citedRange>1232</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gkioles2003"/><citedRange>145</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>524</citedRange></bibl>    
-                        <bibl><ptr target="bibliography.xml#MKE"/>19<citedRange>448-49</citedRange></bibl>
-                        <!--<bibl><ptr target="bibliography.xml#Kaffenberger2020"/>1<citedRange>88-89;</citedRange>2<citedRange>113-14</citedRange></bibl>-->
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>19: 448-49</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>1: 88-89; 2: 113-14</citedRange></bibl>
                       </listBibl>
                 </place>
                 
@@ -303,8 +303,8 @@
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2005, 41</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>622</citedRange></bibl>                        
                         <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange> 389-99</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#MKE"/>14<citedRange>24</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/>2<citedRange>114</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>14: 24</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2: 114</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -341,16 +341,16 @@
                         <bibl><ptr target="bibliography.xml#Soteriou1937"/><citedRange> 42-43, fig. 32, pl. 36b</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Enlart1987"/><citedRange> 336-37</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1998, 26</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papacostas1999"/>2<citedRange>50</citedRange></bibl> 
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 50</citedRange></bibl> 
                         <bibl><ptr target="bibliography.xml#Spanou2002"/><citedRange> 31</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2003, 18; 2004, 34</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange> 178-90</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2008, 28</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#MKE"/>8<citedRange>141-42</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>8: 141-42</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Procopiou2018"/><citedRange> 80-81</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/>2<citedRange>526</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Stewart2020"/><citedRange> 173</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#EcclesMon"/>2<citedRange> 554-63</citedRange></bibl> 
+                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2: 526</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stewart2020"/><citedRange>173</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 554-63</citedRange></bibl> 
                     </listBibl>
                 </place>
                 
