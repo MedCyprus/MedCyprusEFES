@@ -368,7 +368,7 @@
                         <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1201" precision="medium">12th century</date> (narthex)</desc>
                         <!-- What do we do when we do not know how many layers are actually there or cannot verify it? Is it still 1st layer or just extant layer or something else -->
                     </desc>
-                    <desc type="conservation">Fragmentary; very poorly preserved. One mural detached and displayed at the Ecclesiastical Museum of Sotera (Famagusta District)</desc>
+                    <desc type="conservation">Fragmentary; very poorly preserved. One mural detached and displayed in the <!--<ptr target="locations.xml#SoteraMuseum"/>--></desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -2106,6 +2106,14 @@
                     <location><placeName>Geroskepou</placeName></location>
                    <!-- <idno type="wikidata"></idno> -->
                     <bibl><ref type="website">https://www.impaphou.org/mouseio_impafou.aspx</ref></bibl>
+                </place>
+                
+                <place xml:id="SoteraMuseum">
+                    <placeName xml:lang="en">Ecclesiastical Museum of Sotera</placeName>
+                    <placeName xml:lang="el"> Εκκλησιαστικό Μουσείο Σωτήρας</placeName>
+                    <location><placeName>Sotera (Famagusta District)</placeName></location>
+                    <!-- <idno type="wikidata">https://www.wikidata.org/wiki/Q1014266</idno> ADD LINK TO LOCATION? -->
+                    <bibl><ref type="website">https://www.sotira.org.cy/en/visitors/tourist-guide?cat=10</ref></bibl>
                 </place>
                 
                 <place xml:id="ArsinoeMuseum">
