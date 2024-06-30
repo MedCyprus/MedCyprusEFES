@@ -465,10 +465,10 @@
                 
                 <place xml:id="Chrysokava" n="13">
                     <placeName xml:lang="en">Chrysokava, Saint Mavra</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
-                    <location><geo>35.609, 34.379</geo></location>
+                    <placeName xml:lang="el">Χρυσοκάβα, Αγία Μαύρα</placeName>
+                    <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#kyrenia">Bishopric of Kyrenia</placeName>
+                    <location><geo>35.33998, 33.32879</geo></location> <!-- It does not appear on the map -->
                     <desc type="construction"><date>...</date></desc>
                     <desc type="function">...</desc>
                     <desc type="context">...</desc>
@@ -479,12 +479,12 @@
                     <desc type="conservation">...</desc>
                     <desc type="donors">...</desc>
                     <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">https://cyprusgazetteer.org/146105/229/</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">Not listed</idno>
+                    <idno type="HGC">Not listed</idno>
+                    <idno type="geonames">https://www.geonames.org/20133/agia-mavra.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Hadjichristodoulou2006"/><citedRange>286-88</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
