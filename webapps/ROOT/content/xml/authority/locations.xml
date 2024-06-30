@@ -498,29 +498,48 @@
                 
                 <place xml:id="Empa" n="14">
                     <placeName xml:lang="en">Empa, Panagia Chryseleousa</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Έμπα, Παναγία Χρυσελεούσα</placeName>
+                    <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
+                    <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.80654276632326, 32.42457656171472</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction">
+                        <!--<date notBefore="1001" notAfter="1100" precision="medium" source="bibliography.xml#EcclesMon">Bakirtzes, Philotheou, Petrou: 11th century</date>-->                                   <date notBefore="1167" notAfter="1200" precision="medium" source="bibliography.xml#Papacostas1999">Papacostas: late 12th century</date>
+                    </desc>
+                    <desc type="function">Parochial</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Free-cross domed church; western extension of aisles, narthex, and northeastern naos compartment added subsequently (13th century?)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <!--<desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" source="bibliography.xml#EcclesMon">Bakirtzes, Philotheou, Petrou: 11th century</date> (naos: south crossarm, east wall)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300" precision="medium">13th century</date> (naos: south crossarm, east wall)</desc>-->
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1233" precision="medium">Early 13th century</date> (naos: north and south crossarms)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="medium">Late 13th century</date> (narthex)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (naos: dome, north and south crossarms, western vault)</desc>
+                        <desc type="layer" n="5">5th layer: <date when="1896" precision="high">1896</date> (naos: north and south crossarms)</desc>
                     </desc>
                     <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0029.html</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/146639/159/</idno>
+                    <idno type="geonames">https://www.geonames.org/18814/panagia-chryseleousa.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>223-24</citedRange></bibl>                        
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1966, 10; 1980, 20; 1981, 20; 1985, 25; 1986, 24; 1995, 27; 1996, 27</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>63, 92-93</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1996"/><citedRange>1232</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>409-13</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1999, 30</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 22-23</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2001, 41-2; 2002, 42-3; 2003, 36</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gkioles2003"/><citedRange>68-69, 144-45, 186-87</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2004, 47-48</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>19: 445-47</citedRange></bibl>  
+                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2: 132-34</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 84-103</citedRange></bibl>
                     </listBibl>
                 </place>
                 
