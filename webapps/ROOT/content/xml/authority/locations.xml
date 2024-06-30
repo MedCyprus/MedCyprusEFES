@@ -394,16 +394,18 @@
                     <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.86560311978039, 32.55097098304513</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
+                    <desc type="construction"><date notBefore="1001" notAfter="1100" precision="medium">11th century</date></desc>
+                    <desc type="function">Pilgrimage(?)</desc>
                     <desc type="context">Rural</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="architectural">Domed-hall church, with twin apses inscribed into the eastern curved wall; narthex subsequently added to the west</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium">11th century</date> (bema)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium">13th century</date> (naos: south central recess)</desc>
+                        <desc type="layer" n="3">3st layer: <date notBefore="1201" notAfter="1400" precision="medium">13th or 14th century</date> (naos: cental bay)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (naos: western bay)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
+                    <desc type="conservation">Fragmentary</desc>
+                    <!--CHECK! <desc type="donors">Male and female donors, lay and ecclesiastic, donated votive panels throughout the Byzantine and medieval period: 2nd layer: the priest Georgios and Magdalene; 3rd layer: Theodosia, one monk (Leontios) and at least another male donor; 4th layer: female donor (portrait; no inscription surviving)</desc>-->                    <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0047.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146485/156/</idno>
@@ -412,7 +414,17 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>269-70</citedRange></bibl>                        
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1985, 27; 1986, 24</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1996"/>63-64, 71, 73<citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 33</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2002, 42; 2004, 46-47</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>485, 650-51</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>303-15</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#WeylCarr2007"/><citedRange>96</citedRange></bibl>                        
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>4: 334</citedRange></bibl>  
+                        <bibl><ptr target="bibliography.xml#Steward2020"/><citedRange>163, 172-73</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 344-55</citedRange></bibl>
                     </listBibl>
                 </place>
                 
