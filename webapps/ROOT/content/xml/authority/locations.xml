@@ -430,29 +430,36 @@
                 
                 <place xml:id="ChoulouTheodore" n="12">
                     <placeName xml:lang="en">Choulou, Saint Theodore</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Χούλου, Άγιος Θεόδωρος</placeName>
+                    <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
+                    <placeName type="diocese" ref="diocese.xml#paphos">Paphos</placeName>
                     <location><geo>34.869318678489584, 32.55778272706452</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium">12th century</date></desc>
+                    <desc type="function">Parochial(?)</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Domed-hall(?)church, with south chapel added subsequently </desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1133" precision="medium">Early 12th century</date>(bema)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="conservation">Fragmentary; murals detached, now displayed in the <!--<ptr target="locations.xml#PaphosMuseum"/>-->
+                       </desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0109.html</idno>
+                    <idno type="HGC">https://cyprusgazetteer.org/146485/157/</idno>
+                    <idno type="geonames">https://www.geonames.org/146485/choulou.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1992, 26</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1996"/>72-73<citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 76</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2001, 41</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>649, 651</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>7: 222-23</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 356-63</citedRange></bibl>
                     </listBibl>
                 </place>
                 
