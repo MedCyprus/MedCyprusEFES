@@ -454,7 +454,7 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1992, 26</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papageorgiou1996"/>72-73<citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>72-73</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 76</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2001, 41</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>649, 651</citedRange></bibl>
@@ -468,17 +468,17 @@
                     <placeName xml:lang="el">Χρυσοκάβα, Αγία Μαύρα</placeName>
                     <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
                     <placeName type="diocese" ref="diocese.xml#kyrenia">Bishopric of Kyrenia</placeName>
-                    <location><geo>35.33998, 33.32879</geo></location> <!-- It does not appear on the map -->
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <location><geo>35.340961, 33.330786</geo></location> <!-- It does not appear on the map, though I corrected the coordinates; confusion with Rizokarpaso, Agia Mavra -->
+                    <desc type="construction"><date notBefore="0901" notAfter="1000" precision="medium">10th century</date></desc>
+                    <desc type="function">Funerary(?)</desc>
+                    <desc type="context">Urban</desc>
+                    <desc type="architectural">Single-cell chapel, partially carved into the rock (built sections of north, south and west walls do not survive)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="0901" notAfter="1000" precision="medium">10th century</date>(naos)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
+                    <desc type="conservation">Fragmentary; poorly preserved</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">Not listed</idno>
@@ -487,7 +487,12 @@
                         <bibl><ptr target="bibliography.xml#Hadjichristodoulou2006"/><citedRange>286-88</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1969, 11</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>451-55</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>587-89</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Hadjichristodoulou2006"/><citedRange>286-88</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>193-200</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>12: 376-77</citedRange></bibl>
                     </listBibl>
                 </place>
                 
