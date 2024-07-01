@@ -215,7 +215,7 @@
                         <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium">11th century</date> (bema)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (bema)</desc>
                     </desc>
-                    <desc type="conservation">Partially preserved; after 1974, some murals mutilated, others detached. Conservation/cleaning: 1972 (DOAC); 2009 (. USAID/SAVE)</desc>
+                    <desc type="conservation">Partially preserved; after 1974, some murals mutilated, others detached. Conservation/cleaning: 1972 (DOAC), 2009 (USAID/SAVE)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -596,9 +596,9 @@
                 
                 <place xml:id="GialiaKatholikon" n="16">
                     <placeName xml:lang="en">Gialia, Monastery of Panagia Chrysogialiotissa, katholikon</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Γιαλιά, Παναγία Χρυσογιαλιώτισσα, καθολικό</placeName>
+                    <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
+                    <placeName type="diocese" ref="diocese.xml#arsinoe">Bishopric of Arsinoe</placeName>
                     <location><geo>35.089495642123936, 32.55495468191464</geo></location>
                     <desc type="construction"><date>...</date></desc>
                     <desc type="function">...</desc>
@@ -610,23 +610,29 @@
                     <desc type="conservation">...</desc>
                     <desc type="donors">...</desc>
                     <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="graffiti">Yes (Georgian)<!--<ptr target="bibliography.xml#Gagoshidze2014a"/>90-93--> </desc>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0052.html</idno>
+                    <idno type="HGC">https://cyprusgazetteer.org/hu/749/</idno>
+                    <idno type="geonames">https://www.geonames.org/maps/google_35.0895_32.555.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Gagoshidze2014a"/><citedRange>93</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Djobadze1984"/><citedRange>196-209</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Enlart1987"/><citedRange>360</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 33</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2009, 29; 2010, 39</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gagoshidze2014a"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Gagoshidze2014b"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Stewart2014"/><citedRange>120-21</citedRange></bibl>
                     </listBibl>
                 </place>
                 
                 <place xml:id="GialiaChapel" n="17">
                     <placeName xml:lang="en">Gialia, Monastery of Panagia Chrysogialiotissa, Saint George chapel</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Γιαλιά, Παναγία Χρυσογιαλιώτισσα, παρεκκλήσιο Αγίου Γεωργίου</placeName>
+                    <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
+                    <placeName type="diocese" ref="diocese.xml#arsinoe">Bishopric of Arsinoe</placeName>
                     <location><geo>35.0896, 32.55495468191464</geo></location>
                     <desc type="construction"><date>...</date></desc>
                     <desc type="function">...</desc>
@@ -639,14 +645,19 @@
                     <desc type="donors">...</desc>
                     <desc type="painter">...</desc>
                     <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0052.html</idno>
+                    <idno type="HGC">https://cyprusgazetteer.org/hu/749/</idno>
+                    <idno type="geonames">https://www.geonames.org/maps/google_35.0895_32.555.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Djobadze1984"/><citedRange>196-209</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Enlart1987"/><citedRange>360</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 33</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2009, 29; 2010, 39</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gagoshidze2014a"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Gagoshidze2014b"/></bibl>
                     </listBibl>
                 </place>
                 
