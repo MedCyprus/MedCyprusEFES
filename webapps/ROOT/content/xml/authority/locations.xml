@@ -249,7 +249,7 @@
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Free-cross domed church; western crossarm subsequently extended westwards</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300">13th century(?)?</date> (west crossarm: south wall)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300">13th century(?);</date> (west crossarm: south wall)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500">15th century(?); overpainted in the 20th century</date> (bema; central bay and dome; north and south crossarm</desc></desc>
                     <desc type="conservation">Murals of 1st layer, very fragmentary. Conservation/cleaning: 1996, 1997 (DOAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -2142,6 +2142,7 @@
                     <placeName xml:lang="en">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</placeName>
                     <placeName xml:lang="el">Βυζαντινό Μουσείο Πολιτιστικού Ιδρύματος Αρχιεπισκόπου Μακαρίου Γ'</placeName>
                     <location><placeName>Nicosia</placeName></location>
+                    <location><geo>35.17355, 33.36714</geo></location>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q42883662</idno>
                     <bibl><ref type="website">http://www.makariosfoundation.org.cy/</ref></bibl>
                 </place>
@@ -2150,6 +2151,7 @@
                     <placeName xml:lang="en">Ecclesiastical Museum of the Holy Bishopric of Paphos</placeName>
                     <placeName xml:lang="el"> Εκκλησιαστικό Μουσείο Ιεράς Μητροπόλεως Πάφου</placeName>
                     <location><placeName>Geroskepou</placeName></location>
+                    <location><geo>34.76053083044009, 32.451620875481666</geo></location>
                    <!-- <idno type="wikidata"></idno> -->
                     <bibl><ref type="website">https://www.impaphou.org/mouseio_impafou.aspx</ref></bibl>
                 </place>
@@ -2158,6 +2160,7 @@
                     <placeName xml:lang="en">Ecclesiastical Museum of Sotera</placeName>
                     <placeName xml:lang="el"> Εκκλησιαστικό Μουσείο Σωτήρας</placeName>
                     <location><placeName>Sotera (Famagusta District)</placeName></location>
+                    <location><geo>35.02813, 33.95288</geo></location>
                     <!-- <idno type="wikidata">https://www.wikidata.org/wiki/Q1014266</idno> ADD LINK TO LOCATION? -->
                     <bibl><ref type="website">https://www.sotira.org.cy/en/visitors/tourist-guide?cat=10</ref></bibl>
                 </place>
@@ -2166,14 +2169,16 @@
                     <placeName xml:lang="en">Local Archaeological Museum of Marion-Arsinoe</placeName>
                     <placeName xml:lang="el"> Τοπικό Αρχαιολογικό Moυσείο Μαρίου-Αρσινόης</placeName>
                     <location><placeName>Polis Chrysochous</placeName></location>
+                    <location><geo>35.035545475635594, 32.42710403499873</geo></location>
                     <!-- <idno type="wikidata"></idno> -->
-                    <bibl><ref type="website">http://www.mcw.gov.cy/mcw/DA/DA.nsf/All/CAF4EC728ABCA91CC225719900208766?OpenDocument</ref></bibl>
+                    <bibl><ref type="website">http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/CAF4EC728ABCA91CC225719900208766?OpenDocument</ref></bibl>
                 </place>
                 
                 <place xml:id="KykkosMuseum">
                     <placeName xml:lang="en">Museum of the Kykkos Monastery</placeName>
                     <placeName xml:lang="el">Μουσείο Ιεράς Μονής Κύκκου</placeName>
                     <location><placeName>Kykkos Monastery</placeName></location>
+                    <location><geo>34.9837943030975, 32.74120505183693</geo></location>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q225373</idno>
                     <bibl><ref type="website">https://kykkos-museum.org.cy/</ref></bibl>
                 </place>
