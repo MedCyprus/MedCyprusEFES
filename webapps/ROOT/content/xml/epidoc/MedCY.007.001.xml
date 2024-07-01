@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Naos, west cross-arm, south wall, first figure, on the east</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, west cross-arm, south wall, first figure, on the east</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
