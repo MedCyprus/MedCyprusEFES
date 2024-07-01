@@ -600,10 +600,10 @@
                     <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
                     <placeName type="diocese" ref="diocese.xml#arsinoe">Bishopric of Arsinoe</placeName>
                     <location><geo>35.089495642123936, 32.55495468191464</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="0901" notAfter="1000" precision="medium">10th century</date></desc>
+                    <desc type="function">Monastic</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Domed triconch church (today, ruinous, with northwest <!--<rs ref="#monument17">chapel of Saint George</rs>--> and western porch added subsequently</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
                     </desc>
@@ -634,10 +634,10 @@
                     <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
                     <placeName type="diocese" ref="diocese.xml#arsinoe">Bishopric of Arsinoe</placeName>
                     <location><geo>35.0896, 32.55495468191464</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="0967" notAfter="1033" precision="medium">Late 10th century - Early 11th century</date></desc>
+                    <desc type="function">Monastic</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Domed-hall chapel, annexed to the northwest of <!--<rs ref="#monument16">katholikon</rs>--> of the monastery</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
                     </desc>
