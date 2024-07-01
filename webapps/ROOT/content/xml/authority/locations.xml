@@ -35,7 +35,7 @@
                         <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (naos: west cross-arm, south wall)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1451" notAfter="1500" precision="medium">second half of the 15th century</date> (naos: west cross-arm, north wall)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary</desc>
+                    <desc type="conservation">Fragmentary. Conservation/cleaning: 1985-1986, 1995, 2002 (DOAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -66,12 +66,12 @@
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Rock-cut, single-cell</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="0901" notAfter="1000" precision="medium">10th century</date> (naos: north wall, above the tomb; north wall, eastern side). Some of the paintings have been removed to the <rs ref="#rep1">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</rs> 
+                        <desc type="layer" n="1">1st layer: <date notBefore="0901" notAfter="1000" precision="medium">10th century</date> (naos: north wall, above the tomb; north wall, eastern side). Some of the paintings have been removed to the <!--<rs ref="#rep1">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</rs> -->
                         </desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1001" notAfter="1200" precision="medium">Undetermined; prior to the 13th-14th century</date> (naos: north wall, eastern side)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1001" notAfter="1200" precision="medium">undetermined; prior to the 13th-14th century</date> (naos: north wall, eastern side)</desc>
                         <desc type="layer" n="3">3rd layer: <date notBefore="1201" notAfter="1400" precision="medium"> 13th-14th century? First half of the 14th century?</date> (bema; naos: east, north and west wall; ceiling)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary; condition poor</desc>
+                    <desc type="conservation">Fragmentary; condition poor. Conservation/cleaning: 1990-1991, 1993, 2002, 2005-2006 (DOAC) </desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -104,7 +104,7 @@
                         <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium">late 12th century</date> (naos: south wall, western side; west wall)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium">13th century?</date> (naos: west wall; north wall, central recess?)</desc>                
                     </desc>
-                    <desc type="conservation">Fragmentary. Some of the murals were illegally detached from the walls following 1974; current location unknown.</desc>
+                    <desc type="conservation">Fragmentary. Some of the murals were illegally detached from the walls following 1974; current location unknown</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -179,7 +179,7 @@
                         <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1233" precision="medium">early 13th century</date> (naos: north and south wall)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1267" notAfter="1300" precision="medium">late 13th century(?)</date> (naos: south wall)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary; badly preserved</desc>
+                    <desc type="conservation">Fragmentary; badly preserved. Conservation/cleaning: 1973 (DOAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -215,7 +215,7 @@
                         <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium">11th century</date> (bema)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (bema)</desc>
                     </desc>
-                    <desc type="conservation">Partially preserved; after 1974, some murals mutilated, others detached</desc>
+                    <desc type="conservation">Partially preserved; after 1974, some murals mutilated, others detached. Conservation/cleaning: 1972 (DOAC); 2009 (. USAID/SAVE)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -243,7 +243,7 @@
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.79913858, 32.40832746</geo></location>
                     <desc type="construction">
-                        <date notBefore="1167" notAfter="1300" precision="medium" source="bibliography.xml#Papageorgiou1996">Papageorgiou: late 12th century or 13th century</date>
+                        <date notBefore="1167" notAfter="1300" precision="medium" source="bibliography.xml#Papageorgiou1996">Papageorgiou: late 12th century or 13th century; </date>
                         <date notBefore="1301" notAfter="1400" precision="medium" source="bibliography.xml#Kaffenberger2020">Kaffenberger: 14th century</date></desc>
                     <desc type="function">Parochial</desc>
                     <desc type="context">Rural</desc>
@@ -251,7 +251,7 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300">13th century(?)?</date> (west crossarm: south wall)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500">15th century(?); overpainted in the 20th century</date> (bema; central bay and dome; north and south crossarm</desc></desc>
-                    <desc type="conservation">Murals of 1st layer, very fragmentary</desc>
+                    <desc type="conservation">Murals of 1st layer, very fragmentary. Conservation/cleaning: 1996, 1997 (DOAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -279,7 +279,7 @@
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.79343900425516, 32.41286529226267</geo></location>
                     <desc type="construction">
-                        <date notBefore="0801" notAfter="1000" precision="medium" source="bibliography.xml#Procopiou2007">Procopiou: 9th or 10th century</date>
+                        <date notBefore="0801" notAfter="1000" precision="medium" source="bibliography.xml#Procopiou2007">Procopiou: 9th or 10th century; </date>
                         <date notBefore="1000" notAfter="1100" precision="medium" source="bibliography.xml#Kaffenberger2020">Kaffenberger: 11th century</date>
                     </desc>
                     <desc type="function">Parochial(?)</desc>
@@ -288,7 +288,7 @@
                     <desc type="mural">
                         <desc type="layer" n="1"><date notBefore="1201" notAfter="1250" precision="medium">first half of the 13th century</date> (bema; naos)</desc><!--IS THERE ANOTHER LAYER?-->
                     </desc>
-                    <desc type="conservation">Partially preserved</desc>
+                    <desc type="conservation">Partially preserved. Conservation/cleaning: 2005 (DOAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -315,7 +315,7 @@
                     <placeName type="diocese" ref="diocese.xml#trimythous">Bishopric of Trimythous</placeName>
                     <location><geo>34.79760060573761, 33.32908687072699</geo></location>
                     <desc type="construction">
-                        <date notBefore="0967" notAfter="1033" precision="medium" source="bibliography.xml#Procopiou2018">Procopiou: late 10th century - early 11th century</date>
+                        <date notBefore="0967" notAfter="1033" precision="medium" source="bibliography.xml#Procopiou2018">Procopiou: late 10th century - early 11th century; </date>
                         <date notBefore="1101" notAfter="1200" precision="medium" source="bibliography.xml#Papacostas1999">Papacostas: 12th century</date>                        
                     </desc>
                     <desc type="function">Parochial</desc>
@@ -325,7 +325,7 @@
                         <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (bema, naos)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="medium">First half of the 16th century</date> (bema, dome, naos)</desc>
                     </desc>
-                    <desc type="conservation">Badly damaged; very fragmentary</desc>
+                    <desc type="conservation">Badly damaged; very fragmentary. Conservation/cleaning: late 1940s, 1998, 2003, 2004, 2008, 2011, 2013-2015, 2017 (DOAC)</desc>
                     <!--  <desc type="donors">1st layer: unknown; 2nd layer: Sabbas with his family (1509); Hilarion the monk (1552)</desc>
                     <desc type="painter">1st layer: unknown; 2nd layer: Symeon (1509)</desc>-->
                     <desc type="graffiti">Presence not verified</desc>
@@ -404,8 +404,9 @@
                         <desc type="layer" n="3">3st layer: <date notBefore="1201" notAfter="1400" precision="medium">13th or 14th century</date> (naos: cental bay)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (naos: western bay)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary</desc>
-                    <!--CHECK! <desc type="donors">Male and female donors, lay and ecclesiastic, donated votive panels throughout the Byzantine and medieval period: 2nd layer: the priest Georgios and Magdalene; 3rd layer: Theodosia, one monk (Leontios) and at least another male donor; 4th layer: female donor (portrait; no inscription surviving)</desc>-->                    <desc type="painter">Unknown</desc>
+                    <desc type="conservation">Fragmentary. Conservation/cleaning: 1985-1986, 2002 (DOAC)</desc>
+                    <!--CHECK! <desc type="donors">Male and female donors, lay and ecclesiastic, donated votive panels throughout the Byzantine and medieval period: 2nd layer: the priest Georgios and Magdalene; 3rd layer: Theodosia, one monk (Leontios) and at least another male donor; 4th layer: female donor (portrait; no inscription surviving)</desc>-->                    
+                    <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0047.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146485/156/</idno>
@@ -441,7 +442,7 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1133" precision="medium">Early 12th century</date>(bema)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary; murals detached, now displayed in the <!--<ptr target="locations.xml#PaphosMuseum"/>-->
+                    <desc type="conservation">Fragmentary; murals detached, now displayed in the <!--<ptr target="locations.xml#PaphosMuseum"/>-->. Conservation/cleaning: 1992, 2001 (DOAC)
                        </desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
@@ -476,7 +477,7 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="0901" notAfter="1000" precision="medium">10th century</date>(naos)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary; poorly preserved</desc>
+                    <desc type="conservation">Fragmentary; poorly preserved. Conservation/cleaning: 1969 (DOAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -503,20 +504,20 @@
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.80654276632326, 32.42457656171472</geo></location>
                     <desc type="construction">
-                        <!--<date notBefore="1001" notAfter="1100" precision="medium" source="bibliography.xml#EcclesMon">Bakirtzes, Philotheou, Petrou: 11th century</date>-->                                   <date notBefore="1167" notAfter="1200" precision="medium" source="bibliography.xml#Papacostas1999">Papacostas: late 12th century</date>
+                        <!--<date notBefore="1001" notAfter="1100" precision="medium" source="bibliography.xml#EcclesMon">Philotheou, Petrou: 11th century; </date>-->                                   <date notBefore="1167" notAfter="1200" precision="medium" source="bibliography.xml#Papacostas1999">Papacostas: late 12th century</date>
                     </desc>
                     <desc type="function">Parochial</desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Free-cross domed church; western extension of aisles, narthex, and northeastern naos compartment added subsequently (13th century?)</desc>
                     <desc type="mural">
-                        <!--<desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" source="bibliography.xml#EcclesMon">Bakirtzes, Philotheou, Petrou: 11th century</date> (naos: south crossarm, east wall)</desc>
+                        <!--<desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" source="bibliography.xml#EcclesMon">Philotheou, Petrou: 11th century; </date> (naos: south crossarm, east wall)</desc>
                         <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300" precision="medium">13th century</date> (naos: south crossarm, east wall)</desc>-->
                         <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1233" precision="medium">Early 13th century</date> (naos: north and south crossarms)</desc>
                         <desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="medium">Late 13th century</date> (narthex)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (naos: dome, north and south crossarms, western vault)</desc>
                         <desc type="layer" n="5">5th layer: <date when="1896" precision="high">1896</date> (naos: north and south crossarms)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary</desc>
+                    <desc type="conservation">Fragmentary. Conservation/cleaning: 1966, 1980-1981, 1985-1986, 1995-1996, 1999, 2001 (DOAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -561,7 +562,7 @@
                         <desc type="layer" n="4">4th layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date>(nave; south aisle)</desc>
                         <desc type="layer" n="5">5th layer: <date notBefore="1467" notAfter="1533" precision="medium">Late 15th - Early 16th century</date>(bema; central and western domes of nave; nave)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary</desc>
+                    <desc type="conservation">Fragmentary. Conservation/cleaning: 1955, 1974, 1976, 1977, 1994, 1995, 2003 (DOAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Yes <!--<ptr target="bibliography.xml#FouliasHadjichristodoulou2019"/>34, 55-59--></desc>
