@@ -1199,7 +1199,7 @@
                     <placeName xml:lang="en">Lagoudera, Panagia tou Araka or Arakiotissa</placeName>
                     <placeName xml:lang="el">Λαγουδερά, Παναγία τοῦ Ἄρακος ή Ἀρακιώτισσα</placeName>
                     <placeName type="district" ref="district.xml#Nicosia">Nicosia</placeName>
-                    <placeName type="diocese" ref="diocese.xml#Morphou">Bishopric of Morphou</placeName>
+                    <placeName type="diocese" ref="diocese.xml#morphou">Bishopric of Morphou</placeName>
                     <location><geo>34.965463638006405, 33.00726538918126</geo></location>
                     <desc type="construction"><date notBefore="1151" notAfter="1200" precision="medium">Second half 12th century</date></desc>
                     <desc type="function">Estate; monastic</desc>
@@ -1412,7 +1412,7 @@
                     <placeName xml:lang="en">Moutoullas, Panagia</placeName>
                     <placeName xml:lang="el">Μουτουλλάς</placeName>
                     <placeName type="district" ref="district.xml#Nicosia">Nicosia</placeName>
-                    <placeName type="diocese" ref="diocese.xml#Morphou">Bishopric of Morphou</placeName>
+                    <placeName type="diocese" ref="diocese.xml#morphou">Bishopric of Morphou</placeName>
                     <location><geo>34.9826622, 32.8241501</geo></location>
                     <desc type="construction"><date when="1280-07-30" precision="high">July 30, 1280</date></desc>
                     <desc type="function">Private; funerary;</desc>
@@ -1491,7 +1491,7 @@
                     <placeName xml:lang="en">Niketari, Panagia Phorbiotissa or Asinou</placeName>
                     <placeName xml:lang="el">Νικητάρι, Παναγία ἡ Φορβιώτισσα ή τὴς Ἀσίνου</placeName>
                     <placeName type="district" ref="district.xml#Nicosia">Nicosia</placeName>
-                    <placeName type="diocese" ref="diocese.xml#Morphou">Bishopric of Morphou</placeName>
+                    <placeName type="diocese" ref="diocese.xml#morphou">Bishopric of Morphou</placeName>
                     <location><geo>35.04630695352788, 32.97334536642621</geo></location>
                     <desc type="construction"><date notBefore="1099" notAfter="1105" precision="medium">1099-1105/6</date></desc>
                     <desc type="function">Monastic</desc>
@@ -1848,7 +1848,7 @@
                     <placeName xml:lang="en">Sotira (Ammochostou), Transfiguration</placeName>
                     <placeName xml:lang="en">Sotera (Famagusta), Transfiguration</placeName>
                     <placeName xml:lang="el">Σωτήρα (Αμμοχώστου)</placeName>
-                    <placeName type="district" ref="district.xml#Famagusta">Famagusta</placeName>
+                    <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
                     <placeName type="diocese" ref="diocese.xml#constantia">Bishopric of Constantia and Famagusta</placeName>
                     <location><geo>35.02873782723978, 33.95298959004183</geo></location>
                     <desc type="construction"><date notBefore="1201" notAfter="1300" precision="medium">13th century</date></desc>
