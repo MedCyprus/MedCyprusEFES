@@ -37,6 +37,8 @@
             
                 <listBibl xml:id="monuments">
                     <head>The Monuments</head>
+                                        
+                    <bibl xml:id="Bakirtzis2022"><author><surname>Bakirtzis</surname><forename> Ch.</forename></author>, <date>2022</date>, <title level="a">Ἀσύμμετρο ἢ σύμμετρο; Ὁ Ἅγιος Νικόλαος τῆς Στέγης στὴν Κακοπετρία</title>, in <title level="m">Πρακτικά συνεδρίου στη μνήμη  του Άγγελου Δεληβορριά</title>, ed. <editor><forename>S. </forename><surname>Vlizos</surname></editor>, <pubPlace>Athens</pubPlace>,<biblScope unit="page"> 171-81</biblScope>.</bibl>
                     
                     <bibl xml:id="Bakirtzis2019"><author><surname>Bakirtzis</surname><forename> N.</forename></author>, <date>2019</date>, <title level="a">Revisiting the Monastic Legacy of Saint Sozomenos near Potamia</title>, in <title level="m">The Art and Archaeology of Lusignan and Venetian Cyprus (1192-1571). Recent Research and New Discoveries</title>, ed. <editor><forename>M. </forename><surname>Olympios</surname></editor> and<editor><forename>M.</forename> <surname>Parani</surname></editor>, <pubPlace>Turnhout</pubPlace>,<biblScope unit="page"> 83-100</biblScope>.</bibl>
                     
