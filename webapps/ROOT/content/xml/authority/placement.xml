@@ -16,9 +16,6 @@
     <text>
         <body>
             <list>
-                <item xml:id="naos">
-                    <term>Naos</term>
-                </item>
                 <item xml:id="bema">
                     <term>Bema</term>
                 </item>
@@ -28,6 +25,18 @@
                 <item xml:id="diakonikon">
                     <term>Diakonikon</term>
                 </item>
+                <item xml:id="dome">
+                    <term>Dome</term>
+                </item>
+                <item xml:id="naos">
+                    <term>Naos</term>
+                </item>
+                <item xml:id="nave">
+                    <term>Nave</term><!--for basilicas-->
+                </item>
+                <item xml:id="aisle">
+                    <term>Aisle</term><!--for basilicas-->
+                </item>       
             </list>
             
             
