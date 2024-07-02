@@ -697,13 +697,13 @@
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Stylianou1946"/></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1951"/></bibl>
-                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1966, 7; 1968, 8; 1969, 8; 1970, 11; 1971, 9; 1972, 11; 1973, 14; 1974, 15; 1975, 13-4; 1987, 21; 1992, 19</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1966, 7; 1968, 8; 1969, 8; 1970, 11; 1971, 9; 1972, 11; 1973, 14; 1974, 15; 1975, 13-14; 1987, 21; 1992, 19</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>53-75</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 61-62</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Philotheou2000"/><citedRange>110, 112, 114-15, 118, 124</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>516, 590-91, 599</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Triantafyllopoulos2006"/><citedRange>117-26</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2007, 20-1</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2007, 20-21</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange>317-19</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>14: 19-24</citedRange></bibl> 
                         <bibl><ptr target="bibliography.xml#VisCult"/><citedRange>1: 688-96</citedRange></bibl>
@@ -713,29 +713,39 @@
                 
                 <place xml:id="Kaliana" n="19">
                     <placeName xml:lang="en">Kaliana, Saints Joachim and Anne</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Καλιάνα, Άγιοι Ιωακείμ και Άννα</placeName>
+                    <placeName type="district" ref="district.xml#nicosia">Nicosia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#morphou">Bishopric of Morphou</placeName>
                     <location><geo>35.01250894002986, 32.88420907848711</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1067" notAfter="1133" precision="medium">Late 11th - Early 12th century</date></desc>
+                    <desc type="function">Parochial</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Original structure of uncertain type, since only part of the north wall survives incorporated into the present-day two-aisled timber roofed church, which was constructed in the 14th/15th century and expanded in the early 20th century</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (prothesis; naos: northwestern recess)</desc>                        
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (naos: central recess of north wall)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="conservation">Fragmentary. Conservation/cleaning: 1972, 2006-2007 (DOAC)</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0008.html</idno>
+                    <idno type="HGC">https://cyprusgazetteer.org/146577/169/</idno>
+                    <idno type="geonames">https://www.geonames.org/16520/agia-anna.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1971, 9; 1972, 11</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1975"/><citedRange>384, 410-16</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>107-09</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 7</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>607-08, 633</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>ARDAC 2006, 23; 2007, 21-22</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange>319, 332</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>2: 283-86</citedRange></bibl> 
+                        <bibl><ptr target="bibliography.xml#VisCult"/><citedRange>1: 688-96</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>1: 104-13</citedRange></bibl>
                     </listBibl>
                 </place>
                 
