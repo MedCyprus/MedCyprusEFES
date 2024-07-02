@@ -751,29 +751,42 @@
                 
                 <place xml:id="Kalograia" n="20">
                     <placeName xml:lang="en">Kalograia, Antiphonetes</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Καλογραία, Αντιφωνητής</placeName>
+                    <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#kyrenia">Bishopric of Kyreneia</placeName>
                     <location><geo>35.327, 33.619</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1167" notAfter="1200" precision="medium">Late 12th century</date></desc>
+                    <desc type="function">Monastic</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Domed octagon church, with narthex and south portico added subsequently (16th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium">late 12th century</date> (bema; naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1467" notAfter="1500" precision="medium">late 15th century</date> (naos: north and south walls)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1601" notAfter="1700" precision="medium">17th century</date> (narthex)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
+                    <desc type="conservation">Prior to 1974, good state of preservation; after 1974, the murals were mutilated and/or detached and illegaly exported; some were repatriated and are now kept in the <!--<rs ref="#rep1">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</rs> -->. Conservation/cleaning: 1962, 1969, 1971-1972 (DOAC)</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0010.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/146575/170/</idno>
-                    <idno type="geonames">...</idno>
+                    <idno type="geonames">https://www.geonames.org/146809/antifonitis.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>336-37</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>194-95</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1962, 13; 1969, 11; 1971, 13; 1972, 15; 1973, 17</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Hadermann-Misguich1985"/><citedRange>233-58</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Enlart1987"/><citedRange>206-08</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>469-85</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 9</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>627-31</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Hadjichristodoulou2006"/><citedRange>180-89</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>75-95</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>2: 222-24</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>41-43</citedRange></bibl>
                     </listBibl>
                 </place>
                 
