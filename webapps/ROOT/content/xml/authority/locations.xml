@@ -793,29 +793,33 @@
                 <place xml:id="KalopanagiotisChapel" n="21">
                     <placeName xml:lang="en">Kalopanagiotis, Monastery of Saint John Lampadistes, chapel of Saint John Lampadistes</placeName>
                     <placeName xml:lang="en">Kalopanagiotes, Monastery of Saint John Lampadistes, chapel of Saint John Lampadistes</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Καλοπαναγιώτης, Μονή Αγίου Ιωάννη Λαμπαδιστή, παρεκκλήσιο Αγίου Ιωάννη Λαμπαδιστή</placeName>
+                    <placeName type="district" ref="district.xml#nicoia">Nicosia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#morphou">Bishopric of Morphou</placeName>
                     <location><geo>34.9922963016043, 32.83016674389524</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium">12th century</date></desc>
+                    <desc type="function">Pilgrimage</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Originally, a single-aisled structure, either vaulted or domed, attached to the north of <!--<rs ref="#monument22">the church of Saint Herakleidios</rs> -->; today, only the eastern part of the north wall survives, incorporated into a later structure of the 18th century</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium" source="bibliography.xml#Papageorgiou2012a">Papageorgiou: 12th century</date>
+                            <date notBefore="1251" notAfter="1300" precision="medium" source="bibliography.xml#Perdiki2023">Perdiki: second half of 13th century</date></desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
+                    <desc type="conservation">Fragmentary. Conservation/cleaning: 1968-1973, 2001 (DOAC), 2007-2012 (Courtauld Institute of Art)
+                    </desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
                     <desc type="graffiti">https://historic-graffiti.cyi.ac.cy/place/4/</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0054.html</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/12633/497/</idno>
+                    <idno type="geonames">https://www.geonames.org/12633/agios-ioannis-lampadistis.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Perdiki2023"/><citedRange>48</citedRange></bibl>
                     </listBibl>
-                    <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                    <listBibl type="monument"> <!-- Needs to be checked and completed -->
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2012a"/><citedRange>20, 36-37<!-- This pages are from the Greek edition; we need the English edition pages --></citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>131, 132</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Perdiki2023"/><citedRange>41, 46-53</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -844,6 +848,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#WeylCarr2009"/><citedRange>475–99</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
