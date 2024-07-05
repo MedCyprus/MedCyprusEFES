@@ -800,7 +800,7 @@
                     <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium">12th century</date></desc>
                     <desc type="function">Pilgrimage</desc>
                     <desc type="context">Rural</desc>
-                    <desc type="architectural">Originally, a single-aisled structure, either vaulted or domed, attached to the north of <!--<rs ref="#monument22">the church of Saint Herakleidios</rs> -->; today, only the eastern part of the north wall survives, incorporated into a later structure of the 18th century</desc>
+                    <desc type="architectural">Originally, a single-aisled structure, either vaulted or domed, attached to the north of <!--<rs ref="#monument22">the church of Saint Herakleidios</rs> -->, to house the tomb of the saint; today, only the eastern part of the north wall survives, incorporated into a later structure of the 18th century</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium" source="bibliography.xml#Papageorgiou2012a">Papageorgiou: 12th century</date>
                             <date notBefore="1251" notAfter="1300" precision="medium" source="bibliography.xml#Perdiki2023">Perdiki: second half of 13th century</date></desc>
@@ -818,38 +818,59 @@
                     </listBibl>
                     <listBibl type="monument"> <!-- Needs to be checked and completed -->
                         <bibl><ptr target="bibliography.xml#Papageorgiou2012a"/><citedRange>20, 36-37<!-- This pages are from the Greek edition; we need the English edition pages --></citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>131, 132</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>1: 131, 132</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Perdiki2023"/><citedRange>41, 46-53</citedRange></bibl>
-                    </listBibl>
+                    </listBibl>  
                 </place>
                 
                 <place xml:id="KalopanagiotisKatholikon" n="22">
-                    <placeName xml:lang="en">Kalopanagiotis, Monastery of Saint John Lampadistes, katholikon of Saint Herakleidios</placeName>
-                    <placeName xml:lang="en">Kalopanagiotes, Monastery of Saint John Lampadistes, katholikon of Saint Herakleidios</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="en">Kalopanagiotis, Monastery of Saint John Lampadistes, church of Saint Herakleidios</placeName>
+                    <placeName xml:lang="en">Kalopanagiotes, Monastery of Saint John Lampadistes, church of Saint Herakleidios</placeName>
+                    <placeName xml:lang="el">Καλοπαναγιώτης, Μονή Αγίου Ιωάννη Λαμπαδιστή, ναός Αγίου Ηρακλειδίου</placeName>
+                    <placeName type="district" ref="district.xml#nicosia">Nicosia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#morphou">Bishopric of Morphou</placeName>
                     <location><geo>34.9922, 32.83016674389524</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1001" notAfter="1100" precision="medium">11th century</date></desc>
+                    <desc type="function">Parochial(?). <!--Currently, the main church (katholikon) of the monastery; whether its original function was monastic remains probable, but uncertain--></desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Domed pier cross-in-square church, with <!--<rs ref="#monument21">the chapel of Saint John Lampadistes</rs> -->, the so-called chapel of the Akathistos Hymn, and the narthex added subsequently (15th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium">11th century</date> (bema)</desc>
+                        <desc type="layer" n="1">2nd layer: <date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (bema)</desc>
+                        <desc type="layer" n="1">3rd layer: <date notBefore="1251" notAfter="1300" precision="medium">second half of 13th century</date> (dome; naos: central bay, south vault, west crossarm, west wall)</desc>
+                        <desc type="layer" n="1">4th layer: <date notBefore="1401" notAfter="1433" precision="medium">early 15th century</date> (bema; prothesis; diakonikon; naos: north crossarm, north wall, northwestern and southwestern compartments, south wall)</desc>
+                        <desc type="layer" n="1">5th layer: <date notBefore="1451" notAfter="1500" precision="medium">second half of 15th century</date> (narthex)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
+                    <desc type="conservation">Fragmentary. The murals of the 3rd-5th layers survive in good condition. Conservation/cleaning: 1968-1973, 2001 (DOAC), 2007-2012 (Courtauld Institute of Art)</desc>
+                    <desc type="donors">2nd layer: pair of anonymous monks, whose portrait survives in the bema; 5th layer: one Michael, who was an ecclesiastical official, his wife and his two sons, who were priests</desc>
+                    <desc type="painter">5th layer: a refugee from Constantinople after 1453 (fragmentary inscription; his name does not survive)</desc>
                     <desc type="graffiti">https://historic-graffiti.cyi.ac.cy/place/4/</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0054.html</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/12633/497/</idno>
+                    <idno type="geonames">https://www.geonames.org/12633/agios-ioannis-lampadistis.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>287-88</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Soeriou1935"/><citedRange>26-27, fig. 17</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>245-48</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1968, 9; 1969, 8</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Myriatheas1969"/></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1970, 9; 1971, 9; 1973, 14</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>292-320</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 37-38</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kokkinophtas2000"/><citedRange>180-82</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2001, 22</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gkioles2003"/><citedRange>60, 61, 170, 171</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>523-24</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2007, 22-3; 2008, 8</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#WeylCarr2009"/><citedRange>475–99</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>8: 112-16; 10: 357-62</citedRange></bibl><!--Why two different volumes?-->
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2012a"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Klerides2015"/><citedRange>143-46</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>1: 126-43</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Perdiki2023"/><citedRange>33–68</citedRange></bibl>
                     </listBibl>
                 </place>
                 
