@@ -64,7 +64,7 @@
                     <desc type="construction"><date notBefore="0901" notAfter="1000" precision="medium">10th century</date></desc>
                     <desc type="function">Anchorite cell and burial place; pilgrimage</desc>
                     <desc type="context">Rural</desc>
-                    <desc type="architectural">Rock-cut, single-cell</desc>
+                    <desc type="architectural">Rock-cut, single-cell chapel</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="0901" notAfter="1000" precision="medium">10th century</date> (naos: north wall, above the tomb; north wall, eastern side). Some of the paintings have been removed to the <!--<rs ref="#rep1">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</rs> -->
                         </desc>
@@ -741,7 +741,7 @@
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>107-09</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 7</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>607-08, 633</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>ARDAC 2006, 23; 2007, 21-22</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2006, 23; 2007, 21-22</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange>319, 332</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>2: 283-86</citedRange></bibl> 
                         <bibl><ptr target="bibliography.xml#VisCult"/><citedRange>1: 688-96</citedRange></bibl>
@@ -876,29 +876,34 @@
                 
                 <place xml:id="Karavas" n="23">
                     <placeName xml:lang="en">Karavas, Panagia Galaterousa</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Καραβάς, Παναγία Γαλατερούσα</placeName>
+                    <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#kyrenia">Bishopric of Kyreneia</placeName>
                     <location><geo>35.33701490, 33.19072294</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium">12th century</date></desc>
+                    <desc type="function">Monastic</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Rock-cut, single-cell church, with three shallow niches carved into the eastern wall</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (east wall, below the three niches)</desc>
+                        <desc type="layer" n="1">2nd layer: <date notBefore="1167" notAfter="1233" precision="medium">late 12th or early 13th century</date> (east wall; south wall: east end; north wall: east end)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="conservation">Fragmentary; poor condition. Conservation/cleaning: 1968-1969 (DOAC)</desc>
+                    <desc type="donors">On the south wall, a fragmentary incised inscription on the plaster mentions one Leontios, monk and abbot of the monastery; whether or not he was involved in the decoration of the church is unclear (prior to the execution of the 2nd layer of painted decoration)</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Yes <!--<ptr target="bibliography.xml#Papageorgiou2010"/>117-18--></desc>
+                    <idno type="IBCC">Not listed</idno>
+                    <idno type="HGC">Not listed</idno>
+                    <idno type="geonames">https://www.geonames.org/20238/panagia-galaterousa.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1999b"/><citedRange>54-57</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1968, 11; 1969, 11</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1999b"/><citedRange>54-57</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>650-51</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Hadjichristodoulou2006"/><citedRange>226-29</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>117-22</citedRange></bibl>
                     </listBibl>
                 </place>
                 
