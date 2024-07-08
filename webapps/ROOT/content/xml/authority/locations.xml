@@ -947,29 +947,37 @@
                 
                 <place xml:id="KatoLefkara" n="25">
                     <placeName xml:lang="en">Kato Lefkara, Archangel Michael</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Κάτω Λεύκαρα, Αρχάγγελος Μιχαήλ</placeName>
+                    <placeName type="district" ref="district.xml#larnaca">Larnaca</placeName>
+                    <placeName type="diocese" ref="diocese.xml#trimythous">Bishopric of Trimythous</placeName>
                     <location><geo>34.861755517715984, 33.31569740361403</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1167" notAfter="1200" precision="medium">Late 12th century</date></desc>
+                    <desc type="function">Monastic(?)</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Domed-hall church, with narthex added subsequently (20th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1233" precision="medium">late 12th century - early 13th century</date> (bema; dome; naos: south central recess, southwestern recess) </desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (naos: west vault)</desc>
+                        <desc type="layer" n="2">3rd layer: <date notBefore="1901" notAfter="1933" precision="medium">early 20th century</date> (naos: north central recess, nothwestern recess)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="conservation">Fragmentary</desc>
+                    <desc type="donors">1st layer: one supplicatory inscription in the bema makes reference to the priest Michael (son of?) Pileas, who may have contributed to the decoration of the church; a second fragmentary inscription in the naos that makes reference to the wife(?) of one Sakellares is in all probability a funerary one.</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0016.html</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/146522/175/</idno>
+                    <idno type="geonames">https://www.geonames.org/4933/archangelos.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1990"/><citedRange>195, 203-27</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1974, 20; 1975, 18</citedRange></bibl>                        
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1990"/><citedRange>189-230</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>447-50</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Spanou2002"/><citedRange>31-34</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gkioles2003"/><citedRange>170</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>626-27</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>166-77</citedRange></bibl>
                     </listBibl>
                 </place>
                 
