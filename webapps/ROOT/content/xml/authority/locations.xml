@@ -910,29 +910,38 @@
                 <place xml:id="KatoDeftera" n="24">
                     <placeName xml:lang="en">Kato Deftera, Panagia Chrysospeliotissa</placeName>
                     <placeName xml:lang="en">Kato Deutera, Panagia Chrysospeliotissa</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Κάτω Δευτερά, Παναγία Χρυσοσπηλιώτισσα</placeName>
+                    <placeName type="district" ref="district.xml#nicosia">Nicosia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#tamasos">Bishopric of Tamasos and Oreine</placeName>
                     <location><geo>35.09181630165587, 33.28243320093297</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1201" notAfter="1300" precision="medium">By the 13th century</date></desc><!-- Date of painted decoration; we do not know when the actual church was constructed -->
+                    <desc type="function">Hermitage; pilgrimage(?)</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Rock-cut, double-bay chapel</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300" precision="medium">13th century</date> (bema)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="conservation">Fragmentary;fair state of preservation. Conservation/cleaning: 2008 (DOAC) </desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">Not listed</idno>
+                    <idno type="HGC">Not listed</idno>
+                    <idno type="geonames">https://www.geonames.org/20783/panagia-chrysospiliotissa.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>300</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>217-18</citedRange></bibl><bibl>
+                        <ptr target="bibliography.xml#Papageorgiou1999b"/><citedRange>59-60</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Michael2001"/><citedRange>110-12</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2004, 27; 2005, 25-26; 2007, 23; 2008, 24-25</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Lysandrou2011"/><citedRange>119-20</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2012"/><citedRange>232-33, 239-40</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>19: 459-61</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Nikolaïdes2016"/></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>1: 144-49</citedRange></bibl>
                     </listBibl>
                 </place>
                 
