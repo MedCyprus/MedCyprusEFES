@@ -491,7 +491,7 @@
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1969, 11</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>451-55</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>587-89</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Hadjichristodoulou2006"/><citedRange>286-88</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Argyrou2006"/><citedRange>286-88</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>193-200</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>12: 376-77</citedRange></bibl>
                     </listBibl>
@@ -783,7 +783,8 @@
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>469-85</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 9</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>627-31</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Hadjichristodoulou2006"/><citedRange>180-89</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Perdikis2006a"/><citedRange>180-89</citedRange></bibl>
+                        <!--<bibl><ptr target="bibliography.xml#Hadjichristodoulou2006a"/><citedRange>190-91</citedRange></bibl>-->
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>75-95</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>2: 313-16</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>41-43</citedRange></bibl>
@@ -902,7 +903,7 @@
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1968, 11; 1969, 11</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1999b"/><citedRange>54-57</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>650-51</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Hadjichristodoulou2006"/><citedRange>226-29</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Hadjichristodoulou2006b"/><citedRange>226-29</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>117-22</citedRange></bibl>
                     </listBibl>
                 </place>
@@ -1230,6 +1231,7 @@
                         <bibl><ptr target="bibliography.xml#MangoHawkinsBoyd1990"/><citedRange>63-94</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>456-63</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>595-9, 632-40</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Perdikis2006b"/><citedRange>316-21</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kotoula2007"/><citedRange>49-69</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas2007"/><citedRange>25-156</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>142-60</citedRange></bibl>
@@ -1266,6 +1268,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Perdikis2006c"/><citedRange>322-25</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
@@ -1295,6 +1298,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Perdikis2006c"/><citedRange>322-25</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
@@ -1366,6 +1370,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Foulias2006"/><citedRange>208-13</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>

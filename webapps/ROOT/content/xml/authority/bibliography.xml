@@ -37,7 +37,9 @@
             
                 <listBibl xml:id="monuments">
                     <head>The Monuments</head>
-                                        
+                    
+                    <bibl xml:id="Argyrou2006"><author><surname>Perdikis</surname> <forename>S.</forename></author>, <date>2006</date>, <title level="a">Κερύνεια, Ναός Αγίας Μαύρης και Χρυσοκάβα</title>, in <title level="m">Οδοιπορικό στα χριστιανικά μνημεία της Μητροπολιτικής Περιφέρειας Κυρηνείας</title>, ed. <editor><forename>Ch.</forename><surname>Hadjichristodoulou</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">286-88</biblScope>.</bibl> 
+                    
                     <bibl xml:id="Bakirtzis2022"><author><surname>Bakirtzis</surname><forename> Ch.</forename></author>, <date>2022</date>, <title level="a">Ἀσύμμετρο ἢ σύμμετρο; Ὁ Ἅγιος Νικόλαος τῆς Στέγης στὴν Κακοπετρία</title>, in <title level="m">Πρακτικά συνεδρίου στη μνήμη  του Άγγελου Δεληβορριά</title>, ed. <editor><forename>S. </forename><surname>Vlizos</surname></editor>, <pubPlace>Athens</pubPlace>,<biblScope unit="page"> 171-81</biblScope>.</bibl>
                     
                     <bibl xml:id="Bakirtzis2019"><author><surname>Bakirtzis</surname><forename> N.</forename></author>, <date>2019</date>, <title level="a">Revisiting the Monastic Legacy of Saint Sozomenos near Potamia</title>, in <title level="m">The Art and Archaeology of Lusignan and Venetian Cyprus (1192-1571). Recent Research and New Discoveries</title>, ed. <editor><forename>M. </forename><surname>Olympios</surname></editor> and<editor><forename>M.</forename> <surname>Parani</surname></editor>, <pubPlace>Turnhout</pubPlace>,<biblScope unit="page"> 83-100</biblScope>.</bibl>
@@ -66,6 +68,8 @@
                     
                     <bibl xml:id="Foulias2004"><author><surname>Foulias</surname> <forename>A.</forename></author>, <date>2004</date>, <title level="m">The Church of Our Lady Angeloktisti at Kiti, Larnaka</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
                     
+                    <bibl xml:id="Foulias2006"><author><surname>Perdikis</surname> <forename>S.</forename></author>, <date>2006</date>, <title level="a">Καραβάς, Μονή της Αχειροποιήτου</title>, in <title level="m">Οδοιπορικό στα χριστιανικά μνημεία της Μητροπολιτικής Περιφέρειας Κυρηνείας</title>, ed. <editor><forename>Ch.</forename><surname>Hadjichristodoulou</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">208-13</biblScope>.</bibl>
+                    
                     <bibl xml:id="Foulias2008"><author><surname>Foulias</surname> <forename>A.</forename></author>, <date>2008</date>, <title level="a">Ο ναός της Αγίας Παρασκευής. Αρχιτεκτονική και πρώιμη διακόσμηση</title>, in <title level="m">Γεροσκήπου. Από την αρχαιότητα μέχρι σήμερα</title>, ed. <editor><forename>Ch. </forename><surname>Andreou</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">61-72</biblScope>.</bibl>
                     
                     <bibl xml:id="Foulias2010"><author><surname>Foulias</surname> <forename>A.</forename></author>, <date>2010</date>, <title level="a">Ανεικονικός διάκοσμος και μια πρώιμη βυζαντινή επιγραφή από τον ναό της Αγίας Αθανασίας στο Ριζοκάρπασο</title>, <title level="j">Βυζαντινά</title> <biblScope unit="volume">30</biblScope>, <biblScope unit="page">203-29</biblScope>.</bibl>
@@ -90,7 +94,11 @@
                     
                     <bibl xml:id="Hadermann-Misguich1985"><author><surname>Hadermann-Misguich</surname> <forename>L.</forename></author>, <date>1985</date>, <title level="a">La peinture monumentale du XIIe siècle à Chypre</title>, <title level="j">Corso di Cultura sull' Arte Ravennate e Bizantina</title> <biblScope unit="volume">32</biblScope>, <biblScope unit="page">233-58</biblScope>.</bibl>
                     
-                    <bibl xml:id="Hadjichristodoulou2006"><editor><surname>Hadjichristodoulou</surname> <forename>Ch.</forename></editor> (ed.), <date>2006</date>, <title level="m">Οδοιπορικό στα χριστιανικά μνημεία της Μητροπολιτικής Περιφέρειας Κυρηνείας</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
+                    <bibl xml:id="Hadjichristodoulou2006a"><author><surname>Hadjichristodoulou</surname> <forename>Ch.</forename></author>, <date>2006</date>, <title level="a">Ναός Αγιάσματος Μονής του Αντιφωνητή</title>, in <title level="m">Οδοιπορικό στα χριστιανικά μνημεία της Μητροπολιτικής Περιφέρειας Κυρηνείας</title>, ed. <editor><forename>Ch.</forename><surname>Hadjichristodoulou</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">190-91</biblScope>.</bibl>
+                    
+                    <bibl xml:id="Hadjichristodoulou2006b"><author><surname>Hadjichristodoulou</surname> <forename>Ch.</forename></author>, <date>2006</date>, <title level="a">Καραβάς, Ναός Παναγίας Γαλα(κ)τερούσας</title>, in <title level="m">Οδοιπορικό στα χριστιανικά μνημεία της Μητροπολιτικής Περιφέρειας Κυρηνείας</title>, ed. <editor><forename>Ch.</forename><surname>Hadjichristodoulou</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">226-29</biblScope>.</bibl>
+                    
+                    <bibl xml:id="Hadjichristodoulou2006c"><editor><surname>Hadjichristodoulou</surname> <forename>Ch.</forename></editor> (ed.), <date>2006</date>, <title level="m">Οδοιπορικό στα χριστιανικά μνημεία της Μητροπολιτικής Περιφέρειας Κυρηνείας</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
                     
                     <bibl xml:id="Hadjichristodoulou2017"><author><surname>Hadjichristodoulou</surname> <forename>Ch.</forename></author>, <date>2017</date>, <title level="m">Θεονύμφευτος Κόρη. Η Παναγία Χρυσελεούσα Στροβόλου και τα κειμήλιά της</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
                     
@@ -219,6 +227,12 @@
                     
                     <bibl xml:id="Perdiki2023"><title type="short">Perdiki 2023</title> <author><surname>Perdiki</surname> <forename>O.</forename></author>, <date>2023</date>, <title level="a">Revisiting the Pilgrimage Site of St. John Lampadistis: Art and Ritual Space</title>, <title level="j">Eventum: A Journal of Medieval Arts and Rituals</title> <biblScope unit="volume">1</biblScope>, <biblScope unit="page">33–68</biblScope>.</bibl>
                     
+                    <bibl xml:id="Perdikis2006a"><author><surname>Perdikis</surname> <forename>S.</forename></author>, <date>2006</date>, <title level="a">Καλογραία, Καθολικό Μονής Χριστού Αντιφωνητή</title>, in <title level="m">Οδοιπορικό στα χριστιανικά μνημεία της Μητροπολιτικής Περιφέρειας Κυρηνείας</title>, ed. <editor><forename>Ch.</forename><surname>Hadjichristodoulou</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">180-89</biblScope>.</bibl>
+                    
+                    <bibl xml:id="Perdikis2006b"><author><surname>Perdikis</surname> <forename>S.</forename></author>, <date>2006</date>, <title level="a">Κουτσοβέντης, Παρεκκλήσιο Αγίας Τριάδος Μονής Χρυσοστόμου</title>, in <title level="m">Οδοιπορικό στα χριστιανικά μνημεία της Μητροπολιτικής Περιφέρειας Κυρηνείας</title>, ed. <editor><forename>Ch.</forename><surname>Hadjichristodoulou</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">316-21</biblScope>.</bibl>
+                    
+                    <bibl xml:id="Perdikis2006c"><author><surname>Perdikis</surname> <forename>S.</forename></author>, <date>2006</date>, <title level="a">Κουτσοβέντης, Οι ναοί της Παναγίας Αφέντρικας και του Σωτήρος</title>, in <title level="m">Οδοιπορικό στα χριστιανικά μνημεία της Μητροπολιτικής Περιφέρειας Κυρηνείας</title>, ed. <editor><forename>Ch.</forename><surname>Hadjichristodoulou</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">322-25</biblScope>.</bibl>
+                                      
                     <bibl xml:id="PerdikisMyrianthefs2009"><author><surname>Perdikis</surname> <forename>S.</forename></author> and <author><surname>Myrianthefs</surname> <forename>D.</forename></author>, <date>2009</date>, <title level="m">Ο ναός της Παναγίας στον Μουτουλλά</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
                     
                     <bibl xml:id="Philotheou2000"><author><surname>Philotheou</surname> <forename>G.</forename></author>, <date>2000</date>, <title level="a">Η μνημειακή ζωγραφική στην περιοχή της μητροπολιτικής περιφέρειας Μόρφου</title>, in <title level="m">Ιερά Μητρόπολις Μόρφου. 2000 Χρόνια Τέχνης και Αγιότητος</title>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">109-26</biblScope>.</bibl>
