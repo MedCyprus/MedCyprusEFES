@@ -520,7 +520,7 @@
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1966, 1980-1981, 1985-1986, 1995-1996, 1999, 2001 (DOAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">Presence not verified</desc>
+                    <desc type="graffiti">Yes <!--<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>376/citedRange></bibl>--></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0029.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146639/159/</idno>
                     <idno type="geonames">https://www.geonames.org/18814/panagia-chryseleousa.html</idno>
@@ -922,7 +922,7 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300" precision="medium">13th century</date> (bema)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary;fair state of preservation. Conservation/cleaning: 2008 (DOAC) </desc>
+                    <desc type="conservation">Fragmentary; poor state of preservation. Fragments of murals were detached and are now kept in storage at the Department of Antiquities, Cyprus. Conservation/cleaning: 2002-2008 (DOAC) </desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -998,7 +998,7 @@
                         <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (naos)</desc>
                     </desc>
                     <desc type="conservation">Poor condition; badly damaged. Conservation/cleaning: 1980, 2005 (DOAC)</desc>
-                    <desc type="donors">Unknown</desc>
+                    <desc type="donors">1st layer(?): a fragmentary inscription makes reference to a priest and caretaker of the church. Whether he was a donor remains unclear<!-- add refernce to inscription--></desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Yes 
                         <!--<bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>460/citedRange></bibl>
@@ -1030,9 +1030,9 @@
                 
                 <place xml:id="Kellia" n="27">
                     <placeName xml:lang="en">Kellia, Saint Anthony</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Κελλιά, Άγιος Αντώνιος</placeName>
+                    <placeName type="district" ref="district.xml#larnaca">Larnaca</placeName>
+                    <placeName type="diocese" ref="diocese.xml#kition">Bishopric of Kition</placeName>
                     <location><geo>34.9756699125121, 33.62078772500149</geo></location>
                     <desc type="construction"><date>...</date></desc>
                     <desc type="function">...</desc>
@@ -1044,10 +1044,11 @@
                     <desc type="conservation">...</desc>
                     <desc type="donors">...</desc>
                     <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="graffiti">Yes
+                        <!--<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>354/citedRange></bibl>--></desc>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0009.html</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/146506/176/</idno>
+                    <idno type="geonames">https://www.geonames.org/15933/agios-antonios.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
@@ -1072,7 +1073,7 @@
                     <desc type="conservation">...</desc>
                     <desc type="donors">...</desc>
                     <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
+                    <desc type="graffiti">Yes <!--<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>353-54/citedRange></bibl>--></desc>
                     <idno type="IBCC">...</idno>
                     <idno type="HGC">...</idno>
                     <idno type="geonames">...</idno>
@@ -1671,7 +1672,7 @@
                     <desc type="conservation">...</desc>
                     <desc type="donors">...</desc>
                     <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
+                    <desc type="graffiti">Yes <!--<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>365-67/citedRange></bibl>--></desc>
                     <idno type="IBCC">...</idno>
                     <idno type="HGC">...</idno>
                     <idno type="geonames">...</idno>
@@ -1798,7 +1799,9 @@
                     <desc type="conservation">...</desc>
                     <desc type="donors">...</desc>
                     <desc type="painter">...</desc>
-                    <desc type="graffiti">Yes <!--<bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458-59/citedRange></bibl>--></desc>
+                    <desc type="graffiti">Yes 
+                        <!--<bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458-59/citedRange></bibl>
+                            orm<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>377-78/citedRange></bibl>--></desc>
                     <idno type="IBCC">...</idno>
                     <idno type="HGC">...</idno>
                     <idno type="geonames">...</idno>
