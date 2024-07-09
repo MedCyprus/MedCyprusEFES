@@ -994,7 +994,7 @@
                     <desc type="context">Urban</desc>
                     <desc type="architectural">Chamber of a Hellenestic(?) rock-cut tomb, converted into a single-cell chapel</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium">late 12th century</date> (bema)</desc>
+                        <!--<desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium" source="bibliography.xml#Papageorgiou1996" source="bibliography.xml#Stylianou1997">Papageorgiou, Stylianou: late 12th century</date> <date notBefore="1301" notAfter="1400" precision="medium" source="bibliography.xml#HatfieldYoung1978" source="bibliography.xml#Konstantinidi2008">Hatfield Young, Konstandinidi: 14th century</date> (bema)</desc>-->                        
                         <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (naos)</desc>
                     </desc>
                     <desc type="conservation">Poor condition; badly damaged. Conservation/cleaning: 1980, 2005 (DOAC)</desc>
