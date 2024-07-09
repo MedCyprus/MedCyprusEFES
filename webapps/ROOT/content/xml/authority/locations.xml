@@ -74,7 +74,7 @@
                     <desc type="conservation">Fragmentary; condition poor. Conservation/cleaning: 1990-1991, 1993, 2002, 2005-2006 (DOAC) </desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">Presence not verified</desc>
+                    <desc type="graffiti">Yes <!--<bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458/citedRange></bibl>--></desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">Not listed</idno>
                     <idno type="geonames">http://www.geonames.org/20648/agios-sozomenos.html</idno>
@@ -988,32 +988,43 @@
                     <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.76138313281389, 32.4123872854924</geo></location>
-                    <desc type="construction"><date notBefore="0201" notAfter="1167" precision="medium" evidence="murals">Prior to the late 12th century (date of 1st layer of painted decoration)</date></desc>
-                    <desc type="function">Monastic; funerary</desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1167" precision="medium" evidence="murals">Prior to the late 12th century (date of 1st layer of painted decoration)</date></desc>
+                    <desc type="function">Pilgrimage(?)</desc>
                     <desc type="context">Urban</desc>
-                    <desc type="architectural">Chamber of a Hellenestic(?) rock-cut tomb, converted into a chapel</desc>
+                    <desc type="architectural">Chamber of a Hellenestic(?) rock-cut tomb, converted into a single-cell chapel</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium">late 12th century</date> (bema)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (nave)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (naos)</desc>
                     </desc>
-                    <desc type="conservation">Poor condition; badly damaged</desc>
+                    <desc type="conservation">Poor condition; badly damaged. Conservation/cleaning: 1980, 2005 (DOAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">See <ref target="http://grafmedia.cy.example.com/id/01010101">Grafmedia</ref>
-                        <!--Unknown/Presence unconfirmed/Unpublished/linkGrafmedia-->
+                    <desc type="graffiti">Yes 
+                        <!--<bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>460/citedRange></bibl>
+                            <bibl><ptr target="bibliography.xml#FouliasHadjichristodoulou2022"/><citedRange>158</citedRange></bibl>-->
                     </desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">Not listed</idno>
-                    <idno type="geonames">https://www.geonames.org/146272/kato-pafos.html</idno>
+                    <idno type="geonames">https://www.geonames.org/18804/agia-solomoni.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="published"/>
+                        <bibl><ptr target="bibliography.xml#HatfieldYoung1978"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Konstantinidi2008"/><citedRange>58, 109-10, 120-21, 131, 204</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#FouliasHadjichristodoulou2022"/><citedRange>158-66</citedRange></bibl>
                     </listBibl>
-                    <!--<listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#ARDAC"/>ARDAC<citedRange></citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/>Chotzakoglou 2005, <citedRange> 591-94</citedRange></bibl>                        
-                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/>Papageorgiou 2010, <citedRange> 34-42</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#WeylCarr2014"/>Weyl Carr 2014, <citedRange> 167-85</citedRange></bibl>
-                    </listBibl>-->
+                    <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#HatfieldYoung1978"/></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1980, 19-20</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>73-74</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>349-50</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2005, 41</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>591-94</citedRange></bibl>                        
+                        <bibl><ptr target="bibliography.xml#Konstantinidi2008"/><citedRange>58, 109-10, 120-21, 131, 204</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2010, 38</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange> 34-42</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>17: 216-18</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#WeylCarr2014"/><citedRange> 167-85</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#FouliasHadjichristodoulou2022"/><citedRange>153-66</citedRange></bibl>
+                    </listBibl>
                 </place>
                 
                 <place xml:id="Kellia" n="27">
@@ -1782,7 +1793,7 @@
                     <desc type="conservation">...</desc>
                     <desc type="donors">...</desc>
                     <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
+                    <desc type="graffiti">Yes <!--<bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458-59/citedRange></bibl>--></desc>
                     <idno type="IBCC">...</idno>
                     <idno type="HGC">...</idno>
                     <idno type="geonames">...</idno>

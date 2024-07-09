@@ -186,7 +186,7 @@
                     
                     <bibl xml:id="Papageorgiou1975"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>1975</date>, <title level="a">Οι ξυλόστεγοι ναοί της Κύπρου</title>, <title level="j">Τόμος ἀναμνηστικὸς ἐπὶ τῇ 50ετηρίδι τοῡ περιοδικοῦ «Ἀπόστολος Βαρνάβας» (1918-1968)</title>, <biblScope unit="page">361-556</biblScope>.</bibl>
                     
-                    <bibl xml:id="Papageorgiou1990"><author><surname>Papageorgiou</surname><forename> A.</forename></author>, <date>1990</date>,<title level="a"> H εκκλησία του Αρχαγγέλου Μιχαήλ, Κάτω Λεύκαρα</title>, <title level="j">RDAC</title> <biblScope unit="page">189-230</biblScope>.</bibl>
+                    <bibl xml:id="Papageorgiou1990"><author><surname>Papageorgiou</surname><forename> A.</forename></author>, <date>1990</date>,<title level="a"> H εκκλησία του Αρχαγγέλου Μιχαήλ, Κάτω Λεύκαρα</title>, <title level="j">RDAC</title> 1990, <biblScope unit="page">189-230</biblScope>.</bibl>
                     
                     <bibl xml:id="Papageorgiou1996"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>1996</date>, <title level="m">Ιερά Μητρόπολις Πάφου. Ιστορία και Τέχνη: 1950 χρόνια από την ίδρυσή της</title>, <pubPlace>Nicosia</pubPlace>. </bibl>
                     
@@ -274,6 +274,8 @@
                     <bibl xml:id="Tomeković1993"><author><surname>Tomeković</surname> <forename>S.</forename></author>, <date>1993</date>, <title level="a">Ermitage de Paphos: décors peints pour Néophyte le Reclus</title>, in <title level="m">Les saints et leur sanctuaire à Byzance. Textes, images et monuments</title>, ed. <editor><forename>C.</forename> <surname>Jolivet-Lévy</surname></editor>, <editor><forename>M.</forename> <surname>Kaplan</surname></editor>, and <editor><forename>J.-P.</forename> <surname>Sodini</surname></editor>, <pubPlace>Paris</pubPlace>, <biblScope unit="page">151-71</biblScope>.</bibl>
                     
                     <bibl xml:id="Touliatos2021"><author><surname>Touliatos</surname> <forename>P.</forename></author> et al., <date>2021</date>, <title level="m">Κατασκευαστική ανάλυση ιστορικών κτιρίων</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
+                    
+                    <bibl xml:id="TrentinHadjikyriakos2007"><author><surname>Trentin</surname> <forename>M. G.</forename></author> and <author><surname>Hadjikyriakos</surname> <forename>I.</forename></author>, <date>2007</date>, <title level="a">I graffiti nelle chiese cipriote: primi risultati della ricerca</title>, <title level="j">RDAC</title> 1007, <biblScope unit="page">449-67</biblScope>.</bibl>
                     
                     <bibl xml:id="Triantafyllopoulos2006"><author><surname>Triantafyllopoulos</surname> <forename>D.</forename></author>, <date>2006</date>, <title level="a">Il culto e l’immagine di San Nicola a Cipro</title>, in <title level="m">San Nicola. Splendori d’arte d’Oriente e d’ Occidente</title>, ed. <editor><forename>M. </forename><surname>Bacci</surname></editor>, <pubPlace>Milan</pubPlace>, <biblScope unit="page">117-26</biblScope>.</bibl>
                     
