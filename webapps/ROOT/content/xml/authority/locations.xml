@@ -1034,10 +1034,10 @@
                     <placeName type="district" ref="district.xml#larnaca">Larnaca</placeName>
                     <placeName type="diocese" ref="diocese.xml#kition">Bishopric of Kition</placeName>
                     <location><geo>34.9756699125121, 33.62078772500149</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="0801" notAfter="1000" precision="medium">9th or 10th century</date></desc>
+                    <desc type="function">Monastic(?)</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Originally, a domed pier cross-in-square church; extensively rebuilt in the 15th century; south porch added at an unknown date</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
                     </desc>
@@ -1050,10 +1050,10 @@
                     <idno type="HGC">http://www.cyprusgazetteer.org/146506/176/</idno>
                     <idno type="geonames">https://www.geonames.org/15933/agios-antonios.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Perdiki2014a"/></bibl>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Perdiki2014a"/></bibl>
                     </listBibl>
                 </place>
                 
