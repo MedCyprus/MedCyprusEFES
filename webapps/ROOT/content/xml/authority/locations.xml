@@ -575,6 +575,7 @@
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1955, 13; 1974, 22; 1976, 20;1977, 20</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Velmans1984"/><citedRange>152-53</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>61-63</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1994, 26; 1995, 27</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>55-57, 70, 92-93</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1996"/><citedRange>1339-40</citedRange></bibl>
@@ -697,7 +698,9 @@
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Stylianou1946"/></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1951"/></bibl>
-                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1966, 7; 1968, 8; 1969, 8; 1970, 11; 1971, 9; 1972, 11; 1973, 14; 1974, 15; 1975, 13-14; 1987, 21; 1992, 19</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1966, 7; 1968, 8; 1969, 8; 1970, 11; 1971, 9; 1972, 11; 1973, 14; 1974, 15; 1975, 13-14; 1987, 21</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>68-71</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1992, 19</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>53-75</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 61-62</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Philotheou2000"/><citedRange>110, 112, 114-15, 118, 124</citedRange></bibl>
@@ -706,6 +709,7 @@
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2007, 20-21</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange>317-19</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>14: 19-24</citedRange></bibl> 
+                        <bibl><ptr target="bibliography.xml#SneldersImmerzeel2012-13"/><citedRange>80-81</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#VisCult"/><citedRange>1: 688-96</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Bakirtzis2022"/></bibl>
                     </listBibl>
@@ -787,7 +791,7 @@
                         <!--<bibl><ptr target="bibliography.xml#Hadjichristodoulou2006a"/><citedRange>190-91</citedRange></bibl>-->
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>75-95</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>2: 313-16</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>41-43</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2: 41-43</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -837,10 +841,10 @@
                     <desc type="architectural">Domed pier cross-in-square church, with <!--<rs ref="#monument21">the chapel of Saint John Lampadistes</rs> -->, the so-called chapel of the Akathistos Hymn, and the narthex added subsequently (15th century)</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium">11th century</date> (bema)</desc>
-                        <desc type="layer" n="1">2nd layer: <date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (bema)</desc>
-                        <desc type="layer" n="1">3rd layer: <date notBefore="1251" notAfter="1300" precision="medium">second half of 13th century</date> (dome; naos: central bay, south vault, west crossarm, west wall)</desc>
-                        <desc type="layer" n="1">4th layer: <date notBefore="1401" notAfter="1433" precision="medium">early 15th century</date> (bema; prothesis; diakonikon; naos: north crossarm, north wall, northwestern and southwestern compartments, south wall)</desc>
-                        <desc type="layer" n="1">5th layer: <date notBefore="1451" notAfter="1500" precision="medium">second half of 15th century</date> (narthex)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (bema)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1251" notAfter="1300" precision="medium">second half of 13th century</date> (dome; naos: central bay, south vault, west crossarm, west wall)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1433" precision="medium">early 15th century</date> (bema; prothesis; diakonikon; naos: north crossarm, north wall, northwestern and southwestern compartments, south wall)</desc>
+                        <desc type="layer" n="5">5th layer: <date notBefore="1451" notAfter="1500" precision="medium">second half of 15th century</date> (narthex)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. The murals of the 3rd-5th layers survive in good condition. Conservation/cleaning: 1968-1973, 2001 (DOAC), 2007-2012 (Courtauld Institute of Art)</desc>
                     <desc type="donors">2nd layer: pair of anonymous monks, whose portrait survives in the bema; 5th layer: one Michael, who was an ecclesiastical official, his wife and his two sons, who were priests</desc>
@@ -887,7 +891,7 @@
                     <desc type="architectural">Rock-cut, single-cell church, with three shallow niches carved into the eastern wall</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (east wall, below the three niches)</desc>
-                        <desc type="layer" n="1">2nd layer: <date notBefore="1167" notAfter="1233" precision="medium">late 12th or early 13th century</date> (east wall; south wall: east end; north wall: east end)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1167" notAfter="1233" precision="medium">late 12th or early 13th century</date> (east wall; south wall: east end; north wall: east end)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poor condition. Conservation/cleaning: 1968-1969 (DOAC)</desc>
                     <desc type="donors">On the south wall, a fragmentary incised inscription on the plaster mentions one Leontios, monk and abbot of the monastery; whether or not he was involved in the decoration of the church is unclear (prior to the execution of the 2nd layer of painted decoration)</desc>
@@ -959,7 +963,7 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1233" precision="medium">late 12th century - early 13th century</date> (bema; dome; naos: south central recess, southwestern recess) </desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (naos: west vault)</desc>
-                        <desc type="layer" n="2">3rd layer: <date notBefore="1901" notAfter="1933" precision="medium">early 20th century</date> (naos: north central recess, nothwestern recess)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1901" notAfter="1933" precision="medium">early 20th century</date> (naos: north central recess, nothwestern recess)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary</desc>
                     <desc type="donors">1st layer: one supplicatory inscription in the bema makes reference to the priest Michael (son of?) Pileas, who may have contributed to the decoration of the church; a second fragmentary inscription in the naos that makes reference to the wife(?) of one Sakellares is in all probability a funerary one.</desc>
@@ -973,6 +977,7 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1974, 20; 1975, 18</citedRange></bibl>                        
+                        <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>81-82</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1990"/><citedRange>189-230</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>447-50</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Spanou2002"/><citedRange>31-34</citedRange></bibl>
@@ -998,7 +1003,7 @@
                         <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (naos)</desc>
                     </desc>
                     <desc type="conservation">Poor condition; badly damaged. Conservation/cleaning: 1980, 2005 (DOAC)</desc>
-                    <desc type="donors">1st layer(?): a fragmentary inscription makes reference to a priest and caretaker of the church. Whether he was a donor remains unclear<!-- add refernce to inscription--></desc>
+                    <desc type="donors">1st layer(?): a fragmentary inscription makes reference to a priest and caretaker of the church. Whether he was a donor remains unclear<!-- add link to inscription--></desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Yes 
                         <!--<bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>460/citedRange></bibl>
@@ -1034,26 +1039,43 @@
                     <placeName type="district" ref="district.xml#larnaca">Larnaca</placeName>
                     <placeName type="diocese" ref="diocese.xml#kition">Bishopric of Kition</placeName>
                     <location><geo>34.9756699125121, 33.62078772500149</geo></location>
-                    <desc type="construction"><date notBefore="0801" notAfter="1000" precision="medium">9th or 10th century</date></desc>
+                    <desc type="construction"><date notBefore="0801" notAfter="0900" precision="medium">9th century</date></desc>
                     <desc type="function">Monastic(?)</desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Originally, a domed pier cross-in-square church; extensively rebuilt in the 15th century; south porch added at an unknown date</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="0867" notAfter="0933" precision="medium">late 9th or early 10th century</date> (naos: piers originally supporting the dome)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1001" notAfter="1100" precision="medium">11th century</date> (naos: west wall)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (naos: soffits of arches connecting western piers with west wall)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1151" notAfter="1200" precision="medium">second half of 12th century</date> (naos: piers originally supporting the dome)</desc>
+                        <desc type="layer" n="5">5th layer: <date notBefore="1167" notAfter="1233" precision="medium">late 12th - early 13th century</date> (naos: piers originally supporting the dome, vaults of north and south crossarms)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
+                    <desc type="conservation">Partially preserved. Some of the murals have been detached and are now on display at the <!--<ptr target="locations.xml#KykkosMuseum"/>-->. Conservation/cleaning: 1977, 1980-2000, 2002-2005, 2007-2008 (DOAC) </desc>
+                    <desc type="donors">A number of fragmentary inscriptions survive associated with votive panels of the 4th and 5th layers of painted decoration, see <!-- add links to inscriptions--></desc>
+                    <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Yes
-                        <!--<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>354/citedRange></bibl>--></desc>
+                        <!--<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>354/citedRange></bibl>
+                            <bibl><ptr target="bibliography.xml#Perdiki2014a"/><citedRange>26/citedRange></bibl>--></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0009.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146506/176/</idno>
                     <idno type="geonames">https://www.geonames.org/15933/agios-antonios.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl><ptr target="bibliography.xml#Perdiki2014a"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Perdiki2014a"/><citedRange>19-34</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1977, 17; 1980, 18; 1981, 18; 1982, 20; 1983, 20; 1984, 21; 1985, 23; 1986, 19-20; 1987, 24;1988, 25</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>57-61</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1989, 28; 1990, 29; 1991, 25-26; 1992, 23; 1993, 21; 1994, 21; 1995, 19; 1996, 21; 1997, 21</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>433-37</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1998, 24; 1999, 22</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 8</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2000, 27; 2002, 30-31</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Spanou2002"/><citedRange>23-29, 34, 36, 38-41</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2003, 26; 2004, 34; 2005, 32-3; 2007, 27; 2008, 29</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#SneldersImmerzeel2012-13"/><citedRange>80</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Perdiki2014a"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2:220-24</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 432-45</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -1081,6 +1103,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>57</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
@@ -1229,6 +1252,7 @@
                         <bibl><ptr target="bibliography.xml#Papageorgiou1964"/><citedRange>214-6, 352</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1968, 11</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Winfield1972"/><citedRange>285-91</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>74-76</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MangoHawkinsBoyd1990"/><citedRange>63-94</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>456-63</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>595-9, 632-40</citedRange></bibl>
@@ -1337,11 +1361,13 @@
                         <bibl><ptr target="bibliography.xml#VisCult"/><citedRange> 1, 199-213</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>83-87</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Nicolaïdès1996"/></bibl>
                         <bibl><ptr target="bibliography.xml#Sophocleous1998"/></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2, 86</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Winfield2003"/></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>622-6</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#SneldersImmerzeel2012-13"/><citedRange>83-86</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2018"/></bibl>
                         <bibl><ptr target="bibliography.xml#Touliatos2021"/><citedRange>266-87</citedRange></bibl>     
                  </listBibl>
@@ -1458,7 +1484,8 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>57, 61</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#..."/><citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -1486,7 +1513,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#..."/><citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -1626,6 +1653,7 @@
                         <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>98-9</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Sacopoulo1966"/></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1973"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>76-79</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#HadjichristodoulouMyrianthefs2009"/></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange> 107-8, 111-2</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange> 334, 341-52</citedRange></bibl>
@@ -1652,6 +1680,7 @@
                         <bibl><ptr target="bibliography.xml#NicolaïdèsWinfield2012"/><citedRange>93-112</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Ševčenko2012"/><citedRange>69-90</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#WeylCarrNicolaïdès2012"/></bibl>
+                        <bibl><ptr target="bibliography.xml#SneldersImmerzeel2012-13"/><citedRange>84</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -1809,6 +1838,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>83</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
@@ -1838,6 +1868,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>63-66</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
@@ -1952,6 +1983,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>75</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
@@ -2126,6 +2158,7 @@
                         <bibl><ptr target="bibliography.xml.#MangoHawkins1966"/><citedRange>119-206</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1970, 12</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1976, 21</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>87-90</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Tomeković1993"/><citedRange>151-71</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>71-2</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>351-81</citedRange></bibl>
@@ -2135,6 +2168,7 @@
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange>352-61</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2010b"/><citedRange>917-57</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#KakkouliFischer2010"/><citedRange>437-61</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#SneldersImmerzeel2012-13"/><citedRange>83-86</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml.#Bordne2015"/><citedRange>27-36</citedRange></bibl>
                     </listBibl>
                 </place>
