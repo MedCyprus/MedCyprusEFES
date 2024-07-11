@@ -157,7 +157,7 @@
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 15</citedRange></bibl>                        
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>520, pl. 173</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>406-07, note 374</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>72-75</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 72-75</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>454-55</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>460-64</citedRange></bibl>                    
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>3: 34-35</citedRange></bibl>    
@@ -230,7 +230,7 @@
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>247</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1972, 13</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange> 591-94</citedRange></bibl>                        
-                        <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>65-66</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 65-66</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>34-42</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#WeylCarr2014"/><citedRange>167-85</citedRange></bibl>
                     </listBibl>
@@ -709,6 +709,7 @@
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>516, 590-91, 599</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Triantafyllopoulos2006"/><citedRange>117-26</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2007, 20-21</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 76-78</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange>317-19</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>14: 19-24</citedRange></bibl> 
                         <bibl><ptr target="bibliography.xml#SneldersImmerzeel2012-13"/><citedRange>80-81</citedRange></bibl>
@@ -872,6 +873,7 @@
                         <bibl><ptr target="bibliography.xml#Gkioles2003"/><citedRange>60, 61, 170, 171</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>523-24</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2007, 22-3; 2008, 8</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 79-82</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#WeylCarr2009"/><citedRange>475–99</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>8: 112-16; 10: 357-62</citedRange></bibl><!--Why two different volumes?-->
                         <bibl><ptr target="bibliography.xml#Papageorgiou2012a"/></bibl>
@@ -1041,7 +1043,7 @@
                     <placeName type="district" ref="district.xml#larnaca">Larnaca</placeName>
                     <placeName type="diocese" ref="diocese.xml#kition">Bishopric of Kition</placeName>
                     <location><geo>34.9756699125121, 33.62078772500149</geo></location>
-                    <desc type="construction"><date notBefore="0801" notAfter="0900" precision="medium">9th century</date></desc>
+                    <desc type="construction"><date notBefore="0801" notAfter="1000" precision="medium">9th or 10th century</date></desc>
                     <desc type="function">Monastic(?)</desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Originally, a domed pier cross-in-square church; extensively rebuilt in the 15th century; south porch added at an unknown date</desc>
@@ -1074,6 +1076,7 @@
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2000, 27; 2002, 30-31</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Spanou2002"/><citedRange>23-29, 34, 36, 38-41</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2003, 26; 2004, 34; 2005, 32-3; 2007, 27; 2008, 29</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 83-87</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#SneldersImmerzeel2012-13"/><citedRange>80</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Perdiki2014a"/></bibl>
                         <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2:220-24</citedRange></bibl>
@@ -1106,6 +1109,7 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>57</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 91-95</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
@@ -1400,6 +1404,7 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Foulias2006"/><citedRange>208-13</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 96-98</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
@@ -1429,6 +1434,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 99-100</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
@@ -1739,7 +1745,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>67-71</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 67-71</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
