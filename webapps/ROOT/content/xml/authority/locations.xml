@@ -135,7 +135,7 @@
                     <desc type="construction"><date notBefore="1001" notAfter="1133" precision="medium">11th century or early 12th century, with later additions </date></desc>
                     <desc type="function">Parochial</desc>
                     <desc type="context">Rural</desc>
-                    <desc type="architectural">Domed-hall church; domed-hall narthex subsequently added to the west (12th century)</desc>
+                    <desc type="architectural">Domed pier cross-in-square church; domed-hall narthex subsequently added to the west (12th or 13th century)</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1401" precision="medium">13th-14th century</date> (naos)</desc>
                         <!-- What do we do when we do not know how many layers are actually there or cannot verify it? Is it still 1st layer or just extant layer or something else -->
@@ -157,6 +157,7 @@
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 15</citedRange></bibl>                        
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>520, pl. 173</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>406-07, note 374</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>72-75</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>454-55</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>460-64</citedRange></bibl>                    
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>3: 34-35</citedRange></bibl>    
@@ -229,8 +230,9 @@
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>247</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1972, 13</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange> 591-94</citedRange></bibl>                        
-                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange> 34-42</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#WeylCarr2014"/><citedRange> 167-85</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>65-66</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>34-42</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#WeylCarr2014"/><citedRange>167-85</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -1737,6 +1739,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>67-71</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
