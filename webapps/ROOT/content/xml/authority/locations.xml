@@ -1132,7 +1132,7 @@
                     <placeName type="district" ref="district.xml#larnaca">Larnaca</placeName>
                     <placeName type="diocese" ref="diocese.xml#trimythous">Bishopric of Trimythous</placeName>
                     <location><geo>34.82611384740893, 33.404161505366154</geo></location>
-                    <desc type="construction"><date notBefore="1001" notAfter="1050" precision="medium" source="bibliography.xml#Procopiou2014">Procopiou: first half of 11th century</date>
+                    <desc type="construction"><date notBefore="1001" notAfter="1050" precision="medium" source="bibliography.xml#Procopiou2014">Procopiou: first half of 11th century;</date>
                         <date notBefore="1101" notAfter="1200" precision="medium" source="bibliography.xml#Papacostas1999">Papacostas: 12th century</date>
                     </desc>
                     <desc type="function">Parochial</desc>
@@ -1144,7 +1144,7 @@
                         <desc type="layer" n="3">3rd layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (naos: south central recess)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poor state of preservation. Conservation/cleaning: 1950, 1975, 1999, 2011-2013 (DOAC)</desc>
-                    <desc type="donors">1st layer: a fragmentary inscription above the south door preserves a reference to a male donor <!-- add link to inscription-->; 2nd layer: a fragmentary inscription identifies the male donor of the mural of an archangel in the north central recess of the naos as Sampson(?) (son of?) Plounetas or Plounteas</desc>
+                    <desc type="donors">1st layer: a fragmentary inscription above the south door preserves a reference to a male donor <!-- add link to inscription-->; 2nd layer: a fragmentary inscription identifies the male donor of the mural of an archangel in the north central recess of the naos as Sampson(?) (son) of Plounteas</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0072.html</idno>
@@ -1177,15 +1177,15 @@
                     <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
                     <placeName type="diocese" ref="diocese.xml#karpasia">Bishopric of Karpasia</placeName>
                     <location><geo>35.43116200, 34.13146191</geo></location>
-                    <desc type="construction"><date notBefore="1167" notAfter="1233" precision="medium" source="bibliography.xml#Chotzakoglou2005">Chotzakoglou: late 12th century - early 13th century</date>
-                        <date notBefore="1301" notAfter="1500" precision="medium" source="bibliography.xml#Papageorgiou2010">Papageorgiou: 14th or 15th century</date>
+                    <desc type="construction"><date notBefore="1167" notAfter="1233" precision="medium" source="bibliography.xml#Chotzakoglou2005">Chotzakoglou: late 12th century - early 13th century;</date>
+                        <date notBefore="1301" notAfter="1500" precision="medium" source="bibliography.xml#Papageorgiou2010">Papageorgiou: 14th or 15th century;</date>
                         <date notBefore="1401" notAfter="1600" precision="medium" source="bibliography.xml#Kaffenberger2020">Kaffenberger: 15th or 16th century</date>
                     </desc>
                     <desc type="function">Parochial(?)</desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Single-aisled, barrel-vaulted church</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1233" precision="medium" source="bibliography.xml#Chotzakoglou2005">Chotzakoglou: late 12th century - early 13th century</date>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1233" precision="medium" source="bibliography.xml#Chotzakoglou2005">Chotzakoglou: late 12th century - early 13th century;</date>
                             <date notBefore="1301" notAfter="1500" precision="medium" source="bibliography.xml#Papageorgiou2010">Papageorgiou: 14th or 15th century</date> (bema; naos)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poorly preserved. After 1974, sections of the murals were detached by looters; their current location is unknown. Conservation/cleaning: 1967 (DOAC)</desc>
@@ -1209,29 +1209,35 @@
                 
                 <place xml:id="KomaGialouSolomone" n="31">
                     <placeName xml:lang="en">Koma tou Gialou, Saint Solomone</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Κώμα του Γιαλού, Αγία Σολομονή</placeName>
+                    <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
+                    <placeName type="diocese" ref="diocese.xml#karpasia">Bishopric of Karpasia</placeName>
                     <location><geo>35.434, 34.135</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="0701" notAfter="0900" precision="medium">8th or 9th century</date></desc>
+                    <desc type="function">Pilgrimage(?)</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Single-aisled vaulted chapel</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="0701" notAfter="0800" precision="medium">8th century</date> (bema; naos: north wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="0801" notAfter="0900" precision="medium">9th century</date> (bema; naos: vault, north and south walls)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">https://cyprusgazetteer.org/146450/184/</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="conservation">Fragmentary; poorly preserved. After 1974, sections of the murals were detached by looters and illegally exported abroad. Conservation/cleaning: 1967 (DOAC)</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0103.html</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/146450/184/</idno>
+                    <idno type="geonames">https://www.geonames.org/19506/agia-solomoni.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Foulias2017"/><citedRange>386</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1967, 11</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1970"/><citedRange>38-46</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 72</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>431-33</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>142-49</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Foulias2017"/><citedRange>382, 384-86</citedRange></bibl>
                     </listBibl>
                 </place>
                 
