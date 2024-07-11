@@ -858,7 +858,7 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>287-88</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Soteriou1935"/><citedRange>26-27, fig. 17</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Soeriou1935"/><citedRange>26-27, fig. 17</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>245-48</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1968, 9; 1969, 8</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Myriatheas1969"/></bibl>
@@ -1081,11 +1081,11 @@
                 
                 <place xml:id="Kiti" n="28">
                     <placeName xml:lang="en">Kiti, Panagia Angeloktiste</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Κίτι, Παναγία Αγγελόκτιστη</placeName>
+                    <placeName type="district" ref="district.xml#larnaca">Larnaca</placeName>
+                    <placeName type="diocese" ref="diocese.xml#kition">Bishopric of Kition</placeName>
                     <location><geo>34.847624209783056, 33.57104628466248</geo></location>
-                    <desc type="construction"><date>...</date></desc>
+                    <desc type="construction"><date notBefore="1001" notAfter="1133" >...</date></desc>
                     <desc type="function">...</desc>
                     <desc type="context">...</desc>
                     <desc type="architectural">...</desc>
@@ -1096,9 +1096,9 @@
                     <desc type="donors">...</desc>
                     <desc type="painter">...</desc>
                     <desc type="graffiti">Yes <!--<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>353-54/citedRange></bibl>--></desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0007.html</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/146469/178/</idno>
+                    <idno type="geonames">https://www.geonames.org/4727/panagia-angeloktistos.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
