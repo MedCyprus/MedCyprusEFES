@@ -1090,27 +1090,38 @@
                     <placeName type="district" ref="district.xml#larnaca">Larnaca</placeName>
                     <placeName type="diocese" ref="diocese.xml#kition">Bishopric of Kition</placeName>
                     <location><geo>34.847624209783056, 33.57104628466248</geo></location>
-                    <desc type="construction"><date notBefore="1001" notAfter="1133" >...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1067" notAfter="1200" >Late 11th or 12th century, with later additions: north chapel dedicated to Sts Kosmas and Damian, late 12th or early 13th century; south, "Latin" chapel, late 13th century; western extension, 19th century?</date></desc>
+                    <desc type="function">Parochial(?), funerary</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Domed pier cross-in-square church, incorporating the apse of an Early Byzantine basilica (5th century?) to the east, with the north and south chapels and western extension added subsequently</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300" precision="medium">13th century</date> (bema; naos: eastern and southwestern piers; north chapel)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (north chapel)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1401" notAfter="1600" precision="medium">15th or sixteenth century</date> (north chapel)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
+                    <desc type="conservation">Fragmentary. Condition varies, from well to poorly preserved. Conservation/cleaning: 1965, 1972, 1975, 1979, 1983-1984, 1995 (DOAC)</desc>
+                    <desc type="donors">1st layer: one Leo or Leontios <!-- add links to inscriptions--> associated with the panel of St John the Baptist on the northwestern pier of the naos; 3rd layer: poorly preserved portrait of male(?) donor associated with mural of Sts Kosmas and Damian in the northwester recess of the north chapel. 
+                    </desc>
+                    <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Yes <!--<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>353-54/citedRange></bibl>--></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0007.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146469/178/</idno>
                     <idno type="geonames">https://www.geonames.org/4727/panagia-angeloktistos.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Foulias2004"/><citedRange>28</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1965, 9; 1972, 14; 1975, 18; 1979, 18; 1983, 20; 1984, 21</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>57</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1995, 19</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>49-51</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 6-7</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Spanou2002"/><citedRange>34-37</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Foulias2004"/></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2009, 24</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 91-95</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2010, 33-34</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>14: 375-76</citedRange></bibl>
                     </listBibl>
                 </place>
                 
