@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Christ Pantocrator</title>
+                <title>Christ Pantokrator</title>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#ChristPantokrator">Christ Pantocrator</rs></p>
+                            <p>... <rs type="iconography" ref="iconography.xml#ChristPantokrator">Christ Pantokrator</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
