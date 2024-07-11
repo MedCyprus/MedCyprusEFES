@@ -1100,7 +1100,7 @@
                         <desc type="layer" n="3">3rd layer: <date notBefore="1401" notAfter="1600" precision="medium">15th or sixteenth century</date> (north chapel)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Condition varies, from well to poorly preserved. Conservation/cleaning: 1965, 1972, 1975, 1979, 1983-1984, 1995 (DOAC)</desc>
-                    <desc type="donors">1st layer: one Leo or Leontios <!-- add links to inscriptions--> associated with the panel of St John the Baptist on the northwestern pier of the naos; 3rd layer: poorly preserved portrait of male(?) donor associated with mural of Sts Kosmas and Damian in the northwester recess of the north chapel. 
+                    <desc type="donors">1st layer: one Leo or Leontios <!-- add link to inscription--> associated with the panel of St John the Baptist on the northwestern pier of the naos; 3rd layer: poorly preserved portrait of male(?) donor associated with mural of Sts Kosmas and Damian in the northwester recess of the north chapel. 
                     </desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Yes <!--<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>353-54/citedRange></bibl>--></desc>
@@ -1128,29 +1128,46 @@
                 <place xml:id="Kofinou" n="29">
                     <placeName xml:lang="en">Kofinou, Panagia</placeName>
                     <placeName xml:lang="en">Kophinou, Panagia</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Κοφίνου, Παναγία</placeName>
+                    <placeName type="district" ref="district.xml#larnaca">Larnaca</placeName>
+                    <placeName type="diocese" ref="diocese.xml#trimythous">Bishopric of Trimythous</placeName>
                     <location><geo>34.82611384740893, 33.404161505366154</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
-                    <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                    <desc type="construction"><date notBefore="1001" notAfter="1050" precision="medium" source="bibliography.xml#Procopiou2014">Procopiou: first half of 11th century</date>
+                        <date notBefore="1101" notAfter="1200" precision="medium" source="bibliography.xml#Papacostas1999">Papacostas: 12th century</date>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="function">Parochial</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Domed-hall church with elongated eastern and western bays, built on the remains of an Early Byzantine basilica (7th century?) </desc>
+                    <desc type="mural">
+                        <desc type="layer" n="1">1st layer: <date notBefore="1151" notAfter="1200" precision="medium">second half of 12th century</date> (bema; naos: north and south walls)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1367" notAfter="1400" precision="medium">late 14th century</date> (naos: north and south walls)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (naos: south central recess)</desc>
+                    </desc>
+                    <desc type="conservation">Fragmentary; poor state of preservation. Conservation/cleaning: 1950, 1975, 1999, 2011-2013 (DOAC)</desc>
+                    <desc type="donors">1st layer: a fragmentary inscription above the south door preserves a reference to a male donor <!-- add link to inscription-->; 2nd layer: a fragmentary inscription identifies the male donor of the mural of an archangel in the north central recess of the naos as Sampson(?) (son of?) Plounetas or Plounteas</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0072.html</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/146445/181/</idno>
+                    <idno type="geonames">https://www.geonames.org/4855/panagia.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Gabelić1984"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Perdiki2014b"/><citedRange>250-65</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1975, 18</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gabelić1984"/></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1999, 23</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 52-53</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>650-51</citedRange></bibl> 
+                        <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>369-83</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Ioannou2014"/><citedRange>278-99</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Myriantheus2014"/><citedRange>266-77</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Perdiki2014b"/><citedRange>250-65</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Procopiou2014"/><citedRange>220-39</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ProcopiouDemetriou2014"/><citedRange>240-49</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Procopiou2018"/><citedRange>76-79, 81, 83</citedRange></bibl>
                     </listBibl>
                 </place>
                 
