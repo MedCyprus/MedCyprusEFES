@@ -1282,9 +1282,9 @@
                 <place xml:id="KoutsoventisTrinity" n="33">
                     <placeName xml:lang="en">Koutsoventis, Monastery of St John Chrysostom, Holy Trinity chapel</placeName>
                     <placeName xml:lang="en">Koutsovendes, Monastery of Saint John Chrysostom, Holy Trinity chapel</placeName>
-                    <placeName xml:lang="el">Κουτσοβέντης, Μοναστήρι Αγίου Ιωάννη Χρυσοστόμου, Παρεκκλήσιο Αγίας Τριάδος</placeName>
+                    <placeName xml:lang="el">Κουτσοβέντης, Μονή Αγίου Ιωάννη Χρυσοστόμου, Παρεκκλήσιο Αγίας Τριάδος</placeName>
                     <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
-                    <placeName type="diocese" ref="diocese.xml#jerusalem">Exarchate of the Holy Sepulcher in Cyprus</placeName>
+                    <placeName type="diocese" ref="diocese.xml#jerusalem">Exarchate of the Holy Sepulchre in Cyprus</placeName>
                     <location><geo>35.275, 33.418</geo></location>
                     <desc type="construction"><date notBefore="1095" notAfter="1105" precision="low">ca 1100</date></desc>
                     <desc type="function">Monastic</desc>
@@ -1318,6 +1318,7 @@
                         <bibl><ptr target="bibliography.xml#Kotoula2007"/><citedRange>49-69</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas2007"/><citedRange>25-156</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>142-60</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Metcalf2009"/><citedRange>226-27</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange>319-22</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>169-85</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Parani2018"/><citedRange>1-85</citedRange></bibl>
@@ -1329,60 +1330,75 @@
                 <place xml:id="KoutsoventisPanagia" n="34">
                     <placeName xml:lang="en">Koutsoventis, Monastery of Saint John Chrysostom, Panagia Aphendrika</placeName>
                     <placeName xml:lang="en">Koutsovendes, Monastery of Saint John Chrysostom, Panagia Aphendrika</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Κουτσοβέντης, Μονή Αγίου Ιωάννη Χρυσοστόμου, Παναγία Αφέντρικα  </placeName>
+                    <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#jerusalem">Exarchate of the Holy Sepulchre in Cyprus</placeName>
                     <location><geo>35.272, 33.419</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1167" notAfter="1200" precision="medium">Late 12th century</date></desc>
+                    <desc type="function">Monastic; cemeterial</desc>
+                    <desc type="context">rural</desc>
+                    <desc type="architectural">Domed-hall chapel (today, ruinous), attached to the north side of the <!--<rs ref="#monument35">chapel of the Saviour</rs>--> </desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1233" precision="medium">late 12th or early 13th century</date> (naos: north wall, southwest recess)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
+                    <desc type="conservation">Fragmentary; prior to to 1974, fair condition. After 1974, the monument became inaccessible, so the condition of the murals cannot be evaluated. Conservation/cleaning: 1956 (DAC)</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0012.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/146427/187/</idno>
-                    <idno type="geonames">...</idno>
+                    <idno type="geonames">https://www.geonames.org/20084/christos-panagia-afendrika.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1956, 15</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Tsiknopoullos1959"/><citedRange>109-10, 157</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>467-68</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>598</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas2007"/><citedRange>54-55, 95, 99-102</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>161-65</citedRange></bibl>                        
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>161-68</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Perdikis2006c"/><citedRange>322-25</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
                 
                 <place xml:id="KoutsoventisSaviour" n="35">
                     <placeName xml:lang="en">Koutsoventis, Monastery of Saint John Chrysostom, Saviour</placeName>
                     <placeName xml:lang="en">Koutsovendes, Monastery of Saint John Chrysostom, Saviour</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Κουτσοβέντης, Μονή Αγίου Ιωάννη Χρυσοστόμου, Παρεκκλήσιο του Σωτήρος Χριστού</placeName>
+                    <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#jerusalem">Exarchate of the Holy Sepulchre in Cyprus</placeName>
                     <location><geo>35.273, 33.419</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1133" precision="medium">Early 12th century</date></desc>
+                    <desc type="function">Monastic; cemeterial</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Domed-hall church (today, ruinous), with narthex added subsequently to the west and the <!--<rs ref="#monument34">chapel of Panagia Aphendrika</rs>--> added to the north</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (bema; naos: north wall)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
+                    <desc type="conservation">Fragmentary; prior to to 1974, fair condition. After 1974, the monument became inaccessible, so the condition of the murals cannot be evaluated. Conservation/cleaning: 1930s, 1956 (DAC)</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0100.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/146427/191/</idno>
-                    <idno type="geonames">...</idno>
+                    <idno type="geonames">https://www.geonames.org/20084/christos-panagia-afendrika.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Ševčenko2011"/><citedRange>255-56</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Bardswell1938-1939"/><citedRange>307-08</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1956, 15</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Tsiknopoullos1959"/><citedRange>110-13, 158-61</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>463-467</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>598</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Perdikis2006c"/><citedRange>322-25</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas2007"/><citedRange> 54, 95, 99-102</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>323-27</citedRange></bibl>                        
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>161-68</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Ševčenko2011"/><citedRange>255-56</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Parani2018"/><citedRange>1-2, 63</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -1545,6 +1561,7 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>57, 61</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Metcalf2009"/><citedRange>225-26</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#..."/><citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
@@ -1716,6 +1733,7 @@
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>76-79</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#HadjichristodoulouMyrianthefs2009"/></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange> 107-8, 111-2</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Metcalf2009"/><citedRange>227</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange> 334, 341-52</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kalopissi-Verti2012"/><citedRange>115-208</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MoutafovRhoby2012"/><citedRange> 185</citedRange></bibl>
@@ -1868,6 +1886,7 @@
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/>Papacostas 1999<biblScope unit="2"></biblScope><citedRange>43-4</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2003"/>Papageorgiou 2003, <citedRange>111</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gerasimou2005"/>Gerasimou et. al. 2005</bibl>
+                        <bibl><ptr target="bibliography.xml#Metcalf2009"/><citedRange>227</citedRange></bibl>
                         <bibl><ptr target="bibliography.xmll#Rhoby2009"/>Rhoby 2009, <citedRange>367-369</citedRange></bibl>
                         <bibl><ptr target="bibliography.xmll#Zarras2010"/>Zarras 2010</bibl>
                     </listBibl>
@@ -2177,6 +2196,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Metcalf2009"/><citedRange>226</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
