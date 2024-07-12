@@ -1243,29 +1243,39 @@
                 
                 <place xml:id="Kouklia" n="32">
                     <placeName xml:lang="en">Kouklia, Panagia Katholike</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Κούκλια, Παναγία Καθολική</placeName>
+                    <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
+                    <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.70721488, 32.57503574</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium" source="bibliography.xml#Papageorgiou1996">Papageorgiou: 12th century; </date>
+                        <date notBefore="1201" notAfter="1400" precision="medium" source="bibliography.xml#Kaffenberger2020">Kaffenberger: 13th or 14th century</date></desc>
+                    <desc type="function">Parochial</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Free-cross domed church, with elongated eastern crossarm; western crossarm subsequently replaced with extant structure and south porch subsequently added</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1301" notAfter="1400">14th century</date> (naos)</desc><!-- where does the 13th c. date in the monument record come from? None of the scholars in the bibliography date the surviving frescoes prior to the 14th -->
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1600">15th or 16th century</date> (dome; naos)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="conservation">Fragmentary; good condition. Conservation/cleaning: 1993</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">Not listed</idno>
+                    <idno type="HGC">https://cyprusgazetteer.org/hu/386/</idno>
+                    <idno type="geonames">https://www.geonames.org/11983/panagia-katholiki.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1957, 13; 1958, 15; 1959, 15; 1990, 31;1991, 27; 1993, 27</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>63, 94</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>395-96</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Emmanuel1999"/><citedRange>244-45</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2002, 43; 2004, 48-49; 2005, 42</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>524</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2008, 37</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>8: 37-38</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2: 253-54</citedRange></bibl>
                     </listBibl>
                 </place>
                 
