@@ -32,7 +32,11 @@
                     <placeName xml:lang="en">Bishopric of Constantia and Famagusta</placeName>
                     <placeName xml:lang="el">Ιερά Μητρόπολις Κωνσταντίας και Αμμοχώστου</placeName>
                     <bibl><ref type="website">https://www.imconstantias.org.cy/</ref></bibl></place>
-
+                
+                <place xml:id="jerusalem">
+                    <placeName xml:lang="en">Exarchate of the Holy Sepulcher in Cyprus</placeName>
+                    <placeName xml:lang="el">Εξαρχία Παναγίου Τάφου ἐν Κύπρῳ</placeName>
+                    <bibl><ref type="website">https://exarhiaptcy.com/</ref></bibl></place>
                 
                 <place xml:id="karpasia">
                     <placeName xml:lang="en">Bishopric of Karpasia</placeName>
