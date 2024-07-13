@@ -1539,29 +1539,36 @@
                 
                 <place xml:id="Lysi" n="39">
                     <placeName xml:lang="en">Lysi, Saint Ephemianos or Themonianos</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Λύση, Άγιος Ευφημιανός ή Θεμωνιανός</placeName>
+                    <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
+                    <placeName type="diocese" ref="diocese.xml#archbishopric">Archbishopric of Cyprus</placeName>
                     <location><geo>35.085577, 33.664674</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1167" notAfter="1233" precision="medium">Late 12th - Early 13th century</date></desc>
+                    <desc type="function">Monastic</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Domed-hall church</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1233" precision="medium">early 13th century</date> (bema; dome)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="conservation">Fragmentary; very good state of preservation. Sometime between 1974 and 1983 the murals were detached by looters to be sold abroad. In 1984 they were obtained by the Menil Foundation on behalf of the Church of Cyprus and were put on display at the Menil Collection, Houston TX. In 2012 the murals were repatriated and are now on housed in the <!--<rs ref="#rep1">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</rs> -->. Conservation/cleaning: 1972 (DAC), 1984-1988 (Menil Foundation)</desc>
+                    <desc type="donors">The hieromonk and abbot Laurentios <!-- Add link to inscription --></desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">Not listed</idno>
+                    <idno type="HGC">Not listed</idno>
+                    <idno type="geonames">https://www.geonames.org/16015/agios-effimianos.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#WeylCarrMorrocco1991"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange>114</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1972, 13</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#WeylCarrMorrocco1991"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>492-95</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gkioles2003"/><citedRange>170</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange>168-69</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>55-64</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>235-40</citedRange></bibl>
                     </listBibl>
                 </place>
                 
