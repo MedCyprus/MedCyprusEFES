@@ -38,6 +38,8 @@
                 <listBibl xml:id="monuments">
                     <head>The Monuments</head>
                     
+                    <bibl xml:id="Agapitos2018"><author><surname>Agapitos</surname> <forename>P.</forename></author>, <date>2018</date>, <title level="a">The Word as Animated Image: Inscribed Texts in the Frescoes of the Church of the Virgin Mary at Lagouderá, Cyprus (AD 1192)</title>, in <title level="m">The Church of Panagia tou Arakos</title>, ed. <editor><forename>A.</forename> <surname>Papageorgiou</surname></editor>, <editor><forename>Ch.</forename> <surname>Bakirtzis</surname></editor>, and <editor><forename>Ch.</forename> <surname>Hadjichristodoulou</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">89-96</biblScope>.</bibl>
+                    
                     <bibl xml:id="Argyrou2006"><author><surname>Argyrou</surname> <forename>Ch.</forename></author>, <date>2006</date>, <title level="a">Κερύνεια, Ναός Αγίας Μαύρης και Χρυσοκάβα</title>, in <title level="m">Οδοιπορικό στα χριστιανικά μνημεία της Μητροπολιτικής Περιφέρειας Κυρηνείας</title>, ed. <editor><forename>Ch.</forename><surname>Hadjichristodoulou</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">286-88</biblScope>.</bibl> 
                     
                     <bibl xml:id="Bakirtzis2022"><author><surname>Bakirtzis</surname><forename> Ch.</forename></author>, <date>2022</date>, <title level="a">Ἀσύμμετρο ἢ σύμμετρο; Ὁ Ἅγιος Νικόλαος τῆς Στέγης στὴν Κακοπετρία</title>, in <title level="m">Πρακτικά συνεδρίου στη μνήμη  του Άγγελου Δεληβορριά</title>, ed. <editor><forename>S. </forename><surname>Vlizos</surname></editor>, <pubPlace>Athens</pubPlace>,<biblScope unit="page"> 171-81</biblScope>.</bibl>
@@ -268,6 +270,8 @@
                     <bibl xml:id="Ševčenko2012"><author><surname>Ševčenko</surname> <forename>N.</forename></author>, <date>2012</date>, <title level="a">The Metrical Inscriptions in the Murals of the Panagia Phorbiotissa</title>, in <title level="m">Asinou Across Time. Studies in the Architecture and Murals of the Panagia Phorbiotissa, Cyprus</title>, ed.<editor> <forename>A.</forename> <surname>Weyl Carr</surname></editor> and <editor><forename>A.</forename> <surname>Nicolaïdès</surname></editor>, <pubPlace>Washington, DC</pubPlace>, <biblScope unit="page">69-90</biblScope>.</bibl>
                     
                     <bibl xml:id="SneldersImmerzeel2012-13"><author><surname>Snelders</surname> <forename>B.</forename></author> and <author><surname>Immerzeel</surname> <forename>M.</forename></author>, <date>2012-2013</date>, <title level="a">From Cyprus to Syria and Back Again: Artistic Interaction in the Medieval Levant</title>, <title level="j">Eastern Christian Art</title> <biblScope unit="volume">9</biblScope>, <biblScope unit="page">79-106</biblScope>.</bibl>
+                    
+                    <bibl xml:id="Sodini1970"><author><surname>Sodini</surname> <forename>J.-P.</forename></author>, <date>1970</date>, <title level="m">Notes sur quelques inscriptions de Chypre</title>, <title level="j">Travaux et Mémoires</title> <biblScope unit="volume">4</biblScope>, <biblScope unit="page">477-86</biblScope>.</bibl>
                     
                     <bibl xml:id="Sophocleous1998"><author><surname>Sophocleous</surname> <forename>S.</forename></author>, <date>1998</date>, <title level="m">Panagia Arakiotissa, Lagoudera, Cyprus</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
                     

@@ -1403,44 +1403,53 @@
                 </place>
                 
                 <place xml:id="Lagoudera" n="36">
-                    <placeName xml:lang="en">Lagoudera, Panagia tou Araka or Arakiotissa</placeName>
-                    <placeName xml:lang="el">Λαγουδερά, Παναγία τοῦ Ἄρακος ή Ἀρακιώτισσα</placeName>
-                    <placeName type="district" ref="district.xml#Nicosia">Nicosia</placeName>
+                    <placeName xml:lang="en">Lagoudera, Panagia tou Araka</placeName>
+                    <placeName xml:lang="en">Lagoudera, Panagia Arakiotissa</placeName>
+                    <placeName xml:lang="el">Λαγουδερά, Παναγία τοῦ Ἄρακος</placeName>
+                    <placeName xml:lang="el">Λαγουδερά, Παναγία Ἀρακιώτισσα</placeName>
+                    <placeName type="district" ref="district.xml#nicosia">Nicosia</placeName>
                     <placeName type="diocese" ref="diocese.xml#morphou">Bishopric of Morphou</placeName>
                     <location><geo>34.965463638006405, 33.00726538918126</geo></location>
-                    <desc type="construction"><date notBefore="1151" notAfter="1200" precision="medium">Second half 12th century</date></desc>
-                    <desc type="function">Estate; monastic</desc>
+                    <desc type="construction"><date notBefore="1151" notAfter="1192" precision="medium">Second half of 12th century (AD 1192 terminus ante quem)</date></desc>
+                    <desc type="function">Private chapel; monastic(?)</desc>
                     <desc type="context">Rural</desc>
-                    <desc type="architectural">Domed-hall structure, with an early 12th-13th c. narthex covered both with a large timber roof</desc>
+                    <desc type="architectural">Domed-hall church, with an apsidal narthex added subsequently to the west (ca 1200); the narthex was replaced by the one extant today in the late 18th century</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1170" notAfter="1178" precision="medium" >1170s </date> (bema apse)</desc>
-                        <desc type="layer" n="2">2nd layer: <date when="1192" precision="high" >1178</date> (bema, dome, nave)</desc>
-                        <desc type="layer" n="3">3rd layer: <date when="1132" precision="medium" >1132/3</date> (narthex: external wall-door lunette)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1601" notAfter="1650" precision="medium" >First half 17th century</date> (external north wall)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1170" notAfter="1178" precision="medium" >1170s </date> (bema: apse)</desc>
+                        <desc type="layer" n="2">2nd layer: <date when="1192" precision="high" >1192</date> (bema; dome; naos)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1330" notAfter="1340" precision="low">ca 1332/3</date> (narthex: east wall; exterior of north wall: lunette above north door)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1601" notAfter="1650" precision="medium" >first half of 17th century</date> (exterior of north wall)</desc>
                     </desc>
-                    <desc type="conservation">1968-1973 (Dumbarton Oaks Institute), 1977</desc>
-                    <desc type="donors">Leo Authentes</desc>
+                    <desc type="conservation">1968-1973 (Dumbarton Oaks), 1977 (DAC)</desc>
+                    <desc type="donors">2nd layer: Leo Authentes <!-- add link to inscription --></desc>
                     <desc type="painter">
-                        <desc type="layer"></desc>1st layer: Theodore Apseudes (?) or "Painter of Apseudes"
-                        <desc type="layer"></desc>2nd layer: "Painter of Leo"
+                        <desc type="layer"></desc>2nd layer: A fragmentary inscription mentioning a monk, whose name has been reconstructed as Theodore, has been interpreted as refering to the painter, which some scholars identify with Theodore Apseudes <!-- add link to inscription -->
                         <desc type="layer"></desc>3rd  layer: Leontios the Deacon</desc>
                     <desc type="graffiti">https://historic-graffiti.cyi.ac.cy/place/9/</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0015.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146407/192/</idno>
                     <idno type="geonames">https://www.geonames.org/12314/panagia-tou-araka.html</idno>
                     <listBibl type="inscriptions">
+                        <bibl><ptr target="bibliography.xml#Sodini1970"/><citedRange>486</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Nicolaïdès1996"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Sophocleous1998"/><citedRange>10-11</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Winfield2003"/></bibl>
-                        <bibl><ptr target="bibliography.xml#Konstantinidi2018"/><citedRange> 49-88</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#VisCult"/><citedRange> 1, 199-213</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange>322-41</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Agapitos2018"/><citedRange>89-96</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Konstantinidi2018"/><citedRange>49-88</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#VisCult"/><citedRange> 1: 199-213</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1955, 10; 1956, 12; 1957, 10; 1968, ; 1977, 14</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>83-87</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1991, 19</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Nicolaïdès1996"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>157-85</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Sophocleous1998"/></bibl>
-                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2, 86</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 86</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Winfield2003"/></bibl>
-                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>622-6</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>622-26</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>247-60</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#SneldersImmerzeel2012-13"/><citedRange>83-86</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2018"/></bibl>
                         <bibl><ptr target="bibliography.xml#Touliatos2021"/><citedRange>266-87</citedRange></bibl>     
