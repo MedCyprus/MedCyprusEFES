@@ -1420,7 +1420,7 @@
                         <desc type="layer" n="3">3rd layer: <date notBefore="1330" notAfter="1340" precision="low">ca 1332/3</date> (narthex: east wall; exterior of north wall: lunette above north door)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1601" notAfter="1650" precision="medium" >first half of 17th century</date> (exterior of north wall)</desc>
                     </desc>
-                    <desc type="conservation">1968-1973 (Dumbarton Oaks), 1977 (DAC)</desc>
+                    <desc type="conservation">Excellent. Conservation/cleaning: 1968-1973 (Dumbarton Oaks), 1977 (DAC)</desc>
                     <desc type="donors">2nd layer: Leo Authentes <!-- add link to inscription --></desc>
                     <desc type="painter">
                         <desc type="layer"></desc>2nd layer: A fragmentary inscription mentioning a monk, whose name has been reconstructed as Theodore, has been interpreted as refering to the painter, which some scholars identify with Theodore Apseudes <!-- add link to inscription -->
@@ -1496,30 +1496,44 @@
                 <place xml:id="Letymvou" n="38">
                     <placeName xml:lang="en">Letymvou, Saints Kyrikos and Julitta</placeName>
                     <placeName xml:lang="en">Letympou, Saints Kyrikos and Julitta</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Λετύμβου, Άγιοι Κήρυκος και Ιουλίττη</placeName>
+                    <placeName xml:lang="el">Λετύμπου, Άγιοι Κήρυκος και Ιουλίττη</placeName>
+                    <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
+                    <placeName type="diocese" ref="diocese.xml#paphos">Paphos</placeName>
                     <location><geo>34.85538148351664, 32.517262317783405</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium">12th century; extensively rebuilt in the 14th century</date></desc>
+                    <desc type="function">Parochial(?); pilgrimage(?)</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Domed pier cross-in-square church</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300">13th century</date> (bema: apse wall; naos: southwestern pier, soffits of arches connecting western piers to the west wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500">15th century</date> (bema; naos)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="conservation">Fragmentary; fair condition. Conservation/cleaning: 1955-1956, 1984-1985, 1987-1990, 1999 (DAC)</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0071.html</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/146385/201/</idno>
+                    <idno type="geonames">https://www.geonames.org/16941/agios-kirykos-kai-agia-ioulitti.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2008"/></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1955, 13; 1956, 15; 1984, 24; 1985, 26-27; 1987, 28; 1988, 27; 1989, 32-33; 1990, 32</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#WeylCarr1991"/><citedRange>348-49</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Sophocleous1993"/><citedRange>332</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1996, 26</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>64, 91-93</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1996"/><citedRange>1231-32</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>414-18</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1999, 32</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 52</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>516</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2008"/></bibl>
                         <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 99-100</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>11: 260-62</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 124-35</citedRange></bibl>                      
                     </listBibl>
                 </place>
                 
