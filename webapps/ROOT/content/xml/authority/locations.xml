@@ -1575,31 +1575,45 @@
                 <place xml:id="Lythragkomi" n="40">
                     <placeName xml:lang="en">Lythragkomi, Panagia Kanakaria</placeName>
                     <placeName xml:lang="en">Lythrankomi, Panagia Kanakaria</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Λυθράγκωμη, Παναγία Κανακαριά</placeName>
+                    <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
+                    <placeName type="diocese" ref="diocese.xml#Karpasia">Bishopric of Karpasia</placeName>
                     <location><geo>35.47840280214003, 34.165321044361214</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="0651" notAfter="0800" precision="medium">After the middle of the 7th century, with subsequent building phases in the 9th, 12th, and 13th/14th centuries</date></desc>
+                    <desc type="function">Parochial(?)</desc>
+                    <desc type="context">Rural</desc>
+                    <desc type="architectural">Pier, vaulted, three-aisled basilica, incorporating the central apse of an Early Byzantine column basilica, with a dome over the central nave and a drumless dome above the bema, a narthex to the west with a dome over its central bay, and a porch to the south. Form, the result of successive, difficult-to-date building phases.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="0701" notAfter="0800" precision="medium">8th century</date> (nave)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="0851" notAfter="0950" precision="medium">second half of 9th century - first half of 10th century</date> (bema; nave)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (bema; nave)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1490" notAfter="1510" precision="low">ca 1500</date> (bema; dome; nave; aisles; south porch)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="conservation">Fragmentary; poorly preserved. Conservation/cleaning: 1950 (DAC)</desc>
+                    <desc type="donors">2nd layer: a fragmentary painted inscription on the southwest pier makes mention of one deacon John, the archbishop of Cyprus Theodore (otherwise unknown), the patriarch(?) Solomon of Jerusalem (ca 860-865)Solomon of Jerusalem, and one Eustathius(?); the nature of their involvement with the church is unclear.
+                        <!--4th layer: portrait of a man and a woman on the lunette above the south door, accompanied by an inscription-->                    
+                    </desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Yes <!--<bibl><ptr target="bibliography.xml#MegawHawkins1977"/><citedRange>19, 152-53, 158</citedRange></bibl> --></desc>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0070.html</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/146359/203/</idno>
+                    <idno type="geonames">https://www.geonames.org/19492/panagia-kanakaria.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#MegawHawkins1977"/></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1950, 12</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MegawHawkins1977"/></bibl>
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>57, 61</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>43-48</citedRange></bibl>                       
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 50-51</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>516</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stewart2008"/><citedRange>49-50</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Metcalf2009"/><citedRange>225-26</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#..."/><citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>428-31</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>241-58</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Foulias2017"/><citedRange>369-92</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2: 291-93</citedRange></bibl>                        
                     </listBibl>
                 </place>
                 
