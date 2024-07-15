@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>n/a</p>
+                            <p>... <rs type="iconography" ref="iconography.xml#George">George</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -51,7 +51,7 @@
                         </origin>
                         <provenance when="2022">
                         </provenance>    
-                        <provenance type="observed">Currently, inaccessible</provenance>
+                        <provenance type="observed">currently, inaccessible</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -62,7 +62,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publications</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
