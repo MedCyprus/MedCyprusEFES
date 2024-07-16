@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Barbara</title>
+                <title>Donor inscription</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -28,12 +28,12 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#nave">Nave, soffit of arch connecting western pier to the west wall, east half</rs>
+                                    <rs type="placement-building" ref="#aisle">South aisle, soffit of arch connecting western pier to the west wall, west face</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On the west face of the western pier </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -41,13 +41,13 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Barbara">Barbara</rs></p>
+                            <p>...</p>
                         </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Lythragkomi">Lythragkomi, Panagia Kanakaria</origPlace>
-                            <origDate notBefore="1101" notAfter="1200" precision="medium">12th century</origDate>
+                            <origDate notBefore="0851" notAfter="0950" precision="medium">Second half of 9th century - first half of 10th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
@@ -59,7 +59,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                    <term type="textType" ref="text_types.xml#doc1">Donor inscription</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publication</creation>
@@ -79,7 +79,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Saint Barbara</p>
+                <p>PENDING</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
