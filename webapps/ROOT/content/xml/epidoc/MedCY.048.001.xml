@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dedicatory Inscription</title>
+                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="mgp">Maria Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.048.001</idno>
+                <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Painted Inscription. Bema, apse <material/>
+                                    and <objectType/> information, <dimensions/>n/a</support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>above the window of the bema apse</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Black letters against white background <height>n/a</height>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Pelendri">Pelendri, church of the Holy Cross</origPlace>
+                            <origDate when="1178" evidence="internal">1178</origDate>
+                        </origin>                     
+                        <provenance type="observed">
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#...">...</term>
+                </keywords>
+            </textClass>
+            <creation>...</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="..."/>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    <lb n="1"/><g ref="#cross">+</g> <expan><abbr>Ἀνακ</abbr><ex>αι</ex>νί<ex>σ</ex>θη</expan> <expan><abbr rend="supraline">κ</abbr><ex>αὶ</ex></expan> ζ<choice><orig>o</orig><reg>ω</reg></choice>γραφήθη <choice><orig></orig><reg>ὁ</reg></choice>[π]ά̣ν<choice><orig>τ</orig><reg>δ</reg></choice>ημος ναός τοῦ τ<choice><orig>η</orig><reg>ι</reg></choice>μ<choice><orig>ή</orig><reg>ί</reg></choice><hi rend="ligature">ου</hi> <expan><abbr rend="supraline">κ</abbr><ex>αὶ</ex></expan> προσκη
+                    <lb n="2" break="no"/><hi rend="ligature">νη</hi>τ<hi rend="ligature">οῦ</hi> <expan><abbr rend="supraline"><hi rend="ligature">στ</hi></abbr><ex>αυροῦ</ex></expan> δ<choice><orig>ï</orig><reg>ι</reg></choice>ὰ σ<choice><orig>υ</orig><reg>η</reg></choice><orig></orig><reg>ν</reg>δρομὴς <expan><abbr rend="supraline">κ</abbr><ex>αὶ</ex></expan> πόθου <persName type="attested" role="priest" ref="#Georgios"><name type="forename" nymRef="#Γεώργιος">Γε<hi rend="ligature">ωρ</hi><unclear>γ</unclear>ί<hi rend="ligature">ου</hi></name></persName> <choice><orig>η</orig><reg>ἱ</reg></choice>ερέος κ<choice><orig>ε<reg>αὶ</reg></orig></choice> <expan><abbr rend="supraline">τ</abbr><ex>ῶν</ex></expan>δ<choice><orig>ε</orig><reg>ὲ</reg></choice> λ<choice><orig>η</orig><reg>οι</reg></choice>π<choice><orig>ὸ</orig><reg>ῶ</reg></choice>ν
+                    <lb n="3"/><choice><orig>η</orig><reg>ἱ</reg></choice>ερέ<choice><orig>ο</orig><reg>ω</reg></choice>ν˙κ<choice><orig>ε</orig><reg>αὶ</reg></choice> ὑπε̣ρ̣ χ<choice><orig>ο</orig><reg>ω</reg></choice><hi rend="ligature">ρ<choice><orig>ή</orig><reg>ί</reg></choice></hi>ου <placeName ref="mentioned_places.xml#Pelendri">Πελέ<hi rend="ligature"><choice><orig>τ</orig><reg>νδ</reg></choice>ρ</hi><choice><orig>η</orig><reg>ι</reg></choice>ο<choice><orig></orig><reg>ί</reg></choice><choice><orig>ν</orig><reg></reg></choice></placeName>˙ἐζ<choice><orig>ο</orig><reg>ω</reg></choice>γραφ̣ήθη δε δ<supplied reason="lost">ι</supplied>'
+                    <lb n="4"/><choice><orig>ε</orig><reg>ἐ</reg></choice>μ<hi rend="ligature">οῦ</hi> χ<choice><orig>η</orig><reg>ει</reg></choice>ρὸς <supplied reason="lost">ἀμαρ</supplied><hi rend="ligature">τ<choice><orig>ο</orig><reg>ω</reg></choice></hi>λ<hi rend="ligature">οῦ</hi> κ<choice><orig>ε</orig><reg>αὶ</reg></choice> τ̣απ<choice><orig>η</orig><reg>ει</reg></choice>ν<hi rend="ligature">οῦ</hi> <supplied reason="lost">δούλ</supplied>ου τ<hi rend="ligature">οῦ</hi> μονμάχ
+                    <lb n="5" break="no"/><hi rend="ligature">ου</hi>˙εὔχε<hi rend="ligature">στ</hi>ε α<supplied reason="lost">ὐτ<hi rend="ligature">οὺ</hi>ς</supplied> διὰ <expan><abbr rend="supraline">τ</abbr><ex>ὸν</ex></expan> <expan><abbr rend="supraline">κ</abbr><ex>ύριο</ex>ν </expan>ὁ <expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex>ς</expan> σ<choice><orig>η</orig><reg>υγ</reg></choice>χ<supplied reason="lost">ωρήσ</supplied>η αὐτοὺς ἀ<hi rend="ligature">μὴ</hi><supplied reason="omitted">ν</supplied>
+                    <lb n="6"/>: <hi rend="ligature">ἔτ</hi>ε̣<supplied reason="lost">ι</supplied> ̧στχπ<supplied reason="lost">στ</supplied> (1178)
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>external apparatus criticus (if applicable)</p>
+            </div>
+            <div type="translation">
+                <p>translation(s)</p>
+            </div>
+            <div type="commentary">
+                <p>commentary</p>
+            </div>
+            <div type="bibliography">
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
