@@ -12,7 +12,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.050.001</idno>
+                <idno type="filename">MedCY.049.001</idno>
                 <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence></availability>
             </publicationStmt>
             <sourceDesc>
@@ -41,7 +41,7 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#PeraChorio">church of Holy Apostles, Pera Chorio</origPlace>
+                            <origPlace ref="locations.xml#PeraChorio">Pera Chorio, Holy Apostles</origPlace>
                             <origDate precision="high">1060-1080</origDate>
                         </origin>
                         <provenance when="2022">
