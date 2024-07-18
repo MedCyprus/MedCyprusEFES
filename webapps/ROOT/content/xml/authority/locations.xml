@@ -2305,6 +2305,34 @@
                     </listBibl>
                 </place>
                 
+                <place xml:id="TalaRefectory" n="60">
+                    <placeName xml:lang="en">Tala, Hermitage of Saint Neophytos</placeName>
+                    <placeName xml:lang="el">Τάλα, Ἐγκλείστρα Αγίου Νεοφύτου</placeName>
+                    <placeName type="district" ref="district.xml#Paphos">Paphos</placeName>
+                    <placeName type="diocese" ref="diocese.xml#Paphos">Bishopric of Paphos</placeName>
+                    <location><geo>34.84692924848204, 32.44507332518793</geo></location>
+                    <desc type="construction"><date>...</date></desc>
+                    <desc type="function">...</desc>
+                    <desc type="context">...</desc>
+                    <desc type="architectural">...</desc>
+                    <desc type="mural">
+                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                    </desc>
+                    <desc type="conservation">...</desc>
+                    <desc type="donors">...</desc>
+                    <desc type="painter">...</desc>
+                    <desc type="graffiti">...</desc>
+                    <idno type="IBCC">...</idno>
+                    <idno type="HGC">...</idno>
+                    <idno type="geonames">...</idno>
+                    <listBibl type="inscriptions">
+                        <bibl ana="unpublished"/>
+                    </listBibl>
+                    <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                    </listBibl>
+                </place>
+                
                 <place xml:id="Tera" n="61">
                     <placeName xml:lang="en">Tera, Saint George</placeName>
                     <placeName xml:lang="el">...</placeName>
