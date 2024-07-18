@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#Naos">Naos, southeast pier, north side <!-- Εδώ θα βάλουμε την αρχική θέση της τοιχογραφίας πριν αποτοιχιστεί από βορειοανατολικό πεσσό και μεταφερθεί στον νοτιοδυτικό πεσσό; Βέβαια σήμερα δεν υπάρχει τίποτα από την τοιχογραφία--></rs>
+                                    <rs type="placement-building" ref="#naos">Naos, southeast pier, north side <!-- Εδώ θα βάλουμε την αρχική θέση της τοιχογραφίας πριν αποτοιχιστεί από βορειοανατολικό πεσσό και μεταφερθεί στον νοτιοδυτικό πεσσό; Βέβαια σήμερα δεν υπάρχει τίποτα από την τοιχογραφία--></rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
