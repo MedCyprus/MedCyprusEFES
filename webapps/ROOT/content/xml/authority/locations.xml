@@ -710,6 +710,7 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>286</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>242</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1946"/></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1951"/></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1966, 7; 1968, 8; 1969, 8; 1970, 11; 1971, 9; 1972, 11; 1973, 14; 1974, 15; 1975, 13-14; 1987, 21</citedRange></bibl>
@@ -756,6 +757,7 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>285</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>243</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1971, 9; 1972, 11</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1975"/><citedRange>384, 410-16</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>107-09</citedRange></bibl>
@@ -839,6 +841,7 @@
                     </listBibl>
                     <listBibl type="monument"> <!-- Needs to be checked and completed -->
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>287-88</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>245-47</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2012a"/><citedRange>20, 36-37<!-- This pages are from the Greek edition; we need the English edition pages --></citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>1: 131, 132</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Perdiki2023"/><citedRange>41, 46-53</citedRange></bibl>
@@ -875,8 +878,8 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>287-88</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Soeriou1935"/><citedRange>26-27, fig. 17</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>245-48</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Soteriou1935"/><citedRange>26-27, fig. 17</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>245-47</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1968, 9; 1969, 8</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Myriatheas1969"/></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1970, 9; 1971, 9; 1973, 14</citedRange></bibl>
@@ -995,6 +998,7 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>348</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>322</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1974, 20; 1975, 18</citedRange></bibl>                        
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>81-82</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1990"/><citedRange>189-230</citedRange></bibl>
@@ -1037,6 +1041,7 @@
                         <bibl><ptr target="bibliography.xml#FouliasHadjichristodoulou2022"/><citedRange>158-66</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>144-45</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#HatfieldYoung1978"/></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1980, 19-20</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>73-74</citedRange></bibl>
