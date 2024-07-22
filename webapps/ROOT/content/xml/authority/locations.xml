@@ -47,6 +47,7 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>387</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>152</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1970, 12; 1985, 25; 1986, 24; 1995, 25-26</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>63, 74, 91, 94</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>407-8</citedRange></bibl>
@@ -85,6 +86,7 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>206</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>205</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1990, 20; 1991, 17-18; 1993, 17-18</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1999"/><citedRange>47-52</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2005, 20; 2006, 21</citedRange></bibl>
@@ -268,6 +270,7 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1953, 12;1954, 13; 1955, 13; 1984, 23-24; 1996, 27-28; 1997, 27 </citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>268</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>63, 92</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1996"/><citedRange>1232</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gkioles2003"/><citedRange>145</citedRange></bibl>
@@ -493,6 +496,7 @@
                         <bibl><ptr target="bibliography.xml#Hadjichristodoulou2006"/><citedRange>286-88</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>128</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1969, 11</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>451-55</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>587-89</citedRange></bibl>
@@ -580,6 +584,7 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>398</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>466-67</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1955, 13; 1974, 22; 1976, 20;1977, 20</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Velmans1984"/><citedRange>152-53</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>61-63</citedRange></bibl>
