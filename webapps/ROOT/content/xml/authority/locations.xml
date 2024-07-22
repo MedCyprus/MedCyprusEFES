@@ -579,6 +579,7 @@
                         <bibl><ptr target="bibliography.xml#FouliasHadjichristodoulou2019"/><citedRange>61-85</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>398</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1955, 13; 1974, 22; 1976, 20;1977, 20</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Velmans1984"/><citedRange>152-53</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>61-63</citedRange></bibl>
@@ -1280,6 +1281,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>397</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1957, 13; 1958, 15; 1959, 15; 1990, 31;1991, 27; 1993, 27</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>63, 94</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>395-96</citedRange></bibl>
@@ -1319,6 +1321,7 @@
                         <bibl><ptr target="bibliography.xml#VisCult"/><citedRange> 2: 1359-63</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>272-74</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1963, 11</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1964"/><citedRange>214-16, 352</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1968, 11</citedRange></bibl>
@@ -1365,6 +1368,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>273, 322</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1956, 15</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Tsiknopoullos1959"/><citedRange>109-10, 157</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>467-68</citedRange></bibl>
@@ -1401,6 +1405,7 @@
                         <bibl><ptr target="bibliography.xml#Ševčenko2011"/><citedRange>255-56</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>273</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Bardswell1938-1939"/><citedRange>307-08</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1956, 15</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Tsiknopoullos1959"/><citedRange>110-13, 158-61</citedRange></bibl>
@@ -1453,6 +1458,7 @@
                         <bibl><ptr target="bibliography.xml#VisCult"/><citedRange> 1: 199-213</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>306</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1955, 10; 1956, 12; 1957, 10; 1968, ; 1977, 14</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>83-87</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1991, 19</citedRange></bibl>
@@ -1533,6 +1539,7 @@
                         <bibl><ptr target="bibliography.xml#Papageorgiou2008"/></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>413</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1955, 13; 1956, 15; 1984, 24; 1985, 26-27; 1987, 28; 1988, 27; 1989, 32-33; 1990, 32</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#WeylCarr1991"/><citedRange>348-49</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Sophocleous1993"/><citedRange>332</citedRange></bibl>
@@ -1615,6 +1622,7 @@
                         <bibl><ptr target="bibliography.xml#MegawHawkins1977"/></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>261-63</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1950, 12</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MegawHawkins1977"/></bibl>
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>57, 61</citedRange></bibl>
