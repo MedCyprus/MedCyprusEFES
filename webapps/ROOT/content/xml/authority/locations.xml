@@ -1210,6 +1210,7 @@
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>439-42</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>250-51</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>280-81</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>650-52</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>439-42</citedRange></bibl>
@@ -1243,6 +1244,7 @@
                         <bibl><ptr target="bibliography.xml#Foulias2017"/><citedRange>386</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>250-51</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1967, 11</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1970"/><citedRange>38-46</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 72</citedRange></bibl>
