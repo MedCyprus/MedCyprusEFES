@@ -2025,6 +2025,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>283</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>63-66</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
@@ -2111,7 +2112,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>275-76</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -2216,7 +2217,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>409-10</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -2244,7 +2245,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>298</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -2273,6 +2274,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>241</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Metcalf2009"/><citedRange>226</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
@@ -2310,6 +2312,7 @@
                         <bibl><author>Carr</author> in <ptr target="#VisCult"/><citedRange> 1, 255-64</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>407-09</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>99-101</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1963, 10</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1964, 8</citedRange></bibl>
@@ -2318,10 +2321,10 @@
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1976, 21</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>87-90</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Tomeković1993"/><citedRange>151-71</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>71-2</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>71-72</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>351-81</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2, 91-2</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papageorgiou1999"/><citedRange>60-9</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2, 91-92</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1999"/><citedRange>60-69</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/>533-4, 611-22, 649-50</bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange>352-61</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2010b"/><citedRange>917-57</citedRange></bibl>
@@ -2411,7 +2414,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>243</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -2440,7 +2443,7 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>197</citedRange></bibl>
                     </listBibl>
                 </place>
                 
