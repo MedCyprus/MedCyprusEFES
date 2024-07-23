@@ -76,7 +76,7 @@
                     <desc type="conservation">Fragmentary; condition poor. Conservation/cleaning: 1990-1991, 1993, 2002, 2005-2006 (DAC) </desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">Yes <!--<bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458/citedRange></bibl>--></desc>
+                    <desc type="graffiti">Yes <bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458</citedRange></bibl></desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">Not listed</idno>
                     <idno type="geonames">http://www.geonames.org/20648/agios-sozomenos.html</idno>
