@@ -141,8 +141,7 @@
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Domed pier cross-in-square church; domed-hall narthex subsequently added to the west (12th or 13th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1401" precision="medium">13th-14th century</date> (naos)</desc>
-                        <!-- What do we do when we do not know how many layers are actually there or cannot verify it? Is it still 1st layer or just extant layer or something else -->
+                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1401" precision="medium">13th-14th century</date> (naos)</desc>                        
                     </desc>
                     <desc type="conservation">Very fragmentary; badly preserved</desc>
                     <desc type="donors">Unknown</desc>
@@ -856,7 +855,7 @@
                     <placeName type="diocese" ref="diocese.xml#morphou">Bishopric of Morphou</placeName>
                     <location><geo>34.9922, 32.83016674389524</geo></location>
                     <desc type="construction"><date notBefore="1001" notAfter="1100" precision="medium">11th century</date></desc>
-                    <desc type="function">Parochial(?). <!--Currently, the main church (katholikon) of the monastery; whether its original function was monastic remains probable, but uncertain--></desc>
+                    <desc type="function"><term>Parochial</term>(?). Currently, the main church (katholikon) of the monastery; whether its original function was <term>monastic</term> remains probable, but uncertain.</desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Domed pier cross-in-square church, with <!--<rs ref="#monument21">the chapel of Saint John Lampadistes</rs> -->, the so-called chapel of the Akathistos Hymn, and the narthex added subsequently (15th century)</desc>
                     <desc type="mural">
@@ -1022,15 +1021,15 @@
                     <desc type="context">Urban</desc>
                     <desc type="architectural">Chamber of a Hellenestic(?) rock-cut tomb, converted into a single-cell chapel</desc>
                     <desc type="mural">
-                        <!--<desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium" source="bibliography.xml#Papageorgiou1996" source="bibliography.xml#Stylianou1997">Papageorgiou, Stylianou: late 12th century</date> <date notBefore="1301" notAfter="1400" precision="medium" source="bibliography.xml#HatfieldYoung1978" source="bibliography.xml#Konstantinidi2008">Hatfield Young, Konstandinidi: 14th century</date> (bema)</desc>-->                        
+                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium" source="bibliography.xml#Papageorgiou1996 bibliography.xml#Stylianou1997">Papageorgiou, Stylianou: late 12th century</date> <date notBefore="1301" notAfter="1400" precision="medium" source="bibliography.xml#HatfieldYoung1978 bibliography.xml#Konstantinidi2008">Hatfield Young, Konstandinidi: 14th century</date> (bema)</desc>                        
                         <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (naos)</desc>
                     </desc>
                     <desc type="conservation">Poor condition; badly damaged. Conservation/cleaning: 1980, 2005 (DAC)</desc>
-                    <desc type="donors">1st layer(?): a fragmentary inscription makes reference to a priest and caretaker of the church. Whether he was a donor remains unclear<!-- add link to inscription--></desc>
+                    <desc type="donors">1st layer(?): a fragmentary inscription <!--(<ref target="MedCY.044.105.html">MedCY.044.105</ref>)--> makes reference to a priest and caretaker of the church. Whether he was a donor remains unclear.</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Yes 
-                        <!--<bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>460/citedRange></bibl>
-                            <bibl><ptr target="bibliography.xml#FouliasHadjichristodoulou2022"/><citedRange>158</citedRange></bibl>-->
+                        <!--(<bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>460/citedRange></bibl>; 
+                            <bibl><ptr target="bibliography.xml#FouliasHadjichristodoulou2022"/><citedRange>158</citedRange></bibl>)-->
                     </desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">Not listed</idno>
@@ -2537,7 +2536,7 @@
                     <placeName xml:lang="el"> Εκκλησιαστικό Μουσείο Ιεράς Μητροπόλεως Πάφου</placeName>
                     <location><placeName>Geroskepou</placeName></location>
                     <location><geo>34.76053083044009, 32.451620875481666</geo></location>
-                   <!-- <idno type="wikidata"></idno> -->
+                   <!--<idno type="wikidata"></idno>-->
                     <bibl><ref type="website">https://www.impaphou.org/mouseio_impafou.aspx</ref></bibl>
                 </place>
                 
@@ -2546,7 +2545,7 @@
                     <placeName xml:lang="el"> Εκκλησιαστικό Μουσείο Σωτήρας</placeName>
                     <location><placeName>Sotera (Famagusta District)</placeName></location>
                     <location><geo>35.02813, 33.95288</geo></location>
-                    <!-- <idno type="wikidata">https://www.wikidata.org/wiki/Q1014266</idno> ADD LINK TO LOCATION? -->
+                    <!--<idno type="wikidata"></idno>-->
                     <bibl><ref type="website">https://www.sotira.org.cy/en/visitors/tourist-guide?cat=10</ref></bibl>
                 </place>
                 
@@ -2564,7 +2563,7 @@
                     <placeName xml:lang="el">Μουσείο Ιεράς Μονής Κύκκου</placeName>
                     <location><placeName>Kykkos Monastery</placeName></location>
                     <location><geo>34.9837943030975, 32.74120505183693</geo></location>
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q225373</idno>
+                    <!-- <idno type="wikidata"></idno> -->
                     <bibl><ref type="website">https://kykkos-museum.org.cy/</ref></bibl>
                 </place>
 
