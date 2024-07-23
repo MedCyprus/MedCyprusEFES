@@ -81,14 +81,14 @@
                     <idno type="HGC">Not listed</idno>
                     <idno type="geonames">http://www.geonames.org/20648/agios-sozomenos.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl><ptr target="bibliography.xml#Papageorgiou1999"/><citedRange> 47-52</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1999b"/><citedRange> 47-52</citedRange></bibl>
                         <bibl><ptr target="bibliographyxml#Bakirtzis2019"/><citedRange>83-100</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>206</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>205</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1990, 20; 1991, 17-18; 1993, 17-18</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papageorgiou1999"/><citedRange>47-52</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1999b"/><citedRange>47-52</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2005, 20; 2006, 21</citedRange></bibl>
                         <bibl><ptr target="bibliographyxml#Bakirtzis2019"/><citedRange>83-100</citedRange></bibl>
                     </listBibl>
@@ -2342,7 +2342,7 @@
                     <listBibl type="inscriptions">
                         <bibl><ptr target="bibliography.xml.#Stylianou1960"/><citedRange>99-101</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml.#MangoHawkins1966"/><citedRange>119-206</citedRange></bibl>
-                        <!--<bibl><ptr target="bibliography.xml.#Papageorgiou1999?"/><citedRange>119-206</citedRange></bibl>-->
+                        <!--<bibl><ptr target="bibliography.xml.#Papageorgiou1999b"/><citedRange>119-206</citedRange></bibl>-->
                         <bibl><ptr target="bibliography.xml.#Rhoby2009"/><citedRange>352-61</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml.#Bordne2015"/><citedRange>27-36</citedRange></bibl>
                         <bibl><author>Carr</author> in <ptr target="#VisCult"/><citedRange> 1, 255-64</citedRange></bibl>
@@ -2361,7 +2361,7 @@
                         <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>71-72</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>351-81</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2, 91-92</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papageorgiou1999"/><citedRange>60-69</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1999b"/><citedRange>60-69</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/>533-4, 611-22, 649-50</bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange>352-61</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2010b"/><citedRange>917-57</citedRange></bibl>
