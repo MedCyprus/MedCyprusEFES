@@ -68,7 +68,7 @@
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Rock-cut, single-cell chapel</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="0901" notAfter="1000" precision="medium">10th century</date> (naos: north wall, above the tomb; north wall, eastern side). Some of the paintings have been removed to the <!--<rs ref="#rep1">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</rs> -->
+                        <desc type="layer" n="1">1st layer: <date notBefore="0901" notAfter="1000" precision="medium">10th century</date> (naos: north wall, above the tomb; north wall, eastern side). Some of the paintings have been removed to the <ref target="#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</ref>
                         </desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1001" notAfter="1200" precision="medium">undetermined; prior to the 13th-14th century</date> (naos: north wall, eastern side)</desc>
                         <desc type="layer" n="3">3rd layer: <date notBefore="1201" notAfter="1400" precision="medium"> 13th-14th century? First half of the 14th century?</date> (bema; naos: east, north and west wall; ceiling)</desc>
