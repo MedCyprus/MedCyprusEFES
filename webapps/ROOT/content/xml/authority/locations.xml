@@ -891,7 +891,7 @@
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2007, 22-3; 2008, 8</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 79-82</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#WeylCarr2009"/><citedRange>475–99</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>8: 112-16; 10: 357-62</citedRange></bibl><!--Why two different volumes? O τόμος 8 αναφέρεται γενικά στο χωριό κι έχει και αρκετές πληροφορίες-αναφορές για το/στο μοναστήρι. Θα τον αφαιρέσω για να περιοριστούμε αποκλειστικά στο μνημείο-->
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>10: 357-62</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2012a"/></bibl>
                         <bibl><ptr target="bibliography.xml#Klerides2015"/><citedRange>143-46</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>1: 126-43</citedRange></bibl>
