@@ -2372,8 +2372,8 @@
                 </place>
                 
                 <place xml:id="TalaRefectory" n="60">
-                    <placeName xml:lang="en">Tala, Hermitage of Saint Neophytos</placeName>
-                    <placeName xml:lang="el">Τάλα, Ἐγκλείστρα Αγίου Νεοφύτου</placeName>
+                    <placeName xml:lang="en">Tala, Hermitage of Saint Neophytos, refectory</placeName>
+                    <placeName xml:lang="el">Τάλα, Ἐγκλείστρα Αγίου Νεοφύτου, τράπεζα</placeName>
                     <placeName type="district" ref="district.xml#Paphos">Paphos</placeName>
                     <placeName type="diocese" ref="diocese.xml#Paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.84692924848204, 32.44507332518793</geo></location>
