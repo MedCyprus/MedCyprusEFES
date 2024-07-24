@@ -26,7 +26,7 @@
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.734564431148705, 32.48443089411125</geo></location>
                     <desc type="construction"><date notBefore="1167" notAfter="1233" precision="medium">Late 12th - Early 13th century</date></desc>
-                    <desc type="function">Parochial(?), funerary(?)</desc>
+                    <desc type="function"><term>Parochial</term>(?), <term>funerary</term>(?)</desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Free-cross domed church</desc>
                     <desc type="mural">
@@ -65,16 +65,16 @@
                     <placeName type="diocese" ref="diocese.xml#trimythous">Bishopric of Trimythous</placeName>
                     <location><geo>35.067463372392375, 33.43608826042591</geo></location>
                     <desc type="construction"><date notBefore="0901" notAfter="1000" precision="medium">10th century</date></desc>
-                    <desc type="function">Anchorite cell and burial place; pilgrimage</desc>
+                    <desc type="function"><term>Anchorite cell</term> and burial place; <term>pilgrimage</term></desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Rock-cut, single-cell chapel</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="0901" notAfter="1000" precision="medium">10th century</date> (naos: north wall, above the tomb; north wall, eastern side). Some of the paintings have been removed to the <ref target="#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</ref>
+                        <desc type="layer" n="1">1st layer: <date notBefore="0901" notAfter="1000" precision="medium">10th century</date> (naos: north wall, above the tomb; north wall, eastern side).
                         </desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1001" notAfter="1200" precision="medium">undetermined; prior to the 13th-14th century</date> (naos: north wall, eastern side)</desc>
                         <desc type="layer" n="3">3rd layer: <date notBefore="1201" notAfter="1400" precision="medium"> 13th-14th century? First half of the 14th century?</date> (bema; naos: east, north and west wall; ceiling)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary; condition poor. Conservation/cleaning: 1990-1991, 1993, 2002, 2005-2006 (DAC) </desc>
+                    <desc type="conservation">Fragmentary; condition poor. Conservation/cleaning: 1990-1991, 1993, 2002, 2005-2006 (DAC). Some of the paintings of the 1st layer have been removed to the <ref target="#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III.</ref></desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Yes <bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458</citedRange></bibl></desc>
@@ -103,7 +103,7 @@
                     <placeName type="diocese" ref="diocese.xml#karpasia">Bishopric of Karpasia</placeName>
                     <location><geo>35.630966, 34.449377</geo></location>
                     <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium">12th century, with later additions</date></desc>
-                    <desc type="function">Parochial</desc>
+                    <desc type="function"><term>Parochial</term></desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Single-aisled vaulted church; later additions: south lateral aisle (12th-13th century?) and western open porch (14th-15th century?) </desc>
                     <desc type="mural">
@@ -139,13 +139,13 @@
                     <placeName type="diocese" ref="diocese.xml#karpasia">Bishopric of Karpasia</placeName>
                     <location><geo>35.53670829, 34.18690454</geo></location>
                     <desc type="construction"><date notBefore="1001" notAfter="1133" precision="medium">11th century or early 12th century, with later additions </date></desc>
-                    <desc type="function">Parochial</desc>
+                    <desc type="function"><term>Parochial</term></desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Domed pier cross-in-square church; domed-hall narthex subsequently added to the west (12th or 13th century)</desc>
                     <desc type="mural">
                         <desc type="layer" n="1"><date notBefore="1201" notAfter="1401" precision="medium">13th-14th century</date> (naos)</desc>                        
                     </desc>
-                    <desc type="conservation">Very fragmentary; badly preserved</desc>
+                    <desc type="conservation">Very fragmentary; badly preserved. <!-- Conservation/cleaning: --></desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -178,7 +178,7 @@
                     <placeName type="diocese" ref="diocese.xml#karpasia">Bishopric of Karpasia</placeName>
                     <location><geo>35.53513, 34.18944</geo></location>
                     <desc type="construction"><date notBefore="1067" notAfter="1133" precision="medium">Late 11th - Early 12th century</date></desc>
-                    <desc type="function">Unknown</desc>
+                    <desc type="function"><term>Unknown</term></desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Single-aisled barrel-vaulted church; narthex with drumless dome subsequently added to the west</desc>
                     <desc type="mural">
@@ -216,7 +216,7 @@
                     <placeName type="diocese" ref="diocese.xml#karpasia">Bishopric of Karpasia</placeName>
                     <location><geo>35.40489928111859, 33.78253726593481</geo></location>
                     <desc type="construction"><date notBefore="1001" notAfter="1100" precision="medium">11th century</date></desc>
-                    <desc type="function">Parochial(?)</desc>
+                    <desc type="function"><term>Parochial</term>(?)</desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Domed pier cross-in-square church</desc>
                     <desc type="mural">
@@ -255,7 +255,7 @@
                     <desc type="construction">
                         <date notBefore="1167" notAfter="1300" precision="medium" source="bibliography.xml#Papageorgiou1996">Papageorgiou: late 12th century or 13th century; </date>
                         <date notBefore="1301" notAfter="1400" precision="medium" source="bibliography.xml#Kaffenberger2020">Kaffenberger: 14th century</date></desc>
-                    <desc type="function">Parochial</desc>
+                    <desc type="function"><term>Parochial</term></desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Free-cross domed church; western crossarm subsequently extended westwards</desc>
                     <desc type="mural">
@@ -293,11 +293,11 @@
                         <date notBefore="0801" notAfter="1000" precision="medium" source="bibliography.xml#Procopiou2007">Procopiou: 9th or 10th century; </date>
                         <date notBefore="1000" notAfter="1100" precision="medium" source="bibliography.xml#Kaffenberger2020">Kaffenberger: 11th century</date>
                     </desc>
-                    <desc type="function">Parochial(?)</desc>
+                    <desc type="function"><term>Parochial</term>(?)</desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Domed-hall church; narthex subsequently added to the west (16th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1250" precision="medium">First half of the 13th century</date> (bema; naos)</desc><!--IS THERE ANOTHER LAYER?-->
+                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1250" precision="medium">First half of the 13th century</date> (bema; naos)</desc>
                     </desc>
                     <desc type="conservation">Partially preserved. Conservation/cleaning: 2005 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -329,7 +329,7 @@
                         <date notBefore="0967" notAfter="1033" precision="medium" source="bibliography.xml#Procopiou2018">Procopiou: late 10th century - early 11th century; </date>
                         <date notBefore="1101" notAfter="1200" precision="medium" source="bibliography.xml#Papacostas1999">Papacostas: 12th century</date>                        
                     </desc>
-                    <desc type="function">Parochial</desc>
+                    <desc type="function"><term>Parochial</term></desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Domed-hall church, with a later extension to the west; built on the ruins of a 7th-century three-aisled basilica</desc>
                     <desc type="mural">
@@ -337,8 +337,8 @@
                         <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="medium">First half of the 16th century</date> (bema; dome; naos)</desc>
                     </desc>
                     <desc type="conservation">Badly damaged; very fragmentary. Conservation/cleaning: late 1940s, 1998, 2003, 2004, 2008, 2011, 2013-2015, 2017 (DAC)</desc>
-                    <!--  <desc type="donors">1st layer: unknown; 2nd layer: Sabbas with his family (1509); Hilarion the monk (1552)</desc>
-                    <desc type="painter">1st layer: unknown; 2nd layer: Symeon (1509)</desc>-->
+                    <desc type="donors">1st layer: unknown; 2nd layer: Sabbas with his family (1509); Hilarion the monk (1552)</desc>
+                    <desc type="painter">1st layer: unknown; 2nd layer: Symeon (1509)</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0069.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/4867/155/</idno>
@@ -372,14 +372,13 @@
                     <placeName type="diocese" ref="diocese.xml#constantia">Bishopric of Constantia and Famagusta</placeName>
                     <location><geo>35.026683703231505, 33.932386603820234</geo></location>
                     <desc type="construction"><date notBefore="1001" notAfter="1100" precision="medium">11th century</date></desc>
-                    <desc type="function">Parochial</desc>
+                    <desc type="function"><term>Parochial</term></desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Domed-hall church (today, ruinous), with narthex subsequently added to the west (12th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1201" precision="medium">12th century</date> (narthex)</desc>
-                        <!-- What do we do when we do not know how many layers are actually there or cannot verify it? Is it still 1st layer or just extant layer or something else -->
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1201" precision="medium">12th century</date> (narthex)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary; very poorly preserved. One mural detached and displayed in the <!--<ptr target="locations.xml#SoteraMuseum"/>--></desc>
+                    <desc type="conservation">Fragmentary; very poorly preserved. One mural detached and displayed in the <ref target="#SoteraMuseum">Ecclesiastical Museum of Sotera.</ref></desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -406,7 +405,7 @@
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.86560311978039, 32.55097098304513</geo></location>
                     <desc type="construction"><date notBefore="1001" notAfter="1100" precision="medium">11th century</date></desc>
-                    <desc type="function">Pilgrimage(?)</desc>
+                    <desc type="function"><term>Pilgrimage</term>(?)</desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Domed-hall church, with twin apses inscribed into the eastern curved wall; narthex subsequently added to the west</desc>
                     <desc type="mural">
@@ -416,7 +415,7 @@
                         <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (naos: western bay)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1985-1986, 2002 (DAC)</desc>
-                    <!--CHECK! <desc type="donors">Male and female donors, lay and ecclesiastic, donated votive panels throughout the Byzantine and medieval period: 2nd layer: the priest Georgios and Magdalene; 3rd layer: Theodosia, one monk (Leontios) and at least another male donor; 4th layer: female donor (portrait; no inscription surviving)</desc>-->                    
+                    <desc type="donors">Male and female donors, lay and ecclesiastic, donated votive panels throughout the Byzantine and medieval period: 2nd layer: the priest Georgios and Magdalene <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->; 3rd layer: Theodosia <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->, one monk (Leontios)<!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->, and at least another male donor <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->; 4th layer: female donor (portrait; no inscription surviving)</desc>                    
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0047.html</idno>
@@ -447,13 +446,13 @@
                     <placeName type="diocese" ref="diocese.xml#paphos">Paphos</placeName>
                     <location><geo>34.869318678489584, 32.55778272706452</geo></location>
                     <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium">12th century</date></desc>
-                    <desc type="function">Parochial(?)</desc>
+                    <desc type="function"><term>Parochial</term>(?)</desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Domed-hall(?) church, with south chapel added subsequently </desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1133" precision="medium">Early 12th century</date> (bema)</desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1133" precision="medium">Early 12th century</date> (bema)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary; murals detached, now displayed in the <!--<ptr target="locations.xml#PaphosMuseum"/>-->. Conservation/cleaning: 1992, 2001 (DAC)
+                    <desc type="conservation">Fragmentary; murals detached, now displayed in the <ref target="#PaphosMuseum">Ecclesiastical Museum of the Holy Bishopric of Paphos</ref>. Conservation/cleaning: 1992, 2001 (DAC)
                        </desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
@@ -482,11 +481,11 @@
                     <placeName type="diocese" ref="diocese.xml#kyrenia">Bishopric of Kyrenia</placeName>
                     <location><geo>35.340961, 33.330786</geo></location> 
                     <desc type="construction"><date notBefore="0901" notAfter="1000" precision="medium">10th century</date></desc>
-                    <desc type="function">Funerary(?)</desc>
-                    <desc type="context">Urban</desc>
+                    <desc type="function"><term>Funerary</term>(?)</desc>
+                    <desc type="context"><term>Urban</term></desc>
                     <desc type="architectural">Single-cell chapel, partially carved into the rock (built sections of north, south and west walls do not survive)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="0901" notAfter="1000" precision="medium">10th century</date> (naos)</desc>
+                        <desc type="layer" n="1"><date notBefore="0901" notAfter="1000" precision="medium">10th century</date> (naos)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poorly preserved. Conservation/cleaning: 1969 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -516,9 +515,9 @@
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.80654276632326, 32.42457656171472</geo></location>
                     <desc type="construction">
-                        <!--<date notBefore="1001" notAfter="1100" precision="medium" source="bibliography.xml#EcclesMon">Philotheou, Petrou: 11th century; </date>-->                                   <date notBefore="1167" notAfter="1200" precision="medium" source="bibliography.xml#Papacostas1999">Papacostas: late 12th century</date>
+                        <date notBefore="1001" notAfter="1100" precision="medium" source="bibliography.xml#EcclesMon">Philotheou, Petrou: 11th century; </date>                                   <date notBefore="1167" notAfter="1200" precision="medium" source="bibliography.xml#Papacostas1999">Papacostas: late 12th century</date>
                     </desc>
-                    <desc type="function">Parochial</desc>
+                    <desc type="function"><term>Parochial</term></desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Free-cross domed church; western extension of aisles, narthex, and northeastern naos compartment added subsequently (13th century?)</desc>
                     <desc type="mural">
@@ -1034,7 +1033,7 @@
                         <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (naos)</desc>
                     </desc>
                     <desc type="conservation">Poor condition; badly damaged. Conservation/cleaning: 1980, 2005 (DAC)</desc>
-                    <desc type="donors">1st layer(?): a fragmentary inscription <!--(<ref target="MedCY.044.105.html">MedCY.044.105</ref>)--> makes reference to a priest and caretaker of the church. Whether he was a donor remains unclear.</desc>
+                    <desc type="donors">1st layer(?): a fragmentary inscription <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)--> makes reference to a priest and caretaker of the church. Whether he was a donor remains unclear.</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Yes 
                         <!--(<bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>460/citedRange></bibl>; 
