@@ -1458,7 +1458,7 @@
                     <location><geo>34.965463638006405, 33.00726538918126</geo></location>
                     <desc type="construction"><date notBefore="1151" notAfter="1192" precision="medium">Second half of 12th century (AD 1192 terminus ante quem)</date></desc>
                     <desc type="function"><term>Private chapel</term>; <term>monastic</term>(?)</desc>
-                    <desc type="context">Rural</desc>
+                    <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed-hall church, with an apsidal narthex added subsequently to the west (ca 1200); the narthex was replaced by the one extant today in the late 18th century</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1170" notAfter="1178" precision="medium" >1170s </date> (bema: apse)</desc>
@@ -1513,7 +1513,7 @@
                     <location><geo>35.354, 33.202</geo></location>
                     <desc type="construction"><date notBefore="1067" notAfter="1133">Late 11th - Early 12th century, with later additions</date></desc>
                     <desc type="function"><term>Monastic</term> (at least by the 15th century)</desc>
-                    <desc type="context">Rural</desc>
+                    <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Domed pier cross-in-square church, built over the nave of an Early Byzantine basilica and incorporating its eastern central apse; domed narthex added during the 12th century to the west; exonarthex and western porch added subsequently (15th/16th century)</desc>
                     <desc type="mural">
                         <desc type="layer" n="1"><date notBefore="1101" notAfter="1150">first half of 12th century</date> (bema)</desc>
@@ -1554,7 +1554,7 @@
                     <location><geo>34.85538148351664, 32.517262317783405</geo></location>
                     <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium">12th century; extensively rebuilt in the 14th century</date></desc>
                     <desc type="function"><term>Parochial</term>(?); <term>pilgrimage</term>(?)</desc>
-                    <desc type="context">Rural</desc>
+                    <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Domed pier cross-in-square church</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300">13th century</date> (bema: apse wall; naos: southwestern pier, soffits of arches connecting western piers to the west wall)</desc>
@@ -1598,7 +1598,7 @@
                     <location><geo>35.085577, 33.664674</geo></location>
                     <desc type="construction"><date notBefore="1167" notAfter="1233" precision="medium">Late 12th - Early 13th century</date></desc>
                     <desc type="function"><term>Monastic</term></desc>
-                    <desc type="context">Rural</desc>
+                    <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed-hall church</desc>
                     <desc type="mural">
                         <desc type="layer" n="1"><date notBefore="1201" notAfter="1233" precision="medium">early 13th century</date> (bema; dome)</desc>
@@ -1636,7 +1636,7 @@
                     <location><geo>35.47840280214003, 34.165321044361214</geo></location>
                     <desc type="construction"><date notBefore="0651" notAfter="0800" precision="medium">After the middle of the 7th century, with subsequent building phases in the 9th, 12th, and 13th/14th centuries</date></desc>
                     <desc type="function"><term>Parochial</term>(?)</desc>
-                    <desc type="context">Rural</desc>
+                    <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Pier, vaulted, three-aisled basilica, incorporating the central apse of an Early Byzantine column basilica, with a dome over the central nave and a drumless dome above the bema, a narthex to the west with a dome over its central bay, and a porch to the south. Form, the result of successive, difficult-to-date building phases.</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="0701" notAfter="0800" precision="medium">8th century</date> (nave)</desc>
