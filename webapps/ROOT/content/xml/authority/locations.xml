@@ -625,11 +625,8 @@
                     <desc type="conservation">Very fragmentary; poorly preserved. Fragments of painted plaster revealed during excavations are kept in the <ref target="locations.xml#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning:  2011, 2013, 2015 </desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknwon</desc>
-<<<<<<< Updated upstream
                     <desc type="graffiti">Yes (Georgian)(<bibl><ptr target="#Gagoshidze2014a"/><citedRange>90-93</citedRange></bibl>)</desc>
-=======
                     <desc type="graffiti">Yes (Georgian) (<bibl><ptr target="bibliography.xml#Gagoshidze2014a"/><citedRange>90-93</citedRange></bibl>)</desc>
->>>>>>> Stashed changes
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0052.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/hu/749/</idno>
                     <idno type="geonames">https://www.geonames.org/maps/google_35.0895_32.555.html</idno>
