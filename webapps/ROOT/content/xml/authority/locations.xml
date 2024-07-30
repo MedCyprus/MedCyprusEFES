@@ -564,7 +564,7 @@
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.75951640, 32.45295243</geo></location>
                     <desc type="construction"><date notBefore="0701" notAfter="0900" precision="medium">8th or 9th century, with later additions</date></desc>
-                    <desc type="function">Parochial; pilgrimage(?)</desc>
+                    <desc type="function"><term>Parochial</term>; <term>pilgrimage</term>(?)</desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Five-domed basilica, with a small domed tetraconch attached to its southeast corner; narthex subsequently added to the west (19th century)</desc>
                     <desc type="mural">
@@ -577,7 +577,7 @@
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1955, 1974, 1976, 1977, 1994, 1995, 2003 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">Yes <!--<ptr target="bibliography.xml#FouliasHadjichristodoulou2019"/>34, 55-59--></desc>
+                    <desc type="graffiti">Yes <bibl>(<ptr target="bibliography.xml#FouliasHadjichristodoulou2019"/><citedRange>34, 55-59</citedRange>)</bibl></desc>
                     <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0090.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/145959/165/</idno>
                     <idno type="geonames">https://www.geonames.org/18793/agia-paraskevi.html</idno>
@@ -616,16 +616,16 @@
                     <placeName type="diocese" ref="diocese.xml#arsinoe">Bishopric of Arsinoe</placeName>
                     <location><geo>35.089495642123936, 32.55495468191464</geo></location>
                     <desc type="construction"><date notBefore="0901" notAfter="1000" precision="medium">10th century</date></desc>
-                    <desc type="function">Monastic</desc>
+                    <desc type="function"><term>Monastic</term></desc>
                     <desc type="context">Rural</desc>
-                    <desc type="architectural">Domed triconch church (today, ruinous), with northwest <!--<rs ref="#monument17">chapel of Saint George</rs>--> and western porch extending in front of both main church and chapel added subsequently</desc>
+                    <desc type="architectural">Domed triconch church (today, ruinous), with northwest <ref target="#GialiaChapel">chapel of Saint George</ref> and western porch extending in front of both main church and chapel added subsequently</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1051" notAfter="1100" precision="medium">second half of 11th century</date> (bema; naos)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1150" precision="medium">first half of 12th century </date> (western porch)</desc>                    </desc>
-                    <desc type="conservation">Very fragmentary; poorly preserved. Fragments of painted plaster revealed during excavations are kept in the <!--<ptr target="locations.xml#ArsinoeMuseum"/>-->. Conservation/cleaning:  2011, 2013, 2015 </desc>
+                    <desc type="conservation">Very fragmentary; poorly preserved. Fragments of painted plaster revealed during excavations are kept in the <ref target="locations.xml#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning:  2011, 2013, 2015 </desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknwon</desc>
-                    <desc type="graffiti">Yes (Georgian)<!--<ptr target="bibliography.xml#Gagoshidze2014a"/>90-93--> </desc>
+                    <desc type="graffiti">Yes (Georgian)<bibl>(<ptr target="bibliography.xml#Gagoshidze2014a"/><citedRange>90-93</citedRange>)</bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0052.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/hu/749/</idno>
                     <idno type="geonames">https://www.geonames.org/maps/google_35.0895_32.555.html</idno>
@@ -653,14 +653,14 @@
                     <desc type="construction"><date notBefore="0967" notAfter="1033" precision="medium">Late 10th century - Early 11th century</date></desc>
                     <desc type="function">Monastic</desc>
                     <desc type="context">Rural</desc>
-                    <desc type="architectural">Domed-hall chapel, annexed to the northwest of <!--<rs ref="#monument16">katholikon</rs>--> of the monastery</desc>
+                    <desc type="architectural">Domed-hall chapel, annexed to the northwest of the <ref target="#GialiaKatholikon">main church</ref> of the monastery</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1150" precision="medium">first half of 12th century</date> (naos; western porch)</desc>
                     </desc>
-                    <desc type="conservation">very fragmentary; poorly preserved. Fragments of painted plaster revealed during excavations are kept in the <!--<ptr target="locations.xml#ArsinoeMuseum"/>-->. Conservation/cleaning:  2011, 2013, 2015</desc>
+                    <desc type="conservation">very fragmentary; poorly preserved. Fragments of painted plaster revealed during excavations are kept in the <ref target="locations.xml#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning:  2011, 2013, 2015</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">Yes (Georgian)<!--<ptr target="bibliography.xml#Gagoshidze2014a"/>90-93--></desc>
+                    <desc type="graffiti">Yes (Georgian)<bibl>(<ptr target="bibliography.xml#Gagoshidze2014a"/><citedRange>90-93</citedRange>)</bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0052.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/hu/749/</idno>
                     <idno type="geonames">https://www.geonames.org/maps/google_35.0895_32.555.html</idno>
