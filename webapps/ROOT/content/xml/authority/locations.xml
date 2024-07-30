@@ -1677,29 +1677,39 @@
                 
                 <place xml:id="Menogeia" n="41">
                     <placeName xml:lang="en">Menogeia, Saints Athanasios and Cyril</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="en">Mennogeia, Saints Athanasios and Cyril</placeName>
+                    <placeName xml:lang="el">Μενόγεια, Άγιοι Αθανάσιος και Κύριλλος</placeName>
+                    <placeName xml:lang="el">Μεννόγια, Άγιοι Αθανάσιος και Κύριλλος</placeName>
+                    <placeName type="district" ref="district.xml#larnaca">Larnaca</placeName>
+                    <placeName type="diocese" ref="diocese.xml#trimythous">Bishopric of Trimythous</placeName>
                     <location><geo>34.8440505493165, 33.44077077569953</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium">12th century, with subsequent interventions in the 15th/16th century</date></desc>
+                    <desc type="function"><term>Parochial</term></desc>
+                    <desc type="context"><term>Village</term></desc>
+                    <desc type="architectural">Domed-hall church, built over the nave of a three-aisled domed basilica of the 7th/8th century; at a later unknown date, the western bay was truncated.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1467" notAfter="1533" precision="medium">late 15th century - early 16th century</date> (dome and pendentives)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="conservation">Fragmentary; poor condition. Conservation/cleaning: 1997, 2014 (DAC)</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Yes (<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>367</citedRange></bibl>)</desc>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0035.html</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/146310/205/</idno>
+                    <idno type="geonames">https://www.geonames.org/4850/agioi-athanasios-kai-kyrillos.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>187</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1997, 21-22</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 26</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>10: 252-53</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Procopiou2017"/><citedRange>281-87</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Procopiou2018"/><citedRange>79-80</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2: 305-06</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 452-63</citedRange></bibl>
                     </listBibl>
                 </place>
                 
