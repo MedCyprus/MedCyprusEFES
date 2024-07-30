@@ -27,7 +27,7 @@
                     <location><geo>34.734564431148705, 32.48443089411125</geo></location>
                     <desc type="construction"><date notBefore="1167" notAfter="1233" precision="medium">Late 12th - Early 13th century</date></desc>
                     <desc type="function"><term>Parochial</term>(?), <term>funerary</term>(?)</desc>
-                    <desc type="context">Rural</desc>
+                    <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Free-cross domed church</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium">late 12th century</date> (naos: north crossarm, east wall)</desc>
@@ -66,7 +66,7 @@
                     <location><geo>35.067463372392375, 33.43608826042591</geo></location>
                     <desc type="construction"><date notBefore="0901" notAfter="1000" precision="medium">10th century</date></desc>
                     <desc type="function"><term>Anchorite cell</term> and burial place; <term>pilgrimage</term></desc>
-                    <desc type="context">Rural</desc>
+                    <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Rock-cut, single-cell chapel</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="0901" notAfter="1000" precision="medium">10th century</date> (naos: north wall, above the tomb; north wall, eastern side).
@@ -625,7 +625,11 @@
                     <desc type="conservation">Very fragmentary; poorly preserved. Fragments of painted plaster revealed during excavations are kept in the <ref target="locations.xml#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning:  2011, 2013, 2015 </desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknwon</desc>
+<<<<<<< Updated upstream
                     <desc type="graffiti">Yes (Georgian)(<bibl><ptr target="#Gagoshidze2014a"/><citedRange>90-93</citedRange></bibl>)</desc>
+=======
+                    <desc type="graffiti">Yes (Georgian) (<bibl><ptr target="bibliography.xml#Gagoshidze2014a"/><citedRange>90-93</citedRange></bibl>)</desc>
+>>>>>>> Stashed changes
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0052.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/hu/749/</idno>
                     <idno type="geonames">https://www.geonames.org/maps/google_35.0895_32.555.html</idno>
@@ -660,7 +664,7 @@
                     <desc type="conservation">very fragmentary; poorly preserved. Fragments of painted plaster revealed during excavations are kept in the <ref target="locations.xml#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning:  2011, 2013, 2015</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">Yes (Georgian)(<bibl><ptr target="bibliography.xml#Gagoshidze2014a"/><citedRange>90-93</citedRange></bibl>)</desc>
+                    <desc type="graffiti">Yes (Georgian) (<bibl><ptr target="bibliography.xml#Gagoshidze2014a"/><citedRange>90-93</citedRange></bibl>)</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0052.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/hu/749/</idno>
                     <idno type="geonames">https://www.geonames.org/maps/google_35.0895_32.555.html</idno>
