@@ -28,6 +28,9 @@
                 <item xml:id="dome">
                     <term>Dome</term>
                 </item>
+                <item xml:id="ceiling">
+                    <term>Ceiling</term>
+                </item>
                 <item xml:id="naos">
                     <term>Naos</term>
                 </item>
