@@ -74,10 +74,10 @@
                         <desc type="layer" n="2">2nd layer: <date notBefore="1001" notAfter="1200" precision="medium">undetermined; prior to the 13th-14th century</date> (naos: north wall, eastern side)</desc>
                         <desc type="layer" n="3">3rd layer: <date notBefore="1201" notAfter="1400" precision="medium"> 13th-14th century? First half of the 14th century?</date> (bema; naos: east, north and west wall; ceiling)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary; condition poor. Conservation/cleaning: 1990-1991, 1993, 2002, 2005-2006 (DAC). Some of the paintings of the 1st layer have been removed to the <ref target="#ByzantineMuseum.html">Byzantine Museum</ref> <!--Εξακολουθεί και με την αλλαγή που έκανα να μην το εμφανίζει σαν link--> of the Cultural Foundation Archbishop Makarios III.</desc>
+                    <desc type="conservation">Fragmentary; condition poor. Conservation/cleaning: 1990-1991, 1993, 2002, 2005-2006 (DAC). Some of the paintings of the 1st layer have been removed to the <ref target="#ByzantineMuseum.html">Byzantine Museum</ref> <!--Still needs to be activated as a link--> of the Cultural Foundation Archbishop Makarios III.</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">Yes <bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458</citedRange></bibl></desc>
+                    <desc type="graffiti">Yes <bibl>(<ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458</citedRange>)</bibl></desc> <!-- Only cited range is displayed; not the target in the bibliography.xml-->
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">Not listed</idno>
                     <idno type="geonames">http://www.geonames.org/20648/agios-sozomenos.html</idno>
@@ -515,14 +515,14 @@
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.80654276632326, 32.42457656171472</geo></location>
                     <desc type="construction">
-                        <date notBefore="1001" notAfter="1100" precision="medium" source="bibliography.xml#EcclesMon">Philotheou, Petrou: 11th century; </date>                                   <date notBefore="1167" notAfter="1200" precision="medium" source="bibliography.xml#Papacostas1999">Papacostas: late 12th century</date>
+                        <date notBefore="1001" notAfter="1100" precision="medium" source="bibliography.xml#EcclesMon">Philotheou, Petrou: 11th century; </date>                                            <date notBefore="1167" notAfter="1200" precision="medium" source="bibliography.xml#Papacostas1999">Papacostas: late 12th century</date>
                     </desc>
                     <desc type="function"><term>Parochial</term></desc>
                     <desc type="context">Rural</desc>
                     <desc type="architectural">Free-cross domed church; western extension of aisles, narthex, and northeastern naos compartment added subsequently (13th century?)</desc>
                     <desc type="mural">
-                        <!--<desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" source="bibliography.xml#EcclesMon">Philotheou, Petrou: 11th century; </date> (naos: south crossarm, east wall)</desc>
-                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300" precision="medium">13th century</date> (naos: south crossarm, east wall)</desc>-->
+                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" source="bibliography.xml#EcclesMon">Philotheou, Petrou: 11th century;</date> 
+                        <date notBefore="1201" notAfter="1300" precision="medium">MedCyprus: 13th century</date> (naos: south crossarm, east wall)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1233" precision="medium">Early 13th century</date> (naos: north and south crossarms)</desc>
                         <desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="medium">Late 13th century</date> (narthex)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (dome; naos: north and south crossarms, western vault)</desc>
@@ -531,7 +531,7 @@
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1966, 1980-1981, 1985-1986, 1995-1996, 1999, 2001 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">Yes <!--<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>376/citedRange></bibl>--></desc>
+                    <desc type="graffiti">Yes <bibl>(<ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>376</citedRange>)</bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0029.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146639/159/</idno>
                     <idno type="geonames">https://www.geonames.org/18814/panagia-chryseleousa.html</idno>
