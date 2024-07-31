@@ -1770,7 +1770,7 @@
                         <desc type="layer" n="3">3rd layer: <date notBefore="1467" notAfter="1533" precision="medium"> late 15th century - early 16th century </date> (exterior of north wall)</desc>    
                     </desc>
                     <desc type="conservation">Fragmentary; good condition. Conservation/cleaning: 1968, 2003, 2007 (DAC)</desc>
-                    <desc type="donors"> 1st layer: Ioannes Gerakiotes and his wife Irene funded the construction and the mural decoration of the church (<ref target="MedCY.043.020.html">MedCY.043.020</ref>, <ref target="MedCY.043.021.html">MedCY.043.020</ref>). Christophoros Omotes and his wife Maria funded the mural panel of Saint Christopher on the south wall of the naos(<ref target="MedCY.043.036.html">MedCY.043.036</ref>). Another couple, Georgios Kompotes and his wife Eirene, funded the mural panel with the enthroned Christ on the exterior of the west wall <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->.</desc>
+                    <desc type="donors"> 1st layer: Ioannes Gerakiotes and his wife Irene funded the construction and the mural decoration of the church (<ref target="MedCY.043.020.html">MedCY.043.020</ref>, <ref target="MedCY.043.021.html">MedCY.043.020</ref>). Christophoros Omotes and his wife Maria funded the mural panel of Saint Christopher on the south wall of the naos (<ref target="MedCY.043.036.html">MedCY.043.036</ref>). Another couple, Georgios Kompotes and his wife Eirene, funded the mural panel with the enthroned Christ on the exterior of the west wall <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->.</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">https://historic-graffiti.cyi.ac.cy/place/6/</desc>
                     <idno type="IBCC">Not listed</idno>
@@ -1840,22 +1840,23 @@
                 </place>-->
                 
                 <place xml:id="Asinou" n="44">
-                    <placeName xml:lang="en">Nikitari, Panagia Phorbiotissa or Asinou</placeName>
-                    <placeName xml:lang="en">Niketari, Panagia Phorbiotissa or Asinou</placeName>
-                    <placeName xml:lang="el">Νικητάρι, Παναγία ἡ Φορβιώτισσα ή τὴς Ἀσίνου</placeName>
-                    <placeName type="district" ref="district.xml#Nicosia">Nicosia</placeName>
+                    <placeName xml:lang="en">Nikitari, Panagia Phorbiotissa</placeName>
+                    <placeName xml:lang="en">Nikitari, Panagia tes Asinou</placeName>
+                    <placeName xml:lang="el">Νικητάρι, Παναγία Φορβιώτισσα</placeName>
+                    <placeName xml:lang="el">Νικητάρι, Παναγία τῆς Ἀσίνου</placeName>
+                    <placeName type="district" ref="district.xml#nicosia">Nicosia</placeName>
                     <placeName type="diocese" ref="diocese.xml#morphou">Bishopric of Morphou</placeName>
                     <location><geo>35.04630695352788, 32.97334536642621</geo></location>
-                    <desc type="construction"><date notBefore="1099" notAfter="1105" precision="medium">1099-1105/6</date></desc>
-                    <desc type="function">Monastic</desc>
-                    <desc type="context">Rural</desc>
-                    <desc type="architectural">Single barrel-vaulted church with a second timber gable roof and narthex</desc>
+                    <desc type="construction"><date notBefore="1099" notAfter="1105" precision="medium">1099-1105/6, with subsequent additions</date></desc>
+                    <desc type="function"><term>Monastic</term></desc>
+                    <desc type="context"><term>Rural</term></desc>
+                    <desc type="architectural">Single-aisled, barrel-vaulted church, with a second, timber gable roof; an apsidal narthex with a domical vault was subseqently added to the west (mid- to late 12th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date when="1105" precision="high">1105/6</date> (bema, nave, narthex)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1151" notAfter="1200" precision="medium">Second half of the 12th century</date> (narthex: south conch: Saint George)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="medium"> Late 13th century </date> (bema, nave, narthex: south conch: semidome, semicylindrical wall: St. Anastasia Pharmakolytria with the donor Anastasia Saramalina )</desc>   
-                        <desc type="layer" n="4">4th layer: <date when="1332" precision="high">1332/3</date> (nave, narthex)</desc>
-                        <desc type="layer" n="5">5th layer: <date notBefore="1601" notAfter="1650" precision="medium"> First half of the 17th century</date> (Christ Emmanuel: now in bema)</desc>
+                        <desc type="layer" n="1">1st layer: <date when="1105" precision="high">1105/6</date> (bema; naos: west bay; narthex: above entrance into the naos, originally exterior of west wall; exterior of north wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1151" notAfter="1200" precision="medium">second half of the 12th century</date> (narthex: south apse)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="medium"> late 13th century </date> (bema; naos; narthex: south apse)</desc>   
+                        <desc type="layer" n="4">4th layer: <date when="1332" precision="high">1332/3</date> (naos; narthex)</desc>
+                        <desc type="layer" n="5">5th layer: <date notBefore="1601" notAfter="1650" precision="medium"> first half of the 17th century</date> (Christ Emmanuel: now in bema)</desc>
                     </desc>
                     <desc type="conservation">1954-1955, 1965-1967 (Dumbarton Oaks Centre), 1995-1996</desc>
                     <desc type="donors">Nikephoros Ischyrios</desc>
