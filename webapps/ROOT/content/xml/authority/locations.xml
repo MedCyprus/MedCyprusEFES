@@ -89,6 +89,7 @@
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>206</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>205</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1990, 20; 1991, 17-18; 1993, 17-18</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>511-14</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1999b"/><citedRange>47-52</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2005, 20; 2006, 21</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>17: 502-05</citedRange></bibl>
@@ -2017,7 +2018,7 @@
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>366</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>372-75</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1960"/>Stylianou 1960, <citedRange>107-109</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Stylianou1997"/>Stylianou and Stylianou 1997, <citedRange>223-32</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/>Stylianou and Stylianou 1997, <citedRange>223-32, 507-10</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/>Papacostas 1999<biblScope unit="2"></biblScope><citedRange>43-4</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2003"/>Papageorgiou 2003, <citedRange>111</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gerasimou2005"/>Gerasimou et. al. 2005</bibl>
