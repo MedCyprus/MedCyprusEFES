@@ -1721,22 +1721,24 @@
                     <placeName type="district" ref="district.xml#limassol">Limassol</placeName>
                     <placeName type="diocese" ref="diocese.xml#limassol">Bishopric of Limassol</placeName>
                     <location><geo>34.799171828505585, 32.9091972716911</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function"><term>Monastic</term>...</desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1133" precision="medium">Early 12th century</date></desc>
+                    <desc type="function"><term>Monastic</term></desc>
                     <desc type="context"><term>Rural</term></desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="architectural">Single-aisled barrel-vaulted church, with a second, timber gable roof.</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
+                    <desc type="conservation">Fragmentary; good condition. Conservation/cleaning: 1960 (DAC), 1969-1972 (Dumbarton Oaks), 1990 (DAC), 1992-1994, 1997, 2009 (Courtauld Institute of Art)
+                    </desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0002.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146295/207/</idno>
                     <idno type="geonames">https://www.geonames.org/12406/panagia-monaskou.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Boyd1974"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Myriantheus2012"/></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>361</citedRange></bibl>
