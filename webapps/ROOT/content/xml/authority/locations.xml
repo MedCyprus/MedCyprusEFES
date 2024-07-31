@@ -1469,10 +1469,7 @@
                         <desc type="layer" n="4">4th layer: <date notBefore="1601" notAfter="1650" precision="medium" >first half of 17th century</date> (exterior of north wall)</desc>
                     </desc>
                     <desc type="conservation">Excellent. Conservation/cleaning: 1968-1973 (Dumbarton Oaks), 1977 (DAC)</desc>
-                    <desc type="donors">2nd layer: Leo Authentes (<ref target="MedCY.036.107.html">MedCY.036.107</ref>, <ref target="MedCY.036.152.html">MedCY.036.152</ref>)</desc>
-                    <desc type="painter">
-                        <desc type="layer"></desc>2nd layer: A fragmentary inscription mentioning a monk, whose name has been reconstructed as Theodore, has been interpreted as refering to the painter, which some scholars identify with Theodore Apseudes (<ref target="MedCY.036.185.html">MedCY.036.185</ref>);
-                        <desc type="layer"></desc>3rd  layer: Leontios the Deacon</desc>
+                    <desc type="donors">2nd layer: Leo Authentes (<ref target="MedCY.036.107.html">MedCY.036.107</ref>, <ref target="MedCY.036.152.html">MedCY.036.152</ref>)</desc>                    <desc type="painter">2nd layer: A fragmentary inscription mentioning a monk, whose name has been reconstructed as Theodore, has been interpreted as refering to the painter, which some scholars identify with Theodore Apseudes (<ref target="MedCY.036.185.html">MedCY.036.185</ref>); 3rd  layer: Leontios the Deacon</desc>
                     <desc type="graffiti">https://historic-graffiti.cyi.ac.cy/place/9/</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0015.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146407/192/</idno>
@@ -1759,56 +1756,60 @@
                 
                 <place xml:id="Moutoullas" n="43">
                     <placeName xml:lang="en">Moutoullas, Panagia</placeName>
-                    <placeName xml:lang="el">Μουτουλλάς</placeName>
-                    <placeName type="district" ref="district.xml#Nicosia">Nicosia</placeName>
+                    <placeName xml:lang="el">Μουτουλλάς, Panagia</placeName>
+                    <placeName type="district" ref="district.xml#nicosia">Nicosia</placeName>
                     <placeName type="diocese" ref="diocese.xml#morphou">Bishopric of Morphou</placeName>
                     <location><geo>34.9826622, 32.8241501</geo></location>
                     <desc type="construction"><date when="1280-07-30" precision="high">July 30, 1280</date></desc>
-                    <desc type="function">Private; funerary;</desc>
-                    <desc type="context">Rural</desc>
-                    <desc type="architectural">Single-aisled timber-roofed church with an L-shaped closed portico on its northern and western side.</desc>
+                    <desc type="function"><term>Private chapel</term>; <term>funerary</term>(?)</desc>
+                    <desc type="context"><term>Village fringe</term></desc>
+                    <desc type="architectural">Single-aisled timber-roofed church, with an L-shaped closed portico along its northern and western sides.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date when="1280-07-30" precision="high">July 30, 1280</date> (bema, nave)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1333" precision="medium">Early 14th century </date>(nave: Presentation of Christ in the Temple, gallery: external west wall)</desc>
-                            <desc type="layer" n="3">3rd layer: <date notBefore="1467" notAfter="1533" precision="medium"> Late 15th - Early 16th century </date>(gallery: external side of the northern wall)</desc>    
+                        <desc type="layer" n="1">1st layer: <date when="1280-07-30" precision="high">July 30, 1280</date> (bema; naos; exterior of west wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1333" precision="medium">early 14th century </date> (nave: south wall; exterior of west wall)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1467" notAfter="1533" precision="medium"> late 15th century - early 16th century </date> (exterior of north wall)</desc>    
                     </desc>
-                    <desc type="conservation">1968, 2003, 2007</desc>
-                    <desc type="donors">Ioannes Gerakiotes and his wife Irene</desc>
+                    <desc type="conservation">Fragmentary; good condition. Conservation/cleaning: 1968, 2003, 2007 (DAC)</desc>
+                    <desc type="donors"> 1st layer: Ioannes Gerakiotes and his wife Irene funded the construction and the mural decoration of the church (<ref target="MedCY.043.020.html">MedCY.043.020</ref>, <ref target="MedCY.043.021.html">MedCY.043.020</ref>). Christophoros Omotes and his wife Maria funded the mural panel of Saint Christopher on the south wall of the naos(<ref target="MedCY.043.036.html">MedCY.043.036</ref>). Another couple, Georgios Kompotes and his wife Eirene, funded the mural panel with the enthroned Christ on the exterior of the west wall <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->.</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">https://historic-graffiti.cyi.ac.cy/place/6/</desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/146277/525/</idno>
                     <idno type="geonames">https://www.geonames.org/12636/panagia.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>102-3</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>102-03</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Mouriki1984"/><citedRange>171-213</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange> 113</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange> 334, 341</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#PerdikisMyrianthefs2009"/></bibl>
-                        <bibl><ptr target="bibliography.xml#VisCult"/><citedRange> 2, 1480-7</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#VisCult"/><citedRange> 2: 1480-87</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>288</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>352</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>102-3</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>102-03</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1968, 11</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1972"/><citedRange>201-12</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Mouriki1984"/><citedRange>171-213</citedRange></bibl>                        
-                       <bibl><ptr target="bibliography.xml#Stylianou1996"/><citedRange>1277-84</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Mouriki1984"/><citedRange>171-213</citedRange></bibl> 
+                        <bibl><ptr target="bibliography.xml#Nicolaïdès1990"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Nicolaïdès1995"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1996"/><citedRange>1277-84</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Emmanuel1997"/></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>323-30</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Spanou2001"/></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2003, 22</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange>113</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2007, 24-5</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2007, 24-25</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2009, 23</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange>334, 341</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Spanou2009"/></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2010, 31</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#PerdikisMyrianthefs2009"/></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>14: 377-80</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Touliatos2021"/><citedRange>318-33</citedRange></bibl>
                     </listBibl>
                 </place>
-                
-                
+                                
                 <!--<place xml:id="Menas" n="44">
                     <placeName xml:lang="en">Neo Chorio (Pafou), Saint Menas</placeName>
                     <placeName xml:lang="en">Neo Chorio (Paphos), Saint Menas</placeName>
