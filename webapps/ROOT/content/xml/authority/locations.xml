@@ -1715,14 +1715,14 @@
                 </place>
                 
                 <place xml:id="Monagri" n="42">
-                    <placeName xml:lang="en">Monagri, Monastery of Panagia Amasgou, katholikon</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="en">Monagri, Monastery of Panagia Amasgou, main church</placeName>
+                    <placeName xml:lang="el">Μονάγρι, Μονή Παναγίας Αμασγού, καθολικό</placeName>
+                    <placeName type="district" ref="district.xml#limassol">Limassol</placeName>
+                    <placeName type="diocese" ref="diocese.xml#limassol">Bishopric of Limassol</placeName>
                     <location><geo>34.799171828505585, 32.9091972716911</geo></location>
                     <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
+                    <desc type="function"><term>Monastic</term>...</desc>
+                    <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">...</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
@@ -1730,18 +1730,23 @@
                     <desc type="conservation">...</desc>
                     <desc type="donors">...</desc>
                     <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0002.html</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/146295/207/</idno>
+                    <idno type="geonames">https://www.geonames.org/12406/panagia-monaskou.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>361</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>346-47</citedRange></bibl>  
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1970, 11</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Boyd1974"/></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1990, 27; 1997, 25</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>238-45</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>2: 62-64</citedRange></bibl>
-                        <!-- ΠΡΟΣΟΧΗ στη χρονολογία έκδοσης των τόμων της ΜΚΕ και στη σειρά υπόλοιπων εκδόσεων: Τόμοι 1-14=2011, Τόμοι 15-20=2012-->
+                        <bibl><ptr target="bibliography.xml#Myriantheus2012"/></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>1: 542-57</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -2393,7 +2398,7 @@
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>87-90</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Tomeković1993"/><citedRange>151-71</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>71-72</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>351-81</citedRange></bibl><!--οι σελίδες που αναφέρονται στην Εγκλείστρα είναι 351-369. Μετά ακολουθεί η περιγραφή του καθολικού-->
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>351-81</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2, 91-92</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1999b"/><citedRange>60-69</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/>533-4, 611-22, 649-50</bibl>
@@ -2432,7 +2437,6 @@
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>202</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>13: 395 </citedRange></bibl>
-                        <!--Δυστυχώς δεν αναφέρει οτιδήποτε για την τράπεζα<bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>351-69</citedRange></bibl>-->
                     </listBibl>
                 </place>
                 
