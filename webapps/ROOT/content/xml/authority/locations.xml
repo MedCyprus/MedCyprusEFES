@@ -2393,7 +2393,7 @@
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>87-90</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Tomeković1993"/><citedRange>151-71</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>71-72</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>351-81</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>351-81</citedRange></bibl><!--οι σελίδες που αναφέρονται στην Εγκλείστρα είναι 351-369. Μετά ακολουθεί η περιγραφή του καθολικού-->
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2, 91-92</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1999b"/><citedRange>60-69</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/>533-4, 611-22, 649-50</bibl>
@@ -2432,6 +2432,7 @@
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>202</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>13: 395 </citedRange></bibl>
+                        <!--Δυστυχώς δεν αναφέρει οτιδήποτε για την τράπεζα<bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>351-69</citedRange></bibl>-->
                     </listBibl>
                 </place>
                 
