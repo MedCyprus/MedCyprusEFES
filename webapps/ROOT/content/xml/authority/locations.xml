@@ -1726,7 +1726,11 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Single-aisled barrel-vaulted church, with a second, timber gable roof.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (bema)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1167" notAfter="1233" precision="medium">late 12th century - early 13th century</date> (bema; naos)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1350" precision="medium">first half of 14th century</date> (naos: west bay)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1450" precision="medium">first half of 15th century</date> (naos: north wall)</desc>
+                        <desc type="layer" n="5">5th layer: <date when="1564" precision="high">1564</date> (bema; naos)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; good condition. Conservation/cleaning: 1960 (DAC), 1969-1972 (Dumbarton Oaks), 1990 (DAC), 1992-1994, 1997, 2009 (Courtauld Institute of Art)
                     </desc>
