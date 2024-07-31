@@ -846,6 +846,7 @@
                     <listBibl type="monument"> <!-- Needs to be checked and completed -->
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>287-88</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>245-47</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>292-94, 305-06 </citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>10: 358, 361</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2012a"/><citedRange>19-20, 36</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>1: 131, 132</citedRange></bibl>
