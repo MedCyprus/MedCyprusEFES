@@ -1847,18 +1847,21 @@
                     <placeName type="district" ref="district.xml#nicosia">Nicosia</placeName>
                     <placeName type="diocese" ref="diocese.xml#morphou">Bishopric of Morphou</placeName>
                     <location><geo>35.04630695352788, 32.97334536642621</geo></location>
-                    <desc type="construction"><date notBefore="1099" notAfter="1105" precision="medium">1099-1105/6, with subsequent additions</date></desc>
+                    <desc type="construction"><date notBefore="1095" notAfter="1106" precision="low"> ca 1105/6, with subsequent additions</date></desc>
                     <desc type="function"><term>Monastic</term></desc>
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Single-aisled, barrel-vaulted church, with a second, timber gable roof; an apsidal narthex with a domical vault was subseqently added to the west (mid- to late 12th century)</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date when="1105" precision="high">1105/6</date> (bema; naos: west bay; narthex: above entrance into the naos, originally exterior of west wall; exterior of north wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1151" notAfter="1200" precision="medium">second half of the 12th century</date> (narthex: south apse)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="medium"> late 13th century </date> (bema; naos; narthex: south apse)</desc>   
-                        <desc type="layer" n="4">4th layer: <date when="1332" precision="high">1332/3</date> (naos; narthex)</desc>
-                        <desc type="layer" n="5">5th layer: <date notBefore="1601" notAfter="1650" precision="medium"> first half of the 17th century</date> (Christ Emmanuel: now in bema)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1175" notAfter="1200" precision="medium">last quarter of 12th century</date> (narthex: south apse; east wall on eithre side of door into naos)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1175" notAfter="1333" precision="medium"> late 12th century - before 1332/3 </date> (narthex: north apse, below mural icon of Archangel Michael)</desc>   
+                        <desc type="layer" n="4">4th layer: <date notBefore="1275" notAfter="1300" precision="medium">last quarter of 13th century</date> (bema; naos: western pilasters; narthex: south apse)</desc>
+                        <desc type="layer" n="5">5th layer: <date when="1332" precision="high"> 1332/3</date> (narthex)</desc>
+                        <desc type="layer" n="6">6th layer: <date notBefore="1333" notAfter="1350" precision="medium"> 1340s</date> (naos: central bay)</desc>
+                        <desc type="layer" n="7">7th layer: <date notBefore="1501" notAfter="1600" precision="medium"> 16th century</date> (naos: east face of northwest pilaster)</desc>
+                        <desc type="layer" n="8">8th layer: <date notBefore="1618" notAfter="1640" precision="medium"> 1618-1640</date> (bema)</desc>
                     </desc>
-                    <desc type="conservation">1954-1955, 1965-1967 (Dumbarton Oaks Centre), 1995-1996</desc>
+                    <desc type="conservation">Fragmentary; very good state of preservation. Conservation/cleaning: 1954-1955 (DAC), 1965-1967 (Dumbarton Oaks), 1995-1996 (DAC)</desc>
                     <desc type="donors">Nikephoros Ischyrios</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">https://historic-graffiti.cyi.ac.cy/place/7/</desc>
