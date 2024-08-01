@@ -1970,13 +1970,13 @@
                 
                 <place xml:id="PanoLefkara" n="46">
                     <placeName xml:lang="en">Pano Lefkara, Holy Cross</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Πάνω Λεύκαρα, Τίμιος Σταυρός</placeName>
+                    <placeName type="district" ref="district.xml#larnaca">Larnaca</placeName>
+                    <placeName type="diocese" ref="diocese.xml#trimythous">Bishopric of Trimythous</placeName>
                     <location><geo>34.865852789923, 33.308484597778865</geo></location>
                     <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
+                    <desc type="function"><term>Parochial</term></desc>
+                    <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">...</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
@@ -1984,18 +1984,23 @@
                     <desc type="conservation">...</desc>
                     <desc type="donors">...</desc>
                     <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">Not listed</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/146220/195/</idno>
+                    <idno type="geonames">https://www.geonames.org/10346932/pano-lefkara.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>347</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>321</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1970, 12; 1987, 24; 1988, 25</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#KonstantinidesSavva1994"/></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1997, 21; 2001, 31</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Spanou2002"/><citedRange>34-35</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gkioles2003"/><citedRange>174</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2007, 27</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 67-71</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
                 
