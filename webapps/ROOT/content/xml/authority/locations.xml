@@ -702,7 +702,7 @@
                         <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (walled entrance to the diakonikon)</desc>
                         <desc type="layer" n="3">3rd layer: <date notBefore="1101" notAfter="1200" precision="medium">12th century</date>(naos: southwestern corner bay; narthex: central and north bays)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1201" notAfter="1400" precision="medium">13th-14th century</date> (naos: north crossarm; narthex)</desc>
-                        <desc type="layer" n="5">5th layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (bema; dome; naos: south crossarm</desc>
+                        <desc type="layer" n="5">5th layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (bema; dome; naos: south crossarm)</desc>
                         <desc type="layer" n="6">6th layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (naos: north crossarm; narthex: central bay)</desc>
                         <desc type="layer" n="7">7th layer: <date when="1633" precision="high">1633</date> (naos: eastern piers, west face)</desc> 
                     </desc>
@@ -710,7 +710,9 @@
                     </desc>
                     <desc type="donors">
                         2nd layer: monk, whose name has been purposfully erased, but whose portrait survives <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->
-                        4th layer: one John and his wife (<ref target="MedCY.018.045.html">MedCY.018.045</ref>)</desc>
+                        4th layer: one John and his wife (<ref target="MedCY.018.045.html">MedCY.018.045</ref>); John Triphyles, with his wife and their children, including his son Paskales <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->
+                        <!-- another portrait and inscription of monk in the narthex; need to check to which layer it belongs -->
+                        7th layer: the priest-monk Philotheos (portrait and inscription)</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">https://historic-graffiti.cyi.ac.cy/place/1/</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0087.html</idno>
