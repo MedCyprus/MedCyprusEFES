@@ -2417,6 +2417,7 @@
                         <bibl><ptr target="bibliography.xml.#Stylianou1960"/><citedRange>99-101</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml.#MangoHawkins1966"/><citedRange>119-206</citedRange></bibl>
                         <!--<bibl><ptr target="bibliography.xml.#Papageorgiou1999b"/><citedRange>119-206</citedRange></bibl>-->
+                        <bibl><ptr target="bibliography.xml.#Papageorgiou2004"/></bibl>
                         <bibl><ptr target="bibliography.xml.#Rhoby2009"/><citedRange>352-61</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml.#Bordne2015"/><citedRange>27-36</citedRange></bibl>
                         <bibl><author>Carr</author> in <ptr target="#VisCult"/><citedRange> 1, 255-64</citedRange></bibl>
@@ -2436,6 +2437,7 @@
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>351-81</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2, 91-92</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1999b"/><citedRange>60-69</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml.#Papageorgiou2004"/></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/>533-4, 611-22, 649-50</bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange>352-61</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2010b"/><citedRange>917-57</citedRange></bibl>
@@ -2472,6 +2474,7 @@
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>202</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>13: 395 </citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml.#Papageorgiou2004"/><citedRange>12, 32</citedRange></bibl>
                     </listBibl>
                 </place>
                 
