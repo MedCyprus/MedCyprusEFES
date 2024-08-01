@@ -222,6 +222,8 @@
                     
                     <bibl xml:id="Papageorgiou2003"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>2003</date>, <title level="a">Βυζαντινή επιγραφική στην Κύπρο</title>, in <title level="m">Κύπρος. Το πολιτιστικό της πρόσωπο δια μέσου των αιώνων</title>, ed. <editor><forename>I. </forename><surname>Theocharides</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">97-119</biblScope>.</bibl>
                     
+                    <bibl xml:id="Papageorgiou2004"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>2004</date>, <title level="m">Ιερά Μονή Αγίου Νεοφύτου: Ιστορία και Τέχνη (σύντομος οδηγός)</title>, <pubPlace>Nicosia</pubPlace>. </bibl>
+                    
                     <bibl xml:id="Papageorgiou2008"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>2008</date>, <title level="m">Η Λετύμπου και ο ναός των Αγίων Κηρύκου και Ιουλίττης στη Λετύμπου</title>, <pubPlace>Letymbou</pubPlace>.</bibl>
                     
                     <bibl xml:id="Papageorgiou2010"><author><surname>Papageorgiou</surname><forename> A.</forename></author>, <date>2010</date>, <title level="m">Christian Art in the Turkish-Occupied part of Cyprus</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
@@ -424,6 +426,8 @@
             <bibl copyOf="#Papageorgiou1999b"></bibl>
             
             <bibl copyOf="#Papageorgiou2003"></bibl>
+            
+            <bibl copyOf="#Papageorgiou2004"></bibl>
             
             <bibl copyOf="#Papageorgiou2008"></bibl>
             
