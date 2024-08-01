@@ -338,8 +338,12 @@
                         <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="medium">First half of the 16th century</date> (bema; dome; naos)</desc>
                     </desc>
                     <desc type="conservation">Badly damaged; very fragmentary. Conservation/cleaning: late 1940s, 1998, 2003, 2004, 2008, 2011, 2013-2015, 2017 (DAC)</desc>
-                    <desc type="donors">1st layer: unknown; 2nd layer: Sabbas with his family (1509); Hilarion the monk (1552)</desc>
-                    <desc type="painter">1st layer: unknown; 2nd layer: Symeon (1509)</desc>
+                    <desc type="donors">
+                        1st layer: unknown.
+                        2nd layer: Sabbas with his family (1509); Hilarion the monk (1552)</desc>
+                    <desc type="painter">
+                        1st layer: unknown.
+                        2nd layer: Symeon (1509)</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0069.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/4867/155/</idno>
@@ -416,7 +420,10 @@
                         <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (naos: western bay)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1985-1986, 2002 (DAC)</desc>
-                    <desc type="donors">Male and female donors, lay and ecclesiastic, donated votive panels throughout the Byzantine and medieval period: 2nd layer: the priest Georgios and Magdalene <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->; 3rd layer: Theodosia <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->, one monk (Leontios)<!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->, and at least another male donor <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->; 4th layer: female donor (portrait; no inscription surviving)</desc>                    
+                    <desc type="donors">Male and female donors, lay and ecclesiastic, donated votive panels throughout the Byzantine and medieval period: 
+                        2nd layer: the priest Georgios and Magdalene <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->.
+                        3rd layer: Theodosia <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->, one monk (Leontios)<!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->, and at least another male donor <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->.
+                        4th layer: female donor (portrait; no inscription surviving)</desc>                    
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0047.html</idno>
@@ -701,7 +708,9 @@
                     </desc>
                     <desc type="conservation">Fragmentary; good condition. Murals of the 4th layer (14th century) from the bema were detached and are now displayed in the <ref target="#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</ref>. Conservation/cleaning: 1966, 1968-1975, 1986, 1987, 1992, 2007 (DAC)
                     </desc>
-                    <desc type="donors">2nd layer: monk, whose name has been purposfully erased, but whose portrait survives <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->; 4th layer: one John and his wife (<ref target="MedCY.018.045.html">MedCY.018.045</ref>)</desc>
+                    <desc type="donors">
+                        2nd layer: monk, whose name has been purposfully erased, but whose portrait survives <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->
+                        4th layer: one John and his wife (<ref target="MedCY.018.045.html">MedCY.018.045</ref>)</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">https://historic-graffiti.cyi.ac.cy/place/1/</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0087.html</idno>
@@ -874,7 +883,9 @@
                         <desc type="layer" n="5">5th layer: <date notBefore="1451" notAfter="1500" precision="medium">second half of 15th century</date> (narthex)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. The murals of the 3rd-5th layers survive in good condition. Conservation/cleaning: 1968-1973, 2001 (DAC), 2007-2012 (Courtauld Institute of Art)</desc>
-                    <desc type="donors">2nd layer: pair of anonymous monks, whose portrait survives in the bema; 5th layer: one Michael, who was an ecclesiastical official, his wife and his two sons, who were priests</desc>
+                    <desc type="donors">
+                        2nd layer: pair of anonymous monks, whose portrait survives in the bema.
+                        5th layer: one Michael, who was an ecclesiastical official, his wife and his two sons, who were priests</desc>
                     <desc type="painter">5th layer: a refugee from Constantinople after 1453 (fragmentary inscription; his name does not survive)</desc>
                     <desc type="graffiti">https://historic-graffiti.cyi.ac.cy/place/4/</desc>
                     <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0054.html</idno>
@@ -1130,7 +1141,9 @@
                         <desc type="layer" n="3">3rd layer: <date notBefore="1401" notAfter="1600" precision="medium">15th or sixteenth century</date> (north chapel)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Condition varies, from well to poorly preserved. Conservation/cleaning: 1965, 1972, 1975, 1979, 1983-1984, 1995 (DAC)</desc>
-                    <desc type="donors">1st layer: one Leo or Leontios <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)--> associated with the panel of St John the Baptist on the northwestern pier of the naos; 3rd layer: poorly preserved portrait of male(?) donor associated with mural of Sts Kosmas and Damian in the northwester recess of the north chapel. 
+                    <desc type="donors">
+                        1st layer: one Leo or Leontios <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)--> associated with the panel of St John the Baptist on the northwestern pier of the naos.
+                        3rd layer: poorly preserved portrait of male(?) donor associated with mural of Sts Kosmas and Damian in the northwester recess of the north chapel. 
                     </desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Yes (<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>353-54</citedRange></bibl>)</desc>
@@ -1176,7 +1189,9 @@
                         <desc type="layer" n="3">3rd layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (naos: south central recess)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poor state of preservation. Conservation/cleaning: 1950, 1975, 1999, 2011-2013 (DAC)</desc>
-                    <desc type="donors">1st layer: a fragmentary inscription above the south door preserves a reference to a male donor <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->; 2nd layer: a fragmentary inscription identifies the male donor of the mural of an archangel in the north central recess of the naos as Sampson(?) (son) of Plounteas</desc>
+                    <desc type="donors">
+                        1st layer: a fragmentary inscription above the south door preserves a reference to a male donor <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->.
+                        2nd layer: a fragmentary inscription identifies the male donor of the mural of an archangel in the north central recess of the naos as Sampson(?) (son) of Plounteas</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0072.html</idno>
@@ -1469,7 +1484,9 @@
                         <desc type="layer" n="4">4th layer: <date notBefore="1601" notAfter="1650" precision="medium" >first half of 17th century</date> (exterior of north wall)</desc>
                     </desc>
                     <desc type="conservation">Excellent. Conservation/cleaning: 1968-1973 (Dumbarton Oaks), 1977 (DAC)</desc>
-                    <desc type="donors">2nd layer: Leo Authentes (<ref target="MedCY.036.107.html">MedCY.036.107</ref>, <ref target="MedCY.036.152.html">MedCY.036.152</ref>)</desc>                    <desc type="painter">2nd layer: A fragmentary inscription mentioning a monk, whose name has been reconstructed as Theodore, has been interpreted as refering to the painter, which some scholars identify with Theodore Apseudes (<ref target="MedCY.036.185.html">MedCY.036.185</ref>); 3rd  layer: Leontios the Deacon</desc>
+                    <desc type="donors">2nd layer: Leo Authentes (<ref target="MedCY.036.107.html">MedCY.036.107</ref>, <ref target="MedCY.036.152.html">MedCY.036.152</ref>)</desc>                    <desc type="painter">
+                        2nd layer: A fragmentary inscription mentioning a monk, whose name has been reconstructed as Theodore, has been interpreted as refering to the painter, which some scholars identify with Theodore Apseudes (<ref target="MedCY.036.185.html">MedCY.036.185</ref>).
+                        3rd  layer: Leontios the Deacon</desc>
                     <desc type="graffiti">https://historic-graffiti.cyi.ac.cy/place/9/</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0015.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146407/192/</idno>
@@ -1644,7 +1661,8 @@
                         <desc type="layer" n="4">4th layer: <date notBefore="1490" notAfter="1510" precision="low">ca 1500</date> (bema; dome; nave; aisles; south porch)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poorly preserved. Conservation/cleaning: 1950 (DAC)</desc>
-                    <desc type="donors">2nd layer: a fragmentary painted inscription on the southwest pier makes mention of one deacon(?) John, the archbishop Theodore(?) (of Cyprus?), the patriarch(?) Solomon of Jerusalem (ca 860-865), and one Eustathius; the nature of their involvement with the church is unclear.
+                    <desc type="donors">
+                        2nd layer: a fragmentary painted inscription on the southwest pier makes mention of one deacon(?) John, the archbishop Theodore(?) (of Cyprus?), the patriarch(?) Solomon of Jerusalem (ca 860-865), and one Eustathius; the nature of their involvement with the church is unclear.
                         4th layer: portrait of a man and a woman, either his (deceased?) wife or daughter, on the lunette above the south door; neither their names nor their relation survive in the fragmentary inscription that accompanies the portrait.
                     </desc>
                     <desc type="painter">Unknown</desc>
@@ -1853,7 +1871,7 @@
                     <desc type="architectural">Single-aisled, barrel-vaulted church, with a second, timber gable roof; an apsidal narthex with a domical vault was subseqently added to the west (mid- to late 12th century)</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date when="1105" precision="high">1105/6</date> (bema; naos: west bay; narthex: above entrance into the naos, originally exterior of west wall; exterior of north wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1175" notAfter="1200" precision="medium">last quarter of 12th century</date> (narthex: south apse; east wall on eithre side of door into naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1175" notAfter="1200" precision="medium">last quarter of 12th century</date> (narthex: south apse; east wall on either side of door into naos)</desc>
                         <desc type="layer" n="3">3rd layer: <date notBefore="1175" notAfter="1333" precision="medium"> late 12th century - before 1332/3 </date> (narthex: north apse, below mural icon of Archangel Michael)</desc>   
                         <desc type="layer" n="4">4th layer: <date notBefore="1275" notAfter="1300" precision="medium">last quarter of 13th century</date> (bema; naos: western pilasters; narthex: south apse)</desc>
                         <desc type="layer" n="5">5th layer: <date when="1332" precision="high"> 1332/3</date> (narthex)</desc>
@@ -1862,7 +1880,12 @@
                         <desc type="layer" n="8">8th layer: <date notBefore="1618" notAfter="1640" precision="medium"> 1618-1640</date> (bema)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; very good state of preservation. Conservation/cleaning: 1954-1955 (DAC), 1965-1967 (Dumbarton Oaks), 1995-1996 (DAC)</desc>
-                    <desc type="donors">Nikephoros Ischyrios</desc>
+                    <desc type="donors">
+                        1st layer: the magistros Nikephoros Ischyrios (<ref target="MedCY.044.004.html">MedCY.044.004</ref>, <ref target="MedCY.044.053.html">MedCY.044.053</ref>, <ref target="MedCY.044.061.html">MedCY.044.061</ref>). The association of a female relation of the donor named Gefyra, mentioned in a funerary inscription (<ref target="MedCY.044.054.html">MedCY.054.004</ref>), to the foundation and decoration of the church remains unclear. 
+                        2nd layer: Nikephoros (son) of Kalleas <ref target="MedCY.044.104.html">MedCY.044.104</ref>, <ref target="MedCY.044.105.html">MedCY.044.105</ref>). 
+                        4th layer: Anastasia Saramalyna (<ref target="MedCY.044.107.html">MedCY.044.107</ref>); a Latin family, comprising of a woman and her two sons, funded the mural of the Virgin of Mercy in the conch of the south apse of the narthex (portrait; no inscription survives).
+                        5th layer: the monk Theophilos and "the common people"; at least ten portraits of monks (including Theophilos) and lay men and women survive in the narthex, with their accompanying inscriptions.                    
+                    </desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">https://historic-graffiti.cyi.ac.cy/place/7/</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0095.html</idno>
