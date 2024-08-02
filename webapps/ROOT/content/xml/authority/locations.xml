@@ -1592,7 +1592,7 @@
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>413</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>325-26</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1955, 13; 1956, 15; 1984, 24; 1985, 26-27; 1987, 28; 1988, 27; 1989, 32-33; 1990, 32</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#WeylCarr1991"/><citedRange>348-49</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#WeylCarr1995"/><citedRange>348-49</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Sophocleous1993"/><citedRange>332</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1996, 26</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>64, 91-93</citedRange></bibl>
@@ -1906,7 +1906,7 @@
                         <bibl><ptr target="bibliography.xml#Kalopissi-Verti2012"/><citedRange>115-208</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MoutafovRhoby2012"/><citedRange> 185</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Ševčenko2012"/><citedRange>69-90</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#VisCult"/><citedRange> 1, 179-98</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#VisCult"/><citedRange> 1: 179-98</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>284</citedRange></bibl>
@@ -2054,14 +2054,21 @@
                     <desc type="architectural">Form of original single-aisled church uncertain; currently, a domed-hall church, incororating the apse and lower parts of the naos walls of the 12th-century structure (late 13th/early 14th century), flanked by "chapels"/aisles to the south (late 13th/early 14th century) and the north (14th century) that were expanded to their present width in the 15th/16th century.</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date when="1178" precision="high">1178</date> (bema: apse)<!-- date needs to be checked and confirmed; Papacostas: 1171/2 --></desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium">13th century</date> (bema: east wall)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1350" precision="medium">first half of 14th century</date> (bema [now in south apse], nave)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium">13th century</date> (bema: east wall to the south of the apse; south aisle: north wall)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1335" notAfter="1350" precision="medium" source="bibliography.xml#Zarras2010">Zarras: second quarter of 14th century;</date> <date notBefore="1351" notAfter="1375" precision="medium" source="bibliography.xml#Hadjichristodoulou2005">Hadjichristodoulou: third quarter of 14th century</date>(bema; dome; naos)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1351" notAfter="1375" precision="medium">3rd quarter of the 14th century</date> (north aisle)</desc>
-                        <desc type="layer" n="5">5th layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (west wall of the south aisle)</desc>
+                        <desc type="layer" n="5">5th layer: <date notBefore="1301" notAfter="1500" precision="medium">14th - 15th century</date> (south aisle: west wall)</desc>
+                        <desc type="layer" n="5">6th layer: <date notBefore="1501" notAfter="1533" precision="medium">early 16th century</date> (naos: south wall)</desc>
                     </desc>
-                    <desc type="conservation">Good but with multiple hitmarks</desc> <!--TO WHICH LAYER ARE YOU REFERRING TO HERE?-->
-                    <desc type="donors">Priest Georgios </desc><!--SPECIFY LAYER-->
-                    <desc type="painter">Mon[o]machos (?)</desc><!--DITTO-->
+                    <desc type="conservation">Fragmentary; on the whole, good state of preservation; the murals of the 12th century bear extensive hammer marks to prepare the surface for a new painted layer; the 14th-century murals of the bema apse were detached by DAC and relocated to the east wall of the south chapel. Conservation/cleaning: 1972, 1982-1983, 1985-1994, 2002-2003, 2008 (DAC) </desc>
+                    <desc type="donors">
+                        1st layer: the priest Georgios, along with the other priests of the village (<ref target="MedCY.048.001.html">MedCY.048.001</ref>)
+                        3rd layer: no names survive in the fragmentary dedicatory inscription above the western entrance to the naos. Three funerary portraits of lay men and women, accompanied by inscriptions, on the walls of the naos and on the western facade (lunette above the door); whether they and/or their families contributed to the decoration of the church remains unclear.
+                        4th layer: portrait of Latin donors(?), identified by modern scholars, on the basis of the coat-of-arms accompanying the portrait, as Jean de Lusignan (d. 1375) and his wife; funerary portrait of one Leon Skouleas, whose potential contribution to the decoration of the north aisle remains unclear.
+                        6th layer: portrait of a family, consisting of the parents and at least one child, on the south wall of the naos, by the templon (no inscription survives)
+                    </desc>
+                    <desc type="painter">1st layer: a painter surnamed Mon[o]machos; his first name no longer survives (<ref target="MedCY.048.001.html">MedCY.048.001</ref>)
+                    </desc>
                     <desc type="graffiti">https://historic-graffiti.cyi.ac.cy/place/3/</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0061.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146198/217/</idno>
@@ -2070,22 +2077,33 @@
                         <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>107-09</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange>111</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Hadjichristodoulou2005"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Metcalf2009"/><citedRange>227</citedRange></bibl>
                         <bibl><ptr target="bibliography.xmll#Rhoby2009"/><citedRange>367-69</citedRange></bibl>
                         <bibl><ptr target="bibliography.xmll#Zarras2010"/></bibl>
+                        <bibl><ptr target="bibliography.xml#VisCult"/><citedRange> 1: 214-19</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>366</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>372-75</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>107-09</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1972, 12; 1982, 18; 1983, 19; 1985, 22; 1986, 22; 1987, 23; 1988, 23-24; 1989, 25-26; 1990, 27; 1991, 24; 1992, 25; 1993, 25; 1994, 24</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#WeylCarr1995"/><citedRange>345-48</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Christoforaki1996"/></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>223-32, 507-10</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 43-44</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Christoforaki2000"/></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2002, 39; 2003, 35</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gkioles2003"/><citedRange>67, 93-94, 176-77, 183-84</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange>111</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>516, 609-10</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Myriantheus2005"/><citedRange>21-41</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Hadjichristodoulou2005"/></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2008, 33</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Metcalf2009"/><citedRange>227</citedRange></bibl>
                         <bibl><ptr target="bibliography.xmll#Rhoby2009"/><citedRange>367-69</citedRange></bibl>
                         <bibl><ptr target="bibliography.xmll#Zarras2010"/></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>17: 341-43</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>1: 616-43</citedRange></bibl>
                     </listBibl>
                 </place>
                 
