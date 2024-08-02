@@ -2006,30 +2006,37 @@
                 
                 <place xml:id="PanoPyrgos" n="47">
                     <placeName xml:lang="en">Pano Pyrgos, Panagia Galoktiste</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Πάνω Πύργος, Παναγία Γαλόκτιστη</placeName>
+                    <placeName type="district" ref="district.xml#nicosia">Nicosia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#kykkos">Bishopric of Kykkos and Tellyria</placeName>
                     <location><geo>35.16637700, 32.67302283</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1001" notAfter="1100" precision="medium">11th century, with subsequent additions (12th century: narthex)</date></desc>
+                    <desc type="function"><term>Monastic</term>(?)</desc>
+                    <desc type="context"><term>Rural</term></desc>
+                    <desc type="architectural">Single-aisled vaulted church, with a sail-vault narthex subsequently added to the west</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
                     </desc>
                     <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">Not listed</idno>
+                    <idno type="HGC">Not listed</idno>
+                    <idno type="geonames">https://www.geonames.org/18244/galoktisti.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>417</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>409-10</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2000, 25</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Solomidou2000"/><citedRange>203-04</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>521-22</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Myriantheus2010"/><citedRange>121-23</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Philotheou2010"/><citedRange>97-120</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>4: 193-94</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>1: 256-65</citedRange></bibl>
                     </listBibl>
                 </place>
                 
