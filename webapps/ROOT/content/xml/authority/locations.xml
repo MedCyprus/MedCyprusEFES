@@ -2048,7 +2048,7 @@
                     <placeName type="district" ref="district.xml#limassol">Limassol</placeName>
                     <placeName type="diocese" ref="diocese.xml#limassol">Bishopric of Limassol</placeName>
                     <location><geo>34.8931046, 32.9662704</geo></location>
-                    <desc type="construction"><date notBefore="1167" notAfter="1178" precision="high" evidence="inscription">late 12th century</date></desc>
+                    <desc type="construction"><date notBefore="1167" notAfter="1180" precision="medium">late 12th century</date></desc>
                     <desc type="function"><term>Funerary</term></desc>
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">three-aisled domed church
@@ -2070,7 +2070,7 @@
                     <listBibl type="inscriptions">
                         <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>107-09</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange>111</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Gerasimou2005"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Hadjichristodoulou2005"/></bibl>
                         <bibl><ptr target="bibliography.xmll#Rhoby2009"/><citedRange>367-69</citedRange></bibl>
                         <bibl><ptr target="bibliography.xmll#Zarras2010"/></bibl>
                     </listBibl>
@@ -2081,7 +2081,8 @@
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>223-32, 507-10</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 43-44</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange>111</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Gerasimou2005"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Myriantheus2005"/><citedRange>21-41</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Hadjichristodoulou2005"/></bibl>
                         <bibl><ptr target="bibliography.xml#Metcalf2009"/><citedRange>227</citedRange></bibl>
                         <bibl><ptr target="bibliography.xmll#Rhoby2009"/><citedRange>367-69</citedRange></bibl>
                         <bibl><ptr target="bibliography.xmll#Zarras2010"/></bibl>
