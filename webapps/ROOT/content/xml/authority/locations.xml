@@ -1974,16 +1974,16 @@
                     <placeName type="district" ref="district.xml#larnaca">Larnaca</placeName>
                     <placeName type="diocese" ref="diocese.xml#trimythous">Bishopric of Trimythous</placeName>
                     <location><geo>34.865852789923, 33.308484597778865</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function"><term>Parochial</term></desc>
+                    <desc type="construction"><date notBefore="1201" notAfter="1300" precision="medium">13th century, with major reconstruction in the 19th and early 20th centuries</date></desc>
+                    <desc type="function"><term>Parochial</term>; <term>monastic</term> (14th century)</desc>
                     <desc type="context"><term>Village</term></desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="architectural">Originally, a domed pier cross-in-square church, of which only the tripartite sanctuary survives incorporated into the 19th-century church that has replaced the original structure</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1250" precision="medium">first half of 13th century</date> (bema: arches leading to the prothesis and the diakonikon)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
+                    <desc type="conservation">Fragmentary; good state of preservation. Conservation/cleaning: 2007 (DAC)</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146220/195/</idno>
