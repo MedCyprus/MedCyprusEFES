@@ -48,6 +48,11 @@
                     <placeName xml:lang="en">Bishopric of Kition</placeName>
                     <placeName xml:lang="el">Ιερά Μητρόπολις Κιτίου</placeName>
                     <bibl><ref type="website">https://imkitiou.org/</ref></bibl></place>
+                
+                <place xml:id="kykkos">
+                    <placeName xml:lang="en">Bishopric of Kykkos and Tellyria</placeName>
+                    <placeName xml:lang="el">Ιερά Μητρόπολις Κύκκου και Τηλλυρίας</placeName>
+                    <bibl><ref type="website">https://imkykkou.org.cy/</ref></bibl></place>
 
                 
                 <place xml:id="kyrenia">
