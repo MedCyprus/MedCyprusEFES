@@ -2156,32 +2156,43 @@
                 <place xml:id="Peristerona" n="50">
                     <placeName xml:lang="en">Peristerona (Lefkosias), Saints Barnabas and Hilarion</placeName>
                     <placeName xml:lang="en">Peristerona (Nicosia), Saints Barnabas and Hilarion</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Περιστερώνα (Λευκωσίας), Άγιοι Βαρνάβας και Ιλαρίωνας</placeName>
+                    <placeName type="district" ref="district.xml#nicosia">Nicosia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#morphou">Bishopric of Morphou</placeName>
                     <location><geo>35.13032165298355, 33.08054486827337</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="0801" notAfter="0900" precision="medium" source="bibliography.xml#Stewart2008">Stewart: 9th century; </date>
+                        <date notBefore="1067" notAfter="1150" precision="medium" source="bibliography.xml#Papacostas1999">Papacostas: late 11th / first half of 12th century</date></desc>
+                    <desc type="function"><term>Parochial</term></desc>
+                    <desc type="context"><term>Village</term></desc>
+                    <desc type="architectural">Five-domed three-aisled basilica, built on the remains of an Early Byzantine basilica; narthex subsequently added to the west (12th century?)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300" precision="medium">13th century</date> (nave: northeast pier, southwest pier, eastern piers supporting central dome) </desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (nave: northwest pier supporting the central dome)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="conservation">Very fragmentary. Conservation/cleaning: 2010 (DAC)</desc>
+                    <desc type="donors">2nd layer: a funerary inscription makes reference to one priest Solomos(?), however his association with the decoration of the church remains unclear.</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0024.html</idno>
+                    <idno type="HGC">https://cyprusgazetteer.org/146187/220/</idno>
+                    <idno type="geonames">https://www.geonames.org/16326/agios-varnavas-kai-agios-ilarion.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>283</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>378-79</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1974"/></bibl>
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>63-66</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 18-19</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2000"/><citedRange>66-67</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2004, 29; 2005, 27-28</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gkioles2003"/><citedRange>58-59</citedRange></bibl>                        
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>482-83, 492-93, 531-32</citedRange></bibl>                        
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2006, 26; 2007, 26; 2010, 33</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stewart2008"/><citedRange>106-17</citedRange></bibl>                        
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>3: 323-24</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>1: 276-87</citedRange></bibl>
                     </listBibl>
                 </place>
                 
