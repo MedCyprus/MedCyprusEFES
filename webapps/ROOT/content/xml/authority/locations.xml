@@ -2280,7 +2280,7 @@
                         <desc type="layer" n="1">1st layer: <date notBefore="1090" notAfter="1110" precision="low">ca 1100</date> (bema; naos)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1151" notAfter="1200" precision="medium">second half of 12th century</date> (narthex)</desc>
                         <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (naos)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (bema)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1600" precision="medium">15th/16th century</date> (bema; narthex)</desc>
                     </desc>
                     <desc type="conservation">Very fragmentary; poor state of preservation. During restoration work in the 1960s, the mural of St Ignatios (3rd layer) was transferred from the northeast pier supporting the dome, to the southeast, in order to reveal earlier murals. After 1974, sufferred serious damage, while sections of the murals were detached by looters and illegally exported abroad. Conservation/cleaning: 1963-1964, 1968, 1971 (DAC) </desc>
                     <desc type="donors">Unknown</desc>
@@ -2311,6 +2311,7 @@
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>3: 254-56</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Lymboure-Kozakou2018"/><citedRange>223-25</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 614-25</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2022"/></bibl>
                     </listBibl>
                 </place>
                 
@@ -2322,14 +2323,14 @@
                     <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
                     <placeName type="diocese" ref="diocese.xml#jerusalem">Exarchate of the Holy Sepulchre in Cyprus</placeName>
                     <location><geo>35.2841, 33.388943</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function"><term>Monastic</term>...</desc>
+                    <desc type="construction"><date notBefore="1067" notAfter="1100" precision="medium">Late 11th century</date></desc>
+                    <desc type="function"><term>Monastic</term></desc>
                     <desc type="context"><term>Rural</term></desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="architectural">Cross-vaulted(?) rectangular hall, with an apse to the east</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (apse)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
+                    <desc type="conservation">Very fragmentary; very poor state of preservation. Conservation/cleaning: <!-- check year -->??? (DAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -2340,9 +2341,13 @@
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
-                        <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>75</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>3: 254-56</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#..."/><citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1963"/><citedRange>82-83</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>609</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2006b"/><citedRange>428</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>395-405</citedRange></bibl><!-- check pages -->           
+                        <bibl><ptr target="bibliography.xml#Parani2018"/><citedRange>81-82 note 230</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 616</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2022"/><citedRange>...</citedRange></bibl><!-- check pages -->
                     </listBibl>
                 </place>
                 
