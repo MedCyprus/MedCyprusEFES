@@ -2198,29 +2198,33 @@
                 
                 <place xml:id="Polemi" n="51">
                     <placeName xml:lang="en">Polemi, Panagia Chryseleousa</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el"> Πολέμι, Παναγία Χρυσελεούσα</placeName>
+                    <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
+                    <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.88661858181086, 32.50745041244136</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium">12th century, with subsequent alterations and additions (15th century, 18th century)</date></desc>
+                    <desc type="function"><term>Parochial</term></desc>
+                    <desc type="context"><term>Village</term></desc>
+                    <desc type="architectural">Domed-hall church, with narthex subsequently added to the west (15th century). A larger, single-aisled vaulted church was added to the south in 1723.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (bema; dome: pendentives; naos)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="conservation">Very fragmentary; some murals bear hammer marks. Conservation/cleaning: 2012-2013 (DAC)</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">Not listed</idno>
+                    <idno type="HGC">Not listed</idno>
+                    <idno type="geonames">https://www.geonames.org/16947/panagia-chryseleousa.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>390-91</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>81</citedRange></bibl> 
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2008, 37-38; 2009, 29</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>16: 99-101</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 228-43</citedRange></bibl>
                     </listBibl>
                 </place>
                 
