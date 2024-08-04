@@ -2230,29 +2230,36 @@
                 
                 <place xml:id="Rizokarpaso" n="52">
                     <placeName xml:lang="en">Rizokarpaso, Saint Mavra</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Ριζοκάρπασο, Αγία Μαύρα</placeName>
+                    <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
+                    <placeName type="diocese" ref="diocese.xml#karpasia">Bishopric of Karpasia</placeName>
                     <location><geo>35.609, 34.379</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium">12th century, with subsequent additions</date></desc>
+                    <desc type="function"><term>Unknown</term></desc>
+                    <desc type="context"><term>Rural</term></desc>
+                    <desc type="architectural">Single-aisled vaulted church, with a now ruinous narthex subsequently added to the west (date unknown)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium" source="bibliography.xml#Papageorgiou2010">Papageorgiou: 12th century; </date>
+                            <date notBefore="1201" notAfter="1300" precision="medium" source="bibliography.xml#Chotzakoglou2010a">Chotzakoglou: 13th century</date> (bema; naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1500" precision="medium">13th century or later</date> (naos: north central recess; southwest recess)</desc> <!--need to see good photos of these to get a better idea about the dating -->
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
+                    <desc type="conservation">Fragmentary; poor state of preservation. Conservation/cleaning: 1967 (DAC)</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0084.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/146105/229/</idno>
-                    <idno type="geonames">...</idno>
+                    <idno type="geonames">https://www.geonames.org/19348/agia-mavra.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>445-50</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>412</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1967, 11</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 59-60</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>631-32</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>445-50</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>343-48</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>12: 379-81</citedRange></bibl>
                     </listBibl>
                 </place>
@@ -2315,7 +2322,7 @@
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>75</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>3: 254-56</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#..."/><citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
                 
