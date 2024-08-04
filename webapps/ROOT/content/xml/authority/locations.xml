@@ -1928,6 +1928,7 @@
                         <bibl><ptr target="bibliography.xml#Kalopissi-Verti2012"/><citedRange>115-208</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#NicolaïdèsWinfield2012"/><citedRange>93-112</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Ševčenko2012"/><citedRange>69-90</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#WeylCarr2012a"/><citedRange>211-310</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#WeylCarrNicolaïdès2012"/></bibl>
                         <bibl><ptr target="bibliography.xml#SneldersImmerzeel2012-13"/><citedRange>84</citedRange></bibl>
                     </listBibl>
@@ -2272,7 +2273,7 @@
                     <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
                     <placeName type="diocese" ref="diocese.xml#jerusalem">Exarchate of the Holy Sepulchre in Cyprus</placeName>
                     <location><geo>35.28375, 33.38907</geo></location>
-                    <desc type="construction"><date notBefore="1067" notAfter="1100" precision="medium">Late 11th century, with subsequent additions and alterations (12th, 14th, 15th/16th centuries)</date></desc>
+                    <desc type="construction"><date notBefore="1090" notAfter="1110" precision="low">ca 1100, with subsequent additions and alterations (12th, 14th, 15th centuries)</date></desc>
                     <desc type="function"><term>Monastic</term></desc>
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Variation of the simple domed octagon church, with six supports instead of eight; apsidal narthex subsequently added to the west (12th century)</desc>
@@ -2282,7 +2283,7 @@
                         <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (naos)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1600" precision="medium">15th/16th century</date> (bema; narthex)</desc>
                     </desc>
-                    <desc type="conservation">Very fragmentary; poor state of preservation. During restoration work in the 1960s, the mural of St Ignatios (3rd layer) was transferred from the northeast pier supporting the dome, to the southeast, in order to reveal earlier murals. After 1974, sufferred serious damage, while sections of the murals were detached by looters and illegally exported abroad. Conservation/cleaning: 1963-1964, 1968, 1971 (DAC) </desc>
+                    <desc type="conservation">Very fragmentary; poor state of preservation. During restoration work in the 1960s, the mural of St Ignatios (3rd layer) was transferred from the northeast pier supporting the dome, to the southeast, in order to reveal earlier murals. After 1974, the murals sufferred serious damage, while sections were detached by looters and illegally exported abroad. Conservation/cleaning: 1963-1964, 1968, 1971 (DAC) </desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -2323,14 +2324,14 @@
                     <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
                     <placeName type="diocese" ref="diocese.xml#jerusalem">Exarchate of the Holy Sepulchre in Cyprus</placeName>
                     <location><geo>35.2841, 33.388943</geo></location>
-                    <desc type="construction"><date notBefore="1067" notAfter="1100" precision="medium">Late 11th century</date></desc>
+                    <desc type="construction"><date notBefore="1090" notAfter="1110" precision="low">ca 1100</date></desc>
                     <desc type="function"><term>Monastic</term></desc>
                     <desc type="context"><term>Rural</term></desc>
-                    <desc type="architectural">Cross-vaulted(?) rectangular hall, with an apse to the east</desc>
+                    <desc type="architectural">Groin-vaulted rectangular hall, with an apse to the east</desc>
                     <desc type="mural">
                         <desc type="layer" n="1"><date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (apse)</desc>
                     </desc>
-                    <desc type="conservation">Very fragmentary; very poor state of preservation. Conservation/cleaning: <!-- check year -->??? (DAC)</desc>
+                    <desc type="conservation">Very fragmentary; very poor state of preservation. Conservation/cleaning: 1964, 1966 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -2338,29 +2339,29 @@
                     <idno type="HGC">https://cyprusgazetteer.org/146052/235/</idno>
                     <idno type="geonames">https://www.geonames.org/20096/panagia-apsinthiotissa.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2022"/><citedRange>143</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Papageorgiou1963"/><citedRange>82-83</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>609</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2006b"/><citedRange>428</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>395-405</citedRange></bibl><!-- check pages -->           
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>398</citedRange></bibl>           
                         <bibl><ptr target="bibliography.xml#Parani2018"/><citedRange>81-82 note 230</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 616</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papageorgiou2022"/><citedRange>...</citedRange></bibl><!-- check pages -->
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2022"/><citedRange>134, 143</citedRange></bibl>
                     </listBibl>
                 </place>
                 
                 <place xml:id="Sotira" n="55">
                     <placeName xml:lang="en">Sotira (Ammochostou), Transfiguration</placeName>
                     <placeName xml:lang="en">Sotera (Famagusta), Transfiguration</placeName>
-                    <placeName xml:lang="el">Σωτήρα (Αμμοχώστου)</placeName>
+                    <placeName xml:lang="el">Σωτήρα (Αμμοχώστου), Μεταμόρφωση του Σωτήρος</placeName>
                     <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
                     <placeName type="diocese" ref="diocese.xml#constantia">Bishopric of Constantia and Famagusta</placeName>
                     <location><geo>35.02873782723978, 33.95298959004183</geo></location>
                     <desc type="construction"><date notBefore="1201" notAfter="1300" precision="medium">13th century</date></desc>
-                    <desc type="function">Parochial; funerary; </desc>
-                    <desc type="context">Rural</desc>
+                    <desc type="function"><term>Parochial</term>; <term>cemeterial</term>(?)</desc>
+                    <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Single-aisled cross-in-square church with dome, on the ruins of an early Christian basilica</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="0701" notAfter="0800" precision="low">Pending</date></desc>
@@ -2372,7 +2373,7 @@
                     <desc type="conservation">Poor condition. Partially preserved</desc>
                     <desc type="donors">Uknown</desc>
                     <desc type="painter">Uknown</desc>
-                    <desc type="graffiti">See Grafmedia</desc>
+                    <desc type="graffiti">Presence verified (G. M. Trentin)</desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">Not listed</idno>
                     <idno type="geonames">https://www.geonames.org/146068/sotira.html</idno>
@@ -2382,19 +2383,16 @@
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Soteriou1935"/><citedRange>pl. 38a</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>427</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1989, 29-30</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1991, 26</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1996, 22</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1998, 28</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1999, 25</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2000, 30</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2002, 34</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1989, 29-30; 1991, 26; 1996, 22; 1998, 28; 1999, 25; 2000, 30; 2002, 34</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#IoannouHadjichristodoulou2002"/><citedRange>29-36</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2005, 40-1</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2008, 35</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>2011 v. 13, 63-4</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange> v. 2, 422-4</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#EcclesMon"/>2<citedRange> 628-39</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2005, 40-41; 2008, 35</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Spanou2001"/><citedRange>102</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#WeylCarr2007"/><citedRange>87, 92</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Spanou2009"/><citedRange>59</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#WeylCarr2012b"/><citedRange>78</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>13: 63-64</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange> 2: 422-24</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange> 2: 628-39</citedRange></bibl>
                     </listBibl>
                 </place>
                 
