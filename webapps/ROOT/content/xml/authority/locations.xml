@@ -948,7 +948,7 @@
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1968, 11; 1969, 11</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1999b"/><citedRange>54-57</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>650-51</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Hadjichristodoulou2006b"/><citedRange>226-29</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2006a"/><citedRange>226-29</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>117-22</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>4: 183-84 </citedRange></bibl>
                     </listBibl>
@@ -2265,57 +2265,77 @@
                 </place>
                 
                 <place xml:id="SichariKatholikon" n="53">
-                    <placeName xml:lang="en">Sichari, Monastery of Panagia Apsinthiotissa, katholikon</placeName>
-                    <placeName xml:lang="en">Sychari, Monastery of Panagia Apsinthiotissa, katholikon</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="en">Sichari, Monastery of Panagia Apsinthiotissa, main church</placeName>
+                    <placeName xml:lang="en">Sychari, Monastery of Panagia Apsinthiotissa, main church</placeName>
+                    <placeName xml:lang="el">Συγχαρί, Μονή Παναγίας Αψινθιώτισσας, καθολικό</placeName>
+                    <placeName xml:lang="el">Συχαρί, Μονή Παναγίας Αψινθιώτισσας, καθολικό</placeName>
+                    <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#jerusalem">Exarchate of the Holy Sepulchre in Cyprus</placeName>
                     <location><geo>35.28375, 33.38907</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1067" notAfter="1100" precision="medium">Late 11th century, with subsequent additions and alterations (12th, 14th, 15th/16th centuries)</date></desc>
+                    <desc type="function"><term>Monastic</term></desc>
+                    <desc type="context"><term>Rural</term></desc>
+                    <desc type="architectural">Variation of the simple domed octagon church, with six supports instead of eight; apsidal narthex subsequently added to the west (12th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1090" notAfter="1110" precision="low">ca 1100</date> (bema; naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1151" notAfter="1200" precision="medium">second half of 12th century</date> (narthex)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (naos)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (bema)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="conservation">Very fragmentary; poor state of preservation. During restoration work in the 1960s, the mural of St Ignatios (3rd layer) was transferred from the northeast pier supporting the dome, to the southeast, in order to reveal earlier murals. After 1974, sufferred serious damage, while sections of the murals were detached by looters and illegally exported abroad. Conservation/cleaning: 1963-1964, 1968, 1971 (DAC) </desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0014.html</idno>
+                    <idno type="HGC">https://cyprusgazetteer.org/146052/235/</idno>
+                    <idno type="geonames">https://www.geonames.org/20096/panagia-apsinthiotissa.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>275-76</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>434</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1963, 11</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1963"/></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1964, 9</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1964"/><citedRange>210-12, 274-76, 352-53</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1965, 9</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1965"/><citedRange>91, 293-97</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1966, 10; 1968, 11; 1971, 13</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Enlart1987"/><citedRange>205-06</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 85-86</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>522-23, 528, 533, 608-09, 647-48</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2006b"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange>332, 376</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>395-405</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>3: 254-56</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Lymboure-Kozakou2018"/><citedRange>223-25</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 614-25</citedRange></bibl>
                     </listBibl>
                 </place>
                 
                 <place xml:id="SichariRefectory" n="54">
                     <placeName xml:lang="en">Sichari, Monastery of Panagia Apsinthiotissa, refectory</placeName>
                     <placeName xml:lang="en">Sychari, Monastery of Panagia Apsinthiotissa, refectory</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Συγχαρί, Μονή Παναγίας Αψινθιώτισσας, τράπεζα</placeName>
+                    <placeName xml:lang="el">Συχαρί, Μονή Παναγίας Αψινθιώτισσας, τράπεζα</placeName>
+                    <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#jerusalem">Exarchate of the Holy Sepulchre in Cyprus</placeName>
                     <location><geo>35.2841, 33.388943</geo></location>
                     <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
+                    <desc type="function"><term>Monastic</term>...</desc>
+                    <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">...</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
                     </desc>
                     <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0014.html</idno>
+                    <idno type="HGC">https://cyprusgazetteer.org/146052/235/</idno>
+                    <idno type="geonames">https://www.geonames.org/20096/panagia-apsinthiotissa.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
