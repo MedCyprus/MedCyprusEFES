@@ -2359,20 +2359,21 @@
                     <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
                     <placeName type="diocese" ref="diocese.xml#constantia">Bishopric of Constantia and Famagusta</placeName>
                     <location><geo>35.02873782723978, 33.95298959004183</geo></location>
-                    <desc type="construction"><date notBefore="1201" notAfter="1300" precision="medium">13th century</date></desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1233" precision="medium">12th century - early 13th century, with subsequent additions and alterations (15th/16th and 19th centuries)</date></desc>
                     <desc type="function"><term>Parochial</term>; <term>cemeterial</term>(?)</desc>
                     <desc type="context"><term>Village</term></desc>
-                    <desc type="architectural">Single-aisled cross-in-square church with dome, on the ruins of an early Christian basilica</desc>
+                    <desc type="architectural"> Currently, a domed-hall church, resulting from the remodeling of an earlier (8th century?) single-aisled structure built over the nave of an Early Byzantine basilica; an annex of uncertain date was constructed along the south side of the church, later concealed by the 19th-century south portico.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="0701" notAfter="0800" precision="low">Pending</date></desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1234" precision="low">Pending</date></desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1269" notAfter="1300" precision="medium">Last third 13th century</date> (bema [prothesis: disk with asterisk], naos)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (bema [prothesis: figure in/and the chalice], naos: northeastern small recess)</desc>
-                        <desc type="layer" n="5">5th layer: <date notBefore="1801" notAfter="1900" precision="medium">19th century</date> (bema [prothesis: Christ's humiliation])</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="0701" notAfter="0900" precision="low">8th or 9th century</date> (naos: behind the southeast pilaster) </desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1234" precision="low">12th or early 13th century</date> (naos: north recesses on either side of the dome; northeast pilaster supporting the dome)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="medium">last third of 13th century</date> (prothesis; naos: east vault, central bay, west vault, west wall?)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (prothesis; naos: western pilasters supporting the dome)</desc>
+                        <desc type="layer" n="5">5th layer: <date notBefore="1801" notAfter="1900" precision="medium">19th century</date> (bema; prothesis)</desc>
                     </desc>
-                    <desc type="conservation">Poor condition. Partially preserved</desc>
-                    <desc type="donors">Uknown</desc>
-                    <desc type="painter">Uknown</desc>
+                    <desc type="conservation">Fragmentary; fair condition, though the lower parts of some of the murals on the north wall were damaged by humidity. Conservation/cleaning: 1989, 1991, 1996, 1998-2000, 2002, 2008, 2016 (DAC)
+                    </desc>
+                    <desc type="donors">3rd layer: one, possibly two portraits of male supplicants on the north wall; in the absence of surviving inscriptions their potential contribution to the decoration of the church remains unclear</desc>
+                    <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence verified (G. M. Trentin)</desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">Not listed</idno>
