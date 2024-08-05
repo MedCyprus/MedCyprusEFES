@@ -2426,7 +2426,7 @@
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>432-33</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kyriazes1950"/><citedRange>159</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Tsiknopoullos1971"/><citedRange>270-71</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1974, 22; 1975; 20</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1974, 22; 1975, 20</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>25, 94</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 23-24, 107</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>19: 454-55</citedRange></bibl>
@@ -2438,31 +2438,38 @@
                 
                 <place xml:id="Strovolos" n="57">
                     <placeName xml:lang="en">Strovolos, Panagia Chryseleousa</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Στρόβολος, Παναγία Χρυσελεούσα</placeName>
+                    <placeName type="district" ref="district.xml#nicosia">Nicosia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#archbishopric">Archbishopric of Cyprus</placeName>
                     <location><geo>35.14623829914817, 33.34058343986419</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1201" notAfter="1300" precision="medium">13th century(?), with major remodelling in the 19th and 20th centuries</date></desc>
+                    <desc type="function"><term>Parochial</term>(?)</desc>
+                    <desc type="context"><term>Village</term>(?)</desc>
+                    <desc type="architectural">Originally, a domed triconch or tetraconch; in 1817, the eastern apse was demolished and enlarged and the western part was also demolished and the church expanded to the west. What remained of the original church was incorporated into the modern church to serve as its sanctuary.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1267" notAfter="1333" precision="medium">late 13th - early 14th century</date> (dome; south conch: east wall [repainted in the 20th century])</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (prothesis)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1901" notAfter="2000" precision="medium">20th century</date> (south conch)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="conservation">Fragmentary; dome murals: fairly good state of preservation. Conservation/cleaning: 1981,1990, 2006, 2016 (DAC)</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">Not listed</idno>
+                    <idno type="HGC">Not listed</idno>
+                    <idno type="geonames">https://www.geonames.org/10178068/panagia-chryseleousa.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1999a"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Hadjichristodoulou2017"/><citedRange>43-51, 55</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>298</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>433</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1981, 12-13; 1990, 24</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1999a"/></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2006, 28; 2010, 33</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>19: 447-48</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Hadjichristodoulou2017"/><citedRange>38-55</citedRange></bibl>
                     </listBibl>
                 </place>
                 
