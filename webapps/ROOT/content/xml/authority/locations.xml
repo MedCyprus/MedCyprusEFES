@@ -2476,33 +2476,41 @@
                 <place xml:id="Sygkrasi" n="58">
                     <placeName xml:lang="en">Sygkrasi, Saint Prokopios</placeName>
                     <placeName xml:lang="en">Synkrasi, Saint Prokopios</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Σύγκραση, Άγιος Προκόπιος</placeName>
+                    <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
+                    <placeName type="diocese" ref="diocese.xml#constantia">Bishopric of Constantia and Famagusta</placeName>
                     <location><geo>35.268, 33.855</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="0901" notAfter="1000" precision="medium">10th century</date></desc>
+                    <desc type="function"><term>Parochial</term>(?); <term>funerary</term></desc>
+                    <desc type="context"><term>Village</term>(?)</desc>
+                    <desc type="architectural">Domed pier cross-in-square church, built on the site and incorporating elements of an Early Byzantine basilica</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date>10th century</date> (naos: only the inscription [<ref target="MedCY.058.001.html">MedCY.058.001</ref>] may be ascribed with certainty to this layer)</desc>
+                        <desc type="layer" n="2">2nd layer: <date>14th century</date> (diakonikon; naos: west piers, south wall)</desc>
+                        <desc type="layer" n="3">3rd layer: <date when="1887" precision="high">1887</date> (naos: southwest pier, north face)</desc>                        
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
+                    <desc type="conservation">Fragmentary; very poor state of preservation; murals faded. After 1974, the face of a military saint on horseback on the south face of the northwestern pier was covered with plaster. Conservation/cleaning: -</desc>
+                    <desc type="donors">
+                        1st layer: the potential contribution of the author/narrator of an extensive funerary inscription (<ref target="MedCY.058.001.html">MedCY.058.001</ref>) in the southwestern part of the church to the mural decoration is unclear.
+                        3rd layer: fragmentary inscriptions mentions a male donor and his family; no names survive</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0097.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/146049/245/</idno>
-                    <idno type="geonames">...</idno>
+                    <idno type="geonames">https://www.geonames.org/19752/agios-prokopios.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Papacostas2002"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Metcalf2009"/><citedRange>226</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>241</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>434-35</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Hadjichristofi1997"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas2002"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>489, 490, 493, 513, 532, 576, 682</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Metcalf2009"/><citedRange>226</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>406-09</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>16: 213-14</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#..."/>... <citedRange>...</citedRange></bibl>
                     </listBibl>
                 </place>
                 
