@@ -2372,7 +2372,7 @@
                     </desc>
                     <desc type="conservation">Fragmentary; fair condition, though the lower parts of some of the murals on the north wall were damaged by humidity. Conservation/cleaning: 1989, 1991, 1996, 1998-2000, 2002, 2008, 2016 (DAC)
                     </desc>
-                    <desc type="donors">3rd layer: one, possibly two portraits of male supplicants on the north wall; in the absence of surviving inscriptions their potential contribution to the decoration of the church remains unclear</desc>
+                    <desc type="donors">3rd layer: one, possibly two portraits of male supplicants on the north wall; in the absence of surviving inscriptions, their potential contribution to the decoration of the church remains unclear</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence verified (G. M. Trentin)</desc>
                     <idno type="IBCC">Not listed</idno>
@@ -2399,30 +2399,40 @@
                 
                 <place xml:id="Steni" n="56">
                     <placeName xml:lang="en">Steni, Panagia Chrysolakourna</placeName>
-                    <placeName xml:lang="el">Stene, Panagia Chrysolakourna</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Στενή, Παναγία Χρυσολάκουρνα</placeName>
+                    <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
+                    <placeName type="diocese" ref="diocese.xml#arsinoe">Bishopric of Arsinoe</placeName>
                     <location><geo>35.01200774055926, 32.47762381418622</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium">12th century, with subsequent alterations and remodelling (14th, 16th centuries)</date></desc>
+                    <desc type="function"><term>Monastic</term></desc>
+                    <desc type="context"><term>Rural</term></desc>
+                    <desc type="architectural">Currently, a three-aisled vaulted basilica, the result of major reconstruction in the 1970s by DAC. Originally, the church may have been a cross-in-square building</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (nave)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (bema; nave)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="conservation">Very fragmentary; during the 20th-century reconstruction of the vaulting, ashlars from the site bearing fragments of murals were employed in no particular order. Ashlars bearing mural fragments are also kept in the <ref target="locations.xml#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning: -</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0031.html</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/146057/244/</idno>
+                    <idno type="geonames">https://www.geonames.org/146057/steni.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>409-10</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>432-33</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kyriazes1950"/><citedRange>159</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Tsiknopoullos1971"/><citedRange>270-71</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1974, 22; 1975; 20</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>25, 94</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 23-24, 107</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>19: 454-55</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2: 432-34</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Philotheou2021"/><citedRange>27-31</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 272-83</citedRange></bibl>
                     </listBibl>
                 </place>
                 
