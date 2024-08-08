@@ -2519,20 +2519,20 @@
                     <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.84692924848204, 32.44507332518793</geo></location>
-                    <desc type="construction"><date notBefore="1159" notAfter="1197" precision="medium">1159/60: cell, also containing the tomb of St Neophytos, and the bema; 1183: naos; after 1170: narthex, hagiasterion (small space above the naos), New Zion (i.e., new cell, above the hagiasterion)</date></desc>
+                    <desc type="construction"><date notBefore="1159" notAfter="1197" precision="medium">1159/60: cell, also containing the tomb of Neophytos the Recluse, and the bema; 1183: naos; after 1170: narthex, hagiasterion (small space above the naos), New Zion (i.e., new cell, above the hagiasterion)</date></desc>
                     <desc type="function"><term>Hermitage</term>; <term>monastic</term>; <term>funerary</term></desc>
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Rock-cut complex, comprising the cell with the tomb, the bema, the trapezoidal naos, and the narthex</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1159" notAfter="1183" precision="medium">1159/60 - 1183</date> (cell)</desc>
                         <desc type="layer" n="2">2nd layer: <date when="1183" precision="high">1183</date> (bema; cell)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1197" notAfter="1214" precision="medium">after 1197 - 1214 (death of St Neophytos)</date> (bema; naos)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1495" notAfter="1505" precision="low">ca. 1500</date> (narthex)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1197" notAfter="1214" precision="medium">after 1197 - 1214 (death of Neophytos the Recluse)</date> (bema; naos)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1495" notAfter="1505" precision="low">ca 1500</date> (narthex)</desc>
                         <desc type="layer" n="5">5th layer: <date when="1503" precision="high">1503 </date> (bema; naos)</desc>
                     </desc>
-                    <desc type="conservation">1963-1964, 1970 (Dumbarton Oaks Centre), 1976,1984, 1987, 1989, 1992, 2005 (DAC)</desc>
+                    <desc type="conservation">Very good state of preservation. Conservation/cleaning: 1963-1964, 1970 (Dumbarton Oaks), 1976,1984, 1987, 1989, 1992, 2005 (DAC)</desc>
                     <desc type="donors">
-                        1st - 3rd layers: Saint Neophytos, as attested by extant portraits and inscriptions <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)--> in the complex, as well as by the writings of the saint
+                        1st - 3rd layers: Neophytos the Recluse, as attested by extant portraits and inscriptions <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)--> in the complex, as well as by the writings of the saint
                         5th layer: the monk Neophytos, mentioned in an inscription in the naos</desc>
                     <desc type="painter">2nd layer: Theodore Apseudes (<ref target="MedCY.059.125.html">MedCY.059.125</ref>)</desc>
                     <desc type="graffiti">Yes (<bibl><ptr target="bibliography.xml#MangoHawkins1966"/><citedRange>121, 132, 138, 153, 180</citedRange></bibl>)</desc>
@@ -2576,30 +2576,32 @@
                 <place xml:id="TalaRefectory" n="60">
                     <placeName xml:lang="en">Tala, Hermitage of Saint Neophytos, refectory</placeName>
                     <placeName xml:lang="el">Τάλα, Ἐγκλείστρα Αγίου Νεοφύτου, τράπεζα</placeName>
-                    <placeName type="district" ref="district.xml#Paphos">Paphos</placeName>
-                    <placeName type="diocese" ref="diocese.xml#Paphos">Bishopric of Paphos</placeName>
+                    <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
+                    <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.84692924848204, 32.44507332518793</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1170" notAfter="1197" precision="medium">Between 1170 and 1197</date></desc>
+                    <desc type="function"><term>Monastic</term></desc>
+                    <desc type="context"><term>Rural</term></desc>
+                    <desc type="architectural">Rock-cut trapezoidal hall</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1197" notAfter="1214" precision="medium">ca 1200</date> (ceiling; east, west and south walls)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1495" notAfter="1505" precision="low">ca 500</date> (west wall)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">...</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="conservation">Fragmentary. Conservation/cleaning: -</desc> <!--Check dates for conservation of Refectory -->
+                    <desc type="donors">1st layer: Neophytos the Recluse (though no inscription or portrait survives)</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Yes (<bibl><ptr target="bibliography.xml#MangoHawkins1966"/><citedRange>187</citedRange></bibl>)</desc>
+                    <idno type="IBCC">Not listed</idno>
+                    <idno type="HGC">Not listed</idno>
+                    <idno type="geonames">https://www.geonames.org/146714/agios-neofytos.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml.#MangoHawkins1966"/><citedRange>186-90</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>202</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>13: 395 </citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml.#MangoHawkins1966"/><citedRange>133-35, 186-90, 193, 202-04</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml.#Papageorgiou2004"/><citedRange>12, 32</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>13: 395 </citedRange></bibl>
                     </listBibl>
                 </place>
                 
