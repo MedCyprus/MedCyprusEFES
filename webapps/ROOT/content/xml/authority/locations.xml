@@ -903,6 +903,7 @@
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1968, 9; 1969, 8</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Myriatheas1969"/></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1970, 9; 1971, 9; 1973, 14</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#HatfieldYoung1983"/><citedRange>144-245</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>292-320</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 37-38</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kokkinophtas2000"/><citedRange>180-82</citedRange></bibl>
@@ -1798,6 +1799,7 @@
                     <idno type="geonames">https://www.geonames.org/12636/panagia.html</idno>
                     <listBibl type="inscriptions">
                         <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>102-03</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#HatfieldYoung1983"/><citedRange>246-320</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Mouriki1984"/><citedRange>171-213</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange> 113</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange> 334, 341</citedRange></bibl>
@@ -1898,6 +1900,7 @@
                         <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>98-9</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Sacopoulo1966"/></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1973"/></bibl>
+                        <bibl><ptr target="bibliography.xml#HatfieldYoung1983"/><citedRange>321-81</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>76-79</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#HadjichristodoulouMyrianthefs2009"/></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange> 107-8, 111-2</citedRange></bibl>
@@ -2555,6 +2558,7 @@
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1963, 10; 1964, 8</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml.#MangoHawkins1966"/><citedRange>119-206</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1970, 12; 1976, 21</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#HatfieldYoung1983"/><citedRange>20-143</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>87-90</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Tomeković1993"/><citedRange>151-71</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>71-72</citedRange></bibl>
@@ -2567,6 +2571,7 @@
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2010b"/><citedRange>917-57</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#KakkouliFischer2010"/><citedRange>437-61</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Triantafyllopoulos2010"/><citedRange>817-32</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Winfield2010"/><citedRange>886-900</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>13: 392-399</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#SneldersImmerzeel2012-13"/><citedRange>83-86</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml.#Bordne2015"/><citedRange>27-36</citedRange></bibl>
@@ -2653,7 +2658,7 @@
                         <desc type="layer" n="3">3rd layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (north aisle)</desc>
                         <desc type="layer" n="4">4th layer: <date when="1959" precision="high">1959</date> (prothesis)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary; good state of presevation. Conservation/cleaning: 1965-1966 (Greek Archaeological Service), 2008 <!-- Who carried out this work? -->
+                    <desc type="conservation">Fragmentary; good state of presevation. Conservation/cleaning: 1965-1966 (Greek Archaeological Service), 2008 (TCCH - unofficial emergency work)
                     </desc>
                     <desc type="donors">
                         1st layer: one donor (gender unclear) addresses a prayer to the Theotokos, but no name survives <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->
@@ -2697,30 +2702,36 @@
                 <place xml:id="Xylotymvou" n="63">
                     <placeName xml:lang="en">Xylotymvou, Saint Basil</placeName>
                     <placeName xml:lang="en">Xylotympou, Saint Basil</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Ξυλοτύμβου, Άγιος Βασίλειος</placeName>
+                    <placeName xml:lang="el">Ξυλοτύμπου, Άγιος Βασίλειος</placeName>
+                    <placeName type="district" ref="district.xml#larnaca">Larnaca</placeName>
+                    <placeName type="diocese" ref="diocese.xml#kition">Bishopric of Kition</placeName>
                     <location><geo>35.023, 33.736</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium">12th century</date></desc>
+                    <desc type="function"><term>Parochial</term>(?); <term>pilgrimage</term>(?)</desc>
+                    <desc type="context"><term>Village fringe</term></desc>
+                    <desc type="architectural">Single-aisled vaulted church</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (bema; naos)</desc>
                     </desc>
-                    <desc type="conservation">...</desc>
-                    <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
+                    <desc type="conservation">Fragmentary; very poor state of preservation. Conservation/cleaning: 1973, 2008 (DAC)</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0026.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/145971/250/</idno>
-                    <idno type="geonames">...</idno>
+                    <idno type="geonames">https://www.geonames.org/15919/agios-vasileios.html</idno>
                     <listBibl type="inscriptions">
                         <bibl ana="unpublished"/>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>197</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>466</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1973, 17</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 21</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Spanou2002"/><citedRange>29-31</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2008, 30-31; 2009, 24</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>3: 362</citedRange></bibl>
                     </listBibl>
                 </place>
                 
