@@ -2639,31 +2639,51 @@
                 
                 <place xml:id="Trikomo" n="62">
                     <placeName xml:lang="en">Trikomo, Panagia</placeName>
-                    <placeName xml:lang="el">...</placeName>
-                    <placeName type="district" ref="district.xml#...">...</placeName>
-                    <placeName type="diocese" ref="diocese.xml#...">...</placeName>
+                    <placeName xml:lang="el">Τρίκωμο, Παναγία</placeName>
+                    <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
+                    <placeName type="diocese" ref="diocese.xml#karpasia">Bishopric of Karpasia</placeName>
                     <location><geo>35.283, 33.889</geo></location>
-                    <desc type="construction"><date>...</date></desc>
-                    <desc type="function">...</desc>
-                    <desc type="context">...</desc>
-                    <desc type="architectural">...</desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1133" precision="medium">Early 12th century, with subsequent additions and alterations (14th/15th and 19th centuries)</date></desc>
+                    <desc type="function"><term>Parochial</term></desc>
+                    <desc type="context"><term>Village</term></desc>
+                    <desc type="architectural">Originally, a domed-hall structure, though with cylindrical piers supporting the dome; north chapel/aisle and successive western extensions subsequently added</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date>...</date> ...</desc>
                     </desc>
                     <desc type="conservation">...</desc>
                     <desc type="donors">...</desc>
-                    <desc type="painter">...</desc>
-                    <desc type="graffiti">...</desc>
-                    <idno type="IBCC">...</idno>
-                    <idno type="HGC">https://cyprusgazetteer.org/252644/248/</idno>
-                    <idno type="geonames">...</idno>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0111.html</idno>
+                    <idno type="HGC">http://www.cyprusgazetteer.org/252644/248/</idno>
+                    <idno type="geonames">https://www.geonames.org/19742/panagia-theotokou.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange>108-09</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml.#Rhoby2009"/><citedRange>376-80</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>429-40</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#HadjichristodoulouFoulias2020"/><citedRange>53-73</citedRange></bibl>
+                        <bibl><ptr target="#VisCult"/><citedRange> 2: 1488-93</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>243</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>444</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1965, 8; 1966, 9</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Winfield1972"/><citedRange>285-91</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Velmans1984"/><citedRange>143-44</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#WeylCarrMorrocco1991"/><citedRange>43-55</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Tomeković1995"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>486-91</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 77</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gkioles2003"/><citedRange>91-92</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange>108-09</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>604-07</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>86-98</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2008, 35</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml.#Rhoby2009"/><citedRange>376-80</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>429-40</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>7: 230-32</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#HadjichristodoulouFoulias2020"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2: 471-73</citedRange></bibl>
                     </listBibl>
                 </place>
                 
