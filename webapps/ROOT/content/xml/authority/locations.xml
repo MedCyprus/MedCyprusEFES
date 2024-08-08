@@ -2016,11 +2016,10 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Single-aisled vaulted church, with a sail-vault narthex subsequently added to the west</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium">11th century</date> <!-- (???) --></desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1167" notAfter="1200" precision="medium">late 12th century</date> <!-- (???) --></desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1201" notAfter="1300" precision="medium">13th century</date> <!-- (???) --></desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium">11th century</date> (naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1167" notAfter="1200" precision="medium">late 12th century</date> (bema; naos: north wall; narthex; exterior west wall of narthex)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary; poor state of preservation; covered in soot. Conservation/cleaning: -</desc>
+                    <desc type="conservation">Fragmentary; poor state of preservation; covered in soot. Conservation/cleaning: 2000 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
