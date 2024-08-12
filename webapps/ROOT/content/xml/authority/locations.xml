@@ -52,6 +52,7 @@
                         <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>63, 74, 91, 94</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>407-8</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2002, 41</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>524</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>7: 210</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 44-57</citedRange></bibl>
                     </listBibl>
@@ -92,6 +93,7 @@
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>511-14</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1999b"/><citedRange>47-52</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2005, 20; 2006, 21</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>541, 545, 586</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>17: 502-05</citedRange></bibl>
                         <bibl><ptr target="bibliographyxml#Bakirtzis2019"/><citedRange>83-100</citedRange></bibl>
                     </listBibl>
@@ -123,7 +125,7 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1967, 11; 1973, 16</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 50</citedRange></bibl>                        
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 50</citedRange></bibl>                                    <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>521</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>442-44</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>349-55</citedRange></bibl>                    
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>18: 499-500</citedRange></bibl>
@@ -360,6 +362,7 @@
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 50</citedRange></bibl> 
                         <bibl><ptr target="bibliography.xml#Spanou2002"/><citedRange> 31</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2003, 18; 2004, 34</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>651</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>178-90</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2008, 28</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>8: 141-42</citedRange></bibl>
@@ -557,6 +560,7 @@
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 22-23</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2001, 41-2; 2002, 42-3; 2003, 36</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gkioles2003"/><citedRange>68-69, 144-45, 186-87</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>524, 619, 650-51</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2004, 47-48</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>19: 445-47</citedRange></bibl>  
                         <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2: 132-34</citedRange></bibl>
@@ -644,6 +648,7 @@
                         <bibl><ptr target="bibliography.xml#Djobadze1984"/><citedRange>196-209</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Enlart1987"/><citedRange>360</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 33</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>525</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2009, 29; 2010, 39</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>4: 350-52</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gagoshidze2014a"/></bibl>
@@ -909,7 +914,7 @@
                         <bibl><ptr target="bibliography.xml#Kokkinophtas2000"/><citedRange>180-82</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2001, 22</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gkioles2003"/><citedRange>60, 61, 170, 171</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>523-24</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>524, 644, 652</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2007, 22-3; 2008, 8</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 79-82</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#WeylCarr2009"/><citedRange>475–99</citedRange></bibl>
@@ -1119,6 +1124,7 @@
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2000, 27; 2002, 30-31</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Spanou2002"/><citedRange>23-29, 34, 36, 38-41</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2003, 26; 2004, 34; 2005, 32-3; 2007, 27; 2008, 29</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>516, 585-86, 594-95, 631, 646, 649/1356, 650</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 83-87</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>2: 321-24</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#SneldersImmerzeel2012-13"/><citedRange>80</citedRange></bibl>
@@ -1166,6 +1172,7 @@
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 6-7</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Spanou2002"/><citedRange>34-37</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Foulias2004"/></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>569, 572-74</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2009, 24</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 91-95</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2010, 33-34</citedRange></bibl>
@@ -1290,6 +1297,7 @@
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1967, 11</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1970"/><citedRange>38-46</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 72</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>490, 495/220, 520-21, 540</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>431-33</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>142-49</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>17: 214-16</citedRange></bibl>
@@ -1555,6 +1563,7 @@
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1953, 13; 1963, 11</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Enlart1987"/><citedRange>202-05</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 2</citedRange></bibl>
+                        <!--ΕΚΚΡΕΜΕΙ ΧΟΤΖΑΚΟΓΛΟΥ ΑΠΟ ΔΩ ΚΑΙ ΚΑΤΩ<bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>?/</citedRange></bibl>-->
                         <bibl><ptr target="bibliography.xml#Foulias2006"/><citedRange>208-13</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 96-98</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>109-16</citedRange></bibl>
