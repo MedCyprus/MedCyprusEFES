@@ -39,7 +39,16 @@
                 </item>
                 <item xml:id="aisle">
                     <term>Aisle</term><!--for basilicas-->
-                </item>       
+                </item>  
+                <item xml:id="refectoryapse">
+                    <term>Refectory apse</term><!--for basilicas-->
+                </item>
+                <item xml:id="refectoryceiling">
+                    <term>Refectory ceiling</term><!--for basilicas-->
+                </item>
+                <item xml:id="refectorywall">
+                    <term>Refectory wall</term><!--for basilicas-->
+                </item>
             </list>
             
             
