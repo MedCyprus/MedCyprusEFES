@@ -1563,7 +1563,7 @@
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1953, 13; 1963, 11</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Enlart1987"/><citedRange>202-05</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 2</citedRange></bibl>
-                        <!--ΕΚΚΡΕΜΕΙ ΧΟΤΖΑΚΟΓΛΟΥ ΑΠΟ ΔΩ ΚΑΙ ΚΑΤΩ<bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>?/</citedRange></bibl>-->
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>466, 470, 472, 475-77, 482, 505, 511, 516, 529/502, 569/840, 635, 672-73, 678-79, 689</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Foulias2006"/><citedRange>208-13</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 96-98</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>109-16</citedRange></bibl>
