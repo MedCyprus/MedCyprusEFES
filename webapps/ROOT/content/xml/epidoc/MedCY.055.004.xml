@@ -74,9 +74,8 @@
                 <ab>
                     <cb n="a"/>
                     <lb n="1"/><w lemma="ἀρχή"><choice><orig>A</orig><reg>Ἀ</reg></choice>ρχ<choice><orig>η</orig><reg><unclear>ὴ</unclear></reg></choice></w>
-                    <lb n="2"/><supplied reason="omitted">τοῦ</supplied>
-                    <lb n="3"/><w lemma="εὐαγγέλιο"><supplied reason="omitted">Εὐα</supplied>
-                    <lb n="4" break="no"/>
+                    <lb n="2"/><supplied reason="omitted">τοῦ</supplied> <w lemma="εὐαγγέλιο"><supplied reason="omitted">Εὐα</supplied>
+                    <lb n="3" break="no"/>
                     <cb n="b"/>
                     <lb n="1"/>γγελ<supplied reason="lost">ί</supplied>
                     <lb n="2" break="no"/>ου</w> <persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς Χριστός"></name><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><supplied reason="lost"><ex>ησο</ex><abbr rend="supraline">ῦ</abbr></supplied></expan>

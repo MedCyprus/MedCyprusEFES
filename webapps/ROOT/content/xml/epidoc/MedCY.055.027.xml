@@ -74,7 +74,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/>Ὁ <name nymRef="#πανραζυγιαστής"><w lemma="πανραζυγιαστής">π<hi rend="ligature">αν</hi>ρα<unclear>ζ</unclear><supplied reason="lost">υγια</supplied>στής</w></name>
+                    <lb n="1"/>Ὁ <name nymRef="#πανραζυγιαστής"><w lemma="πανραζυγιαστής">π<hi rend="ligature">αν</hi>ρα<unclear>ζ</unclear><supplied reason="lost">υγια</supplied>στής</w> <choice><orig></orig><reg>(?)</reg></choice></name>
                 </ab>
             </div>
             <div type="apparatus">
