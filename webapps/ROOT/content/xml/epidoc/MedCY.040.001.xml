@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#aisle">South aisle, soffit of arch connecting western pier to the west wall, west face</rs>
+                                    <rs type="placement-building" ref="#nave">Nave, soffit of arch connecting western pier to the west wall, west face</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
