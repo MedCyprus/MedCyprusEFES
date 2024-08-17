@@ -2542,7 +2542,7 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1159" notAfter="1183" precision="medium">1159/60 - 1183</date> (cell)</desc>
                         <desc type="layer" n="2">2nd layer: <date when="1183" precision="high">1183</date> (bema; cell)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1197" notAfter="1214" precision="medium">after 1197 - 1214 (death of Neophytos the Recluse)</date> (bema; naos)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1197" notAfter="1214" precision="medium">after 1197 - 1214 (death of Neophytos the Recluse)</date> (naos)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1495" notAfter="1505" precision="low">ca 1500</date> (narthex)</desc>
                         <desc type="layer" n="5">5th layer: <date when="1503" precision="high">1503 </date> (bema; naos)</desc>
                     </desc>
