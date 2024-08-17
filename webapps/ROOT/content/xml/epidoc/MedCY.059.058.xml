@@ -47,7 +47,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Tala">Tala, Hermitage of Saint Neophytos</origPlace>
-                            <origDate notBefore="1197" notAfter="1214" precision="medium">After 1197 - 1214</origDate>
+                            <origDate notBefore="1197" notAfter="1214" precision="medium">After 1197-1214</origDate>
                         </origin>                        
                         <provenance when="2022">
                         </provenance>    
