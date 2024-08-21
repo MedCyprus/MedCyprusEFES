@@ -125,10 +125,10 @@
                 </item>
                 <item xml:id="liturgical">
                     <term xml:lang="en">Liturgical</term>
-                </item><item xml:id="newtestament">
+                </item><item xml:id="Newtestament">
                     <term xml:lang="en">New Testament</term>
                 </item>
-                <item xml:id="oldtestament">
+                <item xml:id="Oldtestament">
                     <term xml:lang="en">Old Testament</term>
                 </item>                
             </list>            
