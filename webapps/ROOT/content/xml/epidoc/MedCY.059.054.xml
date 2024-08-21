@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#ceiling">Ceiling, on the west, next to Washing of the Feet scene</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, on the west, upper register, next to the Washing of the Feet's scene</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -66,8 +66,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-054-01.JPG"><desc>Ceiling, on the west, next to Washing of the Feet scene, inscription detail</desc></graphic>
-        <graphic url="059-054-02.JPG"><desc>Ceiling, on the west, next to Washing of the Feet scene, general view</desc></graphic>
+         <graphic rend="primary" url="059-054-01.JPG"><desc>Naos, on the west, upper register, next to the Washing of the Feet's scene, inscription detail</desc></graphic>
+        <graphic url="059-054-02.JPG"><desc>Naos, on the west, upper register, next to the Washing of the Feet's scene, general view</desc></graphic>
     </facsimile>
     <text>
         <body>

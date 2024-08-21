@@ -28,12 +28,12 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#ceiling">Ceiling, on the west, next to the Agony scene</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, on the west, upper register, next to the Agony's scene</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>In a frame above the scene</layout>
+                                <layout>On the frame above the scene</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -66,9 +66,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-057-01.JPG"><desc>Ceiling, on the west, next to the Agony scene, inscription detail</desc></graphic>
-        <graphic url="059-057-02.JPG"><desc>Ceiling, on the west, next to the Agony scene, inscription</desc></graphic>
-        <graphic url="059-057-03.JPG"><desc>Ceiling, on the west, next to the Agony scene, general view</desc></graphic>
+         <graphic rend="primary" url="059-057-01.JPG"><desc>Naos, on the west, upper register, next to the Agony's scene, inscription detail</desc></graphic>
+        <graphic url="059-057-02.JPG"><desc>Naos, on the west, upper register, next to the Agony's scene, inscription</desc></graphic>
+        <graphic url="059-057-03.JPG"><desc>Naos, on the west, upper register, next to the Agony's scene, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
