@@ -62,12 +62,12 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou, G. Apeitos), publication</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publication, DOA Photographic Archive</creation>
         </profileDesc>
     </teiHeader>
-    <facsimile><graphic url="..."/><!--
-         <graphic rend="primary" url="059-075-01.JPG"><desc>Naos, east wall, upper register, next to the Crucifixion's scene, inscription detail</desc></graphic>
-        <graphic url="059-075-02.JPG"><desc>Naos, east wall, upper register, next to the Crucifixion's scene, general view</desc></graphic>-->
+    <facsimile><graphic url="..."/>
+         <graphic rend="primary" url="059-075-01.JPG"><desc>Naos, east wall, upper register, next to the Crucifixion's scene, inscription detail (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
+        <graphic url="059-075-02.JPG"><desc>Naos, east wall, upper register, next to the Crucifixion's scene, general view (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
     </facsimile>
     <text>
         <body>
