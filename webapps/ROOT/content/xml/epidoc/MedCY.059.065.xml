@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, north concave space, next to the Betrayal's scene</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, north concave space, next to the Betrayal</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -66,8 +66,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-065-01.JPG"><desc>Naos, north concave space, next to the Betrayal's scene, inscription</desc></graphic>
-        <graphic url="059-065-02.JPG"><desc>Naos, north concave space, next to the Betrayal's scene, general view</desc></graphic>
+         <graphic rend="primary" url="059-065-01.JPG"><desc>Naos, north concave space, next to the Betrayal, inscription</desc></graphic>
+        <graphic url="059-065-02.JPG"><desc>Naos, north concave space, next to the Betrayal, general view</desc></graphic>
     </facsimile>
     <text>
         <body>

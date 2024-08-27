@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, north wall, upper register, next to the Judgement of Pilate's scene</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, north wall, upper register, next to the Judgement of Pilate</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -66,8 +66,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-069-01.JPG"><desc>Naos, north wall, upper register, next to the Judgement of Pilate's scene, inscription</desc></graphic>
-        <graphic url="059-069-02.JPG"><desc>Naos, north wall, upper register, next to the Judgement of Pilate's scene, general view</desc></graphic>
+         <graphic rend="primary" url="059-069-01.JPG"><desc>Naos, north wall, upper register, next to the Judgement of Pilate, inscription</desc></graphic>
+        <graphic url="059-069-02.JPG"><desc>Naos, north wall, upper register, next to the Judgement of Pilate, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
