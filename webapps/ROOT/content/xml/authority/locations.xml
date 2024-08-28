@@ -1910,6 +1910,7 @@
                     <listBibl type="inscriptions">
                         <bibl><ptr target="bibliography.xml#Buckler1933"/><citedRange>327-50</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>98-9</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1965a"/><citedRange>16-17</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Sacopoulo1966"/></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1973"/></bibl>
                         <bibl><ptr target="bibliography.xml#HatfieldYoung1983"/><citedRange>321-81</citedRange></bibl>
@@ -1928,6 +1929,7 @@
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>180-82</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Buckler1933"/><citedRange>327-50</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>98-9</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1965a"/><citedRange>15-17</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1966, 7</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Sacopoulo1966"/></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1967, 10</citedRange></bibl>
@@ -2557,6 +2559,7 @@
                     <idno type="geonames">https://www.geonames.org/146714/agios-neofytos.html</idno>
                     <listBibl type="inscriptions">
                         <bibl><ptr target="bibliography.xml.#Stylianou1960"/><citedRange>99-101</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1965a"/><citedRange>20-21</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml.#MangoHawkins1966"/><citedRange>119-206</citedRange></bibl>
                         <!--<bibl><ptr target="bibliography.xml.#Papageorgiou1999b"/><citedRange>119-206</citedRange></bibl>-->
                         <bibl><ptr target="bibliography.xml.#Papageorgiou2004"/></bibl>
@@ -2569,6 +2572,7 @@
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>200-03</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>99-101</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1963, 10; 1964, 8</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1965a"/><citedRange>20-22</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml.#MangoHawkins1966"/><citedRange>119-206</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1970, 12; 1976, 21</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#HatfieldYoung1983"/><citedRange>20-143</citedRange></bibl>
@@ -2684,6 +2688,7 @@
                     <idno type="HGC">http://www.cyprusgazetteer.org/252644/248/</idno>
                     <idno type="geonames">https://www.geonames.org/19742/panagia-theotokou.html</idno>
                     <listBibl type="inscriptions">
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1965a"/><citedRange>23</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange>108-09</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml.#Rhoby2009"/><citedRange>376-80</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>429-40</citedRange></bibl>
@@ -2694,6 +2699,7 @@
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>243</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>444</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1965, 8; 1966, 9</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1965a"/><citedRange>22-23</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Winfield1972"/><citedRange>285-91</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Velmans1984"/><citedRange>143-44</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#WeylCarrMorrocco1991"/><citedRange>43-55</citedRange></bibl>
