@@ -216,7 +216,9 @@
                     
                     <bibl xml:id="Papageorgiou1964"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>1964</date>, <title level="a">Ἡ Παλαιοχριστιανικὴ καὶ Βυζαντινὴ Ἀρχαιολογία καὶ Τέχνη ἐν Κύπρῳ κατὰ τὸ 1963</title>, <title level="j">Ἀπόστολος Βαρνάβας</title> <biblScope unit="volume">25</biblScope>, <biblScope unit="page">153-62, 209-16, 274-84, 349-53</biblScope>.</bibl>
                     
-                    <bibl xml:id="Papageorgiou1965"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>1965</date>, <title level="a">Ἡ Παλαιοχριστιανικὴ καὶ Βυζαντινὴ Ἀρχαιολογία καὶ Τέχνη ἐν Κύπρῳ κατὰ τὸ 1964</title>, <title level="j">Ἀπόστολος Βαρνάβας</title> <biblScope unit="volume">26</biblScope>, <biblScope unit="page">37-43, 91-97, 225-34, 293-304</biblScope>.</bibl>
+                    <bibl xml:id="Papageorgiou1965a"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>1965</date>, <title level="m">Masterpieces of the Byzantine Art of Cyprus</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
+                    
+                    <bibl xml:id="Papageorgiou1965b"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>1965</date>, <title level="a">Ἡ Παλαιοχριστιανικὴ καὶ Βυζαντινὴ Ἀρχαιολογία καὶ Τέχνη ἐν Κύπρῳ κατὰ τὸ 1964</title>, <title level="j">Ἀπόστολος Βαρνάβας</title> <biblScope unit="volume">26</biblScope>, <biblScope unit="page">37-43, 91-97, 225-34, 293-304</biblScope>.</bibl>
                     
                     <bibl xml:id="Papageorgiou1970"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>1970</date>, <title level="a">Ἡ Παλαιοχριστιανικὴ καὶ Βυζαντινὴ Ἀρχαιολογία καὶ Τέχνη ἐν Κύπρῳ κατὰ τὰ ἔτη 1967-1968</title>, <title level="j">Ἀπόστολος Βαρνάβας</title> <biblScope unit="volume">30</biblScope>, <biblScope unit="page">81-93, 145-60, 218-24, 280-90, 354-63</biblScope>.</bibl>
                     
@@ -250,7 +252,8 @@
                     
                     <bibl xml:id="Papageorgiou2022"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>2022</date>, <title level="a">Η μονή της Παναγίας Αψινθιώτισσας</title>, <title level="j">ΕΚΜΙΜΚ</title> <biblScope unit="volume">13</biblScope>, <biblScope unit="page">121-46</biblScope>.</bibl>
                     
-                    <bibl xml:id="Parani2018"><author><surname>Parani</surname> <forename>M.</forename></author>, <date>2018</date>, <title level="a">A Monument of His Own? An Iconographic Study of the Wall Paintings of the Holy Trinity Parekklesion at the Monastery of St. John Chrysostom, Koutsovendis (Cyprus)</title>, <title level="j">Studies in Iconography</title> <biblScope unit="volume">39</biblScope>, <biblScope unit="page">1-85</biblScope>.</bibl>                                             
+                    <bibl xml:id="Parani2018"><author><surname>Parani</surname> <forename>M.</forename></author>, <date>2018</date>, <title level="a">A Monument of His Own? An Iconographic Study of the Wall Paintings of the Holy Trinity Parekklesion at the Monastery of St. John Chrysostom, Koutsovendis (Cyprus)</title>, <title level="j">Studies in Iconography</title> <biblScope unit="volume">39</biblScope>, <biblScope unit="page">1-85</biblScope>.</bibl>                 
+                    
                     <bibl xml:id="Parani2020"><author><surname>Parani</surname> <forename>M.</forename></author>, <date>2020</date>, <title level="a">On the Fringe: The Painted Ornament of the Holy Trinity chapel at Koutsovendēs, Cyprus</title>, <title level="j">Zograf</title> <biblScope unit="volume">44</biblScope>, <biblScope unit="page">59-78</biblScope>.</bibl>
                                       
                     <bibl xml:id="Perdiki2014a"><title type="short">Perdiki 2014a</title> <author><surname>Perdiki</surname> <forename>O.</forename></author>, <date>2014</date>, <title level="a">L’église Saint-Antoine de Kellia en Chypre: étude du décor peint</title>, <title level="j">Cahiers Archéologiques</title> <biblScope unit="volume">55</biblScope>, <biblScope unit="page">17-40</biblScope>.</bibl>
@@ -440,6 +443,8 @@
             <bibl copyOf="#Panayotidi-Kesisiglou2015"></bibl>
             
             <bibl copyOf="#Papacostas2002"></bibl>
+            
+            <bibl copyOf="#Papageorgiou1965a"></bibl>
             
             <bibl copyOf="#Papageorgiou1975"></bibl>
             
