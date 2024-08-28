@@ -183,7 +183,7 @@
                     <persName xml:lang="en" type="epithet" subtype="Christ" key="SonofGod">Son of God</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q642420</idno>
                     <!--This is very tricky. Jesus and Christ, together or separately? Or, together AND separately, depending on the content of the inscriptions. How about Son of God? Name or epithet?-->
-                    <note>See also: Jesus Christ, Word, Master</note>
+                    <note>See also: Jesus Christ, King of Glory, Word, Master</note>
                 </person>
                 
                 <person sameAs="#JesusChrist"><persName>Christ</persName></person>
@@ -356,7 +356,7 @@
                     <persName xml:lang="en" type="epithet" subtype="God" key="Lord">Lord</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q825</idno>                   
                     <!--What do we do with Lord? It also occurs on its own, but it also occurs as Lord God - Kyrios o Theos-->
-                    <note>See also: Christ, Jesus Christ, Lord, Trinity, Word, Master</note>
+                    <note>See also: Christ, Jesus Christ, King of Glory, Lord, Trinity, Word, Master</note>
                 </person>
                 
                 <person xml:id="Gourias">
@@ -453,7 +453,7 @@
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="SonofGod">Son of God</persName>-->
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q302</idno>
                     <!--This is very tricky. Jesus and Christ, together or separately? Or, together AND separately, depending on the content of the inscriptions. How about Son of God? Name or epithet?-->
-                    <note>See also: Christ, Son of God, Word, Master</note>
+                    <note>See also: Christ, King of Glory, Son of God, Word, Master</note>
                 </person>
                 
                 <person xml:id="Joachim">
@@ -538,6 +538,13 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2282958</idno>                   
                 </person>
                 
+                <person xml:id="KingOfGlory">
+                    <persName xml:lang="grc">Ὁ βασιλεύς τῆς δόξης</persName>
+                    <persName xml:lang="en">King of Glory</persName>
+                    <idno type="wikidata">not listed</idno>
+                    <note>See also: Christ, Jesus Christ, Word, Master</note>
+                </person>
+                
                 <person xml:id="KosmasPoet">
                     <persName xml:lang="grc">Κοσμάς ὁ Ποιητής</persName>
                     <persName xml:lang="en">Kosmas the Poet</persName>
@@ -564,14 +571,14 @@
                     <persName xml:lang="grc">Κύριος</persName>
                     <persName xml:lang="en">Lord</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q12826225</idno>              
-                    <note>See also: Christ, God, Jesus Christ, Trinity, Word, Master</note>
+                    <note>See also: Christ, God, Jesus Christ, King of Glory, Trinity, Word, Master</note>
                 </person>
                                                
                 <person xml:id="SonOfGod">
                     <persName xml:lang="grc">Yἱὸς Θεοῦ</persName>
                     <persName xml:lang="en">Son of God</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q472768</idno>
-                    <note>See also: Christ, Jesus Christ, Word, Master</note>
+                    <note>See also: Christ, Jesus Christ, King of Glory, Word, Master</note>
                 </person>
                 
                 <person xml:id="Lazaros">
@@ -647,7 +654,7 @@
                     <persName xml:lang="grc">Δεσπότης</persName>
                     <persName xml:lang="en">Master</persName>
                     <idno type="wikidata">not listed</idno>                   
-                    <note>See also: Christ, Jesus Christ, Lord, Trinity, Word</note>
+                    <note>See also: Christ, Jesus Christ, King of Glory, Lord, Trinity, Word</note>
                 </person>
                 
                 <person xml:id="Matthew">
