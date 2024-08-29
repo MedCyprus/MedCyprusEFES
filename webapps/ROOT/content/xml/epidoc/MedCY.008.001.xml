@@ -66,7 +66,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+        <graphic rend="primary" url="008-001-01.JPG"><desc>Bema, apse, semidome, inscription detail</desc></graphic>
+        <graphic url="008-001-02.JPG"><desc>Bema, apse, semidome, general view </desc></graphic>
+        <graphic url="008-001-03.JPG"><desc>Bema, apse, semidome, general view </desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -79,7 +81,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>[Archangel] Gabriel</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
