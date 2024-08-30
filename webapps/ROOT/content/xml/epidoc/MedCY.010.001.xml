@@ -20,7 +20,7 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>n/a</repository>
+                        <repository ref="location.xml#SoteraMuseum">Ecclesiastical Museum of Sotera</repository>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#narthex">Narthex, soffit of the vault</rs>
+                                    <rs type="placement-building" ref="#narthex">Narthex, soffit of the vault connecting the naos to the narthex</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -66,7 +66,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+        <graphic rend="primary" url="010-001-01.JPG"><desc>Narthex, soffit of the vault connecting the naos to the narthex, inscription</desc></graphic>
+        <graphic url="010-001-02.JPG"><desc>Narthex, soffit of the vault connecting the naos to the narthex, inscription detail</desc></graphic>
+        <graphic url="010-001-03.JPG"><desc>Narthex, soffit of the vault connecting the naos to the narthex, inscription detail</desc></graphic>
+        <graphic url="010-001-02.JPG"><desc>Narthex, soffit of the vault connecting the naos to the narthex, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
