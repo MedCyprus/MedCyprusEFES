@@ -20,7 +20,7 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>n/a</repository>
+                        <repository ref="location.xml#PaphosMuseum">Ecclesiastical Museum of the Holy Bishopric of Paphos</repository>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, first figure on the left (now in  the Ecclesiastical museum of the Bishopric of Paphos, Geroskepou)</rs>
+                                    <rs type="placement-building" ref="#bema">Originally: Bema, apse, semicylindrical wall, first figure on the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -66,7 +66,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+        <graphic rend="primary" url="012-001-01.JPG"><desc>Bema, apse, semicylindrical wall, first figure on the left, inscription</desc></graphic>
+        <graphic url="012-001-02.JPG"><desc>Bema, apse, semicylindrical wall, first figure on the left, inscription detail</desc></graphic>
+        <graphic url="012-001-02.JPG"><desc>Bema, apse, semicylindrical wall, first figure on the left, inscription detail</desc></graphic>
+        <graphic url="012-001-02.JPG"><desc>Bema, apse, semicylindrical wall, first figure on the left, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
