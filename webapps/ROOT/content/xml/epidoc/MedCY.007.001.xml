@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, west cross-arm, south wall, first figure, on the east</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, west cross-arm, south wall, first figure on the east</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -66,7 +66,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+        <graphic rend="primary" url="007-001-01.JPG"><desc>Naos, west cross-arm, south wall, first figure on the east, inscription</desc></graphic>
+        <graphic url="007-001-02.JPG"><desc>Naos, west cross-arm, south wall, first figure on the east, inscription detail</desc></graphic>
+        <graphic url="007-001-03.JPG"><desc>Naos, west cross-arm, south wall, first figure on the east, inscription detail</desc></graphic>
+        <graphic url="007-001-04.JPG"><desc>Naos, west cross-arm, south wall, first figure on the east, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
