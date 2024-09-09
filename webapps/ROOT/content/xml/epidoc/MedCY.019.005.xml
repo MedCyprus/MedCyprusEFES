@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, northeastern pilaster, east face</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, northeastern pilaster, lower register, east face</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -66,8 +66,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="019-005-01.JPG"><desc>Bema, northeastern pilaster, east face, inscription</desc></graphic>
-        <graphic url="019-005-02.JPG"><desc>Bema, northeastern pilaster, east face, general view</desc></graphic>
+        <graphic rend="primary" url="019-005-01.JPG"><desc>Bema, northeastern pilaster, lower register, east face, inscription</desc></graphic>
+        <graphic url="019-005-02.JPG"><desc>Bema, northeastern pilaster, lower register, east face, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
