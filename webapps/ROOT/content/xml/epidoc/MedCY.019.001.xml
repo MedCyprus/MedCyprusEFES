@@ -66,7 +66,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+        <graphic rend="primary" url="019-001-01.JPG"><desc>Bema, north wall, upper register, inscription</desc></graphic>
+        <graphic url="019-001-02.JPG"><desc>Bema, north wall, upper register, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
