@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Onouphrios</title>
+                <title>Saint John Climacus</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Onouphrios">Onouphrios</rs></p>
+                            <p>... <rs type="iconography" ref="iconography.xml#JohnClimacus">John Climacus</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,8 +66,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-101-01.JPG"><desc>Naos, west wall, lower register, next to St. Theodosios, inscription</desc></graphic>
-        <graphic url="059-101-02.JPG"><desc>Naos, west wall, lower register, next to St. Theodosios, general view</desc></graphic>
+         <graphic rend="primary" url="059-102-01.JPG"><desc>Naos, west wall, lower register, next to St. Theodosios, inscription</desc></graphic>
+        <graphic url="059-102-02.JPG"><desc>Naos, west wall, lower register, next to St. Theodosios, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -80,7 +80,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Saint Onouphrios</p>
+                <p>Saint John Climacus</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
