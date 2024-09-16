@@ -47,7 +47,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#KalopanagiotisChapel">Kalopanagiotis, Monastery of Saint John Lampadistes, chapel of Saint John Lampadistes</origPlace>
-                            <origDate notBefore="1101" notAfter="1200" precision="medium" source="bibliography.xml#Papageorgiou2012a">Papageorgiou: 12th century</origDate>
+                            <origDate notBefore="1101" notAfter="1200" precision="medium" source="bibliography.xml#Papageorgiou2012a">12th century?</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
