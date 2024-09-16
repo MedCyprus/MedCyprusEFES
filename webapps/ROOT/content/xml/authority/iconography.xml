@@ -409,6 +409,9 @@
                 <item xml:id="Luke"> 
                     <term xml:lang="en">Luke the Evangelist </term>
                 </item>
+                <item xml:id="Makarios"> 
+                    <term xml:lang="en">Makarios</term>
+                </item>
                 <item xml:id="Makedonios"> 
                     <term xml:lang="en">Makedonios</term>
                 </item>                
@@ -436,9 +439,6 @@
                 <item xml:id="Maura"> 
                     <term xml:lang="en">Maura</term>
                 </item>                
-                <item xml:id="Menas"> 
-                    <term xml:lang="en">Menas</term>
-                </item>
                 <item xml:id="MaryOfEgypt"> 
                     <term xml:lang="en">Mary of Egypt</term>
                 </item>                       
@@ -447,6 +447,9 @@
                 </item>
                 <item xml:id="MeletiosAntioch"> 
                     <term xml:lang="en">Meletios</term>
+                </item>
+                <item xml:id="Menas"> 
+                    <term xml:lang="en">Menas</term>
                 </item>
                 <item xml:id="Michael"> 
                         <term xml:lang="en">Archangel Michael</term>
