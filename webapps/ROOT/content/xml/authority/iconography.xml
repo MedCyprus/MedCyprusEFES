@@ -675,7 +675,10 @@
                 </item>                
                 <item xml:id="VirginEnthroned">
                     <term xml:lang="en">Virgin enthroned with the Christ child</term>
-                </item>                
+                </item>      
+                <item xml:id="VirginGlykophilousa">
+                    <term xml:lang="en">Virgin Glykophilousa</term>
+                </item>
                 <item xml:id="VirginHodegetria">
                     <term xml:lang="en">Virgin Hodegetria</term>
                 </item>  
