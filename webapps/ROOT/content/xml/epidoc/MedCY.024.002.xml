@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, east wall, central figure</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, carved apse, central figure</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -66,9 +66,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="024-002-01.JPG"><desc>Bema, east wall, central figure, inscription</desc></graphic>
-        <graphic url="024-002-02.JPG"><desc>Bema, east wall, central figure, inscription detail</desc></graphic>
-        <graphic url="024-002-03.JPG"><desc>Bema, east wall, central figure, general view</desc></graphic>
+         <graphic rend="primary" url="024-002-01.JPG"><desc>Bema, carved apse, central figure, inscription</desc></graphic>
+        <graphic url="024-002-02.JPG"><desc>Bema, carved apse, central figure, inscription detail</desc></graphic>
+        <graphic url="024-002-03.JPG"><desc>Bema, carved apse, central figure, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
