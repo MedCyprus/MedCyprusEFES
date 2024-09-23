@@ -40,14 +40,20 @@
                 <item xml:id="aisle">
                     <term>Aisle</term><!--for basilicas-->
                 </item>  
+                <item xml:id="cell">
+                    <term>Cell</term>
+                </item>
+                <item xml:id="tomb">
+                    <term>Tomb</term>
+                </item>
                 <item xml:id="refectoryapse">
-                    <term>Refectory apse</term><!--for basilicas-->
+                    <term>Refectory apse</term>
                 </item>
                 <item xml:id="refectoryceiling">
-                    <term>Refectory ceiling</term><!--for basilicas-->
+                    <term>Refectory ceiling</term>
                 </item>
                 <item xml:id="refectorywall">
-                    <term>Refectory wall</term><!--for basilicas-->
+                    <term>Refectory wall</term>
                 </item>
             </list>
             
