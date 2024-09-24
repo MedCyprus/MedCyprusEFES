@@ -29,7 +29,7 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#cell">Cell, ceiling, apex</rs>
-                                     <dimensions unit="cm" scope="text"><height>13</height><width>7,5</width></dimensions>
+                                     <dimensions unit="cm" scope="text"><height>13?</height><width>7,5</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>16,5</height><width>9</width></dimensions>
                                 </support>
                             </supportDesc>
