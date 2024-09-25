@@ -6,7 +6,6 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Athanasios' scroll</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -29,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, lower register, second figure on the right</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, lower register, second figure on the right</rs>
                                     <dimensions unit="cm" scope="text"><height>41</height><width>12</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>48</height><width>13</width></dimensions>
                                 </support>
@@ -69,11 +68,11 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-024-01.JPG"><desc>Bema, semicylindrical wall, south half, lower register, second figure on the right, inscription</desc></graphic>
-        <graphic url="036-024-02.JPG"><desc>Bema, semicylindrical wall, south half, lower register, second figure on the right, inscription detail</desc></graphic>
-        <graphic url="036-024-03.JPG"><desc>Bema, semicylindrical wall, south half, lower register, seconf figure on the right, inscription detail</desc></graphic>
-        <graphic url="036-024-04.JPG"><desc>Bema, semicylindrical wall, south half, lower register, second figure on the right, inscription detail</desc></graphic>
-        <graphic url="036-024-05.JPG"><desc>Bema, semicylindrical wall, south half, lower register, second figure on the right, general view</desc></graphic>
+         <graphic rend="primary" url="036-024-01.JPG"><desc>Bema, apse, semicylindrical wall, south half, lower register, second figure on the right, inscription</desc></graphic>
+        <graphic url="036-024-02.JPG"><desc>Bema, apse, semicylindrical wall, south half, lower register, second figure on the right, inscription detail</desc></graphic>
+        <graphic url="036-024-03.JPG"><desc>Bema, apse, semicylindrical wall, south half, lower register, seconf figure on the right, inscription detail</desc></graphic>
+        <graphic url="036-024-04.JPG"><desc>Bema, apse, semicylindrical wall, south half, lower register, second figure on the right, inscription detail</desc></graphic>
+        <graphic url="036-024-05.JPG"><desc>Bema, apse, semicylindrical wall, south half, lower register, second figure on the right, general view</desc></graphic>
              </facsimile>
     <text>
         <body>

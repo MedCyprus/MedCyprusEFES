@@ -267,6 +267,7 @@
           <xsl:choose>
             <xsl:when test="doc-available($bibliography-al) and $bibl">
             <!--  <a href="../concordance/bibliography/{$bib}.html" target="_blank">-->
+              <span class="medcyprus-app-bib">
                 <xsl:choose>
                   <xsl:when test="$bibl//t:bibl[@type='abbrev']">
                     <xsl:apply-templates select="$bibl//t:bibl[@type='abbrev'][1]"/>
@@ -304,6 +305,7 @@
                     </xsl:choose>
                   </xsl:otherwise>
                 </xsl:choose>
+              </span>
               <!--</a>-->
             </xsl:when>
             <xsl:otherwise>
