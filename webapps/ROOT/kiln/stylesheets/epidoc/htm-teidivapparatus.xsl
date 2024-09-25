@@ -214,18 +214,23 @@
     <xsl:if test="@resp">
       <xsl:apply-templates select="@resp"/>
     </xsl:if>
+    <xsl:if test="@source">
+      <xsl:apply-templates select="@source"/>
+    </xsl:if>
+    <!-- ELLI make it work with @source here -->
     <xsl:call-template name="sources">
       <xsl:with-param name="root" select="ancestor-or-self::t:TEI"/>
     </xsl:call-template>
     <!-- temporary fix to external app. ELLI DELETE THIS when https://github.com/MedCyprus/MedCyprusEFES/issues/16 implemented -->
-    <xsl:if test="@source">
+  <!--  <xsl:if test="@source">
       <xsl:text> </xsl:text>
       <xsl:value-of select="translate(substring-after(@source,'#'),'0123456789','')"/>
-    </xsl:if>
+    </xsl:if>-->
     <xsl:if test="following-sibling::t:rdg and not(following-sibling::*[1][self::t:note])">
       <xsl:text>; </xsl:text>
     </xsl:if>
   </xsl:template>
+  
 
   <xsl:template match="t:div[@type = 'apparatus']//t:lem">
     <xsl:param name="parm-external-app-style" tunnel="yes" required="no"/>
@@ -241,13 +246,14 @@
     </xsl:if>
   </xsl:template>
   
-  <xsl:template match="t:div[@type = 'apparatus']//t:rdg/@resp|t:div[@type = 'apparatus']//t:lem/@resp">
+  <xsl:template match="t:div[@type = 'apparatus']//t:rdg/@resp|t:div[@type = 'apparatus']//t:lem/@resp|t:div[@type = 'apparatus']//t:rdg/@source">
     <xsl:param name="parm-external-app-style" tunnel="yes" required="no"/>
     <xsl:param name="parm-edn-structure" tunnel="yes" required="no"/>
     <xsl:param name="parm-leiden-style" tunnel="yes" required="no"/>
     <xsl:variable name="biblio" select="tokenize(substring-after(., '#'), ' #')"/>
     <xsl:choose>
       <xsl:when test="$parm-edn-structure=('inslib', 'sample') or $parm-leiden-style = 'medcyprus'">
+       
         <xsl:variable name="bibliography-al" select="concat('file:',system-property('user.dir'),'/webapps/ROOT/content/xml/authority/bibliography.xml')"/>
         <xsl:for-each select="$biblio">
           <xsl:variable name="bib" select="normalize-space(.)"/>
@@ -260,7 +266,7 @@
           <xsl:if test="position()=1"><xsl:text> </xsl:text></xsl:if>
           <xsl:choose>
             <xsl:when test="doc-available($bibliography-al) and $bibl">
-              <a href="../concordance/bibliography/{$bib}.html" target="_blank">
+            <!--  <a href="../concordance/bibliography/{$bib}.html" target="_blank">-->
                 <xsl:choose>
                   <xsl:when test="$bibl//t:bibl[@type='abbrev']">
                     <xsl:apply-templates select="$bibl//t:bibl[@type='abbrev'][1]"/>
@@ -281,16 +287,16 @@
                           <xsl:apply-templates select="."/>
                           <xsl:if test="position()!=last()"> – </xsl:if>
                         </xsl:for-each>
-                        <xsl:text> </xsl:text>
-                        <xsl:apply-templates select="$bibl//t:date"/>
+                        <!--  <xsl:text> </xsl:text>
+                       <xsl:apply-templates select="$bibl//t:date"/>-->
                       </xsl:when>
                       <xsl:when test="$bibl//t:surname and $bibl//t:date">
                         <xsl:for-each select="$bibl//t:surname[not(parent::*/preceding-sibling::t:title[not(@type='short')])]">
                           <xsl:apply-templates select="."/>
                           <xsl:if test="position()!=last()"> – </xsl:if>
                         </xsl:for-each>
-                        <xsl:text> </xsl:text>
-                        <xsl:apply-templates select="$bibl//t:date"/>
+                        <!--<xsl:text> </xsl:text>
+                        <xsl:apply-templates select="$bibl//t:date"/>-->
                       </xsl:when>
                       <xsl:otherwise>
                         <xsl:value-of select="$bib"/>
@@ -298,7 +304,7 @@
                     </xsl:choose>
                   </xsl:otherwise>
                 </xsl:choose>
-              </a>
+              <!--</a>-->
             </xsl:when>
             <xsl:otherwise>
               <xsl:value-of select="$bib"/>
