@@ -1347,7 +1347,7 @@
                 </place>
                 
                 <place xml:id="KoutsoventisTrinity" n="33">
-                    <placeName xml:lang="en">Koutsoventis, Monastery of St John Chrysostom, Holy Trinity chapel</placeName>
+                    <placeName xml:lang="en">Koutsoventis, Monastery of Saint John Chrysostom, Holy Trinity chapel</placeName>
                     <placeName xml:lang="en">Koutsovendes, Monastery of Saint John Chrysostom, Holy Trinity chapel</placeName>
                     <placeName xml:lang="el">Κουτσοβέντης, Μονή Αγίου Ιωάννη Χρυσοστόμου, Παρεκκλήσιο Αγίας Τριάδος</placeName>
                     <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
