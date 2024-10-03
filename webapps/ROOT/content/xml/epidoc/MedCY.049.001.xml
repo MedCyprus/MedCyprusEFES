@@ -46,12 +46,12 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Lagoudera">Lagoudera, Panagia tou Araka or Arakiotissa </origPlace>
-                            <origDate notBefore="1170" notAfter="1178">1170s</origDate>
+                            <origPlace ref="locations.xml#PeraChorio">Pera Chorio, Holy Apostles</origPlace>
+                            <origDate notBefore="1160" notAfter="1180" precision="medium">1160-1180</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
-                        <provenance type="observed" resp="#tp">26-27/09/2022
+                        <provenance type="observed" resp="#tp">05/04/2022
                         </provenance>
                     </history>
                 </msDesc>
