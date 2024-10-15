@@ -346,7 +346,7 @@
                     <desc type="painter">
                         1st layer: unknown.
                         2nd layer: Symeon (1509)</desc>
-                    <desc type="graffiti">Presence confirmed (G. M. Trentin)</desc>
+                    <desc type="graffiti">Presence confirmed (M. G. Trentin)</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0069.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/4867/155/</idno>
                     <idno type="geonames">https://www.geonames.org/4821/panagia-tou-kampou.html</idno>
@@ -811,7 +811,7 @@
                     <desc type="conservation">Prior to 1974, good state of preservation; after 1974, the murals were mutilated and/or detached and illegaly exported; some were repatriated and are now kept in the <ref target="#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</ref>. Conservation/cleaning: 1962, 1969, 1971-1972 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">Presence not verified</desc>
+                    <desc type="graffiti">Presence confirmed (M. G. Trentin)</desc>
                     <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0010.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/146575/170/</idno>
                     <idno type="geonames">https://www.geonames.org/146809/antifonitis.html</idno>
@@ -867,6 +867,7 @@
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>292-94, 305-06 </citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>10: 358, 361</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2012a"/><citedRange>19-20, 36</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#IrakleousBakirtzis2020"/><citedRange>398</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>1: 131, 132</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Perdiki2023"/><citedRange>41, 46-53</citedRange></bibl>
                     </listBibl>  
@@ -922,6 +923,7 @@
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>10: 357-62</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2012a"/></bibl>
                         <bibl><ptr target="bibliography.xml#Klerides2015"/><citedRange>143-46</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#IrakleousBakirtzis2020"/></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>1: 126-43</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Perdiki2023"/><citedRange>33–68</citedRange></bibl>
                     </listBibl>
@@ -978,7 +980,7 @@
                     <desc type="conservation">Fragmentary; poor state of preservation. Fragments of murals were detached and are now kept in storage at the Department of Antiquities, Cyprus. Conservation/cleaning: 2002-2008 (DAC) </desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">Presence not verified</desc>
+                    <desc type="graffiti">Presence confirmed (M. G. Trentin)</desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">Not listed</idno>
                     <idno type="geonames">https://www.geonames.org/20783/panagia-chrysospiliotissa.html</idno>
@@ -1017,7 +1019,7 @@
                     <desc type="conservation">Fragmentary</desc>
                     <desc type="donors">1st layer: one supplicatory inscription in the bema makes reference to the priest Michael (son of?) Pileas, who may have contributed to the decoration of the church <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->; a second fragmentary inscription in the naos that makes reference to the wife(?) of one Sakellares is in all probability a funerary one <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->.</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">Presence not verified</desc>
+                    <desc type="graffiti">Presence confirmed (M. G. Trentin)</desc>
                     <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0016.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146522/175/</idno>
                     <idno type="geonames">https://www.geonames.org/4933/archangelos.html</idno>
@@ -2392,7 +2394,7 @@
                     </desc>
                     <desc type="donors">3rd layer: one, possibly two portraits of male supplicants on the north wall; in the absence of surviving inscriptions, their potential contribution to the decoration of the church remains unclear</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">Presence confirmed (G. M. Trentin)</desc>
+                    <desc type="graffiti">Presence confirmed (M. G. Trentin)</desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">Not listed</idno>
                     <idno type="geonames">https://www.geonames.org/146068/sotira.html</idno>
