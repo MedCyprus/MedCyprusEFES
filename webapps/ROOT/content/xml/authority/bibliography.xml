@@ -86,6 +86,8 @@
                     
                     <bibl xml:id="Foulias2004"><author><surname>Foulias</surname> <forename>A.</forename></author>, <date>2004</date>, <title level="m">The Church of Our Lady Angeloktisti at Kiti, Larnaka</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
                     
+                    <bibl xml:id="Foulias2005"><author><surname>Foulias</surname> <forename>A.</forename></author>, <date>2005</date>, <title level="a">Η ανεικονική ζωγραφική στην Αγία Παρασκευή Γεροσκήπου</title>, <title level="j">ΚΣ</title> <biblScope unit="volume">67-68</biblScope>, <biblScope unit="page">23-45</biblScope>.</bibl>
+                    
                     <bibl xml:id="Foulias2006"><author><surname>Foulias</surname> <forename>A.</forename></author>, <date>2006</date>, <title level="a">Καραβάς, Μονή της Αχειροποιήτου</title>, in <title level="m">Οδοιπορικό στα χριστιανικά μνημεία της Μητροπολιτικής Περιφέρειας Κυρηνείας</title>, ed. <editor><forename>Ch.</forename><surname>Hadjichristodoulou</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">208-13</biblScope>.</bibl>
                     
                     <bibl xml:id="Foulias2008"><author><surname>Foulias</surname> <forename>A.</forename></author>, <date>2008</date>, <title level="a">Ο ναός της Αγίας Παρασκευής. Αρχιτεκτονική και πρώιμη διακόσμηση</title>, in <title level="m">Γεροσκήπου. Από την αρχαιότητα μέχρι σήμερα</title>, ed. <editor><forename>Ch. </forename><surname>Andreou</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">61-72</biblScope>.</bibl>
@@ -341,7 +343,9 @@
                     <bibl xml:id="Touliatos2021"><author><surname>Touliatos</surname> <forename>P.</forename></author> et al., <date>2021</date>, <title level="m">Κατασκευαστική ανάλυση ιστορικών κτιρίων</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
                     
                     <bibl xml:id="Trentin2010"><author><surname>Trentin</surname> <forename>M. G.</forename></author>, <date>2010</date>, <title level="a">Medieval and Post Medieval graffiti in the churches of Cyprus</title>, in <title level="m">POCA 2007, Postgraduate Cypriot Archaeology Conference</title>, ed. <editor><forename>S. </forename><surname>Christodoulou</surname></editor>and <editor><forename>A.</forename> <surname>Satraki</surname></editor>, <pubPlace>Cambridge</pubPlace>, <biblScope unit="page">297-321</biblScope>.</bibl>
-                                        
+                    
+                    <bibl xml:id="Trentin2020"><author><surname>Trentin</surname> <forename>M. G.</forename></author>, <date>2020</date>, <title level="a">Medieval and Early Modern graffiti: multicultural and multimodal communication in Cyprus</title>, <title level="j">Cahiers du Centre d’Études Chypriotes</title> <biblScope unit="volume">50</biblScope>, <biblScope unit="page">277-304</biblScope>.</bibl>
+
                     <bibl xml:id="TrentinHadjikyriakos2007"><author><surname>Trentin</surname> <forename>M. G.</forename></author> and <author><surname>Hadjikyriakos</surname> <forename>I.</forename></author>, <date>2007</date>, <title level="a">I graffiti nelle chiese cipriote: primi risultati della ricerca</title>, <title level="j">RDAC</title> 1007, <biblScope unit="page">449-67</biblScope>.</bibl>
                                        
                     <bibl xml:id="Triantafyllopoulos2006"><author><surname>Triantafyllopoulos</surname> <forename>D.</forename></author>, <date>2006</date>, <title level="a">Il culto e l’immagine di San Nicola a Cipro</title>, in <title level="m">San Nicola. Splendori d’arte d’Oriente e d’ Occidente</title>, ed. <editor><forename>M. </forename><surname>Bacci</surname></editor>, <pubPlace>Milan</pubPlace>, <biblScope unit="page">117-26</biblScope>.</bibl>
