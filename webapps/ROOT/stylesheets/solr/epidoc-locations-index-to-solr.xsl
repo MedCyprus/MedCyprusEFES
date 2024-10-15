@@ -92,7 +92,7 @@
           </field>
           <!--<xsl:if test="doc-available($locationsAL) = fn:true() and $idno">-->
           <field name="index_item_alt_name">
-            <xsl:value-of select="$idno//tei:placeName[@xml:lang='el']"/>
+            <xsl:value-of select="$idno//tei:placeName[@xml:lang='el'][1]"/>
           </field>
           <field name="index_district">
             <!--<xsl:choose>
@@ -144,7 +144,20 @@
               <xsl:value-of select="$idno//tei:desc[@type='painter']"/>
             </field>
             <field name="index_graffiti">
-              <xsl:value-of select="$idno//tei:desc[@type='graffiti']"/> <!-- <ref target="URL">...</ref> -->
+              <xsl:value-of select="$idno//tei:desc[@type='graffiti']"/>
+              <xsl:text>|</xsl:text>
+              <xsl:choose>
+                <xsl:when test="$idno//tei:desc[@type='graffiti']/tei:bibl">
+                  <xsl:for-each select="$idno//tei:desc[@type='graffiti']/tei:bibl/tei:ptr">
+                  <xsl:value-of select="substring-after(@target, '#')"/> 
+                  <xsl:if test="following-sibling::tei:citedRange">
+                    <xsl:text>, </xsl:text>
+                    <xsl:value-of select="following-sibling::tei:citedRange"/>
+                  </xsl:if>
+                  <xsl:if test="position()!=last()">|</xsl:if>
+                  </xsl:for-each>
+                </xsl:when>
+              </xsl:choose>
             </field>
             <xsl:for-each select="$idno//tei:idno[@type]">
                 <field name="index_external_resource">
@@ -158,7 +171,7 @@
               <xsl:choose>
                 <xsl:when test="$idno//tei:listBibl[@type='inscriptions']/tei:bibl[@ana='unpublished']">
                   <field name="index_inscriptions_bibl">
-                    <xsl:text>unpublished</xsl:text>
+                    <xsl:text>Unpublished</xsl:text>
                   </field>
                 </xsl:when>
                 <xsl:otherwise>
@@ -177,7 +190,7 @@
             <xsl:choose>
               <xsl:when test="$idno//tei:listBibl[@type='monument']/tei:bibl[@ana='unpublished']">
                 <field name="index_monument_bibl">
-                  <xsl:text>unpublished</xsl:text>
+                  <xsl:text>Unpublished</xsl:text>
                 </field>
               </xsl:when>
               <xsl:otherwise>

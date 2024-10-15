@@ -41,7 +41,7 @@
     <div id="{str[@name='index_id']}" class="monument">
       <h2><xsl:if test="str[@name='index_number']!=''"><xsl:value-of select="str[@name='index_number']"/><xsl:text>. </xsl:text></xsl:if>
         <xsl:apply-templates select="str[@name='index_item_name']"/></h2>
-      <h3><xsl:value-of select="string-join(arr[@name='index_item_alt_name']/str, '; ')"/></h3>
+      <h3>(<xsl:value-of select="string-join(str[@name='index_item_alt_name'], '; ')"/>)</h3>
       
       <xsl:if test="arr[@name='index_coordinates']">
         <div class="row map_box">
@@ -125,11 +125,12 @@
       </xsl:if>
       
       <h2>MONUMENTS</h2>
-      <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Monument']]"><xsl:sort select="lower-case(.)"/></xsl:apply-templates>
+      <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Monument']]"><!--<xsl:sort select="lower-case(.)"/>--></xsl:apply-templates>
       <h2>REPOSITORIES</h2>
-      <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Repository']]"><xsl:sort select="lower-case(.)"/></xsl:apply-templates>
+      <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Repository']]"><!--<xsl:sort select="lower-case(.)"/>--></xsl:apply-templates>
     </div>
   </xsl:template>
+  <!-- EM: if monuments and Repositories don't sort properly, add sort on index_number or  index_item_name. Might need to add index numbers to repositories. -->
   
   <xsl:template match="response/result[not(descendant::arr[@name='index_coordinates'])]"> <!-- i.e. all indices excluded locations -->
     <table class="index tablesorter">
@@ -349,14 +350,93 @@
   
   <xsl:template match="arr[@name='index_graffiti']">
     <xsl:for-each select="str">
-      <xsl:analyze-string select="." regex="(http:|https:)(\S+?)(\.|\)|\]|;|,|\?|!|:)?(\s|$)">
-        <xsl:matching-substring>
-          <a target="_blank" href="{concat(regex-group(1),regex-group(2))}"><xsl:value-of select="concat(regex-group(1),regex-group(2))"/></a>
-          <xsl:value-of select="concat(regex-group(3),regex-group(4))"/>
-        </xsl:matching-substring>
-        <xsl:non-matching-substring><xsl:value-of select="."/></xsl:non-matching-substring>
+     <xsl:choose> 
+       <xsl:when test="contains(.,',')"> <!-- It's a bibl if the string contains a comma-->
+         <!-- _____________________________________________ -->
+        
+           <xsl:variable name="bibl-id">
+             <xsl:choose>
+               <xsl:when test="contains(., ',')">
+                 <xsl:value-of select="substring-before(., ',')"/>
+               </xsl:when>
+               <xsl:otherwise>
+                 <xsl:value-of select="."/>
+               </xsl:otherwise>
+             </xsl:choose>
+           </xsl:variable>
+           <xsl:variable name="bibliography-al" select="concat('file:',system-property('user.dir'),'/webapps/ROOT/content/xml/authority/bibliography.xml')"/>
+           <xsl:variable name="bibl" select="document($bibliography-al)//tei:bibl[@xml:id=$bibl-id][not(@sameAs)]"/>
+           <a href="{concat('../../concordance/bibliography/',$bibl-id,'.html')}" target="_blank">
+             <xsl:choose>
+               <xsl:when test="doc-available($bibliography-al) = fn:true()">
+                 <xsl:choose>
+                   <xsl:when test="$bibl">
+                     <xsl:choose>
+                       <xsl:when test="$bibl//tei:bibl[@type = 'abbrev']">
+                         <xsl:apply-templates select="$bibl//tei:bibl[@type = 'abbrev'][1]"/>
+                       </xsl:when>
+                       <xsl:when test="$bibl//tei:title[@type = 'short']">
+                         <xsl:apply-templates select="$bibl//tei:title[@type = 'short'][1]"/>
+                       </xsl:when>
+                       <xsl:otherwise>
+                         <xsl:choose>
+                           <xsl:when test="$bibl[ancestor::tei:div[@xml:id = 'authored_editions']]">
+                             <xsl:for-each
+                               select="$bibl//tei:name[@type = 'surname'][not(parent::*/preceding-sibling::tei:title[not(@type = 'short')])]">
+                               <xsl:value-of select="."/>
+                               <xsl:if test="position() != last()"> – </xsl:if>
+                             </xsl:for-each>
+                             <xsl:if test="$bibl//tei:date/text()">
+                               <xsl:text> </xsl:text>
+                               <xsl:value-of select="$bibl//tei:date"/>
+                             </xsl:if>
+                           </xsl:when>
+                           <xsl:when test="$bibl[ancestor::tei:div[@xml:id = 'series_collections']]">
+                             <i>
+                               <xsl:value-of select="$bibl/@xml:id"/>
+                             </i>
+                           </xsl:when>
+                           <xsl:otherwise>
+                             <xsl:for-each
+                               select="$bibl//tei:*[(self::tei:name and @type = 'surname') or self::tei:surname][not(parent::*/preceding-sibling::tei:title[not(@type = 'short')])]">
+                               <xsl:value-of select="."/>
+                               <xsl:if test="position() != last()"> – </xsl:if>
+                             </xsl:for-each>
+                             <xsl:if test="$bibl//tei:date/text()">
+                               <xsl:text> </xsl:text>
+                               <xsl:value-of select="$bibl//tei:date"/>
+                             </xsl:if>
+                           </xsl:otherwise>
+                         </xsl:choose>
+                       </xsl:otherwise>
+                     </xsl:choose>
+                   </xsl:when>
+                   <xsl:otherwise>
+                     <xsl:value-of select="upper-case(substring($bibl-id, 1, 1))"/>
+                     <xsl:value-of select="substring($bibl-id, 2)"/>
+                   </xsl:otherwise>
+                 </xsl:choose>  
+               </xsl:when>
+             </xsl:choose>
+           </a>
+           <xsl:if test="contains(., ',')">
+             <xsl:text>, </xsl:text>
+             <xsl:value-of select="substring-after(., ',')"/>
+           </xsl:if>
+           <xsl:if test="position()!=last()">; </xsl:if>
+         <!-- ___________________________________________________________________________ -->
+       </xsl:when>
+       <xsl:otherwise>
+         <xsl:analyze-string select="." regex="(http:|https:)(\S+?)(\.|\)|\]|;|,|\?|!|:)?(\s|$)"> 
+           <xsl:matching-substring> <!-- it's a URL -->
+             <a target="_blank" href="{concat(regex-group(1),regex-group(2))}"><xsl:value-of select="concat(regex-group(1),regex-group(2))"/></a>
+             <xsl:value-of select="concat(regex-group(3),regex-group(4))"/>
+          </xsl:matching-substring>
+          <xsl:non-matching-substring><xsl:value-of select="."/></xsl:non-matching-substring> <!-- it's text -->
       </xsl:analyze-string>
-      <xsl:if test="position()!=last()">; </xsl:if>
+       </xsl:otherwise>
+     </xsl:choose>
+
     </xsl:for-each>  
   </xsl:template>
   
