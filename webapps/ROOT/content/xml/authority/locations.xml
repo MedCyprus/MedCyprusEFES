@@ -78,7 +78,7 @@
                     <desc type="conservation">Fragmentary; condition poor. Conservation/cleaning: 1990-1991, 1993, 2002, 2005-2006 (DAC). Some of the paintings of the 1st layer have been removed to the <ref target="#ByzantineMuseum.html">Byzantine Museum</ref> <!--Still needs to be activated as a link--> of the Cultural Foundation Archbishop Makarios III.</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">Presence confirmed (<bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458</citedRange></bibl>)</desc> <!-- Only cited range is displayed; not the target in the bibliography.xml-->
+                    <desc type="graffiti">Presence confirmed (<bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>310</citedRange></bibl> )</desc> 
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">Not listed</idno>
                     <idno type="geonames">http://www.geonames.org/20648/agios-sozomenos.html</idno>
@@ -346,7 +346,7 @@
                     <desc type="painter">
                         1st layer: unknown.
                         2nd layer: Symeon (1509)</desc>
-                    <desc type="graffiti">Presence not verified</desc>
+                    <desc type="graffiti">Presence confirmed (G. M. Trentin)</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0069.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/4867/155/</idno>
                     <idno type="geonames">https://www.geonames.org/4821/panagia-tou-kampou.html</idno>
@@ -589,7 +589,7 @@
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1955, 1974, 1976, 1977, 1994, 1995, 2003 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">Presence confirmed (<bibl><ptr target="bibliography.xml#FouliasHadjichristodoulou2019"/><citedRange>34, 55-59</citedRange></bibl>)</desc>
+                    <desc type="graffiti">Presence confirmed (<bibl><ptr target="bibliography.xml#Foulias2005"/><citedRange>130</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>307</citedRange></bibl>; <bibl><ptr target="bibliography.xml#FouliasHadjichristodoulou2019"/><citedRange>34, 55-59</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Trentin2020"/><citedRange>287,294</citedRange></bibl>)</desc>
                     <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0090.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/145959/165/</idno>
                     <idno type="geonames">https://www.geonames.org/18793/agia-paraskevi.html</idno>
@@ -610,6 +610,7 @@
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2003, 36</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gkioles2003"/><citedRange>58-59, 87-88, 170, 185-86</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>486-87, 501, 525, 584-85, 652</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Foulias2005"/></bibl>
                         <bibl><ptr target="bibliography.xml#Foulias2008"/><citedRange>61-72</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Philotheou2008"/><citedRange>73-94</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stewart2008"/><citedRange>91-105</citedRange></bibl>
