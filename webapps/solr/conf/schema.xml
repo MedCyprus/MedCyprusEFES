@@ -247,8 +247,13 @@
    multiValued="true" required="false" type="string" />
    <field name="index_painter" stored="true" indexed="true"
    multiValued="true" required="false" type="string" />
-   <field name="index_graffiti" stored="true" indexed="true"
+   <!-- next 3 fields to handle graffiti -->
+   <field name="index_graffiti_bibl" stored="true" indexed="true"
    multiValued="true" required="false" type="string" />
+   <field name="index_graffiti_text" stored="true" indexed="true"
+     multiValued="true" required="false" type="string" />
+   <field name="index_graffiti_ptr" stored="true" indexed="true"
+     multiValued="true" required="false" type="string" />
    <field name="index_external_resource" stored="true" indexed="true"
    multiValued="true" required="false" type="string" />
    <field name="index_inscriptions_bibl" stored="true" indexed="true"

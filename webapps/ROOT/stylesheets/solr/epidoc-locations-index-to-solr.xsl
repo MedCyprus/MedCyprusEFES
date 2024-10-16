@@ -143,22 +143,24 @@
             <field name="index_painter">
               <xsl:value-of select="$idno//tei:desc[@type='painter']"/>
             </field>
-            <field name="index_graffiti">
-              <xsl:value-of select="$idno//tei:desc[@type='graffiti']"/>
-              <xsl:text>|</xsl:text>
-              <xsl:choose>
-                <xsl:when test="$idno//tei:desc[@type='graffiti']/tei:bibl">
-                  <xsl:for-each select="$idno//tei:desc[@type='graffiti']/tei:bibl/tei:ptr">
-                  <xsl:value-of select="substring-after(@target, '#')"/> 
-                  <xsl:if test="following-sibling::tei:citedRange">
-                    <xsl:text>, </xsl:text>
-                    <xsl:value-of select="following-sibling::tei:citedRange"/>
-                  </xsl:if>
-                  <xsl:if test="position()!=last()">|</xsl:if>
-                  </xsl:for-each>
-                </xsl:when>
-              </xsl:choose>
+         <field name="index_graffiti_text">
+           <xsl:value-of select="$idno//tei:desc[@type='graffiti']/text()"/>
+         </field>
+          <xsl:if test="$idno//tei:desc[@type='graffiti']/tei:ptr">
+          <field name="index_graffiti_ptr">
+            <xsl:value-of select="$idno//tei:desc[@type='graffiti']/tei:ptr/@target"/>
+          </field>
+          </xsl:if>
+          <xsl:for-each select="$idno//tei:desc[@type='graffiti']/tei:bibl/tei:ptr">
+            <field name="index_graffiti_bibl">
+            <xsl:value-of select="substring-after(@target, '#')"/> 
+            <xsl:if test="following-sibling::tei:citedRange">
+              <xsl:text>, </xsl:text>
+              <xsl:value-of select="following-sibling::tei:citedRange"/>
+            </xsl:if>
             </field>
+          </xsl:for-each>
+          
             <xsl:for-each select="$idno//tei:idno[@type]">
                 <field name="index_external_resource">
                   <xsl:choose>
