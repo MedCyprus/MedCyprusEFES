@@ -365,7 +365,7 @@
   <xsl:template match="arr[@name='index_graffiti_ptr']/str">
     <xsl:analyze-string select="." regex="(http:|https:)(\S+?)(\.|\)|\]|;|,|\?|!|:)?(\s|$)"> 
       <xsl:matching-substring> <!-- it's a URL -->
-        <a target="_blank" href="{concat(regex-group(1),regex-group(2))}"><xsl:value-of select="concat(regex-group(1),regex-group(2))"/></a>
+       (<a target="_blank" href="{concat(regex-group(1),regex-group(2))}"><xsl:value-of select="concat(regex-group(1),regex-group(2))"/></a>)
         <xsl:value-of select="concat(regex-group(3),regex-group(4))"/>
       </xsl:matching-substring>
       <xsl:non-matching-substring><xsl:value-of select="."/></xsl:non-matching-substring> <!-- it's text -->
