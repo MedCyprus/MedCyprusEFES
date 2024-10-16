@@ -590,7 +590,7 @@
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1955, 1974, 1976, 1977, 1994, 1995, 2003 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">Presence confirmed (<bibl><ptr target="bibliography.xml#Foulias2005"/><citedRange>130</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>307</citedRange></bibl>; <bibl><ptr target="bibliography.xml#FouliasHadjichristodoulou2019"/><citedRange>34, 55-59</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Trentin2020"/><citedRange>287,294</citedRange></bibl>)</desc>
+                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Foulias2005"/><citedRange>130</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>307</citedRange></bibl> <bibl><ptr target="bibliography.xml#FouliasHadjichristodoulou2019"/><citedRange>34, 55-59</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2020"/><citedRange>287,294</citedRange></bibl></desc>
                     <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0090.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/145959/165/</idno>
                     <idno type="geonames">https://www.geonames.org/18793/agia-paraskevi.html</idno>
@@ -639,7 +639,7 @@
                     <desc type="conservation">Very fragmentary; poorly preserved. Fragments of painted plaster revealed during excavations are kept in the <ref target="locations.xml#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning:  2011, 2013, 2015 (DAC?)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknwon</desc>
-                    <desc type="graffiti">Presence confirmed (<bibl><ptr target="bibliography.xml#Gagoshidze2014a"/><citedRange>90-93</citedRange></bibl>)</desc>
+                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Gagoshidze2014a"/><citedRange>90-93</citedRange></bibl></desc>
 
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0052.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/hu/749/</idno>
@@ -677,7 +677,7 @@
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
 
-                    <desc type="graffiti">Presence confirmed (<bibl><ptr target="bibliography.xml#Gagoshidze2014a"/><citedRange>90-93</citedRange></bibl>)</desc>
+                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Gagoshidze2014a"/><citedRange>90-93</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0052.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/hu/749/</idno>
                     <idno type="geonames">https://www.geonames.org/maps/google_35.0895_32.555.html</idno>
@@ -724,7 +724,7 @@
                         7th layer: the priest-monk Philotheos (portrait and inscription)</desc>
                     <desc type="painter">Unknown</desc>
 
-                    <desc type="graffiti">Presence confirmed (https://historic-graffiti.cyi.ac.cy/place/1/)</desc>
+                    <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/1/"/></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0087.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146711/252/</idno>
                     <idno type="geonames">https://www.geonames.org/146711/agios-nikolaos-tis-stegis.html</idno>
@@ -859,7 +859,7 @@
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
 
-                    <desc type="graffiti">Presence confirmed (https://historic-graffiti.cyi.ac.cy/place/4/)</desc>
+                    <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/4/"/></desc>
                     <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0054.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/12633/497/</idno>
                     <idno type="geonames">https://www.geonames.org/12633/agios-ioannis-lampadistis.html</idno>
@@ -902,7 +902,7 @@
                         5th layer: one Michael, who was an ecclesiastical official, his wife and his two sons, who were priests</desc>
                     <desc type="painter">5th layer: a refugee from Constantinople after 1453 (fragmentary inscription; his name does not survive)</desc>
 
-                    <desc type="graffiti">Presence confirmed (https://historic-graffiti.cyi.ac.cy/place/4/)</desc>
+                    <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/4/"/></desc>
                     <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0054.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/12633/497/</idno>
                     <idno type="geonames">https://www.geonames.org/12633/agios-ioannis-lampadistis.html</idno>
@@ -1068,7 +1068,7 @@
                     <desc type="donors">1st layer(?): a fragmentary inscription <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)--> makes reference to a priest and caretaker of the church. Whether he was a donor remains unclear.</desc>
                     <desc type="painter">Unknown</desc>
 
-                    <desc type="graffiti">Presence confirmed (<bibl><ptr target="bibliography.xml#Meinardus1969"/></bibl>; <bibl><ptr target="bibliography.xml#Kraack1997"/><citedRange>106-08</citedRange></bibl>; <bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>460</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>305-06</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Trentin2020"/><citedRange>286-88, 295</citedRange></bibl>; <bibl><ptr target="bibliography.xml#FouliasHadjichristodoulou2022"/><citedRange>158</citedRange></bibl>)
+                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Meinardus1969"/></bibl> <bibl><ptr target="bibliography.xml#Kraack1997"/><citedRange>106-08</citedRange></bibl> <bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>460</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>305-06</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2020"/><citedRange>286-88, 295</citedRange></bibl> <bibl><ptr target="bibliography.xml#FouliasHadjichristodoulou2022"/><citedRange>158</citedRange></bibl>
                     </desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">Not listed</idno>
@@ -1513,7 +1513,7 @@
                         2nd layer: A fragmentary inscription mentioning a monk, whose name has been reconstructed as Theodore, has been interpreted as refering to the painter, which some scholars identify with Theodore Apseudes (<ref target="MedCY.036.185.html">MedCY.036.185</ref>).
                         3rd  layer: Leontios the Deacon</desc>
 
-                    <desc type="graffiti">Presence confirmed (https://historic-graffiti.cyi.ac.cy/place/9/)</desc>
+                    <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/9/"/></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0015.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146407/192/</idno>
                     <idno type="geonames">https://www.geonames.org/12314/panagia-tou-araka.html</idno>
@@ -1823,7 +1823,7 @@
                     <desc type="donors"> 1st layer: Ioannes Gerakiotes and his wife Irene funded the construction and the mural decoration of the church (<ref target="MedCY.043.020.html">MedCY.043.020</ref>, <ref target="MedCY.043.021.html">MedCY.043.020</ref>). Christophoros Omotes and his wife Maria funded the mural panel of Saint Christopher on the south wall of the naos (<ref target="MedCY.043.036.html">MedCY.043.036</ref>). Another couple, Georgios Kompotes and his wife Eirene, funded the mural panel with the enthroned Christ on the exterior of the west wall <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->.</desc>
                     <desc type="painter">Unknown</desc>
 
-                    <desc type="graffiti">Presence confirmed (https://historic-graffiti.cyi.ac.cy/place/6/)</desc>
+                    <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/6/"/></desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/146277/525/</idno>
                     <idno type="geonames">https://www.geonames.org/12636/panagia.html</idno>
@@ -1922,7 +1922,7 @@
                     </desc>
                     <desc type="painter">Unknown</desc>
 
-                    <desc type="graffiti">Presence confirmed (https://historic-graffiti.cyi.ac.cy/place/7/)</desc>
+                    <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/7/"/></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0095.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/16467/310/</idno>
                     <idno type="geonames">https://www.geonames.org/16467/panagia-forviotissa.html</idno>
@@ -2108,7 +2108,7 @@
                     <desc type="painter">1st layer: a painter surnamed Mon[o]machos; his first name no longer survives (<ref target="MedCY.048.001.html">MedCY.048.001</ref>)
                     </desc>
 
-                    <desc type="graffiti">Presence confirmed (https://historic-graffiti.cyi.ac.cy/place/3/)</desc>
+                    <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/3/"/></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0061.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146198/217/</idno>
                     <idno type="geonames">https://www.geonames.org/12522/timios-stavros.html</idno>
@@ -2164,7 +2164,7 @@
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
 
-                    <desc type="graffiti">Presence confirmed (<bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458-59</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>308-09</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>377-78</citedRange></bibl>)</desc>
+                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458-59</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>308-09</citedRange></bibl> <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>377-78</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0058.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146191/340/</idno>
                     <idno type="geonames">https://www.geonames.org/20665/agioi-apostoloi.html</idno>
@@ -2576,7 +2576,7 @@
                         5th layer: the monk Neophytos, mentioned in an inscription in the naos</desc>
                     <desc type="painter">2nd layer: Theodore Apseudes (<ref target="MedCY.059.125.html">MedCY.059.125</ref>)</desc>
 
-                    <desc type="graffiti">Presence confirmed (<bibl><ptr target="bibliography.xml#MangoHawkins1966"/><citedRange>121, 132, 138, 153, 180</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>306</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Trentin2020"/><citedRange>295</citedRange></bibl>)</desc>
+                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#MangoHawkins1966"/><citedRange>121, 132, 138, 153, 180</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>306</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2020"/><citedRange>295</citedRange></bibl></desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146714/390/</idno>
                     <idno type="geonames">https://www.geonames.org/146714/agios-neofytos.html</idno>
