@@ -2645,9 +2645,13 @@
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>202</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml.#MangoHawkins1966"/><citedRange>133-35, 186-90, 193, 202-04</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1984, 24</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml.#Papageorgiou1999b"/><citedRange>69</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml.#Papageorgiou2004"/><citedRange>12, 32</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>533-34</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2010b"/><citedRange>930-31, 945, 955-56</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>13: 395 </citedRange></bibl>
+                        <bibl><ptr target="#VisCult"/><citedRange> 1: 261</citedRange></bibl>
                     </listBibl>
                 </place>
                 
