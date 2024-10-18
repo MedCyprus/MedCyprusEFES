@@ -1117,7 +1117,7 @@
                     <desc type="donors">A number of fragmentary inscriptions survive associated with votive panels of the 4th and 5th layers of painted decoration, see <!--<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>, <ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>, <ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref> + --></desc>
                     <desc type="painter">Unknown</desc>
 
-                    <desc type="graffiti">Presence confirmed (<bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>307</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Perdiki2014a"/><citedRange>26</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>354, 358, 376</citedRange></bibl>)</desc>
+                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>307</citedRange></bibl> <bibl><ptr target="bibliography.xml#Perdiki2014a"/><citedRange>26</citedRange></bibl> <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>354, 358, 376</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0009.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146506/176/</idno>
                     <idno type="geonames">https://www.geonames.org/15933/agios-antonios.html</idno>
@@ -1168,7 +1168,7 @@
                     </desc>
                     <desc type="painter">Unknown</desc>
 
-                    <desc type="graffiti">Presence confirmed (<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>349, 353-54, 375</citedRange></bibl>)</desc>
+                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>349, 353-54, 375</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0007.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146469/178/</idno>
                     <idno type="geonames">https://www.geonames.org/4727/panagia-angeloktistos.html</idno>
@@ -1741,7 +1741,7 @@
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
 
-                    <desc type="graffiti">Presence confirmed (<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>367</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Trentin2020"/><citedRange>65</citedRange></bibl>)</desc>
+                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>367</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2020"/><citedRange>65</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0035.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146310/205/</idno>
                     <idno type="geonames">https://www.geonames.org/4850/agioi-athanasios-kai-kyrillos.html</idno>
@@ -1990,7 +1990,7 @@
                     <desc type="donors">1st layer: a Latin family, consting of the parents and at least two children, funded the mural of a Latin saintly prelate (portrait; no inscription survives)</desc>
                     <desc type="painter">Unknown</desc>
 
-                    <desc type="graffiti">Presence confirmed (<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>350, 365-66</citedRange></bibl>)</desc>
+                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>350, 365-66</citedRange></bibl></desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/hu/848/</idno>
                     <idno type="geonames">https://www.geonames.org/19113/ayios-yeoryios-angonas.html</idno>
@@ -2164,7 +2164,7 @@
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
 
-                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458-59</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>308-09</citedRange></bibl> <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>377-78</citedRange></bibl></desc>
+                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458-59</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>308-09</citedRange></bibl> <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>377-78</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0058.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146191/340/</idno>
                     <idno type="geonames">https://www.geonames.org/20665/agioi-apostoloi.html</idno>
