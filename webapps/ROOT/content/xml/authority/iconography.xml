@@ -142,6 +142,10 @@
                 <item xml:id="Abibos"> 
                     <term xml:lang="en">Abibos</term>
                 </item>
+                <item xml:id="Abraham"> 
+                    <term xml:lang="en">Abraham</term>
+                </item>
+                
                 <item xml:id="Adam">
                     <term xml:lang="en">Adam</term>
                 </item>
@@ -769,11 +773,21 @@
           <list type="gender">
               <head>Gender</head>
               
-              <item xml:id="eunuch"></item>
-              <item xml:id="female"></item>
-              <item xml:id="genderless"></item>
-              <item xml:id="male"></item>
-              <item xml:id="unidentified"></item>              
+              <item xml:id="eunuch">
+                  <term xml:lang="en">Eunuch</term>
+              </item>
+              <item xml:id="female">
+                  <term xml:lang="en">Female</term>
+              </item>
+              <item xml:id="genderless">
+                  <term xml:lang="en">Genderless</term>
+              </item>
+              <item xml:id="male">
+                  <term xml:lang="en">Male</term>
+              </item>
+              <item xml:id="unidentified">
+                  <term xml:lang="en">Unidentified Gender</term>
+              </item>              
           </list>
                 
             

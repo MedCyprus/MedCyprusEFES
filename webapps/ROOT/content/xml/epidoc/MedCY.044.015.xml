@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#AbrahamSacrificeAngel">Abraham's sacrifice, Angel of the Lord</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#AbrahamSacrifice">Abraham's sacrifice</rs>, <rs type="iconography" ref="iconography.xml#Angel">Angel of the Lord</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
