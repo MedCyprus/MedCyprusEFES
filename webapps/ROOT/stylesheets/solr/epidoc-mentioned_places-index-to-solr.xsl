@@ -40,10 +40,10 @@
           <field name="index_item_name">
             <xsl:choose>
               <xsl:when test="doc-available($mentionedplacesAL) = fn:true() and $idno">
-                <xsl:value-of select="$idno/tei:placeName[1]" />
-                <xsl:if test="$idno/tei:placeName[2]">
+                <xsl:value-of select="$idno/tei:placeName[@xml:lang='grc'][1]" />
+                <xsl:if test="$idno/tei:placeName[@xml:lang='grc'][2]">
                   <xsl:text> / </xsl:text>
-                  <xsl:value-of select="$idno/tei:placeName[2]" />
+                  <xsl:value-of select="$idno/tei:placeName[@xml:lang='grc'][2]" />
                 </xsl:if>
               </xsl:when>
               <xsl:otherwise>
@@ -53,8 +53,18 @@
           </field>
           <field name="index_item_type">
             <xsl:choose>
-              <xsl:when test="@type='ethnic'"><xsl:text>Ethnic</xsl:text></xsl:when>
-              <xsl:otherwise><xsl:text>Toponym</xsl:text></xsl:otherwise>
+            <xsl:when test="$idno/tei:placeName[@xml:lang='en'][1]">
+              <xsl:value-of select="$idno/tei:placeName[@xml:lang='en'][1]" />
+              <xsl:if test="$idno/tei:placeName[@xml:lang='en'][2]">
+                  <xsl:text> / </xsl:text>
+                <xsl:value-of select="$idno/tei:placeName[@xml:lang='en'][2]" />
+                </xsl:if>
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:value-of select="$id" />
+            </xsl:otherwise>
+              <!--<xsl:when test="@type='ethnic'"><xsl:text>Ethnic</xsl:text></xsl:when>
+              <xsl:otherwise><xsl:text>Toponym</xsl:text></xsl:otherwise>-->
             </xsl:choose>
           </field>
           <xsl:apply-templates select="current-group()" />

@@ -858,7 +858,6 @@
                     </desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-
                     <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/4/"/></desc>
                     <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0054.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/12633/497/</idno>
@@ -901,7 +900,6 @@
                         2nd layer: pair of anonymous monks, whose portrait survives in the bema.
                         5th layer: one Michael, who was an ecclesiastical official, his wife and his two sons, who were priests</desc>
                     <desc type="painter">5th layer: a refugee from Constantinople after 1453 (fragmentary inscription; his name does not survive)</desc>
-
                     <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/4/"/></desc>
                     <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0054.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/12633/497/</idno>
@@ -952,9 +950,7 @@
                     <desc type="conservation">Fragmentary; poor condition. Conservation/cleaning: 1968-1969 (DAC)</desc>
                     <desc type="donors">On the south wall, a fragmentary incised inscription on the plaster mentions one Leontios, monk and abbot of the monastery; whether or not he was involved in the decoration of the church is unclear (prior to the execution of the 2nd layer of painted decoration)</desc>
                     <desc type="painter">Unknown</desc>
-
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>117-18</citedRange></bibl></desc>
-
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">Not listed</idno>
                     <idno type="geonames">https://www.geonames.org/20238/panagia-galaterousa.html</idno>
@@ -1061,13 +1057,11 @@
                     <desc type="context"><term>Urban</term></desc>
                     <desc type="architectural">Chamber of a Hellenestic(?) rock-cut tomb, converted into a single-cell chapel</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium" source="bibliography.xml#Papageorgiou1996 bibliography.xml#Stylianou1997">Papageorgiou, Stylianou: late 12th century</date> <date notBefore="1301" notAfter="1400" precision="medium" source="bibliography.xml#HatfieldYoung1978 bibliography.xml#Konstantinidi2008">Hatfield Young, Konstandinidi: 14th century</date> (bema)</desc>                        
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (naos)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium" source="bibliography.xml#Papageorgiou1996 bibliography.xml#Stylianou1997">Papageorgiou, Stylianou: late 12th century</date> <date notBefore="1301" notAfter="1400" precision="medium" source="bibliography.xml#HatfieldYoung1978 bibliography.xml#Konstantinidi2008">Hatfield Young, Konstandinidi: 14th century</date> (bema)</desc>                                                <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (naos)</desc>
                     </desc>
                     <desc type="conservation">Poor condition; badly damaged. Conservation/cleaning: 1980, 2005 (DAC)</desc>
                     <desc type="donors">1st layer(?): a fragmentary inscription <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)--> makes reference to a priest and caretaker of the church. Whether he was a donor remains unclear.</desc>
                     <desc type="painter">Unknown</desc>
-
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Meinardus1969"/></bibl> <bibl><ptr target="bibliography.xml#Kraack1997"/><citedRange>106-08</citedRange></bibl> <bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>460</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>305-06</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2020"/><citedRange>286-88, 295</citedRange></bibl> <bibl><ptr target="bibliography.xml#FouliasHadjichristodoulou2022"/><citedRange>158</citedRange></bibl>
                     </desc>
                     <idno type="IBCC">Not listed</idno>
@@ -1116,8 +1110,7 @@
                     <desc type="conservation">Partially preserved. Some of the murals have been detached and are now on display at the <ref target="#KykkosMuseum">Museum of the Kykkos Monastery</ref>. Conservation/cleaning: 1977, 1980-2000, 2002-2005, 2007-2008 (DAC) </desc>
                     <desc type="donors">A number of fragmentary inscriptions survive associated with votive panels of the 4th and 5th layers of painted decoration, see <!--<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>, <ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>, <ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref> + --></desc>
                     <desc type="painter">Unknown</desc>
-
-                    <desc type="graffiti">Presence confirmed (<bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>307</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Perdiki2014a"/><citedRange>26</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>354, 358, 376</citedRange></bibl>)</desc>
+                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>307</citedRange></bibl> <bibl><ptr target="bibliography.xml#Perdiki2014a"/><citedRange>26</citedRange></bibl> <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>354, 358, 376</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0009.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146506/176/</idno>
                     <idno type="geonames">https://www.geonames.org/15933/agios-antonios.html</idno>
@@ -1167,8 +1160,7 @@
                         3rd layer: poorly preserved portrait of male(?) donor associated with mural of Sts Kosmas and Damian in the northwester recess of the north chapel. 
                     </desc>
                     <desc type="painter">Unknown</desc>
-
-                    <desc type="graffiti">Presence confirmed (<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>349, 353-54, 375</citedRange></bibl>)</desc>
+                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>349, 353-54, 375</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0007.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146469/178/</idno>
                     <idno type="geonames">https://www.geonames.org/4727/panagia-angeloktistos.html</idno>
@@ -1377,7 +1369,6 @@
                     <desc type="donors">The doux of Cyprus, Eumathios Philokales (<ref target="MedCY.033.001.html">MedCY.033.001</ref>, <!--<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>-->)</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#MangoHawkinsBoyd1990"/><citedRange>81,86</citedRange></bibl></desc>
-
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0064.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146427/190/</idno>
                     <idno type="geonames">https://www.geonames.org/20083/agios-ioannis-chrysostomos.html</idno>
@@ -1509,10 +1500,10 @@
                         <desc type="layer" n="4">4th layer: <date notBefore="1601" notAfter="1650" precision="medium" >first half of 17th century</date> (exterior of north wall)</desc>
                     </desc>
                     <desc type="conservation">Excellent. Conservation/cleaning: 1968-1973 (Dumbarton Oaks), 1977 (DAC)</desc>
-                    <desc type="donors">2nd layer: Leo Authentes (<ref target="MedCY.036.107.html">MedCY.036.107</ref>, <ref target="MedCY.036.152.html">MedCY.036.152</ref>)</desc>                    <desc type="painter">
+                    <desc type="donors">2nd layer: Leo Authentes (<ref target="MedCY.036.107.html">MedCY.036.107</ref>, <ref target="MedCY.036.152.html">MedCY.036.152</ref>)</desc>                    
+                    <desc type="painter">
                         2nd layer: A fragmentary inscription mentioning a monk, whose name has been reconstructed as Theodore, has been interpreted as refering to the painter, which some scholars identify with Theodore Apseudes (<ref target="MedCY.036.185.html">MedCY.036.185</ref>).
                         3rd  layer: Leontios the Deacon</desc>
-
                     <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/9/"/></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0015.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146407/192/</idno>
@@ -1695,7 +1686,6 @@
                     </desc>
                     <desc type="painter">Unknown</desc>
                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#MegawHawkins1977"/><citedRange>19, 152-53, 158</citedRange></bibl></desc>
-
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0070.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146359/203/</idno>
                     <idno type="geonames">https://www.geonames.org/19492/panagia-kanakaria.html</idno>
@@ -1740,8 +1730,7 @@
                     <desc type="conservation">Fragmentary; poor condition. Conservation/cleaning: 1997, 2014 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-
-                    <desc type="graffiti">Presence confirmed (<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>367</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Trentin2020"/><citedRange>65</citedRange></bibl>)</desc>
+                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>367</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2020"/><citedRange>65</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0035.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146310/205/</idno>
                     <idno type="geonames">https://www.geonames.org/4850/agioi-athanasios-kai-kyrillos.html</idno>
@@ -1822,7 +1811,6 @@
                     <desc type="conservation">Fragmentary; good condition. Conservation/cleaning: 1968, 2003, 2007 (DAC)</desc>
                     <desc type="donors"> 1st layer: Ioannes Gerakiotes and his wife Irene funded the construction and the mural decoration of the church (<ref target="MedCY.043.020.html">MedCY.043.020</ref>, <ref target="MedCY.043.021.html">MedCY.043.020</ref>). Christophoros Omotes and his wife Maria funded the mural panel of Saint Christopher on the south wall of the naos (<ref target="MedCY.043.036.html">MedCY.043.036</ref>). Another couple, Georgios Kompotes and his wife Eirene, funded the mural panel with the enthroned Christ on the exterior of the west wall <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->.</desc>
                     <desc type="painter">Unknown</desc>
-
                     <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/6/"/></desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/146277/525/</idno>
@@ -1921,7 +1909,6 @@
                         5th layer: the monk Theophilos and "the common people"; at least ten portraits of monks, including Theophilos, and lay men and women survive in the narthex, with their accompanying inscriptions.                    
                     </desc>
                     <desc type="painter">Unknown</desc>
-
                     <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/7/"/></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0095.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/16467/310/</idno>
@@ -1989,8 +1976,7 @@
                     <desc type="conservation">Very fragmentary; poor condition. Conservation/cleaning: 2001-2002 (DAC)</desc>
                     <desc type="donors">1st layer: a Latin family, consting of the parents and at least two children, funded the mural of a Latin saintly prelate (portrait; no inscription survives)</desc>
                     <desc type="painter">Unknown</desc>
-
-                    <desc type="graffiti">Presence confirmed (<bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>350, 365-66</citedRange></bibl>)</desc>
+                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>350, 365-66</citedRange></bibl></desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/hu/848/</idno>
                     <idno type="geonames">https://www.geonames.org/19113/ayios-yeoryios-angonas.html</idno>
@@ -2163,8 +2149,7 @@
                     <desc type="conservation">Fairly good condition; at points, where the surface paint does not survive, the underpaint is visible. Conservation/cleaning: 1954 (DAC), 1959-1960 (DAC/Byzantine Institute), 1969, 1980, 1998, 2010 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-
-                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458-59</citedRange></bibl>; <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>308-09</citedRange></bibl> <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>377-78</citedRange></bibl></desc>
+                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458-59</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>308-09</citedRange></bibl> <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>377-78</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0058.html</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146191/340/</idno>
                     <idno type="geonames">https://www.geonames.org/20665/agioi-apostoloi.html</idno>
@@ -2526,8 +2511,7 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date>10th century</date> (naos: only the inscription [<ref target="MedCY.058.001.html">MedCY.058.001</ref>] may be ascribed with certainty to this layer)</desc>
                         <desc type="layer" n="2">2nd layer: <date>14th century</date> (diakonikon; naos: west piers, south wall)</desc>
-                        <desc type="layer" n="3">3rd layer: <date when="1887" precision="high">1887</date> (naos: southwest pier, north face)</desc>                        
-                    </desc>
+                        <desc type="layer" n="3">3rd layer: <date when="1887" precision="high">1887</date> (naos: southwest pier, north face)</desc>                                        </desc>
                     <desc type="conservation">Fragmentary; very poor state of preservation; murals faded. After 1974, the face of a military saint on horseback on the south face of the northwestern pier was covered with plaster. Conservation/cleaning: -</desc>
                     <desc type="donors">
                         1st layer: the potential contribution of the author/narrator of an extensive funerary inscription (<ref target="MedCY.058.001.html">MedCY.058.001</ref>) in the southwestern part of the church to the mural decoration is unclear.
@@ -2575,7 +2559,6 @@
                         1st - 3rd layers: Neophytos the Recluse, as attested by extant portraits and inscriptions <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)--> in the complex, as well as by the writings of the saint
                         5th layer: the monk Neophytos, mentioned in an inscription in the naos</desc>
                     <desc type="painter">2nd layer: Theodore Apseudes (<ref target="MedCY.059.125.html">MedCY.059.125</ref>)</desc>
-
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#MangoHawkins1966"/><citedRange>121, 132, 138, 153, 180</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>306</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2020"/><citedRange>295</citedRange></bibl></desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146714/390/</idno>
