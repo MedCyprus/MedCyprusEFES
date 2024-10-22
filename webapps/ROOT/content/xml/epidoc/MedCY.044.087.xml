@@ -77,7 +77,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
               <lb n="1"/><g ref="#cross">+</g>Τὴν <w lemma="ψυχοβλαβής">ψυχο          
-              <lb n="2" break="no"/>βλαβὴ</w>
+              <lb n="2" break="no"/>βλαβ<choice><orig>ὴ</orig><reg>ῆ</reg></choice></w>
               <lb n="3"/><gap reason="lost" extent="3" unit="character"></gap>
               </ab>
             </div>
