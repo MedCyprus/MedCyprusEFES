@@ -78,7 +78,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                 <lb n="1"/><g ref="#cross">+</g><w lemma="ὥσπερ"><choice><orig>Ὧ</orig><reg>Ὥ</reg></choice>σπερ</w>         
-                <lb n="2"/><w lemma="νεκρός">νεκρὀς</w>
+                <lb n="2"/><w lemma="νεκρός">νεκρὸς</w>
                 <lb n="3"/><hi rend="ligature">οὐ</hi>κ<gap reason="lost" extent="2" unit="character"/>σθή
                 <lb n="4"/>ἠ<gap reason="lost" extent="3" unit="character"/>ος
                 <lb n="5"/>ὁ<gap reason="lost" extent="4" unit="character"/>νό
