@@ -75,7 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <lg met="Dodecasyllable">
-                    <l n="1"><lb n="1"/><g ref="#cross">+</g> ἡ <persName type="sacred" key="Virgin"><w lemma="παρθένος">παρθένου</w></persName> <w lemma="γέννησις">γ<choice><orig>ε</orig><reg>έ</reg></choice>ννησις</w>, <choice><orig>ἠ</orig><reg>ἡ</reg></choice> <w lemma="σωτηρία">σοτηρία</w></l>
+                    <l n="1"><lb n="1"/><g ref="#cross">+</g> ἡ <persName type="sacred" key="Virgin"><w lemma="παρθένος">Παρθένου</w></persName> <w lemma="γέννησις">γ<choice><orig>ε</orig><reg>έ</reg></choice>ννησις</w>, <choice><orig>ἠ</orig><reg>ἡ</reg></choice> <w lemma="σωτηρία">σοτηρία</w></l>
                     <l n="2"><lb n="2"/><w lemma="χαίρω">χάριθη</w> <w lemma="κόσμε">κόσμαι</w>, <w lemma="σή">σὴν</w> <w lemma="ἀνάστασις">ἀνάστασην</w> 
                     <lb n="3"/><space extent="17" unit="character"></space><w lemma="βλέπω">βλέπων</w>.</l>
                 </lg> 
