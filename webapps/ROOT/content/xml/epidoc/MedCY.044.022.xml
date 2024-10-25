@@ -85,10 +85,10 @@
                 <l n="3"><lb n="7"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan><am>`</am> <w lemma="νῦν">ν<choice><orig>ὺ</orig><reg>ῦ</reg></choice>ν</w> <w lemma="βλέπω">βλ<choice><orig>ε</orig><reg>έ</reg></choice>
                     <lb n="8" break="no"/>π<hi rend="ligature">ου</hi>σ<choice><orig>ί</orig><reg>ι</reg></choice>ν</w> <w lemma="αἴρω"><choice><sic>ἐρρό
                     <lb n="9" break="no"/>μενὸν τ<choice><orig>ο</orig><reg>ὸ</reg></choice>ν</sic><corr>αἰρόμενον</corr></choice></w>
-                    <lb n="10"/> <w lemma="κτίστης">κτήστην</w>:</l><l n="4"><w lemma="ὅς"><choice><orig>ό</orig><reg>ὅ</reg></choice>ν</w>
-                    <lb n="11"/><w lemma="συνήθως">συ<hi rend="ligature">ν<choice><orig>ὴ</orig><reg>ή</reg></choice></hi>θος</w> <w lemma="ἔχω">ἔχ<hi rend="ligature">ου</hi>
-                    <lb n="12" break="no"/>σιν</w> <w lemma="ἄγγελος"><choice><orig>α</orig><reg>ἄ</reg></choice>γγελο<choice><orig>ῖ</orig><reg>ι</reg></choice></w> <w lemma="βλέπω">βλέ
-                    <lb n="13" break="no"/>πιν</w></l>
+                    <lb n="10"/> <w lemma="κτίστης"><choice><sic>κ<hi rend="ligature">τή</hi>σ<hi rend="ligature">την</hi></sic><corr>κτίστην</corr></choice></w>:</l><l n="4"><w lemma="ὅς"><choice><orig>ό</orig><reg>ὃ</reg></choice>ν</w>
+                    <lb n="11"/><w lemma="συνήθως"><choice><sic>συ<hi rend="ligature">ν<choice><orig>ὴ</orig><reg>ή</reg></choice></hi>θος</sic><corr>συνήθως</corr></choice></w> <w lemma="ἔχω">ἔχ<hi rend="ligature">ου</hi>
+                    <lb n="12" break="no"/>σιν</w> <w lemma="ἄγγελος"><choice><orig>α</orig><reg>ἄ</reg></choice>γγελο<choice><orig>ῖ</orig><reg>ι</reg></choice></w> <w lemma="βλέπω"><choice><sic>βλέ
+                    <lb n="13" break="no"/>πιν</sic><corr>βλέπειν</corr></choice></w></l>
                 </lg>
             </div>
             <div type="apparatus">
@@ -98,8 +98,8 @@
                 <p>Lines 1-2 not usefully translated. Lines 3-4: And now they see the creator being taken up, He whom [only] the angels are accustomed to see (<ptr target="Ševčenko2012"/>, 75)</p>
             </div>
             <div type="commentary">
-                <p>Partially preserved. The second line starts with a cross. Τhe words αἰρόμενον, κτίστην, συνήθως, βλέπειν are misspelled. Some words are partially preserved and therefore we are unaware of their origin and meaning. Accents and breathings with errors. Οnly the phrases: καὶ νῦν βλέπουσιν αἰρόμενον τὸν κτίστην
-ὃν συνήθως ἔχουσιν ἄγγελοι βλέπειν, in lines 7-13 are understandable. Text: Unknown.</p>
+                <p>Partially preserved. Some words are partially preserved and therefore we are unaware of their origin and meaning. Οnly the phrases: καὶ νῦν βλέπουσιν αἰρόμενον τὸν κτίστην
+ὃν συνήθως ἔχουσιν ἄγγελοι βλέπειν, in lines 7-13 are understandable. Due to lack of space the word βλέπειν was written out of the frame. Text: Unknown.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
