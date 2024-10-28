@@ -75,7 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                 <lb n="1"/><w lemma="μήν"><hi rend="ligature">Μην</hi><choice><orig>ῖ</orig><reg>ὶ</reg></choice></w> <w lemma="Δεκέμβριος">Δηκ<supplied reason="lost">ε</supplied><supplied reason="omitted">μ</supplied>βρίο&#x0345;</w> <num value="17">ιζ</num>
+                 <lb n="1"/><w lemma="μήν"><hi rend="ligature">Μην</hi><choice><orig>ῖ</orig><reg>ὶ</reg></choice></w> <w lemma="Δεκέμβριος">Δηκ<supplied reason="lost">ε</supplied><supplied reason="omitted">μ</supplied>βρί<choice><orig>ο</orig><reg>ο&#x0345;</reg></choice></w> <num value="17">ιζ</num>
                  <lb n="2"/><expan><abbr rend="supraline"><choice><orig>ι</orig><reg>ἰ</reg></choice>ν</abbr><ex>δικτιῶνος</ex></expan> <num value="15">ιε</num> <w lemma="ἔτος">ἔ<hi rend="ligature">του</hi>ς</w> <num value="6608"><hi rend="ligature">&#x03DB;</hi>χη</num> <w lemma="κοιμῶμαι">ἐκυ
                  <lb n="3" break="no"/>μήθη</w> ἡ <w lemma="δούλη">δ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ύ</reg></choice></hi>λι</w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr>Θ</abbr><ex>εο</ex><abbr><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></w></persName> <persName type="attested" role="donor" ref="#Gephyra"><name nymRef="#Γέφυρα" type="forename">Γέφυ
                  <lb n="4" break="no"/>ρα</name></persName>

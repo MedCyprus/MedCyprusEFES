@@ -83,7 +83,7 @@
                        <w lemma="οὗπερ"> <hi rend="ligature">ο<choice><orig>υ</orig><reg>ὗ</reg></choice></hi>
                     <lb n="6"/>περ</w> <w lemma="αἰτῶ"><choice><orig>ε</orig><reg>ἐ</reg></choice>τ<choice><orig>ο</orig><reg>ῶ</reg></choice></w> <w lemma="προστάτης">προ<hi rend="ligature">στ</hi>άτυν</w> <w lemma="εὑρίσκω"><expan>εὑρι<abbr>κ</abbr><ex>έ</ex>ν</expan>ε</w></l> 
                       <l>ἐ<hi rend="ligature" xml:id="lig5">ν</hi>' <w lemma="ἡμέρα"><hi rend="ligature" xml:id="lig6"><choice><orig>η</orig><reg>ἡ</reg></choice>μ</hi><join target="#lig5 #lig6"/>έ
-                      <lb n="7" break="no"/>ρ<choice><orig>α</orig></choice><reg>ᾳ</reg></w> σε τ<choice><orig>ι</orig><reg>ι&#x0342;&#x0345;</reg></choice> <w lemma="φρικώδης">φρικ<choice><orig>ὼ</orig><reg>ώ</reg></choice><hi rend="ligature">δη</hi></w> <hi rend="ligature">τ<choice><orig>η</orig><reg>ῆ</reg></choice></hi>ς <w lemma="δίκη">δίκης ῳ α&#x0345;</w></l>
+                      <lb n="7" break="no"/>ρ<choice><orig>α</orig></choice><reg>ᾳ</reg></w> σε τ<choice><orig>ι</orig><reg>ι&#x0342;&#x0345;</reg></choice> <w lemma="φρικώδης">φρικ<choice><orig>ὼ</orig><reg>ώ</reg></choice><hi rend="ligature">δη</hi></w> <hi rend="ligature">τ<choice><orig>η</orig><reg>ῆ</reg></choice></hi>ς <w lemma="δίκη">δίκης</w></l>
                   </lg>
               </ab>
             </div>
