@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#refectorywall">Refectory, east wall, south of the entrance door, southern figure</rs>
+                                    <rs type="placement-building" ref="#refectorywall">Refectory, east wall, south of the entrance door, lower register, southern figure</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
