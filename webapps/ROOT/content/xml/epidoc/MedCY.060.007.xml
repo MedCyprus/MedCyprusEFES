@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Unidentified saint's scroll</title>
+                <title>Invocation?</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -28,12 +28,12 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#refectorywall">Refectory, south wall, on the west end, next to the top red border</rs>
+                                    <rs type="placement-building" ref="#refectorywall">Refectory, south wall, on the west end</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appeared on the open scroll held by the saint.</layout>
+                                <layout>Next to the top red border</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#unidentified">Saint, unidentified</rs></p>
+                            <p>... <rs type="iconography" ref="iconography.xml#unidentified">Unidentified</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,7 +66,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="060-007-01.jpg"><desc>Refectory, south wall, on the west end, next to the top red border, general view</desc></graphic>
+         <graphic rend="primary" url="060-007-01.jpg"><desc>Refectory, south wall, on the west end, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
