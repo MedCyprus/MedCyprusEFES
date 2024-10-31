@@ -62,10 +62,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-          <graphic url="049-009-02.jpg"><desc>Bema, semicylindrical wall, north side, second figure, inscription detail</desc></graphic>
-        <graphic rend="primary" url="049-009-01.jpg"><desc>Bema, apse, semicylindrical wall, north side, second figure, inscription detail</desc></graphic>
-        <graphic rend="secondary" url="049-009-03.jpg"><desc>Bema, apse, semicylindrical wall, north side, second figure, inscription detail</desc></graphic>
-        <graphic rend="secondary" url="049-009-04.jpg"><desc>Bema, apse, semicylindrical wall, north side, second figure, general view</desc></graphic>
+        <graphic rend="primary" url="049-009-01.jpg"><desc>Bema, apse, semicylindrical wall, north side, second figure, inscription</desc></graphic>
+        <graphic url="049-009-02.jpg"><desc>Bema, semicylindrical wall, north side, second figure, inscription detail</desc></graphic>
+        <graphic url="049-009-03.jpg"><desc>Bema, apse, semicylindrical wall, north side, second figure, inscription detail</desc></graphic>
+        <graphic url="049-009-04.jpg"><desc>Bema, apse, semicylindrical wall, north side, second figure, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
