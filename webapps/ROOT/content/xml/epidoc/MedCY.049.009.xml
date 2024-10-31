@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. The inscription is written entirely in majuscule. Accents and breathings systematic. The inscription is clear, legible and consists of bold letters. Very good preservation condition. <height unit="cm">3-5 cm</height>
+                            <handNote>White letters against blue background. The inscription is written entirely in majuscule. Accents and breathings systematic. The inscription is clear, legible and consists of bold letters. Very good preservation condition. <height unit="cm">3-5</height>
                             </handNote>
                         </handDesc>
                     </physDesc>
@@ -58,7 +58,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
