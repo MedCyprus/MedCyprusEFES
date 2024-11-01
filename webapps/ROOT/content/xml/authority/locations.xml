@@ -1816,6 +1816,7 @@
                     <idno type="HGC">https://cyprusgazetteer.org/146277/525/</idno>
                     <idno type="geonames">https://www.geonames.org/12636/panagia.html</idno>
                     <listBibl type="inscriptions">
+                        <bibl><ptr target="bibliography.xml#Soteriou1935"/><citedRange>pl. 161</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>102-03</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#HatfieldYoung1983"/><citedRange>246-320</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Mouriki1984"/><citedRange>171-213</citedRange></bibl>
