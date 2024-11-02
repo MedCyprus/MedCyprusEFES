@@ -28,12 +28,12 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south side, first figure on the left</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, lower register, first figure on the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the prelate's head</layout>
                                     </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -67,10 +67,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="049-011-01.jpg"><desc>Bema, apse, semicylindrical wall, south side, first figure on the left, inscription</desc></graphic>
-        <graphic url="049-011-02.jpg"><desc>Bema, apse, semicylindrical wall, south side, first figure on the left, inscription detail</desc></graphic>
-        <graphic url="049-011-03.jpg"><desc>Bema, apse, semicylindrical wall, south side, first figure on the left, inscription detail</desc></graphic>
-        <graphic url="049-011-04.jpg"><desc>Bema, apse, semicylindrical wall, south side, first figure on the left, general view</desc></graphic>
+        <graphic rend="primary" url="049-011-01.jpg"><desc>Bema, apse, semicylindrical wall, south half, lower register, first figure on the left, inscription</desc></graphic>
+        <graphic url="049-011-02.jpg"><desc>Bema, apse, semicylindrical wall, south half, lower register, first figure on the left, inscription detail</desc></graphic>
+        <graphic url="049-011-03.jpg"><desc>Bema, apse, semicylindrical wall, south half, lower register, first figure on the left, inscription detail</desc></graphic>
+        <graphic url="049-011-04.jpg"><desc>Bema, apse, semicylindrical wall, south half, lower register, first figure on the left, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
