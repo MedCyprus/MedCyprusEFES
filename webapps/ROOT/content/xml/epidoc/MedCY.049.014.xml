@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, center, beneath the window, first figure on the left</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, center, beneath the windows, first figure on the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
@@ -67,9 +67,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="049-014-01.jpg"><desc>Bema, apse, semicylindrical wall, center, beneath the window, first figure on the left, inscription detail</desc></graphic>
-        <graphic url="049-014-02.jpg"><desc>Bema, apse, semicylindrical wall, center, beneath the window, first figure on the left, general view</desc></graphic>
-        <graphic url="049-014-03.jpg"><desc>Bema, apse, semicylindrical wall, center, beneath the window, first figure on the left, inscription detail</desc></graphic>
+        <graphic rend="primary" url="049-014-01.jpg"><desc>Bema, apse, semicylindrical wall, center, beneath the windows, first figure on the left, inscription detail</desc></graphic>
+        <graphic url="049-014-02.jpg"><desc>Bema, apse, semicylindrical wall, center, beneath the windows, first figure on the left, general view</desc></graphic>
+        <graphic url="049-014-03.jpg"><desc>Bema, apse, semicylindrical wall, center, beneath the windows, first figure on the left, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
