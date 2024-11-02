@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, lower register, central figure</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, lower register, central figure</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -67,7 +67,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-011-01.JPG"><desc>Bema, semicylindrical wall, south half, lower register, central figure, inscription</desc></graphic>
+         <graphic rend="primary" url="044-011-01.JPG"><desc>Bema, apse, semicylindrical wall, south half, lower register, central figure, inscription</desc></graphic>
         </facsimile>
     <text>
         <body>
