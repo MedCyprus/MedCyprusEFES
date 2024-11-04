@@ -367,7 +367,10 @@
                     </item>              
                 <item xml:id="JohnForerunner"> 
                     <term xml:lang="en">John the Forerunner</term>
-                </item>                
+                </item>        
+                <item xml:id="JohnLampadistes"> 
+                    <term xml:lang="en">John Lampadistes</term>
+                </item>
                 <item xml:id="JohnMerciful">
                     <term xml:lang="en">John the Merciful</term>
                 </item>
