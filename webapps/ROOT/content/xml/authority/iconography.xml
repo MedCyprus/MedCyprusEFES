@@ -235,7 +235,10 @@
                 </item>                
                 <item xml:id="ConstantineOrmideia">
                     <term xml:lang="en">Constantine of Ormideia</term>
-                </item>                
+                </item>         
+                <item xml:id="Cyril"> 
+                    <term xml:lang="en">Cyril</term>
+                </item>
                 <item xml:id="Damianos"> 
                     <term xml:lang="en">Damianos</term>
                 </item>                
