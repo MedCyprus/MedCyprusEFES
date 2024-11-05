@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Symeon the Archimandrite</title>
+                <title>Symeon Stylites the Elder</title>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#SymeonArchimandrite">Symeon the Archimandrite</rs></p>
+                            <p>... <rs type="iconography" ref="iconography.xml#SymeonStylitesElder">Symeon Stylites the Elder</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -85,7 +85,7 @@
                 <p>Symeon the Archimandrite</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>PENDING. Note: A special reference should be made to the epithets Θαυματουργός and Αρχιμανδρίτης in this church throught the publication of Nicolaides</p>
             </div>
             <div type="bibliography">
                  <listBibl>
