@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Paul the Apostle</title>
+                <title>Saint Paul</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Some characters' size varies. Letter height: <height unit="cm">2-3,5</height>
+                            <handNote>White letters against red background. Majuscule letters. Letter height: <height unit="cm">2-3,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
