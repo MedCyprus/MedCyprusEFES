@@ -40,6 +40,7 @@
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">Not listed</idno>
+                    <idno type="Frankika">https://frankika.efa.gr/en/node/9447</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/hu/281/</idno>
                     <idno type="geonames">https://www.geonames.org/10347045/acheleia.html</idno>
                     <listBibl type="inscriptions">
@@ -119,6 +120,7 @@
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0093.html</idno>
+                    <idno type="Frankika">https://frankika.efa.gr/en/node/9580</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146105/230/</idno>
                     <idno type="geonames">http://www.geonames.org/19305/agios-fylon-agridia.html</idno>
                     <listBibl type="inscriptions">
@@ -431,6 +433,7 @@
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0047.html</idno>
+                    <idno type="Frankika">https://frankika.efa.gr/en/node/9450</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146485/156/</idno>
                     <idno type="geonames">https://www.geonames.org/16759/agios-georgios.html</idno>
                     <listBibl type="inscriptions">
@@ -545,6 +548,7 @@
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>376</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0029.html</idno>
+                    <idno type="Frankika">https://frankika.efa.gr/en/node/9451</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146639/159/</idno>
                     <idno type="geonames">https://www.geonames.org/18814/panagia-chryseleousa.html</idno>
                     <listBibl type="inscriptions">
@@ -723,9 +727,9 @@
                         5th layer: the monk Nikon (inscription and portrait in the southwest recess of the narthex)
                         7th layer: the priest-monk Philotheos (portrait and inscription)</desc>
                     <desc type="painter">Unknown</desc>
-
                     <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/1/"/></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0087.html</idno>
+                    <idno type="Frankika">https://frankika.efa.gr/en/node/9459</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146711/252/</idno>
                     <idno type="geonames">https://www.geonames.org/146711/agios-nikolaos-tis-stegis.html</idno>
                     <listBibl type="inscriptions">
@@ -776,6 +780,7 @@
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0008.html</idno>
+                    <idno type="Frankika">https://frankika.efa.gr/en/node/9460</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/146577/169/</idno>
                     <idno type="geonames">https://www.geonames.org/16520/agia-anna.html</idno>
                     <listBibl type="inscriptions">
@@ -860,6 +865,7 @@
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/4/"/></desc>
                     <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0054.html</idno>
+                    <idno type="Frankika">https://frankika.efa.gr/en/node/9461</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/12633/497/</idno>
                     <idno type="geonames">https://www.geonames.org/12633/agios-ioannis-lampadistis.html</idno>
                     <listBibl type="inscriptions">
@@ -902,6 +908,7 @@
                     <desc type="painter">5th layer: a refugee from Constantinople after 1453 (fragmentary inscription; his name does not survive)</desc>
                     <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/4/"/></desc>
                     <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0054.html</idno>
+                    <idno type="Frankika">https://frankika.efa.gr/en/node/9461</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/12633/497/</idno>
                     <idno type="geonames">https://www.geonames.org/12633/agios-ioannis-lampadistis.html</idno>
                     <listBibl type="inscriptions">
@@ -1025,6 +1032,7 @@
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed (M. G. Trentin)</desc>
                     <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0016.html</idno>
+                    <idno type="Frankika">https://frankika.efa.gr/en/node/9583</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146522/175/</idno>
                     <idno type="geonames">https://www.geonames.org/4933/archangelos.html</idno>
                     <listBibl type="inscriptions">
@@ -1112,6 +1120,7 @@
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>307</citedRange></bibl> <bibl><ptr target="bibliography.xml#Perdiki2014a"/><citedRange>26</citedRange></bibl> <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>354, 358, 376</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0009.html</idno>
+                    <idno type="Frankika">https://frankika.efa.gr/en/node/9584</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146506/176/</idno>
                     <idno type="geonames">https://www.geonames.org/15933/agios-antonios.html</idno>
                     <listBibl type="inscriptions">
@@ -1162,6 +1171,7 @@
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>349, 353-54, 375</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0007.html</idno>
+                    <idno type="Frankika">https://frankika.efa.gr/en/node/9585</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146469/178/</idno>
                     <idno type="geonames">https://www.geonames.org/4727/panagia-angeloktistos.html</idno>
                     <listBibl type="inscriptions">
@@ -1210,6 +1220,7 @@
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0072.html</idno>
+                    <idno type="Frankika">https://frankika.efa.gr/en/node/9587</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146445/181/</idno>
                     <idno type="geonames">https://www.geonames.org/4855/panagia.html</idno>
                     <listBibl type="inscriptions">
@@ -1643,6 +1654,7 @@
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">Not listed</idno>
+                    <idno type="Frankika">https://frankika.efa.gr/en/node/9588</idno>
                     <idno type="HGC">Not listed</idno>
                     <idno type="geonames">https://www.geonames.org/16015/agios-effimianos.html</idno>
                     <listBibl type="inscriptions">
@@ -1814,6 +1826,7 @@
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/6/"/></desc>
                     <idno type="IBCC">Not listed</idno>
+                    <idno type="Frankika">https://frankika.efa.gr/en/node/9589</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/146277/525/</idno>
                     <idno type="geonames">https://www.geonames.org/12636/panagia.html</idno>
                     <listBibl type="inscriptions">
@@ -1913,6 +1926,7 @@
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/7/"/></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0095.html</idno>
+                    <idno type="Frankika">https://frankika.efa.gr/en/node/9449</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/16467/310/</idno>
                     <idno type="geonames">https://www.geonames.org/16467/panagia-forviotissa.html</idno>
                     <listBibl type="inscriptions">
@@ -2095,9 +2109,9 @@
                     </desc>
                     <desc type="painter">1st layer: a painter surnamed Mon[o]machos; his first name no longer survives (<ref target="MedCY.048.001.html">MedCY.048.001</ref>)
                     </desc>
-
                     <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/3/"/></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0061.html</idno>
+                    <idno type="Frankika">https://frankika.efa.gr/en/node/9664</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146198/217/</idno>
                     <idno type="geonames">https://www.geonames.org/12522/timios-stavros.html</idno>
                     <listBibl type="inscriptions">
@@ -2402,6 +2416,7 @@
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed (M. G. Trentin)</desc>
                     <idno type="IBCC">Not listed</idno>
+                    <idno type="Frankika">https://frankika.efa.gr/en/node/9590</idno>
                     <idno type="HGC">Not listed</idno>
                     <idno type="geonames">https://www.geonames.org/146068/sotira.html</idno>
                     <listBibl type="inscriptions">
@@ -2563,6 +2578,7 @@
                     <desc type="painter">2nd layer: Theodore Apseudes (<ref target="MedCY.059.125.html">MedCY.059.125</ref>)</desc>
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#MangoHawkins1966"/><citedRange>121, 132, 138, 153, 180</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>306</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2020"/><citedRange>295</citedRange></bibl></desc>
                     <idno type="IBCC">Not listed</idno>
+                    <idno type="Frankika">https://frankika.efa.gr/en/node/9329</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146714/390/</idno>
                     <idno type="geonames">https://www.geonames.org/146714/agios-neofytos.html</idno>
                     <listBibl type="inscriptions">
