@@ -75,7 +75,14 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab><cb n="a"/>
+                  <lb n="1"/>Ὁ ἅγιος
+                  <cb n="b"/>
+                  <lb n="1"/>Βα
+                  <lb n="2"/>σί
+                  <lb n="3"/>λει
+                  <lb n="4"/>ο
+                  <lb n="5"/>ς
                </ab>
             </div>
             <div type="apparatus">
