@@ -13,7 +13,9 @@
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
                 <idno type="filename">MedCY.049.027</idno>
-                <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence></availability>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -26,27 +28,30 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>.</rs>
-                                    <rs type="placement-building">Dome, lower register</rs>
-                                    <dimensions unit="cm"><height> n/a </height></dimensions>
+                                    <rs type="placement-building" ref="#dome">Dome, angel zone, below the Pantokrator</rs>
+                                    <dimensions unit="cm"><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>around Pantocrator medallion</layout>
+                                <layout>Around Pantokrator medallion</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. The inscription is written entirely in majuscule. Accents and breathings non systematic. The inscription is damaged in some points and consists of thin letters. Throughout the inscription there are ligature of the letters ΑΝ, ΝΗ, ΘΥ. Partially preserved. <height unit="cm">n/a cm</height>
+                            <handNote>White letters against blue background. Majuscule letters. Accents and breathings non systematic.  <height unit="cm">n/a</height>
                             </handNote>
                         </handDesc>
+                        <decoDesc>
+                            <p><rs type="iconography" ref="iconography.xml#ChristPantokrator">Christ Pantokrator</rs></p>
+                        </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#PeraChorio">Pera Chorio, Holy Apostles</origPlace>
-                            <origDate precision="high">1060-1080</origDate>
+                            <origDate notBefore="1160" notAfter="1180" precision="medium">1160-1180</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
-                        <provenance type="observed">
+                        <provenance type="observed" resp="#tp">05/04/22
                         </provenance>
                     </history>
                 </msDesc>
@@ -55,39 +60,40 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#...">...</term>
+                    <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+        <graphic rend="primary" url="049-027-01.jpg"><desc>Dome, around Pantokrator medallion, inscription</desc></graphic>
+        <graphic url="049-027-02.jpg"><desc>Dome, around Pantokrator medallion, incription detail</desc></graphic>
+        <graphic url="049-027-03.jpg"><desc>Dome, around Pantokrator medallion, incription detail</desc></graphic>
+        <graphic url="049-027-04.jpg"><desc>Dome, around Pantokrator medallion, inscription detail</desc></graphic>
+        <graphic url="049-027-05.jpg"><desc>Dome, around Pantokrator medallion, inscription detail</desc></graphic>
+        <graphic url="049-027-06.jpg"><desc>Dome, around Pantokrator medallion, inscription detail</desc></graphic>
+        <graphic url="049-027-07.jpg"><desc>Dome, around Pantokrator medallion, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>
-                    <lb n="1"/>κ<unclear>α</unclear><unclear>ὶ</unclear><space quantity="3" unit="character"></space> προ <space quantity="3" unit="character"></space> σκυ<space quantity="3" unit="character"></space>  νη <space quantity="3" unit="character"></space> σ<supplied reason="lost">άτ <space quantity="3" unit="character"></space> ωσαν<space quantity="3" unit="character"></space>  αὐτ<space quantity="3" unit="character"></space> </supplied><unclear>ῷ</unclear><space quantity="3" unit="character"></space>  πάν <space quantity="3" unit="character"></space> τες <space quantity="3" unit="character"></space> ἄ <space quantity="3" unit="character"></space> γγε <space quantity="3" unit="character"></space> λοι <space quantity="3" unit="character"></space> <expan><abbr>Θ</abbr><ex>εο</ex>ῦ</expan>
-                   
+              <ab>PENDING
+                    <lb n="1"/>κ<unclear>α</unclear><unclear>ὶ</unclear><space quantity="3" unit="character"></space> προ <space quantity="3" unit="character"></space> σκυ<space quantity="3" unit="character"></space>  νη <space quantity="3" unit="character"></space> σ<supplied reason="lost">άτ <space quantity="3" unit="character"></space> ωσαν<space quantity="3" unit="character"></space>  αὐτ<space quantity="3" unit="character"></space> </supplied><unclear>ῷ</unclear><space quantity="3" unit="character"></space>  πάν <space quantity="3" unit="character"></space> τες <space quantity="3" unit="character"></space> ἄ <space quantity="3" unit="character"></space> γγε <space quantity="3" unit="character"></space> λοι <space quantity="3" unit="character"></space> <expan><abbr>Θ</abbr><ex>εο</ex>ῦ</expan>        
               </ab>
             </div>
             <div type="apparatus">
-                <listApp>
-                    <app>
-                        
-                  </app>
-                </listApp> </div>
+                <p>PENDING</p>
+                 </div>
             <div type="translation">
-                <p>
-</p> 
+                <p>PENDING</p> 
             </div>
             <div type="commentary">
-                <p>
-</p>
+                <p>PENDING. Partially preserved. The inscription is damaged in some points and consists of thin letters.</p>
             </div>
             <div type="bibliography">
-                <listBibl> <bibl></bibl>
+                 <listBibl>
+                <bibl>PENDING</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
