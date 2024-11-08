@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Angel's sphere Cryptogram</title>
+                <title>Angel's sphere Cryptograms</title>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -67,8 +67,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="049-028-01.jpg"><desc>Dome, angel zone, southwestern of Pantokrator, general view</desc></graphic>
-        <graphic url="049-028-02.jpg"><desc>Dome, angel zone, southwestern of Pantokrator, incription</desc></graphic>    
+        <graphic rend="primary" url="049-028-01.jpg"><desc>Dome, angel zone, southwestern of Pantokrator, inscription</desc></graphic>
+        <graphic url="049-028-02.jpg"><desc>Dome, angel zone, southwestern of Pantokrator, general view</desc></graphic>    
     </facsimile>
     <text>
         <body>
