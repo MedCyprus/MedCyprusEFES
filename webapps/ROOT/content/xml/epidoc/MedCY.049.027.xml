@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Septuagint text</title>
+                <title>Moses' poem</title>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -29,7 +29,7 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>.</rs>
                                     <rs type="placement-building" ref="#dome">Dome, angel zone, below the Pantokrator</rs>
-                                    <dimensions unit="cm"><height>n/a</height></dimensions>
+                                    <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Accents and breathings non systematic.  <height unit="cm">n/a</height>
+                            <handNote>PENDING.White letters against blue background. Majuscule letters. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -74,6 +74,7 @@
         <graphic url="049-027-05.jpg"><desc>Dome, around Pantokrator medallion, inscription detail</desc></graphic>
         <graphic url="049-027-06.jpg"><desc>Dome, around Pantokrator medallion, inscription detail</desc></graphic>
         <graphic url="049-027-07.jpg"><desc>Dome, around Pantokrator medallion, inscription detail</desc></graphic>
+        <graphic url="049-027-08.jpg"><desc>Dome, around Pantokrator medallion, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
