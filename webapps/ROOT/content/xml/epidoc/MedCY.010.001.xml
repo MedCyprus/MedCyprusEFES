@@ -20,7 +20,7 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository ref="location.xml#SoteraMuseum">Ecclesiastical Museum of Sotera</repository>
+                        <repository ref="locations.xml#SoteraMuseum">Ecclesiastical Museum of Sotera</repository>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
