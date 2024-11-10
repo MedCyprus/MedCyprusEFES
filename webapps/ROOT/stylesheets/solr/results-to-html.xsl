@@ -57,7 +57,10 @@
 
   <xsl:template match="lst[@name='facet_fields']/lst"
                 mode="search-results">
-    <section>
+    <xsl:element name="section">
+    <xsl:if test="contains(@name,'iconographic')">
+      <xsl:attribute name="style">margin-top: 20%</xsl:attribute>
+    </xsl:if>
       <p class="title" data-section-title="">
         <a href="#" onclick="toggle_visibility('{@name}');">
           <xsl:apply-templates mode="search-results" select="@name" />
@@ -68,7 +71,7 @@
           <xsl:apply-templates mode="search-results" />
         </ul>
       </div>
-    </section>
+    </xsl:element>
   </xsl:template>
 
   <!-- Display a facet's name. To rename facets, provide translations in 'webapps/ROOT/assets/translations/messages_xx.xml', 

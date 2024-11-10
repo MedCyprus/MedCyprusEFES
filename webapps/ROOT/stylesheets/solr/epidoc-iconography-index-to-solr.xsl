@@ -52,8 +52,11 @@
           </field>
           <field name="index_item_type">
             <xsl:if test="doc-available($iconographyAL) = fn:true() and $idno">
+                 <xsl:value-of select="$idno/preceding-sibling::tei:head"/>
+                 
+                <!--
               <xsl:choose>
-                <xsl:when test="$idno/parent::tei:list[@type='christological_narrative']">
+                 <xsl:when test="$idno/parent::tei:list[@type='christological_narrative']">
                   <xsl:text>Christological narrative scenes</xsl:text>
                 </xsl:when>
                 <xsl:when test="$idno/parent::tei:list[@type='mariological_narrative']">
@@ -71,11 +74,11 @@
                 <xsl:when test="$idno/parent::tei:list[@type='supplicants']">
                   <xsl:text>Supplicants</xsl:text>
                 </xsl:when>
-                <!-- EM adding from iconography.xml -->
+                <!-\- EM adding from iconography.xml -\->
                 
                 <xsl:when test="$idno/parent::tei:list[@type='individual_figure_iconography']">
                   <xsl:value-of select="$idno/preceding-sibling::tei:head"/>
-                  <!--<xsl:text>Individual Figures</xsl:text>-->
+                 <xsl:text>Individual Figures</xsl:text>
                 </xsl:when>
                 <xsl:when test="$idno/parent::tei:list[@type='scenecategories']">
                   <xsl:text>Narrative Scene Categories</xsl:text>
@@ -95,7 +98,7 @@
                 <xsl:when test="$idno/parent::tei:list[@type='structures_objects_symbols']">
                   <xsl:text>Structures - Objects - Symbols</xsl:text>
                 </xsl:when>
-              </xsl:choose>
+              </xsl:choose>-->
             </xsl:if>
           </field>
           <xsl:apply-templates select="current-group()" />
