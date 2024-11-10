@@ -233,6 +233,10 @@
      multiValued="true" required="false" type="string" />
    <field name="index_diocese" stored="true" indexed="true"
      multiValued="true" required="false" type="string" />
+   <field name="index_repository_location" stored="true" indexed="true"
+     multiValued="true" required="false" type="string" />
+   <field name="index_repository_url" stored="true" indexed="true"
+     multiValued="true" required="false" type="string" />
    <field name="index_coordinates" stored="true" indexed="true"
      multiValued="true" required="false" type="string" />
    <field name="index_construction" stored="true" indexed="true"

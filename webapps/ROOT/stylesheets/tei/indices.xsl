@@ -58,6 +58,8 @@
       </xsl:if>
       
       <div>
+        <xsl:choose>
+          <xsl:when test="str[@name='index_item_type'] eq 'Monument'">
         <!--<p><b>Type: </b><xsl:value-of select="str[@name='index_item_type']" /></p>-->
         <p><b>District: </b><xsl:value-of select="string-join(arr[@name='index_district']/str, '; ')"/>
           <b> &#xA0;&#xA0;&#xA0;&#xA0; Diocese: </b><xsl:value-of select="string-join(arr[@name='index_diocese']/str, '; ')"/></p>
@@ -87,6 +89,14 @@
         <ul><xsl:for-each select="arr[@name='index_external_resource']/str"><li><xsl:apply-templates select="."/></li></xsl:for-each></ul>
         <p><b>Edition(s) of inscriptions: </b><xsl:apply-templates select="arr[@name='index_inscriptions_bibl']"/></p>
         <p><b>Monument bibliography: </b><xsl:apply-templates select="arr[@name='index_monument_bibl']"/></p>
+          </xsl:when>
+          <xsl:when test="str[@name='index_item_type'] eq 'Repository'">  <!-- This is for handling display of repositories -->
+            <p><b>Location: </b> <xsl:value-of select="string-join(arr[@name='index_repository_location']/str, '; ')"/></p>
+            <p><b>Museum Website: </b><xsl:apply-templates select="arr[@name='index_repository_url']"/></p>
+            <p><b>External resources: </b></p>
+            <ul><xsl:for-each select="arr[@name='index_external_resource']/str"><li><xsl:apply-templates select="."/></li></xsl:for-each></ul>
+          </xsl:when>
+        </xsl:choose>
         <p><b>Inscriptions: </b></p>
         <ul class="index-instances"><xsl:apply-templates select="arr[@name='index_instance_location']/str"/></ul>
       </div>
@@ -359,6 +369,9 @@
     </xsl:choose>
   </xsl:template>
   
+  <xsl:template match="arr[@name='index_repository_url']/str">
+        <a target="_blank" href="{.}"><xsl:value-of select="."/></a>
+  </xsl:template>
   <xsl:template match="arr[@name='index_graffiti_text']/str">
     <xsl:value-of select="."/>
   </xsl:template>

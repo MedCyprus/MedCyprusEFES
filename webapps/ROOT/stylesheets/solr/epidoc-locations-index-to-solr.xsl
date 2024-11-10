@@ -114,6 +114,9 @@
               <!--</xsl:otherwise>
             </xsl:choose>-->
           </field>
+          <field name="index_repository_location">
+            <xsl:value-of select="$idno//tei:location/tei:placeName"/>
+          </field>
           <field name="index_coordinates">
             <xsl:value-of select="$idno//tei:location/tei:geo"/>
           </field>
@@ -207,6 +210,10 @@
                 </xsl:for-each>
               </xsl:otherwise>
             </xsl:choose>
+         
+          <field name="index_repository_url"> <!-- Assumes only one museum website. Indexes it for each location, including monuments. -->
+            <xsl:value-of select="$idno//tei:bibl/tei:ref[@type='website']"/>
+          </field>
           <!--</xsl:if>-->
           <xsl:apply-templates select="current-group()" />
         </doc>
