@@ -74,7 +74,8 @@
                 <!-- EM adding from iconography.xml -->
                 
                 <xsl:when test="$idno/parent::tei:list[@type='individual_figure_iconography']">
-                  <xsl:text>Individual Figures</xsl:text>
+                  <xsl:value-of select="$idno/preceding-sibling::tei:head"/>
+                  <!--<xsl:text>Individual Figures</xsl:text>-->
                 </xsl:when>
                 <xsl:when test="$idno/parent::tei:list[@type='scenecategories']">
                   <xsl:text>Narrative Scene Categories</xsl:text>

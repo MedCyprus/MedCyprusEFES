@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Αnnunciation">Annunciation, Gabriel</rs></p>
+                            <p>... <rs type="iconography" ref="iconography.xml#Annunciation">Annunciation</rs><rs type="iconography" ref="iconography.xml#Gabriel">Gabriel</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

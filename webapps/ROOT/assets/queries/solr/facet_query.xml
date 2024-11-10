@@ -19,7 +19,9 @@
   <facet.field>monument_function</facet.field>
   <facet.field>placement</facet.field>
   <facet.field>inscription_type</facet.field>
-  <facet.limit>-1</facet.limit>
+  <facet.field>iconographic_categories</facet.field>
+  <facet.field>iconography</facet.field>
+   <facet.limit>-1</facet.limit>
   <facet.mincount>1</facet.mincount>
   <!-- facet.sort's value may be either "index" (alphabetic order of
        value) or "count" (numeric order of count). -->

@@ -131,6 +131,31 @@
     </field>
   </xsl:template>
   
+  <xsl:template match="tei:rs[@type='iconography']/@ref" mode="facet_iconography">
+    <field name="iconography">
+      <xsl:value-of select="."/>
+    </field>
+  </xsl:template>
+  
+  <xsl:template match="tei:rs[@type='iconography']/@ref" mode="facet_iconographic_categories">
+    
+    <xsl:variable name="id" select="substring-after(., '#')"/>
+    <xsl:variable name="iconographyAL" select="'../../content/xml/authority/iconography.xml'"/>
+    <field name="iconographic_categories">
+      <xsl:choose>
+        <xsl:when test="doc-available($iconographyAL) = fn:true() and document($iconographyAL)//tei:item[@xml:id=$id]">
+          <xsl:value-of select="normalize-space(translate(translate(translate(document($iconographyAL)//tei:item[@xml:id=$id][1]/preceding-sibling::tei:head, '/', '／'), '_', ' '), '(?)', ''))"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:text>Uncat. </xsl:text>
+          <xsl:value-of select="$id" />
+        </xsl:otherwise>
+      </xsl:choose>
+    </field>
+    
+
+  </xsl:template>
+  
   <!-- This template is called by the Kiln tei-to-solr.xsl as part of
        the main doc for the indexed file. Put any code to generate
        additional Solr field data (such as new facets) here. -->
@@ -145,6 +170,8 @@
     <xsl:call-template name="field_placement"/>
     <xsl:call-template name="field_person_name"/>
     <xsl:call-template name="field_textual_origin_date"/>
+    <xsl:call-template name="field_iconography"/>
+    <xsl:call-template name="field_iconographic_categories"/>
   </xsl:template>
   
   <xsl:template name="field_inscription_type">
@@ -181,6 +208,14 @@
   
   <xsl:template name="field_textual_origin_date">
     <xsl:apply-templates mode="facet_textual_origin_date" select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:history/tei:origin/tei:origDate" />
+  </xsl:template>
+  
+  <xsl:template name="field_iconography">
+    <xsl:apply-templates mode="facet_iconography" select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:physDesc/tei:decoDesc/tei:p/tei:rs[@type='iconography']/@ref"/>
+  </xsl:template>
+  
+  <xsl:template name="field_iconographic_categories">
+    <xsl:apply-templates mode="facet_iconographic_categories" select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:physDesc/tei:decoDesc/tei:p/tei:rs[@type='iconography']/@ref"/>
   </xsl:template>
   
 </xsl:stylesheet>

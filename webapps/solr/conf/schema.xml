@@ -171,7 +171,11 @@
      multiValued="true" required="false" type="string" />
    <field indexed="true" multiValued="true" name="inscription_type"
      required="false" stored="true" type="string" />
-
+   <field indexed="true" multiValued="true" name="iconography"
+     required="false" stored="true" type="string" />
+   <field indexed="true" multiValued="true" name="iconographic_categories"
+     required="false" stored="true" type="string" />
+   
    <!-- User index fields. -->
    <field name="index_item_name" stored="true" indexed="true"
           multiValued="false" required="false" type="string" />
