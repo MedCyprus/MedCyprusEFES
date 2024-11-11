@@ -94,7 +94,14 @@
             <p><b>Location: </b> <xsl:value-of select="string-join(arr[@name='index_repository_location']/str, '; ')"/></p>
             <p><b>Museum Website: </b><xsl:apply-templates select="arr[@name='index_repository_url']"/></p>
             <p><b>External resources: </b></p>
-            <ul><xsl:for-each select="arr[@name='index_external_resource']/str"><li><xsl:apply-templates select="."/></li></xsl:for-each></ul>
+            <xsl:choose>
+              <xsl:when test="arr[@name='index_external_resource']/str">
+              <ul><xsl:for-each select="arr[@name='index_external_resource']/str"><li><xsl:apply-templates select="."/></li></xsl:for-each></ul>
+              </xsl:when>
+              <xsl:otherwise>
+               <ul><li> <xsl:text>n/a</xsl:text></li></ul>
+              </xsl:otherwise>
+            </xsl:choose>
           </xsl:when>
         </xsl:choose>
         <p><b>Inscriptions: </b></p>
