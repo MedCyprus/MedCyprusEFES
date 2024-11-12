@@ -59,15 +59,15 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc17">Other</term>
+                    <term type="textType" ref="text_types.xml#doc19">Biographical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-117-01.JPG"><desc>Cell, ceiling, eastern part, inscription</desc></graphic>
-        <graphic url="059-117-02.JPG"><desc>Cell, ceiling, eastern part, general view</desc></graphic>
+         <graphic rend="primary" url="059-117-01.JPG"><desc>(Auto)biographical inscription</desc></graphic>
+        <graphic url="059-117-02.JPG"><desc>(Auto)biographical inscription, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
