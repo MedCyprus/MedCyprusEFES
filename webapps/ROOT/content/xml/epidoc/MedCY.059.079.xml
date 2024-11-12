@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Verse inscription</title>
+                <title>Fragmentary inscription</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -59,17 +59,17 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc12">Metrical inscription</term>
+                    <term type="textType" ref="text_types.xml#doc17">Other</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-079-01.JPG"><desc>Naos, east wall, above the entrance door, inscription</desc></graphic>
-        <graphic url="059-079-02.JPG"><desc>Naos, east wall, above the entrance door, inscription detail</desc></graphic>
-        <graphic url="059-079-03.JPG"><desc>Naos, east wall, above the entrance door, inscription detail</desc></graphic>
-        <graphic url="059-079-04.JPG"><desc>Naos, east wall, above the entrance door, general view</desc></graphic>
+         <graphic rend="primary" url="059-079-01.JPG"><desc>Fragmentary inscription</desc></graphic>
+        <graphic url="059-079-02.JPG"><desc>Fragmentary inscription, detail</desc></graphic>
+        <graphic url="059-079-03.JPG"><desc>Fragmentary inscription, detail</desc></graphic>
+        <graphic url="059-079-04.JPG"><desc>Fragmentary inscription, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
