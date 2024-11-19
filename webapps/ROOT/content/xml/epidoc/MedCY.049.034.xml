@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Annunciation, Virgin</title>
+                <title>Annunciation, the Virgin's response to Gabriel</title>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -29,7 +29,7 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#dome">Dome, northwestern pendentive</rs>
-                                    <dimensions unit="cm"><height>n/a</height></dimensions>
+                                    <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
@@ -68,8 +68,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="049-034-01.jpg"><desc>Annunciation, Virgin, inscription</desc></graphic>
-        <graphic url="049-034-02.jpg"><desc>Annunciation, Virgin, general view</desc></graphic>   
+        <graphic rend="primary" url="049-034-01.jpg"><desc>Annunciation, the Virgin's response to Gabriel, inscription</desc></graphic>
+        <graphic url="049-034-02.jpg"><desc>Annunciation, the Virgin's response to Gabriel, general view</desc></graphic>   
     </facsimile>
     <text>
         <body>
