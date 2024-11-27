@@ -74,8 +74,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab> 
-                  <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς Χριστός"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex>ς</expan>
-                  <milestone unit="column"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex>ς</expan></name></persName> 
+                  <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς Χριστός"><expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan>
+                  <milestone unit="column"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς<am>´</am></abbr></expan></name></persName> 
                </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +85,7 @@
                 <p>Jesus Christ</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Good condition</p>
             </div>
             <div type="bibliography">
                  <listBibl>
