@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING
+                             <handNote>White letters against red background. Accents and breathings non-systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -73,7 +73,9 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab> 
+                  <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς Χριστός"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex>ς</expan>
+                  <milestone unit="column"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex>ς</expan></name></persName> 
                </ab>
             </div>
             <div type="apparatus">
