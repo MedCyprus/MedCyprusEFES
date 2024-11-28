@@ -29,7 +29,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, south wall, lunette, bottom right</rs>
+                                    <rs type="placement-building" ref="#naos">PENDING</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
@@ -68,7 +68,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="..."></graphic>        
+        <graphic url="..."/>        
     </facsimile>
     <text>
         <body>
