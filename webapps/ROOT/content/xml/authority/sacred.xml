@@ -293,6 +293,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q3567462</idno>                   
                 </person>
                 
+                <person xml:id="Eugraphos">
+                    <persName xml:lang="grc">Εὐγραφος</persName>
+                    <persName xml:lang="en">Eugraphos</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q59607910</idno>                   
+                </person>
+                
                 <person xml:id="Eustratios">
                     <persName xml:lang="grc">Εὐστράτιος</persName>
                     <persName xml:lang="en">Eustratios</persName>
@@ -398,6 +404,12 @@
                     <persName xml:lang="grc">Ἡρακλείδιος</persName>
                     <persName xml:lang="en">Herakleidios</persName>   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q31284689</idno>                   
+                </person>
+                
+                <person xml:id="Hermogenes">
+                    <persName xml:lang="grc">Ἑρμογένης</persName>
+                    <persName xml:lang="en">Hermogenes</persName>               
+                    <idno type="wikidata">not listed</idno>                   
                 </person>
                 
                 <person xml:id="Hermolaos">
@@ -683,6 +695,13 @@
                     <persName xml:lang="grc">Μηνάς</persName>
                     <persName xml:lang="en">Menas</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q163432</idno>                   
+                </person>
+                
+                <person xml:id="MenasKallikelados">
+                    <persName xml:lang="grc">Μηνάς</persName>
+                    <persName xml:lang="en">Menas</persName>  
+                    <persName xml:lang="grc" type="epithet" subtype="Kallikelados">Καλλικέλαδος</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q12872168</idno>                   
                 </person>
                 
                 <person xml:id="MeterTheou">
