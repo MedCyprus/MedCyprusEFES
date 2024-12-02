@@ -283,7 +283,10 @@
                 </item>
                 <item xml:id="Eugenios"> 
                     <term xml:lang="en">Eugenios</term>
-                </item>              
+                </item>    
+                <item xml:id="Eugraphos"> 
+                    <term xml:lang="en">Eugraphos</term>
+                </item>
                 <item xml:id="Eulalios"> 
                     <term xml:lang="en">Eulalios</term>
                 </item>
