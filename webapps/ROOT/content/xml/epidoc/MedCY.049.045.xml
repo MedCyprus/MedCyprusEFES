@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Menas</title>
+                <title>Saint Menas Kallikelados</title>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Menas">Menas</rs>
+                            <p><rs type="iconography" ref="iconography.xml#MenasKallikelados">Menas Kallikelados</rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -68,8 +68,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="049-045-01.JPG"><desc>Saint Menas, inscription</desc></graphic>
-        <graphic url="049-045-02.JPG"><desc>Saint Menas, general view</desc></graphic>  
+        <graphic rend="primary" url="049-045-01.JPG"><desc>Saint Menas Kallikelados, inscription</desc></graphic>
+        <graphic url="049-045-02.JPG"><desc>Saint Menas Kallikelados, general view</desc></graphic>  
     </facsimile>
     <text>
         <body>
