@@ -28,6 +28,7 @@
                 <bibl xml:id="DOP"><title type="short">DOP</title> <title level="j">Dumbarton Oaks Papers</title></bibl>
                 <bibl xml:id="EcclesMon"><title type="short">EcclesMon</title> <author><surname>Bakirtzis</surname><forename> Ch.</forename></author>, <author><surname>Philotheou</surname><forename> G.</forename></author>, with <author><surname>Petrou</surname><forename> Th.</forename></author>, <date>2022</date>, <title level="m">Εκκλησιαστικά Μνημεία της Κύπρου. Κατάλογος εκκλησιών συντηρημένων από το Τμήμα Αρχαιοτήτων με χορηγία του Ιδρύματος Α. Γ. Λεβέντη</title>, 2 vols, <pubPlace>Nicosia</pubPlace>. [cited entries by Th. Petrou and G. Philotheou]</bibl>
                  <bibl xml:id="EKMIMK"><title type="short">EKMIMK</title> <title level="j">Επετηρίδα Κέντρου Μελετών Ιεράς Μονής Κύκκου</title></bibl>
+                <bibl xml:id="JÖB"><title type="short">JÖB</title> <title level="j">Jahrbuch der Österreichischen Byzantinistik</title></bibl>
                 <bibl xml:id="JÖBG"><title type="short">JÖBG</title> <title level="j">Jahrbuch der Österreichischen Byzantinischen Gesellschaft</title></bibl>
                 <bibl xml:id="KΣ"><title type="short">KΣ</title> <title level="j">Κυπριακαὶ Σπουδαί</title></bibl>
                 <bibl xml:id="MKE"> <title type="short">MKE</title><title level="m">Μεγάλη Κυπριακή Εγκυκλοπαίδεια</title>, ed.<editor> <forename>A. </forename><surname>Pavlides</surname></editor>, 20 vols, 2nd ed., <pubPlace>Nicosia</pubPlace>, <date>2011-2012</date>. [most cited entries by A. Papageorgiou]</bibl>
@@ -305,7 +306,7 @@
                     <bibl xml:id="ProcopiouDemetriou2014"><author><surname>Procopiou</surname> <forename>E.</forename></author> and<author> <surname>Demetriou</surname> <forename>D.</forename></author>, <date>2014</date>, <title level="a">Ανασκαφική έρευνα στην Παναγία της Κοφίνου</title>, in <title level="m">Ευμάθιος Φιλοκάλης. Ανάδειξη βυζαντινών μνημείων Κρήτης και Κύπρου</title>, ed. <editor><forename>E.</forename> <surname>Procopiou</surname></editor>, <editor><forename>N.</forename> <surname>Pyrrou</surname></editor>, <pubPlace>Rethymno</pubPlace>, <biblScope unit="page">240-49</biblScope>.</bibl>             
                     
                     <bibl xml:id="Rhoby2013"><author><surname>Rhoby</surname> <forename>A.</forename></author>, <date>2013</date>, <title level="a">Secret Messages? Byzantine Greek Tetragrams and Their Display</title>, <title level="j">In-Scription: revue en ligne d'études épigraphiques [En ligne]</title>, URL : https://in-scription.edel.univ-poitiers.fr:443/in-scription/index.php?id=180</bibl>
-                                   
+                    
                     <bibl xml:id="Sacopoulo1966"><author><surname>Sacopoulo</surname> <forename>M.</forename></author>, <date>1966</date>, <title level="m">Asinou en 1106 et sa contribution à l’iconographie</title>, <pubPlace>Brussels</pubPlace>.</bibl>
                     
                     <bibl xml:id="Ševčenko2011"><author><surname>Ševčenko</surname> <forename>N.</forename></author>, <date>2011</date>, <title level="a">The Service of the Virgin’s Lament Revisited </title>, in <title level="m">The Cult of the Mother of God in Byzantium: Texts and Images</title>, eds.<editor> <forename> L.</forename> <surname>Brubaker</surname></editor> and <editor><forename>Mary</forename> <surname>B. Cunningham</surname></editor>, <pubPlace> London</pubPlace>, <biblScope unit="page">247-62</biblScope>.</bibl>
@@ -525,6 +526,8 @@
                 
                 
                 <bibl xml:id="Lauxterman2003"><author><surname>Lauxterman</surname> <forename>M.</forename></author>, <date>2003</date>, <title level="m">Byzantine Poetry from Pisides to Geometres. Texts and Contexts</title>, <biblScope unit="volume">I</biblScope>, <pubPlace>Vienna</pubPlace>.</bibl>                
+                <bibl xml:id="Rhoby2021"><author><surname>Rhoby</surname> <forename>A.</forename></author>, <date>2021</date>, <title level="a">Varia Lexicographica III. Neues Material zum byzantinischen und postbyzantinischen Wortschatz</title>, <title level="j">JÖB</title>, <biblScope unit="volume">71</biblScope><biblScope unit="page">303-93</biblScope>.</bibl>
+                
                 <bibl xml:id="Wortley2013"><editor><surname>Wortley</surname> <forename>J.</forename></editor> (ed. and trans.), <date>2013</date>, <title level="a">The Anonymous Sayings of the Desert Fathers. A Select Edition and Complete English Translation</title>, <pubPlace>New York</pubPlace>.</bibl>
                 
             </listBibl>
