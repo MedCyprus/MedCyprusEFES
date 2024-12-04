@@ -88,11 +88,13 @@
   </xsl:template>
   
   <xsl:template mode="word-index" match="tei:orig">
-    <xsl:value-of select="replace(., '\s','')"/>
+    <xsl:apply-templates mode="word-index"/>
+    <!--<xsl:value-of select="replace(., '\s','')"/>-->
   </xsl:template>
   
   <xsl:template mode="word-index" match="tei:sic">
-    <xsl:value-of select="replace(., '\s','')"/>
+    <xsl:apply-templates mode="word-index"/>
+    <!--<xsl:value-of select="replace(., '\s','')"/>-->
   </xsl:template>
   
   <xsl:template mode="word-index" match="tei:corr | tei:reg |  tei:am"/>
