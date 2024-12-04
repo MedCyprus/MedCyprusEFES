@@ -41,7 +41,11 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#PrelateUnidentified">Prelate, unidentified</rs></p>
+                            <p>...<rs type="iconography" ref="#PrelateUnidentified">Unidentified</rs><!-- or Prelate, unidentified? Prelate is a category, and it appears below-->
+                                  <rs type="iconography" ref="#individual_figures"></rs>
+                                  <rs type="iconography" ref="#individual_figure_categories">Prelate</rs>
+                                  <rs type="iconography" ref="#gender">male</rs>                            
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

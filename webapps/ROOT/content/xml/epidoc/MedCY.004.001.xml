@@ -41,7 +41,12 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Archangel">Archangel</rs></p>
+                            <p>...<rs type="iconography" ref="#Archangel">Archangel</rs>
+                                  <rs type="iconography" ref="#individual_figures"></rs>
+                                  <rs type="iconography" ref="#individual_figure_iconography">Dress, unidentifiable</rs>
+                                  <rs type="iconography" ref="#individual_figure_categories"></rs>
+                                  <rs type="iconography" ref="#gender">genderless</rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

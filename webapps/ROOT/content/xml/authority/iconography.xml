@@ -804,19 +804,19 @@
               <head>Gender</head>
               
               <item xml:id="eunuch">
-                  <term xml:lang="en">Eunuch</term>
+                  <term xml:lang="en">eunuch</term>
               </item>
               <item xml:id="female">
-                  <term xml:lang="en">Female</term>
+                  <term xml:lang="en">female</term>
               </item>
               <item xml:id="genderless">
-                  <term xml:lang="en">Genderless</term>
+                  <term xml:lang="en">genderless</term>
               </item>
               <item xml:id="male">
-                  <term xml:lang="en">Male</term>
+                  <term xml:lang="en">male</term>
               </item>
               <item xml:id="unidentified">
-                  <term xml:lang="en">Unidentified Gender</term>
+                  <term xml:lang="en">unidentified gender</term>
               </item>              
           </list>
                 
