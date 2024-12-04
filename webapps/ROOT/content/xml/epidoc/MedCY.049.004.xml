@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING
+                             <handNote>White against blue background. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -74,7 +74,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                   <lb n="1"/>Ὁ<persName type="sacred" key="Paul"> <w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w> <name nymRef="Παῦλος">Παῦλος</name> </persName> 
                </ab>
             </div>
             <div type="apparatus">
