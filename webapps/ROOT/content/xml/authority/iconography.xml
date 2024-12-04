@@ -683,26 +683,26 @@
                 <item xml:id="ChristPantokrator">
                     <term xml:lang="en">Christ Pantokrator</term>
                 </item>     
-                <item xml:id="InfantChrist">
-                    <term xml:lang="en">The infant Christ</term>
+                <item xml:id="ChristChild">
+                    <term xml:lang="en">Christ Child</term>
                 </item>
                 <item xml:id="dressantique"><!-- for angels -->
-                    <term xml:lang="en">Dress, antique</term>
+                    <term xml:lang="en">dress, antique</term>
                 </item>
                 <item xml:id="dresscivilian">
-                    <term xml:lang="en">Dress, civilian</term><!-- for angels and military martyrs -->
+                    <term xml:lang="en">dress, civilian</term><!-- for angels and military martyrs -->
                 </item>
                 <item xml:id="dressdeacon"><!-- for angels -->
-                    <term xml:lang="en">Dress, deacon's</term>
+                    <term xml:lang="en">dress, deacon's</term>
                 </item>
                 <item xml:id="dressimperial"><!-- for angels -->
-                    <term xml:lang="en">Dress, imperial</term>
+                    <term xml:lang="en">dress, imperial</term>
                 </item>
                 <item xml:id="dressmilitary">
-                    <term xml:lang="en">Dress, military</term><!-- for angels and military martyrs -->
+                    <term xml:lang="en">dress, military</term><!-- for angels and military martyrs -->
                 </item>
                 <item xml:id="dressunidentifiable">
-                     <term xml:lang="en">Dress, unidentifiable</term><!-- for angels and military martyrs -->
+                     <term xml:lang="en">dress, unidentifiable</term><!-- for angels and military martyrs -->
                 </item>            
                 <item xml:id="VirginBlachernitissa">
                     <term xml:lang="en">Virgin Blachernitissa</term>
@@ -737,66 +737,67 @@
                 <head>Individual Figure Categories</head>    
                 
                 <item xml:id="angelicpower">
-                    <term xml:lang="en">Angelic Power</term>
+                    <term xml:lang="en">angelic power</term>
                 </item>
                 <item xml:id="apostle">
-                    <term xml:lang="en">Apostle</term>
+                    <term xml:lang="en">apostle</term>
                 </item>
-                <item xml:id="Archangel">
-                    <term xml:lang="en">Archangel</term>
+                <item xml:id="archangel">
+                    <term xml:lang="en">archangel</term>
                 </item>
                 <item xml:id="ascetic">
-                    <term xml:lang="en">Ascetic</term>
+                    <term xml:lang="en">ascetic</term>
                 </item>
                 <item xml:id="deacon">
-                    <term xml:lang="en">Deacon</term>
+                    <term xml:lang="en">deacon</term>
                 </item>
                 <item xml:id="deceased">
-                    <term xml:lang="en">Deceased</term>
+                    <term xml:lang="en">deceased</term>
                 </item>
                 <item xml:id="divine">
-                    <term xml:lang="en">Divine</term>
+                    <term xml:lang="en">divine</term>
                 </item>
                 <item xml:id="doctor">
-                    <term xml:lang="en">Doctor</term>
+                    <term xml:lang="en">doctor</term>
                 </item>
                 <item xml:id="donor">
-                    <term xml:lang="en">Donor</term>
+                    <term xml:lang="en">donor</term>
                 </item>
                 <item xml:id="evangelist">
-                    <term xml:lang="en">Evangelist</term>
-                </item><item xml:id="hymnographer">
-                    <term xml:lang="en">Hymnographer</term>
+                    <term xml:lang="en">evangelist</term>
+                </item>
+                <item xml:id="hymnographer">
+                    <term xml:lang="en">hymnographer</term>
                 </item>
                 <item xml:id="imperial">
-                    <term xml:lang="en">Imperial</term>
+                    <term xml:lang="en">imperial</term>
                 </item>
                 <item xml:id="martyr">
-                    <term xml:lang="en">Martyr</term>
+                    <term xml:lang="en">martyr</term>
                 </item>
                 <item xml:id="militarysaint">
-                    <term xml:lang="en">Military Saint</term>
+                    <term xml:lang="en">military saint</term>
                 </item>
                 <item xml:id="monastic">
-                    <term xml:lang="en">Monastic</term>
+                    <term xml:lang="en">monastic</term>
                 </item>
                 <item xml:id="personification">
-                    <term xml:lang="en">Personification</term>
+                    <term xml:lang="en">personification</term>
                 </item>
                 <item xml:id="prelate">
-                    <term xml:lang="en">Prelate</term>
+                    <term xml:lang="en">prelate</term>
                 </item>
                 <item xml:id="priest">
-                    <term xml:lang="en">Priest</term>
+                    <term xml:lang="en">priest</term>
                 </item>  
                 <item xml:id="prophete">
-                    <term xml:lang="en">Prophet</term>
+                    <term xml:lang="en">prophet</term>
                 </item>
                 <item xml:id="stylite">
-                    <term xml:lang="en">Stylite</term>
+                    <term xml:lang="en">stylite</term>
                 </item>
                 <item xml:id="supplicant">
-                    <term xml:lang="en">Supplicant</term>
+                    <term xml:lang="en">supplicant</term>
                 </item>                
           </list>
             
@@ -824,11 +825,11 @@
                 <head>Structures - Objects - Symbols</head>
                 
               <item xml:id="CrossProcessional"> 
-                  <term xml:lang="en">Cross, processional</term>
+                  <term xml:lang="en">cross, processional</term>
                     <!--Do we want to distinguish type of crosses? E.g., Patriarchal, Latin, processional etc.?-->
               </item>
               <item xml:id="CrossTablet"> 
-                  <term xml:lang="en">Tablet</term>
+                  <term xml:lang="en">tablet</term>
               </item>
               <item xml:id="Keramidion"> 
                   <term xml:lang="en">Keramidion</term>
@@ -837,7 +838,7 @@
                   <term xml:lang="en">Mandylion</term>
               </item>
               <item xml:id="Sphere"> 
-                  <term xml:lang="en">Sphere</term>
+                  <term xml:lang="en">sphere</term>
               </item>
           </list>
                         
