@@ -625,7 +625,7 @@
                 <item xml:id="TheodoreStratelates"> 
                     <term xml:lang="en">Theodore Stratelates</term>
                 </item>
-                <item xml:id="Theodosios">
+                <item xml:id="TheodosiosCenobiarch">
                     <term xml:lang="en">Theodosios the Cenobiarch</term>
                 </item>
                 <item xml:id="Theodotos">
@@ -686,20 +686,23 @@
                 <item xml:id="InfantChrist">
                     <term xml:lang="en">The infant Christ</term>
                 </item>
-                <item xml:id="dressantique">
+                <item xml:id="dressantique"><!-- for angels -->
                     <term xml:lang="en">Dress, antique</term>
                 </item>
                 <item xml:id="dresscivilian">
-                    <term xml:lang="en">Dress, civilian</term>
+                    <term xml:lang="en">Dress, civilian</term><!-- for angels and military martyrs -->
                 </item>
-                <item xml:id="dressdeacon">
+                <item xml:id="dressdeacon"><!-- for angels -->
                     <term xml:lang="en">Dress, deacon's</term>
                 </item>
-                <item xml:id="dressimperial">
+                <item xml:id="dressimperial"><!-- for angels -->
                     <term xml:lang="en">Dress, imperial</term>
                 </item>
                 <item xml:id="dressmilitary">
-                    <term xml:lang="en">Dress, military</term>
+                    <term xml:lang="en">Dress, military</term><!-- for angels and military martyrs -->
+                </item>
+                <item xml:id="dressunidentifiable">
+                     <term xml:lang="en">Dress, unidentifiable</term><!-- for angels and military martyrs -->
                 </item>            
                 <item xml:id="VirginBlachernitissa">
                     <term xml:lang="en">Virgin Blachernitissa</term>
