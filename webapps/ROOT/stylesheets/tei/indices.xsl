@@ -133,8 +133,9 @@
       <xsl:apply-templates select="arr[@name='index_instance_location']" />
     </tr>
   </xsl:template>
-
-  <xsl:template match="response/result[descendant::doc[arr[@name='index_coordinates']]]"> <!-- i.e. locations index -->
+  
+<!-- Locations Index Output  -->
+  <xsl:template match="response/result[descendant::doc[arr[@name='index_coordinates']]]"> 
     <div>
       <xsl:if test="doc/str[@name='index_map_points']">
         <div class="row map_box">
@@ -152,9 +153,16 @@
       </div>
       </xsl:if>
       
-      <h2>MONUMENTS</h2>
+      <h2 id="monuments">MONUMENTS</h2>
+      <!-- Add list of monuments here 
+      a href="-->
+      
+      <div class="locations-menu-list">
+        <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Monument']]" mode="menu-list"><!--<xsl:sort select="lower-case(.)"/>--></xsl:apply-templates>
+      </div>
+      
       <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Monument']]"><!--<xsl:sort select="lower-case(.)"/>--></xsl:apply-templates>
-      <h2>REPOSITORIES</h2>
+      <h2 id="repositories">REPOSITORIES</h2>
       <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Repository']]"><!--<xsl:sort select="lower-case(.)"/>--></xsl:apply-templates>
     </div>
   </xsl:template>
@@ -466,6 +474,12 @@
           <xsl:if test="position()!=last()">; </xsl:if>
       
     </xsl:for-each>)
+  </xsl:template>
+  
+  <xsl:template match="result/doc[arr[@name='index_coordinates']]" mode="menu-list">
+    <p class="locations-menu-cols"><a href="{concat('#', str[@name='index_id'])}">
+      <xsl:value-of select="str[@name='index_item_name']"/>
+    </a></p> 
   </xsl:template>
   
   
