@@ -41,7 +41,11 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Barnabas">Barnabas</rs></p>
+                            <p>... <rs type="iconography" ref="#Barnabas">Barnabas</rs>
+                                   <rs type="iconography" ref="#individual_figures"></rs>
+                                   <rs type="iconography" ref="#individual_figure_categories">apostle</rs>
+                                   <rs type="iconography" ref="#gender">male</rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
