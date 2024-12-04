@@ -41,7 +41,11 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#VirginOrans">Virgin Orans</rs></p>
+                            <p>... <rs type="iconography" ref="#Virgin">Virgin</rs>
+                                   <rs type="iconography" ref="#individual_figures"></rs>
+                                   <rs type="iconography" ref="#individual_figure_iconography">Virgin Orans</rs><!-- or simply Orans? In the iconography.xml, in this List type we have xml:id="VirginOrans-->
+                                   <rs type="iconography" ref="#gender">female</rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
