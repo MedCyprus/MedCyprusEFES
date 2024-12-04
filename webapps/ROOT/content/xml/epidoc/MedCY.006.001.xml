@@ -41,7 +41,11 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#MaleSaintUnidentified">Male saint, unidentified</rs></p>
+                            <p>...<rs type="iconography" ref="iconography.xml#MaleSaintUnidentified">Male saint, unidentified</rs><!-- or simply, Unidentified? There is no category, "male saint" or simply "saint" under individual_figures_categories. Also, if we add here suggested identifications, e.g., George(?) or Archangel(?), how do we treat these? Add, all the relevant rs elements for each?-->
+                                  <rs type="iconography" ref="#individual_figures"></rs>
+                                  <!--<rs type="iconography" ref="#individual_figure_categories"></rs>-->
+                                  <rs type="iconography" ref="#gender">male</rs><!-- If this is an archangel, then they are genderless -->
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
