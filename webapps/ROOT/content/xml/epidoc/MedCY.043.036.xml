@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>Good condition</rs>
                                     <rs type="placement-building" ref="#naos">Naos, south wall, lower register, central scene</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. Delta is formed with a lambda on a horizontal bar, which at its ends has a vertical point. Omega with crosslet; nearly round final sigma ending in a horizontal wavy line; Accents systematic. Letter height: <height unit="cm">2-3</height>
+                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. Parallel use of oval and round letters; delta is formed with a lambda on a horizontal bar, which has a vertical ending on the left; omega with crosslet; nearly round final sigma ending in a horizontal wavy line; alpha with an oval loop; upsilon like a V on a horizontal bar with triangular ends; mu with two vertical lines from which one tau hangs in the interior. The lines of the letters have small triangular, rectangular, or vertical endings. ΟΥ, TO, TH, TOY in ligatures. The words δέησις, Θεοῦ, are rendered by an abbreviation with a wavy line above each word. Accents and breathings with errors. Letter height: <height unit="cm">2-3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -66,8 +66,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-036-01.JPG"><desc>Naos, south wall, lower register, inscription detail</desc></graphic>
-        <graphic url="043-036-02.JPG"><desc>Naos, south wall, lower register, general view</desc></graphic>
+         <graphic rend="primary" url="043-036-01.JPG"><desc>Christophoros Omotes' invocation, inscription detail</desc></graphic>
+        <graphic url="043-036-02.JPG"><desc>Christophoros Omotes' invocation, general view</desc></graphic>
             </facsimile>
     <text>
         <body>
@@ -75,7 +75,7 @@
                 <ab>
               <lb n="1"/> <g ref="#cross">+</g> <w lemma="δέησις"><expan><abbr rend="supraline">Δ<choice><orig>ε</orig><reg>έ</reg></choice></abbr><ex>ησις</ex></expan></w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi>
               <lb n="2"/><w lemma="δοῦλος">δούλου</w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <persName type="divine" key="God"><name nymRef="#Θεός"></name><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>· <persName type="attested" role="donor" ref="#ChristophorosΟmotes"><name nymRef="#Χριστοφόρος" type="forename"><choice><sic>Χρι<lb n="3" break="no"/>σ<hi rend="ligature">το</hi>φώρου</sic><corr>Χρι<lb n="3" break="no"/>στοφόρου</corr></choice></name>· τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <name nymRef="#Ὀμότης" type="surname"><expan><abbr><choice><orig>Ὁ</orig><reg>Ὀ</reg></choice>μ<choice><sic>ό</sic><corr>Ὀμώτου</corr></choice>τ</abbr><ex>ου</ex></expan></name></persName>
-              <lb n="4"/><w><choice><sic>κ<choice><orig>ε</orig><reg>ὲ</reg></choice></sic><corr>καὶ</corr></choice></w> <w><choice><sic><hi rend="ligature">τ<choice><orig>η</orig><reg>ῆ</reg></choice></hi><supplied reason="omitted">ς</supplied></sic><corr>τῆς</corr></choice></w> <w lemma="συμβία"><choice><sic>ση<supplied reason="omitted">ν</supplied>βί<hi rend="ligature">ου</hi></sic><corr>συμβίου</corr></choice></w> <w lemma="αὐτός">α<choice><orig>ὑ</orig><reg>ὐ</reg></choice>τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi></w>
+              <lb n="4"/><w><choice><sic>κ<choice><orig>ε</orig><reg>ὲ</reg></choice></sic><corr>καὶ</corr></choice></w> <w><hi rend="ligature">τ<choice><orig>η</orig><reg>ῆ</reg></choice></hi><supplied reason="omitted">ς</supplied></w> <w lemma="συμβία"><choice><sic>ση<supplied reason="omitted">ν</supplied>βί<hi rend="ligature">ου</hi></sic><corr>συμβίου</corr></choice></w> <w lemma="αὐτός">α<choice><orig>ὑ</orig><reg>ὐ</reg></choice>τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi></w>
               <lb n="5"/> <persName type="attested" role="donor" ref="#Maria"><name nymRef="#Μαρία" type="forename"></name>Μαρίας</persName>
                  </ab>
             </div>
@@ -91,7 +91,7 @@
                 <p>Invocation of the servant of the God Christophoros Omotes and his wife Maria</p>
             </div>
             <div type="commentary">
-                <p>Good condition. A cross with dots in the angles marks the beginning of the text. The painter's writing seems to have been influenced again by spoken language. This is confirmed by the word τῆ σηβίου instead of the correct τῆς συμβίας. Accents and breathings with errors. According to <bibl><ptr target="#Mouriki1984"/>,<citedRange> 192</citedRange></bibl>, the donors Christophoros Omotes (for the word ὀμώτης see <bibl><ptr target="#Rhoby2021"/>, <citedRange>345-46</citedRange></bibl>) and his wife Maria financed the mural of Saint Christopher and possibly the depictions of Saints Theodore and Paul which are in the same frame as Saint Christopher. The individual donation it seems that was made at the same period with the main decoration of the church.
+                <p>A cross with dots in the angles marks the beginning of the text. According to <bibl><ptr target="#Mouriki1984"/>,<citedRange> 192</citedRange></bibl>, the donors Christophoros Omotes (for the word ὀμώτης see <bibl><ptr target="#Rhoby2021"/>, <citedRange>345-46</citedRange></bibl>) and his wife Maria financed the mural of Saint Christopher and possibly the depictions of Saints Theodore and Paul which are in the same frame as Saint Christopher. The individual donation it seems that was made at the same period with the main decoration of the church.
 </p>
             </div>
             <div type="bibliography">
