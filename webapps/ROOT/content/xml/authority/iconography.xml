@@ -113,6 +113,9 @@
              <item xml:id="DescentOfTheCross">
                  <term xml:lang="en">Descent of the Cross</term>
              </item>
+             <item xml:id="unidentified_scene">
+                 <term xml:lang="en">Unidentified scene</term>
+             </item>
            </list> 
                                                    
            <list type="scenecategories">
@@ -227,6 +230,21 @@
                 <item xml:id="Christ">
                     <term xml:lang="en">Christ</term>
                 </item>                
+                <item xml:id="ChristAntiphonetes">
+                    <term xml:lang="en">Christ Antiphonetes</term>
+                </item>
+                <item xml:id="ChristEmmanuel">
+                    <term xml:lang="en">Christ Emmanuel</term>
+                </item>
+                <item xml:id="ChristEnthroned">
+                    <term xml:lang="en">Enthroned Christ</term>
+                </item>
+                <item xml:id="ChristPantokrator">
+                    <term xml:lang="en">Christ Pantokrator</term>
+                </item>     
+                <item xml:id="ChristChild">
+                    <term xml:lang="en">Christ Child</term>
+                </item>
                 <item xml:id="Christopher"> 
                     <term xml:lang="en">Christopher</term>
                 </item>
@@ -256,10 +274,7 @@
                 </item>                
                 <item xml:id="David"> 
                     <term xml:lang="en">David</term>
-                </item>
-                <item xml:id="Deacon_044.049"> 
-                        <term xml:lang="en">Deacon (MedCY044.049)</term>
-                    </item>         
+                </item>                      
                 <item xml:id="DionysiosAreopagites"> 
                     <term xml:lang="en">Dionysios the Areopagite</term>
                 </item>
@@ -436,16 +451,7 @@
                 </item>
                 <item xml:id="Makedonios"> 
                     <term xml:lang="en">Makedonios</term>
-                </item>                
-                <item xml:id="MaleSaint_044.037"> 
-                    <term xml:lang="en">Male saint (MedCY044.037)</term>
-                </item>                
-                <item xml:id="MaleSaint_044.100"> 
-                    <term xml:lang="en">Male saint (MedCY044.100)</term>
-                </item>                
-                <item xml:id="MaleSaint_055.024">
-                    <term xml:lang="en">Male saint (MedCY055.024)</term>
-                </item>
+                </item>           
                 <item xml:id="Mamas"> 
                     <term xml:lang="en">Mamas</term>
                 </item>                
@@ -534,46 +540,13 @@
                 </item>
                 <item xml:id="Phylon">
                     <term xml:lang="en">Phylon</term>
-                </item>
-                <item xml:id="Prelate_033.003"> 
-                    <term xml:lang="en">Prelate (MedCY033.003)</term>
-                </item>
-                <item xml:id="Prelate_033.004"> 
-                    <term xml:lang="en">Prelate (MedCY033.004)</term>
-                </item>
-                <item xml:id="Prelate_037.001"> 
-                    <term xml:lang="en">Prelate (MedCY037.001)</term>
-                </item>
-                <item xml:id="Prelate_044.032"> 
-                    <term xml:lang="en">Prelate (MedCY044.032)</term>
-                </item>
-                <item xml:id="Prelate_044.033"> 
-                    <term xml:lang="en">Prelate (MedCY044.033)</term>
-                </item>
-                <item xml:id="Prelate_044.039"> 
-                    <term xml:lang="en">Prelate (MedCY044.039)</term>
-                </item>
-                <item xml:id="Prelate_044.042"> 
-                    <term xml:lang="en">Prelate (MedCY044.042)</term>
-                </item>
-                <item xml:id="Prelate_044.044"> 
-                    <term xml:lang="en">Prelate (MedCY044.044)</term>
-                </item>
-                <item xml:id="Prelate_MedCY044.045"> 
-                    <term xml:lang="en">Prelate (MedCY044.045)</term>
-                </item>
-                <item xml:id="Prelate_044.051"> 
-                    <term xml:lang="en">Prelate (MedCY044.051)</term>
-                </item>
-                <item xml:id="Prophet_060.001"> 
-                    <term xml:lang="en">Prophet (MedCY060.001)</term>
-                </item>
+                </item>                
                 <item xml:id="Romanos"> 
                     <term xml:lang="en">Romanos</term>
                 </item>
                 <item xml:id="Sabbas">
                         <term xml:lang="en">Sabbas</term>
-                </item>                
+                </item>                              
                 <item xml:id="Salome"> 
                     <term xml:lang="en">Salome</term>
                 </item>
@@ -646,6 +619,9 @@
                 <item xml:id="Tychon">
                     <term xml:lang="en">Tychon</term>
                 </item>
+                <item xml:id="unidentified_figure">
+                    <term xml:lang="en">Unidentified figure</term>
+                </item> 
                 <item xml:id="Victor"> 
                     <term xml:lang="en">Victor</term>
                 </item>
@@ -655,55 +631,6 @@
                 <item xml:id="Virgin">
                     <term xml:lang="en">Virgin</term>
                 </item>
-                <!--<item xml:id="wifeJohn_018.100"> 
-                    <term xml:lang="en">wife of John, St Nicholas of the Roof, Kakopetria</term>
-                </item>-->
-                <item xml:id="Zacharias">
-                    <term xml:lang="en">Zacharias</term>
-                </item>
-                <item xml:id="Zenon"> 
-                    <term xml:lang="en">Zenon</term>
-                </item>
-                <item xml:id="Zosimas">
-                    <term xml:lang="en">Zosimas</term></item>                
-           </list>
-                
-            <list type="individual_figure_iconography">
-                <head>Individual Figure Iconographic Types</head>
-                
-                <item xml:id="ChristAntiphonetes">
-                    <term xml:lang="en">Christ Antiphonetes</term>
-                </item>
-                <item xml:id="ChristEmmanuel">
-                    <term xml:lang="en">Christ Emmanuel</term>
-                </item>
-                <item xml:id="ChristEnthroned">
-                    <term xml:lang="en">Enthroned Christ</term>
-                </item>
-                <item xml:id="ChristPantokrator">
-                    <term xml:lang="en">Christ Pantokrator</term>
-                </item>     
-                <item xml:id="ChristChild">
-                    <term xml:lang="en">Christ Child</term>
-                </item>
-                <item xml:id="dressantique"><!-- for angels -->
-                    <term xml:lang="en">dress, antique</term>
-                </item>
-                <item xml:id="dresscivilian">
-                    <term xml:lang="en">dress, civilian</term><!-- for angels and military martyrs -->
-                </item>
-                <item xml:id="dressdeacon"><!-- for angels -->
-                    <term xml:lang="en">dress, deacon's</term>
-                </item>
-                <item xml:id="dressimperial"><!-- for angels -->
-                    <term xml:lang="en">dress, imperial</term>
-                </item>
-                <item xml:id="dressmilitary">
-                    <term xml:lang="en">dress, military</term><!-- for angels and military martyrs -->
-                </item>
-                <item xml:id="dressunidentifiable">
-                     <term xml:lang="en">dress, unidentifiable</term><!-- for angels and military martyrs -->
-                </item>            
                 <item xml:id="VirginBlachernitissa">
                     <term xml:lang="en">Virgin Blachernitissa</term>
                 </item>                
@@ -731,6 +658,40 @@
                 <item xml:id="VirginOrans">
                     <term xml:lang="en">Virgin Orans</term>
                 </item> 
+                <!--<item xml:id="wifeJohn_018.100"> 
+                    <term xml:lang="en">wife of John, St Nicholas of the Roof, Kakopetria</term>
+                </item>-->
+                <item xml:id="Zacharias">
+                    <term xml:lang="en">Zacharias</term>
+                </item>
+                <item xml:id="Zenon"> 
+                    <term xml:lang="en">Zenon</term>
+                </item>
+                <item xml:id="Zosimas">
+                    <term xml:lang="en">Zosimas</term></item>                
+           </list>
+                
+           <list type="individual_figure_iconography">
+                <head>Individual Figure Iconographic Types</head> 
+               
+                <item xml:id="dressantique"><!-- for angels -->
+                    <term xml:lang="en">dress, antique</term>
+                </item>
+                <item xml:id="dresscivilian">
+                    <term xml:lang="en">dress, civilian</term><!-- for angels and military martyrs -->
+                </item>
+                <item xml:id="dressdeacon"><!-- for angels -->
+                    <term xml:lang="en">dress, deacon's</term>
+                </item>
+                <item xml:id="dressimperial"><!-- for angels -->
+                    <term xml:lang="en">dress, imperial</term>
+                </item>
+                <item xml:id="dressmilitary">
+                    <term xml:lang="en">dress, military</term><!-- for angels and military martyrs -->
+                </item>
+                <item xml:id="dressunidentifiable">
+                     <term xml:lang="en">dress, unidentifiable</term><!-- for angels and military martyrs -->
+                </item>          
             </list>
   
             <list type="individual_figure_categories">
@@ -815,10 +776,7 @@
               </item>
               <item xml:id="male">
                   <term xml:lang="en">male</term>
-              </item>
-              <item xml:id="unidentified">
-                  <term xml:lang="en">unidentified gender</term>
-              </item>              
+              </item>     
           </list>
                 
           <list type="structures_objects_symbols">
