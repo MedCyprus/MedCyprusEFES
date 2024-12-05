@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ascension's quotation</title>
+                <title>Ascension, the angel's words to the apostles</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -41,7 +41,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Ascension">Ascension</rs></p>
+                            <p>...<rs type="iconography" ref="#Ascension">Ascension</rs>
+                                  <rs type="iconography" ref="#scene"></rs>
+                                  <rs type="iconography" ref="#scenecategories">Christological</rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
