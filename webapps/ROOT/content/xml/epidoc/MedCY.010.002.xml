@@ -41,9 +41,8 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>...<rs type="iconography" ref="#Saint_unidentified">Saint, unidentified</rs><!-- Added this under type: individual-figures. OK? -->
-                                  <rs type="iconography" ref="#individual_figures"></rs>
-                                  <rs type="iconography" ref="#gender">unidentified</rs>
+                            <p><rs type="iconography" ref="#Saint_unidentified">Saint, unidentified</rs>
+                               <rs type="iconography" ref="#individual_figures"></rs>                          
                             </p>
                         </decoDesc>
                     </physDesc>

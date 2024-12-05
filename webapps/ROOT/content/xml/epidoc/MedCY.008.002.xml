@@ -41,10 +41,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>...<rs type="iconography" ref="#unidentified">Male monastic saint, unidentified</rs>
-                                  <rs type="iconography" ref="#individual_figures"></rs>                            
-                                  <rs type="iconography" ref="#individual_figure_categories">monastic</rs>
-                                  <rs type="iconography" ref="#gender">male</rs>
+                            <p><rs type="iconography" ref="#unidentified_figure">Unidentified male monastic saint</rs>
+                                <rs type="iconography" ref="#individual_figures"></rs>                            
+                                <rs type="iconography" ref="#monastic"></rs>
+                                <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
