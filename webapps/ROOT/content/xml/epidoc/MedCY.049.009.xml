@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Gregory the Theologian </title>
+                <title>Saint Gregory the Theologian</title>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -67,10 +67,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="049-009-01.JPG"><desc>Bema, apse, semicylindrical wall, north half, central figure, inscription</desc></graphic>
-        <graphic url="049-009-02.JPG"><desc>Bema, semicylindrical wall, north half, central figure, inscription detail</desc></graphic>
-        <graphic url="049-009-03.JPG"><desc>Bema, apse, semicylindrical wall, north half, central figure, inscription detail</desc></graphic>
-        <graphic url="049-009-04.JPG"><desc>Bema, apse, semicylindrical wall, north half, central figure, general view</desc></graphic>
+        <graphic rend="primary" url="049-009-01.JPG"><desc>Saint Gregory the Theologian, inscription</desc></graphic>
+        <graphic url="049-009-02.JPG"><desc>Saint Gregory the Theologian, inscription detail</desc></graphic>
+        <graphic url="049-009-03.JPG"><desc>Saint Gregory the Theologian, inscription detail</desc></graphic>
+        <graphic url="049-009-04.JPG"><desc>Saint Gregory the Theologian, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
