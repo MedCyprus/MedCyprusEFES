@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Paul</title>
                 <author xml:id="tp">Theocharis Petrou</author>
+                <author xml:id="ds">Deniz Sever</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>White against blue background. 
+                             <handNote>White against blue background. PENDING.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -67,15 +68,15 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="049-004-01.jpg"><desc>Bema, apse, semidome, south of the Virgin, inscription detail</desc></graphic>
-        <graphic url="049-004-02.JPG"><desc>Bema, apse, semidome, south of the Virgin, inscription</desc></graphic>
-        <graphic url="049-004-03.JPG"><desc>Bema, apse, semidome, south of the Virgin, general view</desc></graphic>
+         <graphic rend="primary" url="049-004-01.jpg"><desc>Saint Paul, inscription detail</desc></graphic>
+        <graphic url="049-004-02.JPG"><desc>Saint Paul, inscription</desc></graphic>
+        <graphic url="049-004-03.JPG"><desc>Saint Paul, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/>Ὁ<persName type="sacred" key="Paul"> <w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w> <name nymRef="Παῦλος">Παῦλος</name> </persName> 
+                   <lb n="1"/>Ὁ <persName type="sacred" key="Paul"> <w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w> <name nymRef="Παῦλος">Παῦλος</name></persName> 
                </ab>
             </div>
             <div type="apparatus">
