@@ -78,7 +78,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <lb n="1"/> <supplied reason="lost">Ὁ <w lemma="φρονῶ">φρονῶν</w></supplied>               
-                  <lb n="2"/><w lemma="ἡμέρα"><supplied reason="lost">τὴν ἡμέ</supplied>
+                  <lb n="2"/><supplied reason="lost">τὴν</supplied><w lemma="ἡμέρα"><supplied reason="lost"> ἡμέ</supplied>
                   <lb n="3" break="no"/>ραν</w> <persName type="divine" key="Lord"><name nymRef="#Κύριος"><w lemma="Κύριος"><expan><abbr>Κ</abbr><hi rend="ligature"><ex>υρί</ex></hi><abbr><choice><orig>ω</orig><reg>ῳ</reg></choice></abbr></expan></w></name></persName>
                   <lb n="4"/><w lemma="φρονῶ">φρονεῖ</w>
                   <lb n="5"/>καὶ ὁ μὴ 
