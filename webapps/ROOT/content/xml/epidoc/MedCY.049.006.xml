@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Communion of the Apostle, Metalepsis (Offering of the Wine)</title>
                 <author xml:id="tp">Theocharis Petrou</author>
+                <author xml:id="ds">Deniz Sever</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">5</height>
+                             <handNote>White letters against blue background. Letter height: <height unit="cm">5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -74,7 +75,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><w lemma="Μετάληψης"><supplied reason="lost">Με</supplied>τάληψης</w>
                </ab>
             </div>
             <div type="apparatus">
