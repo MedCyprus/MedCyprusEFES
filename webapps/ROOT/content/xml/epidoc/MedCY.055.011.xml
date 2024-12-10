@@ -25,7 +25,7 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwestern pilaster, below the dome, north face, lower register. </rs>
                                     <dimensions unit="cm" scope="scroll"><height>66</height><width>18</width></dimensions>
                                     </support>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two ruled ochre coloured lines. Majuscule letters. Characters' size varies. Ν, T, Ι in superscripts. ΑΙ, ΤH, ΝΗΠ, ΤΙ, ΤΟ in ligatures. In line 3 the ligature αΙ is written with a minuscule alpha attached to a majuscule iota. Mu in l. 4, with middle bar split into two parts, the upper part in the shape of an upsilon ending on a dot above a iota-shaped element; wide omega with crosslet in l. 9; use of diaeresis over iota in παντὶ (l. 5). Almost systematic use of accents and breathings. Double point after Ἀδελφοί and after ἀγαθόν. Letter height: <height unit="cm">4-5</height>
+                            <handNote>Black letters against white background. Text between two ochre-coloured ruled lines. Majuscule letters. Characters' size varies. Ν, T, Ι in superscripts. ΑΙ, ΤH, ΝΗΠ, ΤΙ, ΤΟ in ligatures. In line 3 the ligature αΙ is written with a minuscule alpha attached to a majuscule iota. Mu in l. 4, with middle bar split into two parts, the upper part in the shape of an upsilon ending on a dot above a iota-shaped element; wide omega with crosslet in l. 9; use of diaeresis over iota in παντὶ (l. 5). Almost systematic use of accents and breathings. Double point after Ἀδελφοί and after ἀγαθόν. Letter height: <height unit="cm">4-5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -65,12 +65,12 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-011-02.JPG"><desc>Naos, southwestern pilaster, below the dome, north face, lower register, inscription detail</desc></graphic>
-        <graphic rend="primary" url="055-011-01.JPG"><desc>Naos, southwestern pilaster, below the dome,  north face, lower register, scroll</desc></graphic>
-        <graphic rend="secondary" url="055-011-03.JPG"><desc>Naos, southwestern pilaster, below the dome, north face, lower register, inscription detail</desc></graphic>
-        <graphic rend="3" url="055-011-04.JPG"><desc>Naos, southwestern pilaster, below the dome, north face, lower register, inscription detail</desc></graphic>
-        <graphic rend="4" url="055-011-05.JPG"><desc>Naos, southwestern pilaster, below the dome, north face, lower register, inscription detail</desc></graphic>
-         <graphic rend="5" url="055-011-06.JPG"><desc>Naos, southwestern pilaster, below the dome, north face, lower register, inscription </desc></graphic>
+         <graphic url="055-011-02.JPG"><desc>Saint Paul's scroll, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-011-01.JPG"><desc>Saint Paul's scroll, inscription</desc></graphic>
+        <graphic rend="secondary" url="055-011-03.JPG"><desc>Saint Paul's scroll, inscription detail</desc></graphic>
+        <graphic rend="3" url="055-011-04.JPG"><desc>Saint Paul's scroll, inscription detail</desc></graphic>
+        <graphic rend="4" url="055-011-05.JPG"><desc>Saint Paul's scroll, inscription detail</desc></graphic>
+         <graphic rend="5" url="055-011-06.JPG"><desc>Saint Paul's scroll, inscription </desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -95,7 +95,7 @@
                 <p>Brothers, glory and honor and peace to every man who works good.</p>
             </div>
             <div type="commentary">
-                <p>Good condition. A cross with dots in the angles marks the beginning of the text. The words τιμή, εἰρήνη, ἐργαζομένῳ, ἀγαθόν, as well as the conjuction καί and the article τῷ are misspelled. Two cross-like elements are placed at the very end of the text, a feature that we encounter in books and archival documents. The verse is taken from the Rom. 2:10.</p>
+                <p>Two cross-like elements are placed at the very end of the text, a feature that we encounter in books and archival documents. The verse is taken from the Rom. 2:10.</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>

@@ -25,7 +25,7 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, northwestern pilaster, below the dome, south face, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -65,9 +65,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="055-012-01.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription</desc></graphic>
-        <graphic url="055-012-02.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription detail</desc></graphic>
-        <graphic url="055-012-03.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription detail </desc></graphic>
+        <graphic rend="primary" url="055-012-01.JPG"><desc>Saint Peter, inscription</desc></graphic>
+        <graphic url="055-012-02.JPG"><desc>Saint Peter, inscription detail</desc></graphic>
+        <graphic url="055-012-03.JPG"><desc>Saint Peter, inscription detail </desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -90,7 +90,7 @@
                 <p>Saint Peter</p>
             </div>
             <div type="commentary">
-                <p>Poorly preserved. Only few letters discernible.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>
