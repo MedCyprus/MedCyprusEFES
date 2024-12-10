@@ -25,7 +25,7 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, northwestern pilaster, below the dome, south face, upper register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two ruled ochre coloured lines. Majuscule letters. Some characters' size varies. Round omicron attached to nearly round final sigma. In the middle of the horizontal bar of Π letter, there is a short, thin line, very frequent in Sotera. ΑΙ in ligature. Accents and breathings systematic. Letter height: <height unit="cm">4</height>
+                            <handNote>Black letters against white background. Text between two ochre-coloured ruled lines. Majuscule letters. Characters' size varies. Round omicron attached to nearly round final sigma, a feature that we encounter in manuscripts. In the middle of the horizontal bar of Π letter, there is a short, thin line, very frequent in Sotera. ΑΙ in ligature. Accents and breathings systematic. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -65,8 +65,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-017-02.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, upper register, inscription detail</desc></graphic>
-        <graphic rend="primary" url="055-017-01.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, upper register, inscription </desc></graphic>
+         <graphic url="055-017-02.JPG"><desc>Prophet David's scroll, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-017-01.JPG"><desc>Prophet David's scroll, inscription </desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -82,7 +82,7 @@
                 <p>Today the Virgin...</p>
             </div>
             <div type="commentary">
-                <p>Good condition. The inscription is from the kontakion of Romanos the Melode and refers to Christ's birth by the Virgin. The words Παρθένος and σήμερον are misspelled.  </p>
+                <p>The inscription is from the kontakion of Romanos the Melode and refers to Christ's birth by the Virgin.</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>

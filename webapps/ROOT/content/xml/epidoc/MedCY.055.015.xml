@@ -25,7 +25,7 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwestern pilaster, below the dome, north face, upper register </rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -35,11 +35,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two ruled ochre coloured lines. Majuscule letters. Iota is decorated with a star; round omicron attached to nearly round final sigma. Sporadic accents. Letter height: <height unit="cm">4</height>
+                            <handNote>Black letters against white background. Text between two ochre-coloured ruled lines. Majuscule letters. Iota is decorated with a star; round omicron attached to nearly round final sigma OC, a feature that we encounter in manuscripts. Sporadic accents. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#solomon">Solomon</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Solomon">Solomon</rs></p>
                             </decoDesc>
                     </physDesc>
                     <history>
@@ -65,8 +65,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-015-02.JPG"><desc>Naos, southwestern pilaster, below the dome, north face, upper register, inscription detail</desc></graphic>
-        <graphic rend="primary" url="055-015-01.JPG"><desc>Naos, southwestern pilaster, below the dome, north face, upper register, inscription </desc></graphic>
+         <graphic url="055-015-02.JPG"><desc>Prophet Solomon's scroll, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-015-01.JPG"><desc>Prophet Solomon's scroll, inscription </desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -83,7 +83,7 @@
                 <p>Behold, the Virgin (will conceive and give birth to a son, and they will call him Emmanuel).</p>
             </div>
             <div type="commentary">
-                <p>Good condition. The inscription is from Isaiah 7:14 and refers to Christ's conception and birth; the text reappears in Matthew 1:23. The word Παρθένος is misspelled.  </p>
+                <p>The inscription is from Isaiah 7:14 and refers to Christ's conception and birth; the text reappears in Matthew 1:23.</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>

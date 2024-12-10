@@ -25,7 +25,7 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Damaged. Lines 8-10 not survived.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, northwestern pilaster, below the dome, south face, lower register</rs>
                                     <dimensions unit="cm" scope="scroll"><height>60</height><width>14</width></dimensions>
                                     </support>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two ruled ochre coloured lines. Majuscule letters. Characters' size varies. Round omicron attached to nearly round final sigma OC (line 4). Throughout the inscription there are ligatures of the letters ΙΜ, αΙ. In line 5 and 7 the ligature αΙ is written with a minuscule alpha attached to a majuscule iota. There are also superscripts of the letters Φ and Ρ. Sporadic accents and breathings. Letter height: <height unit="cm">4</height>
+                            <handNote>Black letters against white background. Text between two ochre-coloured ruled lines. Majuscule letters. Characters' size varies. Round omicron attached to nearly round final sigma OC (line 4), a feature that we encounter in manuscripts. ΙΜ, αΙ in ligatures. In line 5 and 7 the ligature αΙ is written with a minuscule alpha attached to a majuscule iota. Φ and Ρ in superscript. Sporadic accents and breathings. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -65,9 +65,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="055-013-001.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
-            <graphic url="055-013-02.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, inscription</desc></graphic>
-        <graphic url="055-013-03.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, lower register, scroll</desc></graphic>
+        <graphic rend="primary" url="055-013-001.JPG"><desc>Saint Peter's scroll, inscription (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
+            <graphic url="055-013-02.JPG"><desc>Saint Peter's scroll, inscription</desc></graphic>
+        <graphic url="055-013-03.JPG"><desc>Saint Peter's scroll, inscription</desc></graphic>
         
     </facsimile>
     <text>
@@ -90,7 +90,7 @@
                 <p>Brothers, I urge you, as foreigners and exiles, to abstain from sinful (desires).</p>
             </div>
             <div type="commentary">
-                <p>Damaged. Lines 8-10 not survived. The words ὑμᾶς, ὡς, παροίκους, παρεπιδήμους, ἀπέχεσθαι are misspelled. The inscription is from Peter's Epistle I, 2:11: Ἀγαπητοί, παρακαλῶ ὡς παροίκους καὶ παρεπιδήμους ἀπέχεσθαι τῶν σαρκικῶν ἐπιθυμιῶν. However, the incipit Ἀδελφοί, παρακαλῶ ὑμᾶς, originates from Paul's epistles. Text reconstruction was based on the photographs of the Department of Antiquities, Cyprus. </p>
+                <p>The inscription is from Peter's Epistle I, 2:11: Ἀγαπητοί, παρακαλῶ ὡς παροίκους καὶ παρεπιδήμους ἀπέχεσθαι τῶν σαρκικῶν ἐπιθυμιῶν. However, the incipit Ἀδελφοί, παρακαλῶ ὑμᾶς, originates from Paul's epistles. Text reconstruction was based on the photographs of the Department of Antiquities, Cyprus. </p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>

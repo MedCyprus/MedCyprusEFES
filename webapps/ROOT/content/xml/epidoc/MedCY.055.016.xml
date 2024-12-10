@@ -25,7 +25,7 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, northwestern pilaster, below the dome, south face, upper register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -65,8 +65,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-016-01.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, upper register, inscription detail</desc></graphic>
-        <graphic rend="primary" url="055-016-02.JPG"><desc>Naos, northwestern pilaster, below the dome, south face, upper register, inscription </desc></graphic>
+         <graphic url="055-016-01.JPG"><desc>Prophet David, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-016-02.JPG"><desc>Prophet David, inscription </desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -87,7 +87,7 @@
                 <p>Prophet David</p>
             </div>
             <div type="commentary">
-                <p>Partially preserved. Prophet David is directly opposite Solomon, who is depicted on the southwestern pilaster. The word ὁ προφήτης was reconstructed after Solomon's example. </p>
+                <p>Prophet David is directly opposite Solomon, who is depicted on the southwestern pilaster. The word ὁ προφήτης was reconstructed after Solomon's example. </p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>
