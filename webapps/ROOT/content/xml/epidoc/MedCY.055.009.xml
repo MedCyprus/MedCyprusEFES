@@ -25,7 +25,7 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged. Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southeastern pilaster, below the dome, west face, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -65,9 +65,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-009-002.JPG"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription detail</desc></graphic>
-        <graphic rend="primary" url="055-009-001.JPG"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription </desc></graphic>
-        <graphic rend="secondary" url="055-009-003.JPG"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription detail</desc></graphic>
+         <graphic url="055-009-002.JPG"><desc>Saint Mamas, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-009-001.JPG"><desc>Saint Mamas, inscription </desc></graphic>
+        <graphic rend="secondary" url="055-009-003.JPG"><desc>Saint Mamas, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -87,7 +87,7 @@
                 <p>Saint Mamas</p>
             </div>
             <div type="commentary">
-                <p>Badly damaged. Partially preserved. The saint's name is identified by his iconography.</p>
+                <p>The saint's name is identified by his iconography.</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>

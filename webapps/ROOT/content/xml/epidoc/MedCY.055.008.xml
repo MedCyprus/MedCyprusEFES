@@ -25,7 +25,7 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved. Damaged.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southeastern pilaster, below the dome, west face, upper register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -65,9 +65,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-008-02.JPG"><desc>Naos, southeastern pilaster, below the dome, west face, upper register, inscription </desc></graphic>
-        <graphic rend="primary" url="055-008-01.JPG"><desc>Naos, southeastern pilaster, below the dome, west face, upper register, inscription detail</desc></graphic>
-        <graphic rend="secondary" url="055-008-03.JPG"><desc>Naos, southeastern pilaster, below the dome, west face, upper register, inscription detail</desc></graphic>
+         <graphic url="055-008-02.JPG"><desc>Annunciation, the Virgin's response to Gabriel, inscription </desc></graphic>
+        <graphic rend="primary" url="055-008-01.JPG"><desc>Annunciation, the Virgin's response to Gabriel, inscription detail</desc></graphic>
+        <graphic rend="secondary" url="055-008-03.JPG"><desc>Annunciation, the Virgin's response to Gabriel, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -86,7 +86,7 @@
                 <p>I am the Lord’s servant. May your word to me be fulfilled.</p>
             </div>
             <div type="commentary">
-                <p>Damaged. Partially preserved. The inscription is based in the dialoque between the Archangel Gabriel and the Virgin according to Luke 1:28, 38. </p>
+                <p>The inscription is based in the dialoque between the Archangel Gabriel and the Virgin according to Luke 1:28, 38. </p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>

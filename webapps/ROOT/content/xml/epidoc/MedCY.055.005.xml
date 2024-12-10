@@ -25,7 +25,7 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged. Exfoliated.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southeastern pilaster, below the dome, north face, lower register </rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -65,10 +65,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-005-002.JPG"><desc>Naos, southeastern pilaster, below the dome, north face, lower register, inscription detail</desc></graphic>
-        <graphic rend="primary" url="055-005-001.JPG"><desc>Naos, southeastern pilaster, below the dome, north face, lower register, inscription </desc></graphic>
-        <graphic rend="secondary" url="055-005-03.JPG"><desc>Naos, southeastern pilaster, below the dome, north face, lower register, nscription detail</desc></graphic>
-        <graphic rend="tertiary" url="055-005-04.JPG"><desc>Naos, southeastern pilaster, below the dome, north face, lower register, inscription detail</desc></graphic>
+         <graphic url="055-005-002.JPG"><desc>Saint Constantine of Ormideia, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-005-001.JPG"><desc>Saint Constantine of Ormideia, inscription </desc></graphic>
+        <graphic rend="secondary" url="055-005-03.JPG"><desc>Saint Constantine of Ormideia, inscription detail</desc></graphic>
+        <graphic rend="tertiary" url="055-005-04.JPG"><desc>Saint Constantine of Ormideia, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -91,7 +91,7 @@
                 <p>Saint Constantine</p>
             </div>
             <div type="commentary">
-                <p>Badly damaged. Exfoliated. The inscription ὁ ἅγιος to the right of the saint is hardly preserved. On the second column, the name Κωνσταντῖνος is misspelled with omicron instead of omega. </p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>
