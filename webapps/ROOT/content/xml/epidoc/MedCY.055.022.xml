@@ -25,8 +25,8 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, dome, north arch, soffit, east half</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, north recess' soffit, east side, on top</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Based on the other inscriptions on the monument, the saint's caption would also be written entirely in majuscule. Thin, simple letters.
+                            <handNote>White letters against red background. Majuscule, thin, simple letters.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -65,9 +65,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="055-022-02.JPG"><desc>Naos, dome, north arch, soffit, east half, inscription detail</desc></graphic>
-        <graphic url="055-022-01.JPG"><desc>Naos, dome, north arch, soffit, east half, inscription</desc></graphic>
-        <graphic url="055-022-03.JPG"><desc>Naos, dome, north arch, soffit, east half, inscription </desc></graphic>
+         <graphic rend="primary" url="055-022-02.JPG"><desc>Saint Mardarios, inscription detail</desc></graphic>
+        <graphic url="055-022-01.JPG"><desc>Saint Mardarios, inscription</desc></graphic>
+        <graphic url="055-022-03.JPG"><desc>Saint Mardarios, inscription </desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -92,7 +92,7 @@
                 <p>Saint Mardarios</p>
             </div>
             <div type="commentary">
-                <p>The inscription is badly damaged and only the column b with the saint's name has survived.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>

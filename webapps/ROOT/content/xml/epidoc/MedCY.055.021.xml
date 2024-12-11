@@ -25,8 +25,8 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, dome, south arch, soffit, west half</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, south recess' soffit, west side, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Based on the other inscriptions on the monument, the saint's caption would also be written entirely in majuscule. Thin, simple letters. John is abbreviated Ἰω(άννης) with a big, wavy line above the Ἰω. Αccents systematic.
+                            <handNote>White letters against red background. Majuscule, thin, simple letters. John is abbreviated Ἰω(άννης) with a big, wavy line above the Ἰω. Αccents systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -65,9 +65,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="055-021-1.JPG"><desc>Naos, dome, south arch, soffit, west half, inscription </desc></graphic>
-        <graphic url="055-021-2.JPG"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription detail</desc></graphic>
-        <graphic url="055-021-3.JPG"><desc>Naos, southeastern pilaster, below the dome, west face, lower register, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-021-1.JPG"><desc>Saint John Climacus, inscription </desc></graphic>
+        <graphic url="055-021-2.JPG"><desc>Saint John Climacus, inscription detail</desc></graphic>
+        <graphic url="055-021-3.JPG"><desc>Saint John Climacus, inscription detail</desc></graphic>
           </facsimile>
     <text>
         <body>
@@ -95,7 +95,7 @@
                 <p>Saint John Climacus</p>
             </div>
             <div type="commentary">
-                <p>The inscription is badly damaged and only the column b with the saint's name has survived.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>
