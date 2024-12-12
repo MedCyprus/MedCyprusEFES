@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Sphere's Cryptograms and tetragram</title>
+                <title>Saint Constantine's sphere Cryptograms</title>
                 <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -25,8 +25,8 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, northeastern pilaster, below the dome, west face, lower register</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, northeastern pilaster, west face, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
@@ -65,8 +65,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="055-032-01.JPG"><desc>Naos, northeastern pilaster, below the dome, west face, lower register, inscription</desc></graphic>
-        <graphic url="055-032-02.JPG"><desc>Naos, northeastern pilaster, below the dome, west face, lower register, general view</desc></graphic>
+        <graphic rend="primary" url="055-032-01.JPG"><desc>Saint Constantine's sphere Cryptograms, inscription</desc></graphic>
+        <graphic url="055-032-02.JPG"><desc>Saint Constantine's sphere Cryptograms, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -86,7 +86,7 @@
                 <p>The discovery (of the cross) was given to Helena by God</p>
             </div>
             <div type="commentary">
-                <p>Good condition. The victorious acclamation Ἰ(ησοῦ)ς Χ(ριστὸ)ς Nικᾷ with the combination of Υἱ(ὸ)ς Θ(εο)ῦ usually appears on either side and in-between the arms of a patriarchal cross and it is very common in the byzantine painted churches. The connection of the acclamation to Constantine recalls his Vision of the Cross with the words τούτῳ νίκα before the Milvian bridge battle. The tetragram-acronym EEEE in the lower corners of the cross, glorifies the discovery of the True Cross by Constantine’s mother and can be interprete in many different ways.</p>
+                <p>The victorious acclamation Ἰ(ησοῦ)ς Χ(ριστὸ)ς Nικᾷ with the combination of Υἱ(ὸ)ς Θ(εο)ῦ usually appears on either side and in-between the arms of a patriarchal cross and it is very common in the byzantine painted churches. The connection of the acclamation to Constantine recalls his Vision of the Cross with the words τούτῳ νίκα before the Milvian bridge battle. The tetragram-acronym EEEE in the lower corners of the cross, glorifies the discovery of the True Cross by Constantine’s mother and can be interprete in many different ways.</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>

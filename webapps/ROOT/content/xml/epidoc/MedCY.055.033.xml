@@ -25,7 +25,7 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved. Faded.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, east vault, south part, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -65,10 +65,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="055-033-01.JPG"><desc>Naos, east vault, south part, lower register, inscription detail</desc></graphic>
-        <graphic url="055-033-02.JPG"><desc>Naos, east vault, south part, lower register, inscription</desc></graphic>
-        <graphic url="055-033-03.JPG"><desc>Naos, east vault, south part, lower register, general view</desc></graphic>
-        <graphic url="055-033-04.JPG"><desc>Naos, east vault, south part, lower register, general view</desc></graphic>
+        <graphic rend="primary" url="055-033-01.JPG"><desc>Pentecost, Bartholomew, inscription detail</desc></graphic>
+        <graphic url="055-033-02.JPG"><desc>Pentecost, Bartholomew, inscription</desc></graphic>
+        <graphic url="055-033-03.JPG"><desc>Pentecost, Bartholomew, general view</desc></graphic>
+        <graphic url="055-033-04.JPG"><desc>Pentecost, Bartholomew, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -84,8 +84,7 @@
                 <p>Bartholomew</p>
             </div>
             <div type="commentary">
-                <p>Poor condition. Faded
-</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>

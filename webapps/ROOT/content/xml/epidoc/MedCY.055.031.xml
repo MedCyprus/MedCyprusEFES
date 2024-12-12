@@ -25,8 +25,8 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, northeastern pilaster, below the dome, west face, lower register</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, northeastern pilaster, west face, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
@@ -65,10 +65,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="055-031-01.JPG"><desc>Naos, northeastern pilaster, below the dome, west face, lower register, inscription</desc></graphic>
-        <graphic url="055-031-02.JPG"><desc>Naos, northeastern pilaster, below the dome, west face, lower register, inscription detail</desc></graphic>
-        <graphic url="055-031-03.JPG"><desc>Naos, northeastern pilaster, below the dome, west face, lower register, inscription detail</desc></graphic>
-        <graphic url="055-031-04.JPG"><desc>Naos, northeastern pilaster, below the dome, west face, lower register, general view</desc></graphic> 
+        <graphic rend="primary" url="055-031-01.JPG"><desc>Saint Constantine, inscription</desc></graphic>
+        <graphic url="055-031-02.JPG"><desc>Saint Constantine, inscription detail</desc></graphic>
+        <graphic url="055-031-03.JPG"><desc>Saint Constantine, inscription detail</desc></graphic>
+        <graphic url="055-031-04.JPG"><desc>Saint Constantine, general view</desc></graphic> 
     </facsimile>
     <text>
         <body>
@@ -91,7 +91,7 @@
                 <p>[Saint] Constantine</p>
             </div>
             <div type="commentary">
-                <p>The inscription is badly damaged and only the column b with the misspelled saint's name has partially survived.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>

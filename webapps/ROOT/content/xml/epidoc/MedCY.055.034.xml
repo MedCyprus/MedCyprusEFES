@@ -25,7 +25,7 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, east vault, south part, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -65,11 +65,11 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="055-034-01.JPG"><desc>Naos, east vault, south part, lower register, inscription detail</desc></graphic>
-        <graphic url="055-034-02.JPG"><desc>Naos, east vault, south part, lower register, inscription</desc></graphic>
-        <graphic url="055-034-03.JPG"><desc>Naos, east vault, south part, lower register, general view</desc></graphic>
-        <graphic url="055-034-04.JPG"><desc>Naos, east vault, south part, lower register, general view</desc></graphic>
-        <graphic url="055-034-05.JPG"><desc>Naos, east vault, south part, lower register, general view</desc></graphic>
+        <graphic rend="primary" url="055-034-01.JPG"><desc>Pentecost, Thomas, inscription detail</desc></graphic>
+        <graphic url="055-034-02.JPG"><desc>Pentecost, Thomas, inscription</desc></graphic>
+        <graphic url="055-034-03.JPG"><desc>Pentecost, Thomas, general view</desc></graphic>
+        <graphic url="055-034-04.JPG"><desc>Pentecost, Thomas, general view</desc></graphic>
+        <graphic url="055-034-05.JPG"><desc>Pentecost, Thomas, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -85,7 +85,7 @@
                 <p>Thomas</p>
             </div>
             <div type="commentary">
-                <p>Badly damaged</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>
