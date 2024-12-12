@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>The falsifier of weight (Last Judgment)</title>
+                <title>Last Judgement, the falsifier of weight</title>
                 <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -25,7 +25,7 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Damaged. Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, western vault, southern part, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#LastJudgment">The falsifier of weights</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#LastJudgment">Last Judgment, the falsifier of weight</rs></p>
                             </decoDesc>
                     </physDesc>
                     <history>
@@ -65,10 +65,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-027-01.JPG"><desc>Naos, western vault, southern part, lower register, inscription</desc></graphic>
-        <graphic rend="primary" url="055-027-02.JPG"><desc>Naos, western vault, southern part, lower register, inscription detail</desc></graphic>
-        <graphic rend="secondary" url="055-027-03.JPG"><desc>Naos, western vault, southern part, lower register, inscription</desc></graphic>
-        <graphic rend="tertiary" url="055-027-04.JPG"><desc>Naos, western vault, southern part, lower register, general view</desc></graphic>
+         <graphic url="055-027-01.JPG"><desc>Last Judgement, the falsifier of weight, inscription</desc></graphic>
+        <graphic rend="primary" url="055-027-02.JPG"><desc>Last Judgement, the falsifier of weight, inscription detail</desc></graphic>
+        <graphic rend="secondary" url="055-027-03.JPG"><desc>Last Judgement, the falsifier of weight, inscription</desc></graphic>
+        <graphic rend="tertiary" url="055-027-04.JPG"><desc>Last Judgement, the falsifier of weight, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -84,7 +84,7 @@
                 <p>The falsifier of weight </p>
             </div>
             <div type="commentary">
-                <p>Damaged. Partially preserved.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>

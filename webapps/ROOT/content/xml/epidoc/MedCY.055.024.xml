@@ -25,8 +25,8 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, dome, north arch, soffit, west half</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, north recess' soffit, west side, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
@@ -65,8 +65,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-024-02.JPG"><desc>Naos, dome, north arch, soffit, west half, general view</desc></graphic>
-        <graphic rend="primary" url="055-024-01.JPG"><desc>Naos, dome, north arch, soffit, west half, inscription </desc></graphic>
+         <graphic url="055-024-02.JPG"><desc>Male saint, unidentified, general view</desc></graphic>
+        <graphic rend="primary" url="055-024-01.JPG"><desc>Male saint, unidentified, inscription </desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -85,10 +85,10 @@
                 <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Saint</p>
+                <p>Saint [..?..]</p>
             </div>
             <div type="commentary">
-                <p>The inscription is badly damaged and only part of the saint's caption has survived. </p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>

@@ -25,8 +25,8 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, northwestern pilaster, below the dome, east face, upper register</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, northwestern pilaster, east face, upper register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
@@ -65,10 +65,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="055-028-01.JPG"><desc>Naos, northwestern pilaster, below the dome, east face, upper register, inscription</desc></graphic>
-        <graphic url="055-028-02.JPG"><desc>Naos, northwestern pilaster, below the dome, east face, upper register, inscription detail</desc></graphic>
-        <graphic url="055-028-03.JPG"><desc>Naos, southwestern pilaster, below the dome, east face, upper register, inscription detail</desc></graphic>
-        <graphic url="055-028-04.JPG"><desc>Naos, southwestern pilaster, below the dome, east face, upper register, general view</desc></graphic> 
+        <graphic rend="primary" url="055-028-01.JPG"><desc>Saint Hermolaos, inscription</desc></graphic>
+        <graphic url="055-028-02.JPG"><desc>Saint Hermolaos, inscription detail</desc></graphic>
+        <graphic url="055-028-03.JPG"><desc>Saint Hermolaos, inscription detail</desc></graphic>
+        <graphic url="055-028-04.JPG"><desc>Saint Hermolaos, general view</desc></graphic> 
     </facsimile>
     <text>
         <body>
@@ -94,7 +94,7 @@
                 <p>Saint Hermolaos</p>
             </div>
             <div type="commentary">
-                <p>Good Condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>

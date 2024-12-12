@@ -25,8 +25,8 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, northwestern pilaster, below the dome, east face, lower register</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved. Exfoliated.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, northwestern pilaster, east face, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
@@ -65,10 +65,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="055-029-01.JPG"><desc>Naos, northwestern pilaster, below the dome, east face, lower register, inscription</desc></graphic>
-        <graphic url="055-029-02.JPG"><desc>Naos, northwestern pilaster, below the dome, east face, lower register, inscription detail</desc></graphic>
-        <graphic url="055-029-03.JPG"><desc>Naos, northwestern pilaster, below the dome, east face, lower register, inscription detail</desc></graphic>
-        <graphic url="055-029-04.JPG"><desc>Naos, northwestern pilaster, below the dome, east face, lower register, general view</desc></graphic> 
+        <graphic rend="primary" url="055-029-01.JPG"><desc>Saint Nikon, inscription</desc></graphic>
+        <graphic url="055-029-02.JPG"><desc>Saint Nikon, inscription detail</desc></graphic>
+        <graphic url="055-029-03.JPG"><desc>Saint Nikon, inscription detail</desc></graphic>
+        <graphic url="055-029-04.JPG"><desc>Saint Nikon, general view</desc></graphic> 
     </facsimile>
     <text>
         <body>
@@ -91,7 +91,7 @@
                 <p>Saint Nikon</p>
             </div>
             <div type="commentary">
-                <p>Poor condition. Exfoliated. The saint's name is misspelled.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>

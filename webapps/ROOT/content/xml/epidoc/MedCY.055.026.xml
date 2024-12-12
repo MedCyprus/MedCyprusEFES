@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Personification of the Sea (Last Judgment)</title>
+                <title>Last Judgment, Personification of the Sea</title>
                 <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -25,7 +25,7 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Damaged. Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, western vault, southern part, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -65,9 +65,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-026-01.JPG"><desc>Naos, western vault, southern part, lower register, general view</desc></graphic>
-        <graphic rend="primary" url="055-026-02.JPG"><desc>Naos, western vault, southern part, lower register, inscription detail</desc></graphic>
-        <graphic rend="secondary" url="055-026-03.JPG"><desc>Naos, western vault, southern part, lower register, inscription</desc></graphic>
+         <graphic url="055-026-01.JPG"><desc>Last Judgment, Personification of the Sea, general view</desc></graphic>
+        <graphic rend="primary" url="055-026-02.JPG"><desc>Last Judgment, Personification of the Sea, inscription detail</desc></graphic>
+        <graphic rend="secondary" url="055-026-03.JPG"><desc>Last Judgment, Personification of the Sea, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -83,7 +83,7 @@
                 <p>Sea</p>
             </div>
             <div type="commentary">
-                <p>Damaged. Partially preserved.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>

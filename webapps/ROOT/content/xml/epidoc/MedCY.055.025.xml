@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Presentation of Christ to the Temple, Saint Joseph</title>
+                <title>Presentation of Christ to the Temple, Joseph</title>
                 <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -25,7 +25,7 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, eastern vault, north part, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -65,8 +65,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-025-02.JPG"><desc>Naos, eastern vault, north part, lower register, general view</desc></graphic>
-        <graphic rend="primary" url="055-025-01.JPG"><desc>Naos, eastern vault, north part, lower register, inscription detail</desc></graphic>
+         <graphic url="055-025-02.JPG"><desc>Presentation of Christ to the Temple, Joseph, general view</desc></graphic>
+        <graphic rend="primary" url="055-025-01.JPG"><desc>Presentation of Christ to the Temple, Joseph, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -82,8 +82,7 @@
                 <p>Joseph</p>
             </div>
             <div type="commentary">
-                <p>Badly damaged. Τhe name Ἰωσήφ is misspelled.
-</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>
