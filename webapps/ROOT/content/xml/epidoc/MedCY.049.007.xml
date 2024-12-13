@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Communion of the Apostle, Metalepsis (Offering of the Wine), Christ</title>
                 <author xml:id="tp">Theocharis Petrou</author>
+                <author xml:id="ds">Deniz Sever Georgousakis</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">4,5</height>
+                             <handNote>White letters against blue background. Majuscule letters. The sigla Χ(ριστό)ς is fully rendered by an abbreviation with a big, wavy line above the word. Letter height: <height unit="cm">4,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -74,7 +75,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><persName type="divine" key="Christ"><name nymRef ="#Χριστός"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></name></persName>  
                </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +86,7 @@
                 <p>[Jesus] Christ</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Well preserved.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
