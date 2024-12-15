@@ -442,14 +442,14 @@
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>269-70</citedRange></bibl>                        
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1985, 27; 1986, 24</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papageorgiou1996"/>63-64, 71, 73<citedRange>...</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>63-64, 71, 73</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 33</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2002, 42; 2004, 46-47</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>485, 650-51</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>303-15</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#WeylCarr2007"/><citedRange>96</citedRange></bibl>                        
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>4: 334</citedRange></bibl>  
-                        <bibl><ptr target="bibliography.xml#Steward2020"/><citedRange>163, 172-73</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stewart2020"/><citedRange>163, 172-73</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 344-55</citedRange></bibl>
                     </listBibl>
                 </place>
