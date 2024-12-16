@@ -113,11 +113,9 @@
                    <app loc="2"><rdg source="#Soteriou1935">ναὸς</rdg><rdg source="#Stylianou1960">ΝΑΟΣ</rdg><rdg source="#Papageorgiou1975">ΝΑΟ[Σ]</rdg><rdg source="#PerdikisMyrianthefs2009"></rdg><rdg source="#Mouriki1984">ΝΑΟ̣[C]</rdg><rdg source="#VisCult">ναὸ[ς]</rdg></app>
                    <app loc="3"><rdg source="#Soteriou1935">Δεσποίνης</rdg><rdg source="#Soteriou1935">ἡμ[ῶν]</rdg><rdg source="#VisCult"></rdg><rdg source="#Stylianou1960">Η[ΜΩΝ]</rdg><rdg source="#Papageorgiou1975">ΗΜ[ΩΝ]</rdg><rdg source="#PerdikisMyrianthefs2009"></rdg><rdg source="#Mouriki1984">ΗΜ̣[ΩΝ]</rdg></app>
                    <app loc="4"><rdg source="#Soteriou1935">ση<supplied reason="omitted">ν</supplied>δρομῆς</rdg><rdg source="#Stylianou1960">ΣΗ(Ν)ΔΡΟΜΗΣ </rdg><rdg source="#Papageorgiou1975">ΣΗΔΡΟΜΗΣ</rdg><rdg source="#PerdikisMyrianthefs2009"></rdg><rdg source="#Mouriki1984">CΗΔΡΟΜΗC</rdg><rdg source="#Soteriou1935">πόν[ου καὶ πολλοῦ πό]</rdg><rdg source="#Stylianou1960">ΠΟΛ[ΛΟΥ Π]Ω</rdg><rdg source="#Papageorgiou1975">ΠΟΛΛΟΥ ΠΩ</rdg><rdg source="#PerdikisMyrianthefs2009"></rdg><rdg source="#Mouriki1984">ΠΟΛ̣[ΛΟΥ Π]Ω̣</rdg><rdg source="#VisCult">πολ[λοῦ] πό</rdg></app>
-                   <app loc="5"><rdg source="#Soteriou1935">Μουτουλλᾶ</rdg><rdg source="#Stylianou1960">[ΜΟΥΤΟΥ]ΛΛΑ</rdg><rdg source="#Papageorgiou1975">ΓΕΡΑΚ[ΙΩ]ΤΗ</rdg><rdg source="#Mouriki1984">ΓΕΡΑΚΟΥΛΛΑ</rdg><rdg source="#PerdikisMyrianthefs2009">ΓΕΡΑΚΙΩΤΗ</rdg><rdg source="#VisCult">Γερακούλλα</rdg></app>
-                   <app loc="6"><rdg source="#Stylianou1960">ΜΟΥΤΟΥ</rdg><rdg source="#Mouriki1984">ΓΕΡΑΚΟΥΛΛΑ</rdg><rdg source="#Papageorgiou2003">Γερακού.τα.PENDING</rdg><rdg source="#PerdikisMyrianthefs2009">ΓΕΡΑΚΙΩΤΗ</rdg><rdg source="#VisCult">Γερακούλλα</rdg></app>
-                   <app loc="7"><rdg source="#Stylianou1960">ΤΗΣ (Σ)ΗΝΒΙΟΥ; ΙΡΙΝΗΣ</rdg><rdg source="#Mouriki1984">ΤΗ CHNBIOY; ΪΡΙΝΗC</rdg><rdg source="#Papageorgiou2003">τῆ σηνβίου; Ιρίνης</rdg><rdg source="#PerdikisMyrianthefs2009">ΤΗ ΣΗΝΒΙΟΥ; ΙΡΙΝΗΣ</rdg><rdg source="#VisCult">τῆς συνβίου; Εἰρήνης</rdg></app>
-                   <!--<app loc="8"><lem>ΣΗ(Ν)ΔΡΟΜΗΣ</lem> <note>Stylianou</note></app>-->
-                   <!--<app loc="8"><rdg>ΣΗ(Ν)ΔΡΟΜΗΣ:</rdg> <note>Stylianou</note> <rdg>σηδρομῆς:</rdg> <note>Papageorgiou</note> <rdg>συνδρομῆς:</rdg> <note>VisCult</note></app>-->
+                   <app loc="5"><rdg source="#Soteriou1935">Μουτουλλᾶ</rdg><rdg source="#Stylianou1960">[ΜΟΥΤΟΥ]ΛΛΑ</rdg><rdg source="#Papageorgiou1975">ΓΕΡΑΚ[ΙΩ]ΤΗ</rdg> <note>(Papageorgiou transcribes the name as ΓΕΡΑΚΟΥΛΤΑ. However, in the commentary, he refers to it as ΓΕΡΑΚ[ΙΩ]ΤΗ)</note><rdg source="#Mouriki1984">ΓΕΡΑΚΟΥΛΛΑ</rdg><rdg source="#PerdikisMyrianthefs2009">ΓΕΡΑΚΙΩΤΗ</rdg><rdg source="#VisCult">Γερακούλλα</rdg></app>
+                   <app loc="6"><rdg source="#Soteriou1935">τῆς σηνβίου</rdg><rdg source="#Stylianou1960">ΤΗΣ <supplied reason="omitted">Σ</supplied>ΗΝΒΙΟΥ</rdg><rdg source="#Papageorgiou1975">ΤΗ ΣΗΝΒΙΟΥ</rdg><rdg source="#PerdikisMyrianthefs2009"></rdg><rdg source="#Mouriki1984">ΤΗ CΗΝΒΊΟΥ</rdg><rdg source="#VisCult">>τῆς συνβίου</rdg></app>
+                   <app loc="7"><rdg source="#Soteriou1935">ἐπὶ ἔτους</rdg><rdg source="#Stylianou1960">ΕΙΣ Τ(ΑΣ) Δ´ </rdg><rdg source="#Papageorgiou1975">ΕΙΣ Τ(ΑΣ) Λ</rdg><rdg source="#Mouriki1984">ΕΙΣ Τ(άς) Λ̣´</rdg><rdg source="#PerdikisMyrianthefs2009">:  ΕΙΣ Λ</rdg><rdg source="#VisCult">τ(ά) Λ</rdg><rdg source="#PerdikisMyrianthefs2009">ΥΨΠΗ</rdg><rdg source="#VisCult">υψπη</rdg></app>
                </listApp>
               
             </div>
@@ -130,7 +128,7 @@
             <div type="bibliography">
                  <listBibl>
                 <bibl><ptr target="#Soteriou1935"/>,<citedRange> pl. 161</citedRange></bibl>
-                <bibl><ptr target="#Stylianou1960"/>,<citedRange >102-03</citedRange></bibl>
+                <bibl><ptr target="#Stylianou1960"/>,<citedRange> 102-03</citedRange></bibl>
                 <bibl><ptr target="#Papageorgiou1975"/>,<citedRange> 50-51</citedRange></bibl>
                 <bibl><ptr target="#Mouriki1984"/>,<citedRange> 172-73</citedRange></bibl>
                 <bibl><ptr target="#PerdikisMyrianthefs2009"/>,<citedRange> 49-51</citedRange></bibl>
