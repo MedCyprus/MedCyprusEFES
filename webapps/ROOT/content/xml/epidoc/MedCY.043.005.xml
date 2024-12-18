@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, 1st figure from the right</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -66,9 +66,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-005-01.JPG"><desc>Bema, apse, semicylindrical wall, north half, 1st figure from the right, inscription</desc></graphic>
-        <graphic url="043-005-02.JPG"><desc>Bema, apse, semicylindrical wall, north half, 1st figure from the right, inscription detail</desc></graphic>
-        <graphic url="043-005-03.JPG"><desc>Bema, apse, semicylindrical wall, north half, 1st figure from the right, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-005-01.JPG"><desc>Saint John Chrysostom, inscription</desc></graphic>
+        <graphic url="043-005-02.JPG"><desc>Saint John Chrysostom, inscription detail</desc></graphic>
+        <graphic url="043-005-03.JPG"><desc>Saint John Chrysostom, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -86,13 +86,13 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>John Chrysostom</p>
             </div>
             <div type="commentary">
-                <p>On the first column, the inscription ὁ ἅγιος is partially preserved. Based on the other prelates examples we reconstructed the word.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

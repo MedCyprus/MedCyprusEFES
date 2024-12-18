@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, middle figure</rs>
                                     <dimensions unit="cm" scope="text"><height>28,5</height><width>9</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>36,5</height><width>12</width></dimensions>
@@ -38,8 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Majuscule letters. Characters' size varies. Superscript nu in line 3.
-                      Mu with its middle bar forms an upsilon with dots on its antennas and at the top of its vertical line. Middle dot after δέσποτα.  Letters HM, ΤΗ in ligatures. Horizontal wavy line above the abbreviation of Θ(εό)ς. The letters' size in the last line is smaller than the rest of the letters of the inscription due to lack of space. Accents and breathings systematic. Text between two ruled ochre-coloured lines. Letter height: <height unit="cm">3-4,5</height>
+                            <handNote>Black letters against white background. Majuscule letters. Characters' size varies. Superscript nu in line 3. Mu with its middle bar forms an upsilon with dots on its antennas and at the top of its vertical line. Middle dot after δέσποτα. HM, ΤΗ in ligatures. Horizontal wavy line above the abbreviation of Θ(εό)ς. The letters' size in the last line is smaller than the rest of the letters of the inscription due to lack of space. Accents and breathings with errors. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">3-4,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -68,10 +67,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-008-01.JPG"><desc>Bema, apse, semicylindrical wall, north half, middle figure, inscription</desc></graphic>
-        <graphic url="043-008-02.JPG"><desc>Bema, apse, semicylindrical wall, north half, middle figure, inscription</desc></graphic>
-        <graphic url="043-008-03.JPG"><desc>Bema, apse, semicylindrical wall, north half, middle figure, inscription detail</desc></graphic>
-        <graphic url="043-008-04.JPG"><desc>Bema, apse, semicylindrical wall, north half, middle figure, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-008-01.JPG"><desc>Saint Gregory's scroll, inscription</desc></graphic>
+        <graphic url="043-008-02.JPG"><desc>Saint Gregory's scroll, inscription</desc></graphic>
+        <graphic url="043-008-03.JPG"><desc>Saint Gregory's scroll, inscription detail</desc></graphic>
+        <graphic url="043-008-04.JPG"><desc>Saint Gregory's scroll, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -93,7 +92,7 @@
 </p>
             </div>
             <div type="commentary">
-                <p>Good condition. Αccents and breathings with errors. The inscription is from the Prayer of the Small Entrance. 
+                <p>The inscription is from the Prayer of the Small Entrance. 
 </p>
             </div>
             <div type="bibliography">

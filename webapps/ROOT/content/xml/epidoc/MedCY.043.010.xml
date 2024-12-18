@@ -27,8 +27,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, north half, 1st figure to the left</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, 1st figure to the left</rs>
                                     <dimensions unit="cm" scope="text"><height>29,5</height><width>8,5</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>38</height><width>12</width></dimensions>
                                 </support>
@@ -38,10 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Majuscule letters. Characters' size varies. Superscript nu in line 3.
-                      Mu in line 2 with its middle bar forms an upsilon with dot at the top of its vertical line.
-                      Letters HM, ΤO in ligatures. 
-                      Horizontal wavy line above the abbreviations of Κ(ύρι)ε and Θ(εό)ς. The letters' size in the last line is smaller and varies than the rest of the letters of the inscription due to lack of space. Accents and breathings systematic. Text between two ruled ochre-coloured lines. Letter height: <height unit="cm">3,5-4,5</height>
+                            <handNote>Black letters against white background. Majuscule letters. Characters' size varies. Superscript nu in line 3. Mu in line 2 with its middle bar forms an upsilon with dot at the top of its vertical line. HM, ΤO in ligatures. Horizontal wavy line above the abbreviations of Κ(ύρι)ε and Θ(εό)ς. The letters' size in the last line is smaller and varies than the rest of the letters of the inscription due to lack of space. Accents and breathings with errors. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">3,5-4,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -70,9 +67,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-010-01.JPG"><desc>Bema, semicylindrical wall, north half, 1st figure to the left, inscription</desc></graphic>
-        <graphic url="043-010-02.JPG"><desc>Bema, semicylindrical wall, north half, 1st figure to the left, inscription detail</desc></graphic>
-        <graphic url="043-010-03.JPG"><desc>Bema, semicylindrical wall, north half, 1st figure to the left, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-010-01.JPG"><desc>Saint Nicholas' scroll, inscription</desc></graphic>
+        <graphic url="043-010-02.JPG"><desc>Saint Nicholas' scroll, inscription detail</desc></graphic>
+        <graphic url="043-010-03.JPG"><desc>Saint Nicholas' scroll, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -87,13 +84,13 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>Lord, our God, save your people and bless (your inheritance).</p>
             </div>
             <div type="commentary">
-                <p>Good condition. In line 4 it seems that the painter modified the incorrect alpha of the first letter of the word λαόν to form the lambda. In line 6 καί and εὐλόγησον are misspelled. Αccents and breathings with errors. The inscription is from the Second Prayer of the antiphon. 
+                <p>In line 4 it seems that the painter modified the incorrect alpha of the first letter of the word λαόν to form the lambda. The inscription is from the Second Prayer of the antiphon. 
 </p>
             </div>
             <div type="bibliography">
