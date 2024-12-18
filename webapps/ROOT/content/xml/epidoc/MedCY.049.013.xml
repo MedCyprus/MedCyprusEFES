@@ -77,8 +77,10 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
-               </ab>
+              <ab>
+                  <cb n="a"/>
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice><persName type="sacred" key="Athanasios"> <w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>ἀ</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w> </persName>
+              </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
