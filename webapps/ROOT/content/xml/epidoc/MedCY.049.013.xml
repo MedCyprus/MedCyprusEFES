@@ -38,7 +38,7 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Letter height: <height unit="cm">3,5-5,5</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Round final sigma ending in a wavy line. Accents and breathings non systematic. Letter height: <height unit="cm">3,5-5,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -78,8 +78,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <cb n="a"/>
-                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice><persName type="sacred" key="Athanasios"> <w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>ἀ</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w> </persName>
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice><persName type="sacred" key="Athanasios"> <w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
+                  <lb n="2" break="no"/><name nymRef="#Ἀθανάσιος"><choice><orig>Α᾽</orig><reg>Ἀ</reg></choice>
+                  <lb n="3" break="no"/>θ
+                  <lb n="4" break="no"/>α
+                  <lb n="5" break="no"/>νά
+                  <lb n="6" break="no"/>σι
+                  <lb n="7" break="no"/>ο
+                  <lb n="8" break="no"/>ς</name></persName>
               </ab>
             </div>
             <div type="apparatus">
@@ -89,7 +95,7 @@
                 <p>Saint Athanasios</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
