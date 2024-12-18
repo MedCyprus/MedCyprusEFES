@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semidome</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -66,8 +66,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-003-01.JPG"><desc>Bema, apse, semidome, inscription detail </desc></graphic>
-        <graphic url="043-003-02.JPG"><desc>Bema, apse, semidome, inscription</desc></graphic>
+         <graphic rend="primary" url="043-003-01.JPG"><desc>Archangel Michael, inscription detail </desc></graphic>
+        <graphic url="043-003-02.JPG"><desc>Archangel Michael, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -83,7 +83,7 @@
                 <p>Archangel Michael</p>
             </div>
             <div type="commentary">
-                <p>Good condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
