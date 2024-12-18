@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, 1st figure from the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. Wavy final sigma on the first column. Ligature OS shaped as an inverted S. Accents and breathings systematic. Letter height: <height unit="cm">2-4,5</height>
+                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. Wavy final sigma on the first column. Ligature OS shaped as an inverted S. Accents and breathings with errors. Letter height: <height unit="cm">2-4,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -66,17 +66,17 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-009-01.JPG"><desc>Bema, apse, semicylindrical wall, north half, 1st figure from the left, inscription</desc></graphic>
-        <graphic url="043-009-02.JPG"><desc>Bema, apse, semicylindrical wall, north half, 1st figure from the left, inscription detail</desc></graphic>
-        <graphic url="043-009-03.JPG"><desc>Bema, apse, semicylindrical wall, north half, 1st figure from the left, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-009-01.JPG"><desc>Saint Nicholas, inscription</desc></graphic>
+        <graphic url="043-009-02.JPG"><desc>Saint Nicholas, inscription detail</desc></graphic>
+        <graphic url="043-009-03.JPG"><desc>Saint Nicholas, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                      <cb n="a"/>
-                    <lb n="1"/><supplied reason="lost">Ὁ</supplied><persName type="sacred" key="Nicholas"><w lemma="ἅγιος">
-                    <lb n="2"/><choice><orig>ά</orig><reg>ἅ</reg></choice>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied>
+                    <lb n="2"/><persName type="sacred" key="Nicholas"><w lemma="ἅγιος"><choice><orig>ά</orig><reg>ἅ</reg></choice>
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/>ος</w>
                   <cb n="b"/>
@@ -87,13 +87,13 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>Saint Nicholas</p>
             </div>
             <div type="commentary">
-                <p>Good condition. Omicron from the caption do not survive. Accents and breathing with errors.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
