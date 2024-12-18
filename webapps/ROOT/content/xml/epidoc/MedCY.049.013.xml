@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Athanasios</title>
                 <author xml:id="tp">Theocharis Petrou</author>
+                <author xml:id="ds">Deniz Sever Georgousakis</author>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -27,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, lower register, next to St. Nicholas</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -37,7 +38,7 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3,5-5,5</height>
+                            <handNote>White letters against blue background. Majuscule letters. Letter height: <height unit="cm">3,5-5,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
