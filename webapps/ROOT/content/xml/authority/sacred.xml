@@ -152,6 +152,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q192816</idno>                   
                 </person>
                 
+                <person xml:id="Barnabas">
+                    <persName xml:lang="grc">Βαρνάβας</persName>
+                    <persName xml:lang="en">Barnabas</persName>        
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q185856</idno>                   
+                </person>
+                
                 <person xml:id="Bartholomew">
                     <persName xml:lang="grc">Βαρθολομαίος</persName>
                     <persName xml:lang="en">Bartholomew</persName>                   
