@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Abraham</title>
                 <author xml:id="tp">Theocharis Petrou</author>
+                <author xml:id="ds">Deniz Sever Georgousakis</author>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -27,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, east vault, south side, below the Ascension panel, first medallion on the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -37,7 +38,7 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White letters against red background. Majuscule letters. Accents and breathings with errors. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -73,7 +74,16 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/>Ὁ <persName type="sacred" key="Abraham">
+                   <lb n="2"/>Δί
+                   <lb n="3" break="no"/>καιος
+                 <cb n="b"/>
+                    <lb n="1"/><choice><orig>Α</orig><reg>Ά</reg></choice>
+                    <lb n="2" break="no"/>βρα
+                    <lb n="3" break="no"/><choice><orig>α</orig><reg>ά</reg></choice>μ
+                   </persName>
                </ab>
             </div>
             <div type="apparatus">
