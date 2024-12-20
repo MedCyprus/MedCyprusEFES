@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Spyridon</title>
                 <author xml:id="tp">Theocharis Petrou</author>
+                <author xml:id="ds">Deniz Sever Georgousakis</author>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -27,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Partially preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, north recess, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -37,7 +38,7 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">2,5-4</height>
+                            <handNote>White against red background. Majuscule letters. Characters' size varies. Accents and breathings non systematic. Letter height: <height unit="cm">2,5-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -73,7 +74,13 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/> 
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice><persName type="sacred" key="Spyridon"> <w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w> 
+                   <cb n="b"/> 
+                      <lb n="1"/><name nymRef="#Σπυρίδων">Σ
+                      <lb n="2" break="no"/>πυ
+                      <lb n="3" break="no"/>ρίδω<expan><abbr rend="supraline"></abbr><ex>ν</ex><abbr rend="supraline"></abbr></expan></name></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -83,7 +90,7 @@
                 <p>Saint Spyridon</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
