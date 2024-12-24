@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially damaged.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, north wall, lower register</rs>
                                     <dimensions unit="cm" scope="text"><height>22</height><width>40</width></dimensions>
                                 </support>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                               <handNote>Black letters against ochre background. Majuscule letters. Characters' size varies. Superscripts letters. Final sigma in Eirene's name ends in a calligraphic horizontal wavy line. Use of diaeresis over iota in Ïρίνης. Horizontal wavy line above the abbreviation of  δέησις, Ἰω(άννου). Double point after Ἰω(άννου), αὐτοῦ.Letters ΟΥ, ΗΤ,ΗΝ in ligatures. Sporadic use of accents and breathings. Letter height: <height unit="cm">3,5-5</height>
+                               <handNote>Black letters against ochre background. Majuscule letters. Characters' size varies. Superscripts letters. Final sigma in Eirene's name ends in a calligraphic horizontal wavy line. Use of diaeresis over iota in Ïρίνης. Horizontal wavy line above the abbreviation of  δέησις, Ἰω(άννου). Double point after Ἰω(άννου), αὐτοῦ. ΟΥ, ΗΤ,ΗΝ in ligatures. Accents and breathings with errors. Letter height: <height unit="cm">3,5-5</height>
                             </handNote>
                          </handDesc>
                         <decoDesc>
@@ -66,9 +66,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-021-01.JPG"><desc>Bema, north wall, lower register, inscription detail</desc></graphic>
-        <graphic url="043-021-02.JPG"><desc>Bema, north wall, lower register, inscription</desc></graphic>
-        <graphic url="043-021-03.JPG"><desc>Bema, north wall, lower register, general view</desc></graphic>
+         <graphic rend="primary" url="043-021-01.JPG"><desc>Ioannes Moutoullas second inscription, detail</desc></graphic>
+        <graphic url="043-021-02.JPG"><desc>Ioannes Moutoullas second inscription</desc></graphic>
+        <graphic url="043-021-03.JPG"><desc>Ioannes Moutoullas second inscription, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -81,13 +81,13 @@
                 </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>Invocation of the servant of God, Ioannes Moutoullas founder and his wife Eirene</p>
             </div>
             <div type="commentary">
-                <p>Partially damaged. A cross with dots in the angles marks the beginning of the text. The founder's surname given here is Μουτουλλᾶς. It's probably the same person with Gerakiotes. The words κτήτορος, συμβίου are misspelled. Accents and breathings with errors.</p>
+                <p>The founder's surname given here is Μουτουλλᾶς. It's probably the same person with Gerakiotes.</p>
             </div>
             <div type="bibliography">
                  <listBibl>

@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Christ Antiphonetes' gospel</title>
+                <title>Christ Antiphonetes' codex</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -27,18 +27,18 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, south pier, west face</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged. Very fragmentary.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, iconostasis jamb, southeastern panel, west face</rs>
                                     <dimensions unit="cm" scope="text"><height>10</height><width>5,5</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>12</height><width>12</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the open gospel held in the left hand by Christ</layout>
+                                <layout>On the open codex held in the left hand by Christ</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background inside an ochre-coloured frame. Majuscule letters. Characters' size varies. MH in ligature. Mu with its middle bar forms an upsilon with a dot on its antennas. Double point after θύρα. Accents and breathings systematic. Letter height: <height unit="cm">3</height>
+                            <handNote>Black letters against white background. Majuscule letters. Characters' size varies. MH in ligature. Mu with its middle bar forms an upsilon with a dot on its antennas. Double point after θύρα. Accents and breathings systematic. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -67,8 +67,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-025-01.JPG"><desc>Naos, south pier, west face, inscription detail </desc></graphic>
-        <graphic url="043-025-02.JPG"><desc>Naos, south pier, west face, inscription</desc></graphic>
+         <graphic rend="primary" url="043-025-01.JPG"><desc>Christ Antiphonetes' codex, inscription detail </desc></graphic>
+        <graphic url="043-025-02.JPG"><desc>Christ Antiphonetes' codex, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -88,13 +88,13 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>I am the gate. Whoever enters through me will be saved.</p>
             </div>
             <div type="commentary">
-                <p>Badly damaged. Very fragmentary. The words εἰμί and εἰσέλθῃ are misspelled. Accents and breathings with errors. The inscription is from John's gospel  (John 10:9). </p>
+                <p>Text: John 10:9 </p>
             </div>
             <div type="bibliography">
                  <listBibl>

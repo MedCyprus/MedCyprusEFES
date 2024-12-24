@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged. Partially preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, southeastern pier, east face</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against grey background. Majuscule letters. Characters' size varies. Horizontal wavy line above all the abbreviations. <height unit="cm">8-9,5</height>
+                            <handNote>Black letters against grey background. Majuscule letters. Characters' size varies. Horizontal wavy line above all the abbreviations. Letter height: <height unit="cm">8-9,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -66,11 +66,11 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-           <graphic rend="primary" url="043-023-01.JPG"><desc>Bema, southeastern pier, east face, inscription</desc></graphic>
-        <graphic url="043-023-02.JPG"><desc>Bema, southeaster pier, east face, inscription detail</desc></graphic>
-        <graphic url="043-023-03.JPG"><desc>Bema, southeastern pier, east face, inscription detail</desc></graphic>
-        <graphic url="043-023-04.JPG"><desc>Bema, southeastern pier, east face, inscription detail</desc></graphic>
-        <graphic url="043-023-05.JPG"><desc>Bema, southeastern pier, east face, inscription detail</desc></graphic>
+           <graphic rend="primary" url="043-023-01.JPG"><desc>Cryptograms, inscription</desc></graphic>
+        <graphic url="043-023-02.JPG"><desc>Cryptograms, inscription detail</desc></graphic>
+        <graphic url="043-023-03.JPG"><desc>Cryptograms, inscription detail</desc></graphic>
+        <graphic url="043-023-04.JPG"><desc>Cryptograms, inscription detail</desc></graphic>
+        <graphic url="043-023-05.JPG"><desc>Cryptograms, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -81,38 +81,17 @@
                     <lb n="3"/><w lemma="νικῶ"><supplied reason="lost">Νι</supplied> <milestone unit="column"/>κ<choice><orig>α</orig><reg>ᾷ</reg></choice></w>
                     <lb n="4"/> <gap reason="lost" extent="unknown" unit="character"></gap><milestone unit="column" n="right"/><abbr rend="supraline">Τ</abbr>
                     <lb n="5"/> <gap reason="lost" extent="unknown" unit="character"></gap><milestone unit="column" n="right"/><abbr rend="supraline">Κ</abbr>
-                    <lb n="6"/> <persName type="sacred" key="Helena"><name nymRef="#Ἑλένη"><supplied reason="lost"><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἑ</reg></choice></abbr><ex>λένῃ</ex></expan></supplied></name></persName> <supplied reason="lost"><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἐ</reg></choice></abbr><ex>κ Θεοῦ</ex></expan></supplied><milestone unit="column" n="right"/><w lemma="εὕρεμα"><expan><abbr rend="supraline">Ε</abbr><ex>ὕρεμα</ex></expan></w> <w lemma="δίδωμι"><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἐ</reg></choice></abbr><ex>δόθη</ex></expan></w> 
-                    
-                    <!--<lb n="1"/><milestone unit="column" n="left"/><persName type="divine" key="Christ"><name nymRef="Ἰησοῦς Χριστός"></name><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></persName>
-                    <lb n="2"/><milestone unit="column" n="left"/><expan><abbr rend="supraline"><hi rend="ligature">Υ<choice><orig>ι</orig><reg>ἱ</reg></choice></hi></abbr><ex>ὸ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan>
-                    <lb n="3"/><milestone unit="column" n="left"/>Νι <milestone unit="column" n="right" break="no"/>κ<choice><orig>α</orig><reg>ᾶ</reg></choice>
-                    <lb n="4"/><milestone unit="column" n="left"/><expan><abbr rend="supraline">Φ</abbr><ex>ῶς</ex></expan> <milestone unit="column" n="right"/><persName type="divine" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστοῦ</ex></expan></persName>
-                    <lb n="5"/><milestone unit="column" n="left"/><expan><abbr rend="supraline">Φ</abbr><ex>αίνει</ex></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Π</abbr><ex>ᾶσιν</ex></expan>
-                    <lb n="6"/><milestone unit="column" n="left"/><persName type="sacred" key="Helena"><name nymRef="Ἑλένη"><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἑ</reg></choice></abbr><ex>λένῃ</ex></expan></name></persName> <expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἐ</reg></choice></abbr><ex>κ Θεοῦ</ex></expan><milestone unit="column" n="right"/><w lemma="εὕρεμα"><expan><abbr rend="supraline">Ε</abbr><ex>ὓρεμα</ex></expan></w> <w lemma="δίδωμι"><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἐ</reg></choice></abbr><ex>δόθη</ex></expan></w>-->                 
-                 </ab>
-               
-                <!-- Alternative mark-up <ab>
-                    <lb n="1"/><cb n="left"/><expan><abbr>Ι</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan> <cb n="right"/><expan><abbr>Χ</abbr><ex>ριστὸ</ex><abbr>ς</abbr></expan>
-                    <lb n="2"/><cb n="left"/><expan><abbr><hi rend="ligature">Υι</hi></abbr><ex>ὸ</ex><abbr>ς</abbr></expan> <cb n="right"/><expan><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan>
-                    <lb n="3"/><cb n="left"/>Νι <cb n="right" break="no"/>κᾶ
-                    <lb n="4"/><cb n="left"/><expan><abbr>Φ</abbr><ex>ως</ex></expan> <cb n="right"/><expan><abbr>Χ</abbr><ex>ριστοῦ</ex></expan>
-                    <lb n="5"/><cb n="left"/><expan><abbr>Φ</abbr><ex>αίνει</ex></expan> <cb n="right"/><expan><abbr>Π</abbr><ex>ᾶσιν</ex></expan>
-                    <lb n="6"/><cb n="left"/><expan><abbr>Ἑ</abbr><ex>λένη</ex></expan> <expan><abbr>Ε</abbr><ex>ὕρεν</ex></expan> <cb n="right"/><expan><abbr>Ἐ</abbr><ex>λέους</ex></expan> <expan><abbr>Ἔ</abbr><ex>ρεισμα</ex></expan>                    
-                 </ab> -->
+                    <lb n="6"/> <persName type="sacred" key="Helena"><name nymRef="#Ἑλένη"><supplied reason="lost"><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἑ</reg></choice></abbr><ex>λένῃ</ex></expan></supplied></name></persName> <supplied reason="lost"><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἐ</reg></choice></abbr><ex>κ Θεοῦ</ex></expan></supplied><milestone unit="column" n="right"/><w lemma="εὕρεμα"><expan><abbr rend="supraline">Ε</abbr><ex>ὕρεμα</ex></expan></w> <w lemma="δίδωμι"><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἐ</reg></choice></abbr><ex>δόθη</ex></expan></w>                         
+                 </ab>     
             </div>
             <div type="apparatus">
-                <listApp>
-                    <app>
-                        <note>                           
-                        </note>
-                    </app>
-                </listApp>
+                <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>Jesus Christ, Son of God, conquers. [..?..] The discovery (of the cross) was given from God to Helena.</p>
             </div>
             <div type="commentary">
-                <p>Badly damaged. Partially preserved. The victorious acclamation Ἰ(ησοῦ)ς Χ(ριστὸ)ς Nικᾷ with the combination of Υἱ(ὸ)ς Θ(εο)ῦ usually appears on either side and in-between the arms of a patriarchal cross and it is very common in the byzantine painted churches. The connection of the acclamation to Constantine recalls his Vision of the Cross with the words τούτῳ νίκα before the Milvian bridge battle. The tetragram-acronym EEEE in the lower corners of the cross, glorifies the discovery of the True Cross by Constantine’s mother and can be interprete in many different ways. The letters in the middle and lower (on the left) corners of the cross haven't survived. Τhe letters/abbreviations tau and kappa could be interpreted as τόπος, κρανίου respectively.</p>
+                <p>The victorious acclamation Ἰ(ησοῦ)ς Χ(ριστὸ)ς Nικᾷ with the combination of Υἱ(ὸ)ς Θ(εο)ῦ usually appears on either side and in-between the arms of a patriarchal cross and it is very common in the byzantine painted churches. The connection of the acclamation to Constantine recalls his Vision of the Cross with the words τούτῳ νίκα before the Milvian bridge battle. The tetragram-acronym EEEE in the lower corners of the cross, glorifies the discovery of the True Cross by Constantine’s mother and can be interprete in many different ways. The letters in the middle and lower (on the left) corners of the cross haven't survived. Τhe letters/abbreviations tau and kappa could be interpreted as τόπος, κρανίου respectively.</p>
             </div>
             <div type="bibliography">
              <listBibl><bibl>Unpublished</bibl>
