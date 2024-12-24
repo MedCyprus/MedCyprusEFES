@@ -27,18 +27,18 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, first figure on the left</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, first figure on the left</rs>
                                     <dimensions unit="cm" scope="text"><height>29,5</height><width>9</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>40</height><width>11,5</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the open scroll held in both hands by the co-officiating prelate.</layout>
+                                <layout>On the open scroll held in both hands by the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Majuscule letters. Characters' size varies. Superscripts letters. Omicron attached to final sigma OC; omega with crosslet.  Mu with its middle bar forms an upsilon with a dot at the top of its vertical line. In line 5, iota and final sigma are written outside the text frame due to lack of space. Letters HΝ, αΙ in ligatures. Accents and breathings systematic. Text between two ruled ochre-coloured lines. Letter height: <height unit="cm">3,5-4,5</height>
+                            <handNote>Black letters against white background. Majuscule letters. Characters' size varies. Superscripts letters. Omicron attached to final sigma OC; omega with crosslet. Mu with its middle bar forms an upsilon with a dot at the top of its vertical line. In line 5, iota and final sigma are written outside the text frame due to lack of space. HΝ, αΙ in ligatures. Accents and breathings systematic. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">3,5-4,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -67,9 +67,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-012-01.JPG"><desc>Bema, semicylindrical wall, south half, first figure on the left, inscription</desc></graphic>
-        <graphic url="043-012-02.JPG"><desc>Bema, semicylindrical wall, south half, first figure on the left, inscription detail</desc></graphic>
-        <graphic url="043-012-03.JPG"><desc>Bema, semicylindrical wall, south half, first figure on the left, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-012-01.JPG"><desc>Saint Basil's scroll, inscription</desc></graphic>
+        <graphic url="043-012-02.JPG"><desc>Saint Basil's scroll, inscription detail</desc></graphic>
+        <graphic url="043-012-03.JPG"><desc>Saint Basil's scroll, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -82,13 +82,13 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>No one of those who are tied to carnal (desires and pleasures is worthy to approach, draw near, or serve You, glorious King).</p>
             </div>
             <div type="commentary">
-                <p>Good condition. The words συνδεδεμένων and σαρκικαῖς are misspelled. The inscription is from the Prayer of the Cherubic Hymn. </p>
+                <p>The inscription is from the Prayer of the Cherubic Hymn. </p>
             </div>
             <div type="bibliography">
                  <listBibl>

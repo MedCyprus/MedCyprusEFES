@@ -28,13 +28,13 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
-                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, 1st figure to the left</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, first figure on the left</rs>
                                     <dimensions unit="cm" scope="text"><height>29,5</height><width>8,5</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>38</height><width>12</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the open scroll held in both hands by the co-officiating prelate.</layout>
+                                <layout>On the open scroll held in both hands by the figure.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
