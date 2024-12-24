@@ -27,18 +27,17 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, middle figure</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, middle figure</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the prelate's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. The inscription is written entirely in majuscule with the iota on saint's caption in a smaller size. 
-                                Round omicron attached to nearly round final sigma OC, ending in a horizontal wavy line. Accents and breathings. Letter height: <height unit="cm">2-4</height>                            </handNote>
+                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. Round omicron attached to nearly round final sigma OC, ending in a horizontal wavy line. Accents and breathings systematic. Letter height: <height unit="cm">2-4</height></handNote>
                         </handDesc>
                         <decoDesc>
                             <p>... <rs type="iconography" ref="iconography.xml#Epiphanios">Epiphanios</rs></p>
@@ -66,9 +65,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-013-01.JPG"><desc>Bema, semicylindrical wall, south half, middle figure, inscription</desc></graphic>
-        <graphic url="043-013-02.JPG"><desc>Bema, semicylindrical wall, south half, middle figure, inscription detail</desc></graphic>
-        <graphic url="043-013-03.JPG"><desc>Bema, semicylindrical wall, south half, middle figure, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-013-01.JPG"><desc>Saint Epiphanios, inscription</desc></graphic>
+        <graphic url="043-013-02.JPG"><desc>Saint Epiphanios, inscription detail</desc></graphic>
+        <graphic url="043-013-03.JPG"><desc>Saint Epiphanios, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -87,13 +86,13 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>Saint Epiphanios</p>
             </div>
             <div type="commentary">
-                <p>Good condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

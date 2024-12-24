@@ -27,17 +27,17 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, middle figure </rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged. Partially preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, middle figure </rs>
                                     <dimensions unit="cm" scope="text"><height>13,5</height><width>9</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the open scroll held in both hands by the co-officiating prelate.</layout>
+                                <layout>On the open scroll held in both hands by the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Majuscule letters. Pi with short line attached the horizontal bar. In line 3, final sigma is written outside the text frame due to lack of space. Accents systematic. Text between two ruled ochre-coloured lines. Letter height: <height unit="cm">4</height>
+                            <handNote>Black letters against white background. Majuscule letters. Pi with short line attached the horizontal bar. In line 3, final sigma is written outside the text frame due to lack of space. Accents systematic. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -66,8 +66,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-014-01.JPG"><desc>Bema, semicylindrical wall, south half, middle figure, inscription</desc></graphic>
-        <graphic url="043-014-02.JPG"><desc>Bema, semicylindrical wall, south half, middle figure, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-014-01.JPG"><desc>Saint Epiphanios' scroll, inscription</desc></graphic>
+        <graphic url="043-014-02.JPG"><desc>Saint Epiphanios' scroll, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -79,13 +79,13 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>Again and countless times</p>
             </div>
             <div type="commentary">
-                <p>Badly damaged. Partially preserved. The inscription is from the Second Prayer of the Faithful. </p>
+                <p>The inscription is from the Second Prayer of the Faithful. </p>
             </div>
             <div type="bibliography">
                  <listBibl>

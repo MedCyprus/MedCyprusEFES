@@ -27,21 +27,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved. Exfoliated.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, eastern wall, south side</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the Virgin</layout>
+                                <layout>On either side of the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. The sigla Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a wavy line above each word. ΜΗΡ in ligature. Mu with its middle bar forms an upsilon with a dot at the top of its vertical line. Letter height: <height unit="cm">4</height>
+                            <handNote>White letters against red background. Majuscule letters. The nomina sacra Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a wavy line above each word. ΜΗΡ in ligature. Mu with its middle bar forms an upsilon with a dot at the top of its vertical line. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#VirginAnnunciation">Virgin, Annunciation</rs></p>
+                            <p>... 
+                                <rs type="iconography" ref="iconography.xml#Annunciation">Annunciation</rs>
+                                <rs type="iconography" ref="iconography.xml#VirginAnnunciation">Virgin</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,9 +68,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-017-01.JPG"><desc>Bema, eastern wall, south side, inscription</desc></graphic>
-        <graphic url="043-017-02.JPG"><desc>Bema, eastern wall, south side, inscription detail</desc></graphic>
-        <graphic url="043-017-03.JPG"><desc>Bema, eastern wall, south side, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-017-01.JPG"><desc>Annunciation, Virgin, inscription</desc></graphic>
+        <graphic url="043-017-02.JPG"><desc>Annunciation, Virgin, inscription detail</desc></graphic>
+        <graphic url="043-017-03.JPG"><desc>Annunciation, Virgin, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -79,13 +81,13 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>Mother of God</p>
             </div>
             <div type="commentary">
-                <p>Poor condition. Exfoliated. </p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

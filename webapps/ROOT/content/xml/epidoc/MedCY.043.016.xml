@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved. Faded.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, eastern wall, center</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters; accents. Letter height: <height unit="cm">3</height>
+                            <handNote>White letters against red background. Majuscule letters. Breathings non systematic. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -66,26 +66,26 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-016-01.JPG"><desc>Bema, eastern wall, center, inscription</desc></graphic>
-        <graphic url="043-016-02.JPG"><desc>Bema, eastern wall, center, inscription detail</desc></graphic>
-        <graphic url="043-016-03.JPG"><desc>Bema, eastern wall, center, inscription detail</desc></graphic>
-        <graphic url="043-016-04.JPG"><desc>Bema, eastern wall, center, general view</desc></graphic>
+         <graphic rend="primary" url="043-016-01.JPG"><desc>Hetoimasia, inscription</desc></graphic>
+        <graphic url="043-016-02.JPG"><desc>Hetoimasia, inscription detail</desc></graphic>
+        <graphic url="043-016-03.JPG"><desc>Hetoimasia, inscription detail</desc></graphic>
+        <graphic url="043-016-04.JPG"><desc>Hetoimasia, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb/><choice><orig>Η</orig><reg>Ἡ</reg></choice> <w lemma="ἑτοιμασία"><choice><sic><choice><orig>Ε</orig><reg>Ἑ</reg></choice>τη <milestone unit="column" />μασήα</sic><corr>Ἑτοιμασία</corr></choice></w>   
+                    <lb n="1"/><choice><orig>Η</orig><reg>Ἡ</reg></choice> <w lemma="ἑτοιμασία"><choice><sic><choice><orig>Ε</orig><reg>Ἑ</reg></choice>τη <milestone unit="column" />μασήα</sic><corr>Ἑτοιμασία</corr></choice></w>   
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>Hetoimasia</p>
             </div>
             <div type="commentary">
-                <p>Poor condition. Faded. The word ἐτοιμασία is misspelled.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

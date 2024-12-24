@@ -27,17 +27,17 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, first figure on the right</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, first figure on the right</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the prelate's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. The inscription is written entirely in majuscule with the size of some characters varying. On the saint's caption, a round omicron attached to nearly round final sigma OC, ending in a horizontal wavy line. On the second column, diagonal final sigma. Accents and breathings systematic. Letter height: <height unit="cm">2,5-4,5</height>
+                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. Round omicron attached to nearly round final sigma OC, ending in a horizontal wavy line. On the second column, diagonal final sigma. Accents and breathings systematic. Letter height: <height unit="cm">2,5-4,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -66,9 +66,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-015-01.JPG"><desc>Bema, semicylindrical wall, south half, 1st figure to the right, inscription</desc></graphic>
-        <graphic url="043-015-02.JPG"><desc>Bema, semicylindrical wall, south half, 1st figure to the right, inscription detail</desc></graphic>
-        <graphic url="043-015-03.JPG"><desc>Bema, semicylindrical wall, south half, 1st figure to the right, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-015-01.JPG"><desc>Saint Auxibios, inscription</desc></graphic>
+        <graphic url="043-015-02.JPG"><desc>Saint Auxibios, inscription detail</desc></graphic>
+        <graphic url="043-015-03.JPG"><desc>Saint Auxibios, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -93,7 +93,7 @@
                 <p>Saint Auxibios</p>
             </div>
             <div type="commentary">
-                <p>Good condition. The name Αὐξίβιος is misspelled and is written with xi, while the upsilon is omitted. Accents and breathings with errors. </p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

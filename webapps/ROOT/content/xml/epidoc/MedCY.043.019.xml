@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved. Exfoliated.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, eastern wall, south side</rs>
                                     <dimensions unit="cm" scope="text"><height>16</height><width>16,5</width></dimensions>
                                 </support>
@@ -38,11 +38,12 @@
                         </objectDesc>
                         <handDesc>
                             <handNote>White letters against red background. Majuscule letters. Characters' size varies. Mu with its middle bar forms a tau. ΟΥ, ΝΗ, ΤΟ in ligatures; ΟΥ as a huge minuscule gamma; tau in superscript. Horizontal wavy line above the abbreviation of Κ(υρίο)υ. Use of diaeresis over iota in ἰδού (l. 1). 
-Double point after Κ(υρίο)υ. Almost systematic use of accents and breathings. Letter height: <height unit="cm">3</height>
+Double point after Κ(υρίο)υ. Near systematic use of accents and breathings. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#VirginAnnunciation">Virgin, Annunciation</rs></p>
+                            <p>...<rs type="iconography" ref="iconography.xml#Annunciation">Annunciation</rs>
+                                <rs type="iconography" ref="iconography.xml#VirginAnnunciation">Virgin</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,8 +68,8 @@ Double point after Κ(υρίο)υ. Almost systematic use of accents and breathin
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-019-01.JPG"><desc>Bema, eastern wall, south side, inscription</desc></graphic>
-        <graphic url="043-019-02.JPG"><desc>Bema, eastern wall, south side, general view</desc></graphic>
+         <graphic rend="primary" url="043-019-01.JPG"><desc>Annunciation, the Virgin's response to Gabriel, inscription</desc></graphic>
+        <graphic url="043-019-02.JPG"><desc>Annunciation, the Virgin's response to Gabriel, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -81,13 +82,13 @@ Double point after Κ(υρίο)υ. Almost systematic use of accents and breathin
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>I am the Lord’s servant. May your word to me be fulfilled.</p>
             </div>
             <div type="commentary">
-                <p>Poor condition. Exfoliated. A cross with dots in the angles marks the beginning of the text. The article ἡ, and the words γένοιτο, μοι, ρήμα are misspelled. The inscription is based on the dialogue between the Archangel Gabriel and the Virgin according to Luke 1:28, 38.</p>
+                <p>The inscription is based on the dialogue between the Archangel Gabriel and the Virgin according to Luke 1:28, 38.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
