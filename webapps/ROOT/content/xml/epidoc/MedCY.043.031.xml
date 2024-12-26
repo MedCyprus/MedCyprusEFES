@@ -27,21 +27,22 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, south wall, upper register, central scene</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the Virgin</layout>
+                                <layout>On either side of the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Some characters' size varies. Mu with its middle bar forms an upsilon. Upsilon is attached to horizontal bar which at its ends has a vertical point. The sigla Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, wavy line above each word. ΜΗΡ in ligature. Accents and breathings systematic. Letter height: <height unit="cm">3,5-4</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mu with its middle bar forms an upsilon. Upsilon is attached to horizontal bar which at its ends has a vertical point. The nomina sacra Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, wavy line above each word. ΜΗΡ in ligature. Accents and breathings systematic. Letter height: <height unit="cm">3,5-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#VirginNativity">Virgin, Nativity</rs></p>
+                            <p>... <rs type="iconography" ref="iconography.xml#Nativity">Nativity</rs>
+                            <rs type="iconography" ref="iconography.xml#Virgin">Virgin</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,26 +67,26 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-031-01.JPG"><desc>Naos, south wall, upper register, inscription</desc></graphic>
-        <graphic url="043-031-02.JGP"><desc>Naos, south wall, upper register, inscription detail</desc></graphic>
-        <graphic url="043-031-03.JPG"><desc>Naos, south wall, upper register, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-031-01.JPG"><desc>Nativity, Virgin, inscription</desc></graphic>
+        <graphic url="043-031-02.JGP"><desc>Nativity, Virgin, inscription detail</desc></graphic>
+        <graphic url="043-031-03.JPG"><desc>Nativity, Virgin, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
               <lb n="1"/><persName type="sacred" key="MeterTheou"><name nymRef="#Μήτηρ Θεοῦ"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
-                    <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice><am>&#x00A0;῀&#x00A0;</am></abbr></expan></name></persName>   
+                    <milestone unit="column"/> <expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice><am>&#x00A0;῀&#x00A0;</am></abbr></expan></name></persName>   
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>Mother of God</p>
             </div>
             <div type="commentary">
-                <p>Good condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
