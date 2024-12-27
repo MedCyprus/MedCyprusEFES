@@ -34,7 +34,7 @@
                                     </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -75,13 +75,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><supplied reason="lost">Ὁ <persName type="sacred" key="Makedonios"><w lemma="ἅγιος">ἅγιος</w></persName></supplied>
-                  <lb n="2"/><name nymRef="#Μακεδόνιος"><choice><sic><supplied reason="lost">Μα</supplied>
-                  <lb n="3" break="no"/><supplied reason="lost">κε</supplied>
-                  <lb n="4" break="no"/><supplied reason="lost">δ</supplied><unclear>ώ</unclear>
-                  <lb n="5" break="no"/>νι
-                  <lb n="6" break="no"/>ο
-                  <lb n="7" break="no"/>ς</sic><corr>Μακεδόνιος</corr></choice></name>
+                  <cb n="a"/>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Makedonios"><supplied reason="lost"><w lemma="ἅγιος">ἅγιος</w></supplied>
+                 <cb n="b"/>
+                  <lb n="1"/><name nymRef="#Μακεδόνιος"><choice><sic><supplied reason="lost">Μα</supplied>
+                  <lb n="2" break="no"/><supplied reason="lost">κε</supplied>
+                  <lb n="3" break="no"/><supplied reason="lost">δ</supplied><unclear>ώ</unclear>
+                  <lb n="4" break="no"/>νι
+                  <lb n="5" break="no"/>ο
+                  <lb n="6" break="no"/>ς</sic><corr>Μακεδόνιος</corr></choice></name></persName>
                </ab>
             </div>
             <div type="apparatus">
