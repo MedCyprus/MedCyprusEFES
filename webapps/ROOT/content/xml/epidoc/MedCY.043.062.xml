@@ -27,14 +27,14 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, north wall, lower register, west half, central figure</rs>
                                     <dimensions unit="cm" scope="inside_frame"><height>4</height><width>7</width></dimensions>
                                     <dimensions unit="cm" scope="outside_frame"><height>6</height><width>9</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the labarum that Archangel is holding in his right hand.</layout>
+                                <layout>On the labarum that Archangel is holding in his right hand.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Michael">Archangel Michael</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Michael">Archangel Michael</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,8 +67,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-062-01.JPG"><desc>Naos, north wall, lower register, west half, central figure, inscription detail</desc></graphic>
-         <graphic url="043-062-02.JPG"><desc>Naos, north wall, lower register, west half, central figure, inscription </desc></graphic>
+         <graphic rend="primary" url="043-062-01.JPG"><desc>Archangel Michael's labarum, inscription detail</desc></graphic>
+         <graphic url="043-062-02.JPG"><desc>Archangel Michael's labarum, inscription </desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -78,13 +78,13 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>Holy, holy, holy (Lord of Sabaoth)</p>
             </div>
             <div type="commentary">
-                <p>Good condition. The inscription appears in abbreviated form rather than the earliest one used in Panagia tou Arakos' church at Lagoudera as complete word. The text is from the Isaiah 6:13 and it is referred in the Divine Liturgy in the Victory's hymn (Epinikios Ymnos) </p>
+                <p>The inscription appears in abbreviated form rather than the earliest one used in Panagia tou Arakos' church at Lagoudera as complete word. The text is from the Isaiah 6:13 and it is referred in the Divine Liturgy in the Victory's hymn (Epinikios Ymnos) </p>
             </div>
             <div type="bibliography">
                  <listBibl>

@@ -27,21 +27,21 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, north wall, lower register, west half, next to the Archangel Michael</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Some characters' size varies. Diagonal final sigma. ΤΡ in ligature. Accents and breathings systematic. Letter height: <height unit="cm">3-5</height>
+                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. Diagonal final sigma. ΤΡ in ligature. Accents and breathings systematic. Letter height: <height unit="cm">3-5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Peter">Peter</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Peter">Peter</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,10 +66,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-063-01.JPG"><desc>Naos, north wall, lower register, west half, next to Archangel Michael, inscription</desc></graphic>
-         <graphic url="043-063-02.JPG"><desc>Naos, north wall, lower register, west half, next to Archangel Michael, inscription detail </desc></graphic>
-         <graphic url="043-063-03.JPG"><desc>Naos, north wall, lower register, west half, next to Archangel Michael, inscription detail</desc></graphic>
-         <graphic url="043-063-04.JPG"><desc>Naos, north wall, lower register, west half, next to Archangel Michael, general view </desc></graphic>
+         <graphic rend="primary" url="043-063-01.JPG"><desc>Saint Peter, inscription</desc></graphic>
+         <graphic url="043-063-02.JPG"><desc>Saint Peter, inscription detail </desc></graphic>
+         <graphic url="043-063-03.JPG"><desc>Saint Peter, inscription detail</desc></graphic>
+         <graphic url="043-063-04.JPG"><desc>Saint Peter, general view </desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -86,13 +86,13 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>Saint Peter</p>
             </div>
             <div type="commentary">
-                <p>Poor condition. Faded.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

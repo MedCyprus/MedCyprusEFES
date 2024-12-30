@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, north wall, lower register, west half, next to the Archangel Michael</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -37,11 +37,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two ruled ochre-coloured lines. Majuscule letters. Pi with short line attached the horizontal bar; Accents and breathings. Letter height: <height unit="cm">3</height>
+                            <handNote>Black letters against white background. Majuscule letters. Pi with short line attached the horizontal bar; Accents and breathings. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Peter">Peter</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Peter">Peter</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,9 +66,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-064-01.JPG"><desc>Naos, north wall, lower register, west half, next to Archangel Michael, inscription detail</desc></graphic>
-         <graphic url="043-064-02.JPG"><desc>Naos, north wall, lower register, west half, next to Archangel Michael, inscription </desc></graphic>
-         <graphic url="043-064-03.JPG"><desc>Naos, north wall, lower register, west half, next to Archangel Michael, general view</desc></graphic>
+         <graphic rend="primary" url="043-064-01.JPG"><desc>Saint Peter's scroll, inscription detail</desc></graphic>
+         <graphic url="043-064-02.JPG"><desc>Saint Peter's scroll, inscription </desc></graphic>
+         <graphic url="043-064-03.JPG"><desc>Saint Peter's scroll, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -86,14 +86,14 @@
                  </w></ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>Brothers, I urge you, as foreigners and exiles, to abstain from sinful desires.
 </p>
             </div>
             <div type="commentary">
-                <p>Poor condition. Faded. Lines 1-5 do not survive. Accents and breathings with errors. The inscription is from Peter's Epistle I, 2:11: Ἀγαπητοί, παρακαλῶ ὡς παροίκους καὶ παρεπιδήμους ἀπέχεσθαι τῶν σαρκικῶν ἐπιθυμιῶν. However, the incipit Ἀδελφοί, παρακαλῶ ὑμᾶς, originates from Paul's epistles. Text reconstruction was based on the example of Apostle Peter's mural from the church of the Transfiguration of the Saviour at Sotera.
+                <p>Lines 1-5 do not survive. The inscription is from Peter's Epistle I, 2:11: Ἀγαπητοί, παρακαλῶ ὡς παροίκους καὶ παρεπιδήμους ἀπέχεσθαι τῶν σαρκικῶν ἐπιθυμιῶν. However, the incipit Ἀδελφοί, παρακαλῶ ὑμᾶς, originates from Paul's epistles. Text reconstruction was based on the example of Apostle Peter's mural from the church of the Transfiguration of the Saviour at Sotera.
 
 </p>
             </div>
