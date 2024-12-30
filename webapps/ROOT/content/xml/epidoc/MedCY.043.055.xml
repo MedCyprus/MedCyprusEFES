@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint John the Forerunner's scroll</title>
+                <title>Descent Into Hell, John the Forerunner's scroll</title>
                 <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -27,22 +27,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, north wall, upper register, first scene on the left</rs>
                                     <dimensions unit="cm" scope="text"><height>12</height><width>5</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>19</height><width>5,5</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the open scroll held in the left hand by the saint</layout>
+                                <layout>On the open scroll held in the left hand by the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Majuscule letters. Some characters' size varies. Delta is formed with a lambda on a horizontal bar, which at its ends has a vertical point; omega with crosslet and sketch strokes. ΗΜΗΝ in ligature. Accents and breathings systematic. Text between two ruled ochre-coloured lines. Letter height: <height unit="cm">2-3</height>
+                            <handNote>Black letters against white background. Majuscule letters. Characters' size varies. Delta is formed with a lambda on a horizontal bar, with a serif to the left; omega with crosslet and sketch strokes. ΗΜΗΝ in ligature. Accents and breathings with errors. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">2-3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#ResurrectionJohnForerunner">Resurrection, John the Forerunner</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#DescentIntoHell">Descent Into Hell</rs>
+                            <rs type="iconography" ref="iconography.xml#JohnForerunner">John the Forerunner</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,9 +68,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-055-01.JPG"><desc>Naos, north wall, upper register, first scene on the left, inscription</desc></graphic>
-         <graphic url="043-055-02.JPG"><desc>Naos, north wall, upper register, first scene on the left, general view</desc></graphic>
-         <graphic url="043-055-03.JPG"><desc>Naos, north wall, upper register, first scene on the left, general view</desc></graphic>
+         <graphic rend="primary" url="043-055-01.JPG"><desc>Descent Into Hell, Jonh the Forerunner's scroll, inscription</desc></graphic>
+         <graphic url="043-055-02.JPG"><desc>Descent Into Hell, Jonh the Forerunner's scroll, inscription, general view</desc></graphic>
+         <graphic url="043-055-03.JPG"><desc>Descent Into Hell, Jonh the Forerunner's scroll, inscription, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -80,13 +81,13 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>Behold, he is the one of whom I have told you.</p>
             </div>
             <div type="commentary">
-                <p>Good condition. The inscription is actually a paraphrase of John 1:29-30 and almost all the words are misspelled indicating a relative uneducated painter.</p>
+                <p>The inscription is actually a paraphrase of John 1:29-30 and almost all the words are misspelled indicating a relative uneducated painter.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
