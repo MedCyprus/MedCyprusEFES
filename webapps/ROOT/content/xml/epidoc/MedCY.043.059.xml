@@ -27,21 +27,21 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly condition.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, north wall, lower register, west half, first figure on the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Some characters' size varies. Thin gamma and iota; nearly round final sigma ending in a horizontal small line; wavy diagonal sigma. ΣΤ in ligature. Letter height: <height unit="cm">2,5-4</height>
+                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. Thin gamma and iota; nearly round final sigma ending in a horizontal small line; wavy diagonal sigma. ΣΤ in ligature. Letter height: <height unit="cm">2,5-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Stylianos">Stylianos</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Stylianos">Stylianos</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,9 +66,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-059-01.JPG"><desc>Naos, north wall, lower register, west half, first figure from the left, inscription detail</desc></graphic>
-         <graphic url="043-059-02.JPG"><desc>Naos, north wall, lower register, west half, first figure from the left, inscription </desc></graphic>
-         <graphic url="043-059-03.JPG"><desc>Naos, north wall, lower register, west half, first figure from the left, general view </desc></graphic>
+         <graphic rend="primary" url="043-059-01.JPG"><desc>Saint Stylianos, inscription detail</desc></graphic>
+         <graphic url="043-059-02.JPG"><desc>Saint Stylianos, inscription </desc></graphic>
+         <graphic url="043-059-03.JPG"><desc>Saint Stylianos, general view </desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -84,13 +84,13 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Stylianos</p>
+                <p>Saint Stylianos</p>
             </div>
             <div type="commentary">
-                <p>Poor condition. The saint's name is misspelled. The painter uses the eta instead of the upsilon and iota respectively.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

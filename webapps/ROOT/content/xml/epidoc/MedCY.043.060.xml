@@ -27,22 +27,22 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, north wall, lower register, west half, first figure on the left</rs>
                                     <dimensions unit="cm" scope="text"><height>28</height><width>11,5</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>42</height><width>15</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the open scroll held in the left hand by the saint </layout>
+                                <layout>On the open scroll held in the left hand by the figure </layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two ruled ochre-coloured line. Majuscule letters. Some characters' size varies. Mu with its middle bar forms a tau; omega with crosslet. ΟΥ, ΤΟ, ΠΝ in ligatures. Double point before καταφυγή and σκέπη. Accents and breathings systematic. Letter height: <height unit="cm">3-3,5</height>
+                            <handNote>Black letters against white background. Majuscule letters. Characters' size varies. Mu with its middle bar forms a tau; omega with crosslet. ΟΥ, ΤΟ, ΠΝ in ligatures. Double point before καταφυγή and σκέπη. Near systematic use of accents and breathings. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">3-3,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Stylianos">Stylianos</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Stylianos">Stylianos</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,8 +67,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-060-01.JPG"><desc>Naos, north wall, lower register, west half, first figure on the left, inscription detail</desc></graphic>
-         <graphic url="043-060-02.JPG"><desc>Naos, north wall, lower register, west half, first figure on the left, general view </desc></graphic>
+         <graphic rend="primary" url="043-060-01.JPG"><desc>Saint Stylianos' scroll, inscription detail</desc></graphic>
+         <graphic url="043-060-02.JPG"><desc>Saint Stylianos' scroll, general view </desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -84,13 +84,13 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>My hope is the God, my refuge is the Christ, my protection is the Holy Spirit.</p>
             </div>
             <div type="commentary">
-                <p>Poor condition. Partially preserved. The first two lines do not survive except the letter theta in the second line. The words καταφυγή, σκέπη, ἅγιον are misspelled. The text ends in four crosses. The inscription is taken from the hymn of the Akathistos Mass. Althought there is a paraphase. Instead of the nouns πατήρ and υἱός, the painter uses the names Θεός and Χριστός respectively.</p>
+                <p>The inscription is taken from the hymn of the Akathistos Mass. Althought there is a paraphase. Instead of the nouns πατήρ and υἱός, the painter uses the names Θεός and Χριστός respectively.</p>
             </div>
             <div type="bibliography">
                  <listBibl>

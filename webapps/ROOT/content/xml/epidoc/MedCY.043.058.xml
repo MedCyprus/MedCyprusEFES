@@ -27,21 +27,22 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, north wall, upper register, central scene, above the entrance</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the apostle's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Omega with crosslet. John is abbreviated Ἰω(άννης) with a big, wavy line above the Ἰω. Letter height: <height unit="cm">3,5</height>
+                            <handNote>White letters against red background. Majuscule letters. Omega with crosslet. John is abbreviated as Ἰω(άννης) with a big, wavy line above Ἰω. Letter height: <height unit="cm">3,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#DormitionJohnTheologian">Dormition, John the Theologian</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Dormition">Dormition</rs>
+                            <rs type="iconography" ref="iconography.xml#JohnTheologian">John the Theologian</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,7 +67,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-058-01.JPG"><desc>Naos, north wall, upper register, central scene, inscription</desc></graphic>
+         <graphic rend="primary" url="043-058-01.JPG"><desc>Dormition, John the Theologian, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -76,13 +77,13 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>Jοhn</p>
             </div>
             <div type="commentary">
-                <p>Good condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
