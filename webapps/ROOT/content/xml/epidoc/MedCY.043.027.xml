@@ -94,7 +94,14 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+                   <listApp>
+                   <app loc="5"><rdg source="#PerdikisMyrianthefs2009">ΔΕ[ΗΣΗΝ]</rdg></app>
+                   <app loc="6"><rdg source="#PerdikisMyrianthefs2009">ΜΗΤΕ[Ρ]</rdg><rdg source="#PerdikisMyrianthefs2009">[ΑΙ]ΤΗΣ</rdg></app>
+                   <app loc="9-10"><rdg source="#PerdikisMyrianthefs2009">ΠΑΡΟΡΓΗΣΑΝ</rdg></app>
+                   <app loc="12"><rdg source="#Mouriki1984"><unclear>μ</unclear>[ε]</rdg><rdg source="#PerdikisMyrianthefs2009">Μ[ΟΥ]</rdg></app>
+                   <app loc="15"><rdg source="#Mouriki1984">Χ[αριν]</rdg><rdg source="#PerdikisMyrianthefs2009">Χ[Α]Ρ[ΙΝ]</rdg></app>
+                   <app loc="16"><rdg source="#PerdikisMyrianthefs2009">Λ[ΥΤΡΟΝ]</rdg></app>
+                   <app loc="17"><rdg source="#PerdikisMyrianthefs2009">ΕΥΧ[ΑΡΙ]ΣΤΟ[ΣΙ]</rdg><rdg source="#Mouriki1984">λόγ[ε]</rdg><rdg source="#PerdikisMyrianthefs2009"> ΛΟΓ(Ε)</rdg></app></listApp>
             </div>
             <div type="translation">
                 <p>Accept your' s mother prayer, Word. What do you wish mother? Save the mortals/humans! They angered me. Have mercy my son. But they don't regret. Save them by your grace. They will be saved. Thank you Word.</p>
