@@ -79,7 +79,7 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p><app loc="1"><rdg source="#Papageorgiou1975">ΕΤΗΜΑΣΙΑ</rdg></app></p>
             </div>
             <div type="translation">
                 <p>Hetoimasia</p>
@@ -89,6 +89,8 @@
             </div>
             <div type="bibliography">
                  <listBibl>
+                  <bibl><ptr target="#Papageorgiou1975"/>,<citedRange> 49</citedRange></bibl>
+                 <bibl><ptr target="#Mouriki1984"/>,<citedRange> 181</citedRange></bibl>
                 <bibl><ptr target="#PerdikisMyrianthefs2009"/>,<citedRange> 15</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
