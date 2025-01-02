@@ -81,7 +81,13 @@
                 </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+                <listApp>
+                    <app loc="1"><rdg source="#Soteriou1935">Δέησις</rdg><rdg source="#Stylianou1960">ΔΕ(ΗΣΙΣ)</rdg><rdg source="#Papageorgiou1975">Δέ(ησις)</rdg><rdg source="#Mouriki1984"></rdg><rdg source="#PerdikisMyrianthefs2009">ΔΕ[ΗΣΗΣ]</rdg><rdg source="#VisCult">δὲ(ησις)</rdg><rdg source="#Soteriou1935">Θεοῦ</rdg><rdg source="#PerdikisMyrianthefs2009">Θ(Ε)ΟΥ</rdg><rdg source="#Soteriou1935">Ἰωάννου</rdg></app>
+                
+                    <app loc="2"><rdg source="#Soteriou1935">Μουτουλλᾶ</rdg><rdg source="#Papageorgiou1975"></rdg><rdg source="#PerdikisMyrianthefs2009">ΜΟΥΤΟΥΛΛΑ</rdg><rdg source="#VisCult">Μουτου(λ)λᾶ</rdg></app>
+                    <app loc="3"><rdg source="#Soteriou1935">τῆς</rdg><rdg source="#Stylianou1960">ΤΗΣ</rdg><rdg source="#Papageorgiou1975">της</rdg><rdg source="#VisCult">τῆ(ς)</rdg><rdg source="#Soteriou1935">συμβίου</rdg><rdg source="#Mouriki1984">σινβίου</rdg><rdg source="#PerdikisMyrianthefs2009">ΣΙΝΒΙΟΥ</rdg><rdg source="#VisCult">συμβίου</rdg></app>
+                    <app loc="4"><rdg source="#VisCult">Εἰρήνης</rdg></app>
+                </listApp>
             </div>
             <div type="translation">
                 <p>Invocation of the servant of God, Ioannes Moutoullas founder and his wife Eirene</p>
@@ -92,11 +98,11 @@
             <div type="bibliography">
                  <listBibl>
                  <bibl><ptr target="#Soteriou1935"/>,<citedRange> pl. 90</citedRange></bibl>
-                <bibl><ptr target="#Stylianou1960"/>,<citedRange>102-3</citedRange></bibl>
+                <bibl><ptr target="#Stylianou1960"/>,<citedRange>103</citedRange></bibl>
+                <bibl><ptr target="#Papageorgiou1975"/>,<citedRange> 50</citedRange></bibl>
                 <bibl><ptr target="#Mouriki1984"/>,<citedRange> 172-73</citedRange></bibl>
-                <bibl><ptr target="#Papageorgiou2003"/>,<citedRange> 113</citedRange></bibl>
                 <bibl><ptr target="#PerdikisMyrianthefs2009"/>,<citedRange> 49-50</citedRange></bibl>
-                <bibl><ptr target="#VisCult"/><citedRange> 2, 1480-7</citedRange></bibl>
+                <bibl><ptr target="#VisCult"/><citedRange> 2, 1485-86</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
