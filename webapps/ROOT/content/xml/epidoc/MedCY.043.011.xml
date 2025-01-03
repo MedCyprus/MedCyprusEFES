@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Basil">Basil</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Basil">Basil</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -69,6 +69,7 @@
          <graphic rend="primary" url="043-011-01.JPG"><desc>Saint Basil, inscription</desc></graphic>
         <graphic url="043-011-02.JPG"><desc>Saint Basil, inscription detail</desc></graphic>
         <graphic url="043-011-03.JPG"><desc>Saint Basil, inscription detail</desc></graphic>
+        <graphic url="043-011-04.JPG"><desc>Saint Basil, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -87,7 +88,7 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Saint Βasil</p>

@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Michael">Archangel Michael</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Michael">Archangel Michael</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -77,7 +77,7 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Archangel Michael</p>

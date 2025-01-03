@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Gabriel">Archangel Gabriel</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Gabriel">Archangel Gabriel</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,6 +68,7 @@
     <facsimile>
          <graphic rend="primary" url="043-004-01.JPG"><desc>Archangel Gabriel, inscription detail </desc></graphic>
         <graphic url="043-004-02.JPG"><desc>Archangel Gabriel, inscription</desc></graphic>
+        <graphic url="043-004-03.JPG"><desc>Archangel Gabriel, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -78,7 +79,9 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+                <listApp>
+                   <app loc="2"><rdg source="#Mouriki1984">Γαυριήλ</rdg></app>
+                </listApp>   
             </div>
             <div type="translation">
                 <p>Archangel Gabriel</p>

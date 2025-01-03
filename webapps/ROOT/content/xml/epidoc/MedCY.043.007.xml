@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#GregoryNazianzenos">Gregory the Theologian</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#GregoryNazianzenos">Gregory the Theologian</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -69,6 +69,7 @@
          <graphic rend="primary" url="043-007-01.JPG"><desc>Saint Gregory the Theologian, inscription</desc></graphic>
         <graphic url="043-007-02.JPG"><desc>Saint Gregory the Theologian, inscription </desc></graphic>
         <graphic url="043-007-03.JPG"><desc>Saint Gregory the Theologian, inscription detail</desc></graphic>
+        <graphic url="043-007-04.JPG"><desc>Saint Gregory the Theologian, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -84,7 +85,9 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <listApp>
+                   <app loc="b"><rdg source="#Mouriki1984">Γριγώ<unclear>ρι</unclear>ος</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Saint Gregory</p>

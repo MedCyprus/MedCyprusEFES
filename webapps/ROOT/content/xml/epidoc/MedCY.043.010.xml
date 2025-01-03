@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Nicholas">Nicholas</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Nicholas">Nicholas</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -84,7 +84,9 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <listApp>
+                   <app loc="4"><rdg source="#Mouriki1984">λαόν</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Lord, our God, save your people and bless (your inheritance).</p>

@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#VirginBlachernitissa">Virgin Blachernitissa</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#VirginBlachernitissa">Virgin Blachernitissa</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -69,6 +69,7 @@
          <graphic rend="primary" url="043-001-01.JPG"><desc>Virgin Blachernitissa, inscription </desc></graphic>
         <graphic url="043-001-02.JPG"><desc>Virgin Blachernitissa, inscription detail</desc></graphic>
         <graphic url="043-001-03.JPG"><desc>Virgin Blachernitissa, inscription detail</desc></graphic>
+        <graphic url="043-001-04.JPG"><desc>Virgin Blachernitissa, general view</desc></graphic>
     </facsimile>
     <text>
         <body>

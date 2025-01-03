@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#JohnChrysostom">John Chrysostom</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#JohnChrysostom">John Chrysostom</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -69,6 +69,7 @@
          <graphic rend="primary" url="043-005-01.JPG"><desc>Saint John Chrysostom, inscription</desc></graphic>
         <graphic url="043-005-02.JPG"><desc>Saint John Chrysostom, inscription detail</desc></graphic>
         <graphic url="043-005-03.JPG"><desc>Saint John Chrysostom, inscription detail</desc></graphic>
+        <graphic url="043-005-04.JPG"><desc>Saint John Chrysostom, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -81,12 +82,15 @@
                     <lb n="4" break="no"/>ος</w>
                   <cb n="b"/>
                   <lb n="1"/><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>
-                    <lb n="2"/><choice><orig>o</orig><reg>ὁ</reg></choice><addName type="epithet" key="Chrysostom"> <expan><abbr rend="supraline">Χρυ</abbr><ex>σόστο</ex><abbr rend="supraline">μος</abbr></expan></addName>
+                    <lb n="2"/><choice><orig>o</orig><reg>ὁ</reg></choice>
+                    <lb n="3"/><addName type="epithet" key="Chrysostom"> <expan><abbr rend="supraline">Χρυ</abbr><ex>σόστο</ex><abbr rend="supraline">μος</abbr></expan></addName>
                     </persName>           
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <listApp>
+                   <app loc="b.3"><rdg source="#Mouriki1984">Χρυσόστομος</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>John Chrysostom</p>

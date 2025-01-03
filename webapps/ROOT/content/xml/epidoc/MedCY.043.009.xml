@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Nicholas">Nicholas</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Nicholas">Nicholas</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -69,6 +69,7 @@
          <graphic rend="primary" url="043-009-01.JPG"><desc>Saint Nicholas, inscription</desc></graphic>
         <graphic url="043-009-02.JPG"><desc>Saint Nicholas, inscription detail</desc></graphic>
         <graphic url="043-009-03.JPG"><desc>Saint Nicholas, inscription detail</desc></graphic>
+        <graphic url="043-009-04.JPG"><desc>Saint Nicholas, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -87,7 +88,9 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <listApp>
+                   <app loc="a"><rdg source="#Mouriki1984">Ὁ</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Saint Nicholas</p>
