@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Epiphanios">Epiphanios</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Epiphanios">Epiphanios</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -79,7 +79,9 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <listApp>
+                   <app loc="4-5"><rdg source="#Mouriki1984">σοί προσπίπτομεν</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Again and countless times</p>

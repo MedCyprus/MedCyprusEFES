@@ -40,7 +40,7 @@
                             <handNote>White letters against red background. Majuscule letters. Characters' size varies. Round omicron attached to nearly round final sigma OC, ending in a horizontal wavy line. Accents and breathings systematic. Letter height: <height unit="cm">2-4</height></handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Epiphanios">Epiphanios</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Epiphanios">Epiphanios</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,14 +68,15 @@
          <graphic rend="primary" url="043-013-01.JPG"><desc>Saint Epiphanios, inscription</desc></graphic>
         <graphic url="043-013-02.JPG"><desc>Saint Epiphanios, inscription detail</desc></graphic>
         <graphic url="043-013-03.JPG"><desc>Saint Epiphanios, inscription detail</desc></graphic>
+        <graphic url="043-013-04.JPG"><desc>Saint Epiphanios, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                      <cb n="a"/>
-                    <lb n="1"/>Ὁ<persName type="sacred" key="Epiphanios"><w lemma="ἅγιος">
-                    <lb n="2"/><choice><orig>ά</orig><reg>ἅ</reg></choice>
+                    <lb n="1"/>Ὁ
+                    <lb n="2"/><persName type="sacred" key="Epiphanios"><w lemma="ἅγιος"><choice><orig>ά</orig><reg>ἅ</reg></choice>
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/>ος</w>
                   <cb n="b"/>
@@ -86,7 +87,9 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <listApp>
+                   <app loc="b"><rdg source="#Mouriki1984">[Ἐ]πιφάνιος</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Saint Epiphanios</p>

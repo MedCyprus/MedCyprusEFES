@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Auxibios"> Auxibios</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Auxibios"> Auxibios</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -69,6 +69,7 @@
          <graphic rend="primary" url="043-015-01.JPG"><desc>Saint Auxibios, inscription</desc></graphic>
         <graphic url="043-015-02.JPG"><desc>Saint Auxibios, inscription detail</desc></graphic>
         <graphic url="043-015-03.JPG"><desc>Saint Auxibios, inscription detail</desc></graphic>
+        <graphic url="043-015-04.JPG"><desc>Saint Auxibios, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -82,12 +83,13 @@
                   <cb n="b"/>
                   <lb n="1"/><name nymRef="#Αὐξίβιος"> <choice><orig>Ἁ</orig><reg>Α</reg></choice><supplied reason="omitted">ὐ</supplied>ξί
                       <lb n="2" break="no"/>βι
-                      <lb n="3" break="no"/>ος</name></persName>
-                      <!--<choice><sic><choice><orig>Ἁ</orig><reg>Α</reg></choice>ξί<lb n="2" break="no"/>βι<lb n="3" break="no"/>ος</sic><corr>Αὐξί<lb n="3" break="no"/>βι<lb n="3" break="no"/>ος</corr></choice></name></persName>-->    
+                      <lb n="3" break="no"/>ος</name></persName>    
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <listApp>
+                   <app loc="b"><rdg source="#Mouriki1984">Αὐξίβιος</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Saint Auxibios</p>
