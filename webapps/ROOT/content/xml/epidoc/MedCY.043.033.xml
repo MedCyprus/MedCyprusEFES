@@ -33,7 +33,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Left of the angel's head</layout>
+                                <layout>On the left of the angel's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Nativity">Nativity</rs>
+                            <p><rs type="iconography" ref="iconography.xml#Nativity">Nativity</rs>
                <rs type="iconography" ref="iconography.xml#Angel">Angel addresses the shepherd</rs></p>
                         </decoDesc>
                     </physDesc>
@@ -74,11 +74,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-            <lb n="1"/><w lemma="παύω">Π<unclear>α</unclear><supplied reason="lost">ύσατε</supplied></w> <w lemma="ἀγραυλῶ"><supplied reason="lost">ἀγραυ</supplied>            <lb n="2" break="no"/>λο<choice><orig>υ</orig><reg>ῦ</reg></choice><supplied reason="lost">ντες</supplied></w>     
+            <lb n="1"/><w lemma="παύω">Π<unclear>α</unclear><supplied reason="lost">ύσατε</supplied></w> <w lemma="ἀγραυλῶ"><supplied reason="lost">ἀγραυ</supplied>            
+                <lb n="2" break="no"/>λο<choice><orig>υ</orig><reg>ῦ</reg></choice><supplied reason="lost">ντες</supplied></w>     
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <listApp>
+                   <app loc="1"><rdg source="#Mouriki1984">Παύσ[ατε]</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>"Do not wander in the fields"</p>

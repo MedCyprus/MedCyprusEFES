@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Nativity">Nativity</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Nativity">Nativity</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,7 +68,7 @@
     <facsimile>
          <graphic rend="primary" url="043-030-01.JPG"><desc>Nativity, inscription detail</desc></graphic>
         <graphic url="043-030-02.JPG"><desc>Nativity, inscription</desc></graphic>
-        <graphic url="043-030-03.JPG"><desc>Nativity, inscription</desc></graphic>
+        <graphic url="043-030-03.JPG"><desc>Nativity, general view</desc></graphic>
             </facsimile>
     <text>
         <body>
@@ -78,7 +78,7 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Christ's nativity</p>

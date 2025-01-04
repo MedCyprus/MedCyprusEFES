@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Nativity">Nativity</rs>
+                            <p><rs type="iconography" ref="iconography.xml#Nativity">Nativity</rs>
                             <rs type="iconography" ref="iconography.xml#Virgin">Virgin</rs></p>
                         </decoDesc>
                     </physDesc>
@@ -80,7 +80,7 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Mother of God</p>
