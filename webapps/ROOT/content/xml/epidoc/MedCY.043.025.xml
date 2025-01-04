@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#ChristAntiphonetes">Christ Antiphonetes</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#ChristAntiphonetes">Christ Antiphonetes</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -88,7 +88,14 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <listApp>
+                   <app loc="a.1-2"><rdg source="#Mouriki1984">η|μη</rdg></app>
+                   <app loc="a.2"><rdg source="#Mouriki1984">ἡ</rdg></app>
+                   <app loc="a.2-3"><rdg source="#Mouriki1984">[Θυ]ρα</rdg></app>
+                   <app loc="a.4-5"><rdg source="#Mouriki1984">[εαν]</rdg></app>
+                   <app loc="b.1-2"><rdg source="#Mouriki1984">υσ<unclear>ε</unclear>[λ]θ<unclear>η</unclear></rdg></app>
+                   <app loc="b.2-4"><rdg source="#Mouriki1984">[σω]θ[ησε]|τε <unclear>κ</unclear>αι</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>I am the gate. Whoever enters through me will be saved.</p>

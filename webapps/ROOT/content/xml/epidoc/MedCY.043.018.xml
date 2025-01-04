@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Annunciation">Annunciation</rs>
+                            <p><rs type="iconography" ref="iconography.xml#Annunciation">Annunciation</rs>
                                 <rs type="iconography" ref="iconography.xml#Gabriel">Archangel Gabriel</rs></p>
                         </decoDesc>
                     </physDesc>
@@ -80,7 +80,7 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Hail, Mary, full of grace. The Lord is with you.</p>
