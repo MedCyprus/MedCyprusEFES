@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Paul">Paul</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Paul">Paul</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,8 +66,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-039-01.JPG"><desc>Saint Paul's scroll, inscription detail</desc></graphic>
-         <graphic url="043-039-02.JPG"><desc>Saint Paul's scroll, inscription</desc></graphic>
+         <graphic rend="primary" url="043-039-01.JPG"><desc>Saint Paul's scroll, inscription</desc></graphic>
+         <graphic url="043-039-02.JPG"><desc>Saint Paul's scroll, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -83,10 +83,10 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Brothers, glory and honor and peace to every man who works good. </p>
+                <p>Brothers, glory and honor and peace to every man who works good.</p>
             </div>
             <div type="commentary">
                 <p>Text: Rom. 2:10.

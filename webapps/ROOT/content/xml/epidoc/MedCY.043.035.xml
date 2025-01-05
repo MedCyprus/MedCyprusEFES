@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Christopher">Christopher</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Christopher">Christopher</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -85,7 +85,7 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Saint Christopher</p>

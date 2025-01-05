@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Kosmas">Kosmas</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Kosmas">Kosmas</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +73,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-            <lb n="1"/><unclear>Ὁ</unclear>
+                    <cb n="a"/>
+                    <lb n="1"/><unclear>Ὁ</unclear>
                     <lb n="2"/><persName type="sacred" key="Cosmas"><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/>ος</w>
@@ -83,7 +84,9 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <listApp>
+                   <app loc="a-b"><rdg source="#Mouriki1984">[Ὁ α]γιος Κο[σμας]</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Saint Kosmas</p>

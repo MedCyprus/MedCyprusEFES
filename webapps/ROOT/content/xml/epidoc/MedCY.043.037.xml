@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#TheodoreStratelates">Theodore Stratelates</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#TheodoreStratelates">Theodore Stratelates</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,7 +67,7 @@
     </teiHeader>
     <facsimile>
          <graphic rend="primary" url="043-037-01.JPG"><desc>Saint Theodore Stratelates, inscription detail</desc></graphic>
-        <graphic url="043-037-02.JPG"><desc>Saint Theodore Stratelates, inscription</desc></graphic>
+        <graphic url="043-037-02.JPG"><desc>Saint Theodore Stratelates, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -82,7 +82,7 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Saint [Theodore]</p>

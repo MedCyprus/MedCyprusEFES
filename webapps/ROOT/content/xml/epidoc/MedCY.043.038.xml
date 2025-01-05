@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Paul">Paul</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Paul">Paul</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,7 +68,7 @@
     <facsimile>
          <graphic rend="primary" url="043-038-01.JPG"><desc>Saint Paul, inscription</desc></graphic>
          <graphic url="043-038-02.JPG"><desc>Saint Paul, inscription</desc></graphic>
-         <graphic url="043-038-02.JPG"><desc>Saint Paul, general view</desc></graphic>
+         <graphic url="043-038-03.JPG"><desc>Saint Paul, general view</desc></graphic>
 
     </facsimile>
     <text>
@@ -85,7 +85,7 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Saint Paul</p>
