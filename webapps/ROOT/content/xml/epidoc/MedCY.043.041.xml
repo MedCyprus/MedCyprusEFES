@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#LazarosRaising">Raising of Lazaros</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#LazarosRaising">Raising of Lazaros</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -77,7 +77,7 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Raising of Lazaros</p>

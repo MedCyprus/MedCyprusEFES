@@ -66,8 +66,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-052-01.JPG"><desc>Saint Barbara, inscription detail</desc></graphic>
-         <graphic url="043-052-02.JPG"><desc>Saint Barbara, inscription</desc></graphic>
+         <graphic rend="primary" url="043-052-01.JPG"><desc>Saint Barbara, inscription</desc></graphic>
+         <graphic url="043-052-02.JPG"><desc>Saint Barbara, general view</desc></graphic>
              </facsimile>
     <text>
         <body>
@@ -86,7 +86,7 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Saint Barbara</p>
