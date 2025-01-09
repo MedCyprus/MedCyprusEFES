@@ -27,21 +27,21 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, north wall, lower register, east half, next to Saint George</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against green background. Majuscule letters. Some characters' size varies. Wavy diagonal final sigma. John is abbreviated Ἰω(άννης) with a big, wavy line above the Ἰω. Only few letters discernible from the epithet ὁ πρόδρομος. Letter height: <height unit="cm">2-3,5</height>
+                            <handNote>White letters against green background. Majuscule letters. Characters' size varies. Wavy diagonal final sigma. John is abbreviated as Ἰω(άννης) with a big, wavy line above  Ἰω. Letter height: <height unit="cm">2-3,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#JohnForerunner">John the Forerunner</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#JohnForerunner">John the Forerunner</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,8 +66,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-066-01.JPG"><desc>Naos, north wall, lower register, east half, next to Saint George, inscription</desc></graphic>
-         <graphic url="043-066-02.JPG"><desc>Naos, north wall, lower register, east half, next to Saint George, general view </desc></graphic>
+         <graphic rend="primary" url="043-066-01.JPG"><desc>Saint John the Forerunner, inscription</desc></graphic>
+         <graphic url="043-066-02.JPG"><desc>Saint John the Forerunner, general view </desc></graphic>
              </facsimile>
     <text>
         <body>
@@ -79,22 +79,24 @@
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/>ος</w>
              <cb n="b"/>
-                    <lb n="1"/><name nymRef="#Ἰωάννης ὁ Πρόδρομος"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name>
+                    <lb n="1"/><name nymRef="#Ἰωάννης ὁ Πρόδρομος"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan>
                     <lb n="2" /><choice><orig>ο</orig><reg>ὁ</reg></choice> 
                     <lb n="3"/><addName type="epithet" key="Forerunner">Π
                     <lb n="4" break="no"/><supplied reason="lost">ρό</supplied>
                     <lb n="5" break="no"/><supplied reason="lost">δρο</supplied>
-                    <lb n="6" break="no"/><supplied reason="lost">μο</supplied>ς</addName></persName> 
+                    <lb n="6" break="no"/><supplied reason="lost">μο</supplied>ς</addName></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <listApp>
+                   <app loc="b"><rdg source="#Mouriki1984">Πρόδρομος</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Saint John the Forerunner</p>
             </div>
             <div type="commentary">
-                <p>Poor condition. Partially preserved. </p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

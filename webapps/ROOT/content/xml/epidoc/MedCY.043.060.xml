@@ -84,7 +84,12 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <listApp>
+                   <app loc="1"><rdg source="#Mouriki1984">Ἡ ἐλπίς</rdg></app>
+                   <app loc="2"><rdg source="#Mouriki1984">μου ὁ Θ(εό)ς</rdg></app>
+                   <app loc="3-4"><rdg source="#Mouriki1984">καταφιγί</rdg></app>
+                   <app loc="6"><rdg source="#Mouriki1984">πν(εύμα)</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>My hope is the God, my refuge is the Christ, my protection is the Holy Spirit.</p>

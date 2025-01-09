@@ -73,7 +73,7 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>PENDING
+                <ab>
                     <lb n="1"/><w lemma="ἀδελφός"><supplied reason="lost">Ἀδελφοὶ</supplied></w>
                     <lb n="2"/><w lemma="παρακαλῶ"><supplied reason="lost">παρακαλῶ</supplied></w>
                     <lb n="3"/><w lemma="σύ"><supplied reason="lost">ὑμᾶς</supplied></w> <supplied reason="lost">ὡς</supplied> <w lemma="πάροικος"><supplied reason="lost">παροί
@@ -86,14 +86,14 @@
                  </w></ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Brothers, I urge you, as foreigners and exiles, to abstain from sinful desires.
 </p>
             </div>
             <div type="commentary">
-                <p>Lines 1-5 do not survive. The inscription is from Peter's Epistle I, 2:11: Ἀγαπητοί, παρακαλῶ ὡς παροίκους καὶ παρεπιδήμους ἀπέχεσθαι τῶν σαρκικῶν ἐπιθυμιῶν. However, the incipit Ἀδελφοί, παρακαλῶ ὑμᾶς, originates from Paul's epistles. Text reconstruction was based on the example of Apostle Peter's mural from the church of the Transfiguration of the Saviour at Sotera.
+                <p>Lines 1-5 do not survive. The inscription is from Peter's Epistle I, 2:11: Ἀγαπητοί, παρακαλῶ ὡς παροίκους καὶ παρεπιδήμους ἀπέχεσθαι τῶν σαρκικῶν ἐπιθυμιῶν. However, the incipit Ἀδελφοί, παρακαλῶ ὑμᾶς, originates from Paul's epistles. Text reconstruction was based on the example of Apostle Peter's mural <ref target="MedCY.055.013.html">(MedCY.055.013)</ref> from the church of the Transfiguration of the Saviour at Sotera.
 
 </p>
             </div>

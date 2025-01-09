@@ -78,7 +78,9 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <listApp>
+                   <app loc="1"><rdg source="#Mouriki1984">ἅ(γιος), ἅ(γιος), ἅ(γιος) </rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Holy, holy, holy (Lord of Sabaoth)</p>
