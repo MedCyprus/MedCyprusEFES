@@ -84,7 +84,9 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <listApp>
+                   <app loc="b."><rdg source="#Mouriki1984">[Ἀ]<unclear>ν</unclear>αστασία</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Saint Anastasia</p>
