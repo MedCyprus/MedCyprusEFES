@@ -77,12 +77,12 @@
               <lb n="2"/>τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <w lemma="δοῦλος">δού
               <lb n="3" break="no"/>λου</w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> 
               <lb n="4"/><persName type="divine" key="God"><name nymRef="#Θεός"></name><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>· <persName type="attested" role="donor" ref="#GeorgiosKompotes"><name nymRef="#Γεώργιος" type="forename">Γε-
-               <lb n="5"/>ωρ[γί]
-               <lb n="6"/>ου</name> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <name nymRef="#Κομπότης" type="surname">Κομπότης</name>Κο-
-               <lb n="7" break="no"/>μπότη</persName>
-              <lb n="8"/><w><choice><sic>κ<choice><orig>ε</orig><reg>ὲ</reg></choice></sic><corr>καὶ</corr></choice></w> <w><hi rend="ligature">τ<choice><orig>η</orig><reg>ῆ</reg></choice></hi><supplied reason="omitted">ς</supplied></w> <w lemma="συμβία"><choice><sic>ση<supplied reason="omitted">ν</supplied>
-               <lb n="9" break="no"/>βί<hi rend="ligature">ου</hi></sic><corr>συμβίου</corr></choice></w> 
-               <lb n="10"/><w lemma="αὐτός">α<choice><orig>ὑ</orig><reg>ὐ</reg></choice>τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi></w> <persName type="attested" role="donor" ref="#Irene"><name nymRef="#Εἰρήνη" type="forename"></name>Ιρι
+               <lb n="5"/>ωρ[γι]
+               <lb n="6" break="no"/><hi rend="ligature">ου</hi></name> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <name nymRef="#Κομπότης" type="surname"><unclear>Κ</unclear>ο
+               <lb n="7" break="no"/>μπoτη</name></persName>
+              <lb n="8"/>κ<supplied reason="lost">ε</supplied> <w><hi rend="ligature">τ<choice><orig>η</orig><reg>ῆ</reg></choice></hi><supplied reason="omitted">ς</supplied></w> <w lemma="συμβία"><choice><sic>σι<supplied reason="omitted">ν</supplied>
+               <lb n="9" break="no"/>βη<hi rend="ligature">ου</hi></sic><corr>συμβίου</corr></choice></w> 
+               <lb n="10"/><w lemma="αὐτός">α<choice><orig>ὑ</orig><reg>ὐ</reg></choice>τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi></w> <persName type="attested" role="donor" ref="#Irene"><name nymRef="#Εἰρήνη" type="forename"></name>Ιρί
                     <lb n="11" break="no"/>νης</persName>
                  </ab>
             </div>
