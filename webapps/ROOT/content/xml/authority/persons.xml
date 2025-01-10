@@ -70,6 +70,16 @@
                         <idno type="PBW">http://pbw2016.kdl.kcl.ac.uk/person/Eumathios/102/</idno>
                     </person>
                     
+                    <person xml:id="GeorgiosKompotes">
+                        <persName xml:lang="en"><forename>Georgios</forename> <surname>Kompotes</surname></persName>
+                        <persName xml:lang="grc"><forename>Γεώργιος</forename> <surname>Κομπότης</surname></persName>
+                        <floruit notBefore="1201" notAfter="1300">13th century</floruit>                
+                        <note>Donor of the mural panel of Christ enthroned in the naos of Panagia, Moutoullas</note>
+                    </person>
+                    <relation active="#GeorgiosKompotes" ref="snap:husbandOf" passive="#Irene">
+                        <desc>husband of Irene</desc>
+                    </relation>
+                    
                     <person xml:id="Gephyra">
                         <persName xml:lang="en"><forename>Gephyra</forename></persName>
                         <persName xml:lang="grc">Γέφυρα</persName>
@@ -79,8 +89,6 @@
                     <relation active="#Gephyra" ref="snap:wifeOf" passive="#NikephorosIshcyrios">
                         <desc>Mother, daugter, sibling, or spouse of Nikephorus Ischyrios</desc>
                     </relation>
-                    
-                    
                     
                     <person xml:id="Germanos">
                         <persName xml:lang="en"><forename>Germanos</forename></persName>
@@ -101,6 +109,16 @@
                         <!--<idno type="wikidata"></idno>
                         <idno type="PBW">...</idno>-->
                     </person>
+                    
+                    <person xml:id="Irene">
+                        <persName xml:lang="en"><forename>Irene</forename></persName>
+                        <persName xml:lang="grc">Εἰρήνη</persName>
+                        <floruit notBefore="1201" notAfter="1300">13th century</floruit>                     
+                        <note>Donor of the mural panel of Christ enthroned in the naos of Panagia, Moutoullas</note>
+                    </person>
+                    <relation active="#Irene" ref="snap:wifeOf" passive="#GeorgiosKompotes">
+                        <desc>wife of Georgios Kompotes</desc>
+                    </relation>
                     
                     <person xml:id="Ioannis">
                         <persName xml:lang="en"><forename>Ioannis</forename></persName>
