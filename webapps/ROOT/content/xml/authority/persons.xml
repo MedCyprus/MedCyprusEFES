@@ -120,9 +120,9 @@
                         <desc>wife of Georgios Kompotes</desc>
                     </relation>
                     
-                    <person xml:id="Ioannis">
+                    <person xml:id="Ioannes">
                         <persName xml:lang="en"><forename>Ioannis</forename></persName>
-                        <persName xml:lang="grc">Ιωάννης</persName>
+                        <persName xml:lang="grc">Ἰωάννης</persName>
                         <note>founder of the monastery of Saint Nicholas the Roof at Kakopetria</note>
                         <!--<floruit notBefore="..." notAfter="...">...</floruit>
                         <occupation type="occupation">...</occupation>
