@@ -85,7 +85,10 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <listApp>
+                   <app loc="2"><rdg source="#PerdikisMyrianthefs2009">ΗΜΩΝ</rdg></app>
+                   <app loc="6"><rdg source="#PerdikisMyrianthefs2009">ΤΡΟΦ[ΗΝ]</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>O God, our God, who sent the Heavenly Bread, the food (of the whole world)</p>

@@ -82,7 +82,10 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <listApp>
+                   <app loc="3-5"><rdg source="#PerdikisMyrianthefs2009">CΥΝΔΕΔΕΜΕΝΩΝ</rdg></app>
+                   <app loc="6"><rdg source="#PerdikisMyrianthefs2009">CΑΡΚΥ[ΚΑΙC]</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>No one of those who are tied to carnal (desires and pleasures is worthy to approach, draw near, or serve You, glorious King).</p>

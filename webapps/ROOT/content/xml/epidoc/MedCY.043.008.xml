@@ -85,7 +85,9 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <listApp>
+                   <app loc="6"><rdg source="#PerdikisMyrianthefs2009">ΟΥΡΑ[ΝΟΙC]</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Ο Master, Lord our God, Who has established in heaven (the orders and hosts of angels and archangels to serve Your glory).

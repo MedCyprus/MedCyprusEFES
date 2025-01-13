@@ -82,7 +82,9 @@ Double point after Κ(υρίο)υ. Near systematic use of accents and breathings
                  </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <listApp>
+                   <app loc="2"><rdg source="#PerdikisMyrianthefs2009">Κ(ΥΡΙ)ΟΥ</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>I am the Lord’s servant. May your word to me be fulfilled.</p>
