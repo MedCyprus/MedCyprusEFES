@@ -76,8 +76,8 @@
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                
                         <note>Donor of the mural panel of Christ enthroned in the naos of Panagia, Moutoullas</note>
                     </person>
-                    <relation active="#GeorgiosKompotes" ref="snap:husbandOf" passive="#Irene">
-                        <desc>husband of Irene</desc>
+                    <relation active="#GeorgiosKompotes" ref="snap:husbandOf" passive="#Eirene">
+                        <desc>husband of Eirene</desc>
                     </relation>
                     
                     <person xml:id="Gephyra">
@@ -110,13 +110,13 @@
                         <idno type="PBW">...</idno>-->
                     </person>
                     
-                    <person xml:id="Irene">
-                        <persName xml:lang="en"><forename>Irene</forename></persName>
+                    <person xml:id="EireneKompotes">
+                        <persName xml:lang="en"><forename>Eirene</forename></persName>
                         <persName xml:lang="grc">Εἰρήνη</persName>
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                     
                         <note>Donor of the mural panel of Christ enthroned in the naos of Panagia, Moutoullas</note>
                     </person>
-                    <relation active="#Irene" ref="snap:wifeOf" passive="#GeorgiosKompotes">
+                    <relation active="#Eirene" ref="snap:wifeOf" passive="#GeorgiosKompotes">
                         <desc>wife of Georgios Kompotes</desc>
                     </relation>
                     
