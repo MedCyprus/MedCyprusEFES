@@ -80,20 +80,26 @@
                <lb n="5"/>ωρ[γι]
                <lb n="6" break="no"/><hi rend="ligature">ου</hi></name> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <name nymRef="#Κομπότης" type="surname"><unclear>Κ</unclear>ο
                <lb n="7" break="no"/>μπoτη</name></persName>
-              <lb n="8"/>κ<supplied reason="lost">ε</supplied> <w><hi rend="ligature">τ<choice><orig>η</orig><reg>ῆ</reg></choice></hi><supplied reason="omitted">ς</supplied></w> <w lemma="συμβία"><choice><sic>σι<supplied reason="omitted">ν</supplied>
+              <lb n="8"/>κ<supplied reason="lost">ὲ</supplied> <w><hi rend="ligature">τ<choice><orig>η</orig><reg>ῆ</reg></choice></hi><supplied reason="omitted">ς</supplied></w> <w lemma="συμβία"><choice><sic>σι<supplied reason="omitted">ν</supplied>
                <lb n="9" break="no"/>βη<hi rend="ligature">ου</hi></sic><corr>συμβίου</corr></choice></w> 
-               <lb n="10"/><w lemma="αὐτός">α<choice><orig>ὑ</orig><reg>ὐ</reg></choice>τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi></w> <persName type="attested" role="donor" ref="#Irene"><name nymRef="#Εἰρήνη" type="forename"></name>Ιρί
-                    <lb n="11" break="no"/>νης</persName>
+               <lb n="10"/><w lemma="αὐτός">α<choice><orig>υ</orig><reg>ὐ</reg></choice>τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi></w> <persName type="attested" role="donor" ref="#Irene"><name nymRef="#Εἰρήνη" type="forename"></name><choice><sic><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ρί
+                    <lb n="11" break="no"/>νης</sic><corr>Εἰρήνης</corr></choice></persName>
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <listApp>
+                   <app loc="4"><rdg source="#PerdikisMyrianthefs2009">Θ[Ε]ΟΥ</rdg></app>
+                   <app loc="4-6"><rdg source="#PerdikisMyrianthefs2009">ΓΕ|ΩΡΓΙ|ΟΥ</rdg></app>
+                   <app loc="6-7"><rdg source="#PerdikisMyrianthefs2009">KO|ΜΠΟΤΗ</rdg></app>
+                   <app loc="8"><rdg source="#PerdikisMyrianthefs2009">Κ[ΑΙ]</rdg></app>
+                   <app loc="8-9"><rdg source="#PerdikisMyrianthefs2009">ΤΗC CΙ|BHOY</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Invocation of the servant of the God George Kompotes and his wife Irene</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
