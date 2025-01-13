@@ -73,7 +73,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-            <lb n="1"/><w lemma="Βαϊοφόρος"><choice><sic>Βα<supplied reason="lost">ϊ</supplied>οφώρος</sic><corr>Βαϊοφόρος</corr></choice></w>
+            <lb n="1"/><w lemma="Βαϊοφόρος"><choice><sic>Βα<supplied reason="lost">ϊ</supplied>οφώ
+            <lb n="2" break="no"/>ρος</sic><corr>Βαϊοφόρος</corr></choice></w>
                  </ab>
             </div>
             <div type="apparatus">
