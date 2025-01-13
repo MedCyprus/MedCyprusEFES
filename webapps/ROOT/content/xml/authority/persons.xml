@@ -76,7 +76,7 @@
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                
                         <note>Donor of the mural panel of Christ enthroned in the naos of Panagia, Moutoullas</note>
                     </person>
-                    <relation active="#GeorgiosKompotes" ref="snap:husbandOf" passive="#Eirene">
+                    <relation active="#GeorgiosKompotes" ref="snap:husbandOf" passive="#EireneKompotes">
                         <desc>husband of Eirene</desc>
                     </relation>
                     
@@ -116,7 +116,7 @@
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                     
                         <note>Donor of the mural panel of Christ enthroned in the naos of Panagia, Moutoullas</note>
                     </person>
-                    <relation active="#Eirene" ref="snap:wifeOf" passive="#GeorgiosKompotes">
+                    <relation active="#EireneKompotes" ref="snap:wifeOf" passive="#GeorgiosKompotes">
                         <desc>wife of Georgios Kompotes</desc>
                     </relation>
                     
