@@ -220,6 +220,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q193507</idno>                   
                 </person>
                 
+                <person xml:id="Cyril">
+                    <persName xml:lang="grc">Κύριλλος</persName>
+                    <persName xml:lang="en">Cyril</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q351026</idno>                   
+                </person>
+                
                 <person xml:id="Damian">
                     <persName xml:lang="grc">Δαμιανός</persName>
                     <persName xml:lang="en">Damian</persName>

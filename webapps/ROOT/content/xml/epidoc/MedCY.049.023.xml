@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Cyril</title>
                 <author xml:id="tp">Theocharis Petrou</author>
+                <author xml:id="ds">Deniz Sever Georgousakis</author>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -27,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Badly damaged.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, south recess' soffit, west side</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -37,7 +38,7 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3,5-4</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Final sigma ending in a horizontal wavy line. Accents and breathings non systematic. Letter height: <height unit="cm">3,5-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -75,7 +76,20 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                  <lb n="1"/><unclear>Ὁ</unclear>   
+                  <lb n="2"/><persName type="sacred" key="Cyril"><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἅ</reg></choice> 
+                  <lb n="3" break="no"/>γι 
+                  <lb n="4" break="no"/>ο                  
+                  <lb n="5" break="no"/>ς</w>
+                  <cb n="b"/>
+                  <lb n="1"/><name nymRef="#Κύριλλος"><supplied reason="lost">Κύ</supplied>
+                  <lb n="2" break="no"/>ρ
+                  <lb n="3" break="no"/>ι
+                  <lb n="4" break="no"/>λλ
+                  <lb n="5" break="no"/>ο
+                  <lb n="6" break="no"/>ς</name></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +99,7 @@
                 <p>Saint Cyril</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

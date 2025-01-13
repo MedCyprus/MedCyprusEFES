@@ -38,7 +38,7 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">2,5-4</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Final sigma ending with horizontal way line. ΜΗ in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">2,5-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -76,18 +76,18 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <cb n="a"/>
-                     <lb n="1"/>Ὁ <persName type="sacred" key="LeoPopeOfRome"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w> 
+                     <lb n="1"/>Ὁ <persName type="sacred" key="Leo"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w> 
                     <lb n="2"/><name nymRef="Λέων">Λέ
-                     <lb n="3" break="no"/>ων
+                     <lb n="3" break="no"/>ων</name>
                     <cb n="b"/>
-                     <lb n="1"/><choice><orig>α</orig><reg>ά</reg></choice>
+                     <lb n="1"/><addName type="epithet" key="PopeOfRome"><w lemma="πάπας Ῥώμης"><choice><sic><choice><orig>α</orig><reg>ά</reg></choice>
                      <lb n="2" break="no"/>π
                      <lb n="3" break="no"/>π
                      <lb n="4" break="no"/><choice><orig>α</orig><reg>ά</reg></choice>
                      <lb n="5" break="no"/>ς
                     <lb n="6" break="no"/><choice><orig>P</orig><reg>Ῥ</reg></choice>
                     <lb n="7" break="no"/><choice><orig>ω</orig><reg>ώ</reg></choice>
-                    <lb n="8" break="no"/><hi rend="ligature">μη</hi>ς</name></persName>
+                    <lb n="8" break="no"/><hi rend="ligature">μη</hi>ς</sic><corr>Πάπας Ῥώμης</corr></choice></w></addName></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -97,7 +97,7 @@
                 <p>Saint Leo, Pope of Rome</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
