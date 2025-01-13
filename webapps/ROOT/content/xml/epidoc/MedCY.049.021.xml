@@ -38,7 +38,7 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3,5-4</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Accents and breathings non systematic. Letter height: <height unit="cm">3,5-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -76,15 +76,15 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <cb n="a"/>
-                  <lb n="1"/>Ὁ <persName type="sacred" key="Ἡρακλείδιος"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w></persName> 
-                   <lb n="2" break="no"/><supplied reason="lost">Ἡρα</supplied>
+                  <lb n="1"/>Ὁ <persName type="sacred" key="Ἡρακλείδιος"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
+                   <lb n="2"/><name nymRef="#Ἡρακλείδιος"><choice><sic><supplied reason="lost">Ἡρα</supplied>
                   <cb n="b"/>
-                  <lb n="1"/>κλ
-                  <lb n="2"/>ή
-                  <lb n="3"/>δ
-                  <lb n="4"/>ει
-                  <lb n="5"/>ο
-                  <lb n="6"/>ς
+                  <lb n="1"/><supplied reason="lost">κ</supplied>λ
+                  <lb n="2" break="no"/>ή
+                  <lb n="3" break="no"/>δ
+                  <lb n="4" break="no"/>ε<supplied reason="lost">ι</supplied>
+                  <lb n="5" break="no"/>ο
+                  <lb n="6" break="no"/>ς</sic><corr>Ἡρακλείδιος</corr></choice></name></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -94,7 +94,7 @@
                 <p>Saint [Herakl]eidios</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
