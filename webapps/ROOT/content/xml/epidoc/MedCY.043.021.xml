@@ -76,16 +76,15 @@
                 <ab>
                    <lb n="1"/><g ref="#cross">+</g><w lemma="δέησις"><expan><abbr rend="supraline">Δ<choice><orig>ὲ</orig><reg>έ</reg></choice></abbr><ex>ησις</ex></expan></w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice> </hi><w lemma="δοῦλος">δ<hi rend="ligature">ού</hi>λ<hi rend="ligature">ου</hi></w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></w></persName> <persName type="attested" role="founder" ref="#IoannesGerakiotes"><name nymRef="#Ἰωάννης" type="forename"></name><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννου</ex></expan>:
                    <lb n="2"/> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <name nymRef="#Μουτουλλᾶς" type="surname">Μουτ<hi rend="ligature"><unclear>ο</unclear><unclear>υ</unclear></hi><supplied reason="lost">λ</supplied>λ<choice><orig>α</orig><reg>ᾶ</reg></choice> </name>τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice> </hi><w lemma="κτήτωρ"><choice><sic>κτίτωρος</sic><corr>κτήτορος</corr></choice></w></persName>
-                   <lb n="3"/>κα<choice><orig>ι</orig><reg>ὶ</reg></choice> <w><choice><sic><hi rend="ligature">τ<choice><orig>η</orig><reg>ῆ</reg></choice></hi><supplied reason="omitted">ς</supplied></sic><corr>τῆς</corr></choice></w> <w lemma="συμβία"><choice><sic>σ<hi rend="ligature">ην</hi>βί<hi rend="ligature">ου</hi></sic><corr>συμβίου</corr></choice></w> <w lemma="αὐτός">α<choice><orig>ὑ</orig><reg>ὐ</reg></choice>τ<hi rend="ligature">ο<choice><orig>ὺ</orig><reg>ῦ</reg></choice></hi></w>:
+                   <lb n="3"/>κα<choice><orig>ι</orig><reg>ὶ</reg></choice> <w><hi rend="ligature">τ<choice><orig>η</orig><reg>ῆ</reg></choice></hi><supplied reason="omitted">ς</supplied></w> <w lemma="συμβία"><choice><sic>σ<hi rend="ligature">ην</hi>βί<hi rend="ligature">ου</hi></sic><corr>συμβίου</corr></choice></w> <w lemma="αὐτός">α<choice><orig>ὑ</orig><reg>ὐ</reg></choice>τ<hi rend="ligature">ο<choice><orig>ὺ</orig><reg>ῦ</reg></choice></hi></w>:
                    <lb n="4"/><persName type="attested" role="founder" ref="#Eirene"><name nymRef="#Εἰρήνη" type="forename"><choice><sic><choice><orig>Ϊ</orig><reg>Ἰ</reg></choice>ρίνης</sic><corr>Εἰρήνης</corr></choice></name></persName> 
                 </ab>
             </div>
             <div type="apparatus">
                 <listApp>
-                    <app loc="1"><rdg source="#Soteriou1935">Δέησις</rdg><rdg source="#Stylianou1960">ΔΕ(ΗΣΙΣ)</rdg><rdg source="#Papageorgiou1975">Δέ(ησις)</rdg><rdg source="#Mouriki1984"></rdg><rdg source="#PerdikisMyrianthefs2009">ΔΕ[ΗΣΗΣ]</rdg><rdg source="#VisCult">δὲ(ησις)</rdg><rdg source="#Soteriou1935">Θεοῦ</rdg><rdg source="#PerdikisMyrianthefs2009">Θ(Ε)ΟΥ</rdg><rdg source="#Soteriou1935">Ἰωάννου</rdg></app>
-                
-                    <app loc="2"><rdg source="#Soteriou1935">Μουτουλλᾶ</rdg><rdg source="#Papageorgiou1975"></rdg><rdg source="#PerdikisMyrianthefs2009">ΜΟΥΤΟΥΛΛΑ</rdg><rdg source="#VisCult">Μουτου(λ)λᾶ</rdg></app>
-                    <app loc="3"><rdg source="#Soteriou1935">τῆς</rdg><rdg source="#Stylianou1960">ΤΗΣ</rdg><rdg source="#Papageorgiou1975">της</rdg><rdg source="#VisCult">τῆ(ς)</rdg><rdg source="#Soteriou1935">συμβίου</rdg><rdg source="#Stylianou1960"><supplied reason="omitted">Σ</supplied>ΗΝΒΙΟΥ</rdg><rdg source="#Mouriki1984">σινβίου</rdg><rdg source="#PerdikisMyrianthefs2009">ΣΙΝΒΙΟΥ</rdg><rdg source="#VisCult">συμβίου</rdg></app>
+                    <app loc="1"><rdg source="#Soteriou1935">Δέησις</rdg><rdg source="#PerdikisMyrianthefs2009">ΔΕ[ΗΣΗΣ]</rdg><rdg source="#Soteriou1935">Θεοῦ</rdg><rdg source="#PerdikisMyrianthefs2009">Θ(Ε)ΟΥ</rdg><rdg source="#Soteriou1935">Ἰωάννου</rdg></app>
+                    <app loc="2"><rdg source="#Soteriou1935">Μουτουλλᾶ</rdg><rdg source="#Papageorgiou1975"></rdg><rdg source="#Stylianou1960">ΜΟΥΤ[ΟΥΛ]ΛΑ</rdg><rdg source="#Mouriki1984">Μουτου[λ]<unclear>λ</unclear>ά</rdg><rdg source="#PerdikisMyrianthefs2009">ΜΟΥΤΟΥΛΛΑ</rdg><rdg source="#VisCult">Μουτου(λ)λᾶ</rdg></app>
+                    <app loc="3"><rdg source="#Soteriou1935">τῆς</rdg><rdg source="#Stylianou1960">ΤΗΣ</rdg><rdg source="#Papageorgiou1975">της</rdg><rdg source="#VisCult">τῆ(ς)</rdg><rdg source="#Soteriou1935">συμβίου</rdg><rdg source="#Stylianou1960"><supplied reason="omitted">Σ</supplied>ΗΝΒΙΟΥ</rdg><rdg source="#Papageorgiou1975">σηνβίου</rdg><rdg source="#Mouriki1984">σινβίου</rdg><rdg source="#PerdikisMyrianthefs2009">CΙΝΒΙΟΥ</rdg><rdg source="#VisCult">συμβίου</rdg></app>
                     <app loc="4"><rdg source="#VisCult">Εἰρήνης</rdg></app>
                 </listApp>
             </div>
@@ -97,7 +96,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                 <bibl><ptr target="#Soteriou1935"/>,<citedRange> pl. 90</citedRange></bibl>
+                 <bibl><ptr target="#Soteriou1935"/>,<citedRange> pl. 90 (transcription in normalized Greek, without critical signs)</citedRange></bibl>
                 <bibl><ptr target="#Stylianou1960"/>,<citedRange>103</citedRange></bibl>
                 <bibl><ptr target="#Papageorgiou1975"/>,<citedRange> 50-51</citedRange></bibl>
                 <bibl><ptr target="#Mouriki1984"/>,<citedRange> 172-73</citedRange></bibl>
