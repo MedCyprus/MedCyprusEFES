@@ -38,7 +38,7 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3,5-4</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Final sigma ending in a horizontal wavy line. Accents and breathings non systematic. Letter height: <height unit="cm">3,5-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -82,13 +82,14 @@
                   <lb n="2"/><persName type="sacred" key="Cyril"><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἅ</reg></choice> 
                   <lb n="3" break="no"/>γι 
                   <lb n="4" break="no"/>ο                  
-                  <lb n="5" break="no"/>ς
+                  <lb n="5" break="no"/>ς</w>
                   <cb n="b"/>
-                  <lb n="1"/>
-                  <lb n="2" break="no"/>
-                  <lb n="3" break="no"/>
-                  <lb n="4" break="no"/>
-                  <lb n="5" break="no"/></w></persName>
+                  <lb n="1"/><name nymRef="#Κύριλλος"><supplied reason="lost">Κύ</supplied>
+                  <lb n="2" break="no"/>ρ
+                  <lb n="3" break="no"/>ι
+                  <lb n="4" break="no"/>λλ
+                  <lb n="5" break="no"/>ο
+                  <lb n="6" break="no"/>ς</name></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -98,7 +99,7 @@
                 <p>Saint Cyril</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
