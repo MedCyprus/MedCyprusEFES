@@ -85,7 +85,10 @@
                  </ab>
             </div>
             <div type="apparatus">
-                <p>n/a</p>
+                <listApp>
+                    <app loc="2"><rdg source="#PerdikisMyrianthefs2009">Θ(Ε)ΟΥ</rdg></app>
+                    <app loc="6"><rdg source="#PerdikisMyrianthefs2009"> Ε(ΛΕΝΗ)-Ε(ΥΡΕΝ)-Ε(ΛΕΟΥC)-Ε(ΡΕΙΣΜΑ) ή Ε(ΥΡΗΜΑ)-Ε(ΥΡΕΝ)-Ε(ΥCΕΒΗC)-Ε(ΛΕΝΗ)</rdg></app>
+                </listApp>
             </div>
             <div type="translation">
                 <p>Jesus Christ, Son of God, conquers. The light of Christ shines for all. The discovery (of the cross) was given from God to Helena.</p>

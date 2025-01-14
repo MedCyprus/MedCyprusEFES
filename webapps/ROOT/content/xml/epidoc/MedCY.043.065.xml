@@ -86,7 +86,9 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <listApp>
+                   <app loc="b.2"><rdg source="#PerdikisMyrianthefs2009">ΚΑΠΠΑΔΟC</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Saint George from Cappadocia</p>

@@ -83,7 +83,9 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <listApp>
+                   <app loc="6"><rdg source="#PerdikisMyrianthefs2009">ΖΩΜΑ</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Brothers, glory and honor and peace to every man who works good.</p>

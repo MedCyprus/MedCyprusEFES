@@ -81,7 +81,9 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <listApp>
+                   <app loc="1"><rdg source="#PerdikisMyrianthefs2009">ΜΗΤ(ΗΡ) Θ(Ε)ΟΥ</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Mother of God, Eleousa</p>
