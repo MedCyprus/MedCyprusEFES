@@ -27,8 +27,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#nave">Nave, soffit of arch connecting western pier to the west wall, west face</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
+                                    <rs type="placement-building" ref="#nave">Nave, south arcade, soffit of arch connecting western pier to the west wall, west face</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>...</p>
+                            <p><rs type="iconography">n/a</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -62,11 +62,13 @@
                     <term type="textType" ref="text_types.xml#doc1">Donor inscription</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publication</creation>
+            <creation>transcription (Th. Petrou), publication, DOP photographic archive</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+         <graphic rend="primary" url="040-001-01.JPG"><desc>Donor inscription (© Harvard University, Dumbarton Oaks Research Library, MSBZ004_L70_1647_EH)</desc></graphic>
+         <graphic url="040-001-02.JPG"><desc>Donor inscription</desc></graphic>
+         <graphic url="040-001-03.JPG"><desc>Donor inscription, general view </desc></graphic>        
     </facsimile>
     <text>
         <body>
