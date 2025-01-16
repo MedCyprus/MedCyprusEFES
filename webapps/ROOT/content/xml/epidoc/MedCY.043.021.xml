@@ -82,9 +82,9 @@
             </div>
             <div type="apparatus">
                 <listApp>
-                    <app loc="1"><rdg source="#Soteriou1935">Δέησις</rdg><rdg source="#PerdikisMyrianthefs2009">ΔΕ[ΗΣΗΣ]</rdg><rdg source="#Soteriou1935">Θεοῦ</rdg><rdg source="#PerdikisMyrianthefs2009">Θ(Ε)ΟΥ</rdg><rdg source="#Soteriou1935">Ἰωάννου</rdg></app>
-                    <app loc="2"><rdg source="#Soteriou1935">Μουτουλλᾶ</rdg><rdg source="#Papageorgiou1975"></rdg><rdg source="#Stylianou1960">ΜΟΥΤ[ΟΥΛ]ΛΑ</rdg><rdg source="#Mouriki1984">Μουτου[λ]<unclear>λ</unclear>ά</rdg><rdg source="#PerdikisMyrianthefs2009">ΜΟΥΤΟΥΛΛΑ</rdg><rdg source="#VisCult">Μουτου(λ)λᾶ</rdg></app>
-                    <app loc="3"><rdg source="#Soteriou1935">τῆς</rdg><rdg source="#Stylianou1960">ΤΗΣ</rdg><rdg source="#Papageorgiou1975">της</rdg><rdg source="#VisCult">τῆ(ς)</rdg><rdg source="#Soteriou1935">συμβίου</rdg><rdg source="#Stylianou1960"><supplied reason="omitted">Σ</supplied>ΗΝΒΙΟΥ</rdg><rdg source="#Papageorgiou1975">σηνβίου</rdg><rdg source="#Mouriki1984">σινβίου</rdg><rdg source="#PerdikisMyrianthefs2009">CΙΝΒΙΟΥ</rdg><rdg source="#VisCult">συμβίου</rdg></app>
+                    <app loc="1"><rdg source="#Soteriou1935">Δέησις</rdg><rdg source="#Soteriou1935">Θεοῦ</rdg><rdg source="#PerdikisMyrianthefs2009">Θ(Ε)ΟΥ</rdg><rdg source="#Soteriou1935">Ἰωάννου</rdg></app>
+                    <app loc="2"><rdg source="#Soteriou1935">Μουτουλλᾶ</rdg><rdg source="#Papageorgiou1975"></rdg><rdg source="#Stylianou1960">ΜΟΥΤ[ΟΥΛ]ΛΑ</rdg><rdg source="#Papageorgiou1965a">Μ[ΟΥΤΟΥΛΛΑ]</rdg><rdg source="#Mouriki1984">Μουτου[λ]<unclear>λ</unclear>ά</rdg><rdg source="#PerdikisMyrianthefs2009">ΜΟΥΤΟΥΛΛΑ</rdg><rdg source="#Papageorgiou2003">Μουτου(λ)λᾶ</rdg><rdg source="#VisCult"></rdg></app>
+                    <app loc="3"><rdg source="#Soteriou1935">τῆς συμβίου</rdg><rdg source="#Stylianou1960">ΤΗΣ <supplied reason="omitted">Σ</supplied>ΗΝΒΙΟΥ</rdg><rdg source="#Papageorgiou1965a">ΤΙC CΙΝΒΙΟΥ</rdg><rdg source="#Papageorgiou1975">της σηνβίου</rdg><rdg source="#Mouriki1984"> τη σινβίου</rdg><rdg source="#Papageorgiou2003">τῆς σινβίου</rdg><rdg source="#PerdikisMyrianthefs2009">ΤΗ CΙΝΒΙΟΥ</rdg><rdg source="#VisCult">τῆ(ς) συμβίου</rdg></app>
                     <app loc="4"><rdg source="#VisCult">Εἰρήνης</rdg></app>
                 </listApp>
             </div>
@@ -97,9 +97,11 @@
             <div type="bibliography">
                  <listBibl>
                  <bibl><ptr target="#Soteriou1935"/>,<citedRange> pl. 90 (transcription in normalized Greek, without critical signs)</citedRange></bibl>
-                <bibl><ptr target="#Stylianou1960"/>,<citedRange>103</citedRange></bibl>
+                <bibl><ptr target="#Stylianou1960"/>,<citedRange> 103</citedRange></bibl>
+                <bibl><ptr target="#Papageorgiou1965a"/>,<citedRange> 28</citedRange></bibl>
                 <bibl><ptr target="#Papageorgiou1975"/>,<citedRange> 50-51</citedRange></bibl>
                 <bibl><ptr target="#Mouriki1984"/>,<citedRange> 172-73</citedRange></bibl>
+                <bibl><ptr target="#Papageorgiou2003"/>,<citedRange> 113</citedRange></bibl>
                 <bibl><ptr target="#PerdikisMyrianthefs2009"/>,<citedRange> 49-51</citedRange></bibl>
                 <bibl><author>Carr</author> in <ptr target="#VisCult"/><citedRange> 2, 1485-86</citedRange></bibl>
                 </listBibl>
