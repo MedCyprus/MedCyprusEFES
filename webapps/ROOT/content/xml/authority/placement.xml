@@ -40,6 +40,9 @@
                 <item xml:id="aisle">
                     <term>Aisle</term><!--for basilicas-->
                 </item>  
+                <item xml:id="arcade">
+                    <term>Arcade</term>
+                </item>
                 <item xml:id="cell">
                     <term>Cell</term>
                 </item>
