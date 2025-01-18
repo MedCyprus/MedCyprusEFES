@@ -88,7 +88,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl><ptr target="#MegawHawkins1977"/>,<citedRange> 147-49</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
