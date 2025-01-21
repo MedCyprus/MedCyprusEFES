@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint George</title>
+                <title>Saint George (earliest level)</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -33,7 +33,7 @@
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>East of Saint George's later panel.</layout>
+                                <layout>East of Saint George's later panel</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -62,13 +62,13 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publication, DOP photographic archive</creation>
+            <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
-    <!--<facsimile>
-         <graphic rend="primary" url="040-003-01.jpg"><desc>Archangel Gabriel, inscription (© Harvard University, Dumbarton Oaks Research Library, MSBZ004_L70_1588_EH)</desc></graphic>
-         <graphic url="040-003-02.jpg"><desc>Archangel Gabriel, general view (© Harvard University, Dumbarton Oaks Research Library, MSBZ004_L70_1588_EH)</desc></graphic>     
-    </facsimile>-->
+    <facsimile>
+         <graphic rend="primary" url="040-003-01.JPG"><desc>Saint George (earlier panel), inscription</desc></graphic>
+         <graphic url="040-003-02.JPG"><desc>Saint George (earlier panel), general view</desc></graphic>     
+    </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
@@ -80,7 +80,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Saint George</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
