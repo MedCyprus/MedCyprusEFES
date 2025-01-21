@@ -123,7 +123,7 @@
                     <person xml:id="Ioannes">
                         <persName xml:lang="en"><forename>Ioannes</forename></persName>
                         <persName xml:lang="grc">Ἰωάννης</persName>
-                        <note>founder of the monastery of Saint Nicholas the Roof at Kakopetria</note>
+                        <note>donor of the monastery of Saint Nicholas the Roof at Kakopetria</note>
                         <!--<floruit notBefore="..." notAfter="...">...</floruit>
                         <occupation type="occupation">...</occupation>
                         <idno type="wikidata"></idno>
