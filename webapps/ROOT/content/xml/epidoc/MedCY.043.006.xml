@@ -81,7 +81,7 @@
                     <lb n="2"/><choice><orig>ο</orig><reg>ὁ</reg></choice> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></w></persName> <w lemma="ἐγώ"><expan><abbr rend="supraline"><hi rend="ligature">ἡμ</hi>ῶ</abbr><ex>ν</ex></expan></w>
                     <lb n="3"/>ὁ <w><choice><sic>τὼν</sic><corr>τὸν</corr></choice></w> <w lemma="οὐράνιος"><choice><choice><sic>ο<choice><orig>ὑ</orig><reg>ὐ</reg></choice><lb n="4" break="no"/>ράνιων</sic><corr>οὐ<lb n="4" break="no"/>ράνιον</corr></choice></choice></w>
                     <lb n="5"/><w lemma="ἄρτος"><choice><sic><choice><orig>ά</orig><reg>ἄ</reg></choice>ρτων</sic><corr>ἄρτον</corr></choice></w> <hi rend="ligature">τ<choice><orig>η</orig><reg>ὴ</reg></choice></hi>ν 
-                    <lb n="6"/><w lemma="τροφή"><expan><abbr rend="supraline">τροφ</abbr><ex>ήν</ex></expan>.</w>
+                    <lb n="6"/><w lemma="τροφή"><expan><abbr rend="supraline">τροφ<supplied reason="lost">ή</supplied></abbr><ex>ν</ex>.</expan></w>
                  </ab>
             </div>
             <div type="apparatus">
