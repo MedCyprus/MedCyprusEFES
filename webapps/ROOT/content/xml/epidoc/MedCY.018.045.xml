@@ -40,10 +40,15 @@
                             <handNote>PENDING. White letters against green background. The inscription is written entirely in majuscule. Lines are ruled top and bottom. Accents and breathings non systematic. The inscription, except the beginning of the first two lines, is clear, legible and consists of bold letters. However, the thickness of the letters in some places varies, while all eight lines have a slight slope to the upper right. Throughout the inscription there are ligatures of the letters ΟΥ, ΤΗ, ΓΗ, ΑΝ, ΝΤΗ, ΝΗ, ΜΑ, ΝΑ, ΗΝΑ, ΤΑ. The ligature of the letters OY varies and is presented with four different ways. Good preservation condition. Letter height:<height unit="cm">3</height>
                             </handNote>
                         </handDesc>
-                         <!--<decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#John_MedCY018">John</rs>
-                            <rs type="iconography" ref="iconography.xml#wife_MedCY018"></rs></p>
-                            </decoDesc>-->
+                        <decoDesc>
+                            <p><rs type="iconography" ref="iconography.xml#Ioannes_1">Ioannes</rs>
+                               <rs type="iconography" ref="iconography.xml#Wife_Ioannes_1">wife of Ioannes</rs>
+                                <rs type="iconography" ref="#individual_figures"></rs>
+                                <rs type="iconography" ref="#individual_figure_categories">donor</rs>
+                                <rs type="iconography" ref="#gender">male</rs>
+                                <rs type="iconography" ref="#gender">female</rs>                           
+                            </p>
+                        </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
