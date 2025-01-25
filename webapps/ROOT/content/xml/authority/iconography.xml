@@ -182,8 +182,8 @@
                 <item xml:id="Anempodistos"> 
                     <term xml:lang="en">Anempodistos</term>
                 </item>
-                <item xml:id="Angel"> 
-                    <term xml:lang="en">Angel</term>
+                <item xml:id="angel"> 
+                    <term xml:lang="en">angel</term>
                 </item>                
                 <item xml:id="Anne"> 
                     <term xml:lang="en">Anne</term>
@@ -485,8 +485,8 @@
                 <item xml:id="Michael"> 
                         <term xml:lang="en">Archangel Michael</term>
                 </item>
-                <item xml:id="Midwife"> 
-                    <term xml:lang="en">Midwife</term>
+                <item xml:id="midwife"> 
+                    <term xml:lang="en">midwife</term>
                 </item>
                 <item xml:id="Moses"> 
                     <term xml:lang="en">Moses</term>
@@ -698,7 +698,7 @@
                 <head>Individual Figure Categories</head>    
                 
                 <item xml:id="angelicpower">
-                    <term xml:lang="en">Angelic power</term>
+                    <term xml:lang="en">angelic power</term>
                 </item>
                 <item xml:id="apostle">
                     <term xml:lang="en">apostle</term>
@@ -782,20 +782,20 @@
           <list type="structures_objects_symbols">
                 <head>Structures - Objects - Symbols</head>
                 
-              <item xml:id="CrossProcessional"> 
+              <item xml:id="crossprocessional"> 
                   <term xml:lang="en">cross, processional</term>
                     <!--Do we want to distinguish type of crosses? E.g., Patriarchal, Latin, processional etc.?-->
               </item>
-              <item xml:id="CrossTablet"> 
+              <item xml:id="crosstablet"> 
                   <term xml:lang="en">tablet</term>
               </item>
-              <item xml:id="Keramidion"> 
-                  <term xml:lang="en">Keramidion</term>
+              <item xml:id="keramidion"> 
+                  <term xml:lang="en">keramidion</term>
               </item>
-              <item xml:id="Mandylion"> 
-                  <term xml:lang="en">Mandylion</term>
+              <item xml:id="mandylion"> 
+                  <term xml:lang="en">mandylion</term>
               </item>
-              <item xml:id="Sphere"> 
+              <item xml:id="sphere"> 
                   <term xml:lang="en">sphere</term>
               </item>
           </list>
