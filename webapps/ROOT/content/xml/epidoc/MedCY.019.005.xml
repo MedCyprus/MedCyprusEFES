@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, northeastern pilaster, lower register, east face</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, northeast pilaster, east face, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -41,7 +41,11 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#unidentified">Prelate, unidentified</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#unidentified_figure">Prelate, unidentified</rs>
+                                <rs type="iconography" ref="#individual_figures"></rs>
+                                <rs type="iconography" ref="#individual_figure_categories">prelate</rs>
+                                <rs type="iconography" ref="#gender">male</rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
