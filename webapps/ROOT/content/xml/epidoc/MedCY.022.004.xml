@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#dome">Dome, middle register, northeastern quarter, first figure on the east</rs>
+                                    <rs type="placement-building" ref="#dome">Dome, lower register, northeastern quarter, first figure on the east</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>PENDING
                             </handNote>
                         </handDesc>
                          <decoDesc>
