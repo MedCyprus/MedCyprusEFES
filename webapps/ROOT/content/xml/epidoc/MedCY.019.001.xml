@@ -41,7 +41,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#BirthVirgin">Birth of the Virgin</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#BirthVirgin">Birth of the Virgin</rs>
+                                <rs type="iconography" ref="#scene"></rs>
+                                <rs type="iconography" ref="#scenecategories">mariological</rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
