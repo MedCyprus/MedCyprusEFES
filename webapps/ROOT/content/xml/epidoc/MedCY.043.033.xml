@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nativity, Angel addresses the shepherd</title>
+                <title>Nativity, angel addresses the shepherd</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -42,7 +42,7 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="iconography.xml#Nativity">Nativity</rs>
-               <rs type="iconography" ref="iconography.xml#Angel">Angel addresses the shepherd</rs></p>
+               <rs type="iconography" ref="iconography.xml#Angel">angel addresses the shepherd</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
