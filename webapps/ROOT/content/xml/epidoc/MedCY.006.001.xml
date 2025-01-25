@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Male saint, unidentified</title>
+                <title>Military saint, unidentified</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -41,7 +41,8 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#George">George(?)</rs>
+                            <p><rs type="iconography" ref="#unidentified_figure">Military saint, unidentified, possibly St George</rs>
+                                <rs type="iconography" ref="#George">George</rs>
                                 <rs type="iconography" ref="#individual_figures"></rs>                                  
                                 <rs type="iconography" ref="#dressmilitary"></rs>
                                 <rs type="iconography" ref="#martyr"></rs>
