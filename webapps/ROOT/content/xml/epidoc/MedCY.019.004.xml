@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, northwest recess, eastern part of the wall, top-middle</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, northwest recess, tympanum, east, above</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -41,7 +41,12 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#FortyMartyrs_martyrdom">Martyrdom of the Forty Martyrs of Sebaste, Christ</rs></p>
+                            <p><!--<rs type="iconography" ref="iconography.xml#FortyMartyrs_martyrdom">Martyrdom of the Forty Martyrs of Sebaste</rs>
+                                    <rs type="iconography" ref="iconography.xml#Christ">Christ</rs>
+                                    <rs type="iconography" ref="#scene"></rs>
+                                    <rs type="iconography" ref="#scenecategories">hagiographic</rs>
+                                    <rs type="iconography" ref="#individual_figures"></rs>-->
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
