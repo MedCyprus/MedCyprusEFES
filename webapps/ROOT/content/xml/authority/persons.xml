@@ -250,6 +250,16 @@
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q108041020</idno>
                        </person>
                     
+                    <!--<person xml:id="Wife_Ioannes_1">
+                        <persName xml:lang="en"><forename>unknown</forename></persName>
+                        <persName xml:lang="grc">unknown</persName>
+                        <note>wife of Ioannes,Kakopetria, Saint Nicholas of the Roof</note> How do we establish links between the two?
+                        <floruit notBefore="..." notAfter="...">...</floruit>
+                        <occupation type="occupation">...</occupation>
+                        <idno type="wikidata"></idno>
+                        <idno type="PBW">...</idno>
+                    </person>-->
+                    
                 </listPerson>
             </div>
         </body>
