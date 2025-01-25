@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Moses' poem</title>
+                <title>Song of Moses</title>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -68,14 +68,14 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="049-027-01.JPG"><desc>Moses' poem, inscription</desc></graphic>
-        <graphic url="049-027-02.JPG"><desc>Moses' poem, incription detail</desc></graphic>
-        <graphic url="049-027-03.JPG"><desc>Moses' poem, incription detail</desc></graphic>
-        <graphic url="049-027-04.JPG"><desc>Moses' poem, inscription detail</desc></graphic>
-        <graphic url="049-027-05.JPG"><desc>Moses' poem, inscription detail</desc></graphic>
-        <graphic url="049-027-06.JPG"><desc>Moses' poem, inscription detail</desc></graphic>
-        <graphic url="049-027-07.JPG"><desc>Moses' poem, inscription detail</desc></graphic>
-        <graphic url="049-027-08.JPG"><desc>Moses' poem, inscription detail</desc></graphic>
+        <graphic rend="primary" url="049-027-01.JPG"><desc>Song of Moses, inscription</desc></graphic>
+        <graphic url="049-027-02.JPG"><desc>Song of Moses, incription detail</desc></graphic>
+        <graphic url="049-027-03.JPG"><desc>Song of Moses, incription detail</desc></graphic>
+        <graphic url="049-027-04.JPG"><desc>Song of Moses, inscription detail</desc></graphic>
+        <graphic url="049-027-05.JPG"><desc>Song of Moses, inscription detail</desc></graphic>
+        <graphic url="049-027-06.JPG"><desc>Song of Moses, inscription detail</desc></graphic>
+        <graphic url="049-027-07.JPG"><desc>Song of Moses, inscription detail</desc></graphic>
+        <graphic url="049-027-08.JPG"><desc>Song of Moses, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
