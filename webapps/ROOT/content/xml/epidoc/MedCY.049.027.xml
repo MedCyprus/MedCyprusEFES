@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#dome">Dome, angel zone, below the Pantokrator</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -37,11 +37,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.White letters against blue background. Majuscule letters. Accents and breathings non systematic.
+                            <handNote>PENDING.White letters against blue background. Majuscule letters. Characters' size varies. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#ChristPantokrator">Christ Pantokrator</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#angelicpower">Angelic power</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Angel">Angels</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,14 +68,14 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="049-027-01.JPG"><desc>Dome, around Pantokrator medallion, inscription</desc></graphic>
-        <graphic url="049-027-02.JPG"><desc>Dome, around Pantokrator medallion, incription detail</desc></graphic>
-        <graphic url="049-027-03.JPG"><desc>Dome, around Pantokrator medallion, incription detail</desc></graphic>
-        <graphic url="049-027-04.JPG"><desc>Dome, around Pantokrator medallion, inscription detail</desc></graphic>
-        <graphic url="049-027-05.JPG"><desc>Dome, around Pantokrator medallion, inscription detail</desc></graphic>
-        <graphic url="049-027-06.JPG"><desc>Dome, around Pantokrator medallion, inscription detail</desc></graphic>
-        <graphic url="049-027-07.JPG"><desc>Dome, around Pantokrator medallion, inscription detail</desc></graphic>
-        <graphic url="049-027-08.JPG"><desc>Dome, around Pantokrator medallion, inscription detail</desc></graphic>
+        <graphic rend="primary" url="049-027-01.JPG"><desc>Moses' poem, inscription</desc></graphic>
+        <graphic url="049-027-02.JPG"><desc>Moses' poem, incription detail</desc></graphic>
+        <graphic url="049-027-03.JPG"><desc>Moses' poem, incription detail</desc></graphic>
+        <graphic url="049-027-04.JPG"><desc>Moses' poem, inscription detail</desc></graphic>
+        <graphic url="049-027-05.JPG"><desc>Moses' poem, inscription detail</desc></graphic>
+        <graphic url="049-027-06.JPG"><desc>Moses' poem, inscription detail</desc></graphic>
+        <graphic url="049-027-07.JPG"><desc>Moses' poem, inscription detail</desc></graphic>
+        <graphic url="049-027-08.JPG"><desc>Moses' poem, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -90,7 +91,7 @@
                 <p>PENDING</p> 
             </div>
             <div type="commentary">
-                <p>PENDING. Partially preserved. The inscription is damaged in some points and consists of thin letters.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
