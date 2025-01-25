@@ -33,7 +33,7 @@
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head. PENDING</layout>
+                                <layout>On either side of the saint's head.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -41,7 +41,11 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>n/a</p>
+                            <p><rs type="iconography" ref="#unidentified_figure">Prelate, unidentified</rs>
+                                <rs type="iconography" ref="#individual_figures"></rs>
+                                <rs type="iconography" ref="#individual_figure_categories">prelate</rs>
+                                <rs type="iconography" ref="#gender">male</rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
