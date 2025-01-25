@@ -361,10 +361,10 @@
                 </item>
                 <item xml:id="IgnatiosTheophoros"> 
                     <term xml:lang="en">Ignatios</term>
-                </item>                
-                <!--<item xml:id="IoannesMoutoullas_043.020"> 
-                    <term xml:lang="en">Ioannes Moutoullas, Panagia, Moutoullas</term>
-                </item>-->
+                </item>
+                <item xml:id="Ioannes_1"> 
+                    <term xml:lang="en">Ioannes, donor, Kakopetria, Saint Nicholas of the Roof</term>
+                </item> 
                 <item xml:id="Isaiah"> 
                     <term xml:lang="en">Isaiah</term>
                 </item>
@@ -377,9 +377,6 @@
                 <item xml:id="Joachim"> 
                     <term xml:lang="en">Joachim</term>
                 </item>
-                <!--<item xml:id="John_MedCY018"> 
-                    <term xml:lang="en">John, Saint Nicholas of the Roof, Kakopetria</term>
-                </item>-->                
                 <item xml:id="JohnChrysostom">
                     <term xml:lang="en">John Chrysostom</term>
                 </item>
@@ -658,8 +655,8 @@
                 <item xml:id="VirginOrans">
                     <term xml:lang="en">Virgin Orans</term>
                 </item> 
-                <!--<item xml:id="wifeJohn_018.100"> 
-                    <term xml:lang="en">wife of John, St Nicholas of the Roof, Kakopetria</term>
+                <!--<item xml:id="wife_Ioannes_1"> 
+                    <term xml:lang="en">wife of Ioannes, Kakopetria, St Nicholas of the Roof</term>
                 </item>-->
                 <item xml:id="Zacharias">
                     <term xml:lang="en">Zacharias</term>
