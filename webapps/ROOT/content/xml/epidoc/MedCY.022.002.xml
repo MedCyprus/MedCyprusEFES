@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Moses' poem</title>
+                <title>Song of Moses</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -42,7 +42,7 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="iconography.xml#angelicpower">Angelic power</rs></p>
-                            <p><rs type="iconography" ref="iconography.xml#Angel">Angels</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#angel">Angels</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,17 +67,17 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="022-002-01.JPG"><desc>Moses' poem, inscription</desc></graphic>
-        <graphic url="022-002-02.JPG"><desc>Moses' poem, incription detail</desc></graphic>
-        <graphic url="022-002-03.JPG"><desc>Moses' poem, incription detail</desc></graphic>
-        <graphic url="022-002-04.JPG"><desc>Moses' poem, inscription detail</desc></graphic>
-        <graphic url="022-002-05.JPG"><desc>Moses' poem, inscription detail</desc></graphic>
-        <graphic url="022-002-06.JPG"><desc>Moses' poem, inscription detail</desc></graphic>
-        <graphic url="022-002-07.JPG"><desc>Moses' poem, inscription detail</desc></graphic>
-        <graphic url="022-002-08.JPG"><desc>Moses' poem, inscription detail</desc></graphic>
-        <graphic url="022-002-09.JPG"><desc>Moses' poem, inscription detail</desc></graphic>
-        <graphic url="022-002-10.JPG"><desc>Moses' poem, inscription detail</desc></graphic>
-        <graphic url="022-002-11.JPG"><desc>Moses' poem, inscription detail</desc></graphic>
+        <graphic rend="primary" url="022-002-01.JPG"><desc>Song of Moses, inscription</desc></graphic>
+        <graphic url="022-002-02.JPG"><desc>Song of Moses, incription detail</desc></graphic>
+        <graphic url="022-002-03.JPG"><desc>Song of Moses, incription detail</desc></graphic>
+        <graphic url="022-002-04.JPG"><desc>Song of Moses, inscription detail</desc></graphic>
+        <graphic url="022-002-05.JPG"><desc>Song of Moses, inscription detail</desc></graphic>
+        <graphic url="022-002-06.JPG"><desc>Song of Moses, inscription detail</desc></graphic>
+        <graphic url="022-002-07.JPG"><desc>Song of Moses, inscription detail</desc></graphic>
+        <graphic url="022-002-08.JPG"><desc>Song of Moses, inscription detail</desc></graphic>
+        <graphic url="022-002-09.JPG"><desc>Song of Moses, inscription detail</desc></graphic>
+        <graphic url="022-002-10.JPG"><desc>Song of Moses, inscription detail</desc></graphic>
+        <graphic url="022-002-11.JPG"><desc>Song of Moses, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
