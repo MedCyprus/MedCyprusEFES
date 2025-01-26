@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#dome">Dome, lower register, northeastern quarter, first figure on the east</rs>
+                                    <rs type="placement-building" ref="#dome">Dome, drum, northeastern quarter, third figure from the east window</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -41,7 +41,11 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Jonah">Jonah</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Jonah">Jonah</rs>
+                                <rs type="iconography" ref="#individual_figures"></rs>
+                                <rs type="iconography" ref="#individual_figure_categories">prophet</rs>
+                                <rs type="iconography" ref="#gender">male</rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
