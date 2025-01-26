@@ -122,11 +122,17 @@
            </list> 
                                                    
            <list type="scenecategories">
-               <head>Narrative Scene Categories</head>
+               <head>Scene Categories</head>
                 
+               <!--<item xml:id="acclamatory">
+                   <term xml:lang="en">acclamatory</term>
+               </item>-->
                 <item xml:id="christological">
                     <term xml:lang="en">Christological</term>
                 </item>
+               <item xml:id="eschatological">
+                   <term xml:lang="en">eschatological</term>
+               </item>
                 <item xml:id="hagiographic">
                     <term xml:lang="en">hagiographic</term>
                 </item><item xml:id="mariological">
