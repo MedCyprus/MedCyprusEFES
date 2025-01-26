@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Forty Martyrs of Sebaste</title>
+                <title>Prelate, unidentified</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -28,23 +28,23 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, northwest recess, tympanum, east</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, northeast pilaster, east face, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of Christ</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">4,5</height>
+                            <handNote>PENDING. Letter height: <height unit="cm">3-4,5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#FortyMartyrs_martyrdom">Martyrdom of the Forty Martyrs of Sebaste</rs>
-                                <rs type="iconography" ref="#scene"></rs>
-                                <rs type="iconography" ref="#scenecategories">hagiographic</rs>
-                                <!-- Do we add Christ and the Martyrs as individual figures as well?-->
+                            <p><rs type="iconography" ref="iconography.xml#unidentified_figure">Prelate, unidentified</rs>
+                                <rs type="iconography" ref="#individual_figures"></rs>
+                                <rs type="iconography" ref="#individual_figure_categories">prelate</rs>
+                                <rs type="iconography" ref="#gender">male</rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -70,10 +70,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="019-003-01.JPG"><desc>Bema, northwest recess, eastern part of the wall, inscription</desc></graphic>
-        <graphic url="019-003-02.JPG"><desc>Bema, northwest recess, eastern part of the wall, inscription detail</desc></graphic>
-        <graphic url="019-003-03.JPG"><desc>Bema, northwest recess, eastern part of the wall, inscription detail</desc></graphic>
-        <graphic url="019-003-04.JPG"><desc>Bema, northwest recess, eastern part of the wall, general view</desc></graphic>
+        <graphic rend="primary" url="019-003-01.JPG"><desc>Prelate, unidentified, inscription</desc></graphic>
+        <graphic url="019-003-02.JPG"><desc>Prelate, unidentified, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -86,7 +84,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Forty Μartyrs</p>
+                <p>Saint [..?..]</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
