@@ -47,7 +47,10 @@
                 <item xml:id="BirthVirgin"> 
                     <term xml:lang="en">Birth of the Virgin</term>
                 </item>                
-                <item xml:id="CommunionApostlesMetadosis"> 
+             <item xml:id="CommunionApostles"> 
+                 <term xml:lang="en">Communion of the Apostles</term>
+             </item>
+             <item xml:id="CommunionApostlesMetadosis"> 
                     <term xml:lang="en">Communion of the Apostles, Metadosis (Offering of the Bread)</term>
                 </item>
                 <item xml:id="CommunionApostlesMetalepsis"> 
@@ -72,7 +75,7 @@
                     <term xml:lang="en">Entry into Jerusalem</term>
                 </item>                
                 <item xml:id="Hetoimasia"> 
-                    <term xml:lang="en">Hetoimasia</term>
+                    <term xml:lang="en">Hetoimasia (preparation of the throne)</term>
                 </item>
                 <item xml:id="LastJudgment"> 
                     <term xml:lang="en">Last Judgment</term>
