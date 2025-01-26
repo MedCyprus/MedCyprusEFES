@@ -28,12 +28,12 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, carved apse, first figure from the left</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, south wall, first figure from the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the left of the saint's head</layout>
+                                <layout>On the left of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -41,7 +41,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Triphyllios">Triphyllios</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Triphyllios">Triphyllios</rs>
+                                <rs type="iconography" ref="#individual_figures"></rs>
+                                <rs type="iconography" ref="#individual_figure_categories">prelate</rs>
+                                <rs type="iconography" ref="#gender">male</rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
