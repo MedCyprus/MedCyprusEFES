@@ -28,12 +28,12 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
-                                    <rs type="placement-building" ref="#dome">Dome, summit</rs>
+                                    <rs type="placement-building" ref="#dome">Dome, crown</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of Christ</layout>
+                                <layout>On either side of Christ's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -41,7 +41,11 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#ChristPantokrator">Christ Pantokrator</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#ChristPantokrator">Christ Pantokrator</rs>
+                             <rs type="iconography" ref="#individual_figures"></rs>
+                             <rs type="iconography" ref="#individual_figure_categories">divine</rs>
+                             <!--<rs type="iconography" ref="#gender"></rs>-->
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
