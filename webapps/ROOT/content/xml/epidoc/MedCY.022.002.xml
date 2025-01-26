@@ -28,12 +28,12 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
-                                    <rs type="placement-building" ref="#dome">Dome, angel zone, below the Pantokrator</rs>
+                                    <rs type="placement-building" ref="#dome">Dome, cupola, around the crown</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Around Pantokrator medallion</layout>
+                                <layout>Border of crown medallion and around it, above the heads of the angels on the cupola</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -41,8 +41,12 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#angelicpower">Angelic power</rs></p>
-                            <p><rs type="iconography" ref="iconography.xml#angel">Angels</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#AngelicProcession">Angelic procession</rs>
+                                <rs type="iconography" ref="#scene"></rs>
+                                <rs type="iconography" ref="#individual_figure_iconography">dress, antique</rs>
+                                <rs type="iconography" ref="#scenecategories">acclamatory</rs>
+                                <rs type="iconography" ref="#individual_figure_categories">angelic power</rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
