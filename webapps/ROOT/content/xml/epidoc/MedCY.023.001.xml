@@ -41,7 +41,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#VirginEnthroned">Virgin and Christ child</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#VirginOrans">Virgin orans, unusually with the Christ Child before her chest.</rs>
+                                <rs type="iconography" ref="#individual_figures"></rs>
+                                <rs type="iconography" ref="#gender">female</rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
