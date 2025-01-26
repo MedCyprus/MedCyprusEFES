@@ -28,12 +28,12 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#dome">Dome, angel zone, southwestern of Pantokrator</rs>
+                                    <rs type="placement-building" ref="#dome">Dome, cupola, zone around the crown, southwest of Pantokrator</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the sphere held in the left hand by the angel.</layout>
+                                <layout>On the sphere held in the left hand by the angel</layout>
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -67,8 +67,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="049-028-01.JPG"><desc>Dome, angel zone, southwestern of Pantokrator, inscription</desc></graphic>
-        <graphic url="049-028-02.JPG"><desc>Dome, angel zone, southwestern of Pantokrator, general view</desc></graphic>    
+        <graphic rend="primary" url="049-028-01.JPG"><desc>Angel's sphere Cryptograms, inscription</desc></graphic>
+        <graphic url="049-028-02.JPG"><desc>Angel's sphere Cryptograms, general view</desc></graphic>    
     </facsimile>
     <text>
         <body>
