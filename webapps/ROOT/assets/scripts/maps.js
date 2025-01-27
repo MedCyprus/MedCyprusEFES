@@ -1,6 +1,6 @@
 <script type="text/javascript">
 /* For polygons coordinates */
-    function chunkArray(myArray, chunk_size){
+    function chunkArray(myArray, chunk_size) {
     var index = 0;
     var arrayLength = myArray.length;
     var tempArray = [];
@@ -54,11 +54,24 @@ var CartoDB_Voyager = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles
     var all_places = [];
     var select_linked_places = [];
     var LeafIcon = L.Icon.extend({ options: {iconSize: [30, 30]} });
-    var markerIcon = new LeafIcon({iconUrl: '../../../assets/images/marker-icon.png'});
+    var markerIconB = new LeafIcon({iconUrl: '../../../assets/images/marker-icon-blue.png'});
+    var markerIconG = new LeafIcon({iconUrl: '../../../assets/images/marker-icon-green.png'});
+
+    /* attribution <a href="https://www.vecteezy.com/free-png/green-location-icon">Green Location Icon PNGs by Vecteezy</a>*/
     
-    for (var [key, value] of Object.entries(points)) {
-    all_places.push(L.marker([value.substring(0, value.lastIndexOf(",")), value.substring(value.lastIndexOf(",") +1)], {icon: markerIcon, id:key.substring(key.lastIndexOf("@") +1)}).bindPopup('&lt;a href="#0"&gt;'.replace("0", key.substring(key.lastIndexOf("@") +1)) + key.substring(0, key.indexOf("#")) + '&lt;/a&gt; &lt;span class="block"&gt;Inscriptions: ' + key.substring(key.indexOf("#") +1, key.lastIndexOf("@")) + '&lt;/span&gt; &lt;span class="block"&gt;Coordinates: ' + value + '&lt;/span&gt;'));
-    };
+    for(var l of med_cyprus_locations) {
+       //throw new Exception("sdf");
+       var actualIcon = (l.locationType == 'monuments') ? markerIconB : markerIconG;
+       
+       var m = L.marker([l.x, l.y], {icon: actualIcon
+       , id: l.id});
+        var popup = "&lt;a href='#" + l.id + "'>" + l.label +"&lt;/a>";
+        popup += "&lt;span>&lt;span class='block'>Inscriptions: " +l.count+ "&lt;/span>";
+        popup += "&lt;span>&lt;span class='block'>Coordinates: " +l.x + ", " + l.y+ "&lt;/span>";
+        m.bindPopup(popup);
+        all_places.push(m);
+    }
+ 
      
     var toggle_places = L.layerGroup(all_places);
     var toggle_select_linked_places = L.layerGroup(select_linked_places);

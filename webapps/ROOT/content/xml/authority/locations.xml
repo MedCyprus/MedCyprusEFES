@@ -2824,7 +2824,7 @@
             </listPlace>
             
             <listPlace type="repositories">
-                <place xml:id="ByzantineMuseum">
+                <place xml:id="ByzantineMuseum" n="R1">
                     <placeName xml:lang="en">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</placeName>
                     <placeName xml:lang="el">Βυζαντινό Μουσείο Πολιτιστικού Ιδρύματος Αρχιεπισκόπου Μακαρίου Γ'</placeName>
                     <location><placeName>Nicosia</placeName></location>
@@ -2833,7 +2833,7 @@
                     <bibl><ref type="website">http://www.makariosfoundation.org.cy/</ref></bibl>
                 </place>
                 
-                <place xml:id="PaphosMuseum">
+                <place xml:id="PaphosMuseum" n="R2">
                     <placeName xml:lang="en">Ecclesiastical Museum of the Holy Bishopric of Paphos</placeName>
                     <placeName xml:lang="el"> Εκκλησιαστικό Μουσείο Ιεράς Μητροπόλεως Πάφου</placeName>
                     <location><placeName>Geroskepou</placeName></location>
@@ -2842,7 +2842,7 @@
                     <bibl><ref type="website">https://www.impaphou.org/mouseio_impafou.aspx</ref></bibl>
                 </place>
                 
-                <place xml:id="SoteraMuseum">
+                <place xml:id="SoteraMuseum" n="R3">
                     <placeName xml:lang="en">Ecclesiastical Museum of Sotera</placeName>
                     <placeName xml:lang="el"> Εκκλησιαστικό Μουσείο Σωτήρας</placeName>
                     <location><placeName>Sotera (Famagusta District)</placeName></location>
@@ -2851,7 +2851,7 @@
                     <bibl><ref type="website">https://www.sotira.org.cy/en/visitors/tourist-guide?cat=10</ref></bibl>
                 </place>
                 
-                <place xml:id="ArsinoeMuseum">
+                <place xml:id="ArsinoeMuseum" n="R4">
                     <placeName xml:lang="en">Local Archaeological Museum of Marion-Arsinoe</placeName>
                     <placeName xml:lang="el"> Τοπικό Αρχαιολογικό Moυσείο Μαρίου-Αρσινόης</placeName>
                     <location><placeName>Polis Chrysochous</placeName></location>
@@ -2860,7 +2860,7 @@
                     <bibl><ref type="website">http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/CAF4EC728ABCA91CC225719900208766?OpenDocument</ref></bibl>
                 </place>
                 
-                <place xml:id="KykkosMuseum">
+                <place xml:id="KykkosMuseum" n="R5">
                     <placeName xml:lang="en">Museum of the Kykkos Monastery</placeName>
                     <placeName xml:lang="el">Μουσείο Ιεράς Μονής Κύκκου</placeName>
                     <location><placeName>Kykkos Monastery</placeName></location>

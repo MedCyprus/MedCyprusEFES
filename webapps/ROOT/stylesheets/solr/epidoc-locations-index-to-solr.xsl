@@ -16,28 +16,52 @@
   
   <!-- START MAP POINTS -->
   <xsl:variable name="locationsAL" select="'../../content/xml/authority/locations.xml'"/>
-  <xsl:variable name="map_points">
-    <xsl:text>{</xsl:text>
+  
+  <xsl:variable name="med_cyprus_locations">
+    <xsl:text>[</xsl:text>
     <xsl:for-each select="document($locationsAL)//tei:place[matches(normalize-space(descendant::tei:geo), '\d{1,2}(\.\d+){0,1},\s+?\d{1,2}(\.\d+){0,1}')]">
       <xsl:variable name="id" select="@xml:id"/>
-      <xsl:variable name="counter" select="count(collection('../../content/xml/epidoc/?select=*.xml;recurse=yes')//tei:origPlace[substring-after(@ref, '#')=$id])"/>
-      <xsl:text>"</xsl:text><xsl:value-of select="normalize-space(translate(tei:placeName[1], ',', '; '))"/>
-      <xsl:text>#</xsl:text><xsl:value-of select="$counter"/>
-      <xsl:text>@</xsl:text><xsl:value-of select="$id"/>
-      <xsl:text>": "</xsl:text><xsl:value-of select="normalize-space(descendant::tei:geo[1])"/>
-      <xsl:text>"</xsl:text>
+      <!--<xsl:variable name="count" select="count(collection('../../content/xml/epidoc/?select=*.xml;recurse=yes')//tei:origPlace[substring-after(@ref, '#')=$id])"/>-->
+      <xsl:variable name="count">
+        <xsl:choose>
+          <xsl:when test="parent::tei:listPlace/@type='repositories'">
+          <xsl:value-of select="count(collection('../../content/xml/epidoc/?select=*.xml;recurse=yes')//tei:repository[substring-after(@ref, '#')=$id])"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:value-of select="count(collection('../../content/xml/epidoc/?select=*.xml;recurse=yes')//tei:origPlace[substring-after(@ref, '#')=$id])"/>
+        </xsl:otherwise>
+        </xsl:choose>
+      </xsl:variable>
+      <!-- add if to handle repositories where count should match tei:repository[@ref]-->
+      
+      <xsl:variable name="label"><xsl:value-of select="concat(@n, '. ', normalize-space(translate(tei:placeName[1], ',', '; ')))"/></xsl:variable>
+      <xsl:variable name="coords" select="normalize-space(descendant::tei:geo[1])"/>
+      <xsl:variable name="locationType" select="parent::tei:listPlace/@type"/><!-- value will be repositories or monuments -->
+      <xsl:text>{</xsl:text>
+      <xsl:text>id: "</xsl:text><xsl:value-of select="$id"/><xsl:text>",
+      </xsl:text>
+      <xsl:text>label: "</xsl:text><xsl:value-of select="$label"/><xsl:text>",
+      </xsl:text>
+      <xsl:text>count: </xsl:text><xsl:value-of select="$count"/><xsl:text>,
+      </xsl:text>
+      <xsl:text>locationType: "</xsl:text><xsl:value-of select="$locationType"/><xsl:text>",
+      </xsl:text>
+      <xsl:text>x: </xsl:text><xsl:value-of select="substring-before($coords, ',')"/><xsl:text>,
+      </xsl:text>
+      <xsl:text>y: </xsl:text><xsl:value-of select="substring-after($coords, ',')"/><xsl:text>}</xsl:text>
+
       <xsl:if test="position()!=last()"><xsl:text>, </xsl:text></xsl:if>
     </xsl:for-each>
-    <xsl:text>}</xsl:text>
+    <xsl:text>]</xsl:text>
   </xsl:variable>
   
-  <xsl:variable name="map_labels">
+  <!--<xsl:variable name="map_labels">
     <xsl:text>[</xsl:text>
     <xsl:for-each select="document($locationsAL)//tei:place[matches(normalize-space(descendant::tei:geo), '\d{1,2}(\.\d+){0,1},\s+?\d{1,2}(\.\d+){0,1}')]">
       <xsl:text>"</xsl:text><xsl:value-of select="normalize-space(translate(tei:placeName[1], ',', '; '))"/><xsl:text>"</xsl:text><xsl:if test="position()!=last()"><xsl:text>, </xsl:text></xsl:if>
     </xsl:for-each>
     <xsl:text>]</xsl:text>
-  </xsl:variable>
+  </xsl:variable>-->
   <!-- END MAP POINTS -->
 
   <xsl:template match="/">
@@ -64,8 +88,8 @@
           <xsl:call-template name="field_file_path" />
           
           <xsl:if test="position()=1"> <!--TO GENERATE MAP, preventing having this indexed for all locations -->
-            <field name="index_map_points"><xsl:value-of select="normalize-space($map_points)"/></field>
-            <field name="index_map_labels"><xsl:value-of select="normalize-space($map_labels)"/></field>
+            <field name="index_map_points"></field>
+            <field name="index_map_labels"><xsl:value-of select="normalize-space($med_cyprus_locations)"/></field>
           </xsl:if>
           
           <field name="index_item_name">
