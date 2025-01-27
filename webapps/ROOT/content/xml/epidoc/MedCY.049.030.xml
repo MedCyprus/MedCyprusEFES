@@ -37,7 +37,7 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White letters against blue background. Majuscule letters. ΓΗ and ΤΗ in ligature. Accents and breathings systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -75,17 +75,17 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab><w lemma="Πλήρης">Πλήρις</w> ὁ <w lemma="οὐρανός">οὐρανὸς</w> καὶ ἡ <w lemma="γῆ"><hi rend="ligature">γῆ</hi></w> <hi rend="ligature">τῆ</hi>ς <w lemma="δόξα">δόξις</w> σου
+              <ab><w lemma="Πλήρης"><choice><sic>Πλήρις</sic><corr>Πλήρης</corr></choice></w> ὁ <w lemma="οὐρανός">οὐρανὸς</w> καὶ ἡ <w lemma="γῆ"><hi rend="ligature">γῆ</hi></w> <hi rend="ligature">τῆ</hi>ς <w lemma="δόξα"><choice><sic>δόξις</sic><corr>δόξης</corr></choice></w> σου
                </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Heaven and earth are full of your glory.</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Part of the Sanctus hymn.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
