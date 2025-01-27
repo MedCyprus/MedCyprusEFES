@@ -137,12 +137,11 @@
 <!-- Locations Index Output  -->
   <xsl:template match="response/result[descendant::doc[arr[@name='index_coordinates']]]"> 
     <div>
-      <xsl:if test="doc/str[@name='index_map_points']">
+      <xsl:if test="doc/str[@name='index_map_labels']">
         <div class="row map_box">
         <div id="mapid" class="map"></div>
         <script type="text/javascript">
-          var points = <xsl:value-of select="doc/str[@name='index_map_points']"/>;
-          var map_labels = <xsl:value-of select="doc/str[@name='index_map_labels']"/>;
+          var med_cyprus_locations = <xsl:value-of select="doc/str[@name='index_map_labels']"/>;
           <xsl:value-of select="fn:doc(concat('file:',system-property('user.dir'),'/webapps/ROOT/assets/scripts/maps.js'))"/>
           var mymap = L.map('mapid', { center: [35.15, 33.45], zoom: 8.5, fullscreenControl: true, layers: layers });
           L.control.layers(baseMaps, overlayMaps).addTo(mymap);
