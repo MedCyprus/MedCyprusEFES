@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Liturgy quotation</title>
                 <author xml:id="tp">Theocharis Petrou</author>
+                <author xml:id="ds">Deniz Sever Georgousakis</author>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -27,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#dome">Dome, southwestern pendentive</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -37,7 +38,7 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White letters against blue background. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -73,7 +74,7 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab><choice><orig>A</orig><reg>Ἅ</reg></choice><supplied reason="lost">γιος Ἅγιος Ἅγιος Κύριος Σαββαώθ</supplied>
                </ab>
             </div>
             <div type="apparatus">
@@ -83,7 +84,7 @@
                 <p>PENDING</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
