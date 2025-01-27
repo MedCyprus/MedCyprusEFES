@@ -28,12 +28,12 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, apse, cornice, between semidome and semicylinrical wall</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, upper register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The register above the scene of the Communion of the Apostles</layout>
+                                <layout>Border band above the Communion of the Apostles</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -41,7 +41,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>...</p>
+                            <p><rs type="iconography" ref="#CommunionApostles"></rs>
+                                <rs type="iconography" ref="#scene"></rs>
+                                <rs type="iconography" ref="#scenecategories">liturgical</rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

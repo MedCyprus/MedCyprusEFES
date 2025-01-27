@@ -26,6 +26,9 @@
                 <item xml:id="AngelicProcession">
                  <term xml:lang="en">Angelic procession</term>
                 </item>
+             <item xml:id="Angels_Hetoimasia">
+                 <term xml:lang="en">Angels adoring the Hetoimasia</term>
+             </item>
                 <item xml:id="Αnnunciation">
                     <term xml:lang="en">Annunciation</term>
                 </item>
@@ -44,7 +47,10 @@
                 <item xml:id="BirthVirgin"> 
                     <term xml:lang="en">Birth of the Virgin</term>
                 </item>                
-                <item xml:id="CommunionApostlesMetadosis"> 
+             <item xml:id="CommunionApostles"> 
+                 <term xml:lang="en">Communion of the Apostles</term>
+             </item>
+             <item xml:id="CommunionApostlesMetadosis"> 
                     <term xml:lang="en">Communion of the Apostles, Metadosis (Offering of the Bread)</term>
                 </item>
                 <item xml:id="CommunionApostlesMetalepsis"> 
@@ -69,7 +75,7 @@
                     <term xml:lang="en">Entry into Jerusalem</term>
                 </item>                
                 <item xml:id="Hetoimasia"> 
-                    <term xml:lang="en">Hetoimasia</term>
+                    <term xml:lang="en">Hetoimasia (preparation of the throne)</term>
                 </item>
                 <item xml:id="LastJudgment"> 
                     <term xml:lang="en">Last Judgment</term>
@@ -145,7 +151,10 @@
                 </item>
                 <item xml:id="Oldtestament">
                     <term xml:lang="en">Old Testament</term>
-                </item>                
+                </item>
+                <!--<item xml:id="vision">
+                   <term xml:lang="en">vision</term>
+               </item>-->
             </list>            
                         
             <list type="individual_figures">
@@ -757,7 +766,7 @@
                 <item xml:id="priest">
                     <term xml:lang="en">priest</term>
                 </item>  
-                <item xml:id="prophete">
+                <item xml:id="prophet">
                     <term xml:lang="en">prophet</term>
                 </item>
                 <item xml:id="stylite">

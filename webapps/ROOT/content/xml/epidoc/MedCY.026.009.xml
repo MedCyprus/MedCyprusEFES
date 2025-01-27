@@ -27,12 +27,12 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>.</rs>
-                                    <rs type="placement-building">Bema, prothesis conch</rs>
+                                    <rs type="placement-building" ref="#prothesis">Prothesis, east wall, square niche</rs>
                                     <dimensions unit="cm"><height> 2-14,5 cm (letters)</height></dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side and in-between the arms of a processional cross on a tall shaft.</layout>
+                                <layout>On either side and above and below the arms of processional cross.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -40,7 +40,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#CrossProcessional">Processional Cross</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#crossprocessional">Cross, processional, with tall shaft</rs>
+                                <rs type="iconography" ref="#structures_objects_symbols"></rs>                                
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
