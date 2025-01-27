@@ -135,9 +135,16 @@ body{
     gap: 10px;
 }
 
+.locations-index {
+    text-align:center;
+}
+
 .locations-menu-cols {
     width: calc(33.33% - 10px);
     text-align: start;
+    margin: unset;
+    font-size: smaller;
+    line-height: 1.2em;
 }
 
 .locations-menu-rows {
