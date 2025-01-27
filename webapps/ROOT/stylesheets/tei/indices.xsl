@@ -106,7 +106,7 @@
         </xsl:choose>
         <p><b>Inscriptions: </b></p>
         <ul class="index-instances"><xsl:apply-templates select="arr[@name='index_instance_location']/str"/></ul>
-        <p><a href="#monuments">[Top]</a></p>
+        <p class="locations-go-top"><a href="#monuments">[Top]</a></p>
       </div>
     </div>
   </xsl:template>
