@@ -106,6 +106,7 @@
         </xsl:choose>
         <p><b>Inscriptions: </b></p>
         <ul class="index-instances"><xsl:apply-templates select="arr[@name='index_instance_location']/str"/></ul>
+        <p class="locations-go-top"><a href="#monuments">[Top]</a></p>
       </div>
     </div>
   </xsl:template>
@@ -152,16 +153,19 @@
       </div>
       </xsl:if>
       
-      <h2 id="monuments">MONUMENTS</h2>
-      <!-- Add list of monuments here 
-      a href="-->
+      <h2 class="locations-index" id="monuments">MONUMENTS | <a href="#repositories">REPOSITORIES</a></h2>
       
       <div class="locations-menu-list">
         <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Monument']]" mode="menu-list"><!--<xsl:sort select="lower-case(.)"/>--></xsl:apply-templates>
       </div>
       
       <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Monument']]"><!--<xsl:sort select="lower-case(.)"/>--></xsl:apply-templates>
-      <h2 id="repositories">REPOSITORIES</h2>
+      
+      <h2 class="locations-index" id="repositories">REPOSITORIES | <a href="#monuments">MONUMENTS</a></h2>
+      <div class="locations-menu-list">
+        <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Repository']]" mode="menu-list"><!--<xsl:sort select="lower-case(.)"/>--></xsl:apply-templates>
+      </div>
+      
       <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Repository']]"><!--<xsl:sort select="lower-case(.)"/>--></xsl:apply-templates>
     </div>
   </xsl:template>
@@ -477,7 +481,7 @@
   
   <xsl:template match="result/doc[arr[@name='index_coordinates']]" mode="menu-list">
     <p class="locations-menu-cols"><a href="{concat('#', str[@name='index_id'])}">
-      <xsl:value-of select="str[@name='index_item_name']"/>
+      <xsl:value-of select="str[@name='index_number']"/><xsl:text>. </xsl:text><xsl:value-of select="str[@name='index_item_name']"/>
     </a></p> 
   </xsl:template>
   
