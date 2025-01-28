@@ -169,8 +169,7 @@
                 </item>
                 <item xml:id="Abraham"> 
                     <term xml:lang="en">Abraham</term>
-                </item>
-                
+                </item>                
                 <item xml:id="Adam">
                     <term xml:lang="en">Adam</term>
                 </item>
@@ -215,6 +214,9 @@
                 </item>
                 <item xml:id="Aphthonios"> 
                     <term xml:lang="en">Aphthonios</term>
+                </item>
+                <item xml:id="archangel_unidentified">
+                    <term xml:lang="en">Archangel, unidentified</term>
                 </item>
                 <item xml:id="Arsenios">
                     <term xml:lang="en">Arsenios</term>
@@ -617,6 +619,9 @@
                 <item xml:id="TheodoreStratelates"> 
                     <term xml:lang="en">Theodore Stratelates</term>
                 </item>
+                <item xml:id="Theodosios">
+                    <term xml:lang="en">Theodosios</term>
+                </item>
                 <item xml:id="TheodosiosCenobiarch">
                     <term xml:lang="en">Theodosios the Cenobiarch</term>
                 </item>
@@ -657,7 +662,7 @@
                     <term xml:lang="en">Virgin Eleousa</term>
                 </item>                
                 <item xml:id="VirginEnthroned">
-                    <term xml:lang="en">Virgin enthroned with the Christ child</term>
+                    <term xml:lang="en">Virgin enthroned with the Christ Child</term>
                 </item>      
                 <item xml:id="VirginGlykophilousa">
                     <term xml:lang="en">Virgin Glykophilousa</term>
