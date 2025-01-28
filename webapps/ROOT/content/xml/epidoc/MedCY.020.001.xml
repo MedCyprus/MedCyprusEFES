@@ -41,10 +41,11 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#ChristEmmanuel">Christ Emmanuel (in a medallion before the chest of the Virgin orans)</rs>
-                                <rs type="iconography" ref="#individual_figures"></rs>
-                                <rs type="iconography" ref="#individual_figure_categories">divine</rs>
-                                <!--<rs type="iconography" ref="#male"></rs>-->                                
+                            <p><rs type="iconography" ref="#ChristEmmanuel">Christ Emmanuel, in a medallion before the chest of the Virgin Orans</rs>
+                                <rs type="iconography" ref="#VirginOrans"></rs>
+                                <rs type="iconography" ref="#individual_figure"></rs>
+                                <rs type="iconography" ref="#divine"></rs>
+                                <rs type="iconography" ref="#male"></rs>                                
                             </p>
                         </decoDesc>
                     </physDesc>
