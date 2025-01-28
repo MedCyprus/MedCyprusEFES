@@ -17,15 +17,18 @@
     <text>
         <body>
             
-         <list type="scene">
+         <list type="scene"> <!-- simply to help organise the list-->
            <head>Scenes</head>
                 
-                <item xml:id="AdorationMagi">
+             <item xml:id="scene"> <!-- to be used for marking-up narrative and other compositions for the Iconography Index-->
+                 <term xml:lang="en">scene</term>
+             </item>
+             <item xml:id="AdorationMagi">
                     <term xml:lang="en">Adoration of the Magi</term>
                 </item>
-                <item xml:id="AngelicProcession">
+             <!--<item xml:id="AngelicProcession">
                  <term xml:lang="en">Angelic procession</term>
-                </item>
+             </item>-->
              <item xml:id="Angels_Hetoimasia">
                  <term xml:lang="en">Angels adoring the Hetoimasia</term>
              </item>
@@ -127,13 +130,10 @@
              </item>
            </list> 
                                                    
-           <list type="scenecategories">
+            <list type="scenecategories"><!-- simply to help organise the list; heading should not be used in the marking-up-->
                <head>Scene Categories</head>
-                
-               <!--<item xml:id="acclamatory">
-                   <term xml:lang="en">acclamatory</term>
-               </item>-->
-                <item xml:id="christological">
+            
+               <item xml:id="christological">
                     <term xml:lang="en">Christological</term>
                 </item>
                <item xml:id="eschatological">
@@ -152,13 +152,17 @@
                 <item xml:id="Oldtestament">
                     <term xml:lang="en">Old Testament</term>
                 </item>
-                <!--<item xml:id="vision">
-                   <term xml:lang="en">vision</term>
-               </item>-->
+                <item xml:id="vision">
+                   <term xml:lang="en">Vision, prophetic or other</term>
+               </item>
             </list>            
                         
-            <list type="individual_figures">
-                <head>Individual Figures</head>
+            <list type="individual_figures"><!-- simply to help organise the list-->
+                <head>Individual Figures</head>             
+               
+                <item xml:id="individual_figure"> <!-- to be used for marking-up individual figures, including Virgin with Child, for the Iconography Index-->
+                    <term xml:lang="en">individual figure</term>
+                </item>
                 
                 <item xml:id="Abibos"> 
                     <term xml:lang="en">Abibos</term>
@@ -686,7 +690,7 @@
                     <term xml:lang="en">Zosimas</term></item>                
            </list>
                 
-           <list type="individual_figure_iconography">
+            <list type="individual_figure_iconography"><!-- simply to help organise the list; heading should not be used in the marking-up-->
                 <head>Individual Figure Iconographic Types</head> 
                
                 <item xml:id="dressantique"><!-- for angels -->
@@ -709,7 +713,7 @@
                 </item>          
             </list>
   
-            <list type="individual_figure_categories">
+            <list type="individual_figure_categories"><!-- simply to help organise the list; heading should not be used in the marking-up-->
                 <head>Individual Figure Categories</head>    
                 
                 <item xml:id="angelicpower">
@@ -777,7 +781,7 @@
                 </item>                
           </list>
             
-          <list type="gender">
+            <list type="gender"><!-- simply to help organise the list; heading should not be used in the marking-up-->
               <head>Gender</head>
               
               <item xml:id="eunuch">
@@ -789,15 +793,25 @@
               <item xml:id="genderless">
                   <term xml:lang="en">genderless</term>
               </item>
+                <item xml:id="genderunknown">
+                    <term xml:lang="en">gender unknown</term>
+                </item>
               <item xml:id="male">
                   <term xml:lang="en">male</term>
               </item>     
           </list>
                 
-          <list type="structures_objects_symbols">
+            <list type="structures_objects_symbols"><!-- simply to help organise the list; heading should not be used in the marking-up-->
                 <head>Structures - Objects - Symbols</head>
                 
-              <item xml:id="crossprocessional"> 
+                <item xml:id="structure"> 
+                    <term xml:lang="en">structure</term>
+                </item>
+                <item xml:id="object"> 
+                    <term xml:lang="en">object</term>
+                </item>
+                
+                <item xml:id="crossprocessional"> 
                   <term xml:lang="en">cross, processional</term>
                     <!--Do we want to distinguish type of crosses? E.g., Patriarchal, Latin, processional etc.?-->
               </item>
