@@ -20,7 +20,7 @@
          <list type="scene"> <!-- simply to help organise the list-->
            <head>Scenes</head>
                 
-             <item xml:id="scene"> <!-- to be used for marking-up narrative and other compositions for the Iconography Index-->
+             <item xml:id="scene"> <!-- to be used for tagging narrative and other compositions for the Iconography Index-->
                  <term xml:lang="en">scene</term>
              </item>
              <item xml:id="AdorationMagi">
@@ -160,7 +160,7 @@
             <list type="individual_figures"><!-- simply to help organise the list-->
                 <head>Individual Figures</head>             
                
-                <item xml:id="individual_figure"> <!-- to be used for marking-up individual figures, including Virgin with Child, for the Iconography Index-->
+                <item xml:id="individual_figure"> <!-- to be used for tagging individual figures, including Virgin with Child, for the Iconography Index-->
                     <term xml:lang="en">individual figure</term>
                 </item>
                 
