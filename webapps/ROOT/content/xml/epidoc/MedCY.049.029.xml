@@ -74,7 +74,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab><choice><orig>A</orig><reg>Ἅ</reg></choice><supplied reason="lost">γιος <w lemma="Ἅγιος">Ἅγιος</w> <w lemma="Ἅγιος">Ἅγιος</w> <w lemma="Κύριος">Κύριος</w> <w lemma="Σαββαώθ">Σαββαώθ</w></supplied>
+              <ab>
+                  <lb n="1"/><choice><orig>A</orig><reg>Ἅ</reg></choice><supplied reason="lost">γιος <w lemma="Ἅγιος">Ἅγιος</w> <w lemma="Ἅγιος">Ἅγιος</w> <w lemma="Κύριος">Κύριος</w> <w lemma="Σαββαώθ">Σαββαώθ</w></supplied>
                </ab>
             </div>
             <div type="apparatus">

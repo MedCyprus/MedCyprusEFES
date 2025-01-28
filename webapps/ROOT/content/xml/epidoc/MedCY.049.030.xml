@@ -75,7 +75,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab><w lemma="Πλήρης"><choice><sic>Πλήρις</sic><corr>Πλήρης</corr></choice></w> ὁ <w lemma="οὐρανός">οὐρανὸς</w> καὶ ἡ <w lemma="γῆ"><hi rend="ligature">γῆ</hi></w> <hi rend="ligature">τῆ</hi>ς <w lemma="δόξα"><choice><sic>δόξις</sic><corr>δόξης</corr></choice></w> σου
+              <ab>
+                  <lb n="1"/><w lemma="Πλήρης"><choice><sic>Πλήρις</sic><corr>Πλήρης</corr></choice></w> ὁ <w lemma="οὐρανός">οὐρανὸς</w> καὶ ἡ <w lemma="γῆ"><hi rend="ligature">γῆ</hi></w> <hi rend="ligature">τῆ</hi>ς <w lemma="δόξα"><choice><sic>δόξις</sic><corr>δόξης</corr></choice></w> σου
                </ab>
             </div>
             <div type="apparatus">
