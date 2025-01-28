@@ -6,7 +6,6 @@
         <fileDesc>
             <titleStmt>
                 <title>Prophet Moses</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -28,13 +27,13 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#dome">Dome, lower register, west-end of the northeastern quarter</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#dome">Dome, drum, zone around the cupola, west-end of the northeastern quarter</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the prophet's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -42,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Moses">Moses</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Moses">Moses</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,8 +67,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-083-01.JPG"><desc>Dome, lower register, west-end of the northeastern quarter, inscription</desc></graphic>
-        <graphic url="036-083-02.JPG"><desc>Dome, lower register, west-end of the northeastern quarter, general view</desc></graphic>
+         <graphic rend="primary" url="036-083-01.JPG"><desc>Prophet Moses, inscription</desc></graphic>
+        <graphic url="036-083-02.JPG"><desc>Prophet Moses, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
