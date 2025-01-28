@@ -41,10 +41,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#ChristPantokrator">Christ Pantokrator</rs>
-                             <rs type="iconography" ref="#individual_figures"></rs>
-                             <rs type="iconography" ref="#individual_figure_categories">divine</rs>
-                             <!--<rs type="iconography" ref="#"></rs>-->
+                            <p><rs type="iconography" ref="#ChristPantokrator">Christ Pantokrator</rs>
+                             <rs type="iconography" ref="#individual_figure"></rs>
+                             <rs type="iconography" ref="#divine"></rs>
+                             <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
