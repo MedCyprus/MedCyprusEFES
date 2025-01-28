@@ -41,10 +41,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Hetoimasia"></rs>
-                                <rs type="iconography" ref="iconography.xml#Angels_Hetoimasia">Eight angels adoring the Hetoimasia</rs>
+                            <p><rs type="iconography" ref="#Angels_Hetoimasia">Eight angels adoring the Hetoimasia, the Hetoimasia</rs>
+                                <rs type="iconography" ref="#Hetoimasia"></rs>
                                 <rs type="iconography" ref="#scene"></rs>
-                                <rs type="iconography" ref="#scenecategories">vision</rs>
+                                <rs type="iconography" ref="#vision"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>

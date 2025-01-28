@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Forty Martyrs of Sebaste</title>
+                <title>Forty Martyrs of Sebasteia</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -41,10 +41,11 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#FortyMartyrs_martyrdom">Martyrdom of the Forty Martyrs of Sebaste</rs>
+                            <p><rs type="iconography" ref="#FortyMartyrs_martyrdom">Martyrdom of the Forty Martyrs of Sebasteia</rs>
+                                <rs type="iconography" ref="#Christ"></rs>
+                                <rs type="iconography" ref="#FortyMartyrs"></rs>
                                 <rs type="iconography" ref="#scene"></rs>
-                                <rs type="iconography" ref="#scenecategories">hagiographic</rs>
-                                <!-- Do we add Christ and the Martyrs as individual figures as well?-->
+                                <rs type="iconography" ref="#hagiographic">hagiographic</rs>                               
                             </p>
                         </decoDesc>
                     </physDesc>

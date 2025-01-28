@@ -41,12 +41,12 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#angel">Eight angels adoring the Hetoimasia</rs>
-                                <rs type="iconography" ref="#hetoimasia"></rs>
+                            <p><rs type="iconography" ref="#Angels_Hetoimasia">Eight angels adoring the Hetoimasia</rs>
+                                <rs type="iconography" ref="#Hetoimasia"></rs>
+                                <rs type="iconography" ref="#angel"></rs>
                                 <rs type="iconography" ref="#scene"></rs>
-                                <rs type="iconography" ref="#individual_figure_iconography">dress, antique</rs>
-                                <rs type="iconography" ref="#scenecategories">vision</rs>
-                                <rs type="iconography" ref="#individual_figure_categories">angelic power</rs>
+                                <rs type="iconography" ref="#dressantique"></rs>
+                                <rs type="iconography" ref="#vision"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
