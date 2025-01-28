@@ -41,9 +41,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Jonah">Jonah</rs>
-                                <rs type="iconography" ref="#individual_figures"></rs>
-                                <rs type="iconography" ref="#individual_figure_categories">prophet</rs>
+                            <p><rs type="iconography" ref="#Jonah">Jonah</rs>
+                                <rs type="iconography" ref="#individual_figure"></rs>
+                                <rs type="iconography" ref="#prophet"></rs>
                                 <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
