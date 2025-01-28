@@ -28,12 +28,12 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, apse, cornice</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, upper register, under the cornice</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Between semidome and semicylindrical wall</layout>
+                                <layout>Border band above the figures of standing prelates</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>n/a</p>
+                            <p><rs type="iconography">None</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
