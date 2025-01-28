@@ -40,8 +40,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#crossprocessional">Cross, processional, with tall shaft</rs>
-                                <rs type="iconography" ref="#structures_objects_symbols"></rs>                                
+                            <p><rs type="iconography" ref="#crossprocessional">Cross, processional, with tall shaft</rs>
+                                <rs type="iconography" ref="#object"></rs>                                
                             </p>
                         </decoDesc>
                     </physDesc>
