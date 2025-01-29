@@ -58,8 +58,8 @@
   <xsl:template match="lst[@name='facet_fields']/lst"
                 mode="search-results">
     <xsl:element name="section">
-    <xsl:if test="contains(@name,'iconographic')">
-      <xsl:attribute name="style">margin-top: 20%</xsl:attribute>
+    <xsl:if test="contains(@name,'iconography')">
+      <xsl:attribute name="style">margin-bottom: 20%</xsl:attribute>
     </xsl:if>
       <p class="title" data-section-title="">
         <a href="#" onclick="toggle_visibility('{@name}');">

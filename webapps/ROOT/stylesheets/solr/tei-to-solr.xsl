@@ -131,9 +131,21 @@
     </field>
   </xsl:template>
   
+  <!-- Treat both iconographic facet fields the same - they should have the same set of values. -->
   <xsl:template match="tei:rs[@type='iconography']/@ref" mode="facet_iconography">
+    <xsl:variable name="id" select="substring-after(., '#')"/>
+    <xsl:variable name="iconographyAL" select="'../../content/xml/authority/iconography.xml'"/>
     <field name="iconography">
-      <xsl:value-of select="."/>
+     <!-- <xsl:value-of select="substring-after(., '#')"/>-->
+      <xsl:choose>
+      <xsl:when test="doc-available($iconographyAL) = fn:true() and document($iconographyAL)//tei:item[@xml:id=$id]">
+        <xsl:value-of select="normalize-space(translate(translate(translate(document($iconographyAL)//tei:item[@xml:id=$id][1], '/', '／'), '_', ' '), '(?)', ''))"/>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:text>xx </xsl:text>
+        <xsl:value-of select="$id" />
+      </xsl:otherwise>
+      </xsl:choose>
     </field>
   </xsl:template>
   
@@ -144,10 +156,10 @@
     <field name="iconographic_categories">
       <xsl:choose>
         <xsl:when test="doc-available($iconographyAL) = fn:true() and document($iconographyAL)//tei:item[@xml:id=$id]">
-          <xsl:value-of select="normalize-space(translate(translate(translate(document($iconographyAL)//tei:item[@xml:id=$id][1]/preceding-sibling::tei:head, '/', '／'), '_', ' '), '(?)', ''))"/>
+          <xsl:value-of select="normalize-space(translate(translate(translate(document($iconographyAL)//tei:item[@xml:id=$id][1], '/', '／'), '_', ' '), '(?)', ''))"/>
         </xsl:when>
         <xsl:otherwise>
-          <xsl:text>Uncat. </xsl:text>
+          <xsl:text>xx </xsl:text>
           <xsl:value-of select="$id" />
         </xsl:otherwise>
       </xsl:choose>

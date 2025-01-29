@@ -51,55 +51,17 @@
             </xsl:choose>
           </field>
           <field name="index_item_type">
-            <xsl:if test="doc-available($iconographyAL) = fn:true() and $idno">
+           <!-- <xsl:if test="doc-available($iconographyAL) = fn:true() and $idno">
                  <xsl:value-of select="$idno/preceding-sibling::tei:head"/>
-                 
-                <!--
-              <xsl:choose>
-                 <xsl:when test="$idno/parent::tei:list[@type='christological_narrative']">
-                  <xsl:text>Christological narrative scenes</xsl:text>
-                </xsl:when>
-                <xsl:when test="$idno/parent::tei:list[@type='mariological_narrative']">
-                  <xsl:text>Mariological narrative scenes</xsl:text>
-                </xsl:when>
-                <xsl:when test="$idno/parent::tei:list[@type='other_compositions']">
-                  <xsl:text>Other compositions</xsl:text>
-                </xsl:when>
-                <xsl:when test="$idno/parent::tei:list[@type='sacred_objects']">
-                  <xsl:text>Sacred objects</xsl:text>
-                </xsl:when>
-                <xsl:when test="$idno/parent::tei:list[@type='individual_saintly_figures']">
-                  <xsl:text>Individual saintly figures</xsl:text>
-                </xsl:when>
-                <xsl:when test="$idno/parent::tei:list[@type='supplicants']">
-                  <xsl:text>Supplicants</xsl:text>
-                </xsl:when>
-                <!-\- EM adding from iconography.xml -\->
-                
-                <xsl:when test="$idno/parent::tei:list[@type='individual_figure_iconography']">
-                  <xsl:value-of select="$idno/preceding-sibling::tei:head"/>
-                 <xsl:text>Individual Figures</xsl:text>
-                </xsl:when>
-                <xsl:when test="$idno/parent::tei:list[@type='scenecategories']">
-                  <xsl:text>Narrative Scene Categories</xsl:text>
-                </xsl:when>
-                <xsl:when test="$idno/parent::tei:list[@type='scene']">
-                  <xsl:text>Narrative Scenes</xsl:text>
-                </xsl:when>
-                <xsl:when test="$idno/parent::tei:list[@type='individual_figures']">
-                  <xsl:text>Individual Figures</xsl:text>
-                </xsl:when>
-                <xsl:when test="$idno/parent::tei:list[@type='individual_figure_categories']">
-                  <xsl:text>Individual Figure (Categories)</xsl:text>
-                </xsl:when>
-                <xsl:when test="$idno/parent::tei:list[@type='gender']">
-                  <xsl:text>Gender</xsl:text>
-                </xsl:when>
-                <xsl:when test="$idno/parent::tei:list[@type='structures_objects_symbols']">
-                  <xsl:text>Structures - Objects - Symbols</xsl:text>
-                </xsl:when>
-              </xsl:choose>-->
-            </xsl:if>
+            </xsl:if> -->
+            <xsl:choose>
+              <xsl:when test="doc-available($iconographyAL) = fn:true() and $idno">
+                <xsl:value-of select="$idno//tei:term[1]" />
+              </xsl:when>
+              <xsl:otherwise>
+                <xsl:value-of select="$id" />
+              </xsl:otherwise>
+            </xsl:choose>
           </field>
           <xsl:apply-templates select="current-group()" />
         </doc>

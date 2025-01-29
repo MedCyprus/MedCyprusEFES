@@ -12,16 +12,16 @@
   <!--<facet.field>mentioned_places</facet.field>-->
   <!--<facet.field>mentioned_institutions</facet.field>-->
   <!--<facet.field>mentioned_divinities</facet.field>-->
+  <facet.field>iconographic_categories</facet.field>
+  <facet.field>iconography</facet.field>
+  <facet.field>inscription_type</facet.field>
   <facet.field>administrative_district</facet.field>
   <facet.field>ecclesiastical_diocese</facet.field>
   <facet.field>origin_place</facet.field>
   <facet.field>monument_context</facet.field>
   <facet.field>monument_function</facet.field>
   <facet.field>placement</facet.field>
-  <facet.field>inscription_type</facet.field>
-  <facet.field>iconographic_categories</facet.field>
-  <facet.field>iconography</facet.field>
-   <facet.limit>-1</facet.limit>
+  <facet.limit>-1</facet.limit>
   <facet.mincount>1</facet.mincount>
   <!-- facet.sort's value may be either "index" (alphabetic order of
        value) or "count" (numeric order of count). -->
