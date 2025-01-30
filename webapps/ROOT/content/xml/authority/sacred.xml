@@ -605,16 +605,22 @@
                     <note>See also: Christ, Jesus Christ, King of Glory, Word, Master</note>
                 </person>
                 
-                <person xml:id="Lazaros">
-                    <persName xml:lang="grc">Λάζαρος</persName>
-                    <persName xml:lang="en">Lazaros</persName>
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q539890</idno>                   
+                <person xml:id="Laurentios">
+                    <persName xml:lang="grc">Λαυρέντιος</persName>
+                    <persName xml:lang="en">Laurentios</persName> 
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q17590</idno>                   
                 </person>
                 
                 <person xml:id="Lauros">
                     <persName xml:lang="grc">Λαύρος</persName>
                     <persName xml:lang="en">Lauros</persName> 
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2333926</idno>                   
+                </person>
+                
+                <person xml:id="Lazaros">
+                    <persName xml:lang="grc">Λάζαρος</persName>
+                    <persName xml:lang="en">Lazaros</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q539890</idno>                   
                 </person>
                 
                 <person xml:id="LeoPopeOfRome">
