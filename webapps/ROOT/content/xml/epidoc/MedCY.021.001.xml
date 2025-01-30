@@ -79,14 +79,22 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                     <cb n="a"/>
+                    <lb n="1"/>Ὁ
+                    <lb n="2"/><persName type="sacred" key="Laurentios"><w lemma="ἅγιος"><choice><orig>ά</orig><reg>ἅ</reg></choice>
+                    <lb n="3" break="no" />γι
+                    <lb n="4" break="no"/>ο
+                    <lb n="5" break="no"/><supplied reason="lost">ς</supplied></w>
+                  <cb n="b"/>
+                  <lb n="1"/><name nymRef="#Λαυρέντιος"><choice><sic>Λα
+                      <lb n="2" break="no"/>βρ<supplied reason="lost">έ</supplied>νττ<supplied reason="lost">ιος</supplied></sic><corr>Λαυρέντιος</corr></choice></name></persName>    
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <app loc="b"><rdg source="#Perdiki2023">[ΙΩΑΝΝΗΣ Ο] ΛΑ[ΜΠΑΔΙΣΤΗΣ]</rdg></app>
             </div>
             <div type="translation">
-                <p>Saint Laur[n]tt[os]</p>
+                <p>Saint Laur[e]nt[ios]</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
