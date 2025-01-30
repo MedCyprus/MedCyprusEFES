@@ -70,7 +70,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+        <graphic rend="primary" url="021-001-01.JPG"><desc>Deacon, unidentified, inscription</desc></graphic>
+        <graphic url="021-001-02.JPG"><desc>Deacon, unidentified, inscription detail</desc></graphic>
+        <graphic url="021-001-03.JPG"><desc>Deacon, unidentified, inscription detail</desc></graphic>
+        <graphic url="021-001-04.JPG"><desc>Deacon, unidentified, general view</desc></graphic>      
     </facsimile>
     <text>
         <body>
@@ -83,14 +86,14 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Saint Laur[n]tt[os]</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl><ptr target="#Perdiki2023"/>,<citedRange> 48-49</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
