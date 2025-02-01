@@ -42,11 +42,11 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="iconography.xml#VirginEnthroned">Virgin enthroned with Christ Child</rs>
-                            <!--<rs type="iconography" ref="#ChristChild"></rs>-->
+                            <rs type="iconography" ref="#ChristChild"></rs>
                             <rs type="iconography" ref="#individual_figure"></rs>
                             <rs type="iconography" ref="#female"></rs>
-                            <!--<rs type="iconography" ref="#divine"></rs>-->
-                            <!--<rs type="iconography" ref="#male"></rs>-->
+                            <rs type="iconography" ref="#divine"></rs>
+                            <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
