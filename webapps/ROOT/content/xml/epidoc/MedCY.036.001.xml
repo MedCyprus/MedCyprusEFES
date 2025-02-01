@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Virgin and Christ child enthroned</title>
+                <title>Virgin and Christ Child enthroned</title>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semidome</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -41,7 +41,13 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#VirginEnthroned">Virgin and Christ child enthroned</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#VirginEnthroned">Virgin enthroned with Christ Child</rs>
+                            <!--<rs type="iconography" ref="#ChristChild"></rs>-->
+                            <rs type="iconography" ref="#individual_figure"></rs>
+                            <rs type="iconography" ref="#female"></rs>
+                            <!--<rs type="iconography" ref="#divine"></rs>-->
+                            <!--<rs type="iconography" ref="#male"></rs>-->
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
