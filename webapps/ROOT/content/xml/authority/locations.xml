@@ -1941,8 +1941,7 @@
                         <bibl><ptr target="bibliography.xml#HatfieldYoung1983"/><citedRange>321-81</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>76-79</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#HadjichristodoulouMyrianthefs2009"/></bibl>
-                        <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange> 107-8, 111-2</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Metcalf2009"/><citedRange>227</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange> 107-8, 111-2</citedRange></bibl>                     
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange> 334, 341-52</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kalopissi-Verti2012"/><citedRange>115-208</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MoutafovRhoby2012"/><citedRange> 185</citedRange></bibl>
@@ -1965,6 +1964,7 @@
                         <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange> 107-8, 111-2</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#HadjichristodoulouMyrianthefs2002"/></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>599-605, 648</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Metcalf2009"/><citedRange>227</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange>341-52</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>3: 120-25</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MoutafovRhoby2012"/><citedRange> 181-7</citedRange></bibl>
