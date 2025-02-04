@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, central bay, south wall, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
@@ -37,11 +37,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Letters in majuscule except υν in the word προστάτυν (line 6). Characters' size varies. Omega with crosslet, gama with a wavy horizontal bar, final sigma in ligature OC formed with a wavy, vertical line. Throughout the inscription there are many ligatures of the letters ΑΓ, ΑΡ, CT, ΟC, EI, ΤΡ, TH, ΗΡ, ΤΝ, ΝΜ, ΑΠ, ΟΥ, ΑΝ, ΤΟ, ΠΡ, ΝΗΜ, and ΔΗ. Tau is often positioned above omega and υν. Accents and breathings almost systematic. Breathings of the modern variety (circular).
+                            <handNote>White letters against blue background. Letters in majuscule except υν in the word προστάτυν (line 6). Characters' size varies. Omega with crosslet, gamma with a wavy horizontal bar, final sigma in ligature OC, formed with a wavy, vertical line. ΑΓ, ΑΡ, CT, ΟC, EI, ΤΡ, TH, ΗΡ, ΤΝ, ΝΜ, ΑΠ, ΟΥ, ΑΝ, ΤΟ, ΠΡ, ΝΗΜ, ΔΗ joined in ligature. Tau above omega and υν. Accents and breathings almost systematic. Breathings of the modern variety (circular).
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#DonorPortrait">Donor portraits</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#DonorPortrait">Donor portraits</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,8 +67,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-053-01.JPG"><desc>Naos, central bay, south wall, lunette, inscription</desc></graphic>
-        <graphic url="044-053-02.JPG"><desc>Naos, central bay, south wall, lunette, general view </desc></graphic>
+         <graphic rend="primary" url="044-053-01.JPG"><desc>Dedicatory verse inscription, inscription</desc></graphic>
+        <graphic url="044-053-02.JPG"><desc>Dedicatory verse inscription, general view </desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -101,17 +101,22 @@
                     On the terrible day of judfement. (<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 79</citedRange></bibl>)</p> 
             </div>
             <div type="commentary">
-                <p> Very good condition. The inscriprion is made up of seven lines, which correspond to six verses. The sigla, which often mark the beginning and end of verses, are missing from this poem. The words βίῳ, χορηγός, ὡράθης, οἰκτρός, ἱκέτης, ἤγειρα, τόνδε, τόν, αἰτῶ, προστάτιν, εὑρηκέναι, τῇ as well φρικώδει are misspelled. Breathings and accents with errrors.</p>
+                <p>The inscriprion is made up of seven lines, which correspond to six verses. The sigla, which often mark the beginning and end of verses, are missing from this poem. The words βίῳ, χορηγός, ὡράθης, οἰκτρός, ἱκέτης, ἤγειρα, τόνδε, τόν, αἰτῶ, προστάτιν, εὑρηκέναι, τῇ as well φρικώδει are misspelled. Breathings and accents with errrors.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
+                   <bibl><ptr target="#Buckler1933"/>,<citedRange> 342-43</citedRange></bibl>
                    <bibl><ptr target="#Stylianou1960"/>,<citedRange> 98</citedRange></bibl>  
-                    <bibl><ptr target="#Papageorgiou1965a"/>,<citedRange> 16-17</citedRange></bibl>
+                   <bibl><ptr target="#Papageorgiou1965a"/>,<citedRange> 16-17</citedRange></bibl>
                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 11</citedRange></bibl>   
-                   <bibl><ptr target="#Papageorgiou2003"/>,<citedRange> 107-8</citedRange></bibl> 
+                   <bibl><ptr target="#Stylianou1973"/>,<citedRange> 4-6</citedRange></bibl>
+                   <bibl><ptr target="#HatfieldYoung1983"/>,<citedRange> 322</citedRange></bibl>
+                    <bibl><ptr target="#Wharton1988"/>,<citedRange> 76</citedRange></bibl>
+                   <bibl><ptr target="#Papageorgiou2003"/>,<citedRange> 107-08</citedRange></bibl> 
+                    <bibl><ptr target="#HadjichristodoulouMyrianthefs2009"/>,<citedRange> 19</citedRange></bibl>
                    <bibl><ptr target="#Rhoby2009"/>,<citedRange> 349</citedRange></bibl>
-                   <bibl><ptr target="#Ševčenko2012"/>,<citedRange> 79</citedRange></bibl>
-                   <bibl><ptr target="#VisCult"/>,<citedRange> 184</citedRange></bibl>  
+                   <bibl><ptr target="#Ševčenko2012"/>,<citedRange> 79-80</citedRange></bibl>
+                   <bibl><ptr target="#VisCult"/>,<citedRange> 184-85</citedRange></bibl>  
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
