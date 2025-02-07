@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Nativity, angel addresses the shepherd</title>
                 <author xml:id="tp">Theocharis Petrou</author>
+                <author xml:id="ds">Deniz Sever Georgousakis</author>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -27,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, south wall, lunette, on the right</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -37,7 +38,7 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White letters against blue background. Majuscule letters. NNH in ligature. Accents and breathings systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -77,17 +78,21 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
-               </ab>
+              <ab>
+                  <lb n="1"/><w lemma="παύω">Πα<supplied reason="lost">ύσ</supplied>α<supplied reason="lost">τε</supplied></w>
+                  <lb n="2"/><w lemma="ἀγραυλῶ">ἀγραυλο<supplied reason="lost">ῦ</supplied>ντες</w>                  
+                  <lb n="3"/>ὅτι <w lemma="σήμερον">σ<supplied reason="lost">ή</supplied><unclear>μ</unclear><supplied reason="lost">ε</supplied>ρον</w> <w lemma="">ἐγεννή<supplied reason="lost">θη</supplied></w>
+                  <lb n="4"/><supplied reason="lost">ἡ</supplied> <w lemma="σωτηρία"><expan><abbr rend="supraline">σ</abbr><ex>ωτη</ex><abbr rend="supraline">ρία</abbr></expan></w> το<unclear>ῦ</unclear> <w lemma="κόσμος"><unclear>κ</unclear>όσμ<supplied reason="lost">ου</supplied></w>
+              </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Do not wander in the fields, today the Savior of the world has been born?</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>The inscription is from the hymns sung during the Christmas Eve.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
