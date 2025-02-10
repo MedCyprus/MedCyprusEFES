@@ -38,11 +38,13 @@
                             <handNote>White letters against blue background. The word ὁ προφήτης is fully rendered by an abbreviation. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
-                        <p><rs type="iconography" ref="#Solomon">Solomon</rs>
+                        <decoDesc>
+                            <p><rs type="iconography" ref="#Solomon">Solomon</rs>
                                 <rs type="iconography" ref="#individual_figure"></rs>
                                 <rs type="iconography" ref="#prophet"></rs>
                                 <rs type="iconography" ref="#male"></rs>
                             </p>
+                        </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
