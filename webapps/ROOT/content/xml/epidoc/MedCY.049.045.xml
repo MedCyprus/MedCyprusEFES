@@ -77,8 +77,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <lb n="1"/>Ὁ <persName type="sacred" key="MenasKallikelados"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w> 
-                      <name nymRef="#Μηνάς">Μηνᾶς [Καλ]λικέ̣[λ]α-
-                   <lb n="2" break="no"/>[δος]</name></persName>
+                      <name nymRef="#Μηνάς"><hi rend="ligature">Μην</hi>ᾶς <supplied reason="lost">Καλ</supplied>λικ<unclear>έ</unclear><supplied reason="lost">λ</supplied>α
+                   <lb n="2" break="no"/><supplied reason="lost">δος</supplied></name></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -88,7 +88,7 @@
                 <p>Saint Menas Kallikelados</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
