@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Annunciation, the Virgin's response to Gabriel</title>
                 <author xml:id="tp">Theocharis Petrou</author>
+                <author xml:id="ds">Deniz Sever Georgousakis</author>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -27,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Good condition.</rs>
                                     <rs type="placement-building" ref="#dome">Dome, northwestern pendentive</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -37,7 +38,7 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. HM in ligature. Horizontal line above the abbreviation of Κ(υρίο)υ. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -74,17 +75,24 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                   <lb n="1"/><g ref="#cross">+</g><w lemma="Ἰδού">Ἰδοὺ</w>
+                   <lb n="2" break="no"/>ἡ <w lemma="δούλη">δού
+                  <lb n="3"/>λη</w> <persName type="divine" key="Lord"><name nymRef="#Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ύ</reg></choice></abbr></expan></name></persName>
+                  <lb n="4" break="no"/><w lemma="γίγνομαι">γένοι                  
+                  <lb n="5"/>τό</w> <w lemma="ἐγώ">μοι</w>
+                  <lb n="6"/>κατὰ τ<choice><orig>ο</orig><reg>ὸ</reg></choice>
+                  <lb n="7"/><w lemma="ῥῆμα"><choice><orig>ρ</orig><reg>ῥ</reg></choice><hi rend="ligature"><choice><orig>ή</orig><reg>ῆ</reg></choice>μ</hi><choice><orig>α</orig><reg>ά</reg></choice></w> <w lemma="σύ">σο<choice><orig>ῦ</orig><reg>υ</reg></choice></w>
                </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>I am the Lord’s servant. May your word to me be fulfilled.</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>The inscription is based on the dialogue between the Archangel Gabriel and the Virgin according to Luke 1:28, 38.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
