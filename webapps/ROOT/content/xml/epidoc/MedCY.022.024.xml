@@ -5,43 +5,43 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Prophet Solomon's scroll</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <title>Prophet Daniel</title>
+                <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
-                <editor xml:id="mgp">Maria G. Parani</editor>
+                <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.036.068</idno>
+                <idno type="filename">MedCY.022.024</idno>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                  <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
                 </availability>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>n/a</repository>    
+                        <repository>n/a</repository>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#dome">Dome, drum, southeast segment, second figure from the east window</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#dome">Dome, drum, northwest segment, second figure from the west window</rs>
                                     <dimensions><height>n/a</height></dimensions>
-                                </support>
+                                </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the open scroll held in both hands by the figure</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                            <handNote>PENDING
                             </handNote>
                         </handDesc>
-                        <decoDesc>
-                            <p><rs type="iconography" ref="#Solomon">Solomon</rs>
+                         <decoDesc>
+                            <p><rs type="iconography" ref="#Danie;">Daniel</rs>
                                 <rs type="iconography" ref="#individual_figure"></rs>
                                 <rs type="iconography" ref="#prophet"></rs>
                                 <rs type="iconography" ref="#male"></rs>
@@ -50,13 +50,12 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Lagoudera">Lagoudera, Panagia tou Araka or Arakiotissa </origPlace>
-                            <origDate when="1192-12" precision="high">Indiction 11, December 1192</origDate>
-                         </origin>
+                            <origPlace ref="locations.xml#KalopanagiotisKatholikon">Kalopanagiotis, Monastery of Saint John Lampadistes, church of Saint Herakleidios</origPlace>
+                            <origDate notBefore="1251" notAfter="1300" precision="medium">Second half of 13th century</origDate>
+                        </origin>
                         <provenance when="2022">
-                        </provenance>
-                        <provenance type="observed" resp="#tp">26-27/09/2022
-                        </provenance>
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">16/09/2022</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -64,35 +63,35 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
+                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-068-01.JPG"><desc>Prophet Solomon's scroll, inscription</desc></graphic>
-        <graphic url="036-068-02.JPG"><desc>Prophet Solomon's scroll, general view</desc></graphic>
-              </facsimile>
+        <graphic rend="primary" url="022-024-01.JPG"><desc>Prophet Daniel, inscription</desc></graphic>
+        <graphic url="022-024-02.JPG"><desc>Prophet Daniel, general view</desc></graphic>
+    </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
-               </ab>
+                   PENDING
+                 </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Prophet Daniel</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
