@@ -76,7 +76,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/>
+                  <lb n="1"/>Ὁ <persName type="sacred" key="MenasKallikelados"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w> 
+                      <name nymRef="#Μηνάς">Μηνᾶς [Καλ]λικέ̣[λ]α-
+                   <lb n="2" break="no"/>[δος]</name></persName>
                </ab>
             </div>
             <div type="apparatus">
