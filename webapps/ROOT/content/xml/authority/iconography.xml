@@ -695,7 +695,10 @@
                     <term xml:lang="en">wife of Ioannes, Kakopetria, St Nicholas of the Roof</term>
                 </item>
                 <item xml:id="Zacharias">
-                    <term xml:lang="en">Zacharias</term>
+                    <term xml:lang="en">Zacharias</term><!--for the priest/prophet and father of John the Forurunner -->
+                </item>
+                <item xml:id="Zechariah">
+                    <term xml:lang="en">Zechariah</term><!--for the prophet-->
                 </item>
                 <item xml:id="Zenon"> 
                     <term xml:lang="en">Zenon</term>
