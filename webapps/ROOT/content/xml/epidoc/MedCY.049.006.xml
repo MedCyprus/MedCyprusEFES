@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Communion of the Apostle, Metalepsis (Offering of the Wine)</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                <author xml:id="ds">Deniz Sever Georgousakis</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -42,7 +42,13 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#CommunionApostlesMetalepsis">Communion of the Apostles, Metalepsis (Offering of the Wine)</rs></p>
+                            <p><rs type="iconography" ref="#CommunionApostlesMetalepsis">Communion of the Apostles, Metalepsis (Offering of the Wine)</rs>
+                                <rs type="iconography" ref="#Christ"></rs>
+                                <rs type="iconography" ref="#divine"></rs>
+                                <rs type="iconography" ref="#scene"></rs>
+                                <rs type="iconography" ref="#apostle"></rs>
+                                <rs type="iconography" ref="#male"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,8 +74,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="049-006-01.JPG"><desc>Bema, apse, semicylidrical wall, south half, upper register, inscription</desc></graphic>
-        <graphic url="049-006-02.JPG"><desc>Bema, apse, semicylidrical wall, south half, upper register, general view</desc></graphic>
+         <graphic rend="primary" url="049-006-01.JPG"><desc>Communion of the Apostle, Metalepsis (Offering of the Wine), inscription</desc></graphic>
+        <graphic url="049-006-02.JPG"><desc>Communion of the Apostle, Metalepsis (Offering of the Wine), general view</desc></graphic>
         
     </facsimile>
     <text>
