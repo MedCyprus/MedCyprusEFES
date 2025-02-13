@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Lazaros</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                 <author xml:id="ds">Deniz Sever Georgousakis</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                                     </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Accents and breathings systematic. Letter height: <height unit="cm">3,5-7</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. The lower horizontal line of zeta is bent downwards with a design. Final wavy sigma is extended under the letters ΡΟ. Accents and breathings systematic. Letter height: <height unit="cm">3,5-7</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -80,7 +81,16 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/>Ὁ <persName type="sacred" key="Lazaros"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                     <cb n="a"/>   
+                       <lb n="1"/><name nymRef="#Λάζαρος">Λ
+               <lb n="1" break="no"/>ά
+              <lb n="2" break="no"/>ζ
+               <lb n="3" break="no"/>α
+               <lb n="4" break="no"/>ρο
+                  <lb n="5" break="no"/>ς</name></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -90,7 +100,7 @@
                 <p>Saint Lazaros</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
