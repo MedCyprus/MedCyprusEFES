@@ -77,7 +77,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                    <lb n="1"/>Ὁ <persName type="sacred" key="Hermogenes"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <name nymRef="#Ἑρμογένης">Ἑρμο
-                  <lb n="2"/>γένις</name></persName>
+                  <lb n="2" break="no"/>γένις</name></persName>
                </ab>
             </div>
             <div type="apparatus">
