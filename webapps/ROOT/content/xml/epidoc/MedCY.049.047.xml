@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Eugraphos</title>
                 <author xml:id="tp">Theocharis Petrou</author>
+                <author xml:id="ds">Deniz Sever Georgousakis</author>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -27,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, south wall, soffit, west side, next to saint Hermogenes</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -74,7 +75,10 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/>Ὁ <persName type="sacred" key="Eugraphos"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                  <lb n="2"/><name nymRef="#Εὐγραφος">Εὔ <milestone unit="column" n="right"/><lb n="1"/>γραφ
+                <lb n="2" break="no"/>ο<supplied reason="lost">ς</supplied></name></persName>
                </ab>
             </div>
             <div type="apparatus">
