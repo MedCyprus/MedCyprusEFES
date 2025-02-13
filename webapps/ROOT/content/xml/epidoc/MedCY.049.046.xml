@@ -38,7 +38,7 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -76,8 +76,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/>Ὁ <persName type="sacred" key="Hermogenes"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <name nymRef="#Ἑρμογένης">Ἑρμο
-                  <lb n="2" break="no"/>γένις</name></persName>
+                   <lb n="1"/>Ὁ <persName type="sacred" key="Hermogenes"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <milestone unit="column" n="right"/><name nymRef="#Ἑρμογένης"><choice><sic>Ἑρμο
+                  <lb n="2" break="no"/>γένις</sic><corr>Ἑρμογένης</corr></choice></name></persName>
                </ab>
             </div>
             <div type="apparatus">
