@@ -22,7 +22,9 @@
                 
                 <person xml:id="Abraham">
                     <persName xml:lang="grc">Ἀβραάμ</persName>
-                    <persName xml:lang="en">Abraham</persName>                   
+                    <persName xml:lang="en">Abraham</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="Abraham" key="Rightneous">ὁ Δίκαιος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Abraham" key="Rightneous">Rightneous</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9181</idno>                   
                 </person>
                 
