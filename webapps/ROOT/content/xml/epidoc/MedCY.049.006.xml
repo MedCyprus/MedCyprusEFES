@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Communion of the Apostle, Metalepsis (Offering of the Wine)</title>
+                <title>Communion of the Apostles, Metalepsis (Offering of the Wine)</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -74,8 +74,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="049-006-01.JPG"><desc>Communion of the Apostle, Metalepsis (Offering of the Wine), inscription</desc></graphic>
-        <graphic url="049-006-02.JPG"><desc>Communion of the Apostle, Metalepsis (Offering of the Wine), general view</desc></graphic>
+         <graphic rend="primary" url="049-006-01.JPG"><desc>Communion of the Apostles, Metalepsis (Offering of the Wine), inscription</desc></graphic>
+        <graphic url="049-006-02.JPG"><desc>Communion of the Apostles, Metalepsis (Offering of the Wine), general view</desc></graphic>
         
     </facsimile>
     <text>
