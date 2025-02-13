@@ -6,9 +6,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Cryptograms</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                <author xml:id="ds">Deniz Sever Georgousakis</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -28,8 +28,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Good condition.</rs>
-                                    <rs type="placement-building" ref="#bema">Bema, prothesis</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType> Well preserved.</rs>
+                                    <rs type="placement-building" ref="#prothesis">Prothesis</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
@@ -38,11 +38,14 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Brown letters against ochre background. Majuscule letters. Characters' size varies. Horizontal wavy line above all the abbreviations. Accents and breathings non systematic. Letter height: <height unit="cm">4-5</height>
+                            <handNote>Brown letters against ochre background. Majuscule letters. Characters' size varies. Horizontal wavy line above all the abbreviations. Accents and breathings non-systematic. Letter height: <height unit="cm">4-5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#CrossProcessional">Patriarchal cross</rs></p>
+                            <p><rs type="iconography" ref="#crossprocessional">Cross, processional</rs>
+                                <rs type="iconography" ref="#structures_objects_symbols"></rs>
+                                <rs type="iconography" ref="#object"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,9 +71,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="049-019-01.JPG"><desc>Bema, prothesis, inscription</desc></graphic>
-        <graphic url="049-019-02.JPG"><desc>Bema, prothesis, inscription detail</desc></graphic>
-        <graphic url="049-019-03.JPG"><desc>Bema, prothesis, general view</desc></graphic>
+        <graphic rend="primary" url="049-019-01.JPG"><desc>Cryptograms, inscription</desc></graphic>
+        <graphic url="049-019-02.JPG"><desc>Cryptograms, inscription detail</desc></graphic>
+        <graphic url="049-019-03.JPG"><desc>Cryptograms, general view</desc></graphic>
     </facsimile>
     <text>
         <body>

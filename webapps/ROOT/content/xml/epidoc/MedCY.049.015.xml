@@ -6,9 +6,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Epiphanios</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                <author xml:id="ds">Deniz Sever Georgousakis</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -34,7 +34,7 @@
                                     </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the medallion with the representation of the saint</layout>
+                                <layout>On either side of the medallion with the representation of the figure</layout>
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -42,7 +42,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Epiphanios">Epiphanios</rs></p>
+                            <p><rs type="iconography" ref="#Epiphanios">Epiphanios</rs>
+                                <rs type="iconography" ref="#individual_figure"></rs>
+                                <rs type="iconography" ref="#prelate"></rs>
+                                <rs type="iconography" ref="#male"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,9 +72,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="049-015-01.JPG"><desc>Bema, apse, semicylindrical wall, center, beneath the windows, next to St. Barnabas, inscription</desc></graphic>
-        <graphic url="049-015-02.JPG"><desc>Bema, apse, semicylindrical wall, center, beneath the windows, next to St. Barnabas, inscription detail</desc></graphic>
-        <graphic url="049-015-03.JPG"><desc>Bema, apse, semicylindrical wall, center, beneath the windows, next to St. Barnabas, general view</desc></graphic>
+        <graphic rend="primary" url="049-015-01.JPG"><desc>Saint Epiphanios, inscription</desc></graphic>
+        <graphic url="049-015-02.JPG"><desc>Saint Epiphanios, inscription detail</desc></graphic>
+        <graphic url="049-015-03.JPG"><desc>Saint Epiphanios, general view</desc></graphic>
     </facsimile>
     <text>
         <body>

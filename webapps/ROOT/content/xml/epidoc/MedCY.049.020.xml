@@ -5,10 +5,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint John Lampadistes</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                <author xml:id="ds">Deniz Sever Georgousakis</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <title>Saint John Lampadistes/Merciful?</title>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -28,13 +28,13 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Partially preserved.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, south recess, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -42,7 +42,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#JohnLampadistes">John Lampadistes</rs></p>
+                            <p><rs type="iconography" ref="#JohnLampadistes">John Lampadistes?<!--νομίζω τελείως αυθαίρετη η συγκεκριμένη ταύτιση. O Ελεήμων θα έλεγα εγώ. Σώζονται γράμματα στα αριστερά--></rs>
+                                <rs type="iconography" ref="#individual_figure"></rs>
+                                <rs type="iconography" ref="#prelate"></rs>
+                                <rs type="iconography" ref="#male"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,13 +72,13 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="049-020-01.JPG"><desc>Bema, south recess, lunette, inscription</desc></graphic>
-        <graphic url="049-020-02.JPG"><desc>Bema, south recess, lunette, general view</desc></graphic>
+        <graphic rend="primary" url="049-020-01.JPG"><desc>John Lampadistes?, inscription</desc></graphic>
+        <graphic url="049-020-02.JPG"><desc>John Lampadistes?, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>
+              <ab>PENDING
                   <lb n="1"/><persName type="sacred" key="John"><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>I</orig><reg> Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name></persName> 
                </ab>
             </div>

@@ -6,9 +6,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Spyridon</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                <author xml:id="ds">Deniz Sever Georgousakis</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -28,21 +28,25 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Partially preserved.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, north recess, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White against red background. Majuscule letters. Characters' size varies. Accents and breathings non systematic. Letter height: <height unit="cm">2,5-4</height>
+                            <handNote>White against red background. Majuscule letters. Characters' size varies. Accents and breathings non-systematic. Letter height: <height unit="cm">2,5-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Spyridon">Spyridon</rs></p>
+                            <p><rs type="iconography" ref="#Spyridon">Spyridon</rs>
+                                <rs type="iconography" ref="#individual_figure"></rs>
+                                <rs type="iconography" ref="#prelate"></rs>
+                                <rs type="iconography" ref="#male"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,15 +72,15 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="049-017-01.JPG"><desc>Bema, north recess, lunette, inscription</desc></graphic>
-        <graphic url="049-017-02.JPG"><desc>Bema, north recess, lunette, general view</desc></graphic>
+        <graphic rend="primary" url="049-017-01.JPG"><desc>Saint Spyridon, inscription</desc></graphic>
+        <graphic url="049-017-02.JPG"><desc>Saint Spyridon, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <cb n="a"/> 
-                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice><persName type="sacred" key="Spyridon"> <w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w> 
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Spyridon"> <w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w> 
                    <cb n="b"/> 
                       <lb n="1"/><name nymRef="#Σπυρίδων">Σ
                       <lb n="2" break="no"/>πυ

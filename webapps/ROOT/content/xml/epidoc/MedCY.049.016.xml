@@ -6,9 +6,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Abraham</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                <author xml:id="ds">Deniz Sever Georgousakis</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -28,13 +28,13 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Poorly preserved.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, east vault, south side, below the Ascension panel, first medallion on the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the prophet's head</layout>
+                                <layout>On either side of the figure's head</layout>
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -42,7 +42,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Abraham">Abraham</rs></p>
+                            <p><rs type="iconography" ref="#Abraham">Abraham</rs>
+                                <rs type="iconography" ref="#individual_figure"></rs>
+                                <rs type="iconography" ref="#prophet"></rs>
+                                <rs type="iconography" ref="#male"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,8 +72,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="049-016-01.JPG"><desc>Bema, east vault, south side, below the Ascension panel, first medallion on the left, inscription</desc></graphic>
-        <graphic url="049-016-02.JPG"><desc>Bema, east vault, south side, below the Ascension panel, first medallion on the left, general view</desc></graphic>
+        <graphic rend="primary" url="049-016-01.JPG"><desc>Abraham, inscription</desc></graphic>
+        <graphic url="049-016-02.JPG"><desc>Abraham, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
