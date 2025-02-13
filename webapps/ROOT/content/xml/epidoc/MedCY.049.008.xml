@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint John Chrysostom</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <author xml:id="ds">Deniz Sever Georgousakis</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">4-6</height>
+                             <handNote> White letters against blue background. Majuscule letters. Characters' size varies. Letter height: <height unit="cm">4-6</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -80,7 +81,16 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                  <lb n="1"/>Ὁ <persName type="sacred" key="John Chrysostom"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                  <lb n="2"/><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>
+                  <cb n="b"/>
+                   <lb n="1"/><addName type="epithet" key="Chrysostom">ὁ
+                    <lb n="2"/>Χρυ
+                   <lb n="3" break="no"/><supplied reason="lost">σόστο</supplied>
+                   <lb n="4" break="no"/>μο
+                    <lb n="5" break="no"/>ς</addName></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -90,7 +100,7 @@
                 <p>Saint John Chrysostom</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
