@@ -6,9 +6,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Song of Moses</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                <author xml:id="ds">Deniz Sever Georgousakis</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -81,8 +81,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
-                    <lb n="1"/>κ<unclear>α</unclear><unclear>ὶ</unclear><space quantity="3" unit="character"></space> προ <space quantity="3" unit="character"></space> σκυ<space quantity="3" unit="character"></space>  νη <space quantity="3" unit="character"></space> σ<supplied reason="lost">άτ <space quantity="3" unit="character"></space> ωσαν<space quantity="3" unit="character"></space>  αὐτ<space quantity="3" unit="character"></space> </supplied><unclear>ῷ</unclear><space quantity="3" unit="character"></space>  πάν <space quantity="3" unit="character"></space> τες <space quantity="3" unit="character"></space> ἄ <space quantity="3" unit="character"></space> γγε <space quantity="3" unit="character"></space> λοι <space quantity="3" unit="character"></space> <expan><abbr>Θ</abbr><ex>εο</ex>ῦ</expan>        
+              <ab>
+                    <lb n="1"/>κ<unclear>α</unclear><unclear>ὶ</unclear><space quantity="6" unit="character"></space> <w lemma="προσκυνῶ">προ<space quantity="6" unit="character"></space>σκυ<space quantity="6" unit="character"></space>νη<space quantity="6" unit="character"></space> σ<supplied reason="lost">άτ<space quantity="4" unit="character"></space>ωσαν</supplied></w><space quantity="6" unit="character"></space><w lemma="αὐτός"><supplied reason="lost">αὐτ<space quantity="6" unit="character"></space> </supplied><unclear>ῷ</unclear></w><space quantity="6" unit="character"></space><w lemma="πᾶς">πάν<space quantity="6" unit="character"></space> τες</w><space quantity="6" unit="character"></space><w lemma="ἄγγελοι">ἄ<space quantity="6" unit="character"></space> γγε <space quantity="6" unit="character"></space> λοι</w><space quantity="6" unit="character"></space><persName type="divine" key="God"><name nymRef="#Θεός"><w lemma="Θεός"><expan><abbr>Θ</abbr><ex>εο</ex>ῦ</expan></w></name></persName>        
               </ab>
             </div>
             <div type="apparatus">
