@@ -6,9 +6,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Liturgy quotation</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                <author xml:id="ds">Deniz Sever Georgousakis</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Poorly preserved.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#dome">Dome, southwestern pendentive</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -42,7 +42,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#angelicpower">Tetramorph</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#angelicpower">Tetramorph</rs>
+                                  <rs type="iconography" ref="iconography.xml#Angel"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -75,17 +76,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><choice><orig>A</orig><reg>Ἅ</reg></choice><supplied reason="lost">γιος <w lemma="Ἅγιος">Ἅγιος</w> <w lemma="Ἅγιος">Ἅγιος</w> <w lemma="Κύριος">Κύριος</w> <w lemma="Σαββαώθ">Σαββαώθ</w></supplied>
+                  <lb n="1"/><choice><orig>A</orig><reg>Ἅ</reg></choice><supplied reason="lost">γιος, <w lemma="Ἅγιος">Ἅγιος</w>, <w lemma="Ἅγιος">Ἅγιος</w>, <persName type="divine" key="Lord"><name nymRef="#Κύριος">Κύριος<w lemma="Κύριος"></w></name> <addName type="epithet" key="Sabaoth"><w lemma="Σαβαώθ">Σαβαώθ</w></addName></persName></supplied>
                </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Holy, Holy, Holy Lord God of hosts. </p>
+                <p>Holy, [Holy, Holy Lord God of hosts] </p>
             </div>
             <div type="commentary">
-                <p>Part of the Sanctus hymn.</p>
+                <p>Text: Part of the Sanctus hymn</p>
             </div>
             <div type="bibliography">
                  <listBibl>
