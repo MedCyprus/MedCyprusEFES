@@ -6,9 +6,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Nativity, angel addresses the shepherd</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                <author xml:id="ds">Deniz Sever Georgousakis</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -42,9 +42,13 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Nativity">Nativity</rs>
-                            <rs type="iconography" ref="iconography.xml#angel">angel</rs>
-                            <rs type="iconography" ref="iconography.xml#Shepherds">Shepherds</rs></p>
+                            <p><rs type="iconography" ref="#Nativity">Nativity, angel</rs>
+                            <rs type="iconography" ref="#angel"></rs>
+                            <rs type="iconography" ref="#Shepherds"></rs>
+                            <rs type="iconography" ref="#scene">
+                            <rs type="iconography" ref="#christological"></rs>
+                            </rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -70,10 +74,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="049-040-01.jpg"><desc>Nativity, Angel addresses the shepherd, inscription (© DOP: Megaw, Hawkins 1962, fig. 30)</desc></graphic>
-        <graphic url="049-040-02.JPG"><desc>Nativity, Angel addresses the shepherd, inscription</desc></graphic>   
-        <graphic url="049-040-03.jpg"><desc>Nativity, Angel addresses the shepherd, general view(© DOP: Megaw, Hawkins 1962, fig. 30)</desc></graphic>
-        <graphic url="049-040-04.JPG"><desc>Nativity, Angel addresses the shepherd, general view</desc></graphic>
+        <graphic rend="primary" url="049-040-01.jpg"><desc>Nativity, angel addresses the shepherd, inscription (© DOP: Megaw, Hawkins 1962, fig. 30)</desc></graphic>
+        <graphic url="049-040-02.JPG"><desc>Nativity, angel addresses the shepherd, inscription</desc></graphic>   
+        <graphic url="049-040-03.jpg"><desc>Nativity, angel addresses the shepherd, general view(© DOP: Megaw, Hawkins 1962, fig. 30)</desc></graphic>
+        <graphic url="049-040-04.JPG"><desc>Nativity, angel addresses the shepherd, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -81,7 +85,7 @@
               <ab>
                   <lb n="1"/><w lemma="παύω">Πα<supplied reason="lost">ύσ</supplied>α<supplied reason="lost">τε</supplied></w>
                   <lb n="2"/><w lemma="ἀγραυλῶ">ἀγραυλο<supplied reason="lost">ῦ</supplied>ντες</w>                  
-                  <lb n="3"/>ὅτι <w lemma="σήμερον">σ<supplied reason="lost">ή</supplied><unclear>μ</unclear><supplied reason="lost">ε</supplied>ρον</w> <w lemma="">ἐγεννή<supplied reason="lost">θη</supplied></w>
+                  <lb n="3"/>ὅτι <w lemma="σήμερον">σ<supplied reason="lost">ή</supplied><unclear>μ</unclear><supplied reason="lost">ε</supplied>ρον</w> <w lemma="γεννῶ">ἐγεννή<supplied reason="lost">θη</supplied></w>
                   <lb n="4"/><supplied reason="lost">ἡ</supplied> <w lemma="σωτηρία"><expan><abbr rend="supraline">σ</abbr><ex>ωτη</ex><abbr rend="supraline">ρία</abbr></expan></w> το<unclear>ῦ</unclear> <w lemma="κόσμος"><unclear>κ</unclear>όσμ<supplied reason="lost">ου</supplied></w>
               </ab>
             </div>
@@ -89,10 +93,10 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Do not wander in the fields, today the Savior of the world has been born?</p>
+                <p>Do not wander in the fields, today the Savior of the world has been born.</p>
             </div>
             <div type="commentary">
-                <p>The inscription is from the hymns sung during the Christmas Eve.</p>
+                <p>Text: From the hymns sung during the Christmas Eve.</p>
             </div>
             <div type="bibliography">
                  <listBibl>

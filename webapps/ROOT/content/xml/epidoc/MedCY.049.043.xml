@@ -5,10 +5,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nativity, Bath of the child, Salome</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                 <author xml:id="ds">Deniz Sever Georgousakis</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <title>Nativity, Bath of the Child, Salome</title>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Good condition.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType> Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, south wall, lunette, bottom right</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -42,9 +42,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Nativity">Nativity</rs>
-                            <rs type="iconography" ref="iconography.xml#BathChild">Bath of the Child</rs>
-                            <rs type="iconography" ref="iconography.xml#Salome">Salome</rs></p>
+                            <p><rs type="iconography" ref="#Nativity">Nativity, Bath of the Child, Salome</rs>
+                            <rs type="iconography" ref="#BathChild"></rs>
+                            <rs type="iconography" ref="#Salome"></rs>
+                            <rs type="iconography" ref="#scene"></rs>
+                            <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -70,15 +72,15 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="049-043-01.JPG"><desc>Nativity, Bath of the child, Salome, inscription</desc></graphic>
-        <graphic url="049-043-02.JPG"><desc>Nativity, Bath of the child, Salome, general view</desc></graphic>  
+        <graphic rend="primary" url="049-043-01.JPG"><desc>Nativity, Bath of the Child, Salome, inscription</desc></graphic>
+        <graphic url="049-043-02.JPG"><desc>Nativity, Bath of the Child, Salome, general view</desc></graphic>  
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1" />Ἡ <name nymRef="#Σαλώμη"><choice><sic>Σα
-                  <lb n="2" break="no"/>λόμι</sic><corr>Σαλώμη</corr></choice></name>
+                  <lb n="1" /><choice><orig>Η</orig><reg>Ἡ</reg></choice> <name nymRef="#Σαλώμη"><choice><sic>Σα
+                  <lb n="2" break="no"/><unclear>λό</unclear>μι</sic><corr>Σαλώμη</corr></choice></name>
                </ab>
             </div>
             <div type="apparatus">
