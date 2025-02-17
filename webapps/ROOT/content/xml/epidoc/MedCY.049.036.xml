@@ -79,7 +79,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                   <lb n="1"/><persName type="divine" key="Christ"><name nymRef="#Ἰησοῦς Χριστός"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline"><supplied reason="lost">ς</supplied></abbr></expan></name></persName>
                </ab>
             </div>
             <div type="apparatus">
