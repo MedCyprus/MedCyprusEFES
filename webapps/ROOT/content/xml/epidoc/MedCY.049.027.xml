@@ -42,8 +42,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#angelicpower">Angelic power</rs></p>
-                            <p><rs type="iconography" ref="iconography.xml#Angel">Angels</rs></p>
+                            <p><rs type="iconography" ref="#angelicpower">Angelic power</rs></p>
+                            <p><rs type="iconography" ref="#Angel">Angels</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

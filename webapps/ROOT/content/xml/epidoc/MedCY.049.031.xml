@@ -6,9 +6,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Annunciation, Gabriel</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                 <author xml:id="ds">Deniz Sever Georgousakis</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Good condition.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType> Well preserved.</rs>
                                     <rs type="placement-building" ref="#dome">Dome, northeastern pendentive</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -42,8 +42,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Αnnunciation">Αnnunciation</rs>
-                                  <rs type="iconography" ref="iconography.xml#Gabriel">Gabriel</rs></p>
+                            <p><rs type="iconography" ref="#Gabriel">Annunciation, Gabriel</rs>
+                                  <rs type="iconography" ref="#Annunciation"></rs>
+                                  <rs type="iconography" ref="#scene"></rs>
+                                  <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -75,7 +77,7 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab><lb n="1"/>Ὁ <persName type="sacred" key="Gabriel"><name nymRef="#Γαβριήλ"><w lemma="ἀρχάγγελος"><expan><abbr rend="supraline">ἀρχ</abbr><ex>άγγελος</ex></expan> Γαβρ<choice><orig>ϊ</orig><reg>ı</reg></choice><choice><orig>η</orig><reg>ή</reg></choice>λ</w></name></persName>
+              <ab><lb n="1"/>Ὁ <persName type="sacred" key="Gabriel"><name nymRef="#Γαβριήλ"><w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><choice><orig>ἁ</orig><reg>ἀ</reg></choice>ρχ</abbr><ex>άγγελος</ex></expan> Γαβρ<choice><orig>ϊ</orig><reg>ı</reg></choice><choice><orig>η</orig><reg>ή</reg></choice>λ</w></name></persName>
                </ab>
             </div>
             <div type="apparatus">

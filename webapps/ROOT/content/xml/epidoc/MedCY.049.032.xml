@@ -6,9 +6,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Annunciation, Gabriel's address to the Virgin</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                <author xml:id="ds">Deniz Sever Georgousakis</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Good condition.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType> Well preserved.</rs>
                                     <rs type="placement-building" ref="#dome">Dome, northeastern pendentive</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -38,12 +38,14 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. NH in ligature. Horizontal wavy line above the abbreviation of Κύριος. Accents and breathings non systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. NH joined in ligature. Horizontal wavy line above the abbreviation of Κύριος. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Αnnunciation">Αnnunciation</rs>
-                                  <rs type="iconography" ref="iconography.xml#Gabriel">Gabriel</rs></p>
+                            <p><rs type="iconography" ref="#Gabriel">Annunciation, Gabriel</rs>
+                                  <rs type="iconography" ref="#Annunciation"></rs>
+                                  <rs type="iconography" ref="#scene"></rs>
+                                  <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -76,7 +78,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><g ref="#cross">+</g><w lemma="χαίρω">Χα<choice><orig>ί</orig><reg>ῖ</reg></choice>ρε</w> <w lemma="κεχαριτωμένη"><choice><sic>καίχαριτ<choice><orig>ῶ</orig><reg>ω</reg></choice>μέ<hi rend="ligature">νη</hi></sic><corr>κεχαριτωμένη</corr></choice></w> <choice><orig>o</orig><reg>ὁ</reg></choice> <persName  type="divine" key="Lord"><name nymRef="#Κύριος"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύριο</ex><abbr rend="supraline">ς</abbr></expan></w></name></persName> μετ<choice><orig>α</orig><reg>ά</reg></choice> <w lemma="σύ">σοῦ</w> 
+                  <lb n="1"/><g ref="#cross">+</g><w lemma="χαίρω">Χα<choice><orig>ί</orig><reg>ῖ</reg></choice>ρε</w> <w lemma="κεχαριτωμένη"><choice><sic>κα<choice><orig>ὶ</orig><reg>ι</reg></choice>χαριτ<choice><orig>ῶ</orig><reg>ω</reg></choice>μέ<hi rend="ligature">νη</hi></sic><corr>κεχαριτωμένη</corr></choice></w> <choice><orig>o</orig><reg>ὁ</reg></choice> <persName  type="divine" key="Lord"><name nymRef="#Κύριος"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύριο</ex><abbr rend="supraline">ς</abbr></expan></w></name></persName> μετ<choice><orig>α</orig><reg>ά</reg></choice> <w lemma="σύ">σοῦ</w> 
                </ab>
             </div>
             <div type="apparatus">

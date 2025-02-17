@@ -6,9 +6,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Nativity</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                <author xml:id="ds">Deniz Sever Georgousakis</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, south wall, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -42,7 +42,14 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Nativity">Nativity</rs></p>
+                            <p><rs type="iconography" ref="#Nativity">Nativity</rs>
+                                  <rs type="iconography" ref="#ChristChild"></rs>
+                                  <rs type="iconography" ref="#Virgin"></rs>
+                                  <rs type="iconography" ref="#divine"></rs>
+                                  <rs type="iconography" ref="#male"></rs>
+                                  <rs type="iconography" ref="#female"></rs>
+                                  <rs type="iconography" ref="#scene"></rs>                                                                 
+                                  <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
