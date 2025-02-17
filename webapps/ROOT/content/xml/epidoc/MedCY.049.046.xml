@@ -80,8 +80,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/>Ὁ <persName type="sacred" key="Hermogenes"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <milestone unit="column" n="right"/><name nymRef="#Ἑρμογένης"><choice><sic>Ἑρμο
-                  <lb n="2" break="no"/>γένις</sic><corr>Ἑρμογένης</corr></choice></name></persName>
+                   <cb n="a"/>
+                   <lb n="1"/>Ὁ <persName type="sacred" key="Hermogenes"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> 
+                    <cb n="b"/>
+                    <lb n="1"/><name nymRef="#Ἑρμογένης"><choice><sic>Ἑρμο
+                    <lb n="2" break="no"/>γέ<space quantity="1" unit="character"/>νις</sic><corr>Ἑρμογένης</corr></choice></name></persName>
                </ab>
             </div>
             <div type="apparatus">
