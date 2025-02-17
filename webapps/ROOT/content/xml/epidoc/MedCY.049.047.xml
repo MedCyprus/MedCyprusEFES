@@ -79,9 +79,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
+                  <cb n="a"/>
                   <lb n="1"/>Ὁ <persName type="sacred" key="Eugraphos"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
-                  <lb n="2"/><name nymRef="#Εὐγραφος">Εὔ <milestone unit="column" n="right"/><lb n="1"/>γραφ
-                <lb n="2" break="no"/>ο<supplied reason="lost">ς</supplied></name></persName>
+                   <lb n="2"/><name nymRef="#Εὐγραφος">Εὔ
+                   <cb n="b"/>
+                    <lb n="1"/>γραφ
+                    <lb n="2" break="no"/>ο<supplied reason="lost">ς</supplied></name></persName>
                </ab>
             </div>
             <div type="apparatus">
