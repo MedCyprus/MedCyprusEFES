@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Liturgy quotation</title>
                 <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -27,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Partially preserved.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#dome">Dome, northwestern pendentive</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -37,11 +38,12 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. ΓΗ and ΤΗ in ligature. Accents and breathings systematic. 
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. ΓΗ and ΤΗ joined in ligature. Accents and breathings systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#angelicpower">Hexapterygon</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#angelicpower">Tetramorph</rs>
+                                  <rs type="iconography" ref="iconography.xml#Angel"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -76,7 +78,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><w lemma="Πλήρης"><choice><sic>Πλήρις</sic><corr>Πλήρης</corr></choice></w> ὁ <w lemma="οὐρανός">οὐρανὸς</w> καὶ ἡ <w lemma="γῆ"><hi rend="ligature">γῆ</hi></w> <hi rend="ligature">τῆ</hi>ς <w lemma="δόξα"><choice><sic>δόξις</sic><corr>δόξης</corr></choice></w> σου
+                  <lb n="1"/><w lemma="πλήρης"><choice><sic>Πλήρις</sic><corr>Πλήρης</corr></choice></w> ὁ <w lemma="οὐρανός">οὐρανὸς</w> καὶ ἡ <w lemma="γῆ"><hi rend="ligature">γῆ</hi></w> <hi rend="ligature">τῆ</hi>ς <w lemma="δόξα"><choice><sic>δόξις</sic><corr>δόξης</corr></choice></w> <w lemma="σύ">σου</w>
                </ab>
             </div>
             <div type="apparatus">
@@ -86,7 +88,7 @@
                 <p>Heaven and earth are full of your glory.</p>
             </div>
             <div type="commentary">
-                <p>Part of the Sanctus hymn.</p>
+                <p>Text: Part of the Sanctus hymn</p>
             </div>
             <div type="bibliography">
                  <listBibl>
