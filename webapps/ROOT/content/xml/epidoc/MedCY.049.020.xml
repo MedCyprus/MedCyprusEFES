@@ -78,8 +78,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
-                  <lb n="1"/><persName type="sacred" key="John"><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>I</orig><reg> Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name></persName> 
+              <ab>
+                  <lb n="1"/><persName type="sacred" key="John"><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>I</orig><reg> Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name> <addName type="epithet" key="Merciful"><w lemma="Ἐλεήμων"></w><supplied reason="lost">ὁ Ἐλεήμ</supplied>ω<supplied reason="lost">ν</supplied></addName></persName>
                </ab>
             </div>
             <div type="apparatus">
