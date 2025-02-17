@@ -38,16 +38,19 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. The sigla Ἰ(ησοῦ)ς Χ(ριστό)ς are fully rendered by an abbreviation with a big, wavy line above each word.
+                            <handNote>PENDING
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Nativity">Nativity</rs>
                                   <rs type="iconography" ref="#ChristChild"></rs>
                                   <rs type="iconography" ref="#Virgin"></rs>
-                                  <rs type="iconography" ref="#divine"></rs>
-                                  <rs type="iconography" ref="#male"></rs>
-                                  <rs type="iconography" ref="#female"></rs>
+                                  <rs type="iconography" ref="#Joseph"></rs>
+                                  <rs type="iconography" ref="#Shepherds"></rs>
+                                  <rs type="iconography" ref="#angel"></rs>
+                                  <rs type="iconography" ref="#BathChild"></rs>
+                                  <rs type="iconography" ref="#midwife"></rs>
+                                  <rs type="iconography" ref="#Salome"></rs>
                                   <rs type="iconography" ref="#scene"></rs>                                                                 
                                   <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
@@ -81,9 +84,7 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>
-                   <lb n="1"/><persName type="divine" key="Christ"><name nymRef="#Ἰησοῦς Χριστός"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline"><supplied reason="lost">ς</supplied></abbr></expan></name></persName>
-               </ab>
+              <ab>PENDING</ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
