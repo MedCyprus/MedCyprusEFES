@@ -34,7 +34,7 @@
                                     </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the medallion with the representation of the saint</layout>
+                                <layout>On either side of the medallion with the representation of the figure</layout>
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -80,8 +80,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <cb n="a"/>
-                  <lb n="1"/>Ὁ <persName type="sacred" key="Eugraphos"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                  <lb n="1"/><choice><orig>Ο</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Eugraphos"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
                    <lb n="2"/><name nymRef="#Εὐγραφος">Εὔ
+                    <lb break="no"/>
                    <cb n="b"/>
                     <lb n="1"/>γραφ
                     <lb n="2" break="no"/>ο<supplied reason="lost">ς</supplied></name></persName>

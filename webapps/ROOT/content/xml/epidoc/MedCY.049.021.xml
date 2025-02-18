@@ -80,7 +80,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <cb n="a"/>
-                  <lb n="1"/>Ὁ <persName type="sacred" key="Ἡρακλείδιος"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
+                  <lb n="1"/>Ὁ <persName type="sacred" key="Herakleidios"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
                    <lb n="2"/><name nymRef="#Ἡρακλείδιος"><choice><sic><supplied reason="lost">Ἡρα</supplied>
                   <cb n="b" break="no"/>
                   <lb n="1"/><supplied reason="lost">κ</supplied>λ

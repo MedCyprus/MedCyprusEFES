@@ -6,9 +6,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Nativity, Joseph</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                <author xml:id="ds">Deniz Sever Georgousakis</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged. </rs>
                                     <rs type="placement-building" ref="#naos">Naos, south wall, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -42,8 +42,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Nativity">Nativity</rs>
-                            <rs type="iconography" ref="iconography.xml#Joseph">Joseph</rs></p>
+                            <p><rs type="iconography" ref="#Nativity">Nativity, Joseph</rs>
+                            <rs type="iconography" ref="#Joseph"></rs>
+                            <rs type="iconography" ref="#scene"></rs>
+                            <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

@@ -42,11 +42,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#Gabriel">Annunciation, Gabriel</rs>
-                                  <rs type="iconography" ref="#Annunciation"></rs>
-                                   <rs type="iconography" ref="#genderless"></rs>
+                            <p><rs type="iconography" ref="#Annunciation">Annunciation, Gabriel</rs>
+                                  <rs type="iconography" ref="#Gabriel"></rs>
                                   <rs type="iconography" ref="#scene"></rs>
-                                  <rs type="iconography" ref="#mariological"></rs></p>
+                                  <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
