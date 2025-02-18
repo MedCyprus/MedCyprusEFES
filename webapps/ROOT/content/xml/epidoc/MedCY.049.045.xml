@@ -6,9 +6,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Menas Kallikelados</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                <author xml:id="ds">Deniz Sever Georgousakis</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -28,21 +28,25 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Partially preserved.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, south wall, soffit, west side, next to the unidentified saint</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the medallion with the representation of the saint</layout>
+                                <layout>On either side of the medallion with the representation of the figure</layout>
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. MHN in ligature. Accents and breathings systematic. 
+                            <handNote>White letters against blue background. Majuscule letters. MHN joined in ligature. Accents and breathings systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#MenasKallikelados">Menas Kallikelados</rs>
+                            <p><rs type="iconography" ref="#MenasKallikelados">Menas Kallikelados</rs>
+                                   <rs type="iconography" ref="#individual_figure"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
+                                   <rs type="iconography" ref="#martyr"></rs>
+                                   <rs type="iconography" ref="#militarysaint"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>

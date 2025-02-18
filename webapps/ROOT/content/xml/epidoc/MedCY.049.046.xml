@@ -34,7 +34,7 @@
                                     </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the medallion with the representation of the saint</layout>
+                                <layout>On either side of the medallion with the representation of the figure</layout>
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -44,7 +44,6 @@
                         <decoDesc>
                         <p><rs type="iconography" ref="#Hermogenes">Hermogenes</rs>
                                 <rs type="iconography" ref="#individual_figure"></rs>
-                                <rs type="iconography" ref="#prelate"></rs>
                                 <rs type="iconography" ref="#martyr"></rs>
                                 <rs type="iconography" ref="#male"></rs>
                             </p>
@@ -81,10 +80,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                    <cb n="a"/>
-                   <lb n="1"/>Ὁ <persName type="sacred" key="Hermogenes"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> 
+                   <lb n="1"/><choice><orig>Ο</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Hermogenes"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> 
                     <cb n="b"/>
-                    <lb n="1"/><name nymRef="#Ἑρμογένης"><choice><sic>Ἑρμο
-                    <lb n="2" break="no"/>γέ<space quantity="1" unit="character"/>νις</sic><corr>Ἑρμογένης</corr></choice></name></persName>
+                    <lb n="1"/><name nymRef="#Ἑρμογένης"><choice><sic><choice><orig>Ε</orig><reg>Ἑ</reg></choice>ρμο
+                    <lb n="2" break="no"/>γ<choice><orig>ε</orig><reg>έ</reg></choice><space quantity="1" unit="character"/>νις</sic><corr>Ἑρμογένης</corr></choice></name></persName>
                </ab>
             </div>
             <div type="apparatus">

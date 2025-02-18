@@ -6,9 +6,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Eustratios</title>
-                <author xml:id="tp">Theocharis Petrou</author>
-                <author xml:id="ds">Deniz Sever Georgousakis</author>
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Partially preserved.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, south wall, soffit, west side, first medallion, on top</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -38,11 +38,14 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. TP and TIO in ligature. Accents and breathings systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. TP joined in ligature. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Eustratios">Eustratios</rs>
+                            <p><rs type="iconography" ref="#Eustratios">Eustratios</rs>
+                                   <rs type="iconography" ref="#individual_figure"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
+                                   <rs type="iconography" ref="#martyr"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -83,7 +86,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Eustratios</p>
+                <p>[Saint] Eustratios</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
