@@ -84,7 +84,9 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING</ab>
+              <ab>
+                <lb n="1"/><w lemma="γέννησις">Γέ<supplied reason="lost">ννησις</supplied></w>
+              </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
