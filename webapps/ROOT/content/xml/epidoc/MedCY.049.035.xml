@@ -85,7 +85,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                <lb n="1"/><w lemma="γέννησις">Γέ<supplied reason="lost">ννησις</supplied></w>
+                <lb n="1"/><w lemma="γέννησις">Γ<choice><orig>ε</orig><reg>έ</reg></choice><supplied reason="lost">ννησις</supplied></w>
               </ab>
             </div>
             <div type="apparatus">
