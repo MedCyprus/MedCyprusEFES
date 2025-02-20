@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Archangel Michael</title>
                 <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -27,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semidome</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING
+                             <handNote>White letters against blue background. Majuscule letters. Mu with the central strokes reminiscent of an upsilon on a stem. The words  ἀρχ(άγγελος) and Μιχ(αήλ) are fully rendered by abbreviations. Accents and breathings systematic.  
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -67,7 +68,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-003-01.JPG"><desc>Bema, apse, semidome, inscription</desc></graphic>
+         <graphic rend="primary" url="036-003-01.JPG"><desc>Archangel Michael, inscription</desc></graphic>
         <graphic url="036-003-02.JPG"><desc>Bema, apse, semidome, general view</desc></graphic>
         <graphic url="036-003-03.JPG"><desc>Bema, apse, semidome, general view</desc></graphic>
      </facsimile>
@@ -75,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                <lb n="1"/>Ὁ <persName type="sacred" key="Michael"><name nymRef ="#Μιχαήλ"> <w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><hi rend="ligature"><choice><orig>α</orig><reg>ἀ</reg></choice>ρ</hi>χ<am>&#x00A0;΄&#x00A0;</am></abbr><ex>άγγελος</ex></expan></w> <expan><abbr rend="supraline">Μιχ</abbr><ex>αήλ</ex></expan><am>&#x00A0;΄&#x00A0;</am></name></persName>  
                </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +86,7 @@
                 <p>Archangel Michael</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
