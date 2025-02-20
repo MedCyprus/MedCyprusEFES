@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint, unidentified?</title>
                 <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -27,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, northwestern pilaster, lower register, south face</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
@@ -37,7 +38,7 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">2,5-4,5</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Accents and breathings systematic. Letter height: <height unit="cm">2,5-4,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -74,7 +75,11 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/>Ὁ 
+                  <lb n="2"/><w lemma="ἅγιος">ἅ
+                  <lb n="3" break="no"/>γι
+                  <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w>
                </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +89,7 @@
                 <p>Saint [..?..]</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
