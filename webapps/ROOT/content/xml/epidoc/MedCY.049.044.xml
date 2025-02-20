@@ -79,7 +79,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><persName type="sacred" key="Eustratios"><name nymRef="#Εὐστράτιος">Εὐσ<hi rend="ligature">τρ</hi>ά<hi rend="ligature">τιο</hi><supplied reason="lost">ς</supplied></name></persName>
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Eustratios"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <name nymRef="#Εὐστράτιος">Εὐσ<hi rend="ligature">τρ</hi>ά<hi rend="ligature">τιο</hi><supplied reason="lost">ς</supplied></name></persName>
                </ab>
             </div>
             <div type="apparatus">
