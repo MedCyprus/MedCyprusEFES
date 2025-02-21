@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint John the Merciful?</title>
+                <title>Saint John the Merciful</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#JohnMerciful">John the Merciful?</rs>
+                            <p><rs type="iconography" ref="#JohnMerciful">John the Merciful</rs>
                                 <rs type="iconography" ref="#individual_figure"></rs>
                                 <rs type="iconography" ref="#prelate"></rs>
                                 <rs type="iconography" ref="#male"></rs>
@@ -72,21 +72,28 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="049-020-01.JPG"><desc>John the Meriful?, inscription</desc></graphic>
-        <graphic url="049-020-02.JPG"><desc>John the Merciful?, general view</desc></graphic>
+        <graphic rend="primary" url="049-020-01.JPG"><desc>John the Merciful, inscription</desc></graphic>
+        <graphic url="049-020-02.JPG"><desc>John the Merciful, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><persName type="sacred" key="John"><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>I</orig><reg> Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name> <addName type="epithet" key="Merciful"><w lemma="ἐλεήμων"></w><supplied reason="lost">ὁ Ἐλεήμ</supplied>ω<supplied reason="lost">ν</supplied></addName></persName>
+                  <cb n="a"/>
+                  <lb n="1"/><choice><orig>Ο</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="John"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> 
+                  <lb n="2"/><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>I</orig><reg> Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name>
+                  <cb n="b"/>
+                      <lb n="1"/><addName type="epithet" key="Merciful"><w lemma="ἐλεήμων"></w><supplied reason="lost">ὁ</supplied>
+                      <lb n="2"/><unclear>Ἐ</unclear><supplied reason="lost">λεή</supplied> 
+                      <lb n="3" break="no"/>μω
+                      <lb n="4" break="no"/><supplied reason="lost">ν</supplied></addName></persName>
                </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Saint John [the Merciful?]</p>
+                <p>Saint John the Merciful</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
