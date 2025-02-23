@@ -156,17 +156,17 @@
       <h2 class="locations-index" id="monuments">MONUMENTS | <a href="#repositories">REPOSITORIES</a></h2>
       
       <div class="locations-menu-list">
-        <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Monument']]" mode="menu-list"><!--<xsl:sort select="lower-case(.)"/>--></xsl:apply-templates>
+        <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Monument']]" mode="menu-list"><xsl:sort select="str[@name='index_number']" data-type="number"/></xsl:apply-templates>
       </div>
       
-      <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Monument']]"><!--<xsl:sort select="lower-case(.)"/>--></xsl:apply-templates>
+      <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Monument']]"><xsl:sort select="str[@name='index_number']" data-type="number"/></xsl:apply-templates>
       
       <h2 class="locations-index" id="repositories">REPOSITORIES | <a href="#monuments">MONUMENTS</a></h2>
       <div class="locations-menu-list">
-        <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Repository']]" mode="menu-list"><!--<xsl:sort select="lower-case(.)"/>--></xsl:apply-templates>
+        <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Repository']]" mode="menu-list"><xsl:sort select="str[@name='index_number']"/></xsl:apply-templates>
       </div>
       
-      <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Repository']]"><!--<xsl:sort select="lower-case(.)"/>--></xsl:apply-templates>
+      <xsl:apply-templates select="doc[descendant::str[@name='index_item_type'][.='Repository']]"><xsl:sort select="str[@name='index_number']"/></xsl:apply-templates>
     </div>
   </xsl:template>
   <!-- EM: if monuments and Repositories don't sort properly, add sort on index_number or  index_item_name. Might need to add index numbers to repositories. -->
