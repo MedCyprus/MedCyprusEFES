@@ -17,7 +17,7 @@
     <text>
         <body>
             
-         <list type="scene"> <!-- simply to help organise the list-->
+         <list xml:Id="scenes"> <!-- simply to help organise the list-->
            <head>Scenes</head>
                 
              <item xml:id="scene"> <!-- to be used for tagging narrative and other compositions for the Iconography Index-->
@@ -130,7 +130,7 @@
              </item>
            </list> 
                                                    
-            <list type="scenecategories"><!-- simply to help organise the list; heading should not be used in the marking-up-->
+            <list type="scenecategories" xml:id="scenecategories"><!-- simply to help organise the list; heading should not be used in the marking-up-->
                <head>Scene Categories</head>
             
                <item xml:id="christological">
@@ -158,11 +158,12 @@
                </item>
             </list>            
                         
-            <list type="individual_figures"><!-- simply to help organise the list-->
+            <list type="individual_figures" xml:id="individual_figures"><!-- simply to help organise the list-->
                 <head>Individual Figures</head>             
                
                 <item xml:id="individual_figure"> <!-- to be used for tagging individual figures, including Virgin with Child, for the Iconography Index-->
                     <term xml:lang="en">individual figure</term>
+                    
                 </item>
                 
                 <item xml:id="Aaron"> 
@@ -708,7 +709,7 @@
                     <term xml:lang="en">Zosimas</term></item>                
            </list>
                 
-            <list type="individual_figure_iconography"><!-- simply to help organise the list; heading should not be used in the marking-up-->
+            <list type="individual_figure_iconography" xml:id="individual_figure_iconography"><!-- simply to help organise the list; heading should not be used in the marking-up-->
                 <head>Individual Figure Iconographic Types</head> 
                
                 <item xml:id="dressantique"><!-- for angels -->
@@ -731,7 +732,7 @@
                 </item>          
             </list>
   
-            <list type="individual_figure_categories"><!-- simply to help organise the list; heading should not be used in the marking-up-->
+            <list type="individual_figure_categories" xml:id="individual_figure_categories"><!-- simply to help organise the list; heading should not be used in the marking-up-->
                 <head>Individual Figure Categories</head>    
                 
                 <item xml:id="angelicpower">
@@ -799,7 +800,7 @@
                 </item>                
           </list>
             
-            <list type="gender"><!-- simply to help organise the list; heading should not be used in the marking-up-->
+            <list type="gender" xml:id="gender"><!-- simply to help organise the list; heading should not be used in the marking-up-->
               <head>Gender</head>
               
               <item xml:id="eunuch">
@@ -819,7 +820,7 @@
               </item>     
           </list>
                 
-            <list type="structures_objects_symbols"><!-- simply to help organise the list; heading should not be used in the marking-up-->
+            <list type="structures_objects_symbols" xml:id="structures_objcts_symbols"><!-- simply to help organise the list; heading should not be used in the marking-up-->
                 <head>Structures - Objects - Symbols</head>
                 
                 <item xml:id="structure"> 
