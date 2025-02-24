@@ -76,10 +76,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/>Ὁ 
-                  <lb n="2"/><w lemma="ἅγιος">ἅ
+                  <cb n="a"/>
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice>
+                  <lb n="2"/><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἅ</reg></choice>
                   <lb n="3" break="no"/>γι
                   <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w>
+                    <cb n="b"/>
+                   <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"/>
                </ab>
             </div>
             <div type="apparatus">
