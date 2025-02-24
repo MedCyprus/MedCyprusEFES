@@ -78,7 +78,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <lb n="1"/><choice><orig>Η</orig><reg>Ἡ</reg></choice> <w lemma="κοίμησις">κύμησις</w> της
-                  <lb n="2" /><persName type="sacred" key="Theotokos"><name nymRef="#Θεοτόκος"><expan><abbr rend="supraline">Θ</abbr><ex>εοτό</ex><abbr rend="supraline">κ<hi rend="ligature">ου</hi></abbr></expan></name></persName>
+                  <lb n="2" /><persName type="sacred" key="Theotokos"><addName nymRef="#Θεοτόκος"><expan><abbr rend="supraline">Θ</abbr><ex>εοτό</ex><abbr rend="supraline">κ<hi rend="ligature">ου</hi></abbr></expan></addName></persName>
               </ab>
             </div>
             <div type="apparatus">

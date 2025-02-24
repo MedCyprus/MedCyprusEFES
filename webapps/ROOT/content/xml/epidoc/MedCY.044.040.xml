@@ -76,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                      <lb n="1"/>Ὁ <persName type="sacred" key="Lazaros"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                  <lb n="2"/><name nymRef="#Λάζαρος">Λά
+                      <lb n="1"/>Ὁ <persName type="sacred" key="Lazaros"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                  <lb n="2"/><name type="forename" nymRef="#Λάζαρος">Λά
                   <lb n="3" break="no"/> ζα
                   <lb n="4" break="no"/> ρος</name></persName>
                 </ab> 

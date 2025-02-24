@@ -81,7 +81,7 @@
                   <lb n="2"/><persName type="sacred" key="AnastasiaPharmakolytria"><w lemma="ἁγία">ἁ
                    <lb n="4*" break="no"/>γί
                    <lb n="5*" break="no"/>α</w>
-                  <lb n="3*"/> <name nymRef="#Ἀναστασία"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>ναστασία</name>
+                  <lb n="3*"/> <name type="forename" nymRef="#Ἀναστασία"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>ναστασία</name>
                    <cb n="b"/>   
                    <lb n="1"/><choice><orig>Ἠ</orig><reg>Ἡ</reg></choice> 
                    <lb n ="2" break="no"/><addName type="epithet" key="Poison-curer">Φ

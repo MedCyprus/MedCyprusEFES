@@ -77,7 +77,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <lb n="1"/>Ὁ <persName type="sacred" key="Kyriakos"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>ά</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
-                   <lb n="2"/><name nymRef="#Κυριακός">Κυ
+                   <lb n="2"/><name type="forename" nymRef="#Κυριακός">Κυ
                    <lb n="3" break="no"/>ρι
                    <lb n="4" break="no"/>α
                    <lb n="5" break="no"/>κ

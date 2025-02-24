@@ -72,7 +72,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                  <lb n="1"/>Ἡ <persName type="sacred" key="Virgin"><name nymRef="#Παρθένος"></name><w lemma="Παρθένος"><choice><sic>Παρθαί<lb n="2" break="no"/>νος</sic><corr>Παρθέ<lb n="2" break="no"/>νος</corr></choice></w></persName> <w lemma="σήμερον"><choice><sic><expan><abbr>σύμ<hi rend="ligature">αι</hi></abbr><ex>ρον</ex></expan></sic><corr>σήμερον</corr></choice></w>
+                  <lb n="1"/>Ἡ <persName type="sacred" key="Virgin"><addName nymRef="#Παρθένος"></addName><w lemma="Παρθένος"><choice><sic>Παρθαί<lb n="2" break="no"/>νος</sic><corr>Παρθέ<lb n="2" break="no"/>νος</corr></choice></w></persName> <w lemma="σήμερον"><choice><sic><expan><abbr>σύμ<hi rend="ligature">αι</hi></abbr><ex>ρον</ex></expan></sic><corr>σήμερον</corr></choice></w>
                 </ab>
             </div>
             <div type="apparatus">

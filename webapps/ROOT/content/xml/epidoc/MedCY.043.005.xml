@@ -81,7 +81,7 @@
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/>ος</w>
                   <cb n="b"/>
-                  <lb n="1"/><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>
+                  <lb n="1"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>
                     <lb n="2"/><choice><orig>o</orig><reg>ὁ</reg></choice>
                     <lb n="3"/><addName type="epithet" key="Chrysostom"> <expan><abbr rend="supraline">Χρυ</abbr><ex>σόστο</ex><abbr rend="supraline">μος</abbr></expan></addName>
                     </persName>           

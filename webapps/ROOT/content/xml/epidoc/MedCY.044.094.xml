@@ -78,7 +78,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                <lb n="1"/><supplied reason="lost">Οἱ</supplied> <supplied reason="lost"><w lemma="ἅγιος">ἅγιοι</w></supplied> <persName type="sacred" key="FortyMartyrs"><name nymRef="#οἱ ἅγιοι Τεσσαράκοντα"><w lemma= "τεσσαράκοντα"><supplied reason="lost">τεσσαράκοντα</supplied></w></name></persName> <w lemma= "μάρτυρ">μ<supplied reason="lost">άρτυρες</supplied></w> <w lemma="καλλίνικος">καλλίνικοι</w>
+                <lb n="1"/><supplied reason="lost">Οἱ</supplied> <supplied reason="lost"><w lemma="ἅγιος">ἅγιοι</w></supplied> <persName type="sacred" key="FortyMartyrs"><w lemma= "τεσσαράκοντα"><supplied reason="lost">τεσσαράκοντα</supplied></w></persName> <w lemma= "μάρτυρ">μ<supplied reason="lost">άρτυρες</supplied></w> <w lemma="καλλίνικος">καλλίνικοι</w>
                <lb n="1"/><space quantity="15" unit="character"></space><placeName ref="mentioned_places.xml#Sebaste">Σεβ<supplied reason="lost">αστείας</supplied></placeName>
               </ab>
             </div>

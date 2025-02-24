@@ -76,7 +76,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                    <lb n="1"/>Ὁ <persName type="sacred" key="Constantine"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
-                  <lb n="2"/><name nymRef="#Kωνσταντίνος">Κ<hi rend="supraline">ων</hi> 
+                  <lb n="2"/><name type="forename" nymRef="#Kωνσταντίνος">Κ<hi rend="supraline">ων</hi> 
                   <lb n="3" break="no"/>σταν
                   <lb n="4" break="no"/>τ<choice><orig>ή</orig><reg>ῆ</reg></choice>
                   <lb n="5" break="no"/>νο

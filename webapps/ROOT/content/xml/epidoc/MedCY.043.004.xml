@@ -75,7 +75,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/>Ὁ <persName type="sacred" key="Gabriel"> <w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><hi rend="ligature">ἀρ</hi>χ<am>&#x00A0;΄&#x00A0;</am></abbr><ex>άγγελος</ex></expan> </w>
-                        <lb n="2"/><name nymRef ="#Γαβριήλ">Γα<choice><orig>υ</orig><reg>β</reg></choice>ρι<lb n="3" break="no"/>ήλ</name></persName>                    
+                        <lb n="2"/><name type="forename" nymRef ="#Γαβριήλ">Γα<choice><orig>υ</orig><reg>β</reg></choice>ρι<lb n="3" break="no"/>ήλ</name></persName>                    
                  </ab>
             </div>
             <div type="apparatus">

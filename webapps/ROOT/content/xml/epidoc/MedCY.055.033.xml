@@ -74,7 +74,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-            <lb n="1"/><persName type="sacred" key="Bartholomew"><name nymRef="'#Βαρθολομαίος"><expan><abbr rend="supraline">Β</abbr><ex>αρθολομαῖος</ex></expan></name></persName>
+            <lb n="1"/><persName type="sacred" key="Bartholomew"><name type="forename" nymRef="'#Βαρθολομαίος"><expan><abbr rend="supraline">Β</abbr><ex>αρθολομαῖος</ex></expan></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

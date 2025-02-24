@@ -84,7 +84,7 @@
                    <lb n="2"/><persName type="sacred" key="Abraham"><addName type="epithet" key="Rightneous"><w lemma="δίκαιος">Δί
                    <lb n="3" break="no"/>καιος</w></addName>
                  <cb n="b"/>
-                    <lb n="1"/><name nymRef="#Ἀβραάμ"><choice><orig>Α</orig><reg>Ά</reg></choice>
+                    <lb n="1"/><name type="forename" nymRef="#Ἀβραάμ"><choice><orig>Α</orig><reg>Ά</reg></choice>
                     <lb n="2" break="no"/>βρα
                     <lb n="3" break="no"/><choice><orig>α</orig><reg>ά</reg></choice>μ</name></persName>
                </ab>

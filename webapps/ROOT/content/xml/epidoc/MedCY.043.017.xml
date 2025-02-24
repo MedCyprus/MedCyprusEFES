@@ -76,8 +76,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                        <lb n="1"/><persName type="sacred" key="MeterTheou"><name nymRef="#Μήτηρ Θεοῦ"><w lemma="μήτηρ"><expan><abbr rend="supraline"><hi rend="ligature">Μ<choice><orig>η</orig><reg>ή</reg></choice></hi></abbr><ex>τη</ex><abbr rend="supraline"><hi rend="ligature">ρ</hi></abbr></expan></w>
-                    <milestone unit="column" n="right"/><name nymRef="#Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></name></name></persName>       
+                        <lb n="1"/><persName type="sacred" key="MeterTheou"><addName nymRef="#Μήτηρ Θεοῦ"><w lemma="μήτηρ"><expan><abbr rend="supraline"><hi rend="ligature">Μ<choice><orig>η</orig><reg>ή</reg></choice></hi></abbr><ex>τη</ex><abbr rend="supraline"><hi rend="ligature">ρ</hi></abbr></expan></w>
+                    <milestone unit="column" n="right"/><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></w></addName></persName>
                  </ab>
             </div>
             <div type="apparatus">

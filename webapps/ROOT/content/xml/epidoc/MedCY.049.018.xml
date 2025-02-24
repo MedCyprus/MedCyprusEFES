@@ -82,7 +82,7 @@
                   <cb n="a"/>
                     <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Makedonios"><supplied reason="lost"><w lemma="ἅγιος">ἅγιος</w></supplied>
                  <cb n="b"/>
-                  <lb n="1"/><name nymRef="#Μακεδόνιος"><choice><sic><supplied reason="lost">Μα</supplied>
+                  <lb n="1"/><name type="forename" nymRef="#Μακεδόνιος"><choice><sic><supplied reason="lost">Μα</supplied>
                   <lb n="2" break="no"/><supplied reason="lost">κε</supplied>
                   <lb n="3" break="no"/><supplied reason="lost">δ</supplied><unclear>ώ</unclear>
                   <lb n="4" break="no"/>νι

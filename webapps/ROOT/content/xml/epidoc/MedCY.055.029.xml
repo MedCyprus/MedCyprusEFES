@@ -80,7 +80,7 @@
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/><hi rend="ligature">ος</hi></w>
                     <cb n="b"/>
-                     <lb n="1"/><name nymRef="#Νίκων"><choice><sic>Νί<lb n="2" break="no"/>κον</sic><corr>Νί<lb n="2" break="no"/>κων</corr></choice>
+                     <lb n="1"/><name type="forename" nymRef="#Νίκων"><choice><sic>Νί<lb n="2" break="no"/>κον</sic><corr>Νί<lb n="2" break="no"/>κων</corr></choice>
                      </name></persName>
                 </ab>
             </div>

@@ -82,7 +82,7 @@
                   <cb n="a"/> 
                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Spyridon"> <w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w> 
                    <cb n="b"/> 
-                      <lb n="1"/><name nymRef="#Σπυρίδων">Σ
+                      <lb n="1"/><name type="forename" nymRef="#Σπυρίδων">Σ
                       <lb n="2" break="no"/>πυ
                       <lb n="3" break="no"/>ρίδω<expan><abbr rend="supraline"></abbr><ex>ν</ex><abbr rend="supraline"></abbr></expan></name></persName>
                </ab>

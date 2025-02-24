@@ -79,7 +79,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/>Ὁ <persName type="sacred" key="Peter"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w> <name nymRef="#Πέτρος">Πέ<hi rend="ligature">τρ</hi>ος</name></persName> 
+                  <lb n="1"/>Ὁ <persName type="sacred" key="Peter"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w> <name type="forename" nymRef="#Πέτρος">Πέ<hi rend="ligature">τρ</hi>ος</name></persName> 
                 </ab>
             </div>
             <div type="apparatus">

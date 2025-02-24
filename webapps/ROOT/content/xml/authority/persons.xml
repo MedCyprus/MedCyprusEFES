@@ -86,8 +86,8 @@
                         <!--> <floruit notAfter="1105">late 11th century-early 12th century</floruit>-->                     
                        <!--> <note>Donor of the church of Panagia Phorbiotissa or Asinou, Niketari, and its 1105/6 murals</note>-->
                     </person>
-                    <relation active="#Gephyra" ref="snap:wifeOf" passive="#NikephorosIshcyrios">
-                        <desc>Mother, daugter, sibling, or spouse of Nikephorus Ischyrios</desc>
+                    <relation active="#Gephyra" ref="snap:wifeOf" passive="#NikephorosIschyrios">
+                        <desc>Mother, daughter, sibling, or spouse of Nikephoros Ischyrios</desc>
                     </relation>
                     
                     <person xml:id="Germanos">

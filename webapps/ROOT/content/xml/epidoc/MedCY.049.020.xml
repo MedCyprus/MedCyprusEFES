@@ -81,7 +81,7 @@
               <ab>
                   <cb n="a"/>
                   <lb n="1"/><choice><orig>Ο</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="John"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> 
-                  <lb n="2"/><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>I</orig><reg> Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name>
+                  <lb n="2"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>I</orig><reg> Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name>
                   <cb n="b"/>
                       <lb n="1"/><addName type="epithet" key="Merciful"><w lemma="ἐλεήμων"></w><supplied reason="lost">ὁ</supplied>
                       <lb n="2"/><unclear>Ἐ</unclear><supplied reason="lost">λεή</supplied> 

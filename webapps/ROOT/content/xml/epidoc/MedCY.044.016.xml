@@ -74,7 +74,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   <lb n="1"/> <choice><orig>Ὀ</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Abraham" ><w lemma="προφήτης"><expan><abbr rend="supraline">πρ</abbr><ex>ο</ex><abbr rend="supraline">φ</abbr><ex>ή</ex><abbr rend="supraline">τ</abbr><ex>η</ex><abbr rend="supraline">ς</abbr></expan><am>´</am></w> <name nymRef="#Ἀβραάμ"><hi rend="ligature"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>β</hi>ρα<hi rend="ligature"><choice><orig>ὰ</orig><reg>ά</reg></choice>μ</hi></name></persName>
+                   <lb n="1"/> <choice><orig>Ὀ</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Abraham" ><w lemma="προφήτης"><expan><abbr rend="supraline">πρ</abbr><ex>ο</ex><abbr rend="supraline">φ</abbr><ex>ή</ex><abbr rend="supraline">τ</abbr><ex>η</ex><abbr rend="supraline">ς</abbr></expan><am>´</am></w> <name type="forename" nymRef="#Ἀβραάμ"><hi rend="ligature"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>β</hi>ρα<hi rend="ligature"><choice><orig>ὰ</orig><reg>ά</reg></choice>μ</hi></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

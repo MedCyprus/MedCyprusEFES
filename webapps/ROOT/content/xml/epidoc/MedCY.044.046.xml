@@ -79,7 +79,7 @@
                   <cb n="a"/>
                   <lb n="1"/>Ὁ <persName type="sacred" key="Triphyllios"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>ά</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>                                           
                   <cb n="b"/>
-                  <lb n="2"/><name nymRef="#Τριφύλλιος">Τρη
+                  <lb n="2"/><name type="forename" nymRef="#Τριφύλλιος">Τρη
                   <lb n="3" break="no"/>φ<supplied reason="lost">ύ</supplied>
                   <lb n="4" break="no"/>λλ<supplied reason="lost">ι</supplied>
                   <lb n="5" break="no"/>ο <supplied reason="lost">ς</supplied></name></persName> 

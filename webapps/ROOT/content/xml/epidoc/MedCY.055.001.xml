@@ -78,7 +78,7 @@
                     <lb n="3" break="no" /><supplied reason="lost">γι</supplied>
                     <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w>
                   <cb n="b"/>
-                  <lb n="1"/><name nymRef="#Ματθαῖος"><choice><sic>Mαθα<choice><orig>ί</orig><reg>ῖ</reg></choice>ος</sic><corr>Μαθθαῖος</corr></choice></name>
+                  <lb n="1"/><name type="forename" nymRef="#Ματθαῖος"><choice><sic>Mαθα<choice><orig>ί</orig><reg>ῖ</reg></choice>ος</sic><corr>Μαθθαῖος</corr></choice></name>
                   <lb n="2"/><addName type="epithet" key="Evangelist"><choice><orig>ο</orig><reg>ὁ</reg></choice><w lemma="εὐαγγελιστής"><choice><sic> <expan><abbr><choice><orig>ε</orig><reg>ἐ</reg></choice>βαγγε<hi rend="ligature">λη</hi>στ</abbr><ex>ής</ex></expan></sic><corr>εὐαγγελιστής</corr></choice></w></addName></persName>
                 </ab>
             </div>

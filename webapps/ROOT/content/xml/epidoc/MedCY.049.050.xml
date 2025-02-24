@@ -37,7 +37,7 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3</height>
+                            <handNote>White letters against blue background. Majuscule letters. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -74,7 +74,15 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                  <lb n="1"/><supplied reason="lost">Ὁ
+                  <lb n="2"/><w lemma="ἅγιος">ἅ
+                  <lb n="3" break="no"/>γι
+                  <lb n="4" break="no"/>ος</w></supplied>
+                  <cb n="b"/>
+                  <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"/>
+                  <lb n="2"/>θο
                </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +92,7 @@
                 <p>n/a</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

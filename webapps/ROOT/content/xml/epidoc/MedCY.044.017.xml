@@ -74,8 +74,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   <lb n="1"/><persName type="sacred" key="Abraham"><name nymRef="#Ἀβραάμ"></name><hi rend="ligature"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>β</hi>ρα<hi rend="ligature"><choice><orig>ὰ</orig><reg>ά</reg></choice>μ</hi></persName>, 
-                    <lb n="2"/><persName type="sacred" key="Abraham"><name nymRef="#Ἀβραάμ"></name><hi rend="ligature"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>β</hi>ρα<hi rend="ligature"><choice><orig>ὰ</orig><reg>ά</reg></choice>μ</hi></persName>. <hi rend="ligature">Μ<choice><orig>η</orig><reg>ὴ</reg></choice></hi> <w lemma="ἐπιβάλλω"><choice><orig>ε</orig><reg>ἐ</reg></choice>πιβά<hi rend="ligature">λ<choice><orig>η</orig><reg>ῃ</reg></choice></hi>ς</w> <hi rend="ligature">τὴ</hi>ν 
+                   <lb n="1"/><persName type="sacred" key="Abraham"><name type="forename" nymRef="#Ἀβραάμ"></name><hi rend="ligature"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>β</hi>ρα<hi rend="ligature"><choice><orig>ὰ</orig><reg>ά</reg></choice>μ</hi></persName>, 
+                    <lb n="2"/><persName type="sacred" key="Abraham"><name type="forename" nymRef="#Ἀβραάμ"></name><hi rend="ligature"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>β</hi>ρα<hi rend="ligature"><choice><orig>ὰ</orig><reg>ά</reg></choice>μ</hi></persName>. <hi rend="ligature">Μ<choice><orig>η</orig><reg>ὴ</reg></choice></hi> <w lemma="ἐπιβάλλω"><choice><orig>ε</orig><reg>ἐ</reg></choice>πιβά<hi rend="ligature">λ<choice><orig>η</orig><reg>ῃ</reg></choice></hi>ς</w> <hi rend="ligature">τὴ</hi>ν 
                     <lb n="3"/>  <w lemma="χείρ">χε<choice><orig>ί</orig><reg>ῖ</reg></choice>ρ<hi rend="ligature">άν</hi></w> <w lemma="σύ">σου</w> <choice><orig>ε</orig><reg>ἐ</reg></choice>πὶ τ<choice><orig>ο</orig><reg>ὸ</reg></choice> <w lemma="παιδάριον">παι
                     <lb n="4" break="no"/>δ<hi rend="ligature">άρ</hi>ιον</w>
                 </ab>

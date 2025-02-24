@@ -74,7 +74,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   <lb n="1"/>Ἡ θυσία τ<hi rend="ligature">οῦ</hi> <persName type="sacred" key="Abraham"><name nymRef="#Ἀβραάμ">Ἀβραάμ</name></persName>    
+                   <lb n="1"/>Ἡ θυσία τ<hi rend="ligature">οῦ</hi> <persName type="sacred" key="Abraham"><name type="forename" nymRef="#Ἀβραάμ">Ἀβραάμ</name></persName>    
                 </ab>
             </div>
             <div type="apparatus">
