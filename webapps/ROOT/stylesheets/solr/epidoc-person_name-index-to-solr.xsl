@@ -15,7 +15,7 @@
 
   <xsl:template match="/">
     <add>
-      <xsl:for-each-group select="//tei:name[@nymRef][ancestor::tei:persName[@type='attested']][ancestor::tei:div/@type='edition']" group-by="concat(@nymRef,'-',@type)">
+      <xsl:for-each-group select="//tei:name[@nymRef][ancestor::tei:persName[not(@type='divine')]][ancestor::tei:div/@type='edition']" group-by="concat(@nymRef,'-',@type)">
         <doc>
           <field name="document_type">
             <xsl:value-of select="$subdirectory" />

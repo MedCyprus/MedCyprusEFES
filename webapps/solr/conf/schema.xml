@@ -175,6 +175,10 @@
      required="false" stored="true" type="string" />
    <field indexed="true" multiValued="true" name="iconographic_categories"
      required="false" stored="true" type="string" />
+   <field indexed="true" multiValued="true" name="iconography_scenes"
+     required="false" stored="true" type="string" />
+   <field indexed="true" multiValued="true" name="iconography_gender"
+     required="false" stored="true" type="string" />
    
    <!-- User index fields. -->
    <field name="index_item_name" stored="true" indexed="true"

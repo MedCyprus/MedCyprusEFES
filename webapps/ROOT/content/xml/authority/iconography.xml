@@ -17,7 +17,7 @@
     <text>
         <body>
             
-         <list xml:Id="scenes"> <!-- simply to help organise the list-->
+         <list xml:id="scenes"> <!-- simply to help organise the list-->
            <head>Scenes</head>
                 
              <item xml:id="scene"> <!-- to be used for tagging narrative and other compositions for the Iconography Index-->
