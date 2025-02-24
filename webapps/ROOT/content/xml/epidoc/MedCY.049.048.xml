@@ -37,7 +37,7 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">2</height>
+                            <handNote>Black letters against white background. Letter height: <height unit="cm">2</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -77,10 +77,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <lb n="1"/>ωζ
-                  <lb n="2" break="no"/>
-                  <lb n="3" break="no"/>
-                  <lb n="4" break="no"/>
-                  <lb n="5" break="no"/>
+                  <lb n="2" break="no"/><gap reason="lost" quantity="8" unit="character"/>
+                  <lb n="3"/><gap reason="lost" unit="character" quantity="5"/>ωνι
+                  <lb n="4"/><gap reason="lost" unit="character" quantity="3"/>ε<gap reason="lost" unit="character" quantity="1"/>ικ<gap reason="lost" unit="character" quantity="1"/>
+                  <lb n="5"/><gap reason="lost" unit="character" quantity="5"/>νον
+                  <lb n="6"/><gap reason="lost" unit="character" quantity="2"/>ποζ<gap reason="lost" unit="character" quantity="1"/>
                </ab>
             </div>
             <div type="apparatus">
@@ -90,7 +91,7 @@
                 <p>PENDING</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
