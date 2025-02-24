@@ -77,7 +77,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <cb n="a"/>
-                        <lb n="1"/><choice><orig>Ο</orig><reg>Ὁ</reg></choice> <persName><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w> 
+                        <lb n="1"/><choice><orig>Ο</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Zosimas"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w> 
                     <cb n="b"/>
                         <lb n="1"/><name nymRef="#Ζωσιμᾶς">Ζω
                         <lb n="2" break="no"/>σι
