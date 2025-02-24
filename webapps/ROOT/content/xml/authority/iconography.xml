@@ -355,6 +355,9 @@
                 <item xml:id="George"> 
                     <term xml:lang="en">George</term>
                 </item>
+                <item xml:id="Gephyra"> 
+                    <term xml:lang="en">Gephyra</term>
+                </item>
                 <item xml:id="Gerasimos"> 
                     <term xml:lang="en">Gerasimos</term>
                 </item>
@@ -531,9 +534,13 @@
                 </item>
                 <item xml:id="Nikanor">
                     <term xml:lang="en">Nikanor</term>
-                </item><item xml:id="Niketas"> 
+                </item>
+                <item xml:id="Niketas"> 
                     <term xml:lang="en">Niketas</term>
-                </item>                
+                </item>         
+                <item xml:id="NikephorosIschyrios"> 
+                    <term xml:lang="en">Nikephoros Ischyrios</term>
+                </item>
                 <item xml:id="Nikon"> 
                     <term xml:lang="en">Nikon</term>
                 </item>                
