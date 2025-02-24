@@ -79,8 +79,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1" /><choice><orig>Η</orig><reg>Ἡ</reg></choice> <name nymRef="#Σαλώμη" type="forename" ><choice><sic>Σα
-                  <lb n="2" break="no"/><unclear>λό</unclear>μι</sic><corr>Σαλώμη</corr></choice></name>
+                  <lb n="1" /><persName type="other"><choice><orig>Η</orig><reg>Ἡ</reg></choice> <name nymRef="#Σαλώμη" type="forename" ><choice><sic>Σα
+                  <lb n="2" break="no"/><unclear>λό</unclear>μι</sic><corr>Σαλώμη</corr></choice></name></persName>
                </ab>
             </div>
             <div type="apparatus">
