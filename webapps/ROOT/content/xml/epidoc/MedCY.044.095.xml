@@ -80,7 +80,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-               <lb n="1"/>Ο<choice><orig>ι </orig><reg>ἱ</reg></choice> <w lemma="ἅγιος"><choice><orig>α</orig><reg>ἅ</reg></choice>γ<supplied reason="lost">ιοι</supplied><space quantity="15" unit="character"></space></w><persName type="sacred" key="FortyMartyrs"><name nymRef="#οἱ ἅγιοι Τεσσαράκοντα"><w lemma="τεσσαράκοντα">τεσ<supplied reason="lost">σαράκοντα</supplied></w></name></persName>
+               <lb n="1"/>Ο<choice><orig>ι </orig><reg>ἱ</reg></choice> <w lemma="ἅγιος"><choice><orig>α</orig><reg>ἅ</reg></choice>γ<supplied reason="lost">ιοι</supplied><space quantity="15" unit="character"></space></w><persName type="sacred" key="FortyMartyrs"><w lemma="τεσσαράκοντα">τεσ<supplied reason="lost">σαράκοντα</supplied></w></persName>
                 </ab>
             </div>
             <div type="apparatus">
