@@ -81,7 +81,7 @@
                   <lb n="2"/><persName type="sacred" key="George"><w lemma="ἅγιος">ἅγι 
                   <lb n="3" break="no"/><hi rend="ligature">ος</hi></w>
                   <cb n="b"/> 
-                  <lb n="1"/><name nymRef="#Γεώργιος">Γε
+                  <lb n="1"/><name type="forename" nymRef="#Γεώργιος">Γε
                   <lb n="2" break="no"/><hi rend="ligature">ώρ</hi>
                   <lb n="3" break="no"/>γι
                   <lb n="3" break="no"/><hi rend="ligature">ος</hi></name></persName>

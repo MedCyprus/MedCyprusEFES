@@ -81,7 +81,7 @@
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/>ος</w>
              <cb n="b"/>
-                    <lb n="1"/><name nymRef="#Γεώργιος">Γε<choice><orig>ω</orig><reg>ώ</reg></choice>ργιος</name>
+                    <lb n="1"/><name type="forename" nymRef="#Γεώργιος">Γε<choice><orig>ω</orig><reg>ώ</reg></choice>ργιος</name>
                     <lb n="2" /><choice><orig>ο</orig><reg>ὁ</reg></choice> <addName type="epithet" key="Cappadocian"><w>Κ<hi rend="ligature">αππ</hi><choice><orig>α</orig><reg>ά</reg></choice>δ<choice><orig>ο̃</orig><reg>ο</reg></choice>ξ</w></addName></persName> 
                  </ab>
             </div>

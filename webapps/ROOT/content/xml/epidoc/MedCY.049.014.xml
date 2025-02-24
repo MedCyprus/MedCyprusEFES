@@ -81,7 +81,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Barnabas"><supplied reason="lost"><w lemma="ἅγιος">ἅγιος</w></supplied> <name nymRef="#Βαρνάβας"><supplied reason="lost">Β</supplied>αρν<supplied reason="omitted">ά</supplied>βας</name></persName>
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Barnabas"><supplied reason="lost"><w lemma="ἅγιος">ἅγιος</w></supplied> <name type="forename" nymRef="#Βαρνάβας"><supplied reason="lost">Β</supplied>αρν<supplied reason="omitted">ά</supplied>βας</name></persName>
                </ab>
             </div>
             <div type="apparatus">

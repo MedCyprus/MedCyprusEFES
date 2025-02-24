@@ -78,7 +78,7 @@
                  <cb n="a"/> 
                   <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Auxibios"><supplied reason="lost"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w></supplied>
                   <cb n="b"/> 
-                  <lb n="1"/><name nymRef="#Αυξίβιος"><choice><orig>Αυ</orig><reg>Αὐ</reg></choice><choice><orig>ξι</orig><reg>ξί</reg></choice>
+                  <lb n="1"/><name type="forename" nymRef="#Αυξίβιος"><choice><orig>Αυ</orig><reg>Αὐ</reg></choice><choice><orig>ξι</orig><reg>ξί</reg></choice>
                   <lb n="2" break="no"/>βι
                   <lb n="3" break="no"/><hi rend="ligature">ος</hi></name></persName>              
                 </ab> 

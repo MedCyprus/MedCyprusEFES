@@ -75,7 +75,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/>Ὁ <persName type="sacred" key="DionysiosAreopagites"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
-                    <lb n="2"/><name nymRef="#Διονύσιος">Διο
+                    <lb n="2"/><name type="forename" nymRef="#Διονύσιος">Διο
                     <lb n="3" break="no"/>ν<choice><orig>υ</orig><reg>ύ</reg></choice>σι
                     <lb n="4" break="no"/>ος</name> Ὁ <addName type="epithet" key="Areopagite">Ἀρε
                   <lb n="5" break="no"/>οπαγ<choice><orig>ι</orig><reg>ί</reg></choice>

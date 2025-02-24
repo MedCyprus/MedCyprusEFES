@@ -76,7 +76,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/>Ὁ <persName type="sacred" key="Tychon"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
-                    <lb n="2"/><name nymRef="#Τύχων">Τύ
+                    <lb n="2"/><name type="forename" nymRef="#Τύχων">Τύ
                     <lb n="3"  break="no"/> χ
                      <lb n="4" break="no"/> ω
                      <lb n="5" break="no"/>ν</name></persName>  

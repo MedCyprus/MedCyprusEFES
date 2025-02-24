@@ -78,7 +78,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><choice><orig>Η</orig><reg>Ἡ</reg></choice> <w lemma="ἔγερσις"><choice><orig>Ἕ</orig><reg>Ἔ</reg></choice>γερσις</w> <hi rend="ligature">το<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <persName type="sacred" key="Lazaros"><name nymRef="#Λάζαρος">Λαζά
+                   <lb n="1"/><choice><orig>Η</orig><reg>Ἡ</reg></choice> <w lemma="ἔγερσις"><choice><orig>Ἕ</orig><reg>Ἔ</reg></choice>γερσις</w> <hi rend="ligature">το<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <persName type="sacred" key="Lazaros"><name type="forename" nymRef="#Λάζαρος">Λαζά
                     <lb n="2" break="no"/>ρου</name></persName>
               </ab>
             </div>

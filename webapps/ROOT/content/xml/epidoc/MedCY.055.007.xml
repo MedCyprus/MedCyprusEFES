@@ -72,7 +72,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w lemma="χαίρω">Χα<choice><orig>ι</orig><reg>ῖ</reg></choice>ρε </w><addName type="epithet" subtype="Maria" key="Kecharitomene"><w lemma="κεχαριτωμένη"><choice><sic>κ<hi rend="ligature">αι</hi><lb n="2" break="no"/>χαρι<hi rend="ligature">το</hi>μέ<lb n="3" break="no"/><hi rend="ligature">νη</hi></sic><corr>κε<lb n="1" break="no"/>χαριτωμέ<lb n="2" break="no"/>νη</corr></choice></w></addName> <persName type="sacred" key="Maria"><name nymRef="#Μαρία"></name>Μαρία</persName>                    
+                    <lb n="1"/><w lemma="χαίρω">Χα<choice><orig>ι</orig><reg>ῖ</reg></choice>ρε </w><addName type="epithet" subtype="Maria" key="Kecharitomene"><w lemma="κεχαριτωμένη"><choice><sic>κ<hi rend="ligature">αι</hi><lb n="2" break="no"/>χαρι<hi rend="ligature">το</hi>μέ<lb n="3" break="no"/><hi rend="ligature">νη</hi></sic><corr>κε<lb n="1" break="no"/>χαριτωμέ<lb n="2" break="no"/>νη</corr></choice></w></addName> <persName type="sacred" key="Maria"><name type="forename" nymRef="#Μαρία"></name>Μαρία</persName>                    
                     <lb n="4"/>ὁ <persName type="divine" key="Lord"><name nymRef="Κύριος"></name><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύριο</ex><abbr rend="supraline">ς</abbr> </expan></w></persName><w lemma="μετά">μετ
                     <lb n="5" break="no"/>ὰ </w><w lemma="σύ">σ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi></w>
                 </ab>

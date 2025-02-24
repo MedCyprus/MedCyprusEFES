@@ -79,7 +79,7 @@
                     <lb n="3" break="no" /><supplied reason="lost">γι</supplied>
                     <lb n="4" break="no"/>ος</w>
                   <cb n="b"/>
-                  <lb n="1"/><name nymRef="#Μᾶρκος"><supplied reason="lost">Mᾶρκος</supplied></name>
+                  <lb n="1"/><name type="forename" nymRef="#Μᾶρκος"><supplied reason="lost">Mᾶρκος</supplied></name>
                   <lb n="2"/>ὁ<addName type="epithet" key="Evangelist"><w lemma="εὐαγγελιστής"><supplied reason="lost"> εὐαγγε<hi rend="ligature">λι</hi>στής</supplied></w></addName></persName>
                 </ab>
             </div>

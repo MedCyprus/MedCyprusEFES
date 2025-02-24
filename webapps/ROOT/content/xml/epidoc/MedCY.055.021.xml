@@ -79,7 +79,7 @@
                     <lb n="3" break="no" /><supplied reason="lost">γι</supplied>
                     <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w>
                     <cb n="b"/>
-                    <lb n="1"/><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>
+                    <lb n="1"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>
                     <lb n="2"/>ὁ
                      <lb n="3"/>τ<choice><orig>η</orig><reg>ῆ</reg></choice>ς
                      <lb n="4"/><w lemma="κλῖμαξ">κλί

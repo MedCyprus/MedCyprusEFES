@@ -78,7 +78,7 @@
                 <ab>
                     <cb n="a"/>
                     <lb n="1"/>Ὁ <persName type="sacred" key="JohnChrysostom"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
-                    <lb n="2"/><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννη</ex><abbr rend="supraline">ς</abbr></expan></name>
+                    <lb n="2"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννη</ex><abbr rend="supraline">ς</abbr></expan></name>
                      <cb n="1"/>
                     <lb n="1"/>Ὁ 
                     <lb n="2"/><addName type="epithet" key="Chrysostom"><expan><abbr rend="supraline">Χρυ</abbr><am>´</am><ex>σόσ</ex><abbr rend="supraline">τ</abbr><ex>ο</ex><abbr rend="supraline">μος</abbr></expan></addName></persName>

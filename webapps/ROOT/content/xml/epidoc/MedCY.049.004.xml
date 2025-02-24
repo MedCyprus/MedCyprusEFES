@@ -80,7 +80,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/>Ὁ <persName type="sacred" key="Paul"> <w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w> <name nymRef="Παῦλος">Παῦλος</name></persName> 
+                   <lb n="1"/>Ὁ <persName type="sacred" key="Paul"> <w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w> <name type="forename" nymRef="Παῦλος">Παῦλος</name></persName> 
                </ab>
             </div>
             <div type="apparatus">

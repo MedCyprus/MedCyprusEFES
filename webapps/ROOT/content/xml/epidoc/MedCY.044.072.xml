@@ -79,7 +79,7 @@
                 <cb n="a"/>
                     <lb n="1"/>Ὁ <persName type="sacred" key="Phloros"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
                      <cb n="b"/>
-                  <lb n="1"/><name nymRef="#Φλώρος">Φλ<choice><orig>ό</orig><reg>ο&#x0342;</reg></choice>ρ
+                  <lb n="1"/><name type="forename" nymRef="#Φλώρος">Φλ<choice><orig>ό</orig><reg>ο&#x0342;</reg></choice>ρ
                   <lb n="2" break="no"/><hi rend="ligature">oς</hi></name></persName>    
               </ab>
             </div>

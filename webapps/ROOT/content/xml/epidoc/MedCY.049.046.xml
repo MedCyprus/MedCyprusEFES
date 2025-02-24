@@ -82,7 +82,7 @@
                    <cb n="a"/>
                    <lb n="1"/><choice><orig>Ο</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Hermogenes"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> 
                     <cb n="b"/>
-                    <lb n="1"/><name nymRef="#Ἑρμογένης"><choice><sic><choice><orig>Ε</orig><reg>Ἑ</reg></choice>ρμο
+                    <lb n="1"/><name type="forename" nymRef="#Ἑρμογένης"><choice><sic><choice><orig>Ε</orig><reg>Ἑ</reg></choice>ρμο
                     <lb n="2" break="no"/>γ<choice><orig>ε</orig><reg>έ</reg></choice><space quantity="1" unit="character"/>νις</sic><corr>Ἑρμογένης</corr></choice></name></persName>
                </ab>
             </div>

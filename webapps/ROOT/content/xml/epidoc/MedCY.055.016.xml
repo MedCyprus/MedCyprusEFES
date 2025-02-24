@@ -76,7 +76,7 @@
                     <lb n="1"/><supplied reason="lost">Ὁ</supplied>
                     <lb n="2"/><persName type="sacred" key="David"><w lemma="προφήτης"><supplied reason="lost"><expan><abbr rend="supraline">πρ</abbr><ex>ο</ex><abbr rend="supraline">φ</abbr><ex>ή</ex><abbr rend="supraline">τ</abbr><ex>ης</ex></expan></supplied></w>
                   <cb n="b"/>
-                  <lb n="1"/><name nymRef="#Δαυίδ"><expan><abbr rend="supraline">Δα</abbr><ex>υί</ex><abbr rend="supraline">δ</abbr></expan></name>
+                  <lb n="1"/><name type="forename" nymRef="#Δαυίδ"><expan><abbr rend="supraline">Δα</abbr><ex>υί</ex><abbr rend="supraline">δ</abbr></expan></name>
                     </persName>
                 </ab>
             </div>

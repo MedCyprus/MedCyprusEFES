@@ -77,7 +77,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>                   
                     <lb n="1"/>Ὁ <persName type="sacred" key="JohnMerciful"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
-                    <lb n="2"/><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>
+                    <lb n="2"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>
                     <lb n="3"/><addName type="epithet" key="Merciful"><choice><orig>Ο</orig><reg>Ὁ</reg></choice> Ἐλε
                     <lb n="4" break="no"/>ήμω 
                     <lb n="5" break="no"/>ν:</addName></persName>

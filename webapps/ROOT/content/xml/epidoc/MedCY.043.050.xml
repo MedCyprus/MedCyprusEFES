@@ -80,7 +80,7 @@
                     <lb n="3" break="no" /><supplied reason="lost">γί</supplied>
                     <lb n="4" break="no"/><supplied reason="lost">α</supplied></w>
                     <cb n="b"/>
-                    <lb n="1"/><name nymRef="#Ἀθανασία"><choice><sic><choice><orig>Α</orig><reg>Ἀ</reg></choice>θα<lb n="2" break="no"/>να<lb n="3" break="no"/>σή<lb n="4" break="no"/>α</sic><corr>Ἀθα<lb n="4" break="no"/>να<lb n="4" break="no"/>σί<lb n="4" break="no"/>α</corr></choice></name>                     
+                    <lb n="1"/><name type="forename" nymRef="#Ἀθανασία"><choice><sic><choice><orig>Α</orig><reg>Ἀ</reg></choice>θα<lb n="2" break="no"/>να<lb n="3" break="no"/>σή<lb n="4" break="no"/>α</sic><corr>Ἀθα<lb n="4" break="no"/>να<lb n="4" break="no"/>σί<lb n="4" break="no"/>α</corr></choice></name>                     
                     </persName>
                  </ab>
             </div>

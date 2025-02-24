@@ -79,7 +79,7 @@
                     <lb n="3" break="no" /><supplied reason="lost">γι</supplied>
                     <lb n="4" break="no"/><unclear>ος</unclear></w>
                     <cb n="b"/>
-                    <lb n="1"/><name nymRef="#Ἰωάννης ὁ Θεολόγος"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan>                    
+                    <lb n="1"/><name type="forename" nymRef="#Ἰωάννης ὁ Θεολόγος"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan>                    
                       <lb n="2"/><choice><orig>o</orig><reg>ὁ</reg></choice><addName type="epithet" key="Theologian"> Θε
                      <lb n="3" break="no"/><choice><orig>ὁ</orig><reg>o</reg></choice>λό
                      <lb n="4" break="no"/>γος</addName></name>
