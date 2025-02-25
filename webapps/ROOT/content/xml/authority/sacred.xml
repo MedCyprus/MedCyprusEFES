@@ -197,7 +197,7 @@
                 <person sameAs="#JesusChrist"><persName>Christ</persName></person>
                
                 <person xml:id="Constantine_Ormideia">
-                    <persName xml:lang="grc">Κωνσταντίνος τῆς Ὀρμήδειας</persName>
+                    <persName xml:lang="grc">Κωνσταντῖνος τῆς Ὀρμήδειας</persName>
                     <persName xml:lang="en">Constantine of Ormideia</persName>     
                     <persName xml:lang="grc" type="epithet" subtype="Constantine_Ormideia">τῆς Ὁρμήδειας</persName>
                     <persName xml:lang="en" type="epithet" subtype="Constantine_Ormideia">of Ormideia</persName>
@@ -572,9 +572,9 @@
                 </person>
                 
                 <person xml:id="KosmasPoet">
-                    <persName xml:lang="grc">Κοσμάς ὁ Ποιητής</persName>
+                    <persName xml:lang="grc">Κοσμᾶς ὁ Ποιητής</persName>
                     <persName xml:lang="en">Kosmas the Poet</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="KosmasPoet" key="Poet">ὁ Ποιτητής</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="KosmasPoet" key="Poet">ὁ Ποιητής</persName>
                     <persName xml:lang="en" type="epithet" subtype="KosmasPoet" key="Poet">Poet</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2496948</idno>                   
                 </person>
@@ -685,8 +685,8 @@
                 </person>
                 
                 <person xml:id="MaryOfEgypt">
-                    <persName xml:lang="grc">Μαρία ἡ Αἰγυπτία</persName>
-                    <persName xml:lang="en">Mary of Egypt</persName> 
+                    <persName xml:lang="grc">Μαρία</persName>
+                    <persName xml:lang="en">Mary</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="MaryOfEgypt" key="Egyptian">ἡ Αἰγυπτία</persName>
                     <persName xml:lang="en" type="epithet" subtype="MaryOfEgypt" key="Egyptian">Egyptian</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q237583</idno>                   
@@ -753,7 +753,7 @@
                 </person>
                 
                 <person xml:id="Moses">
-                    <persName xml:lang="grc">Μωυσής</persName>
+                    <persName xml:lang="grc">Μωυσῆς</persName>
                     <persName xml:lang="en">Moses</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9077</idno>                   
                 </person>
@@ -785,7 +785,7 @@
                 </person>
                                               
                 <person xml:id="Onouphrios">
-                    <persName xml:lang="grc">Ονούφριος</persName>
+                    <persName xml:lang="grc">Ὀνούφριος</persName>
                     <persName xml:lang="en">Onouphrios</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q464959</idno>                   
                 </person>
@@ -854,7 +854,7 @@
                 </person>
                 
                 <person xml:id="Samonas">
-                    <persName xml:lang="grc">Σαμωνάς</persName>
+                    <persName xml:lang="grc">Σαμωνᾶς</persName>
                     <persName xml:lang="en">Samonas</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q59550534</idno>                   
                 </person>
@@ -866,7 +866,7 @@
                 </person>
                 
                 <person xml:id="Solomon">
-                    <persName xml:lang="grc">Σολομών</persName>
+                    <persName xml:lang="grc">Σολομῶν</persName>
                     <persName xml:lang="en">Solomon</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q37085</idno>                   
                 </person>
