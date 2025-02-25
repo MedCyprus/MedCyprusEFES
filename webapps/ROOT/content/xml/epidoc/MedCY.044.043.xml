@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Auxibios</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,13 +28,13 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, south recess' soffit, west side, first medallion, on top</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the medallion with the representation of the saint</layout>
+                                <layout>On either side of the medallion with the representation of the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Auxibios">Auxibios</rs></p>
+                            <p><rs type="iconography" ref="#Auxibios">Auxibios</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,8 +70,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-043-01.JPG"><desc>Bema, south recess' soffit, west side, first medallion, on top, inscription</desc></graphic>
-        <graphic url="044-043-02.JPG"><desc>Bema, south recess' soffit, west side, first medallion, on top, general view</desc></graphic>
+         <graphic rend="primary" url="044-043-01.JPG"><desc>Saint Auxibios, inscription</desc></graphic>
+        <graphic url="044-043-02.JPG"><desc>Saint Auxibios, general view</desc></graphic>
         </facsimile>
     <text>
         <body>
@@ -78,7 +80,7 @@
                  <cb n="a"/> 
                   <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Auxibios"><supplied reason="lost"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w></supplied>
                   <cb n="b"/> 
-                  <lb n="1"/><name type="forename" nymRef="#Αυξίβιος"><choice><orig>Αυ</orig><reg>Αὐ</reg></choice><choice><orig>ξι</orig><reg>ξί</reg></choice>
+                  <lb n="1"/><name type="forename" nymRef="#Αὐξίβιος"><choice><orig>Αυ</orig><reg>Αὐ</reg></choice><choice><orig>ξι</orig><reg>ξί</reg></choice>
                   <lb n="2" break="no"/>βι
                   <lb n="3" break="no"/><hi rend="ligature">ος</hi></name></persName>              
                 </ab> 
@@ -90,7 +92,7 @@
                 <p>[Saint] Auxibios</p>
             </div>
             <div type="commentary">
-                <p>Poorly preserved. Ligature OC exfoliated.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>

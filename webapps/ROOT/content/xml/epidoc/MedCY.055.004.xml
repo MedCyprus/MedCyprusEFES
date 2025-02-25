@@ -39,7 +39,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Mark">Mark's gospel</rs></p>
+                            <p><rs type="iconography" ref="#Mark">Mark the Evangelist</rs>
+                                   <rs type="iconography" ref="#evangelist"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                             </decoDesc>
                     </physDesc>
                     <history>

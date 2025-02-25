@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Constantine</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,13 +28,13 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwest recess, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the right of the saint</layout>
+                                <layout>On the right of the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Constantine">Constantine</rs></p>
+                            <p><rs type="iconography" ref="#Constantine">Constantine</rs>
+                                  <rs type="iconography" ref="#male"></rs>
+                                  <rs type="iconography" ref="#imperial"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,15 +70,15 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-062-01.JPG"><desc>Naos, southwest recess, lunette, inscription</desc></graphic>
-        <graphic url="044-062-02.JPG"><desc>Naos, southwest recess, lunette, general view</desc></graphic>
+         <graphic rend="primary" url="044-062-01.JPG"><desc>Saint Constantine, inscription</desc></graphic>
+        <graphic url="044-062-02.JPG"><desc>Saint Constantine, general view</desc></graphic>
    </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                    <lb n="1"/>Ὁ <persName type="sacred" key="Constantine"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
-                  <lb n="2"/><name type="forename" nymRef="#Kωνσταντίνος">Κ<hi rend="supraline">ων</hi> 
+                  <lb n="2"/><name type="forename" nymRef="#Kωνσταντῖνος">Κ<hi rend="supraline">ων</hi> 
                   <lb n="3" break="no"/>σταν
                   <lb n="4" break="no"/>τ<choice><orig>ή</orig><reg>ῆ</reg></choice>
                   <lb n="5" break="no"/>νο
@@ -90,11 +92,11 @@
                 <p>Saint Constantine</p> 
             </div>
             <div type="commentary">
-                <p>Good condition. The word Kωνσταντίνος is misspelled.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 88</citedRange></bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>88</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
