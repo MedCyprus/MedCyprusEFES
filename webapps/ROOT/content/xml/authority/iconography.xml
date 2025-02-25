@@ -20,9 +20,9 @@
          <list xml:id="scenes"> <!-- simply to help organise the list-->
            <head>Scenes</head>
                 
-             <item xml:id="scene"> <!-- to be used for tagging narrative and other compositions for the Iconography Index-->
+             <!--Don't use <item xml:id="scene">  to be used for tagging narrative and other compositions for the Iconography Index
                  <term xml:lang="en">scene</term>
-             </item>
+             </item>-->
              <item xml:id="AdorationMagi">
                     <term xml:lang="en">Adoration of the Magi</term>
                 </item>
@@ -161,10 +161,10 @@
             <list type="individual_figures" xml:id="individual_figures"><!-- simply to help organise the list-->
                 <head>Individual Figures</head>             
                
-                <item xml:id="individual_figure"> <!-- to be used for tagging individual figures, including Virgin with Child, for the Iconography Index-->
+               <!-- Don't Use <item xml:id="individual_figure">  to be used for tagging individual figures, including Virgin with Child, for the Iconography Index
                     <term xml:lang="en">individual figure</term>
                     
-                </item>
+              </item>-->
                 
                 <item xml:id="Aaron"> 
                     <term xml:lang="en">Aaron</term>
@@ -830,12 +830,12 @@
             <list type="structures_objects_symbols" xml:id="structures_objcts_symbols"><!-- simply to help organise the list; heading should not be used in the marking-up-->
                 <head>Structures - Objects - Symbols</head>
                 
-                <item xml:id="structure"> 
+              <!--  Don't Use <item xml:id="structure"> 
                     <term xml:lang="en">structure</term>
                 </item>
                 <item xml:id="object"> 
                     <term xml:lang="en">object</term>
-                </item>
+                </item>-->
                 
                 <item xml:id="crossprocessional"> 
                   <term xml:lang="en">cross, processional</term>
