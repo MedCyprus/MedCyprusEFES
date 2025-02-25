@@ -12,9 +12,16 @@
   <!--<facet.field>mentioned_places</facet.field>-->
   <!--<facet.field>mentioned_institutions</facet.field>-->
   <!--<facet.field>mentioned_divinities</facet.field>-->
-  <facet.field>iconographic_categories</facet.field>
-  <facet.field>iconography</facet.field>
+ <!-- <facet.field>iconographic_categories</facet.field>-->
+  
   <facet.field>iconography_scenes</facet.field>
+  <facet.field>iconography_scene_categories</facet.field>
+  <facet.field>iconography_individual_figures</facet.field>
+  <facet.field>iconography_individual_figures_categories</facet.field>
+  <facet.field>iconography_gender</facet.field>
+  <facet.field>iconography_structures_objects_symbols</facet.field>
+  <facet.field>iconography</facet.field>
+  
   <facet.field>inscription_type</facet.field>
   <facet.field>administrative_district</facet.field>
   <facet.field>ecclesiastical_diocese</facet.field>

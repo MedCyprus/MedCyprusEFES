@@ -148,7 +148,7 @@
     </field>
   </xsl:template>
   
-  <xsl:template match="tei:rs[@type='iconography']/@ref" mode="facet_iconographic_categories">
+ <!-- <xsl:template match="tei:rs[@type='iconography']/@ref" mode="facet_iconographic_categories">
     
     <xsl:variable name="id" select="substring-after(., '#')"/>
     <xsl:variable name="iconographyAL" select="'../../content/xml/authority/iconography.xml'"/>
@@ -165,7 +165,7 @@
     </field>
     
 
-  </xsl:template>
+  </xsl:template>-->
   
   <xsl:template match="tei:rs[@type='iconography']/@ref" mode="facet_iconography_scenes">
     <xsl:variable name="id" select="substring-after(., '#')"/>
@@ -180,6 +180,55 @@
     </field>
   </xsl:template>
   
+  <xsl:template match="tei:rs[@type='iconography']/@ref" mode="facet_iconography_scene_categories">
+    <xsl:variable name="id" select="substring-after(., '#')"/>
+    <xsl:variable name="iconographyAL" select="'../../content/xml/authority/iconography.xml'"/>
+    <field name="iconography_scene_categories">
+      <xsl:if test="doc-available($iconographyAL) = fn:true() and document($iconographyAL)//tei:list[@xml:id='scene_categories']/tei:item[@xml:id=$id]">
+        <xsl:value-of select="normalize-space(translate(translate(translate(document($iconographyAL)//tei:item[@xml:id=$id][1], '/', '／'), '_', ' '), '(?)', ''))"/>
+      </xsl:if>
+    </field>
+  </xsl:template>
+  
+  <xsl:template match="tei:rs[@type='iconography']/@ref" mode="facet_iconography_gender">
+    <xsl:variable name="id" select="substring-after(., '#')"/>
+    <xsl:variable name="iconographyAL" select="'../../content/xml/authority/iconography.xml'"/>
+    <field name="iconography_gender">
+      <xsl:if test="doc-available($iconographyAL) = fn:true() and document($iconographyAL)//tei:list[@xml:id='gender']/tei:item[@xml:id=$id]">
+        <xsl:value-of select="normalize-space(translate(translate(translate(document($iconographyAL)//tei:item[@xml:id=$id][1], '/', '／'), '_', ' '), '(?)', ''))"/>
+      </xsl:if>
+    </field>
+  </xsl:template>
+  
+  <xsl:template match="tei:rs[@type='iconography']/@ref" mode="facet_iconography_individual_figures">
+    <xsl:variable name="id" select="substring-after(., '#')"/>
+    <xsl:variable name="iconographyAL" select="'../../content/xml/authority/iconography.xml'"/>
+    <field name="iconography_individual_figures">
+      <xsl:if test="doc-available($iconographyAL) = fn:true() and document($iconographyAL)//tei:list[@xml:id='individual_figures']/tei:item[@xml:id=$id]">
+        <xsl:value-of select="normalize-space(translate(translate(translate(document($iconographyAL)//tei:item[@xml:id=$id][1], '/', '／'), '_', ' '), '(?)', ''))"/>
+      </xsl:if>
+    </field>
+  </xsl:template>
+  
+  <xsl:template match="tei:rs[@type='iconography']/@ref" mode="facet_iconography_individual_figures_categories">
+    <xsl:variable name="id" select="substring-after(., '#')"/>
+    <xsl:variable name="iconographyAL" select="'../../content/xml/authority/iconography.xml'"/>
+    <field name="iconography_individual_figures_categories">
+      <xsl:if test="doc-available($iconographyAL) = fn:true() and document($iconographyAL)//tei:list[@xml:id='individual_figures_categories']/tei:item[@xml:id=$id]">
+        <xsl:value-of select="normalize-space(translate(translate(translate(document($iconographyAL)//tei:item[@xml:id=$id][1], '/', '／'), '_', ' '), '(?)', ''))"/>
+      </xsl:if>
+    </field>
+  </xsl:template>
+  
+  <xsl:template match="tei:rs[@type='iconography']/@ref" mode="facet_iconography_structures_objects_symbols">
+    <xsl:variable name="id" select="substring-after(., '#')"/>
+    <xsl:variable name="iconographyAL" select="'../../content/xml/authority/iconography.xml'"/>
+    <field name="iconography_structures_objects_symbols">
+      <xsl:if test="doc-available($iconographyAL) = fn:true() and document($iconographyAL)//tei:list[@xml:id='structures_objects_symbols']/tei:item[@xml:id=$id]">
+        <xsl:value-of select="normalize-space(translate(translate(translate(document($iconographyAL)//tei:item[@xml:id=$id][1], '/', '／'), '_', ' '), '(?)', ''))"/>
+      </xsl:if>
+    </field>
+  </xsl:template>
   
   <!-- This template is called by the Kiln tei-to-solr.xsl as part of
        the main doc for the indexed file. Put any code to generate
@@ -196,9 +245,12 @@
     <xsl:call-template name="field_person_name"/>
     <xsl:call-template name="field_textual_origin_date"/>
     <xsl:call-template name="field_iconography"/>
-    <xsl:call-template name="field_iconographic_categories"/>
+    <xsl:call-template name="field_iconography_scene_categories"/>
     <xsl:call-template name="field_iconography_scenes"/>
     <xsl:call-template name="field_iconography_gender"/>
+    <xsl:call-template name="field_iconography_individual_figures"/>
+    <xsl:call-template name="field_iconography_individual_figures_categories"/>
+    <xsl:call-template name="field_iconography_structures_objects_symbols"/>
   </xsl:template>
   
   <xsl:template name="field_inscription_type">
@@ -237,12 +289,14 @@
     <xsl:apply-templates mode="facet_textual_origin_date" select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:history/tei:origin/tei:origDate" />
   </xsl:template>
   
+  <!-- Iconography -->
+  
   <xsl:template name="field_iconography">
     <xsl:apply-templates mode="facet_iconography" select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:physDesc/tei:decoDesc/tei:p/tei:rs[@type='iconography']/@ref"/>
   </xsl:template>
   
-  <xsl:template name="field_iconographic_categories">
-    <xsl:apply-templates mode="facet_iconographic_categories" select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:physDesc/tei:decoDesc/tei:p/tei:rs[@type='iconography']/@ref"/>
+  <xsl:template name="field_iconography_scene_categories">
+    <xsl:apply-templates mode="facet_iconography_scene_categories" select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:physDesc/tei:decoDesc/tei:p/tei:rs[@type='iconography']/@ref"/>
   </xsl:template>
   
   <xsl:template name="field_iconography_scenes">
@@ -251,6 +305,18 @@
   
   <xsl:template name="field_iconography_gender">
     <xsl:apply-templates mode="facet_iconography_gender" select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:physDesc/tei:decoDesc/tei:p/tei:rs[@type='iconography']/@ref"/>
+  </xsl:template>
+  
+  <xsl:template name="field_iconography_individual_figures">
+    <xsl:apply-templates mode="facet_iconography_individual_figures" select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:physDesc/tei:decoDesc/tei:p/tei:rs[@type='iconography']/@ref"/>
+  </xsl:template>
+  
+  <xsl:template name="field_iconography_individual_figures_categories">
+    <xsl:apply-templates mode="facet_iconography_individual_figures_categories" select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:physDesc/tei:decoDesc/tei:p/tei:rs[@type='iconography']/@ref"/>
+  </xsl:template>
+  
+  <xsl:template name="field_iconography_structures_objects_symbols">
+    <xsl:apply-templates mode="facet_iconography_structures_objects_symbols" select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:physDesc/tei:decoDesc/tei:p/tei:rs[@type='iconography']/@ref"/>
   </xsl:template>
   
 </xsl:stylesheet>

@@ -16,208 +16,204 @@
     </teiHeader>
     <text>
         <body>
-            
-         <list xml:id="scenes"> <!-- simply to help organise the list-->
-           <head>Scenes</head>
-                
-             <!--Don't use <item xml:id="scene">  to be used for tagging narrative and other compositions for the Iconography Index
-                 <term xml:lang="en">scene</term>
-             </item>-->
-             <item xml:id="AdorationMagi">
+
+            <list xml:id="scenes">
+                <head>Scenes</head>
+
+                <item xml:id="AdorationMagi">
                     <term xml:lang="en">Adoration of the Magi</term>
                 </item>
-             <!--<item xml:id="AngelicProcession">
+                <!--<item xml:id="AngelicProcession">
                  <term xml:lang="en">Angelic procession</term>
              </item>-->
-             <item xml:id="Angels_Hetoimasia">
-                 <term xml:lang="en">Angels adoring the Hetoimasia</term>
-             </item>
+                <item xml:id="Angels_Hetoimasia">
+                    <term xml:lang="en">Angels adoring the Hetoimasia</term>
+                </item>
                 <item xml:id="Αnnunciation">
                     <term xml:lang="en">Annunciation</term>
                 </item>
                 <item xml:id="Ascension">
                     <term xml:lang="en">Ascension</term>
-                </item>                
+                </item>
                 <item xml:id="Baptism">
                     <term xml:lang="en">Baptism</term>
-                </item>                
+                </item>
                 <item xml:id="BathChild">
                     <term xml:lang="en">Bath of the Child</term>
                 </item>
                 <item xml:id="VirginBath">
                     <term xml:lang="en">Bath of the infant Virgin</term>
                 </item>
-                <item xml:id="BirthVirgin"> 
+                <item xml:id="BirthVirgin">
                     <term xml:lang="en">Birth of the Virgin</term>
-                </item>                
-             <item xml:id="CommunionApostles"> 
-                 <term xml:lang="en">Communion of the Apostles</term>
-             </item>
-             <item xml:id="CommunionApostlesMetadosis"> 
-                    <term xml:lang="en">Communion of the Apostles, Metadosis (Offering of the Bread)</term>
                 </item>
-                <item xml:id="CommunionApostlesMetalepsis"> 
-                    <term xml:lang="en">Communion of the Apostles, Metalepsis (Offering of the Wine)</term>
+                <item xml:id="CommunionApostles">
+                    <term xml:lang="en">Communion of the Apostles</term>
                 </item>
-                <item xml:id="CommunionMaryofEgypt"> 
+                <item xml:id="CommunionApostlesMetadosis">
+                    <term xml:lang="en">Communion of the Apostles, Metadosis (Offering of the
+                        Bread)</term>
+                </item>
+                <item xml:id="CommunionApostlesMetalepsis">
+                    <term xml:lang="en">Communion of the Apostles, Metalepsis (Offering of the
+                        Wine)</term>
+                </item>
+                <item xml:id="CommunionMaryofEgypt">
                     <term xml:lang="en">Communion of Saint Mary of Egypt</term>
-                </item>                
-                <item xml:id="Crucifixion"> 
+                </item>
+                <item xml:id="Crucifixion">
                     <term xml:lang="en">Crucifixion</term>
-                </item>                
-                <item xml:id="Deesis"> 
+                </item>
+                <item xml:id="Deesis">
                     <term xml:lang="en">Deesis</term>
-                </item> 
-                <item xml:id="DescentIntoHell"> 
+                </item>
+                <item xml:id="DescentIntoHell">
                     <term xml:lang="en">Descent into Hell</term>
                 </item>
                 <item xml:id="Dormition">
                     <term xml:lang="en">Dormition</term>
-                </item>                
-                <item xml:id="EntryIntoJerusalem"> 
+                </item>
+                <item xml:id="EntryIntoJerusalem">
                     <term xml:lang="en">Entry into Jerusalem</term>
-                </item>                
-                <item xml:id="Hetoimasia"> 
+                </item>
+                <item xml:id="Hetoimasia">
                     <term xml:lang="en">Hetoimasia (preparation of the throne)</term>
                 </item>
-                <item xml:id="LastJudgment"> 
+                <item xml:id="LastJudgment">
                     <term xml:lang="en">Last Judgment</term>
                 </item>
                 <item xml:id="LastSupper">
                     <term xml:lang="en">Last Supper</term>
-                </item>                
-                <item xml:id="LazarosRaising"> 
+                </item>
+                <item xml:id="LazarosRaising">
                     <term xml:lang="en">Raising of Lazaros</term>
-                </item>                
-                <item xml:id="FortyMartyrs_martyrdom"> 
+                </item>
+                <item xml:id="FortyMartyrs_martyrdom">
                     <term xml:lang="en">Martyrdom of the Forty Martyrs of Sebasteia</term>
                 </item>
-                <item xml:id="Nativity"> 
+                <item xml:id="Nativity">
                     <term xml:lang="en">Nativity</term>
-                </item>                
+                </item>
                 <item xml:id="Pentecost">
                     <term xml:lang="en">Pentecost</term>
-                </item>                
-                <item xml:id="PresentationChristTemple"> 
+                </item>
+                <item xml:id="PresentationChristTemple">
                     <term xml:lang="en">Presentation of Christ to the Temple</term>
                 </item>
-                <item xml:id="PresentationVirgin"> 
+                <item xml:id="PresentationVirgin">
                     <term xml:lang="en">Presentation of the Virgin to the Temple</term>
                 </item>
-                <item xml:id="AbrahamSacrifice"> 
+                <item xml:id="AbrahamSacrifice">
                     <term xml:lang="en">The Sacrifice of Abraham</term>
-                </item>                                
+                </item>
                 <item xml:id="WashingOfTheFeet">
                     <term xml:lang="en">Washing of the Feet</term>
                 </item>
-             <item xml:id="AgonyInTheGarden">
-                 <term xml:lang="en">Agony in the Garden</term>
-             </item>
-             <item xml:id="Betrayal">
-                 <term xml:lang="en">Betrayal</term>
-             </item>
-             <item xml:id="JudgementOfPilate">
-                 <term xml:lang="en">Judgement of Pilate</term>
-             </item>
-             <item xml:id="RoadToCalvary">
-                 <term xml:lang="en">Road to Calvary</term>
-             </item>
-             <item xml:id="DescentOfTheCross">
-                 <term xml:lang="en">Descent of the Cross</term>
-             </item>
-             <item xml:id="unidentified_scene">
-                 <term xml:lang="en">Unidentified scene</term>
-             </item>
-           </list> 
-                                                   
-            <list type="scenecategories" xml:id="scenecategories"><!-- simply to help organise the list; heading should not be used in the marking-up-->
-               <head>Scene Categories</head>
-            
-               <item xml:id="christological">
+                <item xml:id="AgonyInTheGarden">
+                    <term xml:lang="en">Agony in the Garden</term>
+                </item>
+                <item xml:id="Betrayal">
+                    <term xml:lang="en">Betrayal</term>
+                </item>
+                <item xml:id="JudgementOfPilate">
+                    <term xml:lang="en">Judgement of Pilate</term>
+                </item>
+                <item xml:id="RoadToCalvary">
+                    <term xml:lang="en">Road to Calvary</term>
+                </item>
+                <item xml:id="DescentOfTheCross">
+                    <term xml:lang="en">Descent of the Cross</term>
+                </item>
+                <item xml:id="unidentified_scene">
+                    <term xml:lang="en">Unidentified scene</term>
+                </item>
+            </list>
+
+            <list type="scenecategories" xml:id="scene_categories">
+                <head>Scene Categories</head>
+
+                <item xml:id="christological">
                     <term xml:lang="en">Christological</term>
                 </item>
-               <item xml:id="eschatological">
-                   <term xml:lang="en">eschatological</term>
-               </item>
+                <item xml:id="eschatological">
+                    <term xml:lang="en">Eschatological</term>
+                </item>
                 <item xml:id="hagiographic">
-                    <term xml:lang="en">hagiographic</term>
+                    <term xml:lang="en">Hagiographic</term>
                 </item>
                 <item xml:id="mariological">
                     <term xml:lang="en">Mariological</term>
                 </item>
                 <item xml:id="liturgical">
-                    <term xml:lang="en">liturgical</term>
-                </item><item xml:id="Newtestament">
+                    <term xml:lang="en">Liturgical</term>
+                </item>
+                <item xml:id="Newtestament">
                     <term xml:lang="en">New Testament</term>
                 </item>
                 <item xml:id="Oldtestament">
                     <term xml:lang="en">Old Testament</term>
                 </item>
                 <item xml:id="vision">
-                   <term xml:lang="en">Vision, prophetic or other</term>
-               </item>
-            </list>            
-                        
-            <list type="individual_figures" xml:id="individual_figures"><!-- simply to help organise the list-->
-                <head>Individual Figures</head>             
-               
-               <!-- Don't Use <item xml:id="individual_figure">  to be used for tagging individual figures, including Virgin with Child, for the Iconography Index
-                    <term xml:lang="en">individual figure</term>
-                    
-              </item>-->
-                
-                <item xml:id="Aaron"> 
+                    <term xml:lang="en">Vision, prophetic or other</term>
+                </item>
+            </list>
+
+            <list type="individual_figures" xml:id="individual_figures">
+                <head>Individual Figures</head>
+
+
+                <item xml:id="Aaron">
                     <term xml:lang="en">Aaron</term>
                 </item>
-                <item xml:id="Abibos"> 
+                <item xml:id="Abibos">
                     <term xml:lang="en">Abibos</term>
                 </item>
-                <item xml:id="Abraham"> 
+                <item xml:id="Abraham">
                     <term xml:lang="en">Abraham</term>
-                </item>                
+                </item>
                 <item xml:id="Adam">
                     <term xml:lang="en">Adam</term>
                 </item>
-                <item xml:id="Aeithalas"> 
+                <item xml:id="Aeithalas">
                     <term xml:lang="en">Aeithalas</term>
                 </item>
-                <item xml:id="Akepsimas"> 
+                <item xml:id="Akepsimas">
                     <term xml:lang="en">Akepsimas</term>
                 </item>
-                <item xml:id="Akindynos"> 
+                <item xml:id="Akindynos">
                     <term xml:lang="en">Akindynos</term>
                 </item>
                 <item xml:id="Amoun">
                     <term xml:lang="en">Amoun</term>
                 </item>
-                <item xml:id="AnastasiaPharmakolytria"> 
+                <item xml:id="AnastasiaPharmakolytria">
                     <term xml:lang="en">Anastasia the Poison-curer (Pharmakolytria) </term>
                 </item>
-                <item xml:id="AnastasiaSaramalyna_MedCY044"> 
+                <item xml:id="AnastasiaSaramalyna_MedCY044">
                     <term xml:lang="en">Anastasia Saramalyna</term>
                 </item>
-                <item xml:id="Andrew"> 
+                <item xml:id="Andrew">
                     <term xml:lang="en">Andrew</term>
                 </item>
-                <item xml:id="AndrewSalos"> 
+                <item xml:id="AndrewSalos">
                     <term xml:lang="en">Andrew Salos</term>
                 </item>
                 <item xml:id="Andronikos">
-                        <term xml:lang="en">Andronikos</term>
+                    <term xml:lang="en">Andronikos</term>
                 </item>
-                <item xml:id="Anempodistos"> 
+                <item xml:id="Anempodistos">
                     <term xml:lang="en">Anempodistos</term>
                 </item>
-                <item xml:id="angel"> 
+                <item xml:id="angel">
                     <term xml:lang="en">angel</term>
-                </item>                
-                <item xml:id="Anne"> 
+                </item>
+                <item xml:id="Anne">
                     <term xml:lang="en">Anne</term>
                 </item>
                 <item xml:id="Antonios">
                     <term xml:lang="en">Antonios</term>
                 </item>
-                <item xml:id="Aphthonios"> 
+                <item xml:id="Aphthonios">
                     <term xml:lang="en">Aphthonios</term>
                 </item>
                 <item xml:id="archangel_unidentified">
@@ -229,28 +225,28 @@
                 <item xml:id="Athanasia">
                     <term xml:lang="en">Athanasia</term>
                 </item>
-                <item xml:id="Athanasios"> 
+                <item xml:id="Athanasios">
                     <term xml:lang="en">Athanasios</term>
                 </item>
-                <item xml:id="Athanasiospentaschoinites"> 
+                <item xml:id="Athanasiospentaschoinites">
                     <term xml:lang="en">Athanasios Pentaschoinites</term>
                 </item>
-                <item xml:id="Auxentios"> 
+                <item xml:id="Auxentios">
                     <term xml:lang="en">Auxentios</term>
                 </item>
                 <item xml:id="Auxibios">
                     <term xml:lang="en">Auxibios</term>
                 </item>
-                <item xml:id="Bakchos"> 
+                <item xml:id="Bakchos">
                     <term xml:lang="en">Bakchos</term>
                 </item>
-                <item xml:id="Barbara"> 
+                <item xml:id="Barbara">
                     <term xml:lang="en">Barbara</term>
                 </item>
-                <item xml:id="Barnabas"> 
+                <item xml:id="Barnabas">
                     <term xml:lang="en">Barnabas</term>
                 </item>
-                <item xml:id="Basil"> 
+                <item xml:id="Basil">
                     <term xml:lang="en">Basil</term>
                 </item>
                 <item xml:id="Chariton">
@@ -258,7 +254,7 @@
                 </item>
                 <item xml:id="Christ">
                     <term xml:lang="en">Christ</term>
-                </item>                
+                </item>
                 <item xml:id="ChristAntiphonetes">
                     <term xml:lang="en">Christ Antiphonetes</term>
                 </item>
@@ -270,71 +266,71 @@
                 </item>
                 <item xml:id="ChristPantokrator">
                     <term xml:lang="en">Christ Pantokrator</term>
-                </item>     
+                </item>
                 <item xml:id="ChristChild">
                     <term xml:lang="en">Christ Child</term>
                 </item>
-                <item xml:id="Christopher"> 
+                <item xml:id="Christopher">
                     <term xml:lang="en">Christopher</term>
                 </item>
-                <item xml:id="Constantine"> 
+                <item xml:id="Constantine">
                     <term xml:lang="en">Constantine</term>
-                </item>                
+                </item>
                 <item xml:id="ConstantineOrmideia">
                     <term xml:lang="en">Constantine of Ormideia</term>
-                </item>         
-                <item xml:id="Cyril"> 
+                </item>
+                <item xml:id="Cyril">
                     <term xml:lang="en">Cyril</term>
                 </item>
-                <item xml:id="Damianos"> 
+                <item xml:id="Damianos">
                     <term xml:lang="en">Damianos</term>
-                </item>                
-                <item xml:id="Demetrios"> 
+                </item>
+                <item xml:id="Demetrios">
                     <term xml:lang="en">Demetrios</term>
-                </item>                
-                <item xml:id="Daniel"> 
+                </item>
+                <item xml:id="Daniel">
                     <term xml:lang="en">Daniel</term>
                 </item>
-                <item xml:id="DanielOfSketis"> 
+                <item xml:id="DanielOfSketis">
                     <term xml:lang="en">Daniel of Sketis</term>
                 </item>
-                <item xml:id="Daniel_stylite"> 
+                <item xml:id="Daniel_stylite">
                     <term xml:lang="en">Daniel the Stylite</term>
-                </item>                
-                <item xml:id="David"> 
+                </item>
+                <item xml:id="David">
                     <term xml:lang="en">David</term>
-                </item>                      
-                <item xml:id="DionysiosAreopagites"> 
+                </item>
+                <item xml:id="DionysiosAreopagites">
                     <term xml:lang="en">Dionysios the Areopagite</term>
                 </item>
-                <item xml:id="EireneGerakiotes_MedCY043"> 
+                <item xml:id="EireneGerakiotes_MedCY043">
                     <term xml:lang="en">Eirene Gerakiotes</term>
                 </item>
-                <item xml:id="Elisha"> 
+                <item xml:id="Elisha">
                     <term xml:lang="en">Elisha</term>
-                </item>                
-                <item xml:id="Elijah"> 
+                </item>
+                <item xml:id="Elijah">
                     <term xml:lang="en">Elijah</term>
                 </item>
-                <item xml:id="Elpidophoros"> 
+                <item xml:id="Elpidophoros">
                     <term xml:lang="en">Elpidophoros</term>
                 </item>
                 <item xml:id="Ephraim">
                     <term xml:lang="en">Ephraim</term>
-                </item>  
-                <item xml:id="Epiphanios"> 
+                </item>
+                <item xml:id="Epiphanios">
                     <term xml:lang="en">Epiphanios</term>
                 </item>
-                <item xml:id="Eugenios"> 
+                <item xml:id="Eugenios">
                     <term xml:lang="en">Eugenios</term>
-                </item>    
-                <item xml:id="Eugraphos"> 
+                </item>
+                <item xml:id="Eugraphos">
                     <term xml:lang="en">Eugraphos</term>
                 </item>
-                <item xml:id="Eulalios"> 
+                <item xml:id="Eulalios">
                     <term xml:lang="en">Eulalios</term>
                 </item>
-                <item xml:id="Eustratios"> 
+                <item xml:id="Eustratios">
                     <term xml:lang="en">Eustratios</term>
                 </item>
                 <item xml:id="Euthymios">
@@ -342,50 +338,50 @@
                 </item>
                 <item xml:id="Eve">
                     <term xml:lang="en">Eve</term>
-                </item>                
-                <item xml:id="Ezekiel"> 
+                </item>
+                <item xml:id="Ezekiel">
                     <term xml:lang="en">Ezekiel</term>
                 </item>
-                <item xml:id="FortyMartyrs"> 
+                <item xml:id="FortyMartyrs">
                     <term xml:lang="en">Forty Martyrs of Sebasteia</term>
                 </item>
-                <item xml:id="Gabriel"> 
+                <item xml:id="Gabriel">
                     <term xml:lang="en">Archangel Gabriel</term>
                 </item>
-                <item xml:id="George"> 
+                <item xml:id="George">
                     <term xml:lang="en">George</term>
                 </item>
-                <item xml:id="Gephyra"> 
+                <item xml:id="Gephyra">
                     <term xml:lang="en">Gephyra</term>
                 </item>
-                <item xml:id="Gerasimos"> 
+                <item xml:id="Gerasimos">
                     <term xml:lang="en">Gerasimos</term>
                 </item>
-                <item xml:id="Gideon"> 
+                <item xml:id="Gideon">
                     <term xml:lang="en">Gideon</term>
                 </item>
-                <item xml:id="Gourias"> 
+                <item xml:id="Gourias">
                     <term xml:lang="en">Gourias</term>
-                </item>                
+                </item>
                 <item xml:id="GregoryNazianzenos">
                     <term xml:lang="en">Gregory the Theologian</term>
                 </item>
                 <item xml:id="GregoryOfNyssa">
                     <term xml:lang="en">Gregory of Nyssa</term>
-                </item> 
-                <item xml:id="Habakkuk"> 
+                </item>
+                <item xml:id="Habakkuk">
                     <term xml:lang="en">Habakkuk</term>
                 </item>
-                <item xml:id="Helena"> 
+                <item xml:id="Helena">
                     <term xml:lang="en">Helena</term>
                 </item>
-                <item xml:id="Herakleidios"> 
+                <item xml:id="Herakleidios">
                     <term xml:lang="en">Herakleidios</term>
                 </item>
-                <item xml:id="Hermogenes"> 
+                <item xml:id="Hermogenes">
                     <term xml:lang="en">Hermogenes</term>
                 </item>
-                <item xml:id="Hermolaos"> 
+                <item xml:id="Hermolaos">
                     <term xml:lang="en">Hermolaos</term>
                 </item>
                 <item xml:id="Hilarion">
@@ -394,22 +390,23 @@
                 <item xml:id="Hypatios">
                     <term xml:lang="en">Hypatios</term>
                 </item>
-                <item xml:id="IgnatiosTheophoros"> 
+                <item xml:id="IgnatiosTheophoros">
                     <term xml:lang="en">Ignatios</term>
                 </item>
-                <item xml:id="Ioannes_1"> 
-                    <term xml:lang="en">Ioannes, donor, Kakopetria, Saint Nicholas of the Roof</term>
-                </item> 
-                <item xml:id="Isaiah"> 
+                <item xml:id="Ioannes_1">
+                    <term xml:lang="en">Ioannes, donor, Kakopetria, Saint Nicholas of the
+                        Roof</term>
+                </item>
+                <item xml:id="Isaiah">
                     <term xml:lang="en">Isaiah</term>
                 </item>
                 <item xml:id="JamesLordBrother">
                     <term xml:lang="en">James the Lord's brother</term>
-                </item>              
-                <item xml:id="Jeremiah"> 
+                </item>
+                <item xml:id="Jeremiah">
                     <term xml:lang="en">Jeremiah</term>
                 </item>
-                <item xml:id="Joachim"> 
+                <item xml:id="Joachim">
                     <term xml:lang="en">Joachim</term>
                 </item>
                 <item xml:id="JohnChrysostom">
@@ -419,12 +416,12 @@
                     <term xml:lang="en">John Climacus</term>
                 </item>
                 <item xml:id="JohnDamascus">
-                        <term xml:lang="en">John of Damascus</term>
-                    </item>              
-                <item xml:id="JohnForerunner"> 
+                    <term xml:lang="en">John of Damascus</term>
+                </item>
+                <item xml:id="JohnForerunner">
                     <term xml:lang="en">John the Forerunner</term>
-                </item>        
-                <item xml:id="JohnLampadistes"> 
+                </item>
+                <item xml:id="JohnLampadistes">
                     <term xml:lang="en">John Lampadistes</term>
                 </item>
                 <item xml:id="JohnMerciful">
@@ -432,26 +429,27 @@
                 </item>
                 <item xml:id="JohnTheologian">
                     <term xml:lang="en">John the Theologian</term>
-                </item>   
-               <!--<item xml:id="JohnEvangelist">
+                </item>
+                <!--<item xml:id="JohnEvangelist">
                     <term xml:lang="en">John the Evangelist</term>
-                </item>--><!-- Κυρία Παρανή σ'αυτή την περίπτωση τί κάνουμε; Eίναι ξεχωριστός εικονογραφικός τύπος. Θα μπει John the Theologian και μετά subtype evangelist;-->
-                <item xml:id="Jonah"> 
+                </item>-->
+                <!-- Κυρία Παρανή σ'αυτή την περίπτωση τί κάνουμε; Eίναι ξεχωριστός εικονογραφικός τύπος. Θα μπει John the Theologian και μετά subtype evangelist;-->
+                <item xml:id="Jonah">
                     <term xml:lang="en">Jonah</term>
-                </item> 
-                <item xml:id="Joseph"> 
+                </item>
+                <item xml:id="Joseph">
                     <term xml:lang="en">Joseph</term>
-                </item>       
-                <item xml:id="JosephPoet"> 
+                </item>
+                <item xml:id="JosephPoet">
                     <term xml:lang="en">Joseph the Poet</term>
                 </item>
-                <item xml:id="JosephPresbyter"> 
+                <item xml:id="JosephPresbyter">
                     <term xml:lang="en">Joseph the Presbyter</term>
                 </item>
-                <item xml:id="Kosmas"> 
+                <item xml:id="Kosmas">
                     <term xml:lang="en">Kosmas</term>
-                </item>                
-                <item xml:id="KosmasPoet"> 
+                </item>
+                <item xml:id="KosmasPoet">
                     <term xml:lang="en">Kosmas the Poet</term>
                 </item>
                 <item xml:id="Kyprianos">
@@ -478,52 +476,52 @@
                 <item xml:id="Longinos">
                     <term xml:lang="en">Longinos</term>
                 </item>
-                <item xml:id="Luke"> 
+                <item xml:id="Luke">
                     <term xml:lang="en">Luke the Evangelist </term>
                 </item>
-                <item xml:id="Makarios"> 
+                <item xml:id="Makarios">
                     <term xml:lang="en">Makarios</term>
                 </item>
-                <item xml:id="Makedonios"> 
+                <item xml:id="Makedonios">
                     <term xml:lang="en">Makedonios</term>
-                </item>           
-                <item xml:id="Mamas"> 
+                </item>
+                <item xml:id="Mamas">
                     <term xml:lang="en">Mamas</term>
-                </item>                
-                <item xml:id="Mardarios"> 
+                </item>
+                <item xml:id="Mardarios">
                     <term xml:lang="en">Mardarios</term>
                 </item>
-                <item xml:id="Marina"> 
+                <item xml:id="Marina">
                     <term xml:lang="en">Marina</term>
                 </item>
                 <item xml:id="Mark">
                     <term xml:lang="en">Mark the Evangelist</term>
                 </item>
-                <item xml:id="Maura"> 
+                <item xml:id="Maura">
                     <term xml:lang="en">Maura</term>
-                </item>                
-                <item xml:id="MaryOfEgypt"> 
+                </item>
+                <item xml:id="MaryOfEgypt">
                     <term xml:lang="en">Mary of Egypt</term>
-                </item>                       
+                </item>
                 <item xml:id="Matthew">
                     <term xml:lang="en">Matthew the Evangelist</term>
                 </item>
-                <item xml:id="MeletiosAntioch"> 
+                <item xml:id="MeletiosAntioch">
                     <term xml:lang="en">Meletios</term>
                 </item>
-                <item xml:id="Menas"> 
+                <item xml:id="Menas">
                     <term xml:lang="en">Menas</term>
                 </item>
-                <item xml:id="MenasKallikelados"> 
+                <item xml:id="MenasKallikelados">
                     <term xml:lang="en">Menas Kallikelados</term>
                 </item>
-                <item xml:id="Michael"> 
-                        <term xml:lang="en">Archangel Michael</term>
+                <item xml:id="Michael">
+                    <term xml:lang="en">Archangel Michael</term>
                 </item>
-                <item xml:id="midwife"> 
+                <item xml:id="midwife">
                     <term xml:lang="en">midwife</term>
                 </item>
-                <item xml:id="Moses"> 
+                <item xml:id="Moses">
                     <term xml:lang="en">Moses</term>
                 </item>
                 <item xml:id="Neophytos">
@@ -535,21 +533,21 @@
                 <item xml:id="Nikanor">
                     <term xml:lang="en">Nikanor</term>
                 </item>
-                <item xml:id="Niketas"> 
+                <item xml:id="Niketas">
                     <term xml:lang="en">Niketas</term>
-                </item>         
-                <item xml:id="NikephorosIschyrios"> 
+                </item>
+                <item xml:id="NikephorosIschyrios">
                     <term xml:lang="en">Nikephoros Ischyrios</term>
                 </item>
-                <item xml:id="Nikon"> 
+                <item xml:id="Nikon">
                     <term xml:lang="en">Nikon</term>
-                </item>                
+                </item>
                 <item xml:id="Onouphrios">
                     <term xml:lang="en">Onouphrios</term>
                 </item>
-                <item xml:id="Orestes"> 
+                <item xml:id="Orestes">
                     <term xml:lang="en">Orestes</term>
-                </item>                
+                </item>
                 <item xml:id="Pachomios">
                     <term xml:lang="en">Pachomios</term>
                 </item>
@@ -559,34 +557,34 @@
                 <item xml:id="Panteleimon">
                     <term xml:lang="en">Panteleimon</term>
                 </item>
-                <item xml:id="Paraskeve"> 
+                <item xml:id="Paraskeve">
                     <term xml:lang="en">Paraskeve</term>
                 </item>
-                <item xml:id="Paul"> 
+                <item xml:id="Paul">
                     <term xml:lang="en">Paul</term>
                 </item>
-                <item xml:id="Pegasios"> 
+                <item xml:id="Pegasios">
                     <term xml:lang="en">Pegasios</term>
                 </item>
-                <item xml:id="Peter"> 
+                <item xml:id="Peter">
                     <term xml:lang="en">Peter</term>
-                </item>                
+                </item>
                 <item xml:id="Phloros">
                     <term xml:lang="en">Phloros</term>
                 </item>
-                <item xml:id="Philagrios"> 
+                <item xml:id="Philagrios">
                     <term xml:lang="en">Philagrios</term>
                 </item>
                 <item xml:id="Phylon">
                     <term xml:lang="en">Phylon</term>
-                </item>                
-                <item xml:id="Romanos"> 
+                </item>
+                <item xml:id="Romanos">
                     <term xml:lang="en">Romanos</term>
                 </item>
                 <item xml:id="Sabbas">
-                        <term xml:lang="en">Sabbas</term>
-                </item>                              
-                <item xml:id="Salome"> 
+                    <term xml:lang="en">Sabbas</term>
+                </item>
+                <item xml:id="Salome">
                     <term xml:lang="en">Salome</term>
                 </item>
                 <item xml:id="Samonas">
@@ -595,13 +593,13 @@
                 <item xml:id="Sea">
                     <term xml:lang="en">Sea</term>
                 </item>
-                <item xml:id="Sergios"> 
+                <item xml:id="Sergios">
                     <term xml:lang="en">Sergios</term>
-                </item>   
-                <item xml:id="Shepherds"> 
+                </item>
+                <item xml:id="Shepherds">
                     <term xml:lang="en">Shepherds</term>
                 </item>
-                <item xml:id="Solomon"> 
+                <item xml:id="Solomon">
                     <term xml:lang="en">Solomon</term>
                 </item>
                 <item xml:id="Spyridon">
@@ -613,28 +611,28 @@
                 <item xml:id="Stephen">
                     <term xml:lang="en">Stephen</term>
                 </item>
-                <item xml:id="Stylianos"> 
+                <item xml:id="Stylianos">
                     <term xml:lang="en">Stylianos</term>
                 </item>
                 <!--<item xml:id="Supplicant_047"> 
                     <term xml:lang="en">Supplicant(MedCY047)</term>
-                </item>-->                
-                <item xml:id="SymeonStylitesElder"> 
+                </item>-->
+                <item xml:id="SymeonStylitesElder">
                     <term xml:lang="en">Symeon Stylites the Elder</term>
                 </item>
                 <item xml:id="SymeonStylitesYounger">
                     <term xml:lang="en">Symeon Stylites the Younger</term>
                 </item>
-                <item xml:id="SymeonTheodochos"> 
+                <item xml:id="SymeonTheodochos">
                     <term xml:lang="en">Symeon Theodochos</term>
                 </item>
-                <item xml:id="Thekla"> 
+                <item xml:id="Thekla">
                     <term xml:lang="en">Thekla</term>
                 </item>
-                <item xml:id="TheodoreSanctified"> 
+                <item xml:id="TheodoreSanctified">
                     <term xml:lang="en">Theodore the Sanctified</term>
                 </item>
-                <item xml:id="TheodoreStratelates"> 
+                <item xml:id="TheodoreStratelates">
                     <term xml:lang="en">Theodore Stratelates</term>
                 </item>
                 <item xml:id="Theodosios">
@@ -646,13 +644,13 @@
                 <item xml:id="Theodotos">
                     <term xml:lang="en">Theodotos</term>
                 </item>
-                <item xml:id="TheophanesPoet"> 
+                <item xml:id="TheophanesPoet">
                     <term xml:lang="en">Theophanes the Poet</term>
                 </item>
                 <item xml:id="Triphyllios">
                     <term xml:lang="en">Triphyllios</term>
                 </item>
-                <item xml:id="Tryphon"> 
+                <item xml:id="Tryphon">
                     <term xml:lang="en">Tryphon</term>
                 </item>
                 <item xml:id="Tychikos">
@@ -663,11 +661,11 @@
                 </item>
                 <item xml:id="unidentified_figure">
                     <term xml:lang="en">Unidentified figure</term>
-                </item> 
-                <item xml:id="Victor"> 
+                </item>
+                <item xml:id="Victor">
                     <term xml:lang="en">Victor</term>
                 </item>
-                <item xml:id="Vincent"> 
+                <item xml:id="Vincent">
                     <term xml:lang="en">Vincent</term>
                 </item>
                 <item xml:id="Virgin">
@@ -675,55 +673,57 @@
                 </item>
                 <item xml:id="VirginBlachernitissa">
                     <term xml:lang="en">Virgin Blachernitissa</term>
-                </item>                
+                </item>
                 <item xml:id="VirginEleousa">
                     <term xml:lang="en">Virgin Eleousa</term>
-                </item>                
+                </item>
                 <item xml:id="VirginEnthroned">
                     <term xml:lang="en">Virgin enthroned with the Christ Child</term>
-                </item>      
+                </item>
                 <item xml:id="VirginGlykophilousa">
                     <term xml:lang="en">Virgin Glykophilousa</term>
                 </item>
                 <item xml:id="VirginHodegetria">
                     <term xml:lang="en">Virgin Hodegetria</term>
-                </item>  
+                </item>
                 <item xml:id="VirginKykkotissa">
                     <term xml:lang="en">Virgin Kykkotissa</term>
                 </item>
                 <item xml:id="VirginMercy">
                     <term xml:lang="en">Virgin of Mercy</term>
-                </item>         
+                </item>
                 <item xml:id="VirginOfThePassion">
                     <term xml:lang="en">Virgin of the Passion</term>
                 </item>
                 <item xml:id="VirginOrans">
                     <term xml:lang="en">Virgin Orans</term>
-                </item> 
-                <item xml:id="wife_Ioannes_1"> 
+                </item>
+                <item xml:id="wife_Ioannes_1">
                     <term xml:lang="en">wife of Ioannes, Kakopetria, St Nicholas of the Roof</term>
                 </item>
                 <item xml:id="Zacharias">
-                    <term xml:lang="en">Zacharias</term><!--for the priest/prophet/father of John the Forurunner -->
+                    <term xml:lang="en"
+                    >Zacharias</term><!--for the priest/prophet/father of John the Forurunner -->
                 </item>
                 <item xml:id="Zechariah">
                     <term xml:lang="en">Zechariah</term><!--for the Old Testament prophet-->
                 </item>
-                <item xml:id="Zenon"> 
+                <item xml:id="Zenon">
                     <term xml:lang="en">Zenon</term>
                 </item>
                 <item xml:id="Zosimas">
-                    <term xml:lang="en">Zosimas</term></item>                
-           </list>
-                
-            <list type="individual_figure_iconography" xml:id="individual_figure_iconography"><!-- simply to help organise the list; heading should not be used in the marking-up-->
-                <head>Individual Figure Iconographic Types</head> 
-               
+                    <term xml:lang="en">Zosimas</term></item>
+            </list>
+
+            <list type="individual_figure_iconography" xml:id="individual_figures_categories">
+                <head>Individual Figure Iconographic Types</head>
+
                 <item xml:id="dressantique"><!-- for angels -->
                     <term xml:lang="en">dress, antique</term>
                 </item>
                 <item xml:id="dresscivilian">
-                    <term xml:lang="en">dress, civilian</term><!-- for angels and military martyrs -->
+                    <term xml:lang="en">dress,
+                    civilian</term><!-- for angels and military martyrs -->
                 </item>
                 <item xml:id="dressdeacon"><!-- for angels -->
                     <term xml:lang="en">dress, deacon's</term>
@@ -732,130 +732,125 @@
                     <term xml:lang="en">dress, imperial</term>
                 </item>
                 <item xml:id="dressmilitary">
-                    <term xml:lang="en">dress, military</term><!-- for angels and military martyrs -->
+                    <term xml:lang="en">dress,
+                    military</term><!-- for angels and military martyrs -->
                 </item>
                 <item xml:id="dressunidentifiable">
-                     <term xml:lang="en">dress, unidentifiable</term><!-- for angels and military martyrs -->
-                </item>          
+                    <term xml:lang="en">dress,
+                    unidentifiable</term><!-- for angels and military martyrs -->
+                </item>
             </list>
-  
-            <list type="individual_figure_categories" xml:id="individual_figure_categories"><!-- simply to help organise the list; heading should not be used in the marking-up-->
-                <head>Individual Figure Categories</head>    
-                
+
+            <list type="individual_figures_categories" xml:id="individual_figures_categories">
+                <head>Individual Figure Categories</head>
+
                 <item xml:id="angelicpower">
-                    <term xml:lang="en">angelic power</term>
+                    <term xml:lang="en">Angelic power</term>
                 </item>
                 <item xml:id="apostle">
-                    <term xml:lang="en">apostle</term>
+                    <term xml:lang="en">Apostle</term>
                 </item>
                 <item xml:id="archangel">
-                    <term xml:lang="en">archangel</term>
+                    <term xml:lang="en">Archangel</term>
                 </item>
                 <item xml:id="ascetic">
-                    <term xml:lang="en">ascetic</term>
+                    <term xml:lang="en">Ascetic</term>
                 </item>
                 <item xml:id="deacon">
-                    <term xml:lang="en">deacon</term>
+                    <term xml:lang="en">Deacon</term>
                 </item>
                 <item xml:id="deceased">
-                    <term xml:lang="en">deceased</term>
+                    <term xml:lang="en">Deceased</term>
                 </item>
                 <item xml:id="divine">
-                    <term xml:lang="en">divine</term>
+                    <term xml:lang="en">Divine</term>
                 </item>
                 <item xml:id="doctor">
-                    <term xml:lang="en">doctor</term>
+                    <term xml:lang="en">Doctor</term>
                 </item>
                 <item xml:id="donor">
-                    <term xml:lang="en">donor</term>
+                    <term xml:lang="en">Donor</term>
                 </item>
                 <item xml:id="evangelist">
-                    <term xml:lang="en">evangelist</term>
+                    <term xml:lang="en">Evangelist</term>
                 </item>
                 <item xml:id="hymnographer">
-                    <term xml:lang="en">hymnographer</term>
+                    <term xml:lang="en">Hymnographer</term>
                 </item>
                 <item xml:id="imperial">
-                    <term xml:lang="en">imperial</term>
+                    <term xml:lang="en">Imperial</term>
                 </item>
                 <item xml:id="martyr">
-                    <term xml:lang="en">martyr</term>
+                    <term xml:lang="en">Martyr</term>
                 </item>
                 <item xml:id="militarysaint">
-                    <term xml:lang="en">military saint</term>
+                    <term xml:lang="en">Military saint</term>
                 </item>
                 <item xml:id="monastic">
-                    <term xml:lang="en">monastic</term>
+                    <term xml:lang="en">Monastic</term>
                 </item>
                 <item xml:id="personification">
-                    <term xml:lang="en">personification</term>
+                    <term xml:lang="en">Personification</term>
                 </item>
                 <item xml:id="prelate">
-                    <term xml:lang="en">prelate</term>
+                    <term xml:lang="en">Prelate</term>
                 </item>
                 <item xml:id="priest">
-                    <term xml:lang="en">priest</term>
-                </item>  
+                    <term xml:lang="en">Priest</term>
+                </item>
                 <item xml:id="prophet">
-                    <term xml:lang="en">prophet</term>
+                    <term xml:lang="en">Prophet</term>
                 </item>
                 <item xml:id="stylite">
-                    <term xml:lang="en">stylite</term>
+                    <term xml:lang="en">Stylite</term>
                 </item>
                 <item xml:id="supplicant">
-                    <term xml:lang="en">supplicant</term>
-                </item>                
-          </list>
-            
-            <list type="gender" xml:id="gender"><!-- simply to help organise the list; heading should not be used in the marking-up-->
-              <head>Gender</head>
-              
-              <item xml:id="eunuch">
-                  <term xml:lang="en">eunuch</term>
-              </item>
-              <item xml:id="female">
-                  <term xml:lang="en">female</term>
-              </item>
-              <item xml:id="genderless">
-                  <term xml:lang="en">genderless</term>
-              </item>
+                    <term xml:lang="en">Supplicant</term>
+                </item>
+            </list>
+
+            <list type="gender" xml:id="gender">
+                <head>Gender</head>
+
+                <item xml:id="eunuch">
+                    <term xml:lang="en">Eunuch</term>
+                </item>
+                <item xml:id="female">
+                    <term xml:lang="en">Female</term>
+                </item>
+                <item xml:id="genderless">
+                    <term xml:lang="en">Genderless</term>
+                </item>
                 <item xml:id="genderunknown">
-                    <term xml:lang="en">gender unknown</term>
+                    <term xml:lang="en">Gender unknown</term>
                 </item>
-              <item xml:id="male">
-                  <term xml:lang="en">male</term>
-              </item>     
-          </list>
-                
-            <list type="structures_objects_symbols" xml:id="structures_objcts_symbols"><!-- simply to help organise the list; heading should not be used in the marking-up-->
+                <item xml:id="male">
+                    <term xml:lang="en">Male</term>
+                </item>
+            </list>
+
+            <list type="structures_objects_symbols" xml:id="structures_objects_symbols">
                 <head>Structures - Objects - Symbols</head>
-                
-              <!--  Don't Use <item xml:id="structure"> 
-                    <term xml:lang="en">structure</term>
-                </item>
-                <item xml:id="object"> 
-                    <term xml:lang="en">object</term>
-                </item>-->
-                
-                <item xml:id="crossprocessional"> 
-                  <term xml:lang="en">cross, processional</term>
+
+                <item xml:id="crossprocessional">
+                    <term xml:lang="en">Cross, processional</term>
                     <!--Do we want to distinguish type of crosses? E.g., Patriarchal, Latin, processional etc.?-->
-              </item>
-              <item xml:id="crosstablet"> 
-                  <term xml:lang="en">tablet</term>
-              </item>
-              <item xml:id="keramidion"> 
-                  <term xml:lang="en">keramidion</term>
-              </item>
-              <item xml:id="mandylion"> 
-                  <term xml:lang="en">mandylion</term>
-              </item>
-              <item xml:id="sphere"> 
-                  <term xml:lang="en">sphere</term>
-              </item>
-          </list>
-                        
-            
+                </item>
+                <item xml:id="crosstablet">
+                    <term xml:lang="en">Tablet</term>
+                </item>
+                <item xml:id="keramidion">
+                    <term xml:lang="en">Keramidion</term>
+                </item>
+                <item xml:id="mandylion">
+                    <term xml:lang="en">Mandylion</term>
+                </item>
+                <item xml:id="sphere">
+                    <term xml:lang="en">Sphere</term>
+                </item>
+            </list>
+
+
         </body>
     </text>
 </TEI>
