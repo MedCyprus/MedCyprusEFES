@@ -616,7 +616,7 @@
                 </person>
                 
                 <person xml:id="Lauros">
-                    <persName xml:lang="grc">Λαύρος</persName>
+                    <persName xml:lang="grc">Λαῦρος</persName>
                     <persName xml:lang="en">Lauros</persName> 
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2333926</idno>                   
                 </person>
@@ -722,7 +722,7 @@
                 </person>
                 
                 <person xml:id="Menas">
-                    <persName xml:lang="grc">Μηνάς</persName>
+                    <persName xml:lang="grc">Μηνᾶς</persName>
                     <persName xml:lang="en">Menas</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q163432</idno>                   
                 </person>
@@ -828,7 +828,7 @@
                 </person>
                 
                 <person xml:id="Phloros">
-                    <persName xml:lang="grc">Φλώρος</persName>
+                    <persName xml:lang="grc">Φλῶρος</persName>
                     <persName xml:lang="en">Phloros</persName> 
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2333926</idno>                   
                 </person>
