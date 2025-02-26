@@ -39,8 +39,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Solomon">Solomon</rs></p>
-                            </decoDesc>
+                            <p><rs type="iconography" ref="#Solomon">Solomon</rs>                             
+                                <rs type="iconography" ref="#prophet"></rs>
+                                <rs type="iconography" ref="#male"></rs>
+                            </p>
+                        </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
