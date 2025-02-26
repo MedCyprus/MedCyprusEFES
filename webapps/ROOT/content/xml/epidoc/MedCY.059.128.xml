@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography">n/a</rs></p>
+                            <p>n/a</p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,22 +66,18 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-128-01.JPG"><desc>Cell, north wall, shallow recess, over the desk, inscription</desc></graphic>
-        <graphic url="059-128-02.JPG"><desc>Cell, north wall, shallow recess, over the desk, inscription detail</desc></graphic>
-        <graphic url="059-128-03.JPG"><desc>Cell, north wall, shallow recess, over the desk, inscription detail</desc></graphic>
-        <graphic url="059-128-04.JPG"><desc>Cell, north wall, shallow recess, over the desk, inscription</desc></graphic>
-        <graphic url="059-128-05.JPG"><desc>Cell, north wall, shallow recess, over the desk, general view</desc></graphic>
+         <graphic rend="primary" url="059-128-01.JPG"><desc>Painter's signature, inscription</desc></graphic>
+        <graphic url="059-128-02.JPG"><desc>Painter's signature, inscription detail</desc></graphic>
+        <graphic url="059-128-03.JPG"><desc>Painter's signature, inscription detail</desc></graphic>
+        <graphic url="059-128-04.JPG"><desc>Painter's signature, inscription</desc></graphic>
+        <graphic url="059-128-05.JPG"><desc>Painter's signature, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>PENDING
-                   <lb n="1"/><w lemma="ἱστορῶ"><unclear>Ιστοριθ</unclear><supplied reason="lost">η</supplied> </w><gap reason="lost" extent="unknown" unit="character"></gap> <supplied reason="lost">εγκ</supplied><unclear>λ</unclear>ειστρα> δι̣α <w lemma="χείρ"><unclear>χει̣ρο</unclear><supplied reason="lost">ς</supplied></w> <w lemma="ἐγώ"><unclear>εμο</unclear>υ </w><persName type="attested" ref="persons.xml#TheodoreApseudes"><name nymRef="#Θεόδωρος" type="forename">Θεοδώρ<hi rend="ligature">ου</hi></name> τ<hi rend="ligature">ου</hi> <name nymRef="#Αψευδής" type="surname">Αψευδ<hi rend="ligature">ου</hi>ς</name></persName>
+                   <lb n="1"/><w lemma="ἱστορῶ"><unclear>Ιστοριθ</unclear><supplied reason="lost">η</supplied> </w><gap reason="lost" extent="unknown" unit="character"></gap> <supplied reason="lost">εγκ</supplied><unclear>λ</unclear>ειστρα> δι̣α <w lemma="χείρ"><unclear>χει̣ρο</unclear><supplied reason="lost">ς</supplied></w> <w lemma="ἐγώ"><unclear>εμο</unclear>υ </w><persName type="attested" ref="persons.xml#TheodoreApseudes"><name nymRef="#Θεόδωρος" type="forename">Θεοδώρ<hi rend="ligature">ου</hi></name> τ<hi rend="ligature">ου</hi> <name nymRef="#Ἀψευδής" type="surname">Αψευδ<hi rend="ligature">ου</hi>ς</name></persName>
                    <lb n="2"/><supplied reason="lost">ἔτ</supplied>ει <num value="6691"><hi rend="ligature">&#x03DB;</hi >χ<hi rend="ligature">&#x03DE;</hi></num><hi rend="ligature">α'</hi> (ινδικτίωνος)<unclear>α</unclear>'
-
-                    
-                    
-                    <!--<lb n="1"/><gap reason="lost" extent="unknown" unit="character"></gap> <w lemma="ἅγιος">αγιος </w><w lemma="ναὸς">ναὸς</w> τ<hi rend="ligature">οῦ</hi> <w lemma="ὅσιος">οσί<hi rend="ligature">ου</hi></w> <w lemma="πατὴρ"><expan><abbr>π</abbr><ex>α</ex>τρ<ex>ο</ex>ς</expan></w> <persName type="sacred" key="Themonianos"><name nymRef="Θεμωνιανός"></name><w lemma="Θεμωνιανός">Θεμονιαν<hi rend="ligature">ου</hi></w></persName> διὰ <w lemma="συνδρομὴ">συνδρομῆς </w>καὶ έκ <w lemma="πολὺς"><expan><abbr>π</abbr><ex>ο</ex>λλ<hi rend="ligature">ου</hi></expan></w> <w lemma="πόθος">ποθ<hi rend="ligature">ου</hi></w> <persName type="attested" xml:id="Laurentios"><name nymRef="#Λαυρέντιος" type="forename"></name>Λαυρεντι<hi rend="ligature">ου</hi></persName> <rs type="office" ref="offices.xml#hieromonachos"><expan><abbr>ἱερομονάχ</abbr><ex>ου</ex></expan></rs> και <rs type="office" ref="offices.xml#hegoumenos">καθηγουμεν<hi rend="ligature">ου</hi></rs> τ<hi rend="ligature">ης </hi><w lemma="σεβάσμια">σεβασμιας</w> <w lemma="μονή">μονης</w> <gap reason="lost" extent="unknown" unit="character" ></gap>-->
                 </ab>
             </div>
             <div type="apparatus">

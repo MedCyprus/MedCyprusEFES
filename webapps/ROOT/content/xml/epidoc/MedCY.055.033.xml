@@ -31,7 +31,7 @@
                                     </support>
                             </supportDesc>
                              <layoutDesc>
-                                <layout>On the left of the saint's head</layout>
+                                <layout>On the left of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -39,7 +39,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#PentecostBartholomew">Pentecost, Bartholomew</rs></p>
+                            <p><rs type="iconography" ref="#Pentecost">Pentecost, Bartholomew</rs>
+                                   <rs type="iconography" ref="#Bartholomew"></rs></p>
                             </decoDesc>
                     </physDesc>
                     <history>
@@ -74,7 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-            <lb n="1"/><persName type="sacred" key="Bartholomew"><name type="forename" nymRef="'#Βαρθολομαίος"><expan><abbr rend="supraline">Β</abbr><ex>αρθολομαῖος</ex></expan></name></persName>
+            <lb n="1"/><persName type="sacred" key="Bartholomew"><name type="forename" nymRef="'#Βαρθολομαῖος"><expan><abbr rend="supraline">Β</abbr><ex>αρθολομαῖος</ex></expan></name></persName>
                 </ab>
             </div>
             <div type="apparatus">
