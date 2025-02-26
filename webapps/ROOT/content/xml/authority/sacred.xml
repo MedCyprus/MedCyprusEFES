@@ -957,7 +957,7 @@
                 <person xml:id="TheophanesPoet">
                     <persName xml:lang="grc">Θεοφάνης ὁ Ποιητής</persName>
                     <persName xml:lang="en">Theophanes the Poet</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="TheophanesPoet" key="Poet">ὁ Ποιτητής</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="TheophanesPoet" key="Poet">ὁ Ποιητής</persName>
                     <persName xml:lang="en" type="epithet" subtype="TheophanesPoet" key="Poet">Poet</persName>
                     <idno type="wikidata">not listed</idno>                   
                 </person>
@@ -965,7 +965,7 @@
                 <person xml:id="Theotokos">
                     <persName xml:lang="grc">Θεοτόκος</persName>
                     <persName xml:lang="en">Theotokos</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Arakiotissa">τοῦ Άρακος</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Arakiotissa">τοῦ Ἄρακος</persName>
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Arakiotissa">Arakiotissa / of Arakas</persName>
                     <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Despoina">δέσποινα </persName>
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Despoina">Despoina / Our Lady</persName>
