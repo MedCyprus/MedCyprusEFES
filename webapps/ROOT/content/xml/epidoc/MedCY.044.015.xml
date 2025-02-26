@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, east wall, thriumphal arch, south half</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -41,7 +41,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#AbrahamSacrificeAngel">Abraham's sacrifice, angel of the Lord</rs></p>
+                            <p><rs type="iconography" ref="#AbrahamSacrifice">Abraham's sacrifice, angel of the Lord</rs>
+                                  <rs type="iconography" ref="#angel"></rs>
+                                  <rs type="iconography" ref="#genderless"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,14 +69,14 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-015-01.JPG"><desc>Bema, east wall, thriumphal arch, south half, inscription detail</desc></graphic>
-        <graphic url="044-015-02.JPG"><desc>Bema, east wall, thriumphal arch, south half, general view </desc></graphic>
+         <graphic rend="primary" url="044-015-01.JPG"><desc>Abraham's sacrifice, angel of the Lord, inscription detail</desc></graphic>
+        <graphic url="044-015-02.JPG"><desc>Abraham's sacrifice, angel of the Lord, general view </desc></graphic>
         </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   <lb n="1"/> <persName type="sacred" key="Angel"><w lemma="ἄγγελος">Ἄγγελος</w> <addName type="epithet" key="of the Lord"> <name nymRef="#Κύριος"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">υ</abbr></expan></w></name></addName></persName>
+                   <lb n="1"/> <persName type="sacred" key="Angel"><w lemma="ἄγγελος">Ἄγγελος</w> <addName type="epithet" key="of the Lord"> <w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">υ</abbr></expan></w></addName></persName>
                 </ab>
             </div>
             <div type="apparatus">

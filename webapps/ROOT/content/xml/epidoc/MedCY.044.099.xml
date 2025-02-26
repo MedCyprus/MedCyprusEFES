@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint John the Theologian</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwest recess' façade, east side, middle register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#JohnTheologian">John the Theologian</rs></p>
+                            <p>n/a</p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,17 +68,17 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-099-01.JPG"><desc>Naos, southwest recess' façade, east side, middle register, inscription detail</desc></graphic>
-        <graphic url="044-099-02.JPG"><desc>Naos, southwest recess' façade, east side, middle register, inscription</desc></graphic>
-        <graphic url="044-099-03.JPG"><desc>Naos, southwest recess' façade, east side, middle register, general view </desc></graphic>
+         <graphic rend="primary" url="044-099-01.JPG"><desc>Saint John the Theologian, inscription detail</desc></graphic>
+        <graphic url="044-099-02.JPG"><desc>Saint John the Theologian, inscription</desc></graphic>
+        <graphic url="044-099-03.JPG"><desc>Saint John the Theologian, general view </desc></graphic>
             </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <cb n="a"/>
-                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="JohnTheologian"><supplied reason="lost"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w></supplied>
-                      <lb n="2"/><supplied reason="lost"><name nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name></supplied>
+                  <lb n="1"/><supplied reason="lost">Ὁ </supplied><persName type="sacred" key="JohnTheologian"><supplied reason="lost"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w></supplied>
+                      <lb n="2"/><supplied reason="lost"><name nymRef="#Ἰωάννης" type="forename"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name></supplied>
                       <cb n="b"/>
                   <lb n="1"/><space quantity="3" unit="character"></space>Ὁ
                   <lb n="2"/><addName type="epithet" key="Theologian">Θεολό
@@ -92,7 +92,7 @@
                 <p>[Saint John] the Theologian</p> 
             </div>
             <div type="commentary">
-                <p>Partially preserved. We reconstructed the name and caption of the saint based on his iconography and on the other inscriptions of the monuments respectively</p>
+                <p>We reconstructed the name and caption of the saint based on his iconography and on the other inscriptions of the monuments respectively</p>
             </div>
             <div type="bibliography">
                 <listBibl> 

@@ -42,8 +42,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#MenasKallikelados">Menas Kallikelados</rs>
-                                   
+                            <p><rs type="iconography" ref="#MenasKallikelados">Menas Kallikelados</rs>                                
                                    <rs type="iconography" ref="#male"></rs>
                                    <rs type="iconography" ref="#martyr"></rs>
                                    <rs type="iconography" ref="#militarysaint"></rs>
@@ -82,7 +81,7 @@
               <ab>
                    <cb n="a"/>
                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice><persName type="sacred" key="MenasKallikelados"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w> 
-                      <name type="forename" nymRef="#Μηνάς"><hi rend="ligature">Μην</hi><choice><orig>α</orig><reg>ᾶ</reg></choice>ς</name> 
+                      <name type="forename" nymRef="#Μηνᾶς"><hi rend="ligature">Μην</hi><choice><orig>α</orig><reg>ᾶ</reg></choice>ς</name> 
                       <cb n="b"/>
                       <lb n="1"/><addName type="epithet" key="Kallikelados"><supplied reason="lost">Καλ</supplied>λικ<unclear>έ</unclear><supplied reason="lost">λ</supplied>α
                    <lb n="2" break="no"/><supplied reason="lost">δος</supplied></addName></persName>
