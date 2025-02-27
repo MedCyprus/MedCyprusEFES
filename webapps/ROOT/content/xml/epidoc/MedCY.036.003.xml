@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Archangel Michael</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -34,7 +34,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Above the archangel's head, on the south</layout>
+                                <layout>Above the figure's head, on the south</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -69,8 +69,8 @@
     </teiHeader>
     <facsimile>
          <graphic rend="primary" url="036-003-01.JPG"><desc>Archangel Michael, inscription</desc></graphic>
-        <graphic url="036-003-02.JPG"><desc>Bema, apse, semidome, general view</desc></graphic>
-        <graphic url="036-003-03.JPG"><desc>Bema, apse, semidome, general view</desc></graphic>
+        <graphic url="036-003-02.JPG"><desc>Archangel Michael, general view</desc></graphic>
+        <graphic url="036-003-03.JPG"><desc>Archangel Michael, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
