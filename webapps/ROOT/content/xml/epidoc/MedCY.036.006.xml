@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Nikon</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -27,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, middle register, next to Saint Philagrios</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -67,13 +68,16 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-006-01.JPG"><desc>Bema, apse, semicylindrical wall, middle register, next to Saint Philagrios, inscription</desc></graphic>
+         <graphic rend="primary" url="036-006-01.JPG"><desc>Saint Nikon, inscription</desc></graphic>
       </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                    <cb n="a"/>
+                  <lb n="1"/><choice><orig>Ο</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Nikon"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                  <cb n="b"/>
+                  <lb n="1"/><name type="forename" nymRef ="#Νίκων"><supplied reason="lost">Ν</supplied>ίκω<supplied reason="lost">ν</supplied></name></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -83,7 +87,7 @@
                 <p>Saint Nikon</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
