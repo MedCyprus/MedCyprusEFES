@@ -79,7 +79,7 @@
                    <lb n="1"/>Ὁ <persName type="sacred" key="Auxibios"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>
                     <cb n="b"/>
                   <lb n="1"/>
-       <name type="forename" nymRef ="#Aὐξίβιος"><choice><sic>A<choice><orig>υ</orig><reg>ὐ</reg></choice>ξίβηος</sic><corr>Aὐξίβιος</corr></choice></name></persName>
+       <name nymRef ="#Aὐξίβιος" type="forename" ><choice><sic>A<choice><orig>υ</orig><reg>ὐ</reg></choice>ξίβηος</sic><corr>Aὐξίβιος</corr></choice></name></persName>
                </ab>
             </div>
             <div type="apparatus">
