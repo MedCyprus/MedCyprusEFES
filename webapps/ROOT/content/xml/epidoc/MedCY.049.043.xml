@@ -44,8 +44,7 @@
                         <decoDesc>
                             <p><rs type="iconography" ref="#Nativity">Nativity, Bath of the Child, Salome</rs>
                             <rs type="iconography" ref="#BathChild"></rs>
-                            <rs type="iconography" ref="#Salome"></rs>
-                            
+                            <rs type="iconography" ref="#Salome"></rs>                         
                             <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
@@ -79,7 +78,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1" /><persName type="other"><choice><orig>Η</orig><reg>Ἡ</reg></choice> <name nymRef="#Σαλώμη" type="forename" ><choice><sic>Σα
+                  <lb n="1" /><persName><choice><orig>Η</orig><reg>Ἡ</reg></choice> <name nymRef="#Σαλώμη" type="forename" ><choice><sic>Σα
                   <lb n="2" break="no"/><unclear>λό</unclear>μι</sic><corr>Σαλώμη</corr></choice></name></persName>
                </ab>
             </div>
