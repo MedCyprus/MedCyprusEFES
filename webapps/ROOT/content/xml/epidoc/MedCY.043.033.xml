@@ -41,8 +41,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Nativity">Nativity</rs>
-               <rs type="iconography" ref="iconography.xml#Angel">angel addresses the shepherd</rs></p>
+                            <p><rs type="iconography" ref="#Nativity">Nativity, angel addresses the shepherd</rs>
+                                  <rs type="iconography" ref="#angel"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

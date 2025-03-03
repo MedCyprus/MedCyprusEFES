@@ -6,9 +6,9 @@
         <fileDesc>
             <titleStmt>
                 <title>Liturgy quotation</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
-                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -43,7 +43,7 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#angelicpower">Tetramorph</rs>
-                                  <rs type="iconography" ref="#Angel"></rs></p>
+                                  <rs type="iconography" ref="#angel"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
