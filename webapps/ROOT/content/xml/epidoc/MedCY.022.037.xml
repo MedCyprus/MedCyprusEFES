@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Symeon Stylites the Younger</title>
+                <title>Saint Symeon Stylites the Younger?</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, west crossarm vault, south side, lower register</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, west crossarm vault, north side, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#SymeonStylitesYounger">Symeon Stylites theYounger</rs>
+                            <p><rs type="iconography" ref="#SymeonStylitesYounger">Symeon, possibly Symeon Stylites theYounger</rs>
                                   <rs type="iconography" ref="#stylite"></rs>
                                   <rs type="iconography" ref="#male"></rs>
                             </p>
