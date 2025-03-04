@@ -94,10 +94,12 @@
             </div>
             <div type="apparatus">
                 <listApp>
-                    <app loc="5"><rdg source="#HatfieldYoung1983">[ν]αον</rdg></app>
-                    <app loc="6"><rdg source="#Stylianou1960">ΠΡΟCΤΑΤΗΝ</rdg><rdg source="#Papageorgiou1965"></rdg><rdg source="#Stylianou1973"></rdg><rdg source="#Sacopoulo1966">προστάτην</rdg><rdg source="#HatfieldYoung1983"></rdg></app>
+                    <app loc="4"><rdg source="#HadjichristodoulouMyrianthefs2009">ΜΑΓΙCΤΡ(ΟC)</rdg></app>
+                    <app loc="4-5"><rdg source="#Ševčenko2012">ήκ(αί)της</rdg></app>
+                    <app loc="5"><rdg source="#HatfieldYoung1983">[ν]αον</rdg><rdg source="#Papageorgiou2003"></rdg><rdg source="#HadjichristodoulouMyrianthefs2009">(N)AON</rdg></app>
+                    <app loc="6"><rdg source="#Stylianou1960">ΠΡΟCΤΑΤΗΝ</rdg><rdg source="#Papageorgiou1965"></rdg><rdg source="#Stylianou1973"></rdg><rdg source="#Sacopoulo1966">προστάτην</rdg><rdg source="#HatfieldYoung1983"></rdg><rdg source="#Papageorgiou2003"></rdg><rdg source="#HadjichristodoulouMyrianthefs2009"></rdg><rdg source="#Ševčenko2012">εὑρικ(αί)νε</rdg></app>
+                    <app loc="6-7"><rdg source="#Papageorgiou2003">ἡμεέρα</rdg></app>
                 </listApp>
-                <p>Pending</p>
                  </div>
             <div type="translation">
                 <p> Having been blessed in life with many good things
