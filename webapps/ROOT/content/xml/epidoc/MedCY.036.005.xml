@@ -34,7 +34,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the medallion with the representation of the saint</layout>
+                                <layout>On either side of the medallion with the representation of the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -43,6 +43,7 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="iconography.xml#Philagrios">Philagrios</rs></p>
+                            <p><rs type="iconography" ref="#Philagrios">Philagrios</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -79,7 +80,7 @@
                     <cb n="a"/>
                   <lb n="1"/>Ὁ <persName type="sacred" key="Philagrios"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
                     <cb n="b"/>
-                      <lb n="1"/><name type="forename" nymRef ="#Φιλάγριος"><choice><sic>Φηλ<choice><orig>α</orig><reg>ά</reg></choice>γρι
+                      <lb n="1"/><name nymRef ="#Φιλάγριος" type="forename"><choice><sic>Φηλ<choice><orig>α</orig><reg>ά</reg></choice>γρι
                       <lb n="2" break="no"/>ο<supplied reason="lost">ς</supplied></sic><corr>Φιλάγριος</corr></choice></name></persName>
                </ab>
             </div>

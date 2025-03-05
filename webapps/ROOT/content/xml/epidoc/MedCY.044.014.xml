@@ -41,7 +41,8 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#AbrahamSacrifice">Abraham's sacrifice</rs></p>
+                            <p><rs type="iconography" ref="#AbrahamSacrifice">Abraham's sacrifice</rs>
+                                  <rs type="iconography" ref="#Oldtestament"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,9 +68,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-014-01.JPG"><desc>Bema, east wall, thriumphal arch, center, inscription</desc></graphic>
-        <graphic url="044-014-02.JPG"><desc>Bema, east wall, thriumphal arch, center, general view </desc></graphic>
-        </facsimile>
+         <graphic rend="primary" url="044-014-01.JPG"><desc>Abraham's sacrifice, inscription</desc></graphic>
+        <graphic url="044-014-02.JPG"><desc>Abraham's sacrifice, general view </desc></graphic>
+        <graphic url="044-014-03.JPG"><desc>Abraham's sacrifice, general view </desc></graphic></facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">

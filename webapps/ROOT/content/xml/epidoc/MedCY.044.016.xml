@@ -33,15 +33,17 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the right of the prophet's head</layout>
+                                <layout>On the right of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Πρ(ο)φ(ή)(τη)ς is abbreviated. ΠΦΡ, ΑΒ, ΑΜ in ligatures. Tau in superscript. Accents and breathings systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Πρ(ο)φ(ή)(τη)ς is abbreviated. ΠΦΡ, ΑΒ, ΑΜ joined in ligatures. Tau in superscript. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#AbrahamSacrifice">Abraham's sacrifice</rs><rs type="iconography" ref="iconography.xml#Abraham">Abraham</rs></p>
+                            <p><rs type="iconography" ref="#AbrahamSacrifice">Abraham's sacrifice, Abraham</rs>
+                                  <rs type="iconography" ref="#Abraham"></rs>
+                                  <rs type="iconography" ref="#Oldtestament"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,8 +69,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-016-01.JPG"><desc>Bema, east wall, thriumphal arch, south half, inscription detail</desc></graphic>
-        <graphic url="044-016-02.JPG"><desc>Bema, east wall, thriumphal arch, south half, general view </desc></graphic>
+         <graphic rend="primary" url="044-016-01.JPG"><desc>Abraham's sacrifice, Abraham, inscription detail</desc></graphic>
+        <graphic url="044-016-02.JPG"><desc>Abraham's sacrifice, Abraham, general view </desc></graphic>
+        <graphic url="044-016-03.JPG"><desc>Abraham's sacrifice, Abraham, general view </desc></graphic>
         </facsimile>
     <text>
         <body>
