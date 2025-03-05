@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue backgroud. Majuscule letters. Characters' size varies. The letters MHN, ΔΗ, ΤΟΥ, ΜΗ and OY joined in ligatures. Use of diaeresis over iota in ÏZ and ÏE. Small rounded marks above the letters of the date. The word ινδικτιῶνος is fully rendered by an abbreviation with a wavy line above the word. Breathings and accents almost systematic. Breathings of the modern variety (circular).
+                            <handNote>White letters against blue backgroud. Majuscule letters. Characters' size varies. MHN, ΔΗ, ΤΟΥ, ΜΗ and OY joined in ligatures. Use of diaeresis over iota in ÏZ and ÏE. Small rounded marks above the letters of the date. The word ἰνδικτιῶνος is fully rendered by an abbreviation with a wavy line above the word. Breathings and accents almost systematic. Breathings of the modern variety (circular).
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,9 +76,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                 <lb n="1"/><w lemma="μήν"><hi rend="ligature">Μην</hi><choice><orig>ῖ</orig><reg>ὶ</reg></choice></w> <w lemma="Δεκέμβριος">Δηκ<supplied reason="lost">ε</supplied><supplied reason="omitted">μ</supplied>βρί<choice><orig>ο</orig><reg>ο&#x0345;</reg></choice></w> <num value="17">ιζ</num>
-                 <lb n="2"/><expan><abbr rend="supraline"><choice><orig>ι</orig><reg>ἰ</reg></choice>ν</abbr><ex>δικτιῶνος</ex></expan> <num value="15">ιε</num> <w lemma="ἔτος">ἔ<hi rend="ligature">του</hi>ς</w> <num value="6608"><hi rend="ligature">&#x03DB;</hi>χη</num> <w lemma="κοιμῶμαι">ἐκυ
-                 <lb n="3" break="no"/>μήθη</w> ἡ <w lemma="δούλη">δ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ύ</reg></choice></hi>λι</w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr>Θ</abbr><ex>εο</ex><abbr><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></w></persName> <persName type="attested" role="donor" ref="#Gephyra"><name nymRef="#Γέφυρα" type="forename">Γέφυ
+                 <lb n="1"/><w lemma="μήν"><hi rend="ligature">Μην</hi><choice><orig>ῖ</orig><reg>ὶ</reg></choice></w> <w lemma="Δεκέμβριος"><choice><sic><hi rend="ligature">Δη</hi>κ<supplied reason="lost">ε</supplied><supplied reason="omitted">μ</supplied>βρί<choice><orig>ο</orig><reg>ο&#x0345;</reg></choice></sic><corr>Δεκεμβρίῳ</corr></choice></w> <num value="17">ιζ</num>
+                 <lb n="2"/><w lemma="ἰνδικτιών"><expan><abbr rend="supraline"><choice><orig>ι</orig><reg>ἰ</reg></choice>ν</abbr><ex>δικτιῶνος</ex></expan></w> <num value="15">ιε</num> <w lemma="ἔτος">ἔ<hi rend="ligature">του</hi>ς</w> <num value="6608"><hi rend="ligature">&#x03DB;</hi>χη</num> <w lemma="κοιμῶμαι"><choice><sic><choice><orig>ἑ</orig><reg>ἐ</reg></choice>κυ
+                 <lb n="3" break="no"/><hi rend="ligature">μή</hi>θη</sic><corr>ἐκοιμήθη</corr></choice></w> ἡ <w lemma="δούλη"><choice><sic>δ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ύ</reg></choice></hi>λι</sic><corr>δούλη</corr></choice></w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <persName type="divine" key="God"><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></w></persName> <persName type="attested" role="donor" ref="#Gephyra"><name nymRef="#Γέφυρα" type="forename">Γέφυ
                  <lb n="4" break="no"/>ρα</name></persName>
               </ab>
             </div>
@@ -102,6 +102,7 @@
                    <bibl><ptr target="#Papageorgiou1965a"/>,<citedRange> 17</citedRange></bibl>
                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 10-11</citedRange></bibl> 
                     <bibl><ptr target="#Stylianou1973"/>,<citedRange> 6-7</citedRange></bibl>
+                    <bibl><ptr target="#HadjichristodoulouMyrianthefs2009"/>,<citedRange> 19-21</citedRange></bibl>
                    <bibl><ptr target="#Papageorgiou2012b"/>,<citedRange> 53</citedRange></bibl> 
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
