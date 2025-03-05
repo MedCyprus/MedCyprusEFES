@@ -84,7 +84,9 @@
             </div>
             <div type="apparatus">
                 <listApp>
-                    <app loc="1"><rdg source="#Buckler1933">Δηκεμβρίο</rdg></app>
+                    <app loc="1"><rdg source="#Buckler1933">Δηκεμβρίο</rdg><rdg source="#Papageorgiou1965a">ΔΗΚΕΒΡΙΟ</rdg><rdg source="#Sacopoulo1966">Δηκεβρίο</rdg><rdg source="#HatfieldYoung1983">Δηκεβρίου</rdg><rdg source="#Buckler1933">ἰ(νδικτίωνος) ζ</rdg><rdg source="#Sacopoulo1966"></rdg><rdg source="#HatfieldYoung1983"></rdg><rdg source="#Stylianou1973">ΗΝ(ΔΙΚΤΙΩΝΟC)</rdg></app>
+                    <app loc="2"><rdg source="#Buckler1933">ἡ(μέρα)</rdg><rdg source="#Stylianou1960">ΗΜ(ΕΡΑ)</rdg><rdg source="#Sacopoulo1966">ἡμ(έρᾳ)</rdg><rdg source="#HatfieldYoung1983">ιδ' ἡμ(έρα)</rdg><rdg source="#HatfieldYoung1983">ιζ' ἔτους</rdg><rdg source="#HatfieldYoung1983">͵ϛχιδ´</rdg></app>
+                    <app loc="3"><rdg source="#Papageorgiou1965a">ΘΕΟΥ</rdg><rdg source="#Stylianou1973"></rdg></app>
                 </listApp>
                  </div>
             <div type="translation">
@@ -99,6 +101,7 @@
                    <bibl><ptr target="#Stylianou1960"/>,<citedRange> 98</citedRange></bibl> 
                    <bibl><ptr target="#Papageorgiou1965a"/>,<citedRange> 17</citedRange></bibl>
                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 10-11</citedRange></bibl> 
+                    <bibl><ptr target="#Stylianou1973"/>,<citedRange> 6-7</citedRange></bibl>
                    <bibl><ptr target="#Papageorgiou2012b"/>,<citedRange> 53</citedRange></bibl> 
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
