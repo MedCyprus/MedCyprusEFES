@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Zenon</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -27,17 +28,17 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, middle register, first medallion on the north</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the medallion with the representation of the saint</layout>
+                                <layout>On either side of the medallion with the representation of the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Iota under gamma's wavy horizontal arm as a subscript. Zeta ends with a tail. HN joined in ligature. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -67,15 +68,18 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-007-01.JPG"><desc>Bema, apse, semicylindrical wall, middle register, first medallion on the north, inscription</desc></graphic>
-        <graphic url="036-007-2.JPG"><desc>Bema, apse, semicylindrical wall, middle register, first medallion on the north, inscription detail</desc></graphic>
-        <graphic url="036-007-03.JPG"><desc>Bema, apse, semicylindrical wall, middle register, first medallion on the north, inscription detail</desc></graphic>
+         <graphic rend="primary" url="036-007-01.JPG"><desc>Saint Zenon, inscription</desc></graphic>
+        <graphic url="036-007-2.JPG"><desc>Saint Zenon, inscription detail</desc></graphic>
+        <graphic url="036-007-03.JPG"><desc>Saint Zenon, inscription detail</desc></graphic>
       </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                     <cb n="a"/>
+                  <lb n="1"/>Ὁ <persName type="sacred" key="Zenon"><w lemma="ἅγιος">ἅγιος</w>
+                      <cb n="b"/>
+                      <lb n="1"/><name nymRef ="#Ζήνων" type="forename">Ζ<hi rend="ligature">ήν</hi>ων</name></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +89,7 @@
                 <p>Saint Zenon</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
