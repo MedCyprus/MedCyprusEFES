@@ -42,9 +42,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#Nativity">Nativity, angel</rs>
-                            <rs type="iconography" ref="#angel"></rs>
-                            <rs type="iconography" ref="#Shepherds"></rs>                          
+                            <p><rs type="iconography" ref="#Nativity">Nativity, angel addresses the shepherd</rs>
+                                  <rs type="iconography" ref="#angelAddressesShepherd"></rs>
+                                  <rs type="iconography" ref="#angel"></rs>         
+                                  <rs type="iconography" ref="#christological"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>

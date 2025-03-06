@@ -41,8 +41,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#SymeonStylitesYounger">Symeon, possibly Symeon Stylites theYounger</rs>
-                                  <rs type="iconography" ref="#stylite"></rs>
+                            <p><rs type="iconography" ref="#SymeonStylitesYounger">Symeon Stlites, possibly Symeon Stylites theYounger</rs>
+                                <rs type="iconography" ref="#SymeonStylitesElder"></rs>  
+                                <rs type="iconography" ref="#stylite"></rs>
                                   <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
