@@ -26,6 +26,9 @@
                 <!--<item xml:id="AngelicProcession">
                  <term xml:lang="en">Angelic procession</term>
              </item>-->
+                <item xml:id="angelAddressesShepherd">
+                    <term xml:lang="en">angel addresses the shepherd</term>
+                </item>
                 <item xml:id="Angels_Hetoimasia">
                     <term xml:lang="en">Angels adoring the Hetoimasia</term>
                 </item>
@@ -599,8 +602,8 @@
                 <item xml:id="Sergios">
                     <term xml:lang="en">Sergios</term>
                 </item>
-                <item xml:id="Shepherds">
-                    <term xml:lang="en">Shepherds</term>
+                <item xml:id="shepherd">
+                    <term xml:lang="en">shepherd</term>
                 </item>
                 <item xml:id="Solomon">
                     <term xml:lang="en">Solomon</term>
