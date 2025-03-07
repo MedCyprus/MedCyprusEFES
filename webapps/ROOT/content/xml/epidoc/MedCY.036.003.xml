@@ -42,7 +42,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Michael">Archangel Michael</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Michael">Archangel Michael</rs>
+                            <rs type="iconography" ref="#Archangel"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
