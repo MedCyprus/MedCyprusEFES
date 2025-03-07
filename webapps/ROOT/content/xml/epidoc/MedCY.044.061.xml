@@ -5,9 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nikephoros Ischyrios dedicatory inscription </title>
+                <title>Nikephoros Ischyrios dedicatory inscription</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -26,7 +25,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. Partially preserved.</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwest pilaster to southwest recess, middle register</rs>
                                     <dimensions unit="cm"><width>283</width></dimensions>
                                </support>
@@ -40,7 +39,7 @@
                             </handNote>
                         </handDesc>
                     <decoDesc>
-                            <p>...</p>
+                            <p>n/a</p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,23 +65,23 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-061-01.jpg"><desc>Naos, southwest pilaster to southwest recess, middle register, general view</desc></graphic>
-        <graphic url="044-061-02.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, inscription detail</desc></graphic>
-        <graphic url="044-061-03.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, inscription detail</desc></graphic>
-        <graphic url="044-061-04.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, inscription detail</desc></graphic>
-        <graphic url="044-061-05.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, inscription detail</desc></graphic>
-        <graphic url="044-061-06.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, inscription detail</desc></graphic>
-        <graphic url="044-061-07.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, inscription detail</desc></graphic>
-        <graphic url="044-061-08.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, inscription</desc></graphic>
-        <graphic url="044-061-09.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, inscription</desc></graphic>
-        <graphic url="044-061-10.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, general view</desc></graphic>
-        <graphic url="044-061-11.JPG"><desc>Naos, southwest pilaster to southwest recess, middle register, general view</desc></graphic>
+         <graphic rend="primary" url="044-061-01.jpg"><desc>Nikephoros Ischyrios dedicatory inscription, general view</desc></graphic>
+        <graphic url="044-061-02.JPG"><desc>Nikephoros Ischyrios dedicatory inscription, detail</desc></graphic>
+        <graphic url="044-061-03.JPG"><desc>Nikephoros Ischyrios dedicatory inscription, detail</desc></graphic>
+        <graphic url="044-061-04.JPG"><desc>Nikephoros Ischyrios dedicatory inscription, detail</desc></graphic>
+        <graphic url="044-061-05.JPG"><desc>Nikephoros Ischyrios dedicatory inscription, detail</desc></graphic>
+        <graphic url="044-061-06.JPG"><desc>Nikephoros Ischyrios dedicatory inscription, detail</desc></graphic>
+        <graphic url="044-061-07.JPG"><desc>Nikephoros Ischyrios dedicatory inscription, detail</desc></graphic>
+        <graphic url="044-061-08.JPG"><desc>Nikephoros Ischyrios dedicatory inscription</desc></graphic>
+        <graphic url="044-061-09.JPG"><desc>Nikephoros Ischyrios dedicatory inscription</desc></graphic>
+        <graphic url="044-061-10.JPG"><desc>Nikephoros Ischyrios dedicatory inscription, general view</desc></graphic>
+        <graphic url="044-061-11.JPG"><desc>Nikephoros Ischyrios dedicatory inscription, general view</desc></graphic>
         </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-               <ab>
-                   <lb n="1"/><milestone unit="surface" n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" unit="character" quantity="1"/><orig>Σ</orig> <expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κ<hi rend="ligature">ου</hi></abbr></expan> <supplied reason="lost">δι</supplied><milestone unit="surface" n="2" break="no"/><choice><orig>α</orig><reg>ὰ</reg></choice> συνδρομῆς <expan><abbr>κ</abbr><ex>αὶ</ex></expan> πολλ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> πόθ<hi rend="ligature">ου</hi> Νικ<milestone unit="surface" n="3" break="no"/>ηφόρου Μαγίστρου τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <choice><orig>Υ</orig><reg>’Υ</reg></choice>σχιρί<hi rend="ligature">ου</hi>· βασιλε<choice><orig>υ</orig><reg>ύ</reg></choice>ων<supplied reason="lost">το</supplied>ς <choice><orig>Α</orig><reg>Ἀ</reg></choice>λεξί<hi rend="ligature">ου</hi> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> Κομνην<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> · <choice><orig>έ</orig><reg>ἔ</reg></choice><hi rend="ligature">του</hi>ς <num value="6614"><hi rend="ligature">&#x03DB;</hi>χιδ</num>· <expan><abbr><choice><orig>ι</orig><reg>ἰ</reg></choice>ν</abbr><ex>δικτιῶνος</ex></expan> <num value="14">ιδ</num>:
+               <ab>PENDING
+                   <!--<lb n="1"/><milestone unit="surface" n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" unit="character" quantity="1"/><orig>Σ</orig> <expan><abbr>Θ</abbr><ex>εοτό</ex><abbr>κ<hi rend="ligature">ου</hi></abbr></expan> <supplied reason="lost">δι</supplied><milestone unit="surface" n="2" break="no"/><choice><orig>α</orig><reg>ὰ</reg></choice> συνδρομῆς <expan><abbr>κ</abbr><ex>αὶ</ex></expan> πολλ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> πόθ<hi rend="ligature">ου</hi> Νικ<milestone unit="surface" n="3" break="no"/>ηφόρου Μαγίστρου τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <choice><orig>Υ</orig><reg>’Υ</reg></choice>σχιρί<hi rend="ligature">ου</hi>· βασιλε<choice><orig>υ</orig><reg>ύ</reg></choice>ων<supplied reason="lost">το</supplied>ς <choice><orig>Α</orig><reg>Ἀ</reg></choice>λεξί<hi rend="ligature">ου</hi> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> Κομνην<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> · <choice><orig>έ</orig><reg>ἔ</reg></choice><hi rend="ligature">του</hi>ς <num value="6614"><hi rend="ligature">&#x03DB;</hi>χιδ</num>· <expan><abbr><choice><orig>ι</orig><reg>ἰ</reg></choice>ν</abbr><ex>δικτιῶνος</ex></expan> <num value="14">ιδ</num>:-->
                </ab>
             </div>
             <div type="apparatus">
