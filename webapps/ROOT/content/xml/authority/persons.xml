@@ -16,17 +16,17 @@
             <div type="commentary">
                 <listPerson>
                     
-                    <!--<person xml:id="AlexiosKomnenos">
+                    <person xml:id="AlexiosKomnenos">
                         <persName xml:lang="en"><forename>Alexios I</forename> <surname>Komnenos</surname></persName>
                         <persName xml:lang="grc"><forename>Ἀλέξιος</forename> <surname>Κομνηνός</surname></persName>       
                         <birth  notBefore="1050" notAfter="1057">Around 1057</birth>
                         <death when="1118">1118</death>                       
-                        <floruit from="1081" to="1118">reign1081-1118</floruit>
+                        <floruit from="1081" to="1118">reign 1081-1118</floruit>
                         <occupation type="office-secular">emperor</occupation>
                         <note>The church of Panagia Phorbiotissa or Asinou, Niketari was constructed and first decorated with wall-paintings during his reign (acknowledged in the donor's inscription).</note>
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q41600</idno>
                         <idno type="PBW">http://pbw2016.kdl.kcl.ac.uk/person/Alexios/1/</idno>
-                    </person>-->
+                    </person>
                     
                     <person xml:id="AnastasiaSaramalyna">
                         <persName xml:lang="en"><forename>Anastasia</forename> <surname>Saramalyna</surname></persName>
