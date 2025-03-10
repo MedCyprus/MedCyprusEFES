@@ -309,7 +309,7 @@
                 <item xml:id="DionysiosAreopagites">
                     <term xml:lang="en">Dionysios the Areopagite</term>
                 </item>
-                <item xml:id="EireneGerakiotes_MedCY043">
+                <item xml:id="EireneGerakiotes">
                     <term xml:lang="en">Eirene Gerakiotes</term>
                 </item>
                 <item xml:id="Elisha">
@@ -402,6 +402,9 @@
                 <item xml:id="Ioannes_1">
                     <term xml:lang="en">Ioannes, donor, Kakopetria, Saint Nicholas of the
                         Roof</term>
+                </item>
+                <item xml:id="IoannisGerakiotes">
+                    <term xml:lang="en">Ioannes Gerakiotes</term>
                 </item>
                 <item xml:id="Isaiah">
                     <term xml:lang="en">Isaiah</term>
