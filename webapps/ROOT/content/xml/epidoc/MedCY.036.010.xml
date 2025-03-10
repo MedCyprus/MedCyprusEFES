@@ -34,7 +34,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the medallion with the representation of the saint</layout>
+                                <layout>On either side of the medallion with the representation of the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -43,6 +43,7 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="iconography.xml#Triphyllios">Triphyllios</rs>
+                                 <rs type="iconography" ref="#prelate"></rs>
                             <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
