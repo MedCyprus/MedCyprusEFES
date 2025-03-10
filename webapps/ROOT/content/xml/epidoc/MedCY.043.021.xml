@@ -37,11 +37,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                               <handNote>Black letters against ochre background. Majuscule letters. Characters' size varies. Superscripts letters. Final sigma in Eirene's name ends in a calligraphic horizontal wavy line. Use of diaeresis over iota in Ïρίνης. Horizontal wavy line above the abbreviation of  δέησις, Ἰω(άννου). Double point after Ἰω(άννου), αὐτοῦ. ΟΥ, ΗΤ,ΗΝ in ligatures. Accents and breathings with errors. Letter height: <height unit="cm">3,5-5</height>
+                               <handNote>Black letters against ochre background. Majuscule letters. Characters' size varies. Superscripts letters. Final sigma in Eirene's name ends in a calligraphic horizontal wavy line. Use of diaeresis over iota in Ïρίνης. Horizontal wavy line above the abbreviation of  δέησις, Ἰω(άννου). Double point after Ἰω(άννου), αὐτοῦ. ΟΥ, ΗΤ,ΗΝ joined in ligatures. Accents and breathings with errors. Letter height: <height unit="cm">3,5-5</height>
                             </handNote>
                          </handDesc>
                         <decoDesc>
-                              <p><rs type="iconography" ref="iconography.xml#IoannisEireneGerakiotes_MedCY043">Ioannes and Eirene Gerakiotes</rs></p>
+                              <p><rs type="iconography" ref="#IoannisGerakiotes">Ioannes and Eirene Gerakiotes</rs>                            
+                             <rs type="iconography" ref="#EireneGerakiotes"></rs>
+                             <rs type="iconography" ref="#donor"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
