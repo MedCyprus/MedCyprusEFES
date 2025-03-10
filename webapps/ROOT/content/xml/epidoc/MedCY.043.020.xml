@@ -42,7 +42,9 @@
                             </handNote>
                          </handDesc>
                         <decoDesc>
-                              <p><rs type="iconography" ref="iconography.xml#IoannisEireneGerakiotes_MedCY043">Ioannes and Eirene Gerakiotes</rs></p>
+                              <p><rs type="iconography" ref="#IoannisGerakiotes">Ioannes and Eirene Gerakiotes</rs>                            
+                             <rs type="iconography" ref="#EireneGerakiotes"></rs>
+                             <rs type="iconography" ref="#donor"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
