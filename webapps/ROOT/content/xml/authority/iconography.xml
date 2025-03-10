@@ -156,6 +156,9 @@
                 <item xml:id="Oldtestament">
                     <term xml:lang="en">Old Testament</term>
                 </item>
+                <item xml:id="portraits">
+                    <term xml:lang="en">Donor portraits or other</term>
+                </item>
                 <item xml:id="vision">
                     <term xml:lang="en">Vision, prophetic or other</term>
                 </item>
