@@ -38,11 +38,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>Red letters against blue background. Majuscule letters. The words Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, horizontal line above each word. Letters MHΡ in ligature. Theta with a crosslet attached at the bottom. Accents systematic.
+                             <handNote>Red letters against blue background. Majuscule letters. The words Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, horizontal line above each word. Letters MHΡ joined in ligature. Theta with a crosslet attached at the bottom. Accents systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#VirginEnthroned">Virgin enthroned with Christ Child</rs>
+                            <p><rs type="iconography" ref="#VirginEnthroned">Virgin enthroned with Christ Child</rs>
                             <rs type="iconography" ref="#ChristChild"></rs>
                             <rs type="iconography" ref="#Virgin"></rs>
                             </p>
