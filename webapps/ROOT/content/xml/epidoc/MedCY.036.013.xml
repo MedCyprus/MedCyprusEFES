@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Meletios of Antioch</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -27,21 +28,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, lower register, second figure on the right</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the prelate's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">2-4</height> 
+                             <handNote>White letters against blue backgrounds. Majuscule letters. Characters' size varies. Mu with the central strokes reminiscent of an upsilon on a stem. First sigma with diagonal spine and a wavy tail. Alpha with a round bowl and a tail. Final lunate sigma. Accents and breathings non systematic. Letter height: <height unit="cm">2-4</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#MeletiosAntioch">Meletios of Antioch</rs></p>
+                            <p><rs type="iconography" ref="#MeletiosAntioch">Meletios of Antioch</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,14 +70,22 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-013-01.JPG"><desc>Bema, apse, semicylindrical wall, north half, lower register, next to St. John Chysostom, inscription detail</desc></graphic>
-        <graphic url="036-013-02.JPG"><desc>Bema, apse, semicylindrical wall, north half, lower register, next St. John Chrysostom, general view</desc></graphic>
+         <graphic rend="primary" url="036-013-01.JPG"><desc>Saint Meletios of Antioch, inscription detail</desc></graphic>
+        <graphic url="036-013-02.JPG"><desc>Saint Meletios of Antioch, general view</desc></graphic>
       </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                     <cb n="a"/>
+                  <lb n="1"/>Ὁ <persName type="sacred" key="MeletiosAntioch"><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἅ</reg></choice>
+                  <lb n="2" break="no"/>γιος</w>
+                  
+                   <cb n="b"/>
+                  <lb n="1"/><name nymRef ="#Μελέτιος" type="forename">Μελέτιος</name></persName> 
+                  <lb n="2"/><placeName ref="mentioned_places.xml#Antioch"><choice><sic>Ἀντιοχή
+                  <lb n="3" break="no"/>α
+                  <lb n="4" break="no"/>ς</sic><corr>Ἀντιοχείας</corr></choice></placeName>
                </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +95,7 @@
                 <p>Saint Meletios of Antioch</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
