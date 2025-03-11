@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Michael">Archangel Michael</rs>
+                            <p><rs type="iconography" ref="#Michael">Archangel Michael</rs>
                             <rs type="iconography" ref="#Archangel"></rs>
                             <rs type="iconography" ref="#genderless"></rs></p>
                         </decoDesc>
