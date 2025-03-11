@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="#JohnChrysostom">John Chrysostom</rs></p>
+                            <p><rs type="iconography" ref="#JohnChrysostom">John Chrysostom</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
