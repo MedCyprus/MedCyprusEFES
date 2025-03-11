@@ -5,9 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint George poem</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
+                <title>Saint George poem</title>              
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType>Well preserved.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#narthex">Narthex, south conch, semicylindrical wall, central scene</rs>
                           <dimensions unit="cm" scope="text"><height>37</height><width unit="cm">67</width></dimensions>
                             </support>
@@ -38,11 +38,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote> White letters against blue background. Majuscule letters. Characters' size varies. Short, double horizontal lines decorate the iota, and the vertical bars of pi, gama and tau. Omega with crosslet. Letters TΗΡ, TΩ, ΡΗ, ΤΗΝ, ΤΟΥ, ΜΜ, ΟΥ, ΜΑΡ, ΤΥ, TH, NH, ΤΩ, ΦΟ, NK, ΑΥ, ΝΤ in ligatures. Upper points and double dots after the words Νικηφόρος, πόθῳ, εἰκόνα, Γεωργίου, Φορβίω(ν), κρίσει, and στεφανίτην. Almost systematic use of accents and breathings. Letter height: <height unit="cm">2,5-3</height>
+                            <handNote> White letters against blue background. Majuscule letters. Characters' size varies. Short, double horizontal lines decorate the iota, and the vertical bars of pi, gama and tau. Omega with crosslet. Letters TΗΡ, TΩ, ΡΗ, ΤΗΝ, ΤΟΥ, ΜΜ, ΟΥ, ΜΑΡ, ΤΥ, TH, NH, ΤΩ, ΦΟ, NK, ΑΥ, ΝΤ joined in ligatures. Upper points and double dots after the words Νικηφόρος, πόθῳ, εἰκόνα, Γεωργίου, Φορβίω(ν), κρίσει, and στεφανίτην. Almost systematic use of accents and breathings. Letter height: <height unit="cm">2,5-3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#George">George</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#George">George</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
