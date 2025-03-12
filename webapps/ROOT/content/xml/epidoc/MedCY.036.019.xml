@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">4-5</height> 
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Beta with two bowls attached to its stem. Omicron with a round bowl, attached to a sigma with a diagonal spine and a tail. Accents and breathings non systematic. Letter height: <height unit="cm">4-5</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -78,7 +78,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                   <cb n="a"/>
+                  <lb n="1"/>Ὁ <persName type="sacred" key="Basil"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
+                  <cb n="b"/>
+                  <lb n="1"/><name nymRef ="#Βασίλειος" type="forename">Βασίλειος</name></persName>
                </ab>
             </div>
             <div type="apparatus">
