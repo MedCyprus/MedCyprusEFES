@@ -87,7 +87,7 @@
             </div>
             <div type="apparatus">
                 <listApp>
-                    <app loc="1"><rdg source="#Buckler1933">[ἀνοικοδομήθη ὁ πάνσεπτος οὕτος ναὸς δι]</rdg><rdg source="#Stylianou1960">[ΑΝΟΙΚΟΔΟΜΗΘΗ Ο ΠΑΝCΕΠΤΟC ΟΥΤΟC ΝΑΟC ΔΙ]</rdg></app>                  
+                    <app loc="1"><rdg source="#Buckler1933">[ἀνοικοδομήθη ὁ πάνσεπτος οὕτος ναὸς δι]</rdg><rdg source="#Sacopoulo1966"></rdg><rdg source="#Stylianou1960">[ΑΝΟΙΚΟΔΟΜΗΘΗ Ο ΠΑΝCΕΠΤΟC ΟΥΤΟC ΝΑΟC ΔΙ]</rdg><rdg source="#HatfieldYoung1983">[δι]ά</rdg></app>                  
                 </listApp>
             </div>
             <div type="translation">
@@ -100,10 +100,11 @@
                 <listBibl> 
                    <bibl><ptr target="#Buckler1933"/>, <citedRange>343</citedRange></bibl>
                    <bibl><ptr target="#Stylianou1960"/>, <citedRange>98</citedRange></bibl>  
+                   <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>10</citedRange></bibl>   
+                   <bibl><ptr target="#HatfieldYoung1983"/>, <citedRange>321-22</citedRange></bibl>
+
                    <!--<bibl><ptr target="#Papageorgiou1965a"/>,<citedRange> 16-17</citedRange></bibl>
-                   <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 11</citedRange></bibl>   
                    <bibl><ptr target="#Stylianou1973"/>,<citedRange> 4-6</citedRange></bibl>
-                   <bibl><ptr target="#HatfieldYoung1983"/>,<citedRange> 322</citedRange></bibl>
                     <bibl><ptr target="#Wharton1988"/>,<citedRange> 76</citedRange></bibl>
                    <bibl><ptr target="#Papageorgiou2003"/>,<citedRange> 107-08</citedRange></bibl> 
                     <bibl><ptr target="#HadjichristodoulouMyrianthefs2009"/>,<citedRange> 19</citedRange></bibl>
