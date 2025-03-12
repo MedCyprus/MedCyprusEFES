@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Gregory the Theologian</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -27,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, lower register, second figure on the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">3,5-4</height> 
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Accents and breathings non systematic. Letter height: <height unit="cm">3,5-4</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#GregoryNazianzenos">Gregory the Theologian</rs></p>
+                            <p><rs type="iconography" ref="#GregoryNazianzenos">Gregory the Theologian</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,14 +70,21 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-021-01.JPG"><desc>Bema, apse, semicylindrical wall, south half, lower register, second figure on the left, inscription detail</desc></graphic>
-        <graphic url="036-021-02.JPG"><desc>Bema, apse, semicylindrical wall, south half, lower register, second figure on the left, general view</desc></graphic>
+         <graphic rend="primary" url="036-021-01.JPG"><desc>Saint Gregory the Theologian, inscription detail</desc></graphic>
+        <graphic url="036-021-02.JPG"><desc>Saint Gregory the Theologian, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                    <cb n="a"/>
+                    <lb n="1"/>Ὁ <persName type="sacred" key="GregoryNazianzenos"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>ά</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
+                    <lb n="2"/><name nymRef ="#Γρηγόριος" type="forename"><choice><sic>Γριγό
+                    <lb n="3" break="no"/>ριος</sic><corr>Γρηγόριος</corr></choice></name>                  
+                    <cb n="b"/>
+                    <lb n="1"/>Ὁ
+                    <lb n="2"/><addName type="epithet" key="Theologian">Θε<supplied reason="lost">ο</supplied>
+                    <lb n="3" break="no"/>λόγος</addName></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +94,7 @@
                 <p>Saint Gregory the Theologian</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
