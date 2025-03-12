@@ -31,7 +31,7 @@
                                     </support>
                             </supportDesc>
                              <layoutDesc>
-                                <layout>Above the saint's head</layout>
+                                <layout>Above the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#JosephMnestor">Joseph</rs></p>
+                            <p><rs type="iconography" ref="#Joseph">Joseph</rs></p>
                             </decoDesc>
                     </physDesc>
                     <history>
