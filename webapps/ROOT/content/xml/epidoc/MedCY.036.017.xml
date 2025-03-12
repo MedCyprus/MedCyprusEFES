@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Tychon</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -27,21 +28,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, lower register, first figure on the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the prelate's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">3-4</height> 
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Final sigma as a wavy line. Accents and breathings systematic. Letter height: <height unit="cm">3-4</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Tychon">Tychon</rs></p>
+                            <p><rs type="iconography" ref="#Tychon">Tychon</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,14 +70,17 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-017-01.JPG"><desc>Bema, apse, semicylindrical wall, north half, lower register, first figure on the left, inscription detail</desc></graphic>
-        <graphic url="036-017-02.JPG"><desc>Bema, apse, semicylindrical wall, north half, lower register, first figure on the left, general view</desc></graphic>
+         <graphic rend="primary" url="036-017-01.JPG"><desc>Saint Tychon, inscription detail</desc></graphic>
+        <graphic url="036-017-02.JPG"><desc>Saint Tychon, general view</desc></graphic>
       </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                   <cb n="a"/>
+                  <lb n="1"/>Ὁ <persName type="sacred" key="Tychon"><w lemma="ἅγιος">ἅγιος</w>
+                  <cb n="b"/>
+                  <lb n="1"/><name nymRef ="#Τύχων" type="forename">Τύχων</name></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +90,7 @@
                 <p>Saint Tychon</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
