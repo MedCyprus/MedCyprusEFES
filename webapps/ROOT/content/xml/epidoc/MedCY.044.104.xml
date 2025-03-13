@@ -42,7 +42,11 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#George">George</rs></p>
+                            <p><rs type="iconography" ref="#George">George</rs>
+                                  <rs type="iconography" ref="#martyr"></rs>
+                                  <rs type="iconography" ref="#militarysaint"></rs>
+                                  <rs type="iconography" ref="#male"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,12 +72,12 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-104-01.JPG"><desc>Narthex, south conch, semicylindrical wall, central scene, inscription</desc></graphic>
-        <graphic url="044-104-02.JPG"><desc>Narthex, south conch, semicylindrical wall, central scene, inscription detail</desc></graphic>
-        <graphic url="044-104-03.JPG"><desc>Narthex, south conch, semicylindrical wall, central scene, inscription detail</desc></graphic>
-        <graphic url="044-104-04.JPG"><desc>Narthex, south conch, semicylindrical wall, central scene, general view</desc></graphic>
-        <graphic url="044-104-5.JPG"><desc>Narthex, south conch, semicylindrical wall, central scene, inscription</desc></graphic>
-        <graphic url="044-104-6.JPG"><desc>Narthex, south conch, semicylindrical wall, central scene, inscription</desc></graphic>
+         <graphic rend="primary" url="044-104-01.JPG"><desc>Saint George poem, inscription</desc></graphic>
+        <graphic url="044-104-02.JPG"><desc>Saint George poem, inscription detail</desc></graphic>
+        <graphic url="044-104-03.JPG"><desc>Saint George poem, inscription detail</desc></graphic>
+        <graphic url="044-104-04.JPG"><desc>Saint George poem, general view</desc></graphic>
+        <graphic url="044-104-05.JPG"><desc>Saint George poem, inscription</desc></graphic>
+        <graphic url="044-104-06.JPG"><desc>Saint George poem, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>
