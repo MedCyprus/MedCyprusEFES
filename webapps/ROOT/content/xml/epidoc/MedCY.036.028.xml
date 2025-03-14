@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Barnabas</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -27,13 +28,13 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south mullion, apse window</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -41,7 +42,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Barnabas">Barnabas</rs></p>
+                            <p><rs type="iconography" ref="#Barnabas">Barnabas</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,14 +70,17 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-028-01.JPG"><desc>Bema, apse, semicylindrical wall, south mullion, apse window, inscription</desc></graphic>
-        <graphic url="036-028-02.JPG"><desc>Bema, apse, semicylindrical wall, south mullion, apse window, general view</desc></graphic>
+         <graphic rend="primary" url="036-028-01.JPG"><desc>Saint Barnabas, inscription</desc></graphic>
+        <graphic url="036-028-02.JPG"><desc>Saint Barnabas, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                   <cb n="a"/>
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Barnabas"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
+                  <cb n="b"/>
+                  <lb n="1"/><name type="forename" nymRef ="#Βαρνάβας">Βαρ<supplied reason="lost">νάβας</supplied></name></persName> 
                </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +90,7 @@
                 <p>Saint Barnabas</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
