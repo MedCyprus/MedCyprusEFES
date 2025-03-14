@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint John the Merciful</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -27,21 +28,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, lower register, first figure on the right</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the prelate's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">4</height> 
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mu with the central strokes reminiscent of an upsilon on a stem. HM joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">4</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#JohnMerciful">John the Merciful</rs></p>
+                            <p><rs type="iconography" ref="#JohnMerciful">John the Merciful</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,14 +70,19 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-025-01.JPG"><desc>Bema, apse, semicylindrical wall, south half, lower register, first figure on the right, inscription</desc></graphic>
-        <graphic url="036-025-02.JPG"><desc>Bema, apse, semicylindrical wall, south half, lower register, first figure on the right, general view</desc></graphic>
+         <graphic rend="primary" url="036-025-01.JPG"><desc>Saint John the Merciful, inscription</desc></graphic>
+        <graphic url="036-025-02.JPG"><desc>Saint John the Merciful, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                    <cb n="a"/>
+                    <lb n="1"/>Ὁ <persName type="sacred" key="JohnMerciful"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>
+                    <lb n="2"/><name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>                  
+                  <cb n="b"/>
+                    <lb n="1"/>Ὁ <addName type="epithet" key="Merciful"><choice><orig>E</orig><reg>Ἐ</reg></choice>λε
+                    <lb n="2" break="no"/><hi rend="ligature"><choice><orig>ἤ</orig><reg>ή</reg></choice>μ</hi>ων</addName></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +92,7 @@
                 <p>Saint John the Merciful</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
