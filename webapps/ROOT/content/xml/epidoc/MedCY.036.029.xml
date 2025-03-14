@@ -27,21 +27,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, beneath the window, on the north</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">1,5-3,5</height> 
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Accents and breathings non systematic. Letter height: <height unit="cm">1,5-3,5</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Spyridon">Spyridon</rs></p>
+                            <p><rs type="iconography" ref="#Spyridon">Spyridon</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,14 +69,14 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-029-01.JPG"><desc>Bema, apse, semicylindrical wall, beneath the window, on the north, inscription</desc></graphic>
-        <graphic url="036-029-02.JPG"><desc>Bema, apse, semicylindrical wall, beneath the window, on the north, general view</desc></graphic>
+         <graphic rend="primary" url="036-029-01.JPG"><desc>Saint Spyridon, inscription</desc></graphic>
+        <graphic url="036-029-02.JPG"><desc>Saint Spyridon, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Spyridon"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <name nymRef ="#Σπυρίδων" type="forename"><choice><sic><supplied reason="lost">Σπ</supplied>υρη<space quantity="1" unit="character"/>δων</sic><corr>Σπυρίδων</corr></choice></name></persName> 
                </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +86,7 @@
                 <p>Saint Spyridon</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
