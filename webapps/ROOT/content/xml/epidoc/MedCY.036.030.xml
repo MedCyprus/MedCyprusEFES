@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING
+                             <handNote>Red letters against white background. Majuscule letters. Characters' size varies. Mu with its middle bar forming a tau. Delta is formed with a lambda on a horizontal bar, with a bottom bar terminating in serifs on both ends. AN joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#mandylion">mandylion</rs></p>
+                            <p><rs type="iconography" ref="#mandylion">mandylion</rs>
+                            <rs type="iconography" ref="#Christ"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -84,7 +85,7 @@
                   <cb n="b"/>
                   <lb n="1"/><w lemma="μανδήλιον">μ<hi rend="ligature">αν</hi>
                   <lb n="2" break="no"/>δή
-                  <lb n="3" break="no"/>λï
+                  <lb n="3" break="no"/>λ<choice><orig>ï</orig><reg>ι</reg></choice>
                   <lb n="4" break="no"/>ον</w>
                </ab>
             </div>
