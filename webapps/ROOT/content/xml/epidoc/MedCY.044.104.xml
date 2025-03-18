@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote> White letters against blue background. Majuscule letters. Characters' size varies. Short, double horizontal lines decorate the iota, and the vertical bars of pi, gama and tau. Omega with crosslet. Letters TΗΡ, TΩ, ΡΗ, ΤΗΝ, ΤΟΥ, ΜΜ, ΟΥ, ΜΑΡ, ΤΥ, TH, NH, ΤΩ, ΦΟ, NK, ΑΥ, ΝΤ joined in ligatures. Upper points and double dots after the words Νικηφόρος, πόθῳ, εἰκόνα, Γεωργίου, Φορβίω(ν), κρίσει, and στεφανίτην. Almost systematic use of accents and breathings. Letter height: <height unit="cm">2,5-3</height>
+                            <handNote> White letters against blue background. Majuscule letters. Characters' size varies. Short, double horizontal lines decorate the iota, and the vertical bars of pi, gama and tau. Omega with crosslet. Letters TΗΡ, TΩ, ΡΗ, ΤΗΝ, ΤΟΥ, ΜΜ, ΟΥ, ΜΑΡ, ΤΥ, TH, NH, ΤΩ, ΦΟ, NK, ΑΥ, ΝΜ, ΝΤ joined in ligatures. Upper points and double dots after the words Νικηφόρος, πόθῳ, εἰκόνα, Γεωργίου, Φορβίω(ν), κρίσει, and στεφανίτην. Almost systematic use of accents and breathings. Letter height: <height unit="cm">2,5-3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -83,10 +83,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <lg met="Dodecasyllable">
-               <l><lb n="1"/><g ref="#cross">+</g><w lemma="ἵππος"><choice><orig>Ί</orig><reg>Ἵ</reg></choice>ππων</w> <w lemma="ἀκεστήρ">ἀκεσ<hi rend="ligature">τὴρ</hi></w> <w lemma="εὐσεβής">εὐσεβὴς</w> <persName type="attested" role="donor" ref="#Nikephoros"><name nymRef="#Νικηφόρος" type="forename">Νικηφόρος</name></persName>·</l><l><w lemma="θερμός">θερμ<choice><orig>ῶ</orig><reg>ῷ</reg></choice></w> <w lemma="κινῶ">κινηθεὶς</w> <lb n="2"/><w lemma="ἐνδιάθετος">ἐνδιαθέ<hi rend="ligature">τ<choice><orig>ω</orig><reg>ῳ</reg></choice></hi></w> <w lemma="πόθος">πόθ<choice><orig>ω</orig><reg>ῳ</reg></choice></w>·</l><l><w lemma="ἀνιστορῶ">ἀνιστό<hi rend="ligature">ρη</hi>σεν</w> <w lemma="ἐμφερῶς">ἐμφερῶς</w> <hi rend="ligature">τὴν</hi> <w lemma="εἰκών">εἰκόνα</w>:<space extent="4" unit="character"></space></l><l><lb n="3"/><hi rend="ligature">τοῦ</hi> <w lemma="πάμμεγας">πα<hi rend="ligature">μμ</hi>εγίστ<hi rend="ligature">ου</hi></w> <w lemma="μάρτυρ"><hi rend="ligature">μάρ</hi><hi rend="ligature">τυ</hi>ρος</w> <persName type="sacred" key="George"><name type="forename" nymRef="#Γεώργιος">Γεωργίου</name></persName>:</l><l>κἀν <w lemma="τῇδε"><hi rend="ligature">τ<choice><orig>ῆ</orig><reg>ῇ</reg></choice></hi>δε</w> <w lemma="σεπτῶς">σεπτῶς</w> <hi rend="ligature">τ<choice><orig>ῆ</orig><reg>ῇ</reg></choice></hi> <w lemma="μονή">μο<hi rend="ligature">ν<choice><orig>ῆ</orig><reg>ῇ</reg></choice></hi></w> <hi rend="ligature">τῶν</hi> <lb n="4"/><w lemma="φορβή"><hi rend="ligature">Φο</hi>ρβίω<expan><ex>ν</ex></expan></w></l> <l><w lemma="ποθῶ">ποθῶν</w> <w lemma="ἐφευρίσκω">ἐφευρεῖν</w> <w lemma="ἀντίληψις">ἀντίληψιν</w> <choice><orig>ε</orig><reg>ἐ</reg></choice><hi rend="ligature" xml:id="lig1">ν</hi> <w lemma="κρίσις"> <hi rend="ligature" xml:id="lig2">κ</hi><join target="#lig1 #lig2"/>ρίσει</w>:</l><l><hi rend="ligature">τὼ</hi>ν <w lemma="ὑπεραυγής">ὑπερ<hi rend="ligature">αυ</hi>γῆ</w> <lb n="5"/><space extent="7" unit="character"></space><w lemma="μάρτυρ"><hi rend="ligature">μάρ</hi><hi rend="ligature">τυ</hi>ρα</w> <w lemma="στεφανίτης">στε<unclear>φ</unclear>ανίτη<unclear>ν</unclear></w></l> <l><expan><abbr>κ</abbr><ex>αὶ</ex></expan> τ<supplied reason="lost">ὰ</supplied>ς <w lemma="προσευχή"><hi rend="ligature">πρ</hi>οσευχ<expan><ex>ὰς</ex></expan></w> <hi rend="ligature">τῶ</hi>ν <w lemma="μένω">μενό<hi rend="ligature">ντ</hi>ων</w> <lb n="6"/><space extent="50" unit="character"></space><w lemma="ἐνθάδε">ἐνθάδε</w>:-</l></lg> 
+               <l><lb n="1"/><g ref="#cross">+</g><w lemma="ἵππος"><choice><orig>Ί</orig><reg>Ἵ</reg></choice>ππων</w> <w lemma="ἀκεστήρ">ἀκεσ<hi rend="ligature">τὴρ</hi></w> <w lemma="εὐσεβής">εὐσεβὴς</w> <persName type="attested" role="donor" ref="#Nikephoros"><name nymRef="#Νικηφόρος" type="forename">Νικηφόρος</name></persName>·</l><l><w lemma="θερμός">θερμ<choice><orig>ῶ</orig><reg>ῷ</reg></choice></w> <w lemma="κινῶ">κινηθεὶς</w> <lb n="2"/><w lemma="ἐνδιάθετος">ἐνδιαθέ<hi rend="ligature">τ<choice><orig>ω</orig><reg>ῳ</reg></choice></hi></w> <w lemma="πόθος">πόθ<choice><orig>ω</orig><reg>ῳ</reg></choice></w>·</l><l><w lemma="ἀνιστορῶ">ἀνιστό<hi rend="ligature">ρη</hi>σεν</w> <w lemma="ἐμφερῶς">ἐμφερῶς</w> <hi rend="ligature">τὴν</hi> <w lemma="εἰκών">εἰκόνα</w>:<space extent="4" unit="character"></space></l><l><lb n="3"/><hi rend="ligature">τοῦ</hi> <w lemma="πάμμεγας">πα<hi rend="ligature">μμ</hi>εγίστ<hi rend="ligature">ου</hi></w> <w lemma="μάρτυρ"><hi rend="ligature">μάρ</hi><hi rend="ligature">τυ</hi>ρος</w> <persName type="sacred" key="George"><name type="forename" nymRef="#Γεώργιος">Γεωργίου</name></persName>:</l><l>κἀν <w lemma="τῇδε"><hi rend="ligature">τ<choice><orig>ῆ</orig><reg>ῇ</reg></choice></hi>δε</w> <w lemma="σεπτῶς">σεπτῶς</w> <hi rend="ligature">τ<choice><orig>ῆ</orig><reg>ῇ</reg></choice></hi> <placeName ref="mentioned_places.xml#MonasteryOfPhorbiotissa"><w lemma="μονή">μο<hi rend="ligature">ν<choice><orig>ῆ</orig><reg>ῇ</reg></choice></hi></w> <hi rend="ligature">τῶ</hi>ν <lb n="4"/><w lemma="φορβή"><hi rend="ligature">Φο</hi>ρβίω<expan><ex>ν</ex></expan></w></placeName></l> <l><w lemma="ποθῶ">ποθῶν</w> <w lemma="ἐφευρίσκω">ἐφευρεῖν</w> <w lemma="ἀντίληψις">ἀντίληψιν</w> <choice><orig>ε</orig><reg>ἐ</reg></choice><hi rend="ligature" xml:id="lig1">ν</hi> <w lemma="κρίσις"> <hi rend="ligature" xml:id="lig2">κ</hi><join target="#lig1 #lig2"/>ρίσει</w>:</l><l><hi rend="ligature">τ<choice><orig>ὼ</orig><reg>ῶ</reg></choice></hi>ν <w lemma="ὑπεραυγής">ὑπ<choice><orig>ὲ</orig><reg>ε</reg></choice>ρ<hi rend="ligature">αυ</hi>γῆ</w> <lb n="5"/><space extent="7" unit="character"></space><w lemma="μάρτυρ"><expan><hi rend="ligature"><abbr>μ</abbr><ex>ά</ex>ρ</hi><hi rend="ligature">τυ</hi>ρα</expan></w> <w lemma="στεφανίτης">στε<unclear>φ</unclear>αν<choice><orig>ι</orig><reg>ί</reg></choice>τη<unclear>ν</unclear></w></l> <l><expan><abbr rend="supraline">κ</abbr><ex>αὶ</ex></expan> τ<supplied reason="lost">ὰ</supplied>ς <w lemma="προσευχή"><expan><abbr rend="supraline">προσευχ</abbr><ex>ὰς</ex></expan></w> <hi rend="ligature">τῶ</hi><hi rend="ligature" xml:id="lig3">ν</hi> <w lemma="μένω"><hi rend="ligature" xml:id="lig4">μ</hi><join target="#lig3 #lig4"></join>ενό<hi rend="ligature">ντ</hi>ων</w> <lb n="6"/><space extent="50" unit="character"></space><w lemma="ἐνθάδε">ἐνθάδε</w>:-</l></lg> 
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <listApp>
+                    <app loc="3"><rdg source="#Buckler1933">παμμεγίστ(ου)</rdg><rdg source="#Buckler1933">μ(ά)ρτυρος</rdg></app>
+                    <app loc="4"><rdg source="#Buckler1933">Φορβίων</rdg><rdg source="#Buckler1933">τὸν</rdg></app>
+                    <app loc="5"><rdg source="#Buckler1933">καὶ τὰς</rdg></app>
+                </listApp>
                  </div>
             <div type="translation"> 
                 <p>A healer of horses, Nikephoros the pious,
@@ -105,11 +109,12 @@
             </div>
             <div type="bibliography">
                 <listBibl> 
-                  <bibl><ptr target="#Stylianou1960"/>,<citedRange> 105</citedRange></bibl>   
-                 <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 12-3</citedRange></bibl>  
-                <bibl><ptr target="#Rhoby2009"/>,<citedRange> 342</citedRange></bibl>
-                 <bibl><ptr target="#Ševčenko2012"/>,<citedRange> 82</citedRange></bibl>
-                 <bibl><ptr target="#VisCult"/>,<citedRange> 190</citedRange></bibl>
+                    <bibl><ptr target="#Buckler1933"/>, <citedRange>337-38</citedRange></bibl>
+                  <bibl><ptr target="#Stylianou1960"/>, <citedRange>105</citedRange></bibl>   
+                 <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>12-3</citedRange></bibl>  
+                <bibl><ptr target="#Rhoby2009"/>, <citedRange> 342</citedRange></bibl>
+                 <bibl><ptr target="#Ševčenko2012"/>, <citedRange>82</citedRange></bibl>
+                 <bibl><ptr target="#VisCult"/>, <citedRange>190</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
