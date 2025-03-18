@@ -7,7 +7,8 @@
             <titleStmt>
                 <title>Saint Stachios</title>
                 <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +29,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, east wall, thriumphal arch, lower medallion, on the north</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING
+                             <handNote>White letters against brown background. Majuscule letters. Characters' size varies. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Stachios">Stachios</rs></p>
+                            <p><rs type="iconography" ref="#Stachios">Stachios</rs>
+                                <rs type="iconography" ref="#deacon"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,13 +71,18 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-036-01.JPG"><desc>Bema, east wall, thriumphal arch, lower medallion, on the north, inscription</desc></graphic>
+         <graphic rend="primary" url="036-036-01.JPG"><desc>St. Stachios, inscription</desc></graphic>
              </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                     <cb n="a"/>
+                    <lb n="1"/>Ὁ <persName type="sacred" key="Stachios"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>
+                    <lb n="2"/><name nymRef ="#Στάχιος" type="forename">Στά
+                    <lb n="3" break="no"/>
+                    <cb n="b"/>
+                    <lb n="1"/>χ<choice><orig>ϊ</orig><reg>ι</reg></choice>ος</name></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +92,7 @@
                 <p>Saint Stachios</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
