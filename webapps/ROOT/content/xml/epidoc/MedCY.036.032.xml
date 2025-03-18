@@ -83,6 +83,7 @@
                     <lb n="2"/><name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>          
                     <lb n="3"/><placeName ref="mentioned_places.xml#Damascus">Ὁ
                      <lb n="4"/>Δαμας
+                      <lb n="5" break="no"/>
                      <cb n="b"/>
                     <lb n="1"/>κη
                     <lb n="2" break="no"/>ν<hi rend="ligature"><choice><orig>o</orig><reg>ό</reg></choice>ς</hi></placeName></persName>
