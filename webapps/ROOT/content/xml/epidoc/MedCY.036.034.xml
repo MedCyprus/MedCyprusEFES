@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Kosmas the Poet</title>
-                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -38,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING
+                             <handNote>White letters against red background. Majuscule letters. Characters' size varies. Mu with its middle bar forming a tau. AC and THC joined in ligature. Final sigma with a tail. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -78,7 +79,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                    <cb n="a"/>
+                    <lb n="1"/>Ὁ <persName type="sacred" key="KosmasPoet"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>
+                     <lb n="2"/><name nymRef ="#Κοσμᾶς" type="forename">Κος
+                     <lb n="3" break="no"/>μ<hi rend="ligature"><choice><orig>ά</orig><reg>ᾶ</reg></choice>ς</hi></name>  
+                        <cb n="b"/>
+                       <lb n="1"/> Ὁ 
+                        <lb n="2"/><addName type="epithet" key="Poet">Ποι
+                        <lb n="3" break="no"/><choice><orig>ή</orig><reg>η</reg></choice><hi rend="ligature">τ<choice><orig>η</orig><reg>ή</reg></choice>ς</hi></addName></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -88,7 +96,7 @@
                 <p>Saint Kosmas the Poet</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
