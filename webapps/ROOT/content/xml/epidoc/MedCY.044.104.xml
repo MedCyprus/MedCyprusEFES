@@ -88,8 +88,8 @@
             <div type="apparatus">
                 <listApp>
                     <app loc="3"><rdg source="#Buckler1933">παμμεγίστ(ου)</rdg><rdg source="#Buckler1933">μ(ά)ρτυρος</rdg></app>
-                    <app loc="4"><rdg source="#Buckler1933">Φορβίων</rdg><rdg source="#Papageorgiou2003"></rdg><rdg source="#Stylianou1973">ΦΩΡΒΙΩΝ</rdg><rdg source="#Buckler1933">τὸν</rdg><rdg source="#Rhoby2009">Φορβίω<supplied reason="omitted">ν</supplied></rdg><rdg source="#Rhoby2009">τὸν</rdg><rdg source="#HadjichristodoulouMyrianthefs2009">κρ[ί]σει</rdg></app>
-                    <app loc="5"><rdg source="#Sacopoulo1966">μάρτυρα</rdg><rdg source="#Papageorgiou2003"></rdg><rdg source="#Sacopoulo1966">στε[φ]ανί[την]</rdg><rdg source="#Stylianou1973">CΤΕΦΑΝΙΤΗΝ</rdg><rdg source="#Papageorgiou2003">στεφανίτην</rdg><rdg source="#Rhoby2009">στε[φ]α[νίτην]</rdg><rdg source="#HadjichristodoulouMyrianthefs2009">στεφανήτην</rdg><rdg source="#Buckler1933">καὶ τὰς</rdg><rdg source="#Sacopoulo1966"></rdg><rdg source="#Stylianou1973">ΚΑΙ ΤΑC</rdg><rdg source="#Papageorgiou2003">καί τάς προσευχάς</rdg></app>
+                    <app loc="4"><rdg source="#Buckler1933">Φορβίων</rdg><rdg source="#Papageorgiou2003"></rdg><rdg source="#VisCult"></rdg><rdg source="#Stylianou1973">ΦΩΡΒΙΩΝ</rdg><rdg source="#Buckler1933">τὸν</rdg><rdg source="#Rhoby2009">Φορβίω<supplied reason="omitted">ν</supplied></rdg><rdg source="#Rhoby2009">τὸν</rdg><rdg source="#HadjichristodoulouMyrianthefs2009">κρ[ί]σει</rdg></app>
+                    <app loc="5"><rdg source="#Sacopoulo1966">μάρτυρα</rdg><rdg source="#Papageorgiou2003"></rdg><rdg source="#VisCult"></rdg><rdg source="#Sacopoulo1966">στε[φ]ανί[την]</rdg><rdg source="#Stylianou1973">CΤΕΦΑΝΙΤΗΝ</rdg><rdg source="#Papageorgiou2003">στεφανίτην</rdg><rdg source="#Ševčenko2012"></rdg><rdg source="#VisCult"></rdg><rdg source="#Rhoby2009">στε[φ]α[νίτην]</rdg><rdg source="#HadjichristodoulouMyrianthefs2009">στεφανήτην</rdg><rdg source="#Buckler1933">καὶ τὰς</rdg><rdg source="#Sacopoulo1966"></rdg><rdg source="#Ševčenko2012"></rdg><rdg source="#VisCult"></rdg><rdg source="#Stylianou1973">ΚΑΙ ΤΑC</rdg><rdg source="#Papageorgiou2003">καί τάς προσευχάς</rdg><rdg source="#VisCult">προσευχὰς</rdg></app>
                 </listApp>
                  </div>
             <div type="translation"> 
@@ -105,7 +105,7 @@
                 </p> 
             </div>
             <div type="commentary">
-                <p>The inscription is made up of six lines, which correspond to eight metrical verses. A cross marks the beginning of the poem, while a double dot with a hyphen appears at the end. Τhe single and double points after the words Νικηφόρος, πόθῳ, εἰκόνα, Γεωργίου, Φορβίων, κρίσει, and στεφανίτην denote the end of the verses.Τhe donor of the mural icon, the veterinaria of horses Nikephoros, is probably a different person from the Nikephoros mentioned in the invocation that is inscribed below the metrical poem examined (see <ref target="MedCY.044.105.html">MedCY.044.105</ref>) (<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 83</citedRange></bibl>; <bibl><ptr target="#VisCult"/>,<citedRange> 189</citedRange></bibl>). </p>
+                <p>The inscription is made up of six lines, which correspond to eight metrical verses. A cross marks the beginning of the poem, while a double dot with a hyphen appears at the end. Τhe single and double points after the words Νικηφόρος, πόθῳ, εἰκόνα, Γεωργίου, Φορβίων, κρίσει, and στεφανίτην denote the end of the verses. Τhe donor of the mural icon, the veterinaria of horses Nikephoros, is probably a different person from the Nikephoros mentioned in the invocation that is inscribed below the metrical poem examined (see <ref target="MedCY.044.105.html">MedCY.044.105</ref>) (<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 83</citedRange></bibl>; <bibl><ptr target="#VisCult"/>,<citedRange> 189</citedRange></bibl>). </p>
             </div>
             <div type="bibliography">
                 <listBibl> 
@@ -117,8 +117,8 @@
                     <bibl><ptr target="#Papageorgiou2003"/>, <citedRange>111-112</citedRange></bibl>
                     <bibl><ptr target="#Rhoby2009"/>, <citedRange> 342-44</citedRange></bibl>
                     <bibl><ptr target="#HadjichristodoulouMyrianthefs2009"/>, <citedRange>29-30</citedRange></bibl>
-                 <!--<bibl><ptr target="#Ševčenko2012"/>, <citedRange>82</citedRange></bibl>
-                 <bibl><ptr target="#VisCult"/>, <citedRange>190</citedRange></bibl>-->
+                    <bibl><ptr target="#Ševčenko2012"/>, <citedRange>81-83</citedRange></bibl>
+                    <bibl><author>Carr </author>in <ptr target="#VisCult"/><citedRange> 3, 187-90</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

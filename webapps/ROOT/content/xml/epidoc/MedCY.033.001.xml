@@ -114,7 +114,7 @@ Regarding the content of the inscription, it is a foundation inscription of the 
                 <listBibl><bibl><ptr target="#MangoHawkinsBoyd1990"/></bibl>
                 <bibl><ptr target="#Rhoby2009"/>,<citedRange> 319-322</citedRange></bibl>
                 <!-- How do we write specific pages of each bibliography reference? I tried this: <bibl><ptr target="#Chotzakoglou2005"/>,<citedRange>596</citedRange></bibl>but it shows me also the whole pages of the reference -->
-                <bibl><ptr target="#VisCult"/><citedRange> 2, 1359-63</citedRange></bibl>
+                <bibl><author>Carr </author>in <ptr target="#VisCult"/><citedRange> 2, 1359-63</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
