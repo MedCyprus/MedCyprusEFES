@@ -88,8 +88,8 @@
             <div type="apparatus">
                 <listApp>
                     <app loc="3"><rdg source="#Buckler1933">παμμεγίστ(ου)</rdg><rdg source="#Buckler1933">μ(ά)ρτυρος</rdg></app>
-                    <app loc="4"><rdg source="#Buckler1933">Φορβίων</rdg><rdg source="#Papageorgiou2003"></rdg><rdg source="#Stylianou1973">ΦΩΡΒΙΩΝ</rdg><rdg source="#Buckler1933">τὸν</rdg><rdg source="#Rhoby2009">Φορβίω<supplied reason="omitted">ν</supplied></rdg><rdg source="#Rhoby2009">τὸν</rdg></app>
-                    <app loc="5"><rdg source="#Sacopoulo1966">μάρτυρα</rdg><rdg source="#Papageorgiou2003"></rdg><rdg source="#Sacopoulo1966">στε[φ]ανί[την]</rdg><rdg source="#Stylianou1973">CΤΕΦΑΝΙΤΗΝ</rdg><rdg source="#Papageorgiou2003">στεφανίτην</rdg><rdg source="#Rhoby2009">στε[φ]α[νίτην]</rdg><rdg source="#Buckler1933">καὶ τὰς</rdg><rdg source="#Sacopoulo1966"></rdg><rdg source="#Stylianou1973">ΚΑΙ ΤΑC</rdg><rdg source="#Papageorgiou2003">καί τάς προσευχάς</rdg></app>
+                    <app loc="4"><rdg source="#Buckler1933">Φορβίων</rdg><rdg source="#Papageorgiou2003"></rdg><rdg source="#Stylianou1973">ΦΩΡΒΙΩΝ</rdg><rdg source="#Buckler1933">τὸν</rdg><rdg source="#Rhoby2009">Φορβίω<supplied reason="omitted">ν</supplied></rdg><rdg source="#Rhoby2009">τὸν</rdg><rdg source="#HadjichristodoulouMyrianthefs2009">κρ[ί]σει</rdg></app>
+                    <app loc="5"><rdg source="#Sacopoulo1966">μάρτυρα</rdg><rdg source="#Papageorgiou2003"></rdg><rdg source="#Sacopoulo1966">στε[φ]ανί[την]</rdg><rdg source="#Stylianou1973">CΤΕΦΑΝΙΤΗΝ</rdg><rdg source="#Papageorgiou2003">στεφανίτην</rdg><rdg source="#Rhoby2009">στε[φ]α[νίτην]</rdg><rdg source="#HadjichristodoulouMyrianthefs2009">στεφανήτην</rdg><rdg source="#Buckler1933">καὶ τὰς</rdg><rdg source="#Sacopoulo1966"></rdg><rdg source="#Stylianou1973">ΚΑΙ ΤΑC</rdg><rdg source="#Papageorgiou2003">καί τάς προσευχάς</rdg></app>
                 </listApp>
                  </div>
             <div type="translation"> 
@@ -116,6 +116,7 @@
                     <bibl><ptr target="#Wharton1988"/>, <citedRange>77</citedRange></bibl>
                     <bibl><ptr target="#Papageorgiou2003"/>, <citedRange>111-112</citedRange></bibl>
                     <bibl><ptr target="#Rhoby2009"/>, <citedRange> 342-44</citedRange></bibl>
+                    <bibl><ptr target="#HadjichristodoulouMyrianthefs2009"/>, <citedRange>29-30</citedRange></bibl>
                  <!--<bibl><ptr target="#Ševčenko2012"/>, <citedRange>82</citedRange></bibl>
                  <bibl><ptr target="#VisCult"/>, <citedRange>190</citedRange></bibl>-->
                 </listBibl>
