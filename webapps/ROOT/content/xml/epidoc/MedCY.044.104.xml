@@ -68,7 +68,7 @@
                     <term type="textType" ref="text_types.xml#doc12">Metrical inscription</term>
                 </keywords>
             </textClass>
-            <creation>transcription (G. Apeitos, Th. Petrou), publications</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -118,7 +118,7 @@
                     <bibl><ptr target="#Rhoby2009"/>, <citedRange> 342-44</citedRange></bibl>
                     <bibl><ptr target="#HadjichristodoulouMyrianthefs2009"/>, <citedRange>29-30</citedRange></bibl>
                     <bibl><ptr target="#Ševčenko2012"/>, <citedRange>81-83</citedRange></bibl>
-                    <bibl><author>Carr </author>in <ptr target="#VisCult"/><citedRange> 3, 187-90</citedRange></bibl>
+                    <bibl><author>Carr </author>in <ptr target="#VisCult"/><citedRange> 1, 187-90</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
