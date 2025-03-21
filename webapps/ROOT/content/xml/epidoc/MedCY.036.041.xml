@@ -7,7 +7,8 @@
             <titleStmt>
                 <title>Ascension, angel of the Lord</title>
                 <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +29,22 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, east vault, north side</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Above the angel's head</layout>
+                                <layout>Above the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING
+                             <handNote>White letters against blue and green backgrounds. Majuscule letters. Characters' size varies. AI joined in ligature. Horizontal line above the abbreviation of Κ(υρίο)υ. Accents and breathings systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Ascension">Ascension, angel of the Lord</rs></p>
+                            <p><rs type="iconography" ref="#Ascension">Ascension, angel of the Lord</rs>
+                            <rs type="iconography" ref="#archangel"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,14 +70,17 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-041-01.JPG"><desc>Bema, east wall, north side, inscription</desc></graphic>
-        <graphic url="036-041-02.JPG"><desc>Bema, east wall, north side, general view</desc></graphic>
+         <graphic rend="primary" url="036-041-01.JPG"><desc>Ascension, angel of the Lord, inscription</desc></graphic>
+        <graphic url="036-041-02.JPG"><desc>Ascension, angel of the Lord, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                     <cb n="a"/>
+                    <lb n="1"/><persName type="sacred" key="Angel"><w lemma="ἄγγελος"><choice><sic><expan><abbr rend="supraline">Ἄγγαιλ</abbr><ex>ος</ex></expan></sic><corr>Ἄγγελος</corr></choice></w>
+                  <cb n="b"/>
+                    <lb n="1"/><addName type="epithet" key="of the Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline"><choice><orig>ύ</orig><reg>υ</reg></choice></abbr></expan></w></addName></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +90,7 @@
                 <p>Angel of the Lord</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
