@@ -7,7 +7,8 @@
             <titleStmt>
                 <title>Saint Joseph the Poet</title>
                 <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +29,24 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, east vault, north side, lower register, on the east</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the right of the medallion with the representation of the saint</layout>
+                                <layout>On the right of the medallion with the representation of the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING
+                             <handNote>White letters against green background. Majuscule letters. Characters' size varies. HC joined in ligature. Final sigma with a tail. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#JosephPoet">Joseph the Poet</rs></p>
+                            <p><rs type="iconography" ref="#JosephPoet">Joseph the Poet</rs>
+                             <rs type="iconography" ref="#hymnographer"></rs>
+                                  <rs type="iconography" ref="#monastic"></rs>
+                                  <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,14 +72,15 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-045-01.JPG"><desc>Bema, east vault, north side, lower register, on the east, inscription</desc></graphic>
-        <graphic url="036-045-02.JPG"><desc>Bema, east vault, north side, lower register, on the east, general view</desc></graphic>
+         <graphic rend="primary" url="036-045-01.JPG"><desc>Joseph the Poet, inscription</desc></graphic>
+        <graphic url="036-045-02.JPG"><desc>Joseph the Poet, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                   <lb n="1"/>Ὁ <persName type="sacred" key="JosephPoet"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w> <name type="forename" nymRef="#Ἰωσήφ">Ἰωσ<choice><orig>η</orig><reg>ή</reg></choice>φ</name> Ὁ
+                  <lb n="2"/><addName type="epithet" key="Poet">Ποι<choice><orig>ή</orig><reg>η</reg></choice>τ<hi rend="ligature">ής</hi></addName></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +90,7 @@
                 <p>Saint Joseph the Poet</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
