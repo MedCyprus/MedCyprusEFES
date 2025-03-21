@@ -84,11 +84,12 @@
             </ab></div>
             <div type="apparatus">
                 <listApp>
-                    <app loc="1"><rdg source="#Papageorgiou2003">Δέησις</rdg></app>
+                    <app loc="1"><rdg source="#Papageorgiou2003">Δέησις</rdg><rdg source="#VisCult"></rdg></app>
+                    <app loc="2"><rdg source="#HadjichristodoulouMyrianthefs2009">Καλλή[α]</rdg></app>
                 </listApp>
                  </div>
             <div type="translation"> 
-                <p>Invocation of Nikephoros the farrier (?)(<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 82</citedRange></bibl>)</p> 
+                <p>Invocation of Nikephoros the farrier (?) (<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 82</citedRange></bibl>)</p> 
             </div>
             <div type="commentary">
                 <p>The inscription, written in a different colour to the dedicatory epigram above (see MedCY.044.104), may have been added when this and the fresco of Saint George on horseback were completed. Consequently, Nikephoros the farrier is probably a different person from the veterinarian Nikephoros, mentioned in the dedicatory epigram (<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 83</citedRange></bibl>; <bibl><ptr target="#VisCult"/>,<citedRange> 189</citedRange></bibl>).</p>
@@ -102,13 +103,9 @@
                    <bibl><ptr target="#Wharton1988"/>, <citedRange>77</citedRange></bibl>
                    <bibl><ptr target="#Papageorgiou2003"/>, <citedRange>111-112</citedRange></bibl>
                     <bibl><ptr target="#Rhoby2009"/>, <citedRange>342-44</citedRange></bibl>
-                    </listBibl>                                                           
-                    
-                    <!--<bibl><ptr target="#HadjichristodoulouMyrianthefs2009"/>, <citedRange>29-30</citedRange></bibl>
-                    <bibl><ptr target="#Ševčenko2012"/>, <citedRange>81-83</citedRange></bibl>
-                    <bibl><author>Carr </author>in <ptr target="#VisCult"/><citedRange> 1, 187-90</citedRange></bibl>
-                </listBibl>-->
-                
+                    <bibl><ptr target="#HadjichristodoulouMyrianthefs2009"/>, <citedRange>29-30</citedRange></bibl>
+                    <bibl><ptr target="#Ševčenko2012"/>, <citedRange>81-83</citedRange></bibl>                                                                <bibl><author>Carr </author>in <ptr target="#VisCult"/><citedRange> 1, 187-90</citedRange></bibl>       
+                </listBibl>              
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
         </body>
