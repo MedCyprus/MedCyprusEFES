@@ -42,7 +42,10 @@
                             </handNote>
                         </handDesc>
                     <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#FortyMartyrs_martyrdom">Martyrdom of the Forty Martyrs of Sebaste</rs></p>
+                            <p><rs type="iconography" ref="#FortyMartyrs_martyrdom">Martyrdom of the Forty Martyrs of Sebasteia</rs>
+                                  <rs type="iconography" ref="#FortyMartyrs"></rs>            
+                                  <rs type="iconography" ref="#hagiographic">hagiographic</rs>                               
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
