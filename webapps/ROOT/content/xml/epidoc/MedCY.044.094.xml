@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Forty Martyrs of Sebaste</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -42,7 +42,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#FortyMartyrs_martyrdom">Martyrdom of the Forty Martyrs of Sebaste</rs></p>
+                            <p><rs type="iconography" ref="#FortyMartyrs_martyrdom">Martyrdom of the Forty Martyrs of Sebasteia</rs>
+                                  <rs type="iconography" ref="#FortyMartyrs"></rs>            
+                                  <rs type="iconography" ref="#hagiographic">hagiographic</rs>                               
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
