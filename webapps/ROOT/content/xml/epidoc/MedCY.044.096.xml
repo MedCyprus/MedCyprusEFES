@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Forty Martyrs of Sebaste’s poem</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>              
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially faded.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, northwest recess, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. The words TOY, TO and OY in ligatures, with the tau emerging from the upsilon and omicron respectively, and upsilon in ligature OY from omicron. Short, horizontal lines in the middle of the vertical bar of tau and at the bottom of the upsilon. Big, wavy line above the abbreviations. Double dots after the words ἐνθάδε, μαρτύρων and βία; middle points after the words ἀκούσης and βλέπουσιν. Almost systematic use of accents and breathings. Letter height: <height unit="cm">4</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. TOY, TO and OY joined in ligatures, with the tau emerging from the upsilon and omicron respectively, and upsilon in ligature OY from omicron. Short, horizontal lines in the middle of the vertical bar of tau and at the bottom of the upsilon. Big, wavy line above the abbreviations. Double dots after the words ἐνθάδε, μαρτύρων and βία; middle points after the words ἀκούσης and βλέπουσιν. Almost systematic use of accents and breathings. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                     <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#FortyMartyrs_martyrdom">Martyrdom of the Forty Martyrs of Sebaste</rs></p>
+                            <p><rs type="iconography" ref="#FortyMartyrs_martyrdom">Martyrdom of the Forty Martyrs of Sebasteia</rs>
+                                  <rs type="iconography" ref="#FortyMartyrs"></rs>            
+                                  <rs type="iconography" ref="#hagiographic">hagiographic</rs>                               
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -82,8 +85,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lg>
-               <l><lb n="1"/><g ref="#cross">+</g> <w lemma="χιμών">Χιμ<choice><orig>ῶ</orig><reg>ὼ</reg></choice>ν</w> τ<choice><orig>ό</orig><reg>ὸ</reg></choice> <w lemma="λυπῶ">λιπ<choice><orig>ό</orig><reg>ο</reg></choice><supplied reason="omitted">ῦ</supplied>ν</w> <w lemma="σάρξ">σ<choice><orig>ά</orig><reg>ὰ</reg></choice>ρξ</w> <hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi> <w lemma="πάσχω">πάσχον</w> <w lemma="ἐνθάδε"><choice><orig>ε</orig><reg>ἐ</reg></choice>νθάδε</w>:</l><l><w lemma="προέχω"><supplied reason="lost">προσσ</supplied>χὸν</w> <w lemma="ἀκούω"><choice><orig>α</orig><reg>ἀ</reg></choice>κ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ύ</reg></choice></hi>σ<choice><orig>ὶ</orig><reg>ι</reg></choice>ς</w> <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <w lemma="στεναγμός">στεναγμ<choice><orig>ω</orig><reg>ὼ</reg></choice><unclear>ν</unclear></w> <choice><orig><expan><abbr>μ</abbr><ex>α</ex><abbr>ρ</abbr><ex>τύρων</ex></expan></orig><reg></reg></choice> <expan><abbr>μ</abbr><ex>α</ex><abbr>ρ</abbr><ex>τύρων</ex></expan>:</l>
-    <l><lb n="2"/><supplied reason="lost">εἰ δ'</supplied> ο<choice><orig>υ</orig><reg>ὐ</reg></choice>κ <w lemma="ἀκούω">ἀκο<supplied reason="lost">ύσ</supplied>ης</w>· <w lemma="καρτερῶ">καρτεροῦσι</w> τ<choice><orig>η</orig><reg>ῇ</reg></choice> <w lemma="βία">βί<choice><orig>α</orig><reg>ᾳ</reg></choice></w>:</l><l>πρ<choice><orig>o</orig><reg>ὸ</reg></choice>ς τ<choice><orig>α</orig><reg>ὰ</reg></choice> <w lemma="στέφος">στέφι</w> <w lemma="βλέπω">βλέπουσιν</w>·<hi rend="ligature">οὐ</hi> πρὸς <hi rend="ligature">το<choice><orig>υ</orig><reg>ὺ</reg></choice></hi>ς <w lemma="πόνος">πόν<hi rend="ligature">ου</hi>ς</w><g ref="#cross">+</g></l>
+               <l><lb n="1"/><g ref="#cross">+</g> <w lemma="χειμών"><choice><sic>Χιμ<choice><orig>ῶ</orig><reg>ὼ</reg></choice>ν</sic><corr>χειμὼν</corr></choice></w> τ<choice><orig>ό</orig><reg>ὸ</reg></choice> <w lemma="λυπῶ"><choice><sic>λιπ<choice><orig>ό</orig><reg>ο</reg></choice><supplied reason="omitted">ῦ</supplied>ν</sic><corr>λυπο<supplied reason="omitted">ῦ</supplied>ν</corr></choice></w> <w lemma="σάρξ">σ<choice><orig>ά</orig><reg>ὰ</reg></choice>ρξ</w> <hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi> <w lemma="πάσχω">πάσχον</w> <w lemma="ἐνθάδε"><choice><orig>ε</orig><reg>ἐ</reg></choice>νθάδε</w>:</l><l><w lemma="προέχω"><choice><sic><supplied reason="lost">προσσ</supplied>χὸν</sic><corr>προσσχὼν</corr></choice></w> <w lemma="ἀκούω"><choice><sic><choice><orig>α</orig><reg>ἀ</reg></choice>κ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ύ</reg></choice></hi>σ<choice><orig>ὶ</orig><reg>ι</reg></choice>ς</sic><corr>ἀκούσεις</corr></choice></w> <expan><abbr rend="supraline">κ<am>`</am></abbr><ex>αὶ</ex></expan> <w lemma="στεναγμός"><choice><sic>στεναγμ<choice><orig>ω</orig><reg>ὼ</reg></choice><unclear>ν</unclear></sic><corr>στεναγμὸν</corr></choice></w> <w lemma="μάρτυρ"><choice><orig><expan><abbr rend="supraline">μ</abbr><ex>α</ex><abbr rend="supraline">ρ</abbr><ex>τύρων</ex></expan></orig><reg></reg></choice> <expan><abbr rend="supraline">μ</abbr><ex>α</ex><abbr rend="supraline">ρ</abbr><ex>τύρων</ex></expan></w><am>ʹ</am>:</l>
+    <l><lb n="2"/><supplied reason="lost">εἰ δ'</supplied> ο<choice><orig>υ</orig><reg>ὐ</reg></choice>κ <w lemma="ἀκούω"><choice><sic>ἀκο<supplied reason="lost">ύσ</supplied>ης</sic><corr>ἀκούσεις</corr></choice></w>· <w lemma="καρτερῶ">καρτεροῦσι</w> τ<choice><orig>η</orig><reg>ῇ</reg></choice> <w lemma="βία">βί<choice><orig>α</orig><reg>ᾳ</reg></choice></w>:</l><l>πρ<choice><orig>o</orig><reg>ὸ</reg></choice>ς τ<choice><orig>α</orig><reg>ὰ</reg></choice> <w lemma="στέφος"><choice><sic>στέφι</sic><corr>στέφη</corr></choice></w> <w lemma="βλέπω">βλέπουσιν</w>·<hi rend="ligature">οὐ</hi> πρὸς <hi rend="ligature">το<choice><orig>υ</orig><reg>ὺ</reg></choice></hi>ς <w lemma="πόνος">πόν<hi rend="ligature">ου</hi>ς</w><g ref="#cross">+</g></l>
                </lg>
                 </ab>
             </div>
