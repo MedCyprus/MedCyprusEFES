@@ -39,11 +39,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING
+                             <handNote>White letters against green background. Majuscule letters. Characters' size varies. First sigma with a tail. NHC joined in ligature. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="#TheophanesPoet">Theophanes the Poet</rs></p>
+                            <p><rs type="iconography" ref="#TheophanesPoet">Theophanes the Poet</rs>
+                            <rs type="iconography" ref="#hymnographer"></rs>
+                                  <rs type="iconography" ref="#monastic"></rs>
+                                  <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -75,7 +78,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                  <cb n="a"/>
+                    <lb n="1"/>Ὁ <persName type="sacred" key="TheophanesPoet"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>
+                   <cb n="b"/>
+                     <lb n="1"/><name type="forename" nymRef="#Θεοφάνης">Θεο
+                    <lb n="2" break="no"/>φά<hi rend="ligature">νης</hi></name>
+                     <lb n="3"/> Ὁ <addName type="epithet" key="Poet">Ποι<choice><orig>ή</orig><reg>η</reg></choice>
+                      <lb n="4" break="no"/>τ<choice><orig>ῆ</orig><reg>ή</reg></choice>ς</addName></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +94,7 @@
                 <p>Theophanes the Poet</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
