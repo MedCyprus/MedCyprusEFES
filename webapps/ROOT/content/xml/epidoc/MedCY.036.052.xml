@@ -7,7 +7,8 @@
             <titleStmt>
                 <title>Cryptograms</title>
                 <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +29,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, north recess, lunette, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -38,11 +39,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">2,5-5,5</height>
+                             <handNote>Black letters against white background. Majuscule letters. Characters' size varies.  The letters are scattered on each side and in-between the cross arms. Letters are abbreviations with lines above them. Letter height: <height unit="cm">2,5-5,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#CrossProcessional">Patriarchal cross</rs></p>
+                            <p>... <rs type="iconography" ref="#CrossProcessional">Patriarchal cross</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,14 +69,16 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-052-01.JPG"><desc>Bema, north recess, lunette, lower register, inscription</desc></graphic>
-         <graphic url="036-052-02.JPG"><desc>Bema, north recess, lunette, lower register, inscription</desc></graphic>
+         <graphic rend="primary" url="036-052-01.JPG"><desc>Cryptograms, inscription</desc></graphic>
+         <graphic url="036-052-02.JPG"><desc>Cryptograms, inscription</desc></graphic>
              </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                    <lb n="1"/><w lemma="φῶς"><expan><abbr rend="supraline">Φ</abbr><ex>ῶς</ex></expan></w><milestone unit="column"/><persName type="divine" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστού</ex></expan></persName>
+                   <lb n="2"/><expan><abbr rend="supraline">E</abbr><ex>λένη</ex></expan> <expan><abbr rend="supraline">E</abbr><ex>ὕρεν</ex></expan><milestone unit="column"/><expan><abbr rend="supraline">E</abbr><ex>λέους</ex></expan> <expan><abbr rend="supraline">E</abbr><ex>ρεισμα</ex></expan>
+                  <lb n="3"/><milestone unit="column" n="left"/><expan><abbr rend="supraline">Π</abbr><ex>άσι</ex></expan>
                </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +88,7 @@
                 <p>PENDING</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
