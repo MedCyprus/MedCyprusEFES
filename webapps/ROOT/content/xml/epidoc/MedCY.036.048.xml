@@ -7,7 +7,8 @@
             <titleStmt>
                 <title>Saint Theophanes the Poet</title>
                 <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -34,7 +35,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -42,7 +43,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#TheophanesPoet">Theophanes the Poet</rs></p>
+                            <p>... <rs type="iconography" ref="#TheophanesPoet">Theophanes the Poet</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,7 +69,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-048-01.JPG"><desc>Bema, east vault, south side, lower register, on the east inscription</desc></graphic>
+         <graphic rend="primary" url="036-048-01.JPG"><desc>Saint Theophanes the Poet, on the east inscription</desc></graphic>
              </facsimile>
     <text>
         <body>
