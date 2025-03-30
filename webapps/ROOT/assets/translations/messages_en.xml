@@ -33,4 +33,11 @@
   <message key="facet-monument_function">Function of Monument</message>
   <message key="facet-placement">Placement</message>
   <message key="facet-iconography">Iconography</message>
+  
+  <message key="facet-iconography_scenes">Narrative Scenes</message>
+  <message key="facet-iconography_scene_categories">Narrative Scene Categories</message>
+  <message key="facet-iconography_individual_figures">Individual Figures</message>
+  <message key="facet-iconography_individual_figures_categories">Individual Figure Categories</message>
+  <message key="facet-iconography_gender">Individual Figure Gender</message>
+  <message key="facet-iconography_structures_objects_symbols">Structures - Objects - Symbols</message>
 </catalogue>
