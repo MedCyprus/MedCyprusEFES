@@ -41,8 +41,8 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Supplicant_Donor">Donor composition (14th c.): Nikephoros Ischyrios presents a model of the church to the enthroned Christ, with the mediation of the Virgin; standing behind him, in smaller scale, the deceased Gefyra.</rs>
-                                <rs type="iconography" ref="#NikephorosIschyrios"></rs>
+                            <p><rs type="iconography" ref="#NikephorosIschyrios">Donor composition (14th c.): Nikephoros Ischyrios presents a model of the church to the enthroned Christ, with the mediation of the Virgin; standing behind him, in smaller scale, the deceased Gefyra.</rs>
+                                <rs type="iconography" ref="#Supplicant_Donor"></rs>
                                 <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
