@@ -41,9 +41,12 @@
                             </handNote>
                          </handDesc>
                         <decoDesc>
-                              <p><rs type="iconography" ref="#IoannisGerakiotes">Ioannes and Eirene Gerakiotes</rs>                            
+                              <p><rs type="iconography" ref="#IoannesGerakiotes">Ioannes and Eirene Gerakiotes</rs>                            
                              <rs type="iconography" ref="#EireneGerakiotes"></rs>
-                             <rs type="iconography" ref="#donor"></rs></p>
+                             <rs type="iconography" ref="#Supplicant-Donor"></rs>
+                             <rs type="iconography" ref="#male"></rs>
+                             <rs type="iconography" ref="#female"></rs>
+                              </p>
                         </decoDesc>
                     </physDesc>
                     <history>
