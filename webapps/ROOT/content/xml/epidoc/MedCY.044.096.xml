@@ -91,7 +91,10 @@
                 </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <listApp>
+                    <app loc="1"><rdg source="#Buckler1933">Χιμῶ<unclear>ν</unclear>[ος]</rdg><rdg source="#Buckler1933">[κρυ]μὸν</rdg><rdg source="#Buckler1933">ἐνθάδ[ε]</rdg><rdg source="#Buckler1933">[γόου]ς</rdg><rdg source="#Buckler1933">κὲ</rdg><rdg source="#Buckler1933">στεναγμὼν</rdg></app>
+                    <app loc="2"><rdg source="#Buckler1933">[πάγ]ου</rdg><rdg source="#Buckler1933">κα[μόντ]ες</rdg><rdg source="#Buckler1933">πρ<unclear>ὸ</unclear>[ς τὰ νέ]φι</rdg></app>
+                </listApp>
             </div>
             <div type="translation">
                 <p>Winter (brings) the pain, flesh the suffering here. 
@@ -100,10 +103,12 @@
                    Looking to the crowns, not to the toils. ( <ptr target="#Ševčenko2012"/>, 72)</p>
             </div>
             <div type="commentary">
-                <p>Partially preserved. A significant destruction in the middle of the first line and other faded spots in the beginning of the first and second line. The inscription is made up of two lines, which correspond to four verses. A cross with arrays in the angles marks the beginning and the end of the poem. Τhe double dots after the words ἐνθάδε, μαρτύρων and βία denote the end of the verses, while the middle points after the words ἀκούσης and βλέπουσιν the caesura. The words χειμών, προσχών, ἀκούσεις, as well στέφη are misspelled. The two abbreviations ΜΡ with the superposition of the letter rho in the end of the first line denote the plural form of the word μάρτυρ (μάρτυρες-μαρτύρων). The text constitutes a version of a poem composed in the early tenth century by John Geometres, which enjoyed great popularity in Byzantium and has survived in several manuscripts. Τwo deviations from the poem of Geometres: in verse 3 τῇ βίᾳ (Geometres: τὴν βίαν) and in verse 4 βλέπουσιν (Geometres: βλέποντες). Although composed for another occasion, the epigram is well suited to the iconography of the scene at Asinou. It has never been selected to be inscribed on any other image of the Martyrdom of the Forty Martyrs of Sebaste known to date (<ptr target="#Lauxterman2003"/>, 149-50, 298-9; <ptr target="#Maguire1977"/>, 152; <ptr target="#Maguire1996"/>, 12-3; <ptr target="#Rhoby2009"/>, 350-2; <ptr target="Ševčenko2012"/>, 70-2).</p>
+                <p>A significant destruction in the middle of the first line and other faded spots in the beginning of the first and second line. The inscription is made up of two lines, which correspond to four verses. A cross with arrays in the angles marks the beginning and the end of the poem. Τhe double dots after the words ἐνθάδε, μαρτύρων and βία denote the end of the verses, while the middle points after the words ἀκούσης and βλέπουσιν the caesura. The two abbreviations ΜΡ with the superposition of the letter rho in the end of the first line denote the plural form of the word μάρτυρ (μάρτυρες-μαρτύρων). The text constitutes a version of a poem composed in the early tenth century by John Geometres, which enjoyed great popularity in Byzantium and has survived in several manuscripts. Τwo deviations from the poem of Geometres: in verse 3 τῇ βίᾳ (Geometres: τὴν βίαν) and in verse 4 βλέπουσιν (Geometres: βλέποντες). Although composed for another occasion, the epigram is well suited to the iconography of the scene at Asinou. It has never been selected to be inscribed on any other image of the Martyrdom of the Forty Martyrs of Sebaste known to date (<ptr target="#Lauxterman2003"/>, 149-50, 298-9; <ptr target="#Maguire1977"/>, 152; <ptr target="#Maguire1996"/>, 12-3; <ptr target="#Rhoby2009"/>, 350-2; <ptr target="Ševčenko2012"/>, 70-2).</p>
             </div>
             <div type="bibliography">
                    <listBibl>
+                    <bibl><ptr target="#Buckler1933"/>, <citedRange>340</citedRange></bibl>
+                       
                    <bibl><ptr target="#Papageorgiou2003"/>,<citedRange> 108</citedRange></bibl>   
                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 56</citedRange></bibl>   
                    <bibl><ptr target="#Maguire1996"/>,<citedRange> 12</citedRange></bibl>
