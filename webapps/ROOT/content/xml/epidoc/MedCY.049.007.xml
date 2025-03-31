@@ -43,10 +43,10 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#CommunionApostlesMetalepsis">Communion of the Apostles, Metalepsis (Offering of the Wine), Christ</rs>
+                                <rs type="iconography" ref="#CommunionApostles"></rs>
                                 <rs type="iconography" ref="#Christ"></rs>
-                                <rs type="iconography" ref="#divine"></rs>
-                                
-                                <rs type="iconography" ref="#male"></rs>
+                                <rs type="iconography" ref="#christological"></rs>
+                                <rs type="iconography" ref="#liturgical"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
