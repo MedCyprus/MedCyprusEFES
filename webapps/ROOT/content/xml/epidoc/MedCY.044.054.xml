@@ -42,8 +42,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#donor">Donor portraits</rs>
-                                  <rs type="iconography" ref="#IschyrioiFamily"></rs></p>
+                            <p><rs type="iconography" ref="#Gephyra">Gephyra (14th-c. portrait)</rs>
+                               <rs type="iconography" ref="#Supplicant_Deceased"></rs>
+                               <rs type="iconography" ref="#female"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
