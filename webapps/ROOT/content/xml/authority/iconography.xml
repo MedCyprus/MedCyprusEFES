@@ -155,10 +155,7 @@
                 </item>
                 <item xml:id="Oldtestament">
                     <term xml:lang="en">Old Testament</term>
-                </item>
-                <item xml:id="portraits">
-                    <term xml:lang="en">Donor portraits or other</term>
-                </item>
+                </item>               
                 <item xml:id="vision">
                     <term xml:lang="en">Vision, prophetic or other</term>
                 </item>
@@ -770,19 +767,13 @@
                 </item>
                 <item xml:id="deacon">
                     <term xml:lang="en">Deacon</term>
-                </item>
-                <item xml:id="deceased">
-                    <term xml:lang="en">Deceased</term>
-                </item>
+                </item>                
                 <item xml:id="divine">
                     <term xml:lang="en">Divine</term>
                 </item>
                 <item xml:id="doctor">
                     <term xml:lang="en">Doctor</term>
-                </item>
-                <item xml:id="donor">
-                    <term xml:lang="en">Donor</term>
-                </item>
+                </item>                
                 <item xml:id="evangelist">
                     <term xml:lang="en">Evangelist</term>
                 </item>
@@ -816,8 +807,14 @@
                 <item xml:id="stylite">
                     <term xml:lang="en">Stylite</term>
                 </item>
-                <item xml:id="supplicant">
-                    <term xml:lang="en">Supplicant</term>
+                <item xml:id="Supplicant_Donor">
+                    <term xml:lang="en">Supplicant, donor</term>
+                </item>
+                <item xml:id="Supplicant_Deceased">
+                    <term xml:lang="en">Supplicant, deceased</term>
+                </item>
+                <item xml:id="Supplicant_Other">
+                    <term xml:lang="en">Supplicant, other</term>
                 </item>
             </list>
 
