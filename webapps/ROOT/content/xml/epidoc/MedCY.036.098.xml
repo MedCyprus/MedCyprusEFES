@@ -42,7 +42,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#ChristAntiphonetes">Christ Antiphonetes</rs></p>
+                            <p><rs type="iconography" ref="#ChristAntiphonetes">Christ Antiphonetes</rs>
+                            <rs type="iconography" ref="#Christ"></rs>                             
+                            <rs type="iconography" ref="#divine"></rs> 
+                            <rs type="iconography" ref="#male"></rs>  
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
