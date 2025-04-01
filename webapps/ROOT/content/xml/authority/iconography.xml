@@ -218,10 +218,7 @@
                 </item>
                 <item xml:id="Aphthonios">
                     <term xml:lang="en">Aphthonios</term>
-                </item>
-                <item xml:id="archangel_unidentified">
-                    <term xml:lang="en">Archangel, unidentified</term>
-                </item>
+                </item>                
                 <item xml:id="Arsenios">
                     <term xml:lang="en">Arsenios</term>
                 </item>
@@ -853,6 +850,9 @@
                 </item>
                 <item xml:id="keramidion">
                     <term xml:lang="en">Keramidion</term>
+                </item>
+                <item xml:id="labarum">
+                    <term xml:lang="en">Labarum</term>
                 </item>
                 <item xml:id="mandylion">
                     <term xml:lang="en">Mandylion</term>
