@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Panteleimon">Panteleimon</rs></p>
+                            <p><rs type="iconography" ref="#Panteleimon">Panteleimon</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
