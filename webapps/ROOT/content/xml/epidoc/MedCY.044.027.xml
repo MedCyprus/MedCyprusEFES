@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. Poorly preserved.</objectType></rs>
                                     <rs type="placement-building" ref="#bema">Bema, northeast recess, lunette, upper register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -37,11 +37,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. ΟΥ, ΝΝ, ΤΗ, ΗΝ in ligatures. Accents and breathings systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. ΟΥ, ΝΝ, ΤΗ, ΗΝ joined in ligatures. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#BirthVirgin">Birth of the Virgin</rs></p>
+                            <p><rs type="iconography" ref="#BirthVirgin">Birth of the Virgin</rs>
+                                   <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,15 +68,15 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-027-01.JPG"><desc>Bema, northeast recess, lunette, upper register, inscription </desc></graphic>
-        <graphic url="044-027-02.JPG"><desc>Bema, northeast recess, lunette,upper register, general view </desc></graphic>
-        <graphic url="044-027-03.JPG"><desc>Bema, northeast recess, lunette, upper register, general view </desc></graphic>
+         <graphic rend="primary" url="044-027-01.JPG"><desc>Birth of the Virgin verse inscription</desc></graphic>
+        <graphic url="044-027-02.JPG"><desc>Birth of the Virgin verse inscription, general view </desc></graphic>
+        <graphic url="044-027-03.JPG"><desc>Birth of the Virgin verse inscription, general view </desc></graphic>
         </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <lg met="Dodecasyllable">
-                    <l n="1"><lb n="1"/><g ref="#cross">+</g> ἡ <persName type="sacred" key="Virgin"><w lemma="παρθένος">Παρθένου</w></persName> <w lemma="γέννησις">γ<choice><orig>ε</orig><reg>έ</reg></choice>ννησις</w>, <choice><orig>ἠ</orig><reg>ἡ</reg></choice> <w lemma="σωτηρία">σοτηρία</w></l>
+                    <l n="1"><lb n="1"/><g ref="#cross">+</g> ἡ <persName type="sacred" key="Virgin"><w lemma="Παρθένος">Παρθένου</w></persName> <w lemma="γέννησις">γ<choice><orig>ε</orig><reg>έ</reg></choice>ννησις</w>, <choice><orig>ἠ</orig><reg>ἡ</reg></choice> <w lemma="σωτηρία">σοτηρία</w></l>
                     <l n="2"><lb n="2"/><w lemma="χαίρω">χάριθη</w> <w lemma="κόσμε">κόσμαι</w>, <w lemma="σή">σὴν</w> <w lemma="ἀνάστασις">ἀνάστασην</w> 
                     <lb n="3"/><space extent="17" unit="character"></space><w lemma="βλέπω">βλέπων</w>.</l>
                 </lg> 
@@ -87,7 +88,7 @@
                 <p>The birth of the Virgin, salvation. Rejoice, O world, seeing your resurrection.</p>
             </div>
             <div type="commentary">
-                <p>Poor condition. Partially preserved. A cross with rays in the angles marks the beginning of the text. The words σωτηρία, χάρηθι, κόσμε, ανάστασιν are misspelled. Accents and breathings with errors.</p>
+                <p>A cross with rays in the angles marks the beginning of the text. The words σωτηρία, χάρηθι, κόσμε, ανάστασιν are misspelled. Accents and breathings with errors.</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
