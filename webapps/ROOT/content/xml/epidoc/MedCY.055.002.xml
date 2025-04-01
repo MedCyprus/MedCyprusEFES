@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Matthew' s gospel</title>
+                <title>Matthew' s codex</title>
                 <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -31,7 +31,7 @@
                                     </support>
                             </supportDesc>
                              <layoutDesc>
-                                <layout>The inscription appears on the open gospel held in the left hand by the evangelist</layout>
+                                <layout>The inscription appears on the open codex held in the left hand by the evangelist</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -39,7 +39,12 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Matthew">Matthew's gospel</rs></p>
+                            <p><rs type="iconography" ref="#Matthew">Matthew's codex</rs>
+                            <rs type="iconography" ref="#evangelist"></rs>
+                            <rs type="iconography" ref="#apostle"></rs>    
+                            <rs type="iconography" ref="#male"></rs>   
+                            <rs type="iconography" ref="#codex"></rs>
+                            </p>
                             </decoDesc>
                     </physDesc>
                     <history>
