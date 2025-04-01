@@ -851,6 +851,9 @@
                 <item xml:id="crosstablet">
                     <term xml:lang="en">Tablet</term>
                 </item>
+                <item xml:id="icon">
+                    <term xml:lang="en">Icon</term>
+                </item>
                 <item xml:id="keramidion">
                     <term xml:lang="en">Keramidion</term>
                 </item>
