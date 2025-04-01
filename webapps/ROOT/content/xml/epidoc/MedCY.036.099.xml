@@ -43,7 +43,8 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#ChristAntiphonetes">Christ Antiphonetes</rs>
-                            <rs type="iconography" ref="#Christ"></rs>   
+                            <rs type="iconography" ref="#Christ"></rs>
+                                <rs type="iconography" ref="#divine"></rs> 
                             <rs type="iconography" ref="#male"></rs>   
                             <rs type="iconography" ref="#codex"></rs>
                             </p>
