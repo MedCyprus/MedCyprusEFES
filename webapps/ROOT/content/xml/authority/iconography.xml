@@ -841,6 +841,9 @@
             <list type="structures_objects_symbols" xml:id="structures_objects_symbols">
                 <head>Structures - Objects - Symbols</head>
 
+                <item xml:id="codex">
+                    <term xml:lang="en">Codex</term>
+                </item>
                 <item xml:id="crossprocessional">
                     <term xml:lang="en">Cross, processional</term>
                     <!--Do we want to distinguish type of crosses? E.g., Patriarchal, Latin, processional etc.?-->
@@ -853,6 +856,9 @@
                 </item>
                 <item xml:id="mandylion">
                     <term xml:lang="en">Mandylion</term>
+                </item>
+                <item xml:id="scroll">
+                    <term xml:lang="en">Scroll</term>
                 </item>
                 <item xml:id="sphere">
                     <term xml:lang="en">Sphere</term>
