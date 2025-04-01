@@ -41,10 +41,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#Moses">Moses</rs>
-                                
+                            <p><rs type="iconography" ref="#Moses">Moses</rs>                                
                                 <rs type="iconography" ref="#prophet"></rs>
                                 <rs type="iconography" ref="#male"></rs>
+                                <rs type="iconography" ref="#scroll"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
