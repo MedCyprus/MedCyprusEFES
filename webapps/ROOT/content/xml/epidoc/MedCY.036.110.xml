@@ -34,7 +34,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the labarum that Archangel is holding in his right hand.</layout>
+                                <layout>The inscription appears on the labarum that Archangel Michael is holding in his right hand.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -42,7 +42,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Michael">Archangel Michael</rs></p>
+                            <p><rs type="iconography" ref="#Michael">Archangel Michael</rs>
+                            <rs type="iconography" ref="#archangel"></rs> 
+                            <rs type="iconography" ref="#genderless"></rs>   
+                            <rs type="iconography" ref="#labarum"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
