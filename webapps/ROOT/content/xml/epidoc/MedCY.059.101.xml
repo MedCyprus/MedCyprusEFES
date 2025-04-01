@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#TheodosiosCenobiarch">Theodosios the Cenobiarch</rs>
+                            <p><rs type="iconography" ref="#TheodosiosCenobiarch">Theodosios the Cenobiarch</rs>
                             <rs type="iconography" ref="#monastic"></rs> 
                             <rs type="iconography" ref="#male"></rs>   
                             <rs type="iconography" ref="#scroll"></rs>
