@@ -41,7 +41,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Gabriel">Gabriel</rs></p>
+                            <p><rs type="iconography" ref="#Gabriel">Gabriel</rs>
+                                  <rs type="iconography" ref="#archangel">
+                                  <rs type="iconography" ref="#genderless"></rs>
+                                  </rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
