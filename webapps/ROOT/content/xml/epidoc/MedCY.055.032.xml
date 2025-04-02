@@ -39,7 +39,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#crossprocessional">cross, patriarchal</rs></p>
+                            <p><rs type="iconography" ref="#crossprocessional">cross, patriarchal</rs>
+                            <rs type="iconography" ref="#Constantine"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#imperial"></rs>
+                            <rs type="iconography" ref="#sphere"></rs></p>
                         <!--or Sphere?--></decoDesc>
                     </physDesc>
                     <history>
