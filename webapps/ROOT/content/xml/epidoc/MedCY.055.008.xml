@@ -39,8 +39,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#VirginAnnunciation">Virgin, Annunciation</rs></p>
-                            </decoDesc>
+                            <p><rs type="iconography" ref="#Annunciation">Annunciation, Virgin</rs>
+                                   <rs type="iconography" ref="#Virgin"></rs>
+                                   <rs type="iconography" ref="#christological"></rs></p>
+                        </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
