@@ -96,7 +96,8 @@
             <div type="bibliography"> 
                  <listBibl>
                      <bibl><ptr target="#Rhoby2009"/>, <citedRange>352</citedRange></bibl> 
-                     <bibl><ptr target="#Ševčenko2012"/>, <citedRange>73-74</citedRange></bibl>             
+                     <bibl><ptr target="#Ševčenko2012"/>, <citedRange>73-74</citedRange></bibl>
+                     <bibl><author>Carr </author>in <ptr target="#VisCult"/><citedRange> 1, 184-86</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
