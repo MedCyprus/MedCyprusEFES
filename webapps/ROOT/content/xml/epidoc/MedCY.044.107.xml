@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Anastasia Saramalyna's invocation</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#narthex">Narthex, south conch, semicylindrical wall, west side</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. The inscription is written entirely in majuscule. Characters' size varies. Delta is formed with a lambda on a horizontal bar. Eta with a short, thin line on its horizontal bar. Nu with its central bar forms a vertical, zig zag line. Middle dot after Anastasias and double point with a hyphen after Σαραμαλύνας. Letters TH, OY, AN, ΑΡ and AM in ligatures. The word endings -ης in δούλης and -ας in Ἀναστασίας are rendered with tachygraphic signs. Horizontal wavy lines above the abbreviations of δέησις and Θεού. Systematic use of accents and breathings of the modern variety (circular). Letter height: <height unit="cm">2,5</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Delta is formed with a lambda on a horizontal bar. Eta with a short, thin line on its horizontal bar. Nu with its central bar forms a vertical, zig zag line. Middle dot after Anastasias and double point with a hyphen after Σαραμαλύνας. TH, OY, AN, ΑΡ and AM joined in ligatures. The word endings -ης in δούλης and -ας in Ἀναστασίας are rendered with tachygraphic signs. Horizontal wavy lines above the abbreviations of δέησις and Θεού. Systematic use of accents and breathings of the modern variety (circular). Letter height: <height unit="cm">2,5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#AnastasiaSaramalyna_MedCY044">Anastasia Saramalyna</rs></p>
+                            <p><rs type="iconography" ref="#AnastasiaSaramalyna_MedCY044">Anastasia Saramalyna</rs>
+                                  <rs type="iconography" ref="#Supplicant_Other"></rs>
+                                  <rs type="iconography" ref="#female"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,32 +70,38 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-107-01.JPG"><desc>Narthex, south conch, semicylindrical wall, west side,  inscription detail</desc></graphic>
-        <graphic url="044-107-02.JPG"><desc>Narthex, south conch, semicylindrical wall, west side, inscription</desc></graphic>
-        <graphic url="044-107-03.JPG"><desc>Narthex, south conch, semicylindrical wall, west side, general view</desc></graphic>
-        <graphic url="044-107-04.JPG"><desc>Narthex, south conch, semicylindrical wall, west side, general view</desc></graphic>
+         <graphic rend="primary" url="044-107-01.JPG"><desc>Anastasia Saramalyna's invocation, inscription detail</desc></graphic>
+        <graphic url="044-107-02.JPG"><desc>Anastasia Saramalyna's invocation, inscription</desc></graphic>
+        <graphic url="044-107-03.JPG"><desc>Anastasia Saramalyna's invocation, general view</desc></graphic>
+        <graphic url="044-107-04.JPG"><desc>Anastasia Saramalyna's invocation, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                <ab>
-                   <lb n="1"/><w lemma="δέησις"><expan><abbr rend="supraline">Δέ</abbr><ex>ησις</ex></expan></w> <hi rend="ligature">τῆ</hi>ς <w lemma="δούλη">δ<hi rend="ligature">ού</hi>λ<hi rend="ligature">ης</hi></w> τ<hi rend="ligature">οῦ</hi> <persName type="divine" key="God"><name nymRef="#Θεός"><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></w></name></persName> <persName type="attested" role="donor" ref="#AnastasiaSaramalyna"><name nymRef="#Ἀναστασία" type="forename"><hi rend="ligature">Ἀν</hi>αστασί<expan><ex>ας·</ex></expan>
-                   <lb n="2"/> <hi rend="ligature">τῆ</hi>ς <name nymRef="#Σαραμαλύνα" type="surname">Σ<hi rend="ligature">αρ</hi><hi rend="ligature">αμ</hi>άλυνας:-</name></name></persName>
+                   <lb n="1"/><w lemma="δέησις"><expan><abbr rend="supraline">Δέ</abbr><ex>ησις</ex></expan></w> <hi rend="ligature">τῆ</hi>ς <w lemma="δούλη"><expan><abbr>δ<hi rend="ligature">ού</hi>λ<hi rend="ligature"></hi></abbr><ex>ης</ex></expan></w> τ<hi rend="ligature">οῦ</hi> <persName type="divine" key="God"><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></w></persName> <persName type="attested" role="donor" ref="#AnastasiaSaramalyna"><name nymRef="#Ἀναστασία" type="forename"><hi rend="ligature"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>ν</hi>αστασί<expan><ex>ας</ex></expan>·
+                   <lb n="2"/> <hi rend="ligature">τῆ</hi>ς <name nymRef="#Σαραμαλύνα" type="surname">Σ<hi rend="ligature">αρ</hi><hi rend="ligature">αμ</hi><choice><orig>ά</orig><reg>α</reg></choice>λ<choice><orig>υ</orig><reg>ύ</reg></choice>νας:-</name></name></persName>
                </ab> 
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <listApp>
+                    <app loc="1"><rdg source="#Stylianou1960">ΔΟΥ(ΛΗC)</rdg><rdg source="#Buckler1933">Ἀναστασίας</rdg><rdg source="#Stylianou1960">ΑΝΑCΤΑC(ΙΑC)</rdg></app>
+                    <app loc="2"><rdg source="#Buckler1933">Σαραμαλυνᾶς</rdg></app>
+                </listApp>
                  </div>
             <div type="translation">
                 <p> Invocation of the servant of God Anastasia Saramalyna </p> 
             </div>
             <div type="commentary">
-                <p>Good condition.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl><ptr target="#Stylianou1960"/>,<citedRange> 107</citedRange></bibl>
-                    <bibl><ptr target="#Kalopissi-Verti2012"/>,<citedRange> 116</citedRange></bibl>
+                    <bibl><ptr target="#Buckler1933"/>, <citedRange>338</citedRange></bibl>
+                    <bibl><ptr target="#Stylianou1960"/>, <citedRange>106</citedRange></bibl>
+                    
+                    
+                    <!--<bibl><ptr target="#Kalopissi-Verti2012"/>,<citedRange> 116</citedRange></bibl>-->
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
