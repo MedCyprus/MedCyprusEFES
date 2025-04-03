@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint John the Forerunner</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>               
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#JohnForerunner">John the Forerunner</rs></p>
+                            <p><rs type="iconography" ref="#JohnForerunner">John the Forerunner</rs>
+                                   <rs type="iconography" ref="#prophet"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,8 +70,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-156-01.JPG"><desc>Naos, north wall, lower register, west of the north entrance, inscription</desc></graphic>
-        <graphic url="036-156-02.JPG"><desc>Naos, lower register, west of the north entrance, general view</desc></graphic>
+         <graphic rend="primary" url="036-156-01.JPG"><desc>Saint John the Forerunner, inscription</desc></graphic>
+        <graphic url="036-156-02.JPG"><desc>Saint John the Forerunner, general view</desc></graphic>
        </facsimile>
     <text>
         <body>
