@@ -744,6 +744,8 @@
                     <persName xml:lang="en" type="epithet" subtype="Eleousa">Eleousa</persName>
                     <persName xml:lang="grc" type="epithet" subtype="Virgin" key="Pantanassa">Παντάνασσα</persName>
                     <persName xml:lang="en" type="epithet" subtype="Virgin" key="Pantanassa">Queen of all</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Phorbiotissa">Φορβιώτισσα</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Phorbiotissa">Phorbiotissa</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q345</idno>
                     <note>See also: Theotokos, Virgin, Maria</note>
                 </person>
