@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Virgin Phorbiotissa</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#narthex">Narthex, east wall, lunette, above the western entrance</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background.The inscription is written entirely in majuscule. Characters' size varies. Mu, with its middle bar split into two parts, the upper part in the shape of an upsilon above a iota-shaped element with a dot at the top. Short lines suspending from the horizontal bars of eta and theta. The sigla Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a wavy line above each word. There is a ligature of the letters ΜΗΡ. The epithet ἡ Φορβιώτισσα is divided in two columns. Sporadic use of accents and breathings. Systematic use of accents and breathings of the modern variety (circular).
+                            <handNote>White letters against blue background. Majuscule. Characters' size varies. Mu, with its middle bar split into two parts, the upper part in the shape of an upsilon above a iota-shaped element with a dot at the top. Short lines suspending from the horizontal bars of eta and theta. The sigla Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a wavy line above each word. ΜΗΡ joined in ligature. The epithet ἡ Φορβιώτισσα is divided in two columns. Sporadic use of accents and breathings. Systematic use of accents and breathings of the modern variety (circular).
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#VirginBlachernitissa">Virgin Blachernitissa</rs></p>
+                            <p><rs type="iconography" ref="#VirginBlachernitissa">Virgin Blachernitissa</rs>
+                                   <rs type="iconography" ref="#female"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,18 +69,18 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-101-01.JPG"><desc>Narthex, east wall, lunette, above the western entrance, inscription</desc></graphic>
-        <graphic url="044-101-02.JPG"><desc>Narthex, east wall, lunette, above the western entrance, inscription detail</desc></graphic>
-        <graphic url="044-101-03.JPG"><desc>Narthex, east wall, lunette, above the western entrance, inscription detail</desc></graphic>
-        <graphic url="044-101-04.JPG"><desc>Narthex, east wall, lunette, above the western entrance, general view</desc></graphic>
-        <graphic url="044-101-05.JPG"><desc>Narthex, east wall, lunette, above the western entrance, general view</desc></graphic>
+         <graphic rend="primary" url="044-101-01.JPG"><desc>Virgin Phorbiotissa, inscription</desc></graphic>
+        <graphic url="044-101-02.JPG"><desc>Virgin Phorbiotissa, inscription detail</desc></graphic>
+        <graphic url="044-101-03.JPG"><desc>Virgin Phorbiotissa, inscription detail</desc></graphic>
+        <graphic url="044-101-04.JPG"><desc>Virgin Phorbiotissa, general view</desc></graphic>
+        <graphic url="044-101-05.JPG"><desc>Virgin Phorbiotissa, general view</desc></graphic>
             </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><persName type="sacred" key="MeterTheou"><addName nymRef="#Μήτηρ Θεοῦ"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
-                    <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></addName></persName> 
+                   <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
+                    <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName> 
                    <lb n="2"/>Ἡ <addName type="epithet" key="Phorbiotissa">Φορβ<choice><orig>ῖ</orig><reg>ι</reg></choice> <milestone unit="column" n="right"/>ότισσα</addName>        
               </ab>
             </div>
@@ -90,7 +91,7 @@
                 <p>Mother of God Phorbiotissa</p> 
             </div>
             <div type="commentary">
-                <p>Very good condition. The epithet Φορβιώτισσα is misspelled.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
