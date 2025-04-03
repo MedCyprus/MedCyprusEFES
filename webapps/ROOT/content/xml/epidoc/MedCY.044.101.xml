@@ -79,13 +79,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
-                    <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName> 
-                   <lb n="2"/>Ἡ <addName type="epithet" key="Phorbiotissa">Φορβ<choice><orig>ῖ</orig><reg>ι</reg></choice> <milestone unit="column" n="right"/>ότισσα</addName>        
+                   <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μή</abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
+                    <milestone unit="column" n="right"/><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></w></persName> 
+                   <lb n="2"/>Ἡ <addName type="epithet" key="Phorbiotissa"><choice><sic>Φορβ<choice><orig>ῖ</orig><reg>ι</reg></choice> <milestone unit="column" n="right"/>ότισσα</sic><corr>Φορβιώτισσα</corr></choice></addName>        
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <listApp><app loc="1"><rdg source="#Sacopoulo1966">Μ(ήτ)ηρ Θ(εο)ῦ</rdg><rdg source="#MoutafovRhoby2012"></rdg></app></listApp>
                  </div>
             <div type="translation">
                 <p>Mother of God Phorbiotissa</p> 
@@ -95,8 +95,10 @@
             </div>
             <div type="bibliography">
                 <listBibl> 
+                    <bibl><ptr target="#Buckler1933"/>, <citedRange>336</citedRange></bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>12</citedRange></bibl>
+                    <bibl><ptr target="#HadjichristodoulouMyrianthefs2009"/>, <citedRange>30</citedRange></bibl>
                     <bibl><ptr target="#MoutafovRhoby2012"/>,<citedRange> 185</citedRange></bibl>
-                   <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 12</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
