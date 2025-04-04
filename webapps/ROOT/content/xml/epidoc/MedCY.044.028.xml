@@ -5,9 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Birth of the Virgin, Bath of the infant Virgin, Virgin</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
+                <title>Birth of the Virgin, Bath of the infant Virgin, Virgin</title>               
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -42,7 +42,12 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#VirginBath">Bath of the infant Virgin</rs></p>
+                            <p><rs type="iconography" ref="#BirthVirgin">Birth of the Virgin, Bath of the infant Virgin, Virgin</rs>
+                            <rs type="iconography" ref="#VirginBath"></rs>
+                            <rs type="iconography" ref="#Virgin">
+                            <rs type="iconography" ref="#mariological"></rs>
+                            </rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

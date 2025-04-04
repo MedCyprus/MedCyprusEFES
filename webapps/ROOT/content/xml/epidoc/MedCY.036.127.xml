@@ -5,9 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nativity, Adoration of the Magi</title>
+                <title>Nativity, Adoration of the Magi</title>              
+                <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Nativity">Nativity, Adoration of the Magi</rs></p>
+                            <p><rs type="iconography" ref="#Nativity">Nativity, Adoration of the Magi</rs>
+                                   <rs type="iconography" ref="#AdorationMagi"></rs>
+                                   <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

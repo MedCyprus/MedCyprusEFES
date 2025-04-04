@@ -41,8 +41,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Nativity">Nativity</rs>
-                            <rs type="iconography" ref="iconography.xml#Nativity">Christ</rs></p>
+                            <p><rs type="iconography" ref="#Nativity">Nativity, Christ Child</rs>  
+                                  <rs type="iconography" ref="#ChristChild"></rs>         
+                                  <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
