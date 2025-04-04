@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Now lost.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, southeast recess, lunette, upper register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -42,7 +42,8 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#PresentationVirgin">Presentation of the Virgin to the Temple</rs></p>
+                            <p><rs type="iconography" ref="#PresentationVirgin">Presentation of the Virgin to the Temple</rs>
+                                   <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -78,12 +79,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <lg met="Dodecasyllable">
-                         <l> <lb n="1"/> τ<choice><orig>η</orig><reg>ὴ</reg></choice>ν <gap reason="lost" unit="character" quantity="3"/> αγ <gap reason="lost" unit="character" quantity="3"/><persName type="sacred" key="Panagia">Παναγία</persName><gap reason="lost" unit="character" quantity="3"/></l><l><lb n="2"/> <gap reason="lost" unit="character" quantity="3"/> σιειν <gap reason="lost" unit="character" quantity="3"/>ομένι <w lemma="κόρη">κόρι</w><gap reason="lost" unit="character" quantity="1"/></l><l><lb n="3"/>κ<gap reason="lost" unit="character" quantity="3"/>ε <gap reason="lost" unit="character" quantity="1"/> <unclear>χβ</unclear> <gap reason="lost" unit="character" quantity="3"/> ετα</l><l><lb n="4"/>ὁ</l><l><lb n="5"/><persName type="sacred" key="Zacharias"><name type="forename" nymRef="#Ζαχαρίας">Ζαχαρι</name></persName>
+                         <l> <lb n="1"/> τ<choice><orig>η</orig><reg>ὴ</reg></choice>ν <gap reason="lost" unit="character" quantity="3"/> αγ <gap reason="lost" unit="character" quantity="3"/><persName type="sacred" key="Panagia">Π<unclear>ανα</unclear>γία</persName><gap reason="lost" unit="character" quantity="3"/></l><l><lb n="2"/> <gap reason="lost" unit="character" quantity="3"/> σιειν <gap reason="lost" unit="character" quantity="3"/>ομένι <w lemma="κόρη"><choice><sic>κόρι</sic><corr>κόρη</corr></choice></w><gap reason="lost" unit="character" quantity="1"/></l><l><lb n="3"/>κ<gap reason="lost" unit="character" quantity="3"/>ε <gap reason="lost" unit="character" quantity="1"/> <unclear>χβ</unclear> <gap reason="lost" unit="character" quantity="3"/> ετα</l><l><lb n="4"/>ὁ</l><l><lb n="5"/><persName type="sacred" key="Zacharias"><name type="forename" nymRef="#Ζαχαρίας">Ζαχαρι<supplied reason="lost">ας</supplied></name></persName>
                 </l>
                 </lg> 
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <listApp>
+                   <app loc="1"><rdg source="#Ševčenko2012">τὰ ἅγία τῶν ἁγίων</rdg></app>
+                   <app loc="2"><rdg source="#Ševčenko2012">[προσαγ]ομένη / [εἰσερχ]ομένη /[εἰσαγ]- ομένη / [κεκλει]ομένη κόρη</rdg></app>
+                   <app loc="3-5"><rdg source="#Ševčenko2012">[εὐφραίν]εται ὁ Ζαχαρί[ας] </rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>The [...] saint[...] Panagia[...]
@@ -97,7 +102,7 @@
 <p> Now lost. Ševčenko fills in some words, based on phrases frequently encountered in the troparia for the feast. For line 1 she suggests: τὰ ἅγια τῶν ἁγίων, for line 2: [προσαγ]ομένη / [εἰσερχ]ομένη / [εἰσαγ]ομένη / [κεκλει]ομένη κόρη, for lines 3-5: [εὐφραίν]εται ὁ Ζαχαρί[ας] (<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 74-5</citedRange>)</bibl>.</p></div>
             <div type="bibliography"> 
                  <listBibl>
-                <bibl><ptr target="#Ševčenko2012"/>, <citedRange> 74-5</citedRange></bibl>
+                <bibl><ptr target="#Ševčenko2012"/>, <citedRange>74-5</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
