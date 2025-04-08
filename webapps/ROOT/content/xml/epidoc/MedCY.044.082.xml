@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Dormition verse inscription</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, lunette, middle register, below the Dormition scene</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against yellow background. Majuscule letters. Chraracters' size varies. ΟΥ in ligature. Short, horizontal and vertical lines and dots decorate the horizontal bar of eta, the middle bar of mu, the vertical line of tau and at the bottom of the upsilon. Doulbe dots after the words ἀμαρτίας, φρίκης, and λόγον. Short wavy line above the first syllable of δεσπότην. Systematic use of accents. Letter height: <height unit="cm">4</height>
+                            <handNote>Black letters against yellow background. Majuscule letters. Chraracters' size varies. ΟΥ joined in ligature. Short, horizontal and vertical lines and dots decorate the horizontal bar of eta, the middle bar of mu, the vertical line of tau and at the bottom of the upsilon. Doulbe dots after the words ἀμαρτίας, φρίκης, and λόγον. Short wavy line above the first syllable of δεσπότην. Systematic use of accents. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>...</p>
+                            <p><rs type="iconography" ref="#Dormition">Dormition</rs>
+                                   <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,20 +69,23 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-082-01.JPG"><desc>Naos, west wall, lunette, middle register, inscription detail</desc></graphic>
-        <graphic url="044-082-02.JPG"><desc>Naos, west wall, lunette, middle register, inscription detail</desc></graphic>
-        <graphic url="044-082-03.JPG"><desc>Naos, west wall, lunette, middle register, inscription detail</desc></graphic>
-        <graphic url="044-082-04.JPG"><desc>Naos, west wall, lunette, middle register, general view</desc></graphic>
+         <graphic rend="primary" url="044-082-01.JPG"><desc>Dormition verse inscription, detail</desc></graphic>
+        <graphic url="044-082-02.JPG"><desc>Dormition verse inscription, detail</desc></graphic>
+        <graphic url="044-082-03.JPG"><desc>Dormition verse inscription, detail</desc></graphic>
+        <graphic url="044-082-04.JPG"><desc>Dormition verse inscription, general view</desc></graphic>
                     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab><l><lb n="1"/><supplied reason="lost"><g ref="#cross">+</g></supplied> <unclear>Κ</unclear>α<choice><orig>ι</orig><reg>ὶ</reg></choice> <w lemma="σύ">σ<choice><orig>υ</orig><reg>ὺ</reg></choice></w> <w lemma="θάνατος">θανάτῳ</w> <gap reason="lost" unit="character" quantity="5"></gap> a<unclear>ν</unclear> <gap reason="lost" unit="character" quantity="5"></gap> <persName type="sacred" key="Virgin"> <w lemma="Παρθένος">παρθένου</w></persName> <supplied reason="lost">Π</supplied>αρθέν<unclear>ε</unclear></l><l> <w lemma="ἁμαρτία"><supplied reason="lost">ἁ</supplied>μαρτίας</w>:</l><l><gap reason="lost" unit="character" quantity="3"></gap> <supplied reason="lost">τ</supplied><choice><orig>ο</orig><reg>ὸ</reg></choice> <w lemma="θαῦμα">θαῦμα</w> <lb n="2"/>καὶ <w lemma="γέμον">γέμον</w> <w lemma="πᾶσα">πάσης</w> <w lemma="φρίκη">φρίκης</w>:</l>
-              <l><w lemma="ἀλλά"><unclear>ἀ</unclear>λλ'</w> <hi rend="ligature">ο<unclear>ὐ</unclear></hi> <w lemma="κατάσχω">κατάσχῃ</w> τ<choice><orig>α</orig><reg>ὰ</reg></choice> <gap reason="lost" unit="character" quantity="5"></gap></l><l><gap reason="lost" unit="character" quantity="3"></gap>του <w lemma="τεκοῦσα ">τεκοῦσα</w> <w lemma="δεσπότης">δεσπότην</w> <w lemma="λόγος">Λόγον</w>:</l><g ref="#cross">+</g>
+              <ab><l><lb n="1"/><supplied reason="lost"><g ref="#cross">+</g></supplied> <unclear>Κ</unclear>α<choice><orig>ι</orig><reg>ὶ</reg></choice> <w lemma="σύ">σ<choice><orig>υ</orig><reg>ὺ</reg></choice></w> <w lemma="θάνατος">θαν<choice><orig>α</orig><reg>ά</reg></choice>τ<unclear>ῳ</unclear></w> <gap reason="lost" unit="character" quantity="5"></gap> a<unclear>ν</unclear> <gap reason="lost" unit="character" quantity="5"></gap> <persName type="sacred" key="Virgin"> <w lemma="Παρθένος"></w></persName> <supplied reason="lost">Π</supplied>αρθ<choice><orig>ε</orig><reg>έ</reg></choice>ν<unclear>ε</unclear></l><gap reason="lost" extent="unknown" unit="character"></gap><l> <w lemma="ἁμαρτία"><supplied reason="lost">ἁ</supplied>μαρτίας</w>:</l><l><gap reason="lost" unit="character" quantity="3"></gap><unclear>τ</unclear><choice><orig>ο</orig><reg>ὸ</reg></choice> <w lemma="θαῦμα">θα<choice><orig>υ</orig><reg>ῦ</reg></choice>μα</w> <lb n="2"/>καὶ <w lemma="γέμον">γέμον</w> <w lemma="πᾶσα">πάσης</w> <w lemma="φρίκη">φρίκης</w>:</l>
+              <l><w lemma="ἀλλά">ἀλλ'</w> <hi rend="ligature">ο<choice><orig>υ</orig><reg>ὐ</reg></choice></hi> <w lemma="κατάσχω">κατάσχ<choice><orig>η</orig><reg>ῃ</reg></choice></w> τ<choice><orig>α</orig><reg>ὰ</reg></choice> <gap reason="lost" unit="character" quantity="5"></gap></l><l><gap reason="lost" unit="character" quantity="3"></gap>ου <w lemma="τεκοῦσα ">τεκοῦσα</w> <w lemma="δεσπότης">δεσπ<choice><orig>ο</orig><reg>ό</reg></choice>την</w> <w lemma="λόγος">Λόγον</w>:</l><g ref="#cross">+</g>
              </ab> 
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <listApp>
+                    <app loc="1"><rdg source="#Ševčenko2012">[κ]αὶ συ θανάτω</rdg><rdg source="#Ševčenko2012">αν [...Π]αρθένε</rdg><rdg source="#Ševčenko2012">ἁμαρτίας</rdg><rdg source="#Ševčenko2012">το θαῦμα</rdg></app>
+                    <app loc="2"><rdg source="#Ševčenko2012">του τεκοῦσα</rdg></app>
+                </listApp>
                  </div>
             <div type="translation">
                 <p>And you, (O) Virgin, in death [..]
@@ -91,12 +95,12 @@
                    [she who] bears the Lord the Logos (<bibl><ptr target="#Ševčenko2012"/>, <citedRange> 81</citedRange></bibl>)</p>
             </div>
             <div type="commentary">
-                <p>Poor condition. Partially preserved. A cross with arrays in the angles marks the end of the text. Based on the other examples (metrical inscriptions), a similar cross could have occurred at the beginning of the text.</p>
+                <p>A cross with arrays in the angles marks the end of the text. Based on the other examples (metrical inscriptions), a similar cross could have occurred at the beginning of the text.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
                    <bibl><ptr target="#Rhoby2009"/>,<citedRange> 347-48</citedRange></bibl>
-                    <bibl><ptr target="#Ševčenko2012"/>, <citedRange> 81</citedRange></bibl>
+                    <bibl><ptr target="#Ševčenko2012"/>, <citedRange>80-81</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
