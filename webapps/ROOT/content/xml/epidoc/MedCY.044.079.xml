@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Dormition</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, lunette, middle register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
@@ -42,7 +42,8 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Dormition">Dormition</rs></p>
+                            <p><rs type="iconography" ref="#Dormition">Dormition</rs>
+                                   <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,10 +69,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-079-01.JPG"><desc>Naos, west wall, lunette, middle register, inscription detail</desc></graphic>
-        <graphic url="044-079-02.JPG"><desc>Naos, west wall, lunette, middle register, inscription</desc></graphic>
-        <graphic url="044-079-03.JPG"><desc>Naos, west wall, lunette, middle register, general view</desc></graphic>
-        <graphic url="044-079-04.JPG"><desc>Naos, west wall, lunette, middle register, general view</desc></graphic>
+         <graphic rend="primary" url="044-079-01.JPG"><desc>Dormition, inscription detail</desc></graphic>
+        <graphic url="044-079-02.JPG"><desc>Dormition, inscription</desc></graphic>
+        <graphic url="044-079-03.JPG"><desc>Dormition, general view</desc></graphic>
+        <graphic url="044-079-04.JPG"><desc>Dormition, general view</desc></graphic>
             </facsimile>
     <text>
         <body>
@@ -88,7 +89,7 @@
                 <p>The Dormition of the Virgin</p> 
             </div>
             <div type="commentary">
-                <p>Good condition. The word Κοίμησις is misspelled.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
