@@ -152,12 +152,10 @@
                     
                     <person xml:id="Leon">
                         <persName xml:lang="en"><forename>Leon</forename> <surname>Authentes</surname></persName>
-                        <persName xml:lang="grc">Λέων Αὐθέντης</persName>
-                        <!--<note>...</note>
-                        <floruit notBefore="..." notAfter="...">...</floruit>
-                        <occupation type="occupation"></occupation>
-                        <idno type="wikidata"></idno>
-                        <idno type="PBW">...</idno>-->
+                        <persName xml:lang="grc">Λέων Αὐθέντης</persName>                      
+                        <floruit notBefore="1134" notAfter="1233">Mid-12th to early 13th century</floruit>                     
+                        <note>Donor of the 1192 murals of the naos of Panagia tou Araka or Arakiotissa, Lagoudera</note>                                <!-- <idno type="wikidata"></idno>
+                         <idno type="PBW">...</idno>-->
                         <occupation type="honorific" xml:lang="en">lord</occupation>                        
                         <occupation type="honorific" xml:lang="grc">κῦρ</occupation>
                     </person>
