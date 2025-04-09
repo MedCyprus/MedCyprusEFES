@@ -158,6 +158,8 @@
                         <occupation type="occupation"></occupation>
                         <idno type="wikidata"></idno>
                         <idno type="PBW">...</idno>-->
+                        <occupation type="honorific" xml:lang="en">lord</occupation>                        
+                        <occupation type="honorific" xml:lang="grc">κῦρ</occupation>
                     </person>
                    <relation active="#Leon" ref="snap:sonOf" passive="#Authentes">
                         <desc>son of Authentes</desc>
