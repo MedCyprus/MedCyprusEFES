@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#narthex">Narthex, northeastern recess, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. White letters against green background. The inscription is written entirely in majuscule. Lines are ruled top and bottom. Accents and breathings non systematic. The inscription, except the beginning of the first two lines, is clear, legible and consists of bold letters. However, the thickness of the letters in some places varies, while all eight lines have a slight slope to the upper right. Throughout the inscription there are ligatures of the letters ΟΥ, ΤΗ, ΓΗ, ΑΝ, ΝΤΗ, ΝΗ, ΜΑ, ΝΑ, ΗΝΑ, ΤΑ. The ligature of the letters OY varies and is presented with four different ways. Good preservation condition. Letter height:<height unit="cm">3</height>
+                            <handNote>PENDING. White letters against green background. Majuscule letters. Lines are ruled top and bottom. The inscription, except the beginning of the first two lines, is clear, legible and consists of bold letters. However, the thickness of the letters in some places varies, while all eight lines have a slight slope to the upper right. ΟΥ, ΤΗ, ΓΗ, ΑΝ, ΝΤΗ, ΝΗ, ΜΑ, ΝΑ, ΗΝΑ, ΤΑ joined in ligatures. The ligature of the letters OY varies and is presented with four different ways. Accents and breathings non systematic. Letter height:<height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -72,13 +72,13 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="018-045-01.JPG"><desc>Narthex, northeast recess, lower register, inscription</desc></graphic>
+        <graphic rend="primary" url="018-045-01.JPG"><desc>Donation Inscription</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"></gap> οκ αει ω <persName type="attersted" role="donor" ref="#Ioannes_1"><name nymRef="#Ἰωάννης" type="forename"><expan><abbr rend="supraline">ιω</abbr><ex>άννης</ex></expan></name></persName> ο Κα<gap reason="lost" extent="unkown" unit="character"></gap> τ<supplied reason="lost">η</supplied><unclear>ν </unclear><supplied reason="lost">αγι</supplied><hi rend="ligature">αν </hi><placeName ref="mentioned_places.xml#AgiosNicholaostisStegis">μο
+                    <lb n="1"/>PENDING<gap reason="lost" extent="unknown" unit="character"></gap> οκ αει ω <persName type="attersted" role="donor" ref="#Ioannes_1"><name nymRef="#Ἰωάννης" type="forename"><expan><abbr rend="supraline">ιω</abbr><ex>άννης</ex></expan></name></persName> ο Κα<gap reason="lost" extent="unkown" unit="character"></gap> τ<supplied reason="lost">η</supplied><unclear>ν </unclear><supplied reason="lost">αγι</supplied><hi rend="ligature">αν </hi><placeName ref="mentioned_places.xml#AgiosNicholaostisStegis">μο
 <lb n="2" break="no"/><supplied reason="lost">νην</supplied> τ<hi rend="ligature">ου</hi> αγί<hi rend="ligature">ου </hi>Νικολαου <hi rend="ligature">τη</hi>ς <hi rend="ligature">Στ</hi>ε<hi rend="ligature">γη</hi>ς</placeName>
 <lb n="3"/>το χανου<hi rend="ligature">τη</hi><hi rend="ligature">ν τη</hi><hi rend="ligature">ν Κ</hi>αα<hi rend="ligature">ν η</hi>ς <hi rend="ligature">τη</hi><hi rend="ligature">ν η</hi>
                     <lb n="4" break="no"/>μερ<supplied reason="lost">α</supplied>ν <persName type="attested" role="abbot" ref="#Germanos"><name type="forename" nymRef="#Γερμανός">Γερ<hi rend="ligature">μα</hi>ν<hi rend="ligature">ου</hi></name> ιερομο<hi rend="ligature">να</hi>χ<hi rend="ligature">ου</hi></persName>
