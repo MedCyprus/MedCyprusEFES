@@ -844,9 +844,23 @@
                 <item xml:id="codex">
                     <term xml:lang="en">Codex</term>
                 </item>
-                <item xml:id="crossprocessional">
-                    <term xml:lang="en">Cross, processional</term>
-                    <!--Do we want to distinguish type of crosses? E.g., Patriarchal, Latin, processional etc.?-->
+               <!-- <item xml:id="crossprocessional">
+                    <term xml:lang="en">Cross, processional</term>                    
+                </item>-->
+                <!-- <item xml:id="crossfloriated">
+                    <term xml:lang="en">Cross, floriated</term>                    
+                </item>-->
+                <item xml:id="crossgreek">
+                    <term xml:lang="en">Cross, Greek</term>
+                </item>
+                <item xml:id="crosslatin">
+                    <term xml:lang="en">Cross, Latin</term>
+                </item>
+                <item xml:id="crosspatriarchal">
+                    <term xml:lang="en">Cross, patriarchal</term>
+                </item>
+                <item xml:id="crossstepped">
+                    <term xml:lang="en">Cross, stepped</term>
                 </item>
                 <item xml:id="crosstablet">
                     <term xml:lang="en">Tablet</term>
