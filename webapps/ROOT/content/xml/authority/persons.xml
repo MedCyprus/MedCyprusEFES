@@ -142,7 +142,7 @@
                     
                     <person xml:id="IschyrioiFamily">
                         <persName xml:lang="en"><surname>Ischyrioi</surname></persName>
-                        <persName xml:lang="grc"><surname>Ἰσχύριοι</surname></persName>
+                        <persName xml:lang="grc">Ἰσχύριοι</persName>
                         <floruit  notBefore="1001" notAfter="1100">11th - 12th century</floruit>                                    
                         <note>Nikephoros Ischyrios was the Founder of the church of Panagia Phorbiotissa or Asinou, Niketari, and donor of its 1105/6 murals</note>
                     </person>
