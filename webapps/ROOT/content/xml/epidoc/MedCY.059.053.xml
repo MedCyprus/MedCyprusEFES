@@ -41,7 +41,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#AgonyInTheGarden">Agony in the Garden, angel</rs></p>
+                            <p><rs type="iconography" ref="#AgonyInTheGarden">Agony in the Garden, angel</rs>
+                            <rs type="iconography" ref="#angel"></rs>
+                                  <rs type="iconography" ref="#christological"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
