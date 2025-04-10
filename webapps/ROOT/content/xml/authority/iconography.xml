@@ -32,6 +32,9 @@
                 <item xml:id="Angels_Hetoimasia">
                     <term xml:lang="en">Angels adoring the Hetoimasia</term>
                 </item>
+                <item xml:id="Angels_VirginOrans"><!-- cupola decoration around the Pantokrator -->
+                    <term xml:lang="en">Adoring angels convering on the Virgin Orans</term>
+                </item>
                 <item xml:id="Αnnunciation">
                     <term xml:lang="en">Annunciation</term>
                 </item>
@@ -387,6 +390,9 @@
                 <item xml:id="Hermolaos">
                     <term xml:lang="en">Hermolaos</term>
                 </item>
+                <item xml:id="hexapterygon">
+                    <term xml:lang="en">Hexapterygon</term>
+                </item>
                 <item xml:id="Hilarion">
                     <term xml:lang="en">Hilarion</term>
                 </item>
@@ -634,6 +640,9 @@
                 </item>
                 <item xml:id="SymeonTheodochos">
                     <term xml:lang="en">Symeon Theodochos</term>
+                </item>
+                <item xml:id="tetramorph">
+                    <term xml:lang="en">Tetramorph</term>
                 </item>
                 <item xml:id="Thekla">
                     <term xml:lang="en">Thekla</term>
