@@ -39,11 +39,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">3-7,5</height>
+                             <handNote>White letters against green backfground. Majuscule letters. Characters' size varies. Letter height: <height unit="cm">3-7,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Onouphrios">Onouphrios</rs></p>
+                            <p>... <rs type="iconography" ref="#Onouphrios">Onouphrios</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -83,8 +83,8 @@
                   <cb n="b"/>
                       <lb n="1"/>Ὁ 
                       <lb n="2"/><name type="forename" nymRef="#Ὀνούφριος">Ὀ
-                      <lb n="3" break="no"/>νού
-                      <lb n="4" break="no"/>φρι
+                      <lb n="3" break="no"/>ν<hi rend="ligature">ού</hi>
+                      <lb n="4" break="no"/>φρ<choice><orig>ϊ</orig><reg>ι</reg></choice>
                      <lb n="5" break="no"/><hi rend="ligature">ος</hi></name></persName>
                </ab>
             </div>
