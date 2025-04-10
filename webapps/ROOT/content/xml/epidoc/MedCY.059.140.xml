@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#crosspatriarchal">Cross, patriarchal, with crown of thorns, spear, and sponge</rs></p>
+                            <p><rs type="iconography" ref="#crosspatriarchal">Cross, patriarchal, with crown of thorns, spear, and sponge</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
