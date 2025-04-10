@@ -41,7 +41,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Neophytos">Neophytos between the archangels, Neophytos</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Neophytos">Neophytos between the archangels, Neophytos</rs>
+                                   <rs type="iconography" ref="#Supplicant_Other"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
