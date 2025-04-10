@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Stephen</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,13 +28,13 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, north recess' soffit, on the east</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -68,14 +68,21 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-055-01.JPG"><desc>Bema, north recess' soffit, on the east, inscription</desc></graphic>
-        <graphic url="036-055-02.JPG"><desc>Bema, north recess' soffit, on the east, general view</desc></graphic>
+         <graphic rend="primary" url="036-055-01.JPG"><desc>Saint Stephen, inscription</desc></graphic>
+        <graphic url="036-055-02.JPG"><desc>Saint Stephen, general view</desc></graphic>
                       </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                    <cb n="a"/>
+                    <lb n="1"/>Ὁ <persName type="sacred" key="Stephen"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>
+                    <lb n="2" break="no"/><name type="forename" nymRef="#Στέφανος">Στέ
+                   <lb n="3" break="no"/>φ<hi rend="ligature">αν</hi>ο<supplied reason="omitted">ς</supplied></name>
+                   <lb n="4"/>ὁ <addName type="epithet" key="Protomartyr"><hi rend="ligature">Πρ</hi>ωτο
+                   <lb n="5" break="no"/>
+                  <cb n="b"/>
+                   <lb n="1"/>μ<hi rend="ligature"><choice><orig>α</orig><reg>ά</reg></choice>ρ</hi>τ<choice><orig>ῦ</orig><reg>υ</reg></choice><supplied reason="omitted">ρα</supplied>ς</addName></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +92,7 @@
                 <p>Saint Stephen the Protomartyr</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
