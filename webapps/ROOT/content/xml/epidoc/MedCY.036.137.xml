@@ -42,7 +42,12 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Victor">Victor</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Victor">Victor</rs>
+                            <rs type="iconography" ref="#martyr"></rs>
+                                  <rs type="iconography" ref="#militarysaint"></rs>
+                                  <rs type="iconography" ref="#male"></rs>                                
+                                  <rs type="iconography" ref="#dresscivilian"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
