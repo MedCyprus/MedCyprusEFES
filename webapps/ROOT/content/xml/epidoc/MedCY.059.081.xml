@@ -41,7 +41,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Michael">Archangel Michael</rs></p>
+                            <p><rs type="iconography" ref="#Michael">Archangel Michael venerating the Cross</rs>
+                                <rs type="iconography" ref="#archangel"></rs>
+                                <rs type="iconography" ref="#genderless"></rs>
+                                <rs type="iconography" ref="#dressdeacon"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
