@@ -216,8 +216,8 @@
                     </person> 
                     
                     <person xml:id="Nikephorosthefarrier">
-                        <persName xml:lang="en"><forename>Nikephoros</forename></persName>
-                        <persName xml:lang="grc">Νικηφόρος</persName>
+                        <persName xml:lang="en"><forename>Nikephoros</forename><surname>Kallias</surname></persName>
+                        <persName xml:lang="grc"><forename>Νικηφόρος</forename><surname>Καλλίας</surname></persName>
                         <occupation type="occupation">farrier</occupation>
                         <note>Devotee mentioned in the invocation written below the dedicatory epigram in the frecso of Saint George on horseback in the the narthex of Asinou</note>
                         <!--<floruit notBefore="..." notAfter="...">...</floruit>
@@ -227,7 +227,7 @@
                     
                     
                     <person xml:id="NikephorosIschyrios">
-                        <persName xml:lang="en"><forename>Nikephoros</forename> <surname>Ischyrios</surname></persName>
+                        <persName xml:lang="en"><forename>Nikephoros</forename><surname>Ischyrios</surname></persName>
                         <persName xml:lang="grc"><forename>Νικηφόρος</forename> <surname>Ἰσχύριος</surname></persName>    
                         <birth  notBefore="1034" notAfter="1067">Around the middle of the 11th century</birth>
                         <death notBefore="1106" notAfter="1133">Early 12th century</death>                   
