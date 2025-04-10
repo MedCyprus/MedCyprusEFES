@@ -42,7 +42,12 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#George">George</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#George">George, on horseback</rs>
+                            <rs type="iconography" ref="iconography.xml#martyr"></rs>
+                            <rs type="iconography" ref="iconography.xml#militarysaint"></rs>
+                            <rs type="iconography" ref="iconography.xml#male"></rs>
+                            <rs type="iconography" ref="iconography.xml#dressmilitary"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
