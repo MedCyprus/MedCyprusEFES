@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">4-7</height>
+                             <handNote>White letters against green background. Majuscule letters. Characters' size varies. Mu with its middle bar forming a tau. AN, ΠΡ, and AP joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">4-7</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Stephen">Stephen</rs></p>
+                            <p><rs type="iconography" ref="#Stephen">Stephen</rs>
+                            <rs type="iconography" ref="#male"></rs>
+                                <rs type="iconography" ref="#martyr"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
