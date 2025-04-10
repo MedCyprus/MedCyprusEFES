@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Demetrios">Demetrios</rs>
+                            <p><rs type="iconography" ref="#Demetrios">Demetrios</rs>
                                   <rs type="iconography" ref="#martyr"></rs>
                                   <rs type="iconography" ref="#militarysaint"></rs>
                                   <rs type="iconography" ref="#male"></rs>                                

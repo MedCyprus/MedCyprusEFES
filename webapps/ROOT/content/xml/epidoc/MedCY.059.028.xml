@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#TheodoreSanctified">Theodore the Sanctified</rs></p>
+                            <p>... <rs type="iconography" ref="#TheodoreSanctified">Theodore the Sanctified</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

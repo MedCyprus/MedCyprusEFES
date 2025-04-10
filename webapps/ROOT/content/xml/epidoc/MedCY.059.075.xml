@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#DescentOfTheCross">Descent of the Cross, tablet</rs></p>
+                            <p><rs type="iconography" ref="#DescentOfTheCross">Descent of the Cross, tablet</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
