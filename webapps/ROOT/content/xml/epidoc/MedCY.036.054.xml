@@ -7,7 +7,8 @@
             <titleStmt>
                 <title>Saint Onouphrios</title>
                 <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,13 +29,13 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, north recess' soffit, on the west</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -68,14 +69,23 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-054-01.JPG"><desc>Bema, north recess' soffit, on the west, inscription</desc></graphic>
-        <graphic url="036-054-02.JPG"><desc>Bema, north recess' soffit, on the west, general view</desc></graphic>
+         <graphic rend="primary" url="036-054-01.JPG"><desc>Saint Onouphrios, inscription</desc></graphic>
+        <graphic url="036-054-02.JPG"><desc>Saint Onouphrios, general view</desc></graphic>
                       </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                  <cb n="a"/>
+                    <lb n="1"/>Ὁ 
+                  <lb n="2"/><persName type="sacred" key="Onouphrios"><w lemma="ἅγιος">ἅ
+                  <lb n="3" break="no"/>γι<hi rend="ligature">ος</hi></w>
+                  <cb n="b"/>
+                      <lb n="1"/>Ὁ 
+                      <lb n="2"/><name type="forename" nymRef="#Ὀνούφριος">Ὀ
+                      <lb n="3" break="no"/>νού
+                      <lb n="4" break="no"/>φρι
+                     <lb n="5" break="no"/><hi rend="ligature">ος</hi></name></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +95,7 @@
                 <p>Saint Onouphrios</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
