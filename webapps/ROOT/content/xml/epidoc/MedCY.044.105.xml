@@ -81,7 +81,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                <ab>
-                <lb n="1"/><w lemma="δέησις"><expan><abbr rend="supraline">Δέ</abbr><ex>ησις</ex></expan></w> <persName type="attested" role="donor" ref="#Nikephorosthefarrier"><name nymRef="#Νικηφόρος" type="forename">Νικηφ<choice><orig>ο</orig><reg>ό</reg></choice> <lb n="2" break="no"/>ρ<hi rend="ligature">ου</hi></name></persName> <hi rend="ligature">τοῦ</hi> <choice><sic>Καλλ<choice><orig>η</orig><reg>ή</reg></choice><choice><orig>ά</orig><reg>α</reg></choice></sic><corr>Καλλία</corr></choice>
+                <lb n="1"/><w lemma="δέησις"><expan><abbr rend="supraline">Δέ</abbr><ex>ησις</ex></expan></w> <persName type="attested" role="donor" ref="#Nikephorosthefarrier"><name nymRef="#Νικηφόρος" type="forename">Νικηφ<choice><orig>ο</orig><reg>ό</reg></choice> <lb n="2" break="no"/>ρ<hi rend="ligature">ου</hi></name> <hi rend="ligature">τοῦ</hi> <name nymRef="#Καλλίας" type="surname"><choice><sic>Καλλ<choice><orig>η</orig><reg>ή</reg></choice><choice><orig>ά</orig><reg>α</reg></choice></sic><corr>Καλλία</corr></choice></name></persName>
             </ab></div>
             <div type="apparatus">
                 <listApp>
