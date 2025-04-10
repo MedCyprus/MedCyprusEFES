@@ -7,7 +7,7 @@
             <titleStmt>
                 <title>Cryptograms</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
-                <editor xml:id="dk">Dora Konstantellou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, prothesis</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -68,8 +68,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-056-01.JPG"><desc>Bema, prothesis, inscription</desc></graphic>
-        <graphic url="036-056-02.JPG"><desc>Bema, prothesis, general view</desc></graphic>
+         <graphic rend="primary" url="036-056-01.JPG"><desc>Cryptograms, inscription</desc></graphic>
+        <graphic url="036-056-02.JPG"><desc>Cryptograms, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
@@ -85,7 +85,7 @@
                 <p>PENDING</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
