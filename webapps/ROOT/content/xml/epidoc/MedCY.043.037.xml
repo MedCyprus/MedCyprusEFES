@@ -41,7 +41,12 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#TheodoreStratelates">Theodore Stratelates</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#TheodoreStratelates">Theodore Stratelates</rs>
+                            <rs type="iconography" ref="#martyr"></rs>
+                                  <rs type="iconography" ref="#militarysaint"></rs>
+                                  <rs type="iconography" ref="#male"></rs>                                
+                                  <rs type="iconography" ref="#dressmilitary"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
