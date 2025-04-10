@@ -42,9 +42,10 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#Gabriel">Gabriel</rs>
-                                  <rs type="iconography" ref="#archangel">
+                                  <rs type="iconography" ref="#archangel"></rs>
                                   <rs type="iconography" ref="#genderless"></rs>
-                                  </rs></p>
+                                 <rs type="iconography" ref="#dressimperial"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
