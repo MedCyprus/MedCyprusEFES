@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Prophet Solomon</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. First sigma with a tail. Mu with its middle bar forming a tau with a dot on the top. ΠΡ, ΦΗ, and ΤΗC joined in ligature. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -79,7 +80,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                     <cb n="a"/>
+                      <lb n="1"/>Ὁ 
+                      <lb n="2"/><persName type="sacred" key="Solomon"><w lemma="προφήτης"><hi rend="ligature">πρ</hi>ο
+                      <lb n="3" break="no"/><hi rend="ligature">φή</hi><hi rend="ligature">της</hi></w>
+                  <cb n="b"/> 
+                     <lb n="1"/><name type="forename" nymRef="#Σολομῶν">Σολομῶν</name></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -89,7 +95,7 @@
                 <p>Prophet Solomon</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
