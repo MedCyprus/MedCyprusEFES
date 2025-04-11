@@ -42,7 +42,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Ephraim">Ephraim</rs></p>
+                            <p><rs type="iconography" ref="#Ephraim">Ephraim</rs>
+                            <rs type="iconography" ref="#monastic"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

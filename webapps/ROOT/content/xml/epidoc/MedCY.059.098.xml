@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, lower register, next to St. Andronikos</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -41,7 +41,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#DanielOfSketis">Daniel of Sketis</rs></p>
+                            <p><rs type="iconography" ref="#DanielOfSketis">Daniel of Sketis</rs>
+                            <rs type="iconography" ref="#monastic"></rs> 
+                            <rs type="iconography" ref="#male"></rs>   
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,8 +69,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-098-01.JPG"><desc>Naos, west wall, lower register, next to St. Andronikos, inscription</desc></graphic>
-        <graphic url="059-098-02.JPG"><desc>Naos, west wall, lower register, next to St. Andronikos, general view</desc></graphic>
+         <graphic rend="primary" url="059-098-01.JPG"><desc>Saint Daniel of Sketis, inscription</desc></graphic>
+        <graphic url="059-098-02.JPG"><desc>Saint Daniel of Sketis, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
