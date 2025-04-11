@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mu with its middle bar forming a tau. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Hetoimasia">Hetoimasia</rs></p>
+                            <p><rs type="iconography" ref="#Hetoimasia">Hetoimasia</rs>
+                            <rs type="iconography" ref="#crosspatriarchal"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -75,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                    <lb n="1"/><g ref="#cross">+</g>Ἡ <w lemma="ἑτοιμασία"><choice><sic><choice><orig>Ε</orig><reg>Ἑ</reg></choice>τυ <milestone unit="column" />μασ<choice><orig>ï</orig><reg>ί</reg></choice><choice><orig>ά</orig><reg>α</reg></choice></sic><corr>Ἑτοιμασία</corr></choice></w>   
                </ab>
             </div>
             <div type="apparatus">
