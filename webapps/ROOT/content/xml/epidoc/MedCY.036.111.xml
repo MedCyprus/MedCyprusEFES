@@ -42,7 +42,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Eustratios">Eustratios</rs></p>
+                            <p><rs type="iconography" ref="#Eustratios">Eustratios</rs>                               
+                                   <rs type="iconography" ref="#male"></rs>
+                                   <rs type="iconography" ref="#martyr"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

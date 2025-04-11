@@ -41,8 +41,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#EntryIntoJerusalem">Entry into Jerusalem</rs>
-                            <rs type="iconography" ref="iconography.xml#Christ">Christ</rs></p>
+                            <p><rs type="iconography" ref="#EntryIntoJerusalem">Entry into Jerusalem</rs>
+                                <rs type="iconography" ref="#Christ"></rs>
+                                <rs type="iconography" ref="#christological"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

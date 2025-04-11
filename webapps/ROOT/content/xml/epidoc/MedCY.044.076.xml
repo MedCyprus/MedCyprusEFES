@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Entry into Jerusalem, Christ</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, south half, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#ChristEntryIntoJerusalem">Entry into Jerusalem, Christ</rs></p>
+                            <p><rs type="iconography" ref="#EntryIntoJerusalem">Entry into Jerusalem, Christ Christ</rs>
+                            <rs type="iconography" ref="#Christ"></rs>
+                            <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,9 +70,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-076-01.JPG"><desc>Naos, west wall, south half, lunette, inscription detail</desc></graphic>
-        <graphic url="044-076-02.JPG"><desc>Naos, west wall, south half, lunette, inscription</desc></graphic>
-        <graphic url="044-076-03.JPG"><desc>Naos, west wall, south half, lunette, general view</desc></graphic>
+         <graphic rend="primary" url="044-076-01.JPG"><desc>Entry into Jerusalem, Christ, inscription detail</desc></graphic>
+        <graphic url="044-076-02.JPG"><desc>Entry into Jerusalem, Christ, inscription</desc></graphic>
+        <graphic url="044-076-03.JPG"><desc>Entry into Jerusalem, Christ, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -86,7 +88,7 @@
                 <p>Jesus Christ</p> 
             </div>
             <div type="commentary">
-                <p>Good condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
