@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mu with its middle bar forms a tau. Nu with its central bar forms a vertical, zig zag line. Short vetical and horizontal lines in the horizontal bar of eta and at the bottom of ypsilon. ΑΝ and ΤΡ joined in ligatures. Systematic use of accents and breathings. Breathings of the modern variety (circular). Letter height:<height unit="cm">3</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mu with its middle bar forms a tau. Nu with its central bar forms a vertical, zig zag line. Short vetical and horizontal lines in the horizontal bar of eta and at the bottom of ypsilon. ΑΝ, ΑΡ, ΤΡ joined in ligature. Systematic use of accents and breathings. Breathings of the modern variety (circular). Letter height:<height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -83,20 +83,20 @@
                   <lb n="2"/><persName type="sacred" key="AnastasiaPharmakolytria"><w lemma="ἁγία">ἁ
                    <lb n="4*" break="no"/>γί
                    <lb n="5*" break="no"/>α</w>
-                  <lb n="3*"/> <name type="forename" nymRef="#Ἀναστασία"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>ναστασία</name>
+                  <lb n="3*"/> <name type="forename" nymRef="#Ἀναστασία"><hi rend="ligature"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>ν</hi>αστασία</name>
                    <cb n="b"/>   
                    <lb n="1"/><choice><orig>Ἠ</orig><reg>Ἡ</reg></choice> 
-                   <lb n ="2" break="no"/><addName type="epithet" key="Poison-curer">Φ
-                   <lb n ="3" break="no"/>αρ
+                   <lb n ="2" break="no"/><addName type="epithet" key="Poison-curer"><w lemma="φαρμακολύτρια">Φ
+                   <lb n ="3" break="no"/><hi rend="ligature">αρ</hi>
                    <lb n ="4" break="no"/>μα
                    <lb n ="5" break="no"/>κο
                    <lb n ="6" break="no"/>λ<choice><orig>υ</orig><reg>ύ</reg></choice> 
-                   <lb n ="7" break="no"/>τρ<choice><orig>ί</orig><reg>ι</reg></choice> 
-                   <lb n ="8" break="no"/>α</addName></persName>
+                   <lb n ="7" break="no"/><hi rend="ligature">τρ</hi><choice><orig>ί</orig><reg>ι</reg></choice> 
+                   <lb n ="8" break="no"/>α</w></addName></persName>
                </ab> 
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <p>n/a</p>
                  </div>
             <div type="translation">
                 <p>Saint Anastasia the Poison-curer (Pharmakolytria)</p> 
@@ -106,7 +106,8 @@
             </div>
             <div type="bibliography">
                 <listBibl> 
-                   <bibl><ptr target="#Kalopissi-Verti2012"/>,<citedRange> 116</citedRange></bibl>
+                   <bibl><ptr target="#Buckler1933"/>, <citedRange>338</citedRange></bibl>
+                   <bibl><ptr target="#Kalopissi-Verti2012"/>, <citedRange>115-16</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
