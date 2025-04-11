@@ -34,15 +34,17 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">3-9</height>
+                             <handNote>White letters against green background. Majuscule letters. Characters' size varies. Alpha with a wavy tail. OC at the end of the two words joined in ligature. Letter height: <height unit="cm">3-9</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Lazaros">Lazaros</rs></p>
+                            <p><rs type="iconography" ref="#Lazaros">Lazaros</rs>
+                            <rs type="iconography" ref="#male"></rs>
+                             <rs type="iconography" ref="#prelate"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
