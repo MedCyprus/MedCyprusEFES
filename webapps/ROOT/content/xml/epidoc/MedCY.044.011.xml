@@ -27,21 +27,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, lower register, central figure</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the prelate's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. OS in ligature. Accents and breathings systematic. Letter height: <height unit="cm">2,5-4</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. OS joined in ligature. Accents and breathings systematic. Letter height: <height unit="cm">2,5-4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Nicholas">Nicholas</rs></p>
+                            <p><rs type="iconography" ref="#Nicholas">Nicholas</rs>
+                                  <rs type="iconography" ref="#prelate"></rs>
+                                  <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,7 +69,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-011-01.JPG"><desc>Bema, apse, semicylindrical wall, south half, lower register, central figure, inscription</desc></graphic>
+         <graphic rend="primary" url="044-011-01.JPG"><desc>Saint Nicholas, inscription</desc></graphic>
+        <graphic url="044-011-02.JPG"><desc>Saint Nicholas, general view</desc></graphic>
         </facsimile>
     <text>
         <body>
@@ -83,7 +86,7 @@
               </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Saint Nicholas</p>
@@ -93,7 +96,8 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 82-3</citedRange></bibl>
+                <bibl><ptr target="#Buckler1933"/>, <citedRange>342</citedRange></bibl>
+                <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>82-3</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
