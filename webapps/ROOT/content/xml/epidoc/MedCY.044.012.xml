@@ -27,13 +27,13 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, lower register, first figure on the right</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the prelate's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -41,7 +41,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#IgnatiosTheophoros">Ignatios</rs></p>
+                            <p><rs type="iconography" ref="#IgnatiosTheophoros">Ignatios</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,9 +69,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-012-01.JPG"><desc>Bema, semicylindrical wall, south half, lower register, first figure on the right, inscription</desc></graphic>
-        <graphic url="044-012-02.JPG"><desc>Bema, semicylindrical wall, south half, lower register, first figure on the right, inscriprion detail </desc></graphic>
-        <graphic url="044-012-03.JPG"><desc>Bema, semicylindrical wall, south half, lower register, first figure on the right, inscription detail </desc></graphic>
+         <graphic rend="primary" url="044-012-01.JPG"><desc>Saint Ignatios, inscription</desc></graphic>
+        <graphic url="044-012-02.JPG"><desc>Saint Ignatios, inscriprion detail </desc></graphic>
+        <graphic url="044-012-03.JPG"><desc>Saint Ignatios, inscription detail </desc></graphic>
         </facsimile>
     <text>
         <body>
@@ -86,20 +88,17 @@
               </ab>
             </div>
             <div type="apparatus">
-               <p><app loc="1-5"><rdg>Ἰγνάτιος:</rdg> <note>Buckler</note> <rdg>ΙΓΝΑΤΗΟC: </rdg><note>Sacopoulo</note></app>
-               <app loc="other_case"><rdg>Ἰγνάτιος:</rdg> <note>Buckler, Sacopoulo</note></app>
-                   <app loc="alternative"><rdg source="#Buckler1933">Ἰγνάτιος</rdg></app>
-               </p>          
+               <p>n/a</p>          
             </div>
             <div type="translation">
                 <p>Saint Ignatios the God-bearing</p>
             </div>
             <div type="commentary">
-                <p>Good Condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Buckler1933"/>,<citedRange> 342</citedRange></bibl>
+                <bibl><ptr target="#Buckler1933"/>, <citedRange>342</citedRange></bibl>
                 <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 83</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
