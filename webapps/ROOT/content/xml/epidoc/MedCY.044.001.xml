@@ -27,8 +27,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semidome</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved. Faded.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semidome</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Mu with its middle bar forms a tau with a star; eta with a star on its horizontal bar; pi with short, thin line attached the horizontal bar; nu with its central bar forms a vertical, zig zag line. The words Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, wavy line above each word. ΜΗΡ, ΗΠ, ΑΝ in ligatures. Accents and breathings systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Mu with its middle bar forms a tau with a star; eta with a star on its horizontal bar; pi with short, thin line attached the horizontal bar; nu with its central bar forms a vertical, zig zag line. The words Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, wavy line above each word. ΜΗΡ, ΗΠ, ΑΝ joined in ligature. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -68,32 +68,34 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-001-01.JPG"><desc>Bema, semidome, inscription </desc></graphic>
-        <graphic url="044-001-02.JPG"><desc>Bema, semidome, inscription detail</desc></graphic>
-        <graphic url="044-001-03.JPG"><desc>Bema, semidome, inscription detail</desc></graphic>
-        <graphic url="044-001-04.JPG"><desc>Bema, semidome, general view</desc></graphic>
+         <graphic rend="primary" url="044-001-01.JPG"><desc>Virgin Pantanassa, inscription </desc></graphic>
+        <graphic url="044-001-02.JPG"><desc>Virgin Pantanassa, inscription detail</desc></graphic>
+        <graphic url="044-001-03.JPG"><desc>Virgin Pantanassa, inscription detail</desc></graphic>
+        <graphic url="044-001-04.JPG"><desc>Virgin Pantanassa, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                     <lb n="1"/><persName type="sacred" key="MeterTheou"><addName nymRef="#Μήτηρ Θεοῦ"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi><am>´</am></w>
-                    <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice><am>&#x00A0;῀&#x00A0;</am></abbr></expan></addName></persName> 
+                    <milestone unit="column" n="right"/><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice><am>&#x00A0;῀&#x00A0;</am></abbr></expan></w></addName></persName> 
                     <lb n="2"/><hi rend="ligature" xml:id="lig1"><choice><orig>Η</orig><reg>Ἡ</reg></choice></hi> <addName type="epithet" key="Pantanassa"><hi rend="ligature" xml:id="lig2">Π</hi><join target="#lig1 #lig2"/><hi rend="ligature">αν</hi>τά <milestone unit="column" n="right"/>νασσα </addName> 
                  </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <listApp>
+                   <app loc="1"><rdg source="#Buckler1933">ΜΡ ΘΥ</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Mother of God, Queen of All</p>
             </div>
             <div type="commentary">
-                <p>Good condition. Faded</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>Unpublished</bibl>
+                <bibl><ptr target="#Buckler1933"/>, <citedRange>345</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
