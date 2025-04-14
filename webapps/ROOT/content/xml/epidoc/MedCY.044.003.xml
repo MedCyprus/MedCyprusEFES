@@ -27,8 +27,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semidome</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semidome</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Eta with a cross on its horizontal bar. ΑΡ, ΑΒ in ligatures. Small, semicircle line above the abbreviation ἀρχάγγελος. Angle up symbol and grave accent (βαρεῖα) above eta and lambda both function as βαρεῖα on eta. Accents and breathings systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Eta with a cross on its horizontal bar. ΑΡ, ΑΒ joined in ligature. Small, semicircle line above the abbreviation ἀρχάγγελος. Angle up symbol and grave accent (βαρεῖα) above eta and lambda both function as βαρεῖα on eta. Accents and breathings systematic, with errors.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -71,8 +71,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-003-01.JPG"><desc>Bema, semidome, inscription detail</desc></graphic>
-        <graphic url="044-003-02.JPG"><desc>Bema, semidome, inscription </desc></graphic>
+         <graphic rend="primary" url="044-003-01.JPG"><desc>Archangel Gabriel, inscription detail</desc></graphic>
+        <graphic url="044-003-02.JPG"><desc>Archangel Gabriel, inscription </desc></graphic>
         </facsimile>
     <text>
         <body>
@@ -88,11 +88,11 @@
                 <p>Archangel Gabriel</p>
             </div>
             <div type="commentary">
-                <p>Good condition. Accents and breathings with errors.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>Unpublished</bibl>
+                <bibl><ptr target="#Buckler1933"/>, <citedRange>345</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
