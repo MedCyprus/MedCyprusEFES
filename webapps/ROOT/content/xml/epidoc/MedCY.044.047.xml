@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint James, the Lord's brother</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,24 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, south recess' soffit, west side, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. OC in Ἀδελφόθεος in ligature with a vertical, wavy final sigma. Accents and breathings systematic. Letter height: <height unit="cm">3,5-4</height>
+                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. OC in Ἀδελφόθεος joined in ligature with a vertical, wavy final sigma. Accents and breathings systematic. Letter height: <height unit="cm">3,5-4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#JamesLordBrother">James, the Lord's brother</rs></p>
+                            <p><rs type="iconography" ref="#JamesLordBrother">James, the Lord's brother</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#martyr"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,8 +71,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-047-01.JPG"><desc>Bema, south recess' soffit, west side, lower register, inscription</desc></graphic>
-        <graphic url="044-047-02.JPG"><desc>Bema, south recess' soffit, west side, lower register, general view</desc></graphic>
+         <graphic rend="primary" url="044-047-01.JPG"><desc>Saint James, the Lord's brother, inscription</desc></graphic>
+        <graphic url="044-047-02.JPG"><desc>Saint James, the Lord's brother, general view</desc></graphic>
                </facsimile>
     <text>
         <body>
@@ -81,24 +84,26 @@
                     <lb n="3"  break="no"/> κω   
                      <lb n="4" break="no"/> βος</name>  
                       <cb n="b"/>
-                    <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice> <addName type="epithet" key="Lord's Brother"><supplied reason="lost">Ἀ</supplied>
+                    <lb n="1"/>Ὁ <addName type="epithet" key="Lord's Brother"><w lemma="ἀδελφόθεος"><supplied reason="lost">Ἀ</supplied>
                     <lb n="2" break='no'/>δελ
                   <lb n="3" break='no'/> φόθε
-                  <lb n="4" break="no"/><hi rend="ligature">ος</hi></addName></persName> 
+                  <lb n="4" break="no"/><hi rend="ligature">ος</hi></w></addName></persName> 
                 </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <listApp>
+                   <app loc="b.1-4"><rdg source="#Buckler1933">ἀδελφόθεος</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Saint James the Lord's brother</p>
             </div>
             <div type="commentary">
-                <p>Good condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
-                <bibl>Unpublished</bibl>
+                <bibl><ptr target="#Buckler1933"/>, <citedRange>342</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
