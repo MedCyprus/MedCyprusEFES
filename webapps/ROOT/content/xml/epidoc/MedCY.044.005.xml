@@ -27,8 +27,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, upper register</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, upper register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Spiral xi ending in a reversed sigma. Mu with its middle bar forms an upsilon. ΟΥ, ΤΗ, ΝΗ in ligatures. Accents and breathings non systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Spiral xi ending in a reversed sigma. Mu with its middle bar forms an upsilon. ΟΥ, ΤΗ, ΝΗ joined in ligature. Accents and breathings non systematic, with errors.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -71,33 +71,36 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-005-01.JPG"><desc>Bema, semicylindrical wall, south half, upper register, inscription detail</desc></graphic>
-        <graphic url="044-005-02.JPG"><desc>Bema, semicylindrical wall, south half, upper register, inscription </desc></graphic>
-        <graphic url="044-005-03.JPG"><desc>Bema, semicylindrical wall, south half, upper register, general view </desc></graphic>
+         <graphic rend="primary" url="044-005-01.JPG"><desc>Communion of the Apostles, Metalepsis (Offering of the Wine), inscription detail</desc></graphic>
+        <graphic url="044-005-02.JPG"><desc>Communion of the Apostles, Metalepsis (Offering of the Wine), inscription </desc></graphic>
+        <graphic url="044-005-03.JPG"><desc>Communion of the Apostles, Metalepsis (Offering of the Wine), general view </desc></graphic>
         </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                   <lb n="1"/><g ref="#cross">+</g> <w lemma="πίνω">Π<choice><orig>ι</orig><reg>ί</reg></choice>ετε</w> <choice><orig>ε</orig><reg>ἐ</reg></choice>ξ <w lemma="αὐτός">α<unclear>ὐ</unclear><supplied reason="lost">τοῦ</supplied></w> <w lemma="πᾶς"><supplied reason="lost">πάντες·</supplied></w> <w lemma="τοῦτο"><supplied reason="lost">τοῦτο</supplied></w> <w lemma="ἐγώ"><supplied reason="lost">μου</supplied></w> <w lemma="εἰμί"><supplied reason="lost">ἐστι</supplied></w> <supplied reason="lost">τὸ</supplied> <w lemma="αἷμα"><supplied reason="lost">αἷ</supplied>
-                  <lb n="2" break="no"/>μ<choice><orig>α</orig><reg>ά</reg></choice></w> <w lemma="ἐγώ">μ<hi rend="ligature">ου</hi></w> τ<choice><orig>ο</orig><reg>ὸ</reg></choice> <hi rend="ligature">τ<choice><orig>η</orig><reg>ῆ</reg></choice></hi>ς <w lemma="καινή">κα<choice><orig>ί</orig><reg>ι</reg></choice><hi rend="ligature">ν<choice><orig>η</orig><reg>ῆ</reg></choice></hi>ς</w> <w lemma="διαθήκη">δ<supplied reason="lost">ιαθήκης</supplied></w> <supplied reason="lost">τὸ</supplied> <supplied reason="lost">ὑπ</supplied><choice><orig>ε</orig><reg>ὲ</reg></choice>ρ  
+                  <lb n="2" break="no"/>μ<choice><orig>α</orig><reg>ά</reg></choice></w> <w lemma="ἐγώ">μ<hi rend="ligature">ου</hi></w> τ<choice><orig>ο</orig><reg>ὸ</reg></choice> <hi rend="ligature">τ<choice><orig>η</orig><reg>ῆ</reg></choice></hi>ς <w lemma="καινή">κα<choice><orig>ὶ</orig><reg>ι</reg></choice><hi rend="ligature">ν<choice><orig>η</orig><reg>ῆ</reg></choice></hi>ς</w> <w lemma="διαθήκη">δ<supplied reason="lost">ιαθήκης</supplied></w> <supplied reason="lost">τὸ</supplied> <supplied reason="lost">ὑπ</supplied><choice><orig>ε</orig><reg>ὲ</reg></choice>ρ  
                     <lb n="3"/><space extent="15" unit="character"></space><w lemma="σύ"><choice><orig>υ</orig><reg>ὑ</reg></choice>μ<choice><orig>ω</orig><reg>ῶ</reg></choice>ν</w> <w lemma="ἐκχέω"><choice><orig>ε</orig><reg>ἐ</reg></choice>κχυν<choice><orig>ο</orig><reg>ό</reg></choice><supplied reason="lost">μενον</supplied> </w>ε<choice><orig>ι</orig><reg>ἰ</reg></choice>ς 
                    <lb n="4"/><space extent="22" unit="character"></space><w lemma="ἄφεσις"><supplied reason="lost">ἄφε</supplied>σιν</w> <w lemma="ἁμαρτία"><supplied reason="lost">ἁμαρτιῶν</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <listApp>
+                   <app loc="1"><rdg source="#Buckler1933">[τοῦ]τό ἐσ[τι]</rdg></app>
+                   <app loc="2-3"><rdg source="#Buckler1933">[διαθήκης τὸ περὶ πολλῶν ἐκκην[όμενον]</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Drink of it, all of you. This is my blood from the new covenant, which is poured out for you for the forgiveness of sins.</p>
             </div>
             <div type="commentary">
-                <p>Poor condition. Partially preserved. A star-cross marks the beginning of the text. Accents and breathings with errors. Text: Matt. 26:27-28.
+                <p>Text: Matt. 26:27-28.
 </p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>Unpublished</bibl>
+                <bibl><ptr target="#Buckler1933"/>, <citedRange>342</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
