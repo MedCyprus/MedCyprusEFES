@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, south half, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
@@ -70,32 +70,35 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-075-01.JPG"><desc>Naos, west wall, south half, lunette, inscription detail</desc></graphic>
-        <graphic url="044-075-02.JPG"><desc>Naos, west wall, south half, lunette, inscription</desc></graphic>
-        <graphic url="044-075-03.JPG"><desc>Naos, west wall, south half, lunette, general view</desc></graphic>
-        <graphic url="044-075-04.JPG"><desc>Naos, west wall, south half, lunette, general view</desc></graphic>
-        <graphic url="044-075-05.JPG"><desc>Naos, west wall, south half, lunette, general view</desc></graphic>
+         <graphic rend="primary" url="044-075-01.JPG"><desc>Entry into Jerusalem, inscription detail</desc></graphic>
+        <graphic url="044-075-02.JPG"><desc>Entry into Jerusalem, inscription</desc></graphic>
+        <graphic url="044-075-03.JPG"><desc>Entry into Jerusalem, general view</desc></graphic>
+        <graphic url="044-075-04.JPG"><desc>Entry into Jerusalem, general view</desc></graphic>
+        <graphic url="044-075-05.JPG"><desc>Entry into Jerusalem, general view</desc></graphic>
         </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/>Ἡ <w lemma="βαϊοφόρος">Βα<choice><orig>ι</orig><reg>ϊ</reg></choice>ω
-                    <lb n="2" break="no"/>φόρος</w>
+                    <lb n="1"/>Ἡ <choice><sic><w lemma="βαϊοφόρος">Βα<choice><orig>ι</orig><reg>ϊ</reg></choice>ω
+                    <lb n="2" break="no"/>φόρος</w></sic><corr>Βαϊοφόρος</corr></choice>
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <listApp>
+                    <app loc="1-2"><rdg source="#Buckler1933">ἡ ἐλιωφόρος</rdg></app>
+                </listApp>
                  </div>
             <div type="translation">
                 <p>Entry into Jerusalem</p> 
             </div>
             <div type="commentary">
-                <p>Good condition. The inscription begins with the symbol of a cross with dots. The word Βαϊοφόρος is misspelled.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 27</citedRange></bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>27</citedRange></bibl>
+                    <bibl><ptr target="#Buckler1933"/>, <citedRange> 344</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
