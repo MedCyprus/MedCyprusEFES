@@ -80,7 +80,9 @@
               </ab>
             </div>
             <div type="apparatus">
-                <p>n/a</p>
+                <listApp>
+                    <app loc="1"><rdg source="#Sacopoulo">Ὁ ΔΕΙ'ΠΝΟC...CTI.s</rdg></app>
+                </listApp>
                  </div>
             <div type="translation">
                 <p>The Supper</p> 

@@ -83,8 +83,9 @@
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
-                 </div>
+                   <listApp>
+    <app loc="1"><rdg source="#Sacopoulo1966">ΜΡ ΘΥ</rdg></app>
+                  </listApp>                 </div>
             <div type="translation">
                 <p>Mother of God</p> 
             </div>
@@ -93,7 +94,7 @@
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 40</citedRange></bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>40</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
