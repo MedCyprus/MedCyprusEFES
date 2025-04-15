@@ -27,8 +27,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, upper register</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. Partailly preserved.</objectType></rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, upper register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -72,14 +72,14 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-006-01.JPG"><desc>Bema, semicylindrical wall, south half, upper register, inscription detail</desc></graphic>
-        <graphic url="044-006-02.JPG"><desc>Bema, semicylindrical wall, south half, upper register, inscription </desc></graphic>
+         <graphic rend="primary" url="044-006-01.JPG"><desc>Communion of the Apostles, Metalepsis (Offering of the Wine), Christ, inscription detail</desc></graphic>
+        <graphic url="044-006-02.JPG"><desc>Communion of the Apostles, Metalepsis (Offering of the Wine), Christ, inscription </desc></graphic>
         </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς Χριστός"> <supplied reason="lost"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan></supplied>
+                    <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς"> <supplied reason="lost"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan></supplied>
                           <milestone unit="column" n="right"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς<am>′</am></abbr></expan></name></persName>   
                 </ab>
             </div>
@@ -90,12 +90,11 @@
                 <p>[Jesus] Christ</p>
             </div>
             <div type="commentary">
-                <p>Partially preserved
-</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>Unpublished</bibl>
+                <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>68-72</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

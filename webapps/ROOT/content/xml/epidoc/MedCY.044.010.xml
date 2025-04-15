@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, lower register, first figure on the left</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, lower register, first figure on the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -88,6 +88,7 @@
             </div>
             <div type="apparatus">
                <listApp>
+                   <app loc="a"><rdg source="#Sacopoulo1966">ΙΩ</rdg></app>
                    <app loc="b"><rdg source="#Buckler1933">χρυσόστομος</rdg></app>
                </listApp>
             </div>
@@ -100,7 +101,7 @@
             <div type="bibliography">
                  <listBibl>
                  <bibl><ptr target="#Buckler1933"/>, <citedRange>342</citedRange></bibl>
-                <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 79-80</citedRange></bibl>
+                <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>79-81</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

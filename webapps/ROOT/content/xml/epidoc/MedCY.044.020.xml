@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, east vault, center</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -41,7 +41,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#AscensionChrist">Ascension, Christ</rs></p>
+                            <p><rs type="iconography" ref="#Ascension">Ascension, Christ</rs>
+                                  <rs type="iconography" ref="#Christ"></rs>
+                                  <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,14 +69,14 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-020-01.JPG"><desc>Bema, east vault, center, inscription</desc></graphic>
-        <graphic url="044-020-02.JPG"><desc>Bema, east vault, center, general view </desc></graphic>
+         <graphic rend="primary" url="044-020-01.JPG"><desc>Ascension, Christ, inscription</desc></graphic>
+        <graphic url="044-020-02.JPG"><desc>Ascension, Christ, general view </desc></graphic>
         </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                      <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς Χριστός"> <supplied reason="lost"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan></supplied><milestone unit="column"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς<am>′</am></abbr></expan></name></persName>   
+                      <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς"> <supplied reason="lost"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan></supplied><milestone unit="column"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς<am>′</am></abbr></expan></name></persName>   
                 </ab>
             </div>
             <div type="apparatus">
@@ -84,11 +86,11 @@
                 <p>[Jesus] Christ</p>
             </div>
             <div type="commentary">
-                <p>Partially preserved</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 60-1</citedRange></bibl>
+                <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 60-61</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

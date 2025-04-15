@@ -87,8 +87,10 @@
             </div>
             <div type="apparatus">
                <listApp>
-                   <app loc="1"><rdg source="#Buckler1933">[τοῦ]τό ἐσ[τι]</rdg></app>
-                   <app loc="2-3"><rdg source="#Buckler1933">[διαθήκης τὸ περὶ πολλῶν ἐκκην[όμενον]</rdg></app>
+                   <app loc="1"><rdg source="#Sacopoulo1966">[ΠΙΕ]ΤΕ ΕΞ Α[YTOY]</rdg><rdg source="#Buckler1933">[τοῦ]τό ἐσ[τι]</rdg></app>
+                   <app loc="2-3"><rdg source="Sacopoulo1966">ΚΑΙΝΗ[C ΔΙΑΘΗΚΗC ΤΟ ΥΠ]ΕΡ</rdg><rdg source="#Buckler1933">[διαθήκης τὸ περὶ πολλῶν ἐκκην[όμενον]</rdg></app>
+                   <app loc="3"><rdg source="#Sacopoulo1966">ΥΜ[ΩΝ ΚΑΙ ΠΟΛΛΩΝ ΕΚΧΥΝΟΜΕΝΟΝ]</rdg></app>
+                   <app loc="4-5"><rdg source="#Sacopoulo1966">ΑΦΕCIN [ΑΜΑΡ]ΤΙΩΝ</rdg></app>
                </listApp>
             </div>
             <div type="translation">
@@ -101,6 +103,7 @@
             <div type="bibliography">
                  <listBibl>
                 <bibl><ptr target="#Buckler1933"/>, <citedRange>342</citedRange></bibl>
+                <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>68-72</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
