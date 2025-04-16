@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Prelate, unidentified</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,24 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, east vault, north side, lower register, on the west, right of the cross sphere</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the left of the medallion with the representation of the saint</layout>
+                                <layout>On the left of the medallion with the representation of the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters.The word ἅγιος is abbreviated inside an omicron which indicates the article. 
+                            <handNote>White letters against blue background. Majuscule letters. The word ἅγιος is abbreviated inside an omicron which indicates the article. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#PrelateUnidentified_MedCY044.039">Prelate, unidentified</rs></p>
+                            <p><rs type="iconography" ref="#unidentified_figure">Prelate, unidentified, possibly Saint Nikephoros</rs>
+                                  <rs type="iconography" ref="#Nikephoros"></rs>
+                                  <rs type="iconography" ref="#prelate"></rs>
+                                  <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,31 +71,31 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-039-01.JPG"><desc>Bema, east vault, north side, lower register, on the west, inscription</desc></graphic>
-        <graphic url="044-039-02.JPG"><desc>Bema, east vault, north side, lower register, on the west, general view</desc></graphic>
+         <graphic rend="primary" url="044-039-01.JPG"><desc>Prelate, unidentified, inscription</desc></graphic>
+        <graphic url="044-039-02.JPG"><desc>Prelate, unidentified, general view</desc></graphic>
         </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <cb n="a"/>
                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
-                    <cb n="b"/>
-                    <lb n="1"/><gap reason="lost" unit="character"></gap>
+                 <lb n="2"/><gap reason="lost" unit="character"></gap>
                 </ab> 
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <listApp>
+                   <app loc="2-9"><rdg source="#Sacopoulo1966">ΝΙΚΗΦΟΙΟC</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Saint [..?..]</p>
             </div>
             <div type="commentary">
-                <p>Poorly preserved. The saint's name has not survived.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
-                <bibl>Unpublished</bibl>
+                <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>84-85</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

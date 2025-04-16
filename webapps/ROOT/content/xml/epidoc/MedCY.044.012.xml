@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, lower register, first figure on the right</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, lower register, first figure on the right</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -70,7 +70,7 @@
     </teiHeader>
     <facsimile>
          <graphic rend="primary" url="044-012-01.JPG"><desc>Saint Ignatios, inscription</desc></graphic>
-        <graphic url="044-012-02.JPG"><desc>Saint Ignatios, inscriprion detail </desc></graphic>
+        <graphic url="044-012-02.JPG"><desc>Saint Ignatios, inscription detail </desc></graphic>
         <graphic url="044-012-03.JPG"><desc>Saint Ignatios, inscription detail </desc></graphic>
         </facsimile>
     <text>
@@ -88,7 +88,9 @@
               </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>          
+               <listApp>
+                   <app loc="a.2-6"><rdg source="#Sacopoulo1966">ΙΓΝΑ<hi rend="ligature">ΤΗ</hi>ΟC</rdg></app>
+               </listApp>          
             </div>
             <div type="translation">
                 <p>Saint Ignatios the God-bearing</p>
@@ -99,7 +101,7 @@
             <div type="bibliography">
                  <listBibl>
                 <bibl><ptr target="#Buckler1933"/>, <citedRange>342</citedRange></bibl>
-                <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 83</citedRange></bibl>
+                <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>83</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

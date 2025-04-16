@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Thekla</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,13 +28,13 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwest recess' soffit, east side, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the right of the saint's head</layout>
+                                <layout>On the right of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -42,7 +42,9 @@
                           </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Thekla">Thekla</rs></p>
+                            <p><rs type="iconography" ref="#Thekla">Thekla</rs>
+                                   <rs type="iconography" ref="#female"></rs>
+                                   <rs type="iconography" ref="#martyr"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,9 +70,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-074-01.JPG"><desc>Naos, southwest recess' soffit, east side, lower register, inscription detail</desc></graphic>
-        <graphic url="044-074-02.JPG"><desc>Naos, southwest recess' soffit, east side, lower register, inscription</desc></graphic>
-        <graphic url="044-074-03.JPG"><desc>Naos, southwest recess' soffit, east side, lower register, general view</desc></graphic>
+         <graphic rend="primary" url="044-074-01.JPG"><desc>Saint Thekla, inscription detail</desc></graphic>
+        <graphic url="044-074-02.JPG"><desc>Saint Thekla, inscription</desc></graphic>
+        <graphic url="044-074-03.JPG"><desc>Saint Thekla, general view</desc></graphic>
         </facsimile>
     <text>
         <body>
@@ -83,17 +85,17 @@
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <p>n/a</p>
                  </div>
             <div type="translation">
                 <p>Saint Thekla</p> 
             </div>
             <div type="commentary">
-                <p>Good condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 85</citedRange></bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>, <citedRange> 85-86</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
