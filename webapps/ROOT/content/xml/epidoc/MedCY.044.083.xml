@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Andronikos</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,24 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, south half, lower register, first figure on the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the right of the saint's head</layout>
+                                <layout>On the right of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. The word ἅγιος is abbreviated inside an omicron which indicates the article. Characters' size varies. Accents and breathings almost systematic. Βreathings of the archaic variety (angular). Letter height: <height unit="cm">4</height>.
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. The word ἅγιος is abbreviated inside an omicron which indicates the article. Near systematic use of accents and breathings. Βreathings of the archaic variety (angular). Letter height: <height unit="cm">4</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Andronikos">Andronikos</rs></p>
+                            <p><rs type="iconography" ref="#Andronikos">Andronikos</rs>
+                                   <rs type="iconography" ref="#monastic"></rs>
+                                   <rs type="iconography" ref="#ascetic"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,9 +71,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-083-01.JPG"><desc>Naos, west wall, south half, lower register, first figure on the left, inscription detail</desc></graphic>
-        <graphic url="044-083-02.JPG"><desc>Naos, west wall, south half, lower register, first figure on the left, inscription</desc></graphic>
-        <graphic url="044-083-03.JPG"><desc>Naos, west wall, south half, lower register, first figure on the left, general view</desc></graphic>
+         <graphic rend="primary" url="044-083-01.JPG"><desc>Saint Andronikos, inscription detail</desc></graphic>
+        <graphic url="044-083-02.JPG"><desc>Saint Andronikos, inscription</desc></graphic>
+        <graphic url="044-083-03.JPG"><desc>Saint Andronikos, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -84,17 +87,17 @@
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <p>n/a</p>
                  </div>
             <div type="translation">
                 <p>Saint Andronikos</p> 
             </div>
             <div type="commentary">
-                <p>Partially preserved</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 100</citedRange></bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>100-101</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
