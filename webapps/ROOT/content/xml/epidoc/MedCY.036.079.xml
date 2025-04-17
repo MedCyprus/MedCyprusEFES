@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Prophet Ezekiel</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -78,7 +79,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                   <cb n="a"/>
+                      <lb n="1"/>Ὁ <persName type="sacred" key="Ezekiel"><w lemma="προφήτης"><hi rend="ligature">πρ</hi>ο
+                        <lb n="2" break="no"/>φή<hi rend="ligature">της</hi></w>
+                         <cb n="b"/>
+                          <lb n="1"/><name type="forename" nymRef="#Ἰεζεκιήλ"><choice><orig>Ï</orig><reg>Ἰ</reg></choice><choice><orig>έ</orig><reg>ε</reg></choice>
+                         <lb n="2" break="no"/>ζε
+                          <lb n="3" break="no"/>κι<space quantity="1" unit="character"/>ήλ</name></persName>
                </ab>
             </div>
             <div type="apparatus">
@@ -88,7 +95,7 @@
                 <p>Prophet Ezekiel</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
