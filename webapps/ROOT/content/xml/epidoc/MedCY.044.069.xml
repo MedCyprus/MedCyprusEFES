@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Ephraim the Syrian's scroll</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwest recess, lower register, first figure on the right</rs>
                                     <dimensions unit="cm" scope="text"><height>45</height><width unit="cm">13</width></dimensions>
                                      <dimensions unit="cm" scope="scroll"><height>51</height><width unit="cm">18</width></dimensions>
@@ -39,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters in greenish background. Majuscule letters. Characters' size varies. Short, horizontal and vertical lines appear sporadically in horizontal and vertical bars of eta, tau, and pi. Omega with crosslet. Mu with its middle bar forms an upsilon; a short, horizontal line appears in its middle bar. TΡ and ΤΟ in ligatures, with tau in TO emerging from omicron. The word ending Ν in ταπείνωσιν (line 7) is rendered with tachygraphic sign. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height:<height unit="cm">3</height>.
+                            <handNote>Black letters in greenish background. Majuscule letters. Characters' size varies. Short, horizontal and vertical lines appear sporadically in horizontal and vertical bars of eta, tau, and pi. Omega with crosslet. Mu with its middle bar forms an upsilon; a short, horizontal line appears in its middle bar. TΡ, ΤΟ joined in ligatures, with tau in TO emerging from omicron. The ending Ν in ταπείνωσιν (line 7) is rendered with tachygraphic sign. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height:<height unit="cm">3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -73,36 +73,38 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-069-01.JPG"><desc>Naos, southwest recess, lower register, first figure on the right, inscription</desc></graphic>
-        <graphic url="044-069-02.JPG"><desc>Naos, southwest recess, lower register, first figure on the right, general view</desc></graphic>
+         <graphic rend="primary" url="044-069-01.JPG"><desc>Saint Ephraim the Syrian's scroll, inscription</desc></graphic>
+        <graphic url="044-069-02.JPG"><desc>Saint Ephraim the Syrian's scroll, general view</desc></graphic>
    </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><g ref="#cross">+</g>Ἡ <w lemma="μακάριος">Mακά             
+                  <lb n="1"/><g ref="#cross">+</g> <w lemma="μακάριος">Mακά             
                   <lb n="2" break="no"/>ριος</w> <w lemma="ἀληθῶς">ἀλη
-                  <lb n="3" break="no"/>θῶς</w> <expan><abbr>κ</abbr><ex>αὶ</ex></expan> <w lemma="τρισμακάριος"><hi rend="ligature">τρ</hi>ισ
+                  <lb n="3" break="no"/>θῶς</w> <expan><abbr>κ</abbr><ex>αὶ</ex></expan><am>‵</am> <w lemma="τρισμακάριος"><hi rend="ligature">τρ</hi>ισ
                   <lb n="4" break="no"/>μακάρισ
                   <lb n="5" break="no"/><hi rend="ligature">το</hi>ς</w> ὁ <w lemma="ἐγκράτεια">ἐγκρά
-                  <lb n="6" break="no"/>τειαν </w><expan><abbr> κ</abbr><ex>αὶ</ex></expan> <w lemma="ταπείνωσις">τα
-                  <lb n="7" break="no"/>πείνωσι<expan><ex>ν</ex></expan></w>
-                  <lb n="8"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan> <w lemma="ἀγάπη">ἀγά<hi rend="ligature">πην</hi></w> <w lemma="κτῶμαι">ἐ 
-                  <lb n="9" break="no"/><supplied reason="lost">κ</supplied>τήσατ<choice><orig>ῶ</orig></choice><reg>ω</reg></w>
+                  <lb n="6" break="no"/>τειαν </w><expan><abbr> κ</abbr><ex>αὶ</ex></expan><am>‵</am> <w lemma="ταπείνωσις">τα
+                  <lb n="7" break="no"/>πείνωσ<choice><orig>ῖ</orig><reg>ι</reg></choice><expan><ex>ν</ex></expan></w>
+                  <lb n="8"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan><am>‵</am> <w lemma="ἀγάπη">ἀγά<hi rend="ligature">πην</hi></w> <w lemma="κτῶμαι">ἐ 
+                  <lb n="9" break="no"/><supplied reason="lost">κ</supplied>τήσατ<choice><orig>ῶ</orig><reg>ω</reg></choice></w>
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <listApp>
+                    <app loc="8-9"><rdg source="#Sacopoulo1966">Ε[ΤΗ]ΡΗCATΩ</rdg></app>
+                </listApp>
                  </div>
             <div type="translation">
                 <p>PENDING</p> 
             </div>
             <div type="commentary">
-                <p>Good condition. A cross with arrays in the angles marks the beginning of the text. The text derives from the Saint Ephraim the Syrian's homily "Sermo de virtutibus et vitiis". </p>
+                <p>The text derives from the Saint Ephraim the Syrian's homily "Sermo de virtutibus et vitiis". </p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                   <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 100</citedRange></bibl>
+                   <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>99-100</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
