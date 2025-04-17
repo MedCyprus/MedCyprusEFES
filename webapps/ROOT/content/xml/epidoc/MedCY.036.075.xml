@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Delta with a bottom bar terminating in serifs at either end. ΠΡ and ΦΤ joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -80,8 +80,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/> Ὁ <persName type="sacred" key="Gideon"><w lemma="προφήτης"><hi rend="ligature">πρ</hi>ο<hi rend="ligature">φτ</hi>ή<supplied reason="omitted">ς</supplied></w>
-                  <lb n="2"/><name type="forename" nymRef="#Δανιήλ">Γε<space quantity="1" unit="character"/>δε
+                    <lb n="1"/> Ὁ <persName type="sacred" key="Gideon"><w lemma="προφήτης"><choice><sic><hi rend="ligature">πρ</hi>ο<hi rend="ligature">φτ</hi>ή<supplied reason="omitted">ς</supplied></sic><corr>προφήτης</corr></choice></w>
+                  <lb n="2"/><name type="forename" nymRef="#Γεδεών">Γε<space quantity="1" unit="character"/>δε
                   <lb n="3" break="no"/><choice><orig>ῶ</orig><reg>ώ</reg></choice>ν</name></persName> 
                </ab>
             </div>
