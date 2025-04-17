@@ -38,12 +38,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. ΠΡ and TH joined in ligature. Δαυΐδ is rendered by an abbreviation with a big, wavy line above the name. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#David">David</rs>
-                                
                                 <rs type="iconography" ref="#prophet"></rs>
                                 <rs type="iconography" ref="#male"></rs>
                             </p>
@@ -87,7 +86,7 @@
                         <cb n="b"/>
                        <lb n="1"/>φή
                        <lb n="2" break="no"/><hi rend="ligature">τη</hi>ς</w>
-                         <lb n="3"/><name type="forename" nymRef="#Δαυΐδ">Δαδ</name></persName> 
+                         <lb n="3"/><name type="forename" nymRef="#Δαυΐδ"><expan><abbr rend="supraline">Δα</abbr><ex>υΐ</ex><abbr rend="supraline">δ</abbr></expan></name><am>&#x00B4;</am></persName> 
                </ab>
             </div>
             <div type="apparatus">
