@@ -77,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><g ref="#cross">+</g><w lemma="χαίρω">Χα<choice><orig>ί</orig><reg>ῖ</reg></choice>ρε</w> <w lemma="κεχαριτωμένη"><choice><sic>κα<choice><orig>ὶ</orig><reg>ι</reg></choice>χαριτ<choice><orig>ῶ</orig><reg>ω</reg></choice>μέ<hi rend="ligature">νη</hi></sic><corr>κεχαριτωμένη</corr></choice></w> <choice><orig>o</orig><reg>ὁ</reg></choice> <persName  type="divine" key="Lord"><name nymRef="#Κύριος"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύριο</ex><abbr rend="supraline">ς</abbr></expan></w></name></persName> μετ<choice><orig>α</orig><reg>ά</reg></choice> <w lemma="σύ">σοῦ</w> 
+                  <lb n="1"/><g ref="#cross">+</g><w lemma="χαίρω">Χα<choice><orig>ί</orig><reg>ῖ</reg></choice>ρε</w> <w lemma="κεχαριτωμένη"><choice><sic>κα<choice><orig>ὶ</orig><reg>ι</reg></choice>χαριτ<choice><orig>ῶ</orig><reg>ω</reg></choice>μέ<hi rend="ligature">νη</hi></sic><corr>κεχαριτωμένη</corr></choice></w> <choice><orig>o</orig><reg>ὁ</reg></choice> <persName  type="divine" key="Lord"><name nymRef="#Κύριος"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύριο</ex><abbr rend="supraline">ς</abbr></expan></w></name></persName>    μετ<choice><orig>α</orig><reg>ά</reg></choice>  <w lemma="σύ">σοῦ</w> 
                </ab>
             </div>
             <div type="apparatus">
