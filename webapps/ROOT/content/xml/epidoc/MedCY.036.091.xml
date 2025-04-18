@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Annunciation, Gabriel's address to the Virgin</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Both of Mu with its middle bar forming a tau. NH and OY joined in ligature. Horizontal wavy line above the abbreviation of Κύριος. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -69,14 +70,14 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-091-01.JPG"><desc>Dome, northeast pendentive, inscription</desc></graphic>
-        <graphic url="036-091-02.JPG"><desc>Dome, northeast pendentive, general view</desc></graphic>
+         <graphic rend="primary" url="036-091-01.JPG"><desc>Annunciation, Gabriel's address to the Virgin, inscription</desc></graphic>
+        <graphic url="036-091-02.JPG"><desc>Annunciation, Gabriel's address to the Virgin, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                    <lb n="1"/><g ref="#cross">+</g><w lemma="χαίρω">Χα<choice><orig>ί</orig><reg>ῖ</reg></choice>ρε</w> <w lemma="κεχαριτωμένη"><choice><sic>καιχαρïτομέ<hi rend="ligature">νη</hi></sic><corr>κεχαριτωμένη</corr></choice></w> <choice><orig>o</orig><reg>ὁ</reg></choice> <persName  type="divine" key="Lord"><name nymRef="#Κύριος"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύριο</ex><abbr rend="supraline">ς</abbr></expan></w> </name></persName>μετ<choice><orig>ὰ</orig><reg>ά</reg></choice> <w lemma="σύ">σ<hi rend="ligature">οῦ</hi></w> 
                </ab>
             </div>
             <div type="apparatus">
@@ -86,7 +87,7 @@
                 <p>Hail, full of grace. The Lord is with you.</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>The inscription is based on the dialoque between the Archangel Gabriel and the Virgin according to Luke 1:28, 38.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
