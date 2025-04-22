@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Antonios' scroll</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, north half, lower register, first figure on the left</rs>
                                      <dimensions unit="cm" scope="text"><height>40</height><width unit="cm">13</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>48</height><width unit="cm">19</width></dimensions>
@@ -39,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters in greenish background. Majuscule letters. Omega with crosslet. ΑΥ, ΕΙ, OY and TO in ligatures, with upsilon and tau emerging from omicron repsectively.The word ending Ν in αὐτόν (line 4) is rendered with a tachygraphic sign. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
+                            <handNote>Black letters in greenish background. Majuscule letters. Omega with crosslet. ΑΥ, OY, TO joined in ligature, with upsilon and tau emerging from omicron repsectively.The word ending Ν in αὐτόν (line 4) is rendered with a tachygraphic sign. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -73,36 +73,38 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-089-01.JPG"><desc>Naos, west wall, north half, lower register, first figure on the left, inscription detail</desc></graphic>
-        <graphic url="044-089-02.JPG"><desc>Naos, west wall, north half, lower register, first figure on the left, general view</desc></graphic>
-        <graphic url="044-089-03.JPG"><desc>Naos, west wall, north half, lower register, first figure on the left, general view</desc></graphic>
+         <graphic rend="primary" url="044-089-01.JPG"><desc>Saint Antonios' scroll, inscription detail</desc></graphic>
+        <graphic url="044-089-02.JPG"><desc>Saint Antonios' scroll, general view</desc></graphic>
+        <graphic url="044-089-03.JPG"><desc>Saint Antonios' scroll, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><g ref="#cross">+</g><w lemma="ἐγώ"><choice><orig>Ἑ</orig><reg>Ἐ</reg></choice>γὼ</w> <w lemma="οὐκέτι"><hi rend="ligature">οὐ</hi>         
-                  <lb n="2" break="no"/>κέτι</w> <w lemma="φοβέομαι">φοβ
-                  <lb n="3" break="no"/><supplied reason="lost">οῦμαι</supplied></w> <supplied reason="lost">τὸν</supplied> <persName type="divine" key="God"><name nymRef="#Θεός"><w lemma="Θεός"><supplied reason="lost"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><abbr rend="supraline">ν</abbr></expan></supplied></w></name></persName> <w lemma="ἀλλά"><supplied reason="lost">ἀλλά</supplied></w> <w lemma="ἀγαπῶ"><supplied reason="lost">ἀ</supplied>
-                  <lb n="4" break="no"/>γαπ<choice><orig>ο</orig><reg>ο&#x0342; </reg></choice></w> <w lemma="αὐτός">αὐ<hi rend="ligature">τ<choice><orig>ω</orig><reg>ώ</reg></choice></hi><expan><ex>ν</ex></expan></w>· ἡ
+                  <lb n="1"/><g ref="#cross">+</g> <w lemma="ἐγώ"><choice><orig>Ἑ</orig><reg>Ἐ</reg></choice>γὼ</w> <w lemma="οὐκέτι"><hi rend="ligature">οὐ</hi>         
+                  <lb n="2" break="no"/>κέτι</w> <w lemma="φοβοῦμαι">φοβ
+                  <lb n="3" break="no"/><supplied reason="lost">οῦμαι</supplied></w> <supplied reason="lost">τὸν</supplied> <persName type="divine" key="God"><w lemma="Θεός"><supplied reason="lost"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><abbr rend="supraline">ν</abbr></expan></supplied></w></persName> <w lemma="ἀλλά"><supplied reason="lost">ἀλλά</supplied></w> <w lemma="ἀγαπῶ"><supplied reason="lost">ἀ</supplied>
+                  <lb n="4" break="no"/>γαπ<choice><orig>ο</orig><reg>ο&#x0342; </reg></choice></w> <w lemma="αὐτός"><choice><sic><hi rend="ligature">αὐ</hi><hi rend="ligature">τ<choice><orig>ω</orig><reg>ώ</reg></choice></hi><expan><ex>ν</ex></expan></sic><corr>αὐτόν</corr></choice></w>· ἡ
                   <lb n="5"/><supplied reason="lost">γὰρ</supplied> <w lemma="ἀγάπη"></w><supplied reason="lost">ἀ</supplied>γ<supplied reason="lost">ά</supplied>π<supplied reason="lost">η</supplied>
-                  <lb n="6"/><w lemma="ἔξω"><supplied reason="lost">ἔξω</supplied></w> <w lemma="βάλλω"><supplied reason="lost">βά</supplied>
-                  <lb n="7" break="no"/>λει</w> <hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi>ν <w lemma="φόβος">φ<supplied reason="lost">ό</supplied>
+                  <lb n="6"/><w lemma="ἔξω"><supplied reason="lost">ἔξω</supplied></w> <w lemma="βάλλω"><choice><sic><supplied reason="lost">βά</supplied>
+                  <lb n="7" break="no"/>λει</sic><corr>βάλλει</corr></choice></w> <hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi>ν <w lemma="φόβος">φ<supplied reason="lost">ό</supplied>
                   <lb n="8" break="no"/>β<supplied reason="lost">ο</supplied>ν</w><g ref="#cross">+</g>
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <listApp>
+                    <app loc="2"><rdg source="#Sacopoulo1966">ΦΟΡ</rdg></app>
+                </listApp>
                  </div>
             <div type="translation">
                 <p>I no longer fear God, but I love Him. For love casts out fear</p> 
             </div>
             <div type="commentary">
-                <p>Partially preserved. A cross with arrays in the angles marks the beginning and probably the end of the text. Τhe words αὐτόν και βάλλει are misspelled. The inscription is identified with a saying of Saint Antonios from the Apophegmata Patrum (PG 65,85). The same text is proposed for the scroll of Saint Antonios in the Painter's Manual of Dionysios of Fourna (<bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 105, n.1</citedRange></bibl>).</p> 
+                <p>The inscription is identified with a saying of Saint Antonios from the Apophegmata Patrum (PG 65,85). The same text is proposed for the scroll of Saint Antonios in the Painter's Manual of Dionysios of Fourna (<bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 105, n.1</citedRange></bibl>).</p> 
             </div>
             <div type="bibliography">
                 <listBibl> 
-                   <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 105</citedRange></bibl>
+                   <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>105</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
