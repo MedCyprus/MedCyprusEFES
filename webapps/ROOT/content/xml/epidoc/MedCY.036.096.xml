@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Sigma with a diagonal spine and a wavy tail. AI joined in ligature. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Matthew">Matthew the Evangelist</rs></p>
+                            <p><rs type="iconography" ref="#Matthew">Matthew the Evangelist</rs>
+                            <rs type="iconography" ref="#male"></rs>
+                             <rs type="iconography" ref="#evangelist"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
