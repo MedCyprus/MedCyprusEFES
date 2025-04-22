@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. AN, TH, and THC joined in ligature. The sigla Ἰ(ησοῦ)ς Χ(ριστό)ς are fully rendered by an abbreviation with wavy line above each word. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -81,12 +81,12 @@
               <ab><lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς Χριστός"> <expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan><am>&#x00A0;῀&#x00A0;</am><milestone unit="column"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan><am>&#x00B4;</am></name></persName>
                   <cb n="a"/>
                   <lb n="1"/>Ὁ 
-                   <lb n="2"/><addName type="epithet" key="Antiphonetes"><hi rend="ligature"><choice><orig>A</orig><reg>Ἀ</reg></choice>ν</hi><hi rend="ligature">τι</hi>
+                   <lb n="2"/><addName type="epithet" key="Antiphonetes"><choice><sic><hi rend="ligature"><choice><orig>A</orig><reg>Ἀ</reg></choice>ν</hi><hi rend="ligature">τι</hi>
                      <lb n="3" break="no"/>
                       <cb n="b"/>
                        <lb n="1"/>φω
                        <lb n="2" break="no"/>νη
-                      <lb n="1" break="no"/><hi rend="ligature">τής</hi></addName>
+                      <lb n="1" break="no"/><hi rend="ligature">τής</hi></sic><corr>Ἀντιφωνητής</corr></choice></addName>
               </ab>
             </div>
             <div type="apparatus">
