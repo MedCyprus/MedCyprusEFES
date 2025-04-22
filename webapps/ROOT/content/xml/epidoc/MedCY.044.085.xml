@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Hilarion's scroll</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,14 +28,14 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged. Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, south half, lower register, middle figure</rs>
                                     <dimensions unit="cm" scope="text"><height>21</height><width unit="cm">12</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>26</height><width unit="cm">19</width></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the open scroll held in the left hand by the saint</layout>
+                                <layout>On the open scroll held in the left hand by the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -73,23 +73,23 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-085-01.JPG"><desc>Naos, west wall, south half, lower register, middle figure, inscription</desc></graphic>
-        <graphic url="044-085-02.JPG"><desc>Naos, west wall, south half, lower register, middle figure, inscription</desc></graphic>
-        <graphic url="044-085-03.JPG"><desc>Naos, west wall, south half, lower register, middle figure, general view</desc></graphic>
+         <graphic rend="primary" url="044-085-01.JPG"><desc>Saint Hilarion's scroll, inscription</desc></graphic>
+        <graphic url="044-085-02.JPG"><desc>Saint Hilarion's scroll, inscription</desc></graphic>
+        <graphic url="044-085-03.JPG"><desc>Saint Hilarion's scroll, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><g ref="#cross">+</g>Ἡ <w lemma="ψυχή">ψυχὴ</w>              
-                  <lb n="2"/><w lemma="ἕβδομος">ἑβδ<choice><orig>ο</orig><reg>ό</reg></choice>μ<choice><orig>ὴ</orig><reg>η</reg></choice></w>
-                  <lb n="3"/><gap reason="lost" extent="3" unit="character"/>
-                  <lb n="4"/><gap reason="lost" extent="3" unit="character"/><unclear>δου</unclear>
-                  <lb n="5"/><gap reason="lost" extent="3" unit="character"/><unclear>῀</unclear><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς Χριστός"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></name></persName>   
+                  <lb n="1"/><g ref="#cross">+</g> <w lemma="ψυχή">Ψυχὴ</w>              
+                  <lb n="2"/><w lemma="ἕβδομος">ἑβδ<choice><orig>ο</orig><reg>ό</reg></choice>μ<choice><orig>ή</orig><reg>η</reg></choice></w>
+                  <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
+                  <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><unclear>δου</unclear>
+                  <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><unclear>῀</unclear><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></name></persName>   
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <p>n/a</p>
                  </div>
             <div type="translation">
                 <p>The soul
@@ -99,11 +99,11 @@
                    [..?..]῀̣Christ </p> 
             </div>
             <div type="commentary">
-                <p> Badly damaged. A cross with arrays in the angles marks the beginning of the text. </p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                   <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 102</citedRange></bibl>
+                   <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>102</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
