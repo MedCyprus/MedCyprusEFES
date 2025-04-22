@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Sabbas' scroll</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,18 +28,18 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, north half, lower register, first figure from the right</rs>
                                     <dimensions unit="cm" scope="text"><height>42</height><width unit="cm">14</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>47</height><width unit="cm">18,5</width></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the open scroll held in the left hand by the saint</layout>
+                                <layout>On the open scroll held in the left hand by the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters in greenish background. Majuscule letters. Characters' size varies. Omega with crosslet. OY in ligature, with upsilon emerging from omicron. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
+                            <handNote>Black letters in greenish background. Majuscule letters. Characters' size varies. Omega with crosslet. OY joined in ligature, with upsilon emerging from omicron. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -73,9 +73,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-093-01.JPG"><desc>Naos, west wall, north half, lower register, first figure on the right, inscription detail</desc></graphic>
-        <graphic url="044-093-02.JPG"><desc>Naos, west wall, north half, lower register, first figure on the right, inscription detail</desc></graphic>
-        <graphic url="044-093-03.JPG"><desc>Naos, west wall, north half, lower register, first figure on the right, general view</desc></graphic>
+         <graphic rend="primary" url="044-093-01.JPG"><desc>Saint Sabbas' scroll, inscription</desc></graphic>
+        <graphic url="044-093-02.JPG"><desc>Saint Sabbas' scroll, inscription</desc></graphic>
+        <graphic url="044-093-03.JPG"><desc>Saint Sabbas' scroll, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -84,26 +84,29 @@
                 <lb n="1"/><g ref="#cross">+</g><w lemma="ὥσπερ"><choice><orig>Ὧ</orig><reg>Ὥ</reg></choice>σπερ</w>         
                 <lb n="2"/><w lemma="νεκρός">νεκρὸς</w>
                 <lb n="3"/><hi rend="ligature">οὐ</hi>κ<gap reason="lost" extent="2" unit="character"/>σθή
-                <lb n="4"/>ἠ<gap reason="lost" extent="3" unit="character"/>ος
-                <lb n="5"/>ὁ<gap reason="lost" extent="4" unit="character"/>νό
-                <lb n="6"/><gap reason="lost" extent="3" unit="character"/>λ<gap reason="lost" extent="1" unit="character"/>
-                <lb n="7"/><gap reason="lost" extent="3" unit="character"/>
-                <lb n="8"/><gap reason="lost" extent="3" unit="character"/>ν
-                <lb n="9"/><gap reason="lost" extent="3" unit="character"/>
+                <lb n="4"/>ἠ<gap reason="lost" extent="unknown" unit="character"/>ος
+                <lb n="5"/>ὁ<gap reason="lost" extent="unknown" unit="character"/>νό
+                <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/>λ<gap reason="lost" unit="character" quantity="1"/>
+                <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>
+                <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>ν
+                <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/>
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <listApp>
+                    <app loc="2"><rdg source="#Sacopoulo1966">ΝΕΚΟC</rdg></app>
+                    <app loc="3"><rdg source="#Sacopoulo1966">ΟΥ...CΘΗ</rdg></app>
+                </listApp>
                  </div>
             <div type="translation">
                 <p>Not usefully translated</p> 
             </div>
             <div type="commentary">
-                <p>Partially preserved. A cross with arrays in the angles marks the beginning of the text.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                   <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 107</citedRange></bibl>
+                   <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>107</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

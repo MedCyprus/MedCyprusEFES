@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Faded.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, east vault, south side, lower register, center</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -68,30 +68,32 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-050-01.JPG"><desc>Bema, east vault, south side, lower register, center, inscription</desc></graphic>
-        <graphic url="044-050-02.JPG"><desc>Bema, east vault, south side, lower register, center, general view</desc></graphic>
-        <graphic url="044-050-03.JPG"><desc>Bema, east vault, south side, lower register, center, general view</desc></graphic>
+         <graphic rend="primary" url="044-050-01.JPG"><desc>Cryptograms, inscription</desc></graphic>
+        <graphic url="044-050-02.JPG"><desc>Cryptograms, general view</desc></graphic>
+        <graphic url="044-050-03.JPG"><desc>Cryptograms, general view</desc></graphic>
         </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   <lb n="1"/><abbr>Λ</abbr><milestone unit="column"/><abbr>Π</abbr>
-                  <lb n="2"/><abbr rend="supraline">Μ</abbr><milestone unit="column"/><abbr rend="supraline">C</abbr>
+                   <lb n="1"/><abbr>Λ</abbr> <milestone unit="column"/><abbr>Π</abbr>
+                  <lb n="2"/><abbr rend="supraline">Μ</abbr> <milestone unit="column"/><abbr rend="supraline">C</abbr>
                 </ab> 
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <listApp>
+                   <app loc="1"><rdg source="#Sacopoulo1966">(Α) | Π</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Unknown</p>
             </div>
             <div type="commentary">
-                <p>Good condition. The naos and narthex of Asinou contain numerous cryptograms that have been previously discussed in literature (<bibl><ptr target="#Rhoby2009"/>,<citedRange> 344-5</citedRange></bibl>; <bibl><ptr target="#Ševčenko2012"/>,<citedRange> 84-5</citedRange></bibl>; <bibl><ptr target="#Kalopissi-Verti2012"/>,<citedRange>190-2</citedRange></bibl>; <bibl><ptr target="#MoutafovRhoby2012"/>,<citedRange> 181-7</citedRange></bibl>). This particular cryptic inscription has not yet been deciphered. Sacopoulou reconstructed the letters AΠΜC and proposed to read them as follows: Ἀδὰμ Πεπτωκὼς Μετέστη Σταυρὸν (<bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 112</citedRange></bibl>).</p>
+                <p>The naos and narthex of Asinou contain numerous cryptograms that have been previously discussed in literature (<bibl><ptr target="#Rhoby2009"/>,<citedRange> 344-5</citedRange></bibl>; <bibl><ptr target="#Ševčenko2012"/>,<citedRange> 84-5</citedRange></bibl>; <bibl><ptr target="#Kalopissi-Verti2012"/>,<citedRange>190-2</citedRange></bibl>; <bibl><ptr target="#MoutafovRhoby2012"/>,<citedRange> 181-7</citedRange></bibl>). This particular cryptic inscription has not yet been deciphered. Sacopoulou reconstructed the letters AΠΜC and proposed to read them as follows: Ἀδὰμ Πεπτωκὼς Μετέστη Σταυρὸν (<bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 112</citedRange></bibl>).</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
-                <bibl><ptr target="#Sacopoulo1966"/>,<citedRange>111-2</citedRange></bibl>
+                <bibl><ptr target="#Sacopoulo1966"/>,<citedRange>111-12</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
