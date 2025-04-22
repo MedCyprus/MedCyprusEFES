@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Euthymios</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,13 +28,13 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, north half, lower register, middle figure</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the right of the saint's head</layout>
+                                <layout>On the right of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -71,9 +71,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-090-01.JPG"><desc>Naos, west wall, north half, lower register, middle figure, inscription detail</desc></graphic>
-        <graphic url="044-090-02.JPG"><desc>Naos, west wall, north half, lower register, middle figure, general view</desc></graphic>
-        <graphic url="044-090-03.JPG"><desc>Naos, west wall, north half, lower register, middle figure, general view</desc></graphic>
+         <graphic rend="primary" url="044-090-01.JPG"><desc>Saint Euthymios, inscription detail</desc></graphic>
+        <graphic url="044-090-02.JPG"><desc>Saint Euthymios, general view</desc></graphic>
+        <graphic url="044-090-03.JPG"><desc>Saint Euthymios, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -87,17 +87,17 @@
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <p>n/a</p>
                  </div>
             <div type="translation">
                 <p>Saint Euthymios</p> 
             </div>
             <div type="commentary">
-                <p>Good condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange>105</citedRange></bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>105</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
