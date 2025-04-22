@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Euthymios' scroll</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,14 +28,14 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, north half, lower register, middle figure</rs>
                                      <dimensions unit="cm" scope="text"><height>46</height><width unit="cm">18</width></dimensions>
                                      <dimensions unit="cm" scope="scroll"><height>50</height><width unit="cm">16</width></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the open scroll held in the left hand by the saint</layout>
+                                <layout>On the open scroll held in the left hand by the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -73,8 +73,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-091-01.JPG"><desc>Naos, west wall, north half, lower register, middle figure, inscription detail</desc></graphic>
-        <graphic url="044-091-02.JPG"><desc>Naos, west wall, north half, lower register, middle figure, general view</desc></graphic>
+         <graphic rend="primary" url="044-091-01.JPG"><desc>Saint Euthymios' scroll, inscription detail</desc></graphic>
+        <graphic url="044-091-02.JPG"><desc>Saint Euthymios' scroll, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
@@ -83,26 +83,26 @@
                  <lb n="1"/><g ref="#cross">+</g><w lemma="ἀρχή"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>ρχὴ</w>           
                   <lb n="2"/><w lemma="καρποφορία">καρπο
                   <lb n="3" break="no"/>φορί
-                  <lb n="4" break="no"/><supplied reason="lost">α</supplied>ς</w> <w lemma="ἄνθος">ἄν
-                  <lb n="5" break="no"/>θως</w>
+                  <lb n="4" break="no"/><supplied reason="lost">α</supplied>ς</w> <w lemma="ἄνθος"><choice><sic>ἄν
+                  <lb n="5" break="no"/>θως</sic><corr>ἄνθος</corr></choice></w>
                   <lb n="6"/>κ<expan><ex>αὶ</ex></expan> <w lemma="ἀρχή"><choice><orig>α</orig><reg>ἀ</reg></choice>ρχὴ</w>
-                  <lb n="7"/><w lemma="πρακτικός">πρακτη
-                  <lb n="8" break="no"/>κ<choice><orig>η</orig><reg>ῆ</reg></choice>ς</w> <w lemma="ἐγκράτεια">ἐγ<gap reason="lost" extent="2" unit="character"/>
-                  <lb n="9" break="no"/>κρ<choice><orig>α</orig><reg>ά</reg></choice><supplied reason="lost">τεια</supplied></w>
+                  <lb n="7"/><w lemma="πρακτική"><choice><sic>πρακ<hi rend="ligature">τη</hi>
+                  <lb n="8" break="no"/>κ<unclear>ης</unclear></sic><corr>πρακτικῆς</corr></choice></w> <w lemma="ἐγκράτεια"><unclear>ἐγ</unclear><gap reason="lost" unit="character" quantity="2"/>
+                  <lb n="9" break="no"/>κ<unclear>ρα</unclear><supplied reason="lost">τεια</supplied></w>
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <p>n/a</p>
                  </div>
             <div type="translation">
                 <p>PENDING</p> 
             </div>
             <div type="commentary">
-                <p>Partially preserved. A cross with arrays in the angles marks the beginning and probably the end of the text.The inscription is from the Treatise of Evagrius Ponticus "Περὶ τῶν οκτῶ πνευμάτων τῆς πονηρίας" ("De octo spiritibus malitiae" / "The Eight Spirits of Wickedness"/ "Eight Thoughts") (PG 77, 1145, l.8-9)</p>
+                <p>The inscription is from the Treatise of Evagrius Ponticus "Περὶ τῶν οκτῶ πνευμάτων τῆς πονηρίας" ("De octo spiritibus malitiae" / "The Eight Spirits of Wickedness"/ "Eight Thoughts") (PG 77, 1145, l.8-9)</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                     <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 106</citedRange></bibl>
+                     <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>106</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
