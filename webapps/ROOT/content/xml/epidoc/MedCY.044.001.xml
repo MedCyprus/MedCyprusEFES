@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Mu with its middle bar forms a tau with a star; eta with a star on its horizontal bar; pi with short, thin line attached the horizontal bar; nu with its central bar forms a vertical, zig zag line. The words Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, wavy line above each word. ΜΗΡ, ΗΠ, ΑΝ joined in ligature. Accents and breathings systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Mu with its middle bar forming a tau with a small dot added to its stem at mid-height; eta with its horizontal bar crossed; pi with its horizontal bar crossed; Nu with a zig-zag stroke. The words Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, wavy line above each word. ΜΗΡ, ΗΠ, ΑΝ joined in ligature. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -61,7 +61,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                    <term type="textType" ref="text_types.xml#doc9">Sigla</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
