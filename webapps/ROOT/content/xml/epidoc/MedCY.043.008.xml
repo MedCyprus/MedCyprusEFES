@@ -80,7 +80,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="divine" key="Master"><name nymRef="#Δεσπότης"><w lemma="Δεσπότης">Δ<choice><orig>ὲ</orig><reg>έ</reg></choice>σπο
+                    <lb n="1"/><persName type="divine" key="Master"><name nymRef="#Δεσπότης"><w lemma="δεσπότης">Δ<choice><orig>ὲ</orig><reg>έ</reg></choice>σπο
                     <lb n="2" break="no"/>τα<choice><orig>·</orig><reg>,</reg></choice></w></name></persName> <persName type="divine" key="Lord"><name nymRef="#Κύριος"></name><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύρι</ex><abbr rend="supraline">ε</abbr></expan></w></persName> ὁ 
                     <lb n="3"/><persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><abbr rend="supraline">ς</abbr></expan></w></persName> <w lemma="ἐγώ"><hi rend="ligature">ἡμ</hi><choice><orig>ὼ</orig><reg>ῶ</reg></choice>ν</w>
                     <lb n="4"/> ὁ <w lemma="καθίστημι">κατα
