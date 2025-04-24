@@ -27,17 +27,17 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, east wall, thriumphal arch, north half, middle register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the open scroll held in both hands by the saint</layout>
+                                <layout>On the open scroll held in both hands by the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two ruled grey-coloured lines. Majuscule letters. Characters' size varies. Nu with its central bar forms a vertical, zig zag line; omega formed by two omicron. ΑΝ, ΗΝ in ligatures. Accents and breathings systematic.
+                            <handNote>Black letters against white background between two ruled grey-coloured lines. Majuscule letters. Characters' size varies. Nu with its central bar forms a vertical, zig zag line; omega formed by two omicron. ΑΝ, ΗΝ joined in ligature. Accents and breathings systematic, with errors.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -72,14 +72,14 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-019-01.JPG"><desc>Bema, east wall, thriumphal arch, north half, inscription</desc></graphic>
-        <graphic url="044-019-02.JPG"><desc>Bema, east wall, thriumphal arch, north half, general view </desc></graphic>
+         <graphic rend="primary" url="044-019-01.JPG"><desc>John of Damascus' scroll, inscription</desc></graphic>
+        <graphic url="044-019-02.JPG"><desc>John of Damascus' scroll, general view </desc></graphic>
         </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   <lb n="1"/><w lemma="ποία">Πίαν</w> <w lemma="σύ">σο<choice><orig>ῖ</orig><reg>ί</reg></choice></w>
+                   <lb n="1"/><w lemma="ποία"><choice><sic>Πίαν</sic><corr>ποίαν</corr></choice></w> <w lemma="σύ">σο<choice><orig>ῖ</orig><reg>ί</reg></choice></w>
                    <lb n="2"/><w lemma="ἐπάξιος">ἐπ<choice><orig>ἅ</orig><reg>ά</reg></choice>ξι
                     <lb n="3" break="no"/>ον</w> <w lemma="ᾠδή"><choice><orig>ὠ</orig><reg>ᾠ</reg></choice>
                     <lb n="4" break="no"/>δ<hi rend="ligature"><choice><orig>ῆ</orig><reg>ὴ</reg></choice>ν</hi></w>
