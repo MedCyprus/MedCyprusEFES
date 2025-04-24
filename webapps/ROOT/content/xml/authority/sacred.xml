@@ -598,8 +598,8 @@
                 <person xml:id="Lord">
                     <persName xml:lang="grc">Κύριος</persName>
                     <persName xml:lang="en">Lord</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="God" key="Savaoth">Σαβαώθ</persName>
-                    <persName xml:lang="en" type="epithet" subtype="God" key="Sabaoth">Sabaoth</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Lord" key="The Lord of Hosts">Ὁ Κύριος τῶν οὐρανίων δυνάμεων</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Lord" key="The Lord of Hosts">The Lord of Hosts</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q12826225</idno>              
                     <note>See also: Christ, God, Jesus Christ, King of Glory, Trinity, Word, Master<!--not sure about Sabaoth.Could we consider it as an epithet of God?--></note>
                 </person>
@@ -632,8 +632,8 @@
                 <person xml:id="LeoPopeOfRome">
                     <persName xml:lang="grc">Λέων</persName>
                     <persName xml:lang="en">Leo</persName>        
-                    <persName xml:lang="grc" type="epithet" subtype="LeoPopeOfRome" key="PopeOfRome">πάπας Ῥώμης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="LeoPopeOfRome" key="PopeOfRome">pope of Rome</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="LeoPopeOfRome" key="Pope of Rome">πάπας Ῥώμης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="LeoPopeOfRome" key="Pope of Rome">pope of Rome</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43954</idno>                   
                 </person>
                 
@@ -804,7 +804,7 @@
                     <persName xml:lang="grc">Παναγία</persName>
                     <persName xml:lang="en">Panagia</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1485229</idno> 
-                    <note>See also: Maria, Mother of God, Theodokos, Virgin </note>
+                    <note>See also: Maria, Mother of God, Theotokos, Virgin </note>
                 </person>
                 
                 <person xml:id="Panteleimon">
