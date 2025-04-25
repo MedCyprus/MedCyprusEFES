@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters.
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Accents and breathings almost systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -81,8 +81,8 @@
                     <cb n="a"/>
                    <lb n="1"/><unclear>Ὁ</unclear> <persName type="sacred" key="JohnOfDamascus"><w lemma="ἅγιος">ἅ<supplied reason="lost">γιος</supplied></w> 
                     <cb n="b"/>
-                   <lb n="1"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name> <choice><orig>ο</orig><reg>ὁ</reg></choice> Δαμα
-                   <lb n="2" break="no"/><supplied reason="lost">σ</supplied>κι<unclear>ν</unclear><supplied reason="lost">ός</supplied></persName>
+                   <lb n="1"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name> <addName type="epithet" key="Of Damascus"><choice><orig>ο</orig><reg>ὁ</reg></choice> Δαμα
+                   <lb n="2" break="no"/><supplied reason="lost">σ</supplied>κι<unclear>ν</unclear><supplied reason="lost">ός</supplied></addName></persName>
                 </ab>
             </div>
             <div type="apparatus">
@@ -92,7 +92,7 @@
                 <p>Saint John of Damascus</p>
             </div>
             <div type="commentary">
-                <p>Partially preserved</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
