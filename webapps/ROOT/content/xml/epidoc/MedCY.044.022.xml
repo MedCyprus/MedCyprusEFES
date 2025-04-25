@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Nu with its central bar forms a diagonal line. ΟΥ, ΤΗ, ΤΗΝ, ΝΗ joined in ligatures. In line 3 and 10 double point after the letters -ελας and the word κτήστην respectively. Almost systematic use of accents and breathings.
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Nu with its central bar forms a diagonal line. ΟΥ, ΤΗ, ΤΗΝ, ΝΗ joined in ligature. In line 3 and 10 double point after the letters -ΕΛΑC and the word KTHCTHN respectively. Almost systematic use of accents and breathings.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -64,7 +64,7 @@
                     <term type="textType" ref="text_types.xml#doc12">Metrical inscription</term>
                 </keywords>
             </textClass>
-            <creation><ptr target="Ševčenko2012"/>, 75-7</creation>
+            <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>

@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. Well preserved.</objectType></rs>
                                     <rs type="placement-building" ref="#bema">Bema, eastern wall, north side</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mu with its middle bar forms an upsilon. Nu with its central bar forms a diagonal line. ΤΩ in ligature with the tau emerging from the omega. ΝΗ, ΟΥ joined in ligatures. Horizontal wavy line above the abbreviation of Κ(ύ)ρι(ος). Double point after the word σοῦ. Accents and breathings systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mu with the central strokes reminiscent of an upsilon on a stem. Nu with its central bar forms a diagonal line. ΤΩ, ΝΗ, ΟΥ joined in ligature. Double point after the word σοῦ. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -69,9 +69,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-023-01.JPG"><desc>Bema, eastern wall, north side, inscription detail</desc></graphic>
-        <graphic url="044-023-02.JPG"><desc>Bema, eastern wall, north side, inscription </desc></graphic>
-        <graphic url="044-023-03.JPG"><desc>Bema, eastern wall, north side, general view </desc></graphic>
+         <graphic rend="primary" url="044-023-01.JPG"><desc>Annunciation, Gabriel's address to the Virgin, inscription detail</desc></graphic>
+        <graphic url="044-023-02.JPG"><desc>Annunciation, Gabriel's address to the Virgin, inscription </desc></graphic>
+        <graphic url="044-023-03.JPG"><desc>Annunciation, Gabriel's address to the Virgin, general view </desc></graphic>
         </facsimile>
     <text>
         <body>
@@ -92,7 +92,7 @@
                 <p>Hail, full of grace. The Lord is with you.</p>
             </div>
             <div type="commentary">
-                <p>Good condition. A simple cross marks the beginning of the text. The word Κύριος is abbreviated as Κ(ύρ)ι(ος) instead of the usual Κ(ύριο)ς. The inscription is based on the dialoque between the Archangel Gabriel and the Virgin according to Luke 1:28, 38.</p>
+                <p>The inscription is based on the dialoque between the Archangel Gabriel and the Virgin according to Luke 1:28, 38.</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>

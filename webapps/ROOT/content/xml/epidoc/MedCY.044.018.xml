@@ -81,7 +81,7 @@
                     <cb n="a"/>
                    <lb n="1"/><unclear>Ὁ</unclear> <persName type="sacred" key="JohnOfDamascus"><w lemma="ἅγιος">ἅ<supplied reason="lost">γιος</supplied></w> 
                     <cb n="b"/>
-                   <lb n="1"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name> <addName type="epithet" key="Of Damascus"><choice><orig>ο</orig><reg>ὁ</reg></choice> Δαμα
+                   <lb n="1"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name> <addName type="epithet" key="of Damascus"><choice><orig>ο</orig><reg>ὁ</reg></choice> Δαμα
                    <lb n="2" break="no"/><supplied reason="lost">σ</supplied>κι<unclear>ν</unclear><supplied reason="lost">ός</supplied></addName></persName>
                 </ab>
             </div>
