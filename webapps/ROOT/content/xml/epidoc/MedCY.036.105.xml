@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Virgin Arakiotissa</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+              <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, south wall, lower register, to the east</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mu with its middle bar forms an upsilon. Alpha above sigma as a superscript. MHP, TH, AI, TO, and NH joined in ligature. The nomina sacra Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a line above each word. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#VirginOfThePassion">Virgin of the Passion</rs></p>
+                            <p><rs type="iconography" ref="#VirginOfThePassion">Virgin of the Passion</rs>
+                            <rs type="iconography" ref="#ChristChild"></rs>
+                            <rs type="iconography" ref="#Archangel"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,23 +70,28 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-105-01.JPG"><desc>Naos, south wall, lower register, to the east, inscription</desc></graphic>
-        <graphic url="036-105-02.JPG"><desc>Naos, south wall, lower register, to the east, inscription</desc></graphic>
-        <graphic url="036-105-03.JPG"><desc>Naos, south wall, lower register, to the east, inscription detail</desc></graphic>
-        <graphic url="036-105-04.JPG"><desc>Naos, south wall, lower register, to the east, general view</desc></graphic>
+         <graphic rend="primary" url="036-105-01.JPG"><desc>Virgin Arakiotissa, inscription</desc></graphic>
+        <graphic url="036-105-02.JPG"><desc>Virgin Arakiotissa, inscription</desc></graphic>
+        <graphic url="036-105-03.JPG"><desc>Virgin Arakiotissa, inscription detail</desc></graphic>
+        <graphic url="036-105-04.JPG"><desc>Virgin Arakiotissa, general view</desc></graphic>
   </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
+                    <milestone unit="column"/> <expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>    
+                  <cb n="a"/>
+                  <lb n="1"/><g ref="#cross">+</g>Ἡ <addName type="epithet" subtype="Maria" key="Arakiotissa">Ἀρακϊό<hi rend="ligature">τη</hi>σσα</addName> 
+                  <cb n="b"/>
+                  <lb n="1"/><g ref="#cross">+</g>Κὲ <addName type="epithet" subtype="Maria" key="Kecharitomene"><w lemma="κεχαριτωμένη"><choice><sic>Κ<hi rend="ligature">ὰι</hi>χαρ<choice><orig>ϊ</orig><reg>ι</reg></choice><hi rend="ligature">το</hi>μέ<hi rend="ligature">νη</hi></sic><corr>κεχαριτωμένη</corr></choice></w></addName>
                 </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Mother of Cod, Arakiotissa and Kecharitomene (Full of Grace)</p>
+                <p>Mother of God, Arakiotissa and Kecharitomene (Full of Grace)</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
