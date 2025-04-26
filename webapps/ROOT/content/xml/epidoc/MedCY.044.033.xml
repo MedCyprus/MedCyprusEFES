@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Prelate, unidentified</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,13 +28,13 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged. Very fragmentary.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, north recess' soffit, west side, first medallion at the bottom</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the medallion with the representation of the saint</layout>
+                                <layout>On either side of the medallion with the representation of the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#PrelateUnidentified_MedCY044.033">Prelate, unidentified</rs></p>
+                            <p><rs type="iconography" ref="unidentified_figure">Prelate, unidentified</rs>
+                                   <rs type="iconography" ref="prelate"></rs>
+                                   <rs type="iconography" ref="male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,9 +70,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-033-01.JPG"><desc>Bema, north recess' soffit, west side, first medallion, inscription detail</desc></graphic>
-        <graphic url="044-033-02.JPG"><desc>Bema, north recess' soffit, west side, first medallion, general view </desc></graphic>
-        <graphic url="044-033-03.JPG"><desc>Bema, north recess' soffit, west side, first medallion, inscription </desc></graphic>
+         <graphic rend="primary" url="044-033-01.JPG"><desc>Prelate, unidentified, inscription detail</desc></graphic>
+        <graphic url="044-033-02.JPG"><desc>Prelate, unidentified, general view </desc></graphic>
+        <graphic url="044-033-03.JPG"><desc>Prelate, unidentified, inscription </desc></graphic>
         </facsimile>
     <text>
         <body>
@@ -89,7 +91,7 @@
                 <p>[Saint] N[..?..]</p>
             </div>
             <div type="commentary">
-                <p>Poorly preserved. The incription ὁ ἅγιος on the right of the saint has been lost. Only one letter of this name is visible.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
