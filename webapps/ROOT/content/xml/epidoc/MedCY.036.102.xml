@@ -80,7 +80,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                    <cb n="a"/>
-                   <lb n="1"/>Ἡ <w lemma="κοίμησις">κοίμησις</w>
+                   <lb n="1"/><g ref="#cross">+</g>Ἡ <w lemma="κοίμησις">κοίμησις</w>
                   <cb n="b"/>
                   <lb n="1"/>τ<choice><orig>ῆ</orig><reg>η</reg></choice>ς <w lemma="ὑπεραγία">ὑπεραγίας</w> <persName type="sacred" key="Theotokos"><addName nymRef="#Θεοτόκος"><expan><abbr rend="supraline">Θ</abbr><ex>εοτό</ex><abbr rend="supraline">κ<hi rend="ligature">ου</hi></abbr></expan></addName></persName>
                 </ab>
