@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Tychikos</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, north recess' soffit, west side, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies.OC in the word ἅγιος in ligature, with C formed with a long wavy line. C in word Τυχικὸς formed with an inverted lunate C and a small line at the bottom. Accents and breathings almost systematic. Letter height: <height unit="cm">2-4</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. OC in the word ἅγιος joined in ligature, with C formed with a long wavy line. C in word Τυχικὸς formed with an inverted lunate C and a small tail at the bottom. Near systematic use of accents and breathings. Letter height: <height unit="cm">2-4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Tychikos">Tychikos</rs></p>
+                            <p><rs type="iconography" ref="#Tychikos">Tychikos</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,10 +70,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-034-1.JPG"><desc>Bema, north recess' soffit, west side, lower register, inscription (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
-        <graphic url="044-034-02.JPG"><desc>Bema, north recess' soffit, west side, lower register, inscription detail </desc></graphic>
-        <graphic url="044-034-03.JPG"><desc>Bema, north recess' soffit, west side, lower register general view </desc></graphic>
-        <graphic url="044-034-04.JPG"><desc>Bema, north recess' soffit, west side, lower register, general view (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
+         <graphic rend="primary" url="044-034-1.JPG"><desc>Saint Tychikos, inscription (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
+        <graphic url="044-034-02.JPG"><desc>Saint Tychikos, inscription detail </desc></graphic>
+        <graphic url="044-034-03.JPG"><desc>Saint Tychikos, general view </desc></graphic>
+        <graphic url="044-034-04.JPG"><desc>Saint Tychikos, general view (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
         </facsimile>
     <text>
         <body>
@@ -97,7 +99,7 @@
                 <p>Saint Tychikos</p>
             </div>
             <div type="commentary">
-                <p>Good condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
