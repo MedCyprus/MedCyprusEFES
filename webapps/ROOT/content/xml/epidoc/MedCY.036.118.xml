@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Joseph the Presbyter</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, south wall, soffit, west side, first medallion, on bottom </rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against red background. Majuscule letters. Characters' size varies. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#JosephPresbyter">Joseph the Presbyter</rs></p>
+                            <p>... <rs type="iconography" ref="#JosephPresbyter">Joseph the Presbyter</rs>
+                            <rs type="iconography" ref="#male"></rs>
+                             <rs type="iconography" ref="#martyr"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,14 +70,23 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-118-01.JPG"><desc>Naos, south wall, soffit, west side, first medallion, on bottom, inscription</desc></graphic>
-        <graphic url="036-118-02.JPG"><desc>Naos, south wall, soffit, west side, first medallion, on bottom, general view</desc></graphic>
+         <graphic rend="primary" url="036-118-01.JPG"><desc>Saint Joseph the Presbyter, inscription</desc></graphic>
+        <graphic url="036-118-02.JPG"><desc>Saint Joseph the Presbyter, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                    <lb n="1"/>Ὁ
+                    <lb n="2"/><persName type="sacred" key="JosephMartyr"><w lemma="ἅγιος">ἅ
+                    <lb n="3" break="no" />γ<choice><orig>ϊ</orig><reg>ι</reg></choice>
+                    <lb n="4" break="no"/>ος</w>
+                    <cb n="b"/>
+                     <lb n="1"/><name type="forename" nymRef="#Ἰωσήφ"><choice><orig>I</orig><reg>Ἰ</reg></choice>
+                     <lb n="2" break="no"/>ω
+                     <lb n="3" break="no"/>σ
+                      <lb n="4" break="no"/><choice><orig>η</orig><reg>ή</reg></choice>φ</name></persName>
                 </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +96,7 @@
                 <p>Saint Joseph</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
