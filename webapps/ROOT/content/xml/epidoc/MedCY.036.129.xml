@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Descent into Hell, Christ</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west vault, north side</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. The sigla Ἰ(ησοῦ)ς Χ(ριστό)ς are fully rendered by an abbreviation with a big horizontal line above each word. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -70,15 +70,15 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-129-01.JPG"><desc>Naos, west vault, north side, inscription</desc></graphic>
-        <graphic url="036-129-02.JPG"><desc>Naos, west vault, north side, inscription</desc></graphic>
-        <graphic url="036-129-03.JPG"><desc>Naos, west vault, north side, general view</desc></graphic>
+         <graphic rend="primary" url="036-129-01.JPG"><desc>Descent into Hell, Christ, inscription</desc></graphic>
+        <graphic url="036-129-02.JPG"><desc>Descent into Hell, Christ, inscription</desc></graphic>
+        <graphic url="036-129-03.JPG"><desc>Descent into Hell, Christ, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                    <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></name></persName>
                 </ab>
             </div>
             <div type="apparatus">
@@ -88,7 +88,7 @@
                 <p>Jesus Christ</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
