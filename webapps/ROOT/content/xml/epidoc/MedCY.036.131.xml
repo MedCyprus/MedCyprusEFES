@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Descent into Hell, Eve</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+               <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west vault, north side</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against brown background. Majuscule letters. Beta with two squared bowls attached to its stem. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#DescentIntoHell">Descent into Hell, Eve</rs></p>
+                            <p><rs type="iconography" ref="#DescentIntoHell">Descent into Hell, Eve</rs>
+                            <rs type="iconography" ref="#Adam"></rs>
+                                <rs type="iconography" ref="#Christ"></rs>
+                                   <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,14 +71,14 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-131-01.JPG"><desc>Naos, west vault, north side, inscription</desc></graphic>
-        <graphic url="036-131-02.JPG"><desc>Naos, west vault, north side, general view</desc></graphic>
+         <graphic rend="primary" url="036-131-01.JPG"><desc>Descent into Hell, Eve, inscription</desc></graphic>
+        <graphic url="036-131-02.JPG"><desc>Descent into Hell, Eve, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                     <lb n="1"/>Ἡ <persName type="divine" key="Εve"><name nymRef="#Εὔα" type="forename"><choice><sic><choice><orig>Έ</orig><reg>Ε</reg></choice>βα</sic><corr>Εὔα</corr></choice></name></persName> 
                 </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +88,7 @@
                 <p>Eve</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
