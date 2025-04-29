@@ -43,7 +43,10 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#DescentIntoHell">Descent into Hell, Adam</rs>
-                            <rs type="iconography" ref="#Eve"></rs>
+                            <rs type="iconography" ref="#Eve">
+                                <rs type="iconography" ref="#Christ"></rs>
+                                   <rs type="iconography" ref="#christological"></rs>
+                            </rs>
                             </p>
                         </decoDesc>
                     </physDesc>
