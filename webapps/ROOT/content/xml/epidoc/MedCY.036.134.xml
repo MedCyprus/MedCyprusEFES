@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Descent into Hell, John the Forerunner</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,13 +28,13 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west vault, north side</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the left and above the saint's head</layout>
+                                <layout>On the left and above the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -68,14 +68,15 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-134-01.JPG"><desc>Naos, west vault, north side, inscription</desc></graphic>
-        <graphic url="036-134-02.JPG"><desc>Naos, west vault, north side, general view</desc></graphic>
+         <graphic rend="primary" url="036-134-01.JPG"><desc>Descent into Hell, John the Forerunner, inscription</desc></graphic>
+        <graphic url="036-134-02.JPG"><desc>Descent into Hell, John the Forerunner, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/>Ὁ <persName type="sacred" key="JohnForerunner"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w> <name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name> Ὁ 
+                    <lb n="2"/><addName type="epithet" key="Forerunner"><expan><abbr rend="supraline">Πρ</abbr><ex>ό</ex><abbr rend="supraline">δ</abbr><ex>ρο</ex><abbr rend="supraline">μος</abbr></expan></addName></persName>  
                 </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +86,7 @@
                 <p>John the Forerunner</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
