@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, south recess, lower register, left of the rectangular niche</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                      <handNote>White letters against blue background. Majuscule letters.The word ἅγιος is abbreviated inside an omicron which indicates the article.
+                      <handNote>White letters against blue background. Majuscule letters.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#DeaconUnidentified_MedCY044.049">Deacon, unidentified</rs></p>
+                            <p><rs type="iconography" ref="unidentified_figure">Deacon, unidentified, possibly Saint Vincent</rs>
+                                   <rs type="iconography" ref="Vincent"></rs>   
+                                   <rs type="iconography" ref="deacon"></rs>
+                                   <rs type="iconography" ref="male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -89,7 +92,7 @@
                 <p>Saint [..?..]E[..?..]</p>
             </div>
             <div type="commentary">
-                <p> Poor condition. Of the saint's name, only the letter E is legible. The deacon resemles St. Vincent from the parreklesion of Holy Trinity at the monasterly of St. John Chrysostom Koutsoventis (ca. 1100) (<bibl><ptr target="#MangoHawkinsBoyd1990"/>, <citedRange> 80</citedRange>; <ptr target="#Parani2018"/>, <citedRange> 24</citedRange></bibl>). </p>
+                <p> Of the saint's name, only the letter E is legible. The deacon resemles St. Vincent from the parreklesion of Holy Trinity at the monasterly of St. John Chrysostom Koutsoventis (ca. 1100) (<bibl><ptr target="#MangoHawkinsBoyd1990"/>, <citedRange> 80</citedRange>; <ptr target="#Parani2018"/>, <citedRange> 24</citedRange></bibl>). </p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
