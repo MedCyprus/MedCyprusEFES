@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Paul's scroll</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -73,9 +73,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-060-01.JPG"><desc>Naos, northwestern pilaster, south face, lower register, inscription detail</desc></graphic>
-        <graphic url="044-060-02.JPG"><desc>Naos, northwestern pilaster, south face, lower register, general view</desc></graphic>
-        <graphic url="044-060-03.JPG"><desc>Naos, northwestern pilaster, south face, lower register, general view </desc></graphic>
+         <graphic rend="primary" url="044-060-01.JPG"><desc>Saint Paul's scroll, inscription detail</desc></graphic>
+        <graphic url="044-060-02.JPG"><desc>Saint Paul's scroll, general view</desc></graphic>
+        <graphic url="044-060-03.JPG"><desc>Saint Paul's scroll, general view </desc></graphic>
       </facsimile>
     <text>
         <body>

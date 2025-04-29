@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Christ</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -68,9 +68,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-097-01.JPG"><desc>Naos, northwest recess' soffit, on top, inscription</desc></graphic>
-        <graphic url="044-097-02.JPG"><desc>Naos, northwest recess' soffit, on top, general view</desc></graphic>
-        <graphic url="044-097-03.JPG"><desc>Naos, northwest recess' soffit, on top, general view</desc></graphic>
+         <graphic rend="primary" url="044-097-01.JPG"><desc>Christ, inscription</desc></graphic>
+        <graphic url="044-097-02.JPG"><desc>Christ, general view</desc></graphic>
+        <graphic url="044-097-03.JPG"><desc>Christ, general view</desc></graphic>
     </facsimile>
     <text>
         <body>

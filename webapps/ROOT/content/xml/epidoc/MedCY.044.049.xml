@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Deacon, unidentified</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -34,7 +34,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -68,9 +68,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-049-01.JPG"><desc>Bema, south recess, lower register, left of the rectangular nich, inscription detail</desc></graphic>
-        <graphic url="044-049-02.JPG"><desc>Bema, south recess, lower register, left of the rectangular niche, inscription</desc></graphic>
-        <graphic url="044-049-03.JPG"><desc>Bema, south recess, lower register, right of the rectangular niche, general view</desc></graphic>
+         <graphic rend="primary" url="044-049-01.JPG"><desc>Deacon, unidentified, inscription detail</desc></graphic>
+        <graphic url="044-049-02.JPG"><desc>Deacon, unidentified, inscription</desc></graphic>
+        <graphic url="044-049-03.JPG"><desc>Deacon, unidentified, general view</desc></graphic>
                </facsimile>
     <text>
         <body>

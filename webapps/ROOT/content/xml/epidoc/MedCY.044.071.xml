@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Bakchos</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -68,9 +68,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-071-01.JPG"><desc>Naos, southwest recess' soffit, east side, second medallion, on bottom, inscription detail</desc></graphic>
-        <graphic url="044-071-02.JPG"><desc>Naos, southwest recess' soffit, east side, second medallion, on bottom, inscription</desc></graphic>
-        <graphic url="044-071-03.JPG"><desc>Naos, southwest recess' soffit, east side, second medallion, on bottom, general view</desc></graphic>
+         <graphic rend="primary" url="044-071-01.JPG"><desc>Saint Bakchos, inscription detail</desc></graphic>
+        <graphic url="044-071-02.JPG"><desc>Saint Bakchos, inscription</desc></graphic>
+        <graphic url="044-071-03.JPG"><desc>Saint Bakchos, general view</desc></graphic>
            </facsimile>
     <text>
         <body>

@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Peter's scroll</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -73,10 +73,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-059-01.JPG"><desc>Naos, southwestern pilaster, north face, lower register, inscription detail</desc></graphic>
-        <graphic url="044-059-02.JPG"><desc>Naos, southwestern pilaster, north face, lower register, inscription</desc></graphic>
-        <graphic url="044-059-03.JPG"><desc>Naos, southwestern pilaster, north face, lower register, general view </desc></graphic>
-        <graphic url="044-059-04.JPG"><desc>Naos, southwestern pilaster, north face, lower register, general view </desc></graphic>
+         <graphic rend="primary" url="044-059-01.JPG"><desc>Saint Peter's scroll, inscription detail</desc></graphic>
+        <graphic url="044-059-02.JPG"><desc>Saint Peter's scroll, inscription</desc></graphic>
+        <graphic url="044-059-03.JPG"><desc>Saint Peter's scroll, general view </desc></graphic>
+        <graphic url="044-059-04.JPG"><desc>Saint Peter's scroll, general view </desc></graphic>
             </facsimile>
     <text>
         <body>

@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Prelate, unidentified</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -68,8 +68,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-051-01.JPG"><desc>Bema, east vault, south side, lower register, on the east, inscription</desc></graphic>
-        <graphic url="044-051-02.JPG"><desc>Bema, east vault, south side, lower register, on the east, general view</desc></graphic>
+         <graphic rend="primary" url="044-051-01.JPG"><desc>Prelate, unidentified, inscription</desc></graphic>
+        <graphic url="044-051-02.JPG"><desc>Prelate, unidentified, general view</desc></graphic>
      </facsimile>
     <text>
         <body>

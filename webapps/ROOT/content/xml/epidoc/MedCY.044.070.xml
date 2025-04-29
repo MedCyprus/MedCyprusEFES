@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Sergios</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -68,10 +68,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-070-01.JPG"><desc>Naos, southwest recess' soffit, east side, first medallion, on top, inscription detail</desc></graphic>
-        <graphic url="044-070-02.JPG"><desc>Naos, southwest recess' soffit, east side, first medallion, on top, inscription</desc></graphic>
-        <graphic url="044-070-03.JPG"><desc>Naos, southwest recess' soffit, east side, first medallion, on top, general view</desc></graphic>
-        <graphic url="044-070-04.JPG"><desc>Naos, southwest recess' soffit, east side, first medallion, on top, general view</desc></graphic>
+         <graphic rend="primary" url="044-070-01.JPG"><desc>Saint Sergios, inscription detail</desc></graphic>
+        <graphic url="044-070-02.JPG"><desc>Saint Sergios, inscription</desc></graphic>
+        <graphic url="044-070-03.JPG"><desc>Saint Sergios, general view</desc></graphic>
+        <graphic url="044-070-04.JPG"><desc>Saint Sergios, general view</desc></graphic>
    </facsimile>
     <text>
         <body>

@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Tychon</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -68,8 +68,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-052-01.JPG"><desc>Bema, east vault, south side, lower register, on the west, inscription</desc></graphic>
-        <graphic url="044-052-02.JPG"><desc>Bema, east vault, south side, lower register, on the west, general view</desc></graphic>
+         <graphic rend="primary" url="044-052-01.JPG"><desc>Saint Tychon, inscription</desc></graphic>
+        <graphic url="044-052-02.JPG"><desc>Saint Tychon, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
