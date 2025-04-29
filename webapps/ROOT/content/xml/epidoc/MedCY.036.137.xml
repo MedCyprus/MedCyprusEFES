@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Victor</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -27,17 +28,17 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west vault, central frieze, second medallion, to the east</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against red background. Majuscule letters. Characters' size varies. Beta with two squared bowls attached to its stem. Accents and breathings systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -72,14 +73,22 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-137-01.JPG"><desc>Naos, west vault, central frieze, second medallion, to the east, inscription</desc></graphic>
-        <graphic url="036-137-02.JPG"><desc>Naos, west vault, central frieze, second medallion, to the east, general view</desc></graphic>
+         <graphic rend="primary" url="036-137-01.JPG"><desc>Saint Victor, inscription</desc></graphic>
+        <graphic url="036-137-02.JPG"><desc>Saint Victor, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                     <cb n="a"/>
+                   <lb n="1"/>Ὁ 
+                  <lb n="2"/><persName type="sacred" key="Victor"><w lemma="ἅγιος">ἅ
+                   <lb n="3" break="no"/>γι
+                   <lb n="4" break="no"/>ος</w>
+                   <cb n="b"/>
+                      <lb n="1"/><name type="forename" nymRef="#Βίκτωρ"><choice><sic>Βή
+                     <lb n="2"/>κ
+                     <lb n="3"/>τωρ</sic><corr>Βίκτωρ</corr></choice></name></persName> 
                 </ab>
             </div>
             <div type="apparatus">
@@ -89,7 +98,7 @@
                 <p>Saint Victor</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
