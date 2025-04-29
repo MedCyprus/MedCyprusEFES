@@ -77,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><g ref="#cross">+</g>Ἡ <addName type="epithet" key="BiblicalMagi"><w lemma="Μάγοι">Μάγοι</w></addName>
+                   <lb n="1"/><g ref="#cross">+</g>Ἡ <persName type="sacred" key="BiblicalMagi"><w lemma="μάγος">Μάγοι</w></persName>
                 </ab>
             </div>
             <div type="apparatus">
