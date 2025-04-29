@@ -82,7 +82,7 @@
                     <lb n="1"/>Ὁ <persName type="sacred" key="IgnatiosTheophoros"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
                     <lb n="2"/><name type="forename" nymRef="#Ἰγνάτιος"><choice><sic><choice><orig>Ι</orig><reg>Ἰ</reg></choice><lb n="3" break="no"/>γν<lb n="4" break="no"/>ά<lb n="5" break="no"/>τ<supplied reason="omitted">ι</supplied><lb n="6" break="no"/>ος</sic></choice></name> 
                   <cb n="b"/>
-                  <lb n="1"/>Ὁ <addName type="epithet" key="Theophoros"><choice><sic>Θεο
+                  <lb n="1"/>Ὁ <addName type="epithet" subtype="IgnatiosTheophoros" key="Theophoros"><choice><sic>Θεο
                   <lb n="2" break="no"/>φώ
                   <lb n="3" break="no"/>ρο
                   <lb n="4" break="no"/>ς</sic><corr>Θεοφόρος</corr></choice></addName></persName>
