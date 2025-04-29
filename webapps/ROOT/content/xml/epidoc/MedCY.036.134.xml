@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against brown background. Majuscule letters. Characters' size varies. Ἰωάννης and Πρόδρομος are abbreviated as  with a big, wavy line above the words. Accents and breathings systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#DescentIntoHell">Descent into Hell, John the Forerunner</rs></p>
+                            <p><rs type="iconography" ref="#DescentIntoHell">Descent into Hell, John the Forerunner</rs>
+                            <rs type="iconography" ref="#Prophet"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -76,7 +77,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                    <lb n="1"/>Ὁ <persName type="sacred" key="JohnForerunner"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w> <name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name> Ὁ 
-                    <lb n="2"/><addName type="epithet" key="Forerunner"><expan><abbr rend="supraline">Πρ</abbr><ex>ό</ex><abbr rend="supraline">δ</abbr><ex>ρο</ex><abbr rend="supraline">μος</abbr></expan></addName></persName>  
+                    <lb n="2"/><addName type="epithet" key="Forerunner"><expan><abbr rend="supraline">Πρ</abbr><ex>ό</ex><abbr rend="supraline">δ</abbr><ex>ρο</ex><abbr rend="supraline">μος</abbr></expan><am>&#x00B4;</am></addName></persName> 
                 </ab>
             </div>
             <div type="apparatus">
