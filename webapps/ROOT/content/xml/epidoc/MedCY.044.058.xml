@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west vault, north side</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
@@ -42,7 +42,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#WashingOfTheFeetChrist">Washing of the feet, Christ</rs></p>
+                            <p><rs type="iconography" ref="#WashingOfTheFeet">Washing of the feet, Christ</rs>
+                                   <rs type="iconography" ref="#Christ"></rs>
+                                   <rs type="iconography" ref="#christological"></rs>
+                                   </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -76,7 +79,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς Χριστός"><supplied reason="lost"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan></supplied> <expan><abbr rend="supraline"> Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></name></persName> 
+                  <lb n="1"/><persName type="divine" key="JesusChrist"><name type="forename" nymRef ="#Ἰησοῦς"><supplied reason="lost"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan></supplied> <addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline"> Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></name></persName> 
               </ab>
             </div>
             <div type="apparatus">
