@@ -41,7 +41,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Christ">Christ</rs></p>
+                            <p><rs type="iconography" ref="#ChristChild">Christ child</rs>
+                                   <rs type="iconography" ref="#VirginHodegetria"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
