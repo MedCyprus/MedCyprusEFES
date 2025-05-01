@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. The word ἅγιος is abbreviated inside an omicron which indicates the article. Characters' size varies. Omega with crosslet. Tau with a cross in its vetical bar. Final sigma is formed by a horizontal wavy line. A horizontal wavy line above ΩΝ. Accents and breathings systematic. Rough breathing of the archaic variety, i.e. shaped like the left half of a majuscule eta. Letter height: <height unit="cm">4</height>.
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Kappa with the arm terminating in a long serif; omega with its apex crossed; tau with a top bar terminating in serifs at either end with its stem crossed at mid-height; final sigma with diagonal spine. Wavy, abbreviation mark above the characters ΩΝ. Accents and breathings systematic. Rough breathing of the archaic variety, i.e. shaped like the left half of a majuscule eta. Letter height: <height unit="cm">4</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -78,11 +78,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                    <lb n="1"/>Ὁ <persName type="sacred" key="Constantine"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
-                  <lb n="2"/><name type="forename" nymRef="#Κωνσταντῖνος">Κ<hi rend="supraline">ων</hi> 
+                  <lb n="2"/><name type="forename" nymRef="#Κωνσταντῖνος"><choice><sic>Κ<hi rend="supraline">ων</hi> 
                   <lb n="3" break="no"/>σταν
                   <lb n="4" break="no"/>τ<choice><orig>ή</orig><reg>ῆ</reg></choice>
                   <lb n="5" break="no"/>νο
-                  <lb n="6" break="no"/>ς</name></persName>
+                  <lb n="6" break="no"/>ς</sic><corr>Κωνσταντῖνος</corr></choice></name></persName>
               </ab>
             </div>
             <div type="apparatus">
