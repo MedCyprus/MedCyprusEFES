@@ -39,11 +39,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters in greenish background. Majuscule letters. Characters' size varies. Short, horizontal and vertical lines in alpha, zeta, eta, tau, upsilon and pi. Omega with crosslet. Mu with its middle bar forms an upsilon; a short, horizontal line apperas in its middle bar. NH, OY joined in ligature, with upsilon emerging from omicron. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
+                            <handNote>Black letters in greenish background. Majuscule letters. Characters' size varies. Tau with a top bar terminating in serifs at either end with its stem crossed at mid-height; pi with a dot on its horizontal bar; mu with the central strokes reminiscent of an upsilon on a stem and surmounted by a dot; omega with its apex surmounted by a crosslet; eta with a serif on its crossbar.  NH, OY joined in ligature. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#TheodosiosCenobiarch">Theodosios the Cenobiarch</rs>                        
+                            <p><rs type="iconography" ref="#TheodosiosCenobiarch">Theodosios the Cenobiarch</rs>                 
                             <rs type="iconography" ref="#monastic"></rs>
                             <rs type="iconography" ref="#male"></rs>
                             <rs type="iconography" ref="#scroll"></rs>
@@ -79,7 +79,7 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>
+              <ab>ΕΚΚΡΕΜΕΙ ΕΛΕΓΧΟΣ
                   <lb n="1"/><g ref="#cross">+</g>Ἡ <w lemma="νηστεία"><hi rend="ligature">νη</hi>στεί              
                   <lb n="2" break="no"/>α</w> <w lemma="ταπεινῶ">ταπεινοῖ</w>
                   <lb n="3"/>τὸ <w lemma="σῶμα">σῶμα</w> ἡ
