@@ -35,11 +35,11 @@
                             </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the open scroll held in the left hand by the saint</layout>
+                                <layout>On the open scroll held in the left hand by the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters in greenish background. Majuscule letters. Characters' size varies. Short, horizontal line at the bottom of upsilon. Systematic use of accents and breathings. Breathings of the archaic and modern variety (angular and circular). Letter height: <height unit="cm">2,5-3</height>.
+                            <handNote>Black letters in greenish background. Majuscule letters. Characters' size varies. Upsilon on a stem surmounted by a dot. Systematic use of accents and breathings. Breathings of the archaic and modern variety (angular and circular). Letter height: <height unit="cm">2,5-3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -81,10 +81,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <lb n="1"/><g ref="#cross">+</g> <w lemma="φεύγω">Φεῦγε</w>. <w lemma="σιωπῶ">Σι              
-                  <lb n="2" break="no"/>ῶπ<supplied reason="lost">α</supplied></w> <w lemma="ἡσυχάζω">ἡσύ
+                  <lb n="2" break="no"/>ῶπ<supplied reason="lost">α</supplied></w> <w lemma="ἡσυχάζω"><unclear>ἡ</unclear>σύ
                   <lb n="3" break="no"/><supplied reason="lost">χαζε</supplied></w> <w lemma="αὕτη"><supplied reason="lost">αὗτ</supplied>αι</w>
-                  <lb n="4"/><supplied reason="lost">γάρ</supplied> <w lemma="εἰμί"><supplied reason="lost">εἰσιν</supplied></w> <supplied reason="lost">αἱ</supplied> <w lemma="ῥίζα"><supplied reason="lost">ῥίζαι</supplied></w> τῆς <w lemma="ἀναμαρτησία"><supplied reason="lost">ἀ</supplied>ν 
-                  <lb n="5" break="no"/><supplied reason="lost">μαρτησίας</supplied></w> κ<hi rend="ligature">αὶ </hi>τῆς 
+                  <lb n="4"/><supplied reason="lost">γάρ</supplied> <w lemma="εἰμί"><supplied reason="lost">εἰσιν</supplied></w> <supplied reason="lost">αἱ</supplied> <w lemma="ῥίζα"><supplied reason="lost">ῥίζαι</supplied></w> <supplied reason="lost">τῆς</supplied> <w lemma="ἀναμαρτησία"><supplied reason="lost">ἀ</supplied>ν 
+                  <lb n="5" break="no"/><supplied reason="lost">μαρτησίας</supplied></w> <unclear>κ</unclear><hi rend="ligature"><unclear>αὶ</unclear> </hi><unclear>τῆ</unclear>ς 
                   <lb n="6"/><w lemma="δικαιοσύνη"> δικα<choice><orig>ὶ</orig><reg>ι</reg></choice><choice><orig>ὀ</orig><reg>ο</reg></choice>
                   <lb n="7" break="no"/>σύνης</w>
                   <lb n="8"/><g ref="#cross">+</g><g ref="#cross">+</g><g ref="#cross">+</g>
@@ -103,7 +103,9 @@
                 <p>Flee, maintain silence, live a life of contemplative quiet. These are the roots of being without sin and justice.</p> 
             </div>
             <div type="commentary">
-                <p>The inscription is identified with a saying of Arsenios from the Apophegmata Patrum (PG 65, 88β) (<bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 97-98</citedRange></bibl>).</p>  
+                <p>The inscription is identified with a saying of Arsenios from the Apophegmata Patrum (PG 65, 88β) (<bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 97-98</citedRange></bibl>). It is most likely a paraphrase from Paul's First Epistle to Timothy, 6:11, and Second Epistle to Timothy, 2:22.
+
+</p>  
                 
             </div>
             <div type="bibliography">
