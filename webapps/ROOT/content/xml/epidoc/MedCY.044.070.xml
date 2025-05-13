@@ -28,21 +28,25 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwest recess' soffit, east side, first medallion, on top</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the medallion with the representation of the saint</layout>
+                                <layout>On either side of the medallion with the representation of the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. The word ἅγιος is abbreviated inside an omicron which indicates the article. OC in ligature with final sigma shaped with a vertical wavy line. Accents and breathings systematic. Breathings of the archaic variety (ancular).
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. OC joined in ligature, with the round omicron enclosing a final sigma, formed with a wavy vertical stroke. Accents and breathings systematic. Breathings of the archaic variety (ancular).
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Sergios">Sergios</rs></p>
+                            <p><rs type="iconography" ref="#Sergios">Sergios</rs>
+                                   <rs type="iconography" ref="#male"></rs>
+                                    <rs type="iconography" ref="#military"></rs>
+                                    <rs type="iconography" ref="#martyr"></rs>
+                                    <rs type="iconography" ref="#dressmilitary"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -91,7 +95,7 @@
                 <p>Saint Sergios</p> 
             </div>
             <div type="commentary">
-                <p>Good condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
