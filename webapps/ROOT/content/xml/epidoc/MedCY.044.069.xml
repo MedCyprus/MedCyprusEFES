@@ -39,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters in greenish background. Majuscule letters. Characters' size varies. Mu with the central strokes reminiscent of an upsilon on a stem and surmounted by a dot; alpha with the top bar terminating in a serif to the left; kappa with the arm terminating in a long serif; omega with its apex surmounted by a crosslet; tau with a top bar terminating in serifs at either end with its stem crossed at mid-height; TΡ, ΤΟ, ΠΗΝ joined in ligature. The ending Ν in ταπείνωσιν (line 7) is rendered with tachygraphic sign. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
+                            <handNote>Black letters in greenish background. Majuscule letters. Character size varies. Mu with the central strokes reminiscent of an upsilon on a stem and surmounted by a dot; alpha with the top bar terminating in a serif to the left; kappa with the arm terminating in a long serif; omega with its apex surmounted by a crosslet; tau with a top bar terminating in serifs at either end with its stem crossed at mid-height; TΡ, ΤΟ, ΠΗΝ joined in ligature. The ending Ν in ταπείνωσιν (line 7) is rendered with tachygraphic sign. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -87,8 +87,8 @@
                   <lb n="5" break="no"/><hi rend="ligature">το</hi>ς</w> ὁ <w lemma="ἐγκράτεια">ἐγκρά
                   <lb n="6" break="no"/>τειαν </w><expan><abbr> κ</abbr><ex>αὶ</ex></expan><am>‵</am> <w lemma="ταπείνωσις">τα
                   <lb n="7" break="no"/>πείνωσ<choice><orig>ῖ</orig><reg>ι</reg></choice><expan><ex>ν</ex></expan></w>
-                  <lb n="8"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan><am>‵</am> <w lemma="ἀγάπη">ἀγά<hi rend="ligature">πην</hi></w> <w lemma="κτῶμαι">ἐ 
-                  <lb n="9" break="no"/><supplied reason="lost">κ</supplied>τήσατ<choice><orig>ῶ</orig><reg>ω</reg></choice></w>
+                  <lb n="8"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan><am>‵</am> <w lemma="ἀγάπη">ἀγά<hi rend="ligature">πην</hi></w> <w lemma="κτῶμαι"><choice><sic>ἐ 
+                  <lb n="9" break="no"/><supplied reason="lost">κ</supplied>τήσατ<choice><orig>ῶ</orig><reg>ω</reg></choice></sic><corr>ἐκτήσατο</corr></choice></w>
               </ab>
             </div>
             <div type="apparatus">

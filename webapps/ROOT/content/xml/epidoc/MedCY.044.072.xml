@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. The word ἅγιος is abbreviated inside an omicron which indicates the article. OC in ligature with final sigma shaped with a vertical wavy line. Accents and breathings systematic. Breathings of the archaic variety (ancular).
+                            <handNote>White majuscule letters against blue background. Character size varies. Lambda with the top bar terminating in a serif to the left. OC joined in ligature, with the round omicron enclosing a final sigma, formed with a wavy vertical stroke. Accents and breathings systematic. Breathings of the archaic variety (ancular).
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -81,8 +81,8 @@
                 <cb n="a"/>
                     <lb n="1"/>Ὁ <persName type="sacred" key="Phloros"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
                      <cb n="b"/>
-                  <lb n="1"/><name type="forename" nymRef="#Φλῶρος">Φλ<choice><orig>ό</orig><reg>ο&#x0342;</reg></choice>ρ
-                  <lb n="2" break="no"/><hi rend="ligature">oς</hi></name></persName>    
+                  <lb n="1"/><name type="forename" nymRef="#Φλῶρος"><choice><sic>Φλ<choice><orig>ό</orig><reg>ο&#x0342;</reg></choice>ρ
+                  <lb n="2" break="no"/><hi rend="ligature">oς</hi></sic><corr>Φλῶρος</corr></choice></name></persName>    
               </ab>
             </div>
             <div type="apparatus">

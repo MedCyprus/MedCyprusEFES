@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Near systematic use of accents and breathings. The Ὁ and ἅγιος bear rough breathings of the archaic variety, i.e. shaped like the left half of a majuscule eta. The Ὁ before the Syrian bears a rough breathing of the modern variety, i.e. simiral to inverted comma. Letter height: <height unit="cm">4</height>.
+                            <handNote>White letters against blue background. Majuscule letters. Character size varies. Near systematic use of accents and breathings. The Ὁ and ἅγιος bear rough breathings of the archaic variety, i.e. shaped like the left half of a majuscule eta. The Ὁ before the Syrian bears a rough breathing of the modern variety, i.e. simiral to inverted comma. Letter height: <height unit="cm">4</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -84,7 +84,7 @@
                <lb n="3" break="no"/>μ</name>
                <cb n="a"/>   
                 <lb n="1"/>Ὁ 
-                <lb n="2"/> <addName type="epithet" key="Syrian">Σύ
+                <lb n="2"/><addName type="epithet" key="Syrian">Σύ
                 <lb n="3" break="no"/>ρο
                 <lb n="4" break="no"/><supplied reason="lost">ς</supplied></addName></persName>
               </ab>
