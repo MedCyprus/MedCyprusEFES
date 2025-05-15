@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-<rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+<rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly preserved.</rs>
       <rs type="placement-building" ref="#naos">Naos, northwest recess, lunette</rs> 
         <dimensions><height>n/a</height></dimensions>
                                 </support>                               
@@ -38,13 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Accents and breathings systematic. Letter height: <height unit="cm">4</height>
+                            <handNote>White majuscule letters against blue background. Accents and breathings non systematic. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                     <decoDesc>
                             <p><rs type="iconography" ref="#FortyMartyrs_martyrdom">Martyrdom of the Forty Martyrs of Sebasteia</rs>
                                   <rs type="iconography" ref="#FortyMartyrs"></rs>            
-                                  <rs type="iconography" ref="#hagiographic">hagiographic</rs>                               
+                                  <rs type="iconography" ref="#hagiographic"></rs>                               
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -87,13 +87,13 @@
                 </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <p>n/a</p>
                  </div>
             <div type="translation">
                 <p>Fo[rty] Μartyrs</p> 
             </div>
             <div type="commentary">
-                <p>Badly preserved</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
