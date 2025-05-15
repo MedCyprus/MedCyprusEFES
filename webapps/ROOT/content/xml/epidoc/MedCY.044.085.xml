@@ -39,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters in greenish background. Majuscule letters. Characters' size varies. Short, vertical and horizontal lines at horizontal bar of eta and at the bottom of upsilon. Mu with its middle bar forms an upsilon; a short, horizontal line apperas in its middle bar. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
+                            <handNote>Black majuscule letters in greenish background. Character size varies. Delta is formed with a lambda on a bottom bar, with a long serif to the left of its top bar; mu with the central strokes reminiscent of an upsilon on a crossed stem. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -85,18 +85,14 @@
                   <lb n="2"/><w lemma="ἕβδομος">ἑβδ<choice><orig>ο</orig><reg>ό</reg></choice>μ<choice><orig>ή</orig><reg>η</reg></choice></w>
                   <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
                   <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><unclear>δου</unclear>
-                  <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><unclear>῀</unclear><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></name></persName>   
+                  <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><unclear>῀</unclear><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς"><addName type="epithet" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></name></persName>   
               </ab>
             </div>
             <div type="apparatus">
                 <p>n/a</p>
                  </div>
             <div type="translation">
-                <p>The soul
-                   seventh
-                   [..?..] 
-                   [..?..]dou
-                   [..?..]῀̣Christ </p> 
+                <p>The soul seventh [..?..]dou [..?..] Christ </p> 
             </div>
             <div type="commentary">
                 <p>No comment</p>
