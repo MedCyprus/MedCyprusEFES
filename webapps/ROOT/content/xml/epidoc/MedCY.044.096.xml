@@ -38,13 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. TOY, TO and OY joined in ligatures, with the tau emerging from the upsilon and omicron respectively, and upsilon in ligature OY from omicron. Short, horizontal lines in the middle of the vertical bar of tau and at the bottom of the upsilon. Big, wavy line above the abbreviations. Double dots after the words ἐνθάδε, μαρτύρων and βία; middle points after the words ἀκούσης and βλέπουσιν. Almost systematic use of accents and breathings. Letter height: <height unit="cm">4</height>
+                            <handNote>White majuscule letters against blue background. Character size varies. Tau with a top bar terminating in serifs at either end and with its stem crossed at mid-height; upsilon on a crossed stem; kappa with the upper arm terminating in a long serif; TOY, TO and OY joined in ligatures, with the tau emerging from the upsilon and omicron respectively, and upsilon in ligature OY from omicron. Double dots after the words ἐνθάδε, μαρτύρων and βία; middle points after the words ἀκούσης and βλέπουσιν. Near systematic use of accents and breathings. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                     <decoDesc>
                             <p><rs type="iconography" ref="#FortyMartyrs_martyrdom">Martyrdom of the Forty Martyrs of Sebasteia</rs>
                                   <rs type="iconography" ref="#FortyMartyrs"></rs>            
-                                  <rs type="iconography" ref="#hagiographic">hagiographic</rs>                               
+                                  <rs type="iconography" ref="#hagiographic"></rs>                               
                             </p>
                         </decoDesc>
                     </physDesc>
