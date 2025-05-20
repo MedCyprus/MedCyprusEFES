@@ -17,10 +17,29 @@
     <text>
         <body>
             <listPlace>
+                
                 <place xml:id="AgiosNicholaostisStegis">
                     <placeName xml:lang="grc">Ἅγιος Νικόλαος τῆς Στέγης</placeName>
                     <placeName xml:lang="en">Saint Nicholas of the Roof</placeName>
                     <idno type="cyprusgazetteer">https://cyprusgazetteer.org/146711/252/</idno>
+                </place>
+                
+                <place xml:id="Antioch">
+                    <placeName xml:lang="grc">Ἀντιοχεία</placeName>
+                    <placeName xml:lang="en">Antioch</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/658381/antiocheia-am-orontes-1/?searchterm=antioch*</idno>
+                </place>
+                
+                <place xml:id="Cyprus">
+                    <placeName xml:lang="grc">Κύπρος</placeName>
+                    <placeName xml:lang="en">Cyprus</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/707498/cyprus/?searchterm=cyprus*</idno>
+                </place>
+                
+                <place xml:id="Damascus">
+                    <placeName xml:lang="grc">Δαμασκός</placeName>
+                    <placeName xml:lang="en">Damascus</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/678106/damascus/?searchterm=damascus*</idno>
                 </place>
                 
                 <place xml:id="MonasteryOfPhorbiotissa">
