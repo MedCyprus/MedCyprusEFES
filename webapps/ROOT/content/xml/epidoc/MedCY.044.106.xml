@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mu with its middle bar forms a tau. Nu with its central bar forms a vertical, zig zag line. Short vetical and horizontal lines in the horizontal bar of eta and at the bottom of ypsilon. ΑΝ, ΑΡ, ΤΡ joined in ligature. Systematic use of accents and breathings. Breathings of the modern variety (circular). Letter height:<height unit="cm">3</height>
+                            <handNote>White majuscule letters against blue background. Character size varies. Eta with its crossbar crossed; tau with a top bar terminating in serifs at either end; mu with the central strokes reminiscent of a tau; nu with a zig-zag stroke; upsilon on a crossed stem. ΑΝ, ΑΡ, ΤΡ joined in ligature. Systematic use of accents and breathings. Breathings of the modern variety (circular). Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -66,7 +66,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>Transcription (G. Apeitos, Th. Petrou), publications</creation>
+            <creation>transcription (G. Apeitos, Th. Petrou), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
