@@ -42,7 +42,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#PresentationVirgin">Presentation of the Virgin to the Temple, Zacharias</rs></p>
+                            <p><rs type="iconography" ref="#PresentationVirgin">Presentation of the Virgin to the Temple, Zacharias</rs>
+                             <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
