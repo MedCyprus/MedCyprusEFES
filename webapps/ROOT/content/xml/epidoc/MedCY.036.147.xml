@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Presentation of the Virgin to the Temple, Anne</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                    <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, north wall, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Above the saint's head</layout>
+                                <layout>Above the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#PresentationVirgin">Presentation of the Virgin to the Temple, Anne</rs></p>
+                            <p><rs type="iconography" ref="#PresentationVirgin">Presentation of the Virgin to the Temple, Anne</rs>
+                            <rs type="iconography" ref="#mariological"></rs>
+                            <rs type="iconography" ref="#Joachim"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,14 +70,14 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-147-01.JPG"><desc>Naos, north wall, lunette, inscription</desc></graphic>
-        <graphic url="036-147-02.JPG"><desc>Naos, north wall, lunette, general view</desc></graphic>
+         <graphic rend="primary" url="036-147-01.JPG"><desc>Presentation of the Virgin to the Temple, Anne, inscription</desc></graphic>
+        <graphic url="036-147-02.JPG"><desc>Presentation of the Virgin to the Temple, Anne, general view</desc></graphic>
       </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><g ref="#cross">+</g>Ἡ <persName type="sacred" key="Anne"><w lemma="ἁγία"><expan><abbr rend="supraline"><choice><orig>ἅ</orig><reg>ἁ</reg></choice>γ</abbr><ex>ιος</ex></expan></w> <name nymRef ="#Ἄννα" type="forename"><choice><orig>Α</orig><reg>Ἄ</reg></choice>ννα</name></persName><g ref="#cross">+</g>
                 </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +87,7 @@
                 <p>Saint Anne</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
