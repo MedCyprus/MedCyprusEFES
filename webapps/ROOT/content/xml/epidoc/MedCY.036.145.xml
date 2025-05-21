@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>*Presentation of the Virgin to the Temple, Virgin</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, north wall, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. The nomina sacra Μή(τη)ρ Θ(εο)ῦ are abbreviated. ΜΗΡ joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#PresentationVirgin">Presentation of the Virgin to the Temple, Virgin</rs></p>
+                            <p><rs type="iconography" ref="#PresentationVirgin">Presentation of the Virgin to the Temple, Virgin</rs>
+                             <rs type="iconography" ref="#Virgin"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,14 +69,14 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-145-01.JPG"><desc>Naos, north wall, lunette, inscription</desc></graphic>
-        <graphic url="036-145-02.JPG"><desc>Naos, north wall, lunette, general view</desc></graphic>
+         <graphic rend="primary" url="036-145-01.JPG"><desc>Presentation of the Virgin to the Temple, Virgin, inscription</desc></graphic>
+        <graphic url="036-145-02.JPG"><desc>Presentation of the Virgin to the Temple, Virgin, general view</desc></graphic>
       </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <persName type="sacred" key="MeterTheou"><addName nymRef="#Μήτηρ Θεοῦ"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w> <milestone unit="column" n="right"/><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice><am>&#x00A0;῀&#x00A0;</am></abbr></expan></w></addName></persName> 
                 </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +86,7 @@
                 <p>Mother of God</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
