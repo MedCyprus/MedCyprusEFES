@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Delta is formed with a lambda on a horizontal bar. Eta with a short, thin line on its horizontal bar. Nu with its central bar forms a vertical, zig zag line. Middle dot after Anastasias and double point with a hyphen after Σαραμαλύνας. TH, OY, AN, ΑΡ and AM joined in ligatures. The word endings -ης in δούλης and -ας in Ἀναστασίας are rendered with tachygraphic signs. Horizontal wavy lines above the abbreviations of δέησις and Θεού. Systematic use of accents and breathings of the modern variety (circular). Letter height: <height unit="cm">2,5</height>
+                            <handNote>White majuscule letters against blue background. Character size varies. Delta is formed with a lambda on a bottom bar; eta with its crossbar crossed; nu with a zig-zag stroke; upsilon on a crossed stem. Middle dot after Ἀναστασίας and double point with a hyphen after Σαραμαλύνας. TH, OY, AN, ΑΡ, AM joined in ligature. The word endings -ης in δούλης and -ας in Ἀναστασίας are rendered with tachygraphic signs. Wavy-horizontal abbreviation mark above Δέ(ησι)ς and Θ(εο)ῦ. Systematic use of accents and breathings of the modern variety (circular). Letter height: <height unit="cm">2,5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -66,7 +66,7 @@
                     <term type="textType" ref="text_types.xml#doc11">Invocation</term>
                 </keywords>
             </textClass>
-       <creation>transcription (G. Apeitos, Th. Petrou), publication</creation>
+       <creation>transcription (G. Apeitos, Th. Petrou), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
