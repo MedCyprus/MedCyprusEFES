@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Paul</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,24 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, northwestern pilaster, south face</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. OC joined in ligature. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Paul">Paul</rs></p>
+                            <p><rs type="iconography" ref="#Paul">Paul</rs>
+                            <rs type="iconography" ref="#apostle"></rs>
+                                  <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#martyr"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,14 +71,21 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-142-01.JPG"><desc>Naos, northwestern pilaster, south face, inscription</desc></graphic>
-        <graphic url="036-142-02.JPG"><desc>Naos, northwestern pilaster, south face, general view</desc></graphic>
+         <graphic rend="primary" url="036-142-01.JPG"><desc>Saint Paul, inscription</desc></graphic>
+        <graphic url="036-142-02.JPG"><desc>Saint Paul, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice>
+                  <lb n="2"/><persName type="sacred" key="Paul"><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἅ</reg></choice>
+                   <lb n="3" break="no"/>γ<choice><orig>ί</orig><reg>ι</reg></choice>
+                   <lb n="4" break="no"/>ος</w>
+                   <cb n="b"/>
+                    <lb n="1"/><name type="forename" nymRef="#Παῦλος">Πα<choice><orig>υ</orig><reg>ῦ</reg></choice>
+                     <lb n="2" break="no"/>λος</name></persName>
                 </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +95,7 @@
                 <p>Saint Paul</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Νο comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
