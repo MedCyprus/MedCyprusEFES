@@ -76,7 +76,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                     <cb n="a"/>
-                   <lb n="1"/>Ὁ <persName type="sacred" key="SymeonGodReceiver"><w lemma="ἅγιος">ἅγιος</w>
+                   <lb n="1"/>Ὁ <persName type="sacred" key="SymeonGodReceiver"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice>γ</abbr><ex>ιος</ex></expan></w> <name type="forename" nymRef="#Συμεών">Συμε<choice><orig>ω</orig><reg>ώ</reg></choice>ν</name></persName>
+                   <cb n="b"/>
                 </ab>
             </div>
             <div type="apparatus">
