@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Akindynos</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, north wall, soffit, east side, first medallion, on top</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint</layout>
+                                <layout>On either side of the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against green background. Majuscule letters. Characters' size varies. Final sigma with diagonal spine. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Akindynos">Akindynos</rs></p>
+                            <p><rs type="iconography" ref="#Akindynos">Akindynos</rs>
+                            <rs type="iconography" ref="#martyr"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,13 +70,22 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-160-01.JPG"><desc>Naos, north wall, soffit, east side, first medallion, on top, inscription</desc></graphic>
+         <graphic rend="primary" url="036-160-01.JPG"><desc>Saint Akindynos, inscription</desc></graphic>
       </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                    <cb n="a"/>
+                   <lb n="1"/>Ὁ 
+                   <lb n="2"/><persName type="sacred" key="Akindynos"><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἅ</reg></choice>
+                   <lb n="3" break="no"/>γ<choice><orig>ϊ</orig><reg>ı</reg></choice>
+                   <lb n="4" break="no"/>ος</w>
+                  <cb n="b"/>
+                   <lb n="1"/><name nymRef ="#Ἀκίνδυνος" type="forename"><supplied reason="lost">Ἀ
+                      <lb n="2" break="no"/>κίν
+                      <lb n="3" break="no"/>δυν</supplied>
+                      <lb n="4" break="no"/>ος</name></persName>
                 </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +95,7 @@
                 <p>Saint [..?..]</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
