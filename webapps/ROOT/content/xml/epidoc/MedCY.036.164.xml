@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against red background. Majuscule letters. Characters' size varies. The last sigma with a diagonal spine and a tail. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Pegasios">Pegasios</rs></p>
+                            <p><rs type="iconography" ref="#Pegasios">Pegasios</rs>
+                             <rs type="iconography" ref="#martyr"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
