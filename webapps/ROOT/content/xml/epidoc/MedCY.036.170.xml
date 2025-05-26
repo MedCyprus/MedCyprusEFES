@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Christopher</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,17 +28,17 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwestern recess, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint</layout>
+                                <layout>On either side of the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against green background. Majuscule letters. Characters' size varies. OC joined in ligature. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -73,14 +73,23 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-170-01.JPG"><desc>Naos, southwestern recess, lunette, inscription</desc></graphic>
-        <graphic url="036-170-02.JPG"><desc>Naos, southewestern recess, lunette, general view</desc></graphic>
+         <graphic rend="primary" url="036-170-01.JPG"><desc>Saint Christopher, inscription</desc></graphic>
+        <graphic url="036-170-02.JPG"><desc>Saint Christopher, general view</desc></graphic>
       </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                  <cb n="a"/>
+                   <lb n="1"/>Ὁ 
+                   <lb n="2"/><persName type="sacred" key="Christopher"><w lemma="ἅγιος">ἅ
+                   <lb n="3" break="no"/>γı
+                   <lb n="4" break="no"/><hi rend="ligature">ος</hi></w>
+                   <cb n="b"/>
+                    <lb n="1"/><name nymRef ="#Χριστοφόρος" type="forename">Χρι
+                    <lb n="2" break="no"/>στο
+                    <lb n="3" break="no"/>φό
+                    <lb n="4" break="no"/>ρ<hi rend="ligature">ος</hi></name></persName>
                 </ab>
             </div>
             <div type="apparatus">
@@ -90,7 +99,7 @@
                 <p>Saint Christopher</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
