@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Ascension">Ascension</rs>
+                            <p><rs type="iconography" ref="#Ascension">Ascension, Christ</rs>
                                   <rs type="iconography" ref="#Christ"></rs>
                                   <rs type="iconography" ref="#christological"></rs>
                             </p>
@@ -62,7 +62,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                    <term type="textType" ref="text_types.xml#doc9">Sigla</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos)</creation>
