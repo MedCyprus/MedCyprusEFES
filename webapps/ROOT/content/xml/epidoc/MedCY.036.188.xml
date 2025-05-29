@@ -34,15 +34,18 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against brown background. Majuscule letters. Characters' size varies. OC and THC joined in ligature. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="#Kyriakos">Kyriakos</rs></p>
+                            <p><rs type="iconography" ref="#Kyriakos">Kyriakos</rs>
+                            <rs type="iconography" ref="#ascetic"></rs>
+                                  <rs type="iconography" ref="#monastic"></rs>
+                                  <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -75,7 +78,19 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                  <cb n="a"/>
+                   <lb n="1"/>Ὁ <persName type="sacred" key="Kyriakos"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>
+                        <lb n="2"/><name type="forename" nymRef="#Κυριακός">Κυ
+                        <lb n="3" break="no"/>ρ<choice><orig>ϊ</orig><reg>ı</reg></choice>
+                        <lb n="4" break="no"/>α
+                        <lb n="5" break="no"/>κ<hi rend="ligature">ός</hi></name>
+                   <cb n="b"/>
+                  <lb n="1"/>Ὁ 
+                  <lb n="2"/><addName type="epithet" key="Anchorite"><choice><sic><choice><orig>A</orig><reg>Ἀ</reg></choice>
+                  <lb n="3" break="no"/>να
+                  <lb n="4" break="no"/>χω
+                  <lb n="5" break="no"/>ρı
+                  <lb n="6" break="no"/><hi rend="ligature">τής</hi></sic><corr>Ἀναχωρητής</corr></choice></addName></persName>
                 </ab>
             </div>
             <div type="apparatus">
