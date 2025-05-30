@@ -84,12 +84,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/>Ὁ <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></w></persName> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></w></persName><w lemma="ἐγώ">ἡ
-                  <lb n="2" break="no"/>μῶν</w>ὁ<w><choice><sic>τοὺ</sic><corr>τὸν</corr></choice></w> 
-                  <lb n="3"/><w lemma="οὐράνιος"><choice><sic>οὐρ<choice><orig>α</orig><reg>ά</reg></choice>νιος</sic><corr>οὐράνιον</corr></choice></w> <w lemma="ἄρτος"><choice><orig>ἀ</orig><reg>ἄ</reg></choice>ρ
-                  <lb n="4" break="no"/>τον</w>. <w>τὴν</w> <w lemma="τροφή">τρο
-                  <lb n="5" break="no"/>φ<hi rend="ligature">ήν</hi></w><w>τ<hi rend="ligature">oῦ</hi></w> 
-                  
+                    <lb n="1"/>Ὁ <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></w></persName> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></w></persName> <w lemma="ἐγώ">ἡ
+                  <lb n="2" break="no"/>μῶν</w> ὁ <choice><sic>τοὺ</sic><corr>τὸν</corr></choice> 
+                  <lb n="3"/><w lemma="οὐράνιος">οὐρ<choice><orig>α</orig><reg>ά</reg></choice>νιον</w> <w lemma="ἄρτος"><choice><orig>ἀ</orig><reg>ἄ</reg></choice>ρ
+                  <lb n="4" break="no"/>τον</w>.<w>τὴν</w> <w lemma="τροφή">τρο
+                  <lb n="5" break="no"/>φ<hi rend="ligature">ήν</hi></w> <w>τ<hi rend="ligature">oῦ</hi></w> <w lemma="παντὸς">παν
+                    <lb n="6" break="no"/>τὸς</w> <w lemma="κόσμος">κόσμ<hi rend="ligature">ου</hi></w>
+                  <lb n="7"/><w>τὸν </w><persName type="divine" key="Lord"><name nymRef="Κύριος"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύριο</ex><abbr rend="supraline">ν</abbr></expan></w></name></persName> <w lemma="ἐγώ">ἡ
+                 <lb n="8" break="no"/>μῶ<hi rend="ligature">νκ</hi>αὶ</w> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline"><supplied reason="lost">ν</supplied></abbr></expan></w></persName>
+                  <lb n="9"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς Χριστός"> <expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ν</abbr></expan> <supplied reason="omitted">Χριστόν</supplied></name></persName> <w lemma="ἐξαποστέλλω">ἐξαπο
+                <lb n="10" break="no"/>στε<choice><orig>ı</orig><reg>ἰ</reg></choice>λας</w>.<w lemma="σωτηρία"><expan><abbr rend="supraline">σ</abbr><ex>ωτη</ex><abbr rend="supraline">ρα</abbr></expan></w> <expan><abbr rend="supraline">κ</abbr><ex>αὶ</ex></expan>
+                  <lb n="11"/><w lemma="λύτρον">λ<choice><orig>υ</orig><reg>ύ</reg></choice>τρο</w> <w><hi rend="ligature">τὴν</hi></w>
                </ab>
             </div>
             <div type="apparatus">
