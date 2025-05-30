@@ -84,7 +84,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/>Ὁ 
+                    <lb n="1"/>Ὁ <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></w></persName> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></w></persName><w lemma="ἐγώ">ἡ
+                  <lb n="2" break="no"/>μῶν</w>ὁ<w><choice><sic>τοὺ</sic><corr>τὸν</corr></choice></w> 
+                  <lb n="3"/><w lemma="οὐράνιος"><choice><sic>οὐρ<choice><orig>α</orig><reg>ά</reg></choice>νιος</sic><corr>οὐράνιον</corr></choice></w> <w lemma="ἄρτος"><choice><orig>ἀ</orig><reg>ἄ</reg></choice>ρ
+                  <lb n="4" break="no"/>τον</w>. <w>τὴν</w> <w lemma="τροφή">τρο
+                  <lb n="5" break="no"/>φ<hi rend="ligature">ήν</hi></w><w>τ<hi rend="ligature">oῦ</hi></w> 
+                  
                </ab>
             </div>
             <div type="apparatus">
