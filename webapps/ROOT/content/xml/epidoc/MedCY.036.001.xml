@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>Red letters against blue background. Majuscule letters. The words Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, horizontal line above each word. Letters MHΡ joined in ligature. Theta with a crosslet attached at the bottom. Accents systematic.
+                             <handNote>Red majuscule letters against blue background. Theta with a decorative tail extending from the horizontal crossbar. MHΡ joined in ligature. Wavy-horizontal abbreviation mark above the nomina sacra MHΡ ΘΥ. Accents systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -67,7 +67,7 @@
                     <term type="textType" ref="text_types.xml#doc9">Sigla</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publications</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -81,7 +81,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                     <lb n="1"/><persName type="sacred" key="MeterTheou"><addName nymRef="#Μήτηρ Θεοῦ"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi><am>´</am></w>
-                    <milestone unit="column"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice><am>&#x00A0;῀&#x00A0;</am></abbr></expan></addName></persName> 
+                    <milestone unit="column"/><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice><am>&#x00A0;῀&#x00A0;</am></abbr></expan></w></addName></persName> 
                </ab>
             </div>
             <div type="apparatus">
