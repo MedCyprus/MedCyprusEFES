@@ -35,11 +35,11 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the open scroll held in both hands by the co-officiating prelate.</layout>
+                                <layout>On the open scroll held in both hands by the co-officiating prelate.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>Black letters against white background. Majuscule letters. Characters' size varies. Letter height: <height unit="cm">3</height> 
+                             <handNote>PENDING. Black majuscule letters against white background. Character size varies. Letter height: <height unit="cm">3</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -83,7 +83,7 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>
+              <ab>PENDING
                     <lb n="1"/>Ὁ <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></w></persName> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></w></persName> <w lemma="ἐγώ">ἡ
                   <lb n="2" break="no"/>μῶν</w> ὁ <choice><sic>τοὺ</sic><corr>τὸν</corr></choice> 
                   <lb n="3"/><w lemma="οὐράνιος">οὐρ<choice><orig>α</orig><reg>ά</reg></choice>νιον</w> <w lemma="ἄρτος"><choice><orig>ἀ</orig><reg>ἄ</reg></choice>ρ
