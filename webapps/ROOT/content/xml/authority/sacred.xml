@@ -466,6 +466,18 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q26925</idno>                   
                 </person>
                 
+                <person xml:id="JamesAlphaeus">
+                    <persName xml:lang="grc">Ἰάκωβος, υἱός Ἀλφαῖου</persName>
+                    <persName xml:lang="en">James, son of Alphaeus</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q3245490</idno>                   
+                </person>
+                
+                <person xml:id="JamesZebedee">
+                    <persName xml:lang="grc">Ἰάκωβος, υἱός Ζεβεδαίου</persName>
+                    <persName xml:lang="en">James, son of Zebedee</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q43999</idno>                   
+                </person>
+                
                 <person xml:id="Jeremiah">
                     <persName xml:lang="grc">Ἱερεμίας</persName>
                     <persName xml:lang="en">Jeremiah</persName>                   
