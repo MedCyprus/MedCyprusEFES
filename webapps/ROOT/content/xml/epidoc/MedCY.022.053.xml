@@ -5,14 +5,14 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ascension, Virgin</title>
+                <title>Hetoimasia, Christ's sigla</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.022.043</idno>
+                <idno type="filename">MedCY.022.053</idno>
                 <availability>
                   <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
                 </availability>
@@ -33,7 +33,7 @@
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the Virgin's head</layout>
+                                <layout>On either side of the cross surmounting the throne</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -41,9 +41,8 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Ascension">Ascension, Virgin</rs>
-                                  <rs type="iconography" ref="#Virgin"></rs>
-                                  <rs type="iconography" ref="#christological"></rs>
+                            <p><rs type="iconography" ref="#Hetoimasia">Hetoimasia, Christ's sigla</rs>
+                                  <rs type="iconography" ref="#vision"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -69,8 +68,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="022-044-01.JPG"><desc>Ascension, Virgin, inscription</desc></graphic>
-        <graphic url="022-044-02.JPG"><desc>Ascension, Virgin, general view</desc></graphic>
+        <graphic rend="primary" url="022-053-01.JPG"><desc>Hetoimasia, Christ's sigla, inscription</desc></graphic>
+        <graphic url="022-053-02.JPG"><desc>Hetoimasia, Christ's sigla, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -83,7 +82,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Mother of God</p>
+                <p>Jesus Christ</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
