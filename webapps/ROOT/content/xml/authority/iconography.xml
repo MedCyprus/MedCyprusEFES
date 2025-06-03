@@ -593,11 +593,14 @@
                 <item xml:id="Peter">
                     <term xml:lang="en">Peter</term>
                 </item>
-                <item xml:id="Phloros">
-                    <term xml:lang="en">Phloros</term>
-                </item>
                 <item xml:id="Philagrios">
                     <term xml:lang="en">Philagrios</term>
+                </item>
+                <item xml:id="Philippos">
+                    <term xml:lang="en">Philippos</term>
+                </item>
+                <item xml:id="Phloros">
+                    <term xml:lang="en">Phloros</term>
                 </item>
                 <item xml:id="Phylon">
                     <term xml:lang="en">Phylon</term>
