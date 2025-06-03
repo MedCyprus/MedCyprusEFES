@@ -35,12 +35,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Text between two ochre-coloured ruled lines. Majuscule letters. Characters' size varies. Round omicron attached to nearly round final sigma OC (line 4), a feature that we encounter in manuscripts. ΙΜ, αΙ in ligatures. In line 5 and 7 the ligature αΙ is written with a minuscule alpha attached to a majuscule iota. Φ and Ρ in superscript. Sporadic accents and breathings. Letter height: <height unit="cm">4</height>
+                            <handNote>Black majuscule letters against white background. Text between two ochre-coloured ruled lines. Character size varies. Round omicron attached to nearly round final sigma OC (line 4), a feature that we encounter in manuscripts. ΙΜ, αΙ in ligatures. In line 5 and 7 the ligature αΙ is written with a minuscule alpha attached to a majuscule iota. Φ and Ρ in superscript. Sporadic accents and breathings. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Peter">Peter</rs>
                             <rs type="iconography" ref="#apostle"></rs>
+                            <rs type="iconography" ref="#martyr"></rs>    
                             <rs type="iconography" ref="#male"></rs>   
                             <rs type="iconography" ref="#scroll"></rs>
                             </p>
