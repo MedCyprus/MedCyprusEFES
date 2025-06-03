@@ -6,7 +6,6 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Paul's scroll</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -42,9 +41,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Paul">Paul</rs>
+                            <p><rs type="iconography" ref="#Paul">Paul</rs>
                             <rs type="iconography" ref="#apostle"></rs>
                             <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#martyr"></rs>
                             <rs type="iconography" ref="#scroll"></rs>
                             </p>
                         </decoDesc>
