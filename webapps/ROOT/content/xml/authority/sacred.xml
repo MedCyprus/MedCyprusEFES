@@ -845,16 +845,22 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q33923</idno>                   
                 </person>
                 
-                <person xml:id="Phloros">
-                    <persName xml:lang="grc">Φλῶρος</persName>
-                    <persName xml:lang="en">Phloros</persName> 
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2333926</idno>                   
-                </person>
-                
                 <person xml:id="Philagrios">
                     <persName xml:lang="grc">Φιλάγριος</persName>
                     <persName xml:lang="en">Philagrios</persName>   
                     <idno type="wikidata">not listed</idno>                   
+                </person>
+                
+                <person xml:id="Philippos">
+                    <persName xml:lang="grc">Φίλιππος</persName>
+                    <persName xml:lang="en">Philippos</persName>   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q43675</idno>                   
+                </person>
+                
+                <person xml:id="Phloros">
+                    <persName xml:lang="grc">Φλῶρος</persName>
+                    <persName xml:lang="en">Phloros</persName> 
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2333926</idno>                   
                 </person>
                 
                      <person xml:id="RomanosMelode">
