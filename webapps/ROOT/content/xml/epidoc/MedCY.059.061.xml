@@ -41,7 +41,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Betrayal">Betrayal, Peter the Apostle</rs></p>
+                            <p><rs type="iconography" ref="#Betrayal">Betrayal, Peter</rs>
+                                  <rs type="iconography" ref="#apostle"></rs>
+                                  <rs type="iconography" ref="#male"></rs>
+                                  <rs type="iconography" ref="#martyr"></rs>
+                                  <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

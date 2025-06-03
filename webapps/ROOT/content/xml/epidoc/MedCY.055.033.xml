@@ -35,12 +35,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against grey background. Beta in majuscule. Bartholomew is abbreviated Β(αρθολομαίος) with a wavy line above the beta.  
+                            <handNote>Black letter against grey background. Beta in majuscule. Wavy, horizontal abbreviation mark above B(artholomew).  
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Pentecost">Pentecost, Bartholomew</rs>
-                                   <rs type="iconography" ref="#Bartholomew"></rs></p>
+                                   <rs type="iconography" ref="#Bartholomew"></rs>
+                                   <rs type="iconography" ref="#apostle"></rs>
+                                   <rs type="iconography" ref="#christological"></rs></p>
                             </decoDesc>
                     </physDesc>
                     <history>

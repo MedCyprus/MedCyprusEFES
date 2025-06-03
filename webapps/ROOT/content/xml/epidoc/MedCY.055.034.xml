@@ -39,7 +39,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#PentecostThomas">Pentecost, Thomas</rs></p>
+                            <p><rs type="iconography" ref="#Pentecost">Pentecost, Thomas</rs>
+                                   <rs type="iconography" ref="#Thomas"></rs>
+                                   <rs type="iconography" ref="#apostle"></rs>
+                                   <rs type="iconography" ref="#christological"></rs></p>
                             </decoDesc>
                     </physDesc>
                     <history>
