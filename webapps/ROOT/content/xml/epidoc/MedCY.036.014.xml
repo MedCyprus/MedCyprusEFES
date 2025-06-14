@@ -82,7 +82,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/><g ref="#cross">+</g><persName type="divine" key="Lord"><name nymRef="Κύριος"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύριο</ex><abbr rend="supraline">ε</abbr></expan></w></name></persName> Ὁ <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></w></persName>
+                    <lb n="1"/><g ref="#cross">+</g><persName type="divine" key="Lord"><name nymRef="Κύριος"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύριο</ex><abbr rend="supraline">ε</abbr></expan></w></name></persName> Ὁ <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></w></persName> <w lemma="ἐγώ"><hi rend="ligature">ἡμ</hi><supplied reason="lost">ῶν</supplied></w>
+                  <lb n="2"/><choice><orig>ὁ</orig><reg>o</reg></choice><choice><orig>ῦ</orig><reg>ὖ</reg></choice> <hi rend="ligature">τὸ</hi> κράτος ανεικαστον και  δοξα ακαταληπτος, 
                </ab>
             </div>
             <div type="apparatus">
