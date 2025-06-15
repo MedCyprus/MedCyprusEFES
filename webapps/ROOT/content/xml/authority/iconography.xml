@@ -158,11 +158,7 @@
                 </item>
                 <item xml:id="Oldtestament">
                     <term xml:lang="en">Old Testament</term>
-<<<<<<< HEAD
-                </item>
-=======
                 </item>               
->>>>>>> db1e76f68dd69cc868e967921f64a595024df2c8
                 <item xml:id="vision">
                     <term xml:lang="en">Vision, prophetic or other</term>
                 </item>
@@ -786,21 +782,21 @@
                 </item>
                 <item xml:id="dresscivilian">
                     <term xml:lang="en">dress,
-                        civilian</term><!-\- for angels and military martyrs -\->
+                        civilian</term><!-- for angels and military martyrs -->
                 </item>
-                <item xml:id="dressdeacon"><!-\- for angels -\->
+                <item xml:id="dressdeacon"><!-- for angels -->
                     <term xml:lang="en">dress, deacon's</term>
                 </item>
-                <item xml:id="dressimperial"><!-\- for angels -\->
+                <item xml:id="dressimperial"><!-- for angels -->
                     <term xml:lang="en">dress, imperial</term>
                 </item>
                 <item xml:id="dressmilitary">
                     <term xml:lang="en">dress,
-                        military</term><!-\- for angels and military martyrs -\->
+                        military</term><!-- for angels and military martyrs -->
                 </item>
                 <item xml:id="dressunidentifiable">
                     <term xml:lang="en">dress,
-                        unidentifiable</term><!-\- for angels and military martyrs -\->
+                        unidentifiable</term><!-- for angels and military martyrs -->
                 </item>
                 <item xml:id="angelicpower">
                     <term xml:lang="en">Angelic Power</term>
@@ -816,30 +812,13 @@
                 </item>
                 <item xml:id="deacon">
                     <term xml:lang="en">Deacon</term>
-<<<<<<< HEAD
-                </item>
-                <item xml:id="deceased">
-                    <term xml:lang="en">Supplicant, Deceased</term>
-                </item>
-=======
                 </item>                
->>>>>>> db1e76f68dd69cc868e967921f64a595024df2c8
                 <item xml:id="divine">
                     <term xml:lang="en">Divine</term>
                 </item>
                 <item xml:id="doctor">
                     <term xml:lang="en">Doctor</term>
-<<<<<<< HEAD
-                </item>
-                <item xml:id="donor">
-                    <term xml:lang="en">Supplicant, Donor</term>
-                </item>
-                <item xml:id="supplicant_other">
-                    <term xml:lang="en">Supplicant, Other</term>
-                </item>
-=======
                 </item>                
->>>>>>> db1e76f68dd69cc868e967921f64a595024df2c8
                 <item xml:id="evangelist">
                     <term xml:lang="en">Evangelist</term>
                 </item>
