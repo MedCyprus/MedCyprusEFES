@@ -156,9 +156,6 @@
                 <item xml:id="Oldtestament">
                     <term xml:lang="en">Old Testament</term>
                 </item>
-                <item xml:id="portraits">
-                    <term xml:lang="en">Donor portraits or other</term>
-                </item>
                 <item xml:id="vision">
                     <term xml:lang="en">Vision, prophetic or other</term>
                 </item>
@@ -727,35 +724,56 @@
                     <term xml:lang="en">Zosimas</term></item>
             </list>
 
-            <list type="individual_figure_iconography" xml:id="individual_figures_categories">
+            <!--<list type="individual_figure_iconography" xml:id="individual_figures_categories">
                 <head>Individual Figure Iconographic Types</head>
 
-                <item xml:id="dressantique"><!-- for angels -->
+                <item xml:id="dressantique"><!-\- for angels -\->
                     <term xml:lang="en">dress, antique</term>
                 </item>
                 <item xml:id="dresscivilian">
                     <term xml:lang="en">dress,
-                    civilian</term><!-- for angels and military martyrs -->
+                    civilian</term><!-\- for angels and military martyrs -\->
                 </item>
-                <item xml:id="dressdeacon"><!-- for angels -->
+                <item xml:id="dressdeacon"><!-\- for angels -\->
                     <term xml:lang="en">dress, deacon's</term>
                 </item>
-                <item xml:id="dressimperial"><!-- for angels -->
+                <item xml:id="dressimperial"><!-\- for angels -\->
                     <term xml:lang="en">dress, imperial</term>
                 </item>
                 <item xml:id="dressmilitary">
                     <term xml:lang="en">dress,
-                    military</term><!-- for angels and military martyrs -->
+                    military</term><!-\- for angels and military martyrs -\->
                 </item>
                 <item xml:id="dressunidentifiable">
                     <term xml:lang="en">dress,
-                    unidentifiable</term><!-- for angels and military martyrs -->
+                    unidentifiable</term><!-\- for angels and military martyrs -\->
                 </item>
-            </list>
+            </list>-->
 
             <list type="individual_figures_categories" xml:id="individual_figures_categories">
                 <head>Individual Figure Categories</head>
 
+                <item xml:id="dressantique">
+                    <term xml:lang="en">dress, antique</term>
+                </item>
+                <item xml:id="dresscivilian">
+                    <term xml:lang="en">dress,
+                        civilian</term><!-\- for angels and military martyrs -\->
+                </item>
+                <item xml:id="dressdeacon"><!-\- for angels -\->
+                    <term xml:lang="en">dress, deacon's</term>
+                </item>
+                <item xml:id="dressimperial"><!-\- for angels -\->
+                    <term xml:lang="en">dress, imperial</term>
+                </item>
+                <item xml:id="dressmilitary">
+                    <term xml:lang="en">dress,
+                        military</term><!-\- for angels and military martyrs -\->
+                </item>
+                <item xml:id="dressunidentifiable">
+                    <term xml:lang="en">dress,
+                        unidentifiable</term><!-\- for angels and military martyrs -\->
+                </item>
                 <item xml:id="angelicpower">
                     <term xml:lang="en">Angelic power</term>
                 </item>
@@ -772,7 +790,7 @@
                     <term xml:lang="en">Deacon</term>
                 </item>
                 <item xml:id="deceased">
-                    <term xml:lang="en">Deceased</term>
+                    <term xml:lang="en">Supplicant, Deceased</term>
                 </item>
                 <item xml:id="divine">
                     <term xml:lang="en">Divine</term>
@@ -781,7 +799,10 @@
                     <term xml:lang="en">Doctor</term>
                 </item>
                 <item xml:id="donor">
-                    <term xml:lang="en">Donor</term>
+                    <term xml:lang="en">Supplicant, Donor</term>
+                </item>
+                <item xml:id="supplicant_other">
+                    <term xml:lang="en">Supplicant, Other</term>
                 </item>
                 <item xml:id="evangelist">
                     <term xml:lang="en">Evangelist</term>
