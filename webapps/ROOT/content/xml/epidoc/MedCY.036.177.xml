@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Panteleimon</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwestern recess' soffit, west half, upper figure</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against brown background. Majuscule letters. Characters' size varies. OC joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Panteleimon">Panteleimon</rs></p>
+                            <p><rs type="iconography" ref="#Panteleimon">Panteleimon</rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#martyr"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,14 +70,24 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-177-01.JPG"><desc>Naos, southwestern recess' soffit, west half, upper figure, inscription</desc></graphic>
-        <graphic url="036-177-02.JPG"><desc>Naos, southwestern recess' soffit, west half, upper figure, general view</desc></graphic>
+         <graphic rend="primary" url="036-177-01.JPG"><desc>Saint Panteleimon, inscription</desc></graphic>
+        <graphic url="036-177-02.JPG"><desc>Saint Panteleimon, general view</desc></graphic>
       </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                    <cb n="a"/>
+                   <lb n="1"/>Ὁ 
+                   <lb n="2"/><persName type="sacred" key="Panteleimon"><w lemma="ἅγιος">ἅ
+                   <lb n="3" break="no"/>γ<choice><orig>ϊ</orig><reg>ı</reg></choice>
+                   <lb n="4" break="no"/><hi rend="ligature">ος</hi></w>
+                   <cb n="b"/>
+                    <lb n="1"/><name nymRef ="#Παντελεήμων" type="forename">Π
+                     <lb n="2" break="no"/>αν
+                     <lb n="3" break="no"/>τε
+                     <lb n="4" break="no"/>λεή
+                       <lb n="5" break="no"/>μ<choice><orig>ῶ</orig><reg>ω</reg></choice>ν</name></persName>
                 </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +97,7 @@
                 <p>Saint Panteleimon</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

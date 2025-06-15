@@ -41,7 +41,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Elijah">Elijah</rs></p>
+                            <p><rs type="iconography" ref="#Elijah">Elijah</rs>                                
+                                <rs type="iconography" ref="#prophet"></rs>
+                                <rs type="iconography" ref="#male"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

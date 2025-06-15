@@ -42,8 +42,14 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#angelicpower">Angelic power</rs></p>
-                            <p><rs type="iconography" ref="#angel"></rs></p>
+                            <p><rs type="iconography" ref="#Angels_VirginOrans">Adoring angels converging on the Virgin Orans</rs>
+                               <rs type="iconography" ref="#vision"></rs>
+                               <rs type="iconography" ref="#angelicpower"></rs>
+                               <rs type="iconography" ref="#genderless"></rs>
+                               <rs type="iconography" ref="#dressimperial"></rs>
+                               <rs type="iconography" ref="#dresscivilian"></rs>
+                               <rs type="iconography" ref="#dressantique"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

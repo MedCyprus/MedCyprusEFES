@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, southern apse respond, south panel</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -37,11 +37,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Nu with its central bar forms a diagonal line. ΟΥ, ΤΗ, ΤΗΝ, ΝΗ in ligatures. In line 3 and 10 double point after the letters -ελας and the word κτήστην respectively. Almost systematic use of accents and breathings.
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Nu with its central bar forms a diagonal line. ΟΥ, ΤΗ, ΤΗΝ, ΝΗ joined in ligature. In line 3 and 10 double point after the letters -ΕΛΑC and the word KTHCTHN respectively. Near systematic use of accents and breathings.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>...</p>
+                            <p><rs type="iconography" ref="#Ascension">Ascension epigram</rs>
+                                   <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -63,13 +64,13 @@
                     <term type="textType" ref="text_types.xml#doc12">Metrical inscription</term>
                 </keywords>
             </textClass>
-            <creation><ptr target="Ševčenko2012"/>, 75-7</creation>
+            <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-022-01.JPG"><desc>Bema, southern apse respond, south panel, inscription</desc></graphic>
-        <graphic url="044-022-02.JPG"><desc>Bema, southern apse respond, south panel, inscription detail </desc></graphic>
-         <graphic url="044-022-03.JPG"><desc>Bema, southern apse respond, south panel, general view </desc></graphic>
+         <graphic rend="primary" url="044-022-01.JPG"><desc>Ascension second verse, inscription</desc></graphic>
+        <graphic url="044-022-02.JPG"><desc>Ascension second verse, inscription detail </desc></graphic>
+         <graphic url="044-022-03.JPG"><desc>Ascension second verse inscription, general view </desc></graphic>
         </facsimile>
     <text>
         <body>
@@ -78,11 +79,11 @@
                <l n="1"><lb n="1"/><gap reason="lost" extent="unknown"></gap>στων 
                    <lb n="2"/><g ref="#cross">+</g> μα<gap reason="lost" unit="character" quantity="3"></gap>οστόδο
                    <lb n="3" break="no"/>τησελας: ταυ
-                   <lb n="4" break="no"/>γισεκοτα
+                   <lb n="4" break="no"/>γισεκοτ<choice><orig>ά</orig><reg>α</reg></choice>
                    <lb n="5" break="no"/> μενοι</l> 
                <l n="2">τ<gap reason="lost" unit="character" quantity="1"></gap>ν α
                    <lb n="6" break="no"/>νο πρ<choice><orig>ο</orig><reg>ὸ</reg></choice>ς τ<choice><orig>ο</orig><reg>ὸ</reg></choice><unclear>ν</unclear></l>
-                <l n="3"><lb n="7"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan><am>`</am> <w lemma="νῦν">ν<choice><orig>ὺ</orig><reg>ῦ</reg></choice>ν</w> <w lemma="βλέπω">βλ<choice><orig>ε</orig><reg>έ</reg></choice>
+                <l n="3"><lb n="7"/><expan><abbr rend="supraline">κ</abbr><ex>αὶ</ex></expan><am>`</am> <w lemma="νῦν">ν<choice><orig>ὺ</orig><reg>ῦ</reg></choice>ν</w> <w lemma="βλέπω">βλ<choice><orig>ε</orig><reg>έ</reg></choice>
                     <lb n="8" break="no"/>π<hi rend="ligature">ου</hi>σ<choice><orig>ί</orig><reg>ι</reg></choice>ν</w> <w lemma="αἴρω"><choice><sic>ἐρρό
                     <lb n="9" break="no"/>μενὸν τ<choice><orig>ο</orig><reg>ὸ</reg></choice>ν</sic><corr>αἰρόμενον</corr></choice></w>
                     <lb n="10"/> <w lemma="κτίστης"><choice><sic>κ<hi rend="ligature">τή</hi>σ<hi rend="ligature">την</hi></sic><corr>κτίστην</corr></choice></w>:</l><l n="4"><w lemma="ὅς"><choice><orig>ό</orig><reg>ὃ</reg></choice>ν</w>
@@ -92,18 +93,19 @@
                 </lg>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Lines 1-2 not usefully translated. Lines 3-4: And now they see the creator being taken up, He whom [only] the angels are accustomed to see (<ptr target="Ševčenko2012"/>, 75)</p>
+                <p><lb n="1"/>Lines 1-2 not usefully translated. 
+                      <lb n="2"/>Lines 3-4: And now they see the creator being taken up, He whom [only] the angels are accustomed to see (<ptr target="Ševčenko2012"/>, 75)</p>
             </div>
             <div type="commentary">
-                <p>Partially preserved. Some words are partially preserved and therefore we are unaware of their origin and meaning. Οnly the phrases: καὶ νῦν βλέπουσιν αἰρόμενον τὸν κτίστην
+                <p>Some words are partially preserved and therefore we are unaware of their origin and meaning. Οnly the phrases: καὶ νῦν βλέπουσιν αἰρόμενον τὸν κτίστην
 ὃν συνήθως ἔχουσιν ἄγγελοι βλέπειν, in lines 7-13 are understandable. Due to lack of space the word βλέπειν was written out of the frame. Text: Unknown.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Ševčenko2012"/>, <citedRange> 75-7</citedRange></bibl>
+                <bibl><ptr target="#Ševčenko2012"/>, <citedRange> 75-77</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

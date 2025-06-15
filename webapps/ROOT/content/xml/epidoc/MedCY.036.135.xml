@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Descent into Hell, John the Forerunner's scroll</title>
+                <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -34,7 +34,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the open scroll held in the left hand by the saint</layout>
+                                <layout>On the open scroll held in the left hand by the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -42,7 +42,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#DescentIntoHell">Descent into Hell, John the Forerunner</rs></p>
+                            <p><rs type="iconography" ref="#DescentIntoHell">Descent into Hell, John the Forerunner</rs>
+                            <rs type="iconography" ref="#christological"></rs>
+                            <rs type="iconography" ref="#JohnForerunner"></rs>
+                            <rs type="iconography" ref="#scroll"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

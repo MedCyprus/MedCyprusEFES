@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Communion of Mary of Egypt, Saint Mary of Egypt</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,25 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwestern recess, east side, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the right of the saint's head</layout>
+                                <layout>On the right of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mu with the central strokes reminiscent of an upsilon on a stem. ΠΤ joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#CommunionMaryofEgypt">Communion of Mary of Egypt, Mary of Egypt</rs></p>
+                            <p><rs type="iconography" ref="#CommunionMaryofEgypt">Communion of Mary of Egypt, Mary of Egypt</rs>
+                            <rs type="iconography" ref="#MaryOfEgypt"></rs>  
+                                <rs type="iconography" ref="#ascetic"></rs>
+                                <rs type="iconography" ref="#female"></rs>
+                                 <rs type="iconography" ref="#hagiographic"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,15 +72,20 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-172-01.JPG"><desc>Naos, southwestern recess, east side, lower register, inscription</desc></graphic>
-        <graphic url="036-172-02.JPG"><desc>Naos, southewestern recess, east side, lower register, general view</desc></graphic>
-        <graphic url="036-172-03.JPG"><desc>Naos, southewestern recess, east side, lower register, general view</desc></graphic>
+         <graphic rend="primary" url="036-172-01.JPG"><desc>Communion of Mary of Egypt, Saint Mary of Egypt, inscription</desc></graphic>
+        <graphic url="036-172-02.JPG"><desc>Communion of Mary of Egypt, Saint Mary of Egypt, general view</desc></graphic>
+        <graphic url="036-172-03.JPG"><desc>Communion of Mary of Egypt, Saint Mary of Egypt, general view</desc></graphic>
       </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><choice><orig>Ἠ</orig><reg>Ἡ</reg></choice> <persName type="sacred" key="MaryOfEgypt"><w lemma="ὁσία"><choice><orig>o</orig><reg>ὁ</reg></choice>σί
+                    <lb n="2"  break="no"/>α</w> <name type="forename" nymRef="#Μαρία">Μα
+                    <lb n="3"  break="no"/>ρί<space quantity="1" unit="character"/>α</name>
+                    <lb n="4" break="no"/>Ἡ <addName type="epithet" key="Egyptian"><choice><sic>ἐγιπτία</sic><corr>Αἰγυπτία</corr></choice></addName>
+                    <lb n="5" break="no"/>Η <addName type="epithet" key="Egyptian"><choice><sic>Εγ<supplied reason="lost">υ
+                    <lb n="6" break="no"/>πτυα</supplied></sic><corr>Αἰγυπτία</corr></choice></addName></persName>
                 </ab>
             </div>
             <div type="apparatus">
@@ -86,7 +95,7 @@
                 <p>Hosia Mary of Egypt</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

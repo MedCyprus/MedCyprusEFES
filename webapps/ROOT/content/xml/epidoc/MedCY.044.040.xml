@@ -28,21 +28,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, east vault, north side, lower register, on the east, left of the cross sphere</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the right of the medallion with the representation of the saint</layout>
+                                <layout>On the right of the medallion with the representation of the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. The word ἅγιος is abbreviated inside an omicron which indicates the article. Characters' size varies. Alpha with projecting right bar. The lower horizontal line of zeta is bent downwards. Letters with extended serifs. Final sigma is extended under the letters ΡΟ. Accents and breathings systematic. 
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Alpha with its apex terminating in a serif to the left. Zeta with a top bar terminating in a serif and a spine with a tail. Final sigma with its tail extended under the letters ΡΟ. Accents and breathings systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Lazaros">Lazaros</rs></p>
+                            <p><rs type="iconography" ref="#Lazaros">Lazaros</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,15 +70,16 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-040-01.JPG"><desc>Bema, east vault, north side, lower register, on the east, inscription</desc></graphic>
-        <graphic url="044-040-02.JPG"><desc>Bema, east vault, north side, lower register, on the west, inscription</desc></graphic>
-        <graphic url="044-040-03.JPG"><desc>Bema, east vault, north side, lower register, on the east, inscription</desc></graphic>
+         <graphic rend="primary" url="044-040-01.JPG"><desc>Saint Lazaros, inscription</desc></graphic>
+        <graphic url="044-040-02.JPG"><desc>Saint Lazaros, inscription</desc></graphic>
+        <graphic url="044-040-03.JPG"><desc>Saint Lazaros, inscription</desc></graphic>
         </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                      <lb n="1"/>Ὁ <persName type="sacred" key="Lazaros"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                  <lb n="2"/><name type="forename" nymRef="#Λάζαρος">Λά
+                      <lb n="1"/>Ὁ <persName type="sacred" key="Lazaros"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                  
+                      <lb n="2"/><name type="forename" nymRef="#Λάζαρος">Λά
                   <lb n="3" break="no"/> ζα
                   <lb n="4" break="no"/> ρος</name></persName>
                 </ab> 
@@ -88,7 +91,7 @@
                 <p>Saint Lazaros</p>
             </div>
             <div type="commentary">
-                <p>Good condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>

@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Hermolaos</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+               <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwestern recess' soffit, east half, upper figure</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against brown background. Majuscule letters. Characters' size varies. Mu with the central strokes reminiscent of an upsilon on a stem and surmounted by a dot. OC joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Hermolaos">Hermolaos</rs></p>
+                            <p><rs type="iconography" ref="#Hermolaos">Hermolaos</rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#martyr"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,14 +70,23 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-176-01.JPG"><desc>Naos, southwestern recess' soffit, east half, upper figure, inscription</desc></graphic>
-        <graphic url="036-176-02.JPG"><desc>Naos, southwestern recess' soffit, east half, upper figure, general view</desc></graphic>
+         <graphic rend="primary" url="036-176-01.JPG"><desc>Saint Hermolaos, inscription</desc></graphic>
+        <graphic url="036-176-02.JPG"><desc>Saint Hermolaos, general view</desc></graphic>
       </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                  <cb n="a"/>
+                   <lb n="1"/>Ὁ 
+                   <lb n="2"/><persName type="sacred" key="Hermolaos"><w lemma="ἅγιος">ἅ
+                   <lb n="3" break="no"/>γ<choice><orig>ϊ</orig><reg>ı</reg></choice>
+                   <lb n="4" break="no"/><hi rend="ligature">ος</hi></w>
+                   <cb n="b"/>
+                    <lb n="1"/><name nymRef ="#Ἑρμόλαος" type="forename"><choice><orig>Ἐ</orig><reg>Ἑ</reg></choice>ρ
+                     <lb n="2" break="no"/>μό
+                     <lb n="3" break="no"/>λα
+                     <lb n="4" break="no"/><hi rend="ligature">ος</hi></name></persName>
                 </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +96,7 @@
                 <p>Saint Hermolaos</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

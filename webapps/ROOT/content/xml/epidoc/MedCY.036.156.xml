@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint John the Forerunner</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, north wall, lower register, west of the north entrance</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. OC joined in ligature. Ἰωάννης and Πρόδρομος are abbreviated as  with a big, wavy line above the words. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#JohnForerunner">John the Forerunner</rs></p>
+                            <p><rs type="iconography" ref="#JohnForerunner">John the Forerunner</rs>
+                                   <rs type="iconography" ref="#prophet"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,14 +70,17 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-156-01.JPG"><desc>Naos, north wall, lower register, west of the north entrance, inscription</desc></graphic>
-        <graphic url="036-156-02.JPG"><desc>Naos, lower register, west of the north entrance, general view</desc></graphic>
+         <graphic rend="primary" url="036-156-01.JPG"><desc>Saint John the Forerunner, inscription</desc></graphic>
+        <graphic url="036-156-02.JPG"><desc>Saint John the Forerunner, general view</desc></graphic>
        </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                    <cb n="a"/>
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="JohnForerunner"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>ά</orig><reg>ἅ</reg></choice>γ</abbr><ex>ιος</ex></expan></w> <name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>
+                     <cb n="b"/>
+                     <lb n="1"/><addName type="epithet" key="Forerunner"><expan><abbr rend="supraline">Πρόδ</abbr><ex>ρο</ex><abbr rend="supraline">μ<hi rend="ligature">ος</hi></abbr></expan></addName></persName>
                 </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +90,7 @@
                 <p>John the Forerunner</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

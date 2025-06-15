@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Pentecost</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west vault, central scene</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. ΗΚ, TH in ligatures. Accents and breathings systematic. Rough breathing of the archaic variety, i.e. shaped like the left half of a majuscule eta.
+                            <handNote>White letters against blue background. Majuscule letters. Tau with a top bar terminating in serifs at either end. ΗΚ, TH joined in ligature. Accents and breathings systematic. Rough breathing of the archaic variety, i.e. shaped like the left half of a majuscule eta.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Pentecost">Pentecost</rs></p>
+                            <p><rs type="iconography" ref="#Pentecost">Pentecost</rs>
+                                   <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,26 +69,28 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-055-01.JPG"><desc>Naos, west vault, central scene, inscription</desc></graphic>
-        <graphic url="044-055-02.JPG"><desc>Naos, west vault, central scene, general view </desc></graphic>
-        <graphic url="044-055-03.JPG"><desc>Naos, west vault, central scene, general view </desc></graphic>
+         <graphic rend="primary" url="044-055-01.JPG"><desc>Pentecost, inscription</desc></graphic>
+        <graphic url="044-055-02.JPG"><desc>Pentecost, general view </desc></graphic>
+        <graphic url="044-055-03.JPG"><desc>Pentecost, general view </desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-              <lb n="1"/><g ref="#cross">+</g>Ἡ <w lemma="Πεντηκοστή">Πεντ<hi rend="ligature">ηκ</hi><supplied reason="lost">οσ</supplied>
+              <lb n="1"/><g ref="#cross">+</g> Ἡ <w lemma="Πεντηκοστή">Πεντ<hi rend="ligature">ηκ</hi><supplied reason="lost">οσ</supplied>
               <lb n="2" break="no"/> <hi rend="ligature">τ<choice><orig>η</orig><reg>ή</reg></choice></hi><am>´</am></w>
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <listApp>
+                    <app loc="1"><rdg source="#Sacopoulo1966">Ἡ ΠΕΝΤΗ[ΚΟC]ΤΗ΄</rdg></app>
+                </listApp>
                  </div>
             <div type="translation">
                 <p>The Pentecost</p> 
             </div>
             <div type="commentary">
-                <p>Good condition. A cross with arrays in the angles marks the beginning of the caption.The word Πεντικοστή is misspelled (instead of Πεντηκοστή).</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 

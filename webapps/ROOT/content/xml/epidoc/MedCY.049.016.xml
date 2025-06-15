@@ -42,8 +42,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#Abraham">Abraham</rs>
-                                
+                            <p><rs type="iconography" ref="#Abraham">Abraham</rs>                             
                                 <rs type="iconography" ref="#prophet"></rs>
                                 <rs type="iconography" ref="#male"></rs>
                             </p>
@@ -81,7 +80,7 @@
               <ab>
                   <cb n="a"/>
                    <lb n="1"/>Ὁ 
-                   <lb n="2"/><persName type="sacred" key="Abraham"><addName type="epithet" key="Rightneous"><w lemma="δίκαιος">Δί
+                   <lb n="2"/><persName type="sacred" key="Abraham"><addName type="epithet" key="Righteous"><w lemma="δίκαιος">Δί
                    <lb n="3" break="no"/>καιος</w></addName>
                  <cb n="b"/>
                     <lb n="1"/><name type="forename" nymRef="#Ἀβραάμ"><choice><orig>Α</orig><reg>Ά</reg></choice>

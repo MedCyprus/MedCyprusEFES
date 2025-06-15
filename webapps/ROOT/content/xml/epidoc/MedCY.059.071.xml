@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#CrossTablet">Crucifixion, tablet</rs></p>
+                            <p><rs type="iconography" ref="#crosstablet">Crucifixion, tablet</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

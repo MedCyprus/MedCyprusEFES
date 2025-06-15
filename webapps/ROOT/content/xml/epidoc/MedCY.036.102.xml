@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Dormition</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,22 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, south wall, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Above Christ and prelates' heads</layout>
+                                <layout>Above Christ and figures' heads</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mu with the central strokes reminiscent of an upsilon on a stem and surmounted by a dot. TH and OY joined in ligature. The word Θεοτόκου is fully rendered by an abbreviation with a big, horizontal line above the word. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Dormition">Dormition</rs></p>
+                            <p><rs type="iconography" ref="#Dormition">Dormition</rs>
+                            <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,17 +69,20 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-102-01.JPG"><desc>Naos, south wall, lunette, inscription</desc></graphic>
-        <graphic url="036-102-02.JPG"><desc>Naos, south wall, lunette, inscription detail</desc></graphic>
-        <graphic url="036-102-03.JPG"><desc>Naos, south wall, lunette, inscription detail</desc></graphic>
-        <graphic url="036-102-04.JPG"><desc>Naos, south wall, lunette, general view</desc></graphic>
-        <graphic url="036-102-05.JPG"><desc>Naos, south wall, lunette, general view</desc></graphic>
+         <graphic rend="primary" url="036-102-01.JPG"><desc>Dormition, inscription</desc></graphic>
+        <graphic url="036-102-02.JPG"><desc>Dormition, inscription detail</desc></graphic>
+        <graphic url="036-102-03.JPG"><desc>Dormition, inscription detail</desc></graphic>
+        <graphic url="036-102-04.JPG"><desc>Dormition, general view</desc></graphic>
+        <graphic url="036-102-05.JPG"><desc>Dormition, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                   <lb n="1"/><g ref="#cross">+</g>Ἡ <w lemma="κοίμησις">κοίμησις</w>
+                  <cb n="b"/>
+                  <lb n="1"/>τ<choice><orig>ῆ</orig><reg>η</reg></choice>ς <w lemma="ὑπεραγία">ὑπεραγίας</w> <persName type="sacred" key="Theotokos"><addName nymRef="#Θεοτόκος"><expan><abbr rend="supraline">Θ</abbr><ex>εοτό</ex><abbr rend="supraline">κ<hi rend="ligature">ου</hi></abbr></expan></addName></persName>
                 </ab>
             </div>
             <div type="apparatus">
@@ -88,7 +92,7 @@
                 <p>The Dormition of the Most Holy God-bearer</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Presentation of the Virgin to the Temple, Zacharias</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,22 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, north wall, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the left of the saint</layout>
+                                <layout>On the left of the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#PresentationVirgin">Presentation of the Virgin to the Temple, Zacharias</rs></p>
+                            <p><rs type="iconography" ref="#PresentationVirgin">Presentation of the Virgin to the Temple, Zacharias</rs>
+                             <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,14 +69,14 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-149-01.JPG"><desc>Naos, north wall, lunette, inscription</desc></graphic>
-        <graphic url="036-149-02.JPG"><desc>Naos, north wall, lunette, general view</desc></graphic>
+         <graphic rend="primary" url="036-149-01.JPG"><desc>Presentation of the Virgin to the Temple, Zacharias, inscription</desc></graphic>
+        <graphic url="036-149-02.JPG"><desc>Presentation of the Virgin to the Temple, Zacharias, general view</desc></graphic>
       </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/>Ὁ <persName type="sacred" key="Zacharias"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w> <name type="forename" nymRef="#Ζαχαρίας">Ζαχαρ<choice><orig>ϊ´</orig><reg>ί</reg></choice>ας</name></persName>
                 </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +86,7 @@
                 <p>Saint Zacharias</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

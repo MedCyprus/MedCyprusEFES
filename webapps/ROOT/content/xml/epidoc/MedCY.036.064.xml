@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Hetoimasia</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mu with its middle bar forming a tau with a dot on the top. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Hetoimasia">Hetoimasia</rs></p>
+                            <p><rs type="iconography" ref="#Angels_Hetoimasia">Angels adoring the Hetoimasia, the Hetoimasia in a medallion</rs>
+                                <rs type="iconography" ref="#vision"></rs>
+                                <rs type="iconography" ref="#Hetoimasia"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -74,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                    <lb n="1"/><g ref="#cross">+</g>Ἡ <w lemma="ἑτοιμασία"><choice><sic><choice><orig>Ε</orig><reg>Ἑ</reg></choice>τυ <milestone unit="column" />μασ<choice><orig>ï</orig><reg>ί</reg></choice><choice><orig>ά</orig><reg>α</reg></choice></sic><corr>Ἑτοιμασία</corr></choice></w>   
                </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +87,7 @@
                 <p>Hetoimasia</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

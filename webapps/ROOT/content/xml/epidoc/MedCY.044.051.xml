@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Prelate, unidentified</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, east vault, south side, lower register, on the east, right of the cross sphere</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the left of the medallion with the representation of the saint</layout>
+                                <layout>On the left of the medallion with the representation of the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. A round, small omicron almost attached to the final sigma, formed by a horizontal wavy line.The word ἅγιος is abbreviated inside an omicron which indicates the article. Accents and breathings almost systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Delta is formed with a lambda on a bottom bar, with a serif to the left of its top bar. A round, small omicron almost attached to the final sigma, formed by a horizontal wavy line. Near systematic use of accents and breathings.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#PrelateUnidentified_MedCY044.051">Prelate, unidentified</rs></p>
+                            <p><rs type="iconography" ref="unidentified_figure">Prelate, unidentified</rs>
+                                   <rs type="iconography" ref="prelate"></rs>
+                                   <rs type="iconography" ref="male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,8 +70,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-051-01.JPG"><desc>Bema, east vault, south side, lower register, on the east, inscription</desc></graphic>
-        <graphic url="044-051-02.JPG"><desc>Bema, east vault, south side, lower register, on the east, general view</desc></graphic>
+         <graphic rend="primary" url="044-051-01.JPG"><desc>Prelate, unidentified, inscription</desc></graphic>
+        <graphic url="044-051-02.JPG"><desc>Prelate, unidentified, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
@@ -86,10 +88,10 @@
                <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Saint [Ρ.andros] </p>
+                <p>Saint R[.]andros</p>
             </div>
             <div type="commentary">
-                <p>Partially preserved</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>

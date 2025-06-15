@@ -41,7 +41,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#DescentIntoHell">Descent Into Hell, John the Forerunner</rs></p>
+                            <p><rs type="iconography" ref="#DescentIntoHell">Descent Into Hell, John the Forerunner</rs>
+                            <rs type="iconography" ref="#christological"></rs>
+                            <rs type="iconography" ref="#JohnForerunner"></rs>
+                            <rs type="iconography" ref="#scroll"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

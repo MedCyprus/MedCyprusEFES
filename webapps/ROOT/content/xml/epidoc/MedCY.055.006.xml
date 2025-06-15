@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Archangel Gabriel</title>
+                <title>Annunciation, Gabriel</title>
                 <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -39,8 +39,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Gabriel">Archangel Gabriel</rs></p>
-                            </decoDesc>
+                            <p><rs type="iconography" ref="#Annunciation">Annunciation, Gabriel</rs>
+                                   <rs type="iconography" ref="#Gabriel"></rs>
+                                   <rs type="iconography" ref="#christological"></rs></p>
+                        </decoDesc>
                     </physDesc>
                     <history>
                         <origin>

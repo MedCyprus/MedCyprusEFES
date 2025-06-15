@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, east wall, thriumphal arch, center</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. ΟΥ in ligature. Accents and breathings systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. ΟΥ joined in ligature. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,7 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   <lb n="1"/>Ἡ θυσία τ<hi rend="ligature">οῦ</hi> <persName type="sacred" key="Abraham"><name type="forename" nymRef="#Ἀβραάμ">Ἀβραάμ</name></persName>    
+                   <lb n="1"/>Ἡ <w lemma="θυσία">θυσία</w> τ<hi rend="ligature">οῦ</hi> <persName type="sacred" key="Abraham"><name type="forename" nymRef="#Ἀβραάμ">Ἀβραάμ</name></persName>    
                 </ab>
             </div>
             <div type="apparatus">
@@ -85,11 +85,11 @@
                 <p>Abraham's sacrifice</p>
             </div>
             <div type="commentary">
-                <p>Poor Condition </p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>Unpublished</bibl>
+                <bibl><ptr target="#Buckler1933"/>, <citedRange>341-42</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

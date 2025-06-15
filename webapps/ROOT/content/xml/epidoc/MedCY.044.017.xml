@@ -27,17 +27,17 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, east wall, thriumphal arch, south half</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Between angel and Abraham's heads</layout>
+                                <layout>Between angel and Abraham's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. ΑΒ, ΑΜ, ΜΗ, ΛΗ, ΤΗ, ΑΝ, ΑΡ in ligatures. Accents and breathings systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. ΑΒ, ΑΜ, ΜΗ, ΛΗ, ΤΗ, ΑΝ, ΑΡ joined in ligature. Accents and breathings systematic, with errors.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -83,17 +83,19 @@
                 </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <listApp>
+                   <app loc="3"><rdg source="#Buckler1933">χεῖρά</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Abraham, Abraham. Do not lay your hand on the child. Do not do anything to him.</p>
             </div>
             <div type="commentary">
-                <p>Poor Condition. The painter's writing seems to have been influenced by spoken language. Τhe common nu of the cypriot dialect was added at the end of the word χεῖρα. Accents and breathings with errors. Text: Gen. 22:12.</p>
+                <p>The painter's writing seems to have been influenced by spoken language. Τhe common nu of the cypriot dialect was added at the end of the word χεῖρα. Text: Gen. 22:12.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>Unpublished</bibl>
+                <bibl><ptr target="#Buckler1933"/>, <citedRange>341-42</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

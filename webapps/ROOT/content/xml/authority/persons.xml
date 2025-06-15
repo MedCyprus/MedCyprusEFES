@@ -47,7 +47,7 @@
                     
                     <person xml:id="Eirene">
                         <persName xml:lang="en"><forename>Eirene</forename></persName>
-                        <persName xml:lang="grc">Εἰρήνη</persName>
+                        <persName xml:lang="grc"><forename>Εἰρήνη</forename></persName>
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                     
                         <note>Founder of the church of Panagia, Moutoullas, and donor of its 1280 murals</note>
                     </person>
@@ -82,7 +82,7 @@
                     
                     <person xml:id="Gephyra">
                         <persName xml:lang="en"><forename>Gephyra</forename></persName>
-                        <persName xml:lang="grc">Γέφυρα</persName>
+                        <persName xml:lang="grc"><forename>Γέφυρα</forename></persName>
                         <!--> <floruit notAfter="1105">late 11th century-early 12th century</floruit>-->                     
                        <!--> <note>Donor of the church of Panagia Phorbiotissa or Asinou, Niketari, and its 1105/6 murals</note>-->
                     </person>
@@ -102,7 +102,7 @@
                     
                     <person xml:id="Georgios">
                         <persName xml:lang="en"><forename>Georgios</forename></persName>
-                        <persName xml:lang="grc">Γεώργιος</persName>
+                        <persName xml:lang="grc"><forename>Γεώργιος</forename></persName>
                         <!--<note>...</note>
                         <floruit notBefore="..." notAfter="...">...</floruit>-->
                         <occupation type="occupation">priest</occupation>
@@ -112,7 +112,7 @@
                     
                     <person xml:id="EireneKompotes">
                         <persName xml:lang="en"><forename>Eirene</forename></persName>
-                        <persName xml:lang="grc">Εἰρήνη</persName>
+                        <persName xml:lang="grc"><forename>Εἰρήνη</forename></persName>
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                     
                         <note>Donor of the mural panel of Christ enthroned in the naos of Panagia, Moutoullas</note>
                     </person>
@@ -122,7 +122,7 @@
                     
                     <person xml:id="Ioannes_1">
                         <persName xml:lang="en"><forename>Ioannes</forename></persName>
-                        <persName xml:lang="grc">Ἰωάννης</persName>
+                        <persName xml:lang="grc"><forename>Ἰωάννης</forename></persName>
                         <note>donor of the monastery of Saint Nicholas the Roof at Kakopetria</note>
                         <!--<floruit notBefore="..." notAfter="...">...</floruit>
                         <occupation type="occupation">...</occupation>
@@ -141,7 +141,7 @@
                     </relation>
                     
                     <person xml:id="IschyrioiFamily">
-                        <persName xml:lang="en"><forename>Ischyrioi</forename><surname>Ischyrioi</surname></persName>
+                        <persName xml:lang="en"><forename>Ischyrioi</forename></persName>
                         <persName xml:lang="grc">Ἰσχύριοι</persName>
                         <floruit  notBefore="1001" notAfter="1100">11th - 12th century</floruit>                                    
                         <note>Nikephoros Ischyrios was the Founder of the church of Panagia Phorbiotissa or Asinou, Niketari, and donor of its 1105/6 murals</note>
@@ -152,12 +152,11 @@
                     
                     <person xml:id="Leon">
                         <persName xml:lang="en"><forename>Leon</forename> <surname>Authentes</surname></persName>
-                        <persName xml:lang="grc">Λέων Αὐθέντης</persName>
-                        <!--<note>...</note>
-                        <floruit notBefore="..." notAfter="...">...</floruit>
-                        <occupation type="occupation"></occupation>
-                        <idno type="wikidata"></idno>
-                        <idno type="PBW">...</idno>-->
+                        <persName xml:lang="grc"><forename>Λέων</forename> <surname>Αὐθέντης</surname></persName>                      
+                        <floruit notBefore="1134" notAfter="1233">Mid-12th to early 13th century</floruit>                     
+                        <note>Donor of the 1192 murals of the naos of Panagia tou Araka or Arakiotissa, Lagoudera</note>         
+                        <occupation type="honorific" xml:lang="en">lord</occupation>                        
+                        <occupation type="honorific" xml:lang="grc">κῦρ</occupation>
                     </person>
                    <relation active="#Leon" ref="snap:sonOf" passive="#Authentes">
                         <desc>son of Authentes</desc>
@@ -165,7 +164,7 @@
                     
                     <person xml:id="Authentes">
                         <persName xml:lang="en"><forename>Authentes</forename></persName>
-                        <persName xml:lang="grc">Αὐθέντης</persName>
+                        <persName xml:lang="grc"><forename>Αὐθέντης</forename></persName>
                         <!--<note>...</note>
                         <floruit notBefore="..." notAfter="...">...</floruit>
                         <occupation type="occupation"></occupation>
@@ -178,7 +177,7 @@
                     
                     <person xml:id="Laurentios">
                         <persName xml:lang="en"><forename>Laurentios</forename></persName>
-                        <persName xml:lang="grc">Λαυρέντιος</persName>
+                        <persName xml:lang="grc"><forename>Λαυρέντιος</forename></persName>
                         <note>hieromonk and abbot</note>
                         <!--<floruit notBefore="..." notAfter="...">...</floruit>-->
                         <occupation type="occupation">hieromonk and abbot</occupation>
@@ -188,7 +187,7 @@
                     
                     <person xml:id="Maria">
                         <persName xml:lang="en"><forename>Maria</forename></persName>
-                        <persName xml:lang="grc">Μαρία</persName>
+                        <persName xml:lang="grc"><forename>Μαρία</forename></persName>
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                     
                         <note>Donor of the mural panel of St Christopher in the naos of Panagia, Moutoullas</note>
                     </person>
@@ -198,7 +197,7 @@
                     
                     <person xml:id="Neophytos">
                         <persName xml:lang="en"><forename>Neophytos</forename></persName>
-                        <persName xml:lang="grc">Νεόφυτος</persName>
+                        <persName xml:lang="grc"><forename>Νεόφυτος</forename></persName>
                         <note>hieromonk, ascetic and founder of the hermitage of Saint Neophytos at Tala</note>
                         <!--<floruit notBefore="..." notAfter="...">...</floruit>
                         <occupation type="occupation"></occupation>
@@ -208,7 +207,7 @@
                     
                     <person xml:id="Nikephoros">
                         <persName xml:lang="en"><forename>Nikephoros</forename></persName>
-                        <persName xml:lang="grc">Νικηφόρος</persName>
+                        <persName xml:lang="grc"><forename>Νικηφόρος</forename></persName>
                         <occupation type="occupation">veterinary doctor</occupation>
                         <note>Donor of the late-twelfth century frecso of Saint George on horseback in the the narthex of Asinou</note>
                         <!--<floruit notBefore="..." notAfter="...">...</floruit>
@@ -217,8 +216,8 @@
                     </person> 
                     
                     <person xml:id="Nikephorosthefarrier">
-                        <persName xml:lang="en"><forename>Nikephoros</forename></persName>
-                        <persName xml:lang="grc">Νικηφόρος</persName>
+                        <persName xml:lang="en"><forename>Nikephoros</forename> <surname>Kallias</surname></persName>
+                        <persName xml:lang="grc"><forename>Νικηφόρος</forename> <surname>Καλλίας</surname></persName>
                         <occupation type="occupation">farrier</occupation>
                         <note>Devotee mentioned in the invocation written below the dedicatory epigram in the frecso of Saint George on horseback in the the narthex of Asinou</note>
                         <!--<floruit notBefore="..." notAfter="...">...</floruit>
@@ -243,7 +242,7 @@
                     
                     <person xml:id="TheodoreApseudes">
                         <persName xml:lang="en"><forename>Theodore</forename> <surname>Apseudes</surname></persName>
-                        <persName xml:lang="grc">Θεόδωρος Ἀψευδής</persName>
+                        <persName xml:lang="grc"><forename>Θεόδωρος</forename> <surname>Ἀψευδής</surname></persName>
                         <floruit notBefore="1167" notAfter="1233">Late 12th-early 13th century</floruit>                        
                         <occupation type="occupation">painter</occupation>
                         <note>painter of the cell and bema (1183), Hermitage of Saint Neophytos, Tala</note>

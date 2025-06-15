@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Theodosios the Cenobiarch's scroll</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,22 +28,26 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwest recess, lower register, first figure on the left</rs>
                                     <dimensions unit="cm" scope="text"><height>36</height><width unit="cm">14</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>50</height><width unit="cm">20</width></dimensions>
                                   </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the open scroll held in the left hand by the saint</layout>
+                                <layout>On the open scroll held in the left hand by the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters in greenish background. Majuscule letters. Characters' size varies. Short, horizontal and vertical lines in alpha, zeta, eta, tau, upsilon and pi. Omega with crosslet. Mu with its middle bar forms an upsilon; a short, horizontal line apperas in its middle bar. NH, and OY in ligatures, with upsilon emerging from omicron. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
+                            <handNote>Black majuscule letters against white and light green background. Character size varies. Tau with a top bar terminating in serifs at either end and with its stem crossed at mid-height; pi with a dot on its horizontal bar; mu with the central strokes reminiscent of an upsilon on a crossed stem; omega with its apex surmounted by a crosslet; zeta with a top bar terminating in a serif, a crossed diagonal stroke, and a spine ending in a descender; One eta with a serif on its crossbar. NH, OY joined in ligature. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Theodosios">Theodosios the Cenobiarch</rs></p>
+                            <p><rs type="iconography" ref="#TheodosiosCenobiarch">Theodosios the Cenobiarch</rs>                 
+                            <rs type="iconography" ref="#monastic"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#scroll"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -69,14 +73,14 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-065-01.JPG"><desc>Naos, southwest recess, lower register, first figure on the left, inscription</desc></graphic>
-        <graphic url="044-065-02.JPG"><desc>Naos, southwest recess, lower register, first figure on the left, general view</desc></graphic>
+         <graphic rend="primary" url="044-065-01.JPG"><desc>Saint Theodosios the Cenobiarch's scroll, inscription</desc></graphic>
+        <graphic url="044-065-02.JPG"><desc>Saint Theodosios the Cenobiarch's scroll, general view</desc></graphic>
    </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><g ref="#cross">+</g>Ἡ <w lemma="νηστεία">νηστεί              
+                  <lb n="1"/><g ref="#cross">+</g>Ἡ <w lemma="νηστεία"><hi rend="ligature">νη</hi>στεί              
                   <lb n="2" break="no"/>α</w> <w lemma="ταπεινῶ">ταπεινοῖ</w>
                   <lb n="3"/>τὸ <w lemma="σῶμα">σῶμα</w> ἡ
                   <lb n="4"/><w lemma="ἀγρυπνία">ἀγρυπνία</w>
@@ -87,17 +91,19 @@
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <listApp>
+                    <app loc="7-8"><rdg source="#Sacopoulo1966">ΔΕΗC[ΙC ΑΓΙΑΖΕΙ ΤΗΝ ΨΥΧΗΝ?]</rdg></app>
+                </listApp>
                  </div>
             <div type="translation">
                 <p>Fasting humbles the body, watching by night purifies the mind, hêsychia produces sorrow (<bibl><ptr target="#Wortley2013"/>,<citedRange> 380</citedRange></bibl>).</p> 
             </div>
             <div type="commentary">
-                <p>Good condition. A cross with arrays in the angles marks the beginning of the text. The inscription is identified with a saying attributed to Abba Longinus in the Apophegmata Patrum (APanon "Collection")(<bibl><ptr target="#Wortley2013"/>,<citedRange> 380</citedRange></bibl>).</p>  
+                <p>The inscription is identified with a saying attributed to Abba Longinus in the Apophegmata Patrum (APanon "Collection") (<bibl><ptr target="#Wortley2013"/>,<citedRange> 380</citedRange></bibl>).</p>  
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 96</citedRange></bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>96</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

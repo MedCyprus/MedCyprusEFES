@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Prophet Gideon</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Delta with a bottom bar terminating in serifs at either end. ΠΡ and ΦΤ joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -79,7 +80,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                    <lb n="1"/> Ὁ <persName type="sacred" key="Gideon"><w lemma="προφήτης"><choice><sic><hi rend="ligature">πρ</hi>ο<hi rend="ligature">φτ</hi>ή<supplied reason="omitted">ς</supplied></sic><corr>προφήτης</corr></choice></w>
+                  <lb n="2"/><name type="forename" nymRef="#Γεδεών">Γε<space quantity="1" unit="character"/>δε
+                  <lb n="3" break="no"/><choice><orig>ῶ</orig><reg>ώ</reg></choice>ν</name></persName> 
                </ab>
             </div>
             <div type="apparatus">
@@ -89,7 +92,7 @@
                 <p>Prophet Gideon</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

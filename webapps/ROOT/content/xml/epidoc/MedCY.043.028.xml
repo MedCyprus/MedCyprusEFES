@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#VirginHodegetria">Virgin Hodegetria</rs></p>
+                            <p><rs type="iconography" ref="#VirginHodegetria">Virgin Hodegetria</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

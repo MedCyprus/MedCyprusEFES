@@ -42,7 +42,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#VirginEleousa">Virgin Eleousa</rs></p>
+                            <p><rs type="iconography" ref="#VirginEleousa">Virgin Eleousa</rs>
+                                <rs type="iconography" ref="#Virgin"></rs>
+                                <rs type="iconography" ref="#female"></rs>
+                                <rs type="iconography" ref="#scroll"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

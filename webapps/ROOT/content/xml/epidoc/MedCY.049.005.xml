@@ -43,11 +43,9 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#CommunionApostlesMetadosis">Communion of the Apostles, Metadosis (Offering of the Bread)</rs>
-                                <rs type="iconography" ref="#Christ"></rs>
-                                <rs type="iconography" ref="#divine"></rs>
-                                
-                                <rs type="iconography" ref="#apostle"></rs>
-                                <rs type="iconography" ref="#male"></rs>
+                                <rs type="iconography" ref="#CommunionApostles"></rs>
+                                <rs type="iconography" ref="#christological"></rs>
+                                <rs type="iconography" ref="#liturgical"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>

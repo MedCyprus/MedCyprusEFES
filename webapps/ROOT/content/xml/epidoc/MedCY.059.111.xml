@@ -41,7 +41,14 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#VirginGlykophilousa">Christ child</rs></p>
+                            <p><rs type="iconography" ref="#StephenYounger">Stephen the Younger, holding an icon of the Virgin Glykophilousa, Christ Child</rs>
+                                <rs type="iconography" ref="#monastic"></rs> 
+                                <rs type="iconography" ref="#male"></rs>
+                                <rs type="iconography" ref="#VirginGlykophilousa">Virgin Glykophilousa</rs>
+                                <rs type="iconography" ref="#Christ"></rs>
+                                <rs type="iconography" ref="#ChristChild"></rs>
+                                <rs type="iconography" ref="#icon"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

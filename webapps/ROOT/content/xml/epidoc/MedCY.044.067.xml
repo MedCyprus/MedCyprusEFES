@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Arsenios' scroll</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,22 +28,26 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged. Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwest recess, lower register, middle figure</rs>
                                      <dimensions unit="cm" scope="text"><height>33</height><width unit="cm">14</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>50</height><width unit="cm">20</width></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the open scroll held in the left hand by the saint</layout>
+                                <layout>On the open scroll held in the left hand by the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters in greenish background. Majuscule letters. Characters' size varies. Short, horizontal line at the bottom of upsilon. Systematic use of accents and breathings. Breathings of the archaic and modern variety (angular and circular). Letter height: <height unit="cm">2,5-3</height>.
+                            <handNote>Black letters in greenish background. Majuscule letters. Character size varies. Upsilon on a stem surmounted by a dot. Systematic use of accents and breathings. Breathings of the archaic and modern variety (angular and circular). Letter height: <height unit="cm">2,5-3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Arsenios">Arsenios</rs></p>
+                            <p><rs type="iconography" ref="#Arsenios">Arsenios</rs>
+                            <rs type="iconography" ref="#monastic"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#scroll"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -62,44 +66,51 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
+                    <term type="textType" ref="text_types.xml#doc15">Hagiographical citation</term>
                 </keywords>
             </textClass>
             <creation>transcription (G. Apeitos, Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-067-01.JPG"><desc>Naos, southwest recess, lower register, middle figure, inscription</desc></graphic>
-        <graphic url="044-067-02.JPG"><desc>Naos, southwest recess, lower register, middle figure, general view</desc></graphic>
+         <graphic rend="primary" url="044-067-01.JPG"><desc>Saint Arsenios' scroll, inscription</desc></graphic>
+        <graphic url="044-067-02.JPG"><desc>Saint Arsenios' scroll, general view</desc></graphic>
    </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><g ref="#cross">+</g><w lemma="φεύγω">Φεῦγε</w>. <w lemma="σιωπῶ">Σι              
-                  <lb n="2" break="no"/>ῶπ<supplied reason="lost">α</supplied></w> <w lemma="ἡσυχάζω">ἡσύ
+                  <lb n="1"/><g ref="#cross">+</g> <w lemma="φεύγω">Φεῦγε</w>. <w lemma="σιωπῶ">Σι              
+                  <lb n="2" break="no"/>ῶπ<supplied reason="lost">α</supplied></w> <w lemma="ἡσυχάζω"><unclear>ἡ</unclear>σύ
                   <lb n="3" break="no"/><supplied reason="lost">χαζε</supplied></w> <w lemma="αὕτη"><supplied reason="lost">αὗτ</supplied>αι</w>
-                  <lb n="4"/><supplied reason="lost">γάρ</supplied> <w lemma="εἰμί"><supplied reason="lost">εἰσιν</supplied></w> <supplied reason="lost">αἱ</supplied> <w lemma="ῥίζα"><supplied reason="lost">ῥίζαι</supplied></w> τῆς <w lemma="ἀναμαρτησία"><supplied reason="lost">ἀ</supplied>ν 
-                  <lb n="5" break="no"/><supplied reason="lost">μαρτησίας</supplied></w> κ<hi rend="ligature">αὶ </hi>τῆς 
-                  <lb n="6"/><w lemma="δικαιοσύνη"> δικ<choice><orig>ὰ</orig><reg>α</reg></choice>ι<choice><orig>ὀ</orig><reg>ο</reg></choice>
+                  <lb n="4"/><supplied reason="lost">γάρ</supplied> <w lemma="εἰμί"><supplied reason="lost">εἰσιν</supplied></w> <supplied reason="lost">αἱ</supplied> <w lemma="ῥίζα"><supplied reason="lost">ῥίζαι</supplied></w> <supplied reason="lost">τῆς</supplied> <w lemma="ἀναμαρτησία"><supplied reason="lost">ἀ</supplied>ν 
+                  <lb n="5" break="no"/><supplied reason="lost">μαρτησίας</supplied></w> <unclear>κ</unclear><hi rend="ligature"><unclear>αὶ</unclear> </hi><unclear>τῆ</unclear>ς 
+                  <lb n="6"/><w lemma="δικαιοσύνη"> δικα<choice><orig>ὶ</orig><reg>ι</reg></choice><choice><orig>ὀ</orig><reg>ο</reg></choice>
                   <lb n="7" break="no"/>σύνης</w>
                   <lb n="8"/><g ref="#cross">+</g><g ref="#cross">+</g><g ref="#cross">+</g>
                      
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <listApp>
+                    <app loc="2"><rdg source="#Sacopoulo1966">C[...]CY</rdg></app>
+                    <app loc="3"><rdg source="#Sacopoulo1966">[....]ΤΑ</rdg></app>
+                    <app loc="4"><rdg source="#Sacopoulo1966">[........]Ν</rdg></app>
+                    <app loc="5"><rdg source="#Sacopoulo1966">[.........]C</rdg></app>
+                </listApp>
                  </div>
             <div type="translation">
                 <p>Flee, maintain silence, live a life of contemplative quiet. These are the roots of being without sin and justice.</p> 
             </div>
             <div type="commentary">
-                <p> Partially preserved. Crosses with arrays in the angles mark the beginning and the end of the text. The inscription is identified with a saying of Arsenios from the Apophegmata Patrum (PG 65, 88β)(<bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 97</citedRange></bibl>).</p>  
+                <p>The inscription is identified with a saying of Arsenios from the Apophegmata Patrum (PG 65, 88β) (<bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 97-98</citedRange></bibl>). It is most likely a paraphrase from Paul's First Epistle to Timothy, 6:11, and Second Epistle to Timothy, 2:22.
+
+</p>  
                 
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 97</citedRange></bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>, <citedRange> 97-98</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

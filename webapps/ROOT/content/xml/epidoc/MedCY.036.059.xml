@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Cryptograms</title>
+                <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#CrossProcessional">Patriarchal cross</rs></p>
+                            <p><rs type="iconography" ref="#crosspatriarchal">Cross, patriarchal, in medallion</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

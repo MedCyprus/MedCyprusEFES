@@ -41,7 +41,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#ChristEnthroned">Enthroned Christ</rs></p>
+                            <p><rs type="iconography" ref="#ChristEnthroned">Christ enthroned</rs>
+                                   <rs type="iconography" ref="#divine"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

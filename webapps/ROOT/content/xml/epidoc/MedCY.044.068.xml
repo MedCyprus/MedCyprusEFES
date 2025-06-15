@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Ephraim the Syrian</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,24 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwest recess, lower register, first figure on the right</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. The word ἅγιος is abbreviated inside an omicron which indicates the article. Characters' size varies. Accents and breathings almost systematic. The Ὁ and ἅγιος bear rough breathings of the archaic variety, i.e. shaped like the left half of a majuscule eta. The Ὁ before the Syrian bears a rough breathing of the modern variety, i.e. simiral to inverted comma. Letter height: <height unit="cm">4</height>.
+                            <handNote>White letters against blue background. Majuscule letters. Character size varies. Near systematic use of accents and breathings. The Ὁ and ἅγιος bear rough breathings of the archaic variety, i.e. shaped like the left half of a majuscule eta. The Ὁ before the Syrian bears a rough breathing of the modern variety, i.e. simiral to inverted comma. Letter height: <height unit="cm">4</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Ephraim">Ephraim</rs></p>
+                            <p><rs type="iconography" ref="#Ephraim">Ephraim</rs>
+                            <rs type="iconography" ref="#monastic"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,8 +71,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-068-01.JPG"><desc>Naos, southwest recess, lower register, first figure on the right, inscription</desc></graphic>
-        <graphic url="044-068-02.JPG"><desc>Naos, southwest recess, lower register, first figure on the right, general view</desc></graphic>
+         <graphic rend="primary" url="044-068-01.JPG"><desc>Saint Ephraim the Syrian, inscription</desc></graphic>
+        <graphic url="044-068-02.JPG"><desc>Saint Ephraim the Syrian, general view</desc></graphic>
    </facsimile>
     <text>
         <body>
@@ -80,23 +83,24 @@
                <lb n="2"/><name type="forename" nymRef="#Ἐφραίμ"><choice><orig>Ε</orig><reg>Ἐ</reg></choice>φραί
                <lb n="3" break="no"/>μ</name>
                <cb n="a"/>   
-               <lb n="1"/>Ὁ<addName type="epithet" key="Syrian"> Σύ
-                <lb n="2" break="no"/>ρο
-                <lb n="3" break="no"/><supplied reason="lost">ς</supplied></addName></persName>
+                <lb n="1"/>Ὁ 
+                <lb n="2"/><addName type="epithet" key="Syrian">Σύ
+                <lb n="3" break="no"/>ρο
+                <lb n="4" break="no"/><supplied reason="lost">ς</supplied></addName></persName>
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <p>n/a</p>
                  </div>
             <div type="translation">
                 <p>Saint Ephraim the Syrian</p> 
             </div>
             <div type="commentary">
-                <p>Good condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 98</citedRange></bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>98</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

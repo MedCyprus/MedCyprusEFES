@@ -37,16 +37,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Letters in majuscule except υν in the word προστάτυν (line 6). Characters' size varies. Omega with crosslet, gamma with a wavy horizontal bar, final sigma in ligature OC, formed with a wavy, vertical line. ΑΓ, ΑΡ, CT, ΟC, EI, ΤΡ, TH, ΗΓ, ΤΝ, ΝΜ, ΑΠ, ΟΥ, ΑΝ, ΤΟ, ΠΡ, ΗΝ, ΝΗΜ, ΔΗ joined in ligatures. Tau above omega and υν. Accents and breathings with errors. Breathings of the modern variety (circular).
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Omega with its apex surmounted by a crosslet; alpha with an oval bowl. ΑΓ, ΑΡ, CT, ΟC, EI, ΤΡ, TH, ΗΓ, ΤΝ, ΝΜ, ΑΠ, ΟΥ, ΑΝ, ΤΟ, ΠΡ, ΗΝ, ΝΗΜ, ΔΗ joined in ligature. Accents and breathings with errors. Breathings of the modern variety (circular).
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#portraits">Donor portraits</rs>
-                                <rs type="iconography" ref="#Christ"></rs>
-                                <rs type="iconography" ref="#Virgin"></rs>
-                                <rs type="iconography" ref="#NikephorosIschyrios"></rs>
-                                <rs type="iconography" ref="#Gephyra"></rs>
-                                <rs type="iconography" ref="#donor"></rs></p>
+                            <p><rs type="iconography" ref="#NikephorosIschyrios">Donor composition (14th c.): Nikephoros Ischyrios presents a model of the church to the enthroned Christ, with the mediation of the Virgin; standing behind him, in smaller scale, the deceased Gefyra.</rs>
+                                <rs type="iconography" ref="#Supplicant_Donor"></rs>
+                                <rs type="iconography" ref="#male"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -72,7 +70,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-053-01.JPG"><desc>Dedicatory verse inscription, inscription</desc></graphic>
+         <graphic rend="primary" url="044-053-01.JPG"><desc>Dedicatory verse inscription</desc></graphic>
         <graphic url="044-053-02.JPG"><desc>Dedicatory verse inscription, general view </desc></graphic>
     </facsimile>
     <text>
@@ -83,7 +81,7 @@
                     <l><lb n="1"/><w lemma="πολύς">Πολλοῖς</w> <w lemma="τεθηλώς">τεθηλ<choice><orig>ῶ</orig><reg>ὼ</reg></choice>ς</w>
                    <lb n="2"/><w lemma="ἀγαθός"><hi rend="ligature">ἀγ</hi>αθοῖς </w> <choice><orig>ἑ</orig><reg>ἐ</reg></choice>ν τ<choice><orig>ω</orig><reg>ῷ</reg></choice> <w lemma="βίος">β<choice><sic><choice><orig>ΐ</orig><reg>ί</reg></choice><choice><orig>ο</orig><reg>ο&#x0345;</reg></choice></sic><corr>βίῳ</corr></choice></w></l> <l><w lemma="ὅσπερ"><choice><orig>ὡ</orig><reg>ὧ</reg></choice>ν
                     <lb n="3" break="no"/>π<choice><orig>έ</orig><reg>ε</reg></choice>ρ</w> <w lemma="χορηγός">χοριγ<choice><orig>ο&#x0342;</orig><reg>ὸ</reg></choice>ς</w> <w lemma="ὁρῶ"> <choice><sic><choice><orig>ο</orig><reg>ὁ</reg></choice>ράθης</sic><corr>ὡράθης</corr></choice></w> <w lemma="σύ">σ<choice><orig>υ</orig><reg>ύ</reg></choice></w>,
-                    <lb n="4"/><persName type="sacred" key="Virgin"><w lemma="παρθένος">Π<hi rend="ligature">αρ</hi>θένε</w>,</persName></l> <l><persName type="attested" role="founder" ref="#NikephorosIschyrios"><name nymRef="#Νικηφόρος" type="forename">Νικηφόρος</name></persName> <rs type="office" ref="offices.xml#magistros"><w lemma="μάγιστρος">μ<hi rend="ligature">άγ</hi>ι<hi rend="ligature">στ</hi>ρ<hi rend="ligature">ος</hi></w></rs> <w lemma="οἰκτρός"><choice><sic><hi rend="ligature">ε<choice><orig>ἱ</orig><reg>ἰ</reg></choice></hi>κ<hi rend="ligature">τρ</hi><hi rend="ligature"><choice><orig>ο&#x0342;</orig><reg>ὸ</reg></choice>ς</hi></sic><corr>οἰκτρός</corr></choice></w> <w lemma="ἱκέτης"><choice><sic><choice><orig>ἡ</orig><reg>ἠ</reg></choice>
+                    <lb n="4"/><persName type="sacred" key="Virgin"><w lemma="Παρθένος">Π<hi rend="ligature">αρ</hi>θένε</w>,</persName></l> <l><persName type="attested" role="founder" ref="#NikephorosIschyrios"><name nymRef="#Νικηφόρος" type="forename">Νικηφόρος</name></persName> <rs type="office" ref="offices.xml#magistros"><w lemma="μάγιστρος">μ<hi rend="ligature">άγ</hi>ι<hi rend="ligature">στ</hi>ρ<hi rend="ligature">ος</hi></w></rs> <w lemma="οἰκτρός"><choice><sic><hi rend="ligature">ε<choice><orig>ἱ</orig><reg>ἰ</reg></choice></hi>κ<hi rend="ligature">τρ</hi><hi rend="ligature"><choice><orig>ο&#x0342;</orig><reg>ὸ</reg></choice>ς</hi></sic><corr>οἰκτρός</corr></choice></w> <w lemma="ἱκέτης"><choice><sic><choice><orig>ἡ</orig><reg>ἠ</reg></choice>
                     <lb n="5" break="no"/><expan><abbr>κ</abbr><ex>έ</ex></expan><hi rend="ligature">τη</hi>ς</sic><corr>ἱκέτης</corr></choice></w></l> <l><w lemma="ἐγείρω"><choice><sic><hi rend="ligature"><choice><orig>ἡ</orig><reg>ἤ</reg></choice>γ</hi><choice><orig>ί</orig><reg>ι</reg></choice>ρα</sic><corr>ἤγειρα</corr></choice></w> <choice><sic>τ<choice><orig>ω</orig><reg>ώ</reg></choice>νδε </sic><corr>τόνδε</corr></choice><choice><sic><hi rend="ligature" xml:id="lig1">τ<choice><orig>ῶ</orig><reg>ὼ</reg></choice></hi><supplied reason="omitted"> v</supplied></sic><corr>τὸν</corr></choice> <w lemma="ναός"><hi rend="ligature" xml:id="lig2">ν</hi><join target="#lig1 #lig2"/>α<choice><orig>ο</orig><reg>ὸ</reg></choice><hi rend="ligature" xml:id="lig3">ν</hi></w> <w lemma="μετά"><hi rend="ligature" xml:id="lig4">μ</hi><join target="#lig3 #lig4"/>ετ<hi rend="ligature" xml:id="lig5"><choice><orig>α</orig><reg>ὰ</reg></choice></hi></w> <w lemma="πόθος"><hi rend="ligature" xml:id="lig6">π</hi><join target="#lig5 #lig6"/>όθ<hi rend="ligature">ου</hi></w></l> <l><hi rend="ligature"><choice><orig>ἁ</orig><reg>ἀ</reg></choice>ν</hi>θ'
                        <w lemma="οὗπερ"> <hi rend="ligature">ο<choice><orig>υ</orig><reg>ὗ</reg></choice></hi>
                     <lb n="6"/>περ</w> <w lemma="αἰτῶ"><choice><sic><choice><orig>ε</orig><reg>ἐ</reg></choice><hi rend="ligature">τ<choice><orig>ο</orig><reg>ῶ</reg></choice></hi></sic><corr>αἰτῶ</corr></choice></w> <w lemma="προστάτης"><choice><sic><hi rend="ligature">πρ</hi>ο<hi rend="ligature">στ</hi>άτ<hi rend="ligature">υν</hi></sic><corr>προστάτιν</corr></choice></w> <w lemma="εὑρίσκω"><choice><sic><expan>εὑρι<abbr>κ</abbr><ex>έ</ex>ν</expan>ε</sic><corr>εὑρηκέναι</corr></choice></w></l> 

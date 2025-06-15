@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Dormition, Virgin</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. Well preserved.</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, lunette, middle register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. The sigla Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, horizontal line above each word. ΜΗΡ in ligature. Short, horizontal line at the bottom of upsilon.
+                            <handNote>White majuscule letters against blue background. Horizontal overline abbreviation mark above the nomina sacra ΜΗΡ ΘΥ. ΜΗΡ joined in ligature. Vertical intersecting stroke on the abbreviation mark above ΘΥ.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#DormitionVirgin">Dormition, Virgin</rs></p>
+                            <p><rs type="iconography" ref="#Dormition">Dormition, Virgin</rs>
+                                   <rs type="iconography" ref="#Virgin"></rs>
+                                   <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,9 +70,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-081-01.JPG"><desc>Naos, west wall, lunette, middle register, inscription detail</desc></graphic>
-        <graphic url="044-081-02.JPG"><desc>Naos, west wall, lunette, middle register, inscription</desc></graphic>
-        <graphic url="044-081-03.JPG"><desc>Naos, west wall, lunette, middle register, general view</desc></graphic>
+         <graphic rend="primary" url="044-081-01.JPG"><desc>Dormition, Virgin, inscription detail</desc></graphic>
+        <graphic url="044-081-02.JPG"><desc>Dormition, Virgin, inscription</desc></graphic>
+        <graphic url="044-081-03.JPG"><desc>Dormition, Virgin, general view</desc></graphic>
                     </facsimile>
     <text>
         <body>
@@ -81,17 +83,18 @@
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
-                 </div>
+                   <listApp>
+    <app loc="1"><rdg source="#Sacopoulo1966">ΜΡ ΘΥ</rdg></app>
+                  </listApp></div>
             <div type="translation">
                 <p>Mother of God</p> 
             </div>
             <div type="commentary">
-                <p>Good condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 40</citedRange></bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>40</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

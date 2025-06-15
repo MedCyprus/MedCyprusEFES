@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint John Chrysostom's scroll</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -27,22 +28,26 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, lower register, first figure on the right</rs>
                                     <dimensions unit="cm" scope="text"><height>43</height><width>12</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>45</height><width>12</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the open scroll held in both hands by the co-officiating prelate.</layout>
+                                <layout>On the open scroll held in both hands by the co-officiating prelate.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">3</height> 
+                             <handNote>Black majuscule letters against white background. Character size varies. Systematic use of triangular serifs. THN, OY, NK, CT, and ΕΙ joined in ligature. Wavy, horizontal abbreviation mark above ΘC, KN, IN, CPA. Letter height: <height unit="cm">3</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#JohnChrysostom">John Chrysostom</rs></p>
+                            <p><rs type="iconography" ref="#JohnChrysostom">John Chrysostom</rs>
+                               <rs type="iconography" ref="#prelate"></rs>
+                                <rs type="iconography" ref="#male"></rs>
+                                <rs type="iconography" ref="#scroll"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,25 +73,35 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-012-01.JPG"><desc>Bema, apse, semicylindrical wall, north half, lower register, first figure on the right, inscription</desc></graphic>
-        <graphic url="036-012-02.JPG"><desc>Bema, apse, semicylindrical wall, north half, lower register, first figure on the right, inscription detail</desc></graphic>
-        <graphic url="036-012-03.JPG"><desc>Bema, apse, semicylindrical wall, north half, lower register, first figure on the right, inscription detail</desc></graphic>
-        <graphic url="036-012-04.JPG"><desc>Bema, apse, semicylindrical wall, north half, lower register, first figure on the right, inscription detail</desc></graphic>
-        <graphic url="036-012-05.JPG"><desc>Bema, apse, semicylindrical wall, north half, lower register, first figure on the right, inscription detail</desc></graphic>
-        <graphic url="036-012-06.JPG"><desc>Bema, apse, semicylindrical wall, north half, lower register, first figure on the right, general view</desc></graphic>
+         <graphic rend="primary" url="036-012-01.JPG"><desc>Saint John Chrysostom's scroll, inscription</desc></graphic>
+        <graphic url="036-012-02.JPG"><desc>Saint John Chrysostom's scroll, inscription detail</desc></graphic>
+        <graphic url="036-012-03.JPG"><desc>Saint John Chrysostom's scroll, inscription detail</desc></graphic>
+        <graphic url="036-012-04.JPG"><desc>Saint John Chrysostom's scroll, inscription detail</desc></graphic>
+        <graphic url="036-012-05.JPG"><desc>Saint John Chrysostom's scroll, inscription detail</desc></graphic>
+        <graphic url="036-012-06.JPG"><desc>Saint John Chrysostom's scroll, general view</desc></graphic>
       </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>
-                    PENDING
+              <ab>PENDING
+                    <lb n="1"/><g ref="#cross">+</g>Ὁ <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></w></persName> Ὁ <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></w></persName> <w lemma="ἐγώ">ἡ
+                  <lb n="2" break="no"/>μῶν</w> ὁ <choice><sic>τοὺ</sic><corr>τὸν</corr></choice> 
+                  <lb n="3"/><w lemma="οὐράνιος">οὐρ<choice><orig>α</orig><reg>ά</reg></choice>νιον</w> <w lemma="ἄρτος"><choice><orig>ἀ</orig><reg>ἄ</reg></choice>ρ
+                  <lb n="4" break="no"/>τον</w>.<w><hi rend="ligature">τὴν</hi></w> <w lemma="τροφή">τρο
+                  <lb n="5" break="no"/>φ<hi rend="ligature">ήν</hi></w> <w>τ<hi rend="ligature">oῦ</hi></w> <w lemma="παντὸς">παν
+                    <lb n="6" break="no"/>τὸς</w> <w lemma="κόσμος">κόσμ<hi rend="ligature">ου</hi></w>
+                  <lb n="7"/><w>τὸν</w> <persName type="divine" key="Lord"><name nymRef="Κύριος"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύριο</ex><abbr rend="supraline">ν</abbr></expan></w></name></persName> <w lemma="ἐγώ">ἡ
+                 <lb n="8" break="no"/>μῶ<hi rend="ligature">νκ</hi>αὶ</w> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline"><supplied reason="lost">ν</supplied></abbr></expan></w></persName>
+                  <lb n="9"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς Χριστός"> <expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ν</abbr></expan> <supplied reason="omitted">Χριστόν</supplied></name></persName> <w lemma="ἐξαποστέλλω">ἐξαπο
+                <lb n="10" break="no"/>στε<choice><orig>ı</orig><reg>ἰ</reg></choice>λας</w>.<w lemma="σωτηρία"><expan><abbr rend="supraline">σ</abbr><ex>ωτη</ex><abbr rend="supraline">ρα</abbr></expan></w> <expan><abbr rend="supraline">κ</abbr><ex>αὶ</ex></expan>
+                  <lb n="11"/><w lemma="λυτρωτής">λυτρ<choice><orig>ο</orig><reg>ω</reg></choice><hi rend="ligature">τὴν</hi></w>
                </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Prayer of the Prothesis: O God, our God, who sent the Heavenly Bread, the food of the whole world, our Lord and God Jesus Christ, as our Savior, Redeemer and Benefactor ?</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>

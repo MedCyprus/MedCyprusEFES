@@ -39,7 +39,13 @@
                 </item>
                 <item xml:id="aisle">
                     <term>Aisle</term><!--for basilicas-->
-                </item>  
+                </item>
+                <item xml:id="narthex">
+                    <term>Narthex</term>
+                </item>
+                <item xml:id="ambulatory">
+                    <term>Ambulatory</term>
+                </item>
                 <item xml:id="cell">
                     <term>Cell</term>
                 </item>

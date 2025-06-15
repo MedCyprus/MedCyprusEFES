@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Annunciation, the Virgin's response to Gabriel</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -27,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#dome">Dome, southeast pendentive</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -37,11 +38,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against red background. Majuscule letters. Characters' size varies. Alphas in superscript. OY and TO joined in ligature. Horizontal line above the abbreviation of Κ(υρίο)υ. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#Annunciation">Annunciation</rs>
+                            <p><rs type="iconography" ref="#Annunciation">Annunciation, Virgin</rs>
                                    <rs type="iconography" ref="#Virgin"></rs>
                                    <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
@@ -69,14 +70,16 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-093-01.JPG"><desc>Dome, southeast pendentive, inscription</desc></graphic>
-        <graphic url="036-093-02.JPG"><desc>Dome, southeast pendentive, general view</desc></graphic>
+         <graphic rend="primary" url="036-093-01.JPG"><desc>Annunciation, the Virgin's response to Gabriel, inscription</desc></graphic>
+        <graphic url="036-093-02.JPG"><desc>Annunciation, the Virgin's response to Gabriel, general view</desc></graphic>
        </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                    <lb n="1"/><g ref="#cross">+</g><w lemma="Ἰδού">᾿Ïδ<hi rend="ligature">οὺ</hi></w> ἡ <w lemma="δούλη">δ<hi rend="ligature">ού</hi>λη</w> <persName type="divine" key="Lord"><name nymRef="#Κύριος"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline"><choice><orig>ύ</orig><reg>υ</reg></choice></abbr></expan></w></name></persName>
+                  <lb n="2"/><w lemma="γίγνομαι">γ<choice><orig>ε</orig><reg>έ</reg></choice>νοι<hi rend="ligature">τό</hi></w> <w lemma="ἐγώ">μοι</w> κ<choice><orig>ὰ</orig><reg>α</reg></choice>τὰ 
+                  <lb n="3"/>τ<choice><orig>ο</orig><reg>ὸ</reg></choice> <w lemma="ῥῆμα"><choice><orig>ρ</orig><reg>ῥ</reg></choice><choice><orig>ή</orig><reg>ῆ</reg></choice>μα</w> <w lemma="σύ">σ<hi rend="ligature">ου</hi></w>
                </ab>
             </div>
             <div type="apparatus">
@@ -86,7 +89,7 @@
                 <p>I am the Lord’s servant. May your word to me be fulfilled.</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>The inscription is based on the dialogue between the Archangel Gabriel and the Virgin according to Luke 1:28, 38.</p>
             </div>
             <div type="bibliography">
                  <listBibl>

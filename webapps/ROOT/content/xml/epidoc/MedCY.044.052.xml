@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Tychon</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, east vault, south side, lower register, on the west, left of the cross sphere</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the right of the medallion with the representation of the saint</layout>
+                                <layout>On the right of the medallion with the representation of the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters.The word ἅγιος is abbreviated inside an omicron which indicates the article. Tau and chi with serifs. Omega with crosslet and semicircular dots stuck on the circular walls. Accents and breathings systematic. 
+                            <handNote>White letters against blue background. Majuscule letters. Tau and chi with serifs. Omega with its apex surmounted by a crosslet and semicircular dots stuck on its circular walls. Accents and breathings systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Tychon">Tychon</rs></p>
+                            <p><rs type="iconography" ref="#Tychon">Tychon</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,8 +70,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-052-01.JPG"><desc>Bema, east vault, south side, lower register, on the west, inscription</desc></graphic>
-        <graphic url="044-052-02.JPG"><desc>Bema, east vault, south side, lower register, on the west, general view</desc></graphic>
+         <graphic rend="primary" url="044-052-01.JPG"><desc>Saint Tychon, inscription</desc></graphic>
+        <graphic url="044-052-02.JPG"><desc>Saint Tychon, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
@@ -89,7 +91,7 @@
                 <p>Saint Tychon</p>
             </div>
             <div type="commentary">
-                <p>Good condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>

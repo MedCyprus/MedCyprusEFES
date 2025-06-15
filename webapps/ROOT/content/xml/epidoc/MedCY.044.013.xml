@@ -27,21 +27,24 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, lower register, under the window, next to Apostle Barnabas</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly, partially preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, lower register, under the window, next to Apostle Barnabas</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. Wavy, diagonal final sigma. Accents systematic. Letter height: <height unit="cm">3-3,5</height>
+                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. Alpha with its apex terminating in a serif to the left; final sigma with diagonal spine. Accents systematic. Breathings with errors. Letter height: <height unit="cm">3-3,5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Epiphanios">Epiphanios</rs></p>
+                            <p><rs type="iconography" ref="#Epiphanios">Epiphanios</rs>                                
+                                <rs type="iconography" ref="#prelate"></rs>
+                                <rs type="iconography" ref="#male"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,16 +70,16 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-013-01.JPG"><desc>Bema, semicylindrical wall, lower register, under the window, next to Apostle Barnabas, inscription</desc></graphic>
-        <graphic url="044-013-02.JPG"><desc>Bema, semicylindrical wall, lower register, under the window, next to Apostle Barnabas, general view </desc></graphic>
-        <graphic url="044-013-03.JPG"><desc>Bema, semicylindrical wall, lower register, under the window, next to Apostle Barnabas, general view</desc></graphic>
+         <graphic rend="primary" url="044-013-01.JPG"><desc>Saint Epiphanios, inscription</desc></graphic>
+        <graphic url="044-013-02.JPG"><desc>Saint Epiphanios, general view </desc></graphic>
+        <graphic url="044-013-03.JPG"><desc>Saint Epiphanios, general view</desc></graphic>
         </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                      <cb n="a"/>
-                    <lb n="1"/><persName type="sacred" key="Epiphanios"><supplied reason="lost">Ὁ</supplied> <w lemma="ἅγιος"><supplied reason="lost"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan> </supplied></w>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Epiphanios"><w lemma="ἅγιος"><supplied reason="lost"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan> </supplied></w>
                   <cb n="b"/>
                   <lb n="1"/><name type="forename" nymRef="#Ἐπιφάνιος"><choice><orig>Ε</orig><reg>Ἐ</reg></choice>
                   <lb n="2" break="no"/>π
@@ -88,17 +91,17 @@
                 </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>[Saint] Epiphanios</p>
             </div>
             <div type="commentary">
-                <p>Partially preserved. The saint's caption has not survived. Based on the other examples we reconstructed the word. Breathings with errors. </p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 84</citedRange></bibl>
+                <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>84</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

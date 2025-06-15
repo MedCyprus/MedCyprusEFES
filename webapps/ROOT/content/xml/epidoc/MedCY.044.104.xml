@@ -34,18 +34,19 @@
                             </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Under the saint's flying mantle</layout>
+                                <layout>Under the figure's flying mantle</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote> White letters against blue background. Majuscule letters. Characters' size varies. Short, double horizontal lines decorate the iota, and the vertical bars of pi, gama and tau. Omega with crosslet. Letters TΗΡ, TΩ, ΡΗ, ΤΗΝ, ΤΟΥ, ΜΜ, ΟΥ, ΜΑΡ, ΤΥ, TH, NH, ΤΩ, ΦΟ, NK, ΑΥ, ΝΜ, ΝΤ joined in ligatures. Upper points and double dots after the words Νικηφόρος, πόθῳ, εἰκόνα, Γεωργίου, Φορβίω(ν), κρίσει, and στεφανίτην. Almost systematic use of accents and breathings. Letter height: <height unit="cm">2,5-3</height>
+                            <handNote> White majuscule letters against blue background. Character size varies. Chi-shaped motifs integrated into the initial letters iota and pi. Mu with the central strokes reminiscent of an upsilon on a crossed stem; omega with its apex surmounted by a crosslet, featuring spines curving inward. In line 3, the first rho (Ρ) is rendered with a rigid vertical stem and a compressed, angular bowl, which extends outward with a sharp, tapering serif-like stroke; upsilon on a crossed stem.  TΗΡ, TΩ, ΡΗ, ΤΗΝ, ΤΟΥ, ΜΜ, ΟΥ, ΜΑΡ, ΤΥ, TH, NH, ΤΩ, ΦΟ, NK, ΑΥ, ΝΜ, ΝΤ joined in ligature. Upper points and double dots after the words Νικηφόρος, πόθῳ, εἰκόνα, Γεωργίου, Φορβίω(ν), κρίσει, and στεφανίτην. Near systematic use of accents and breathings. Letter height: <height unit="cm">2,5-3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#George">George</rs>
+                            <p><rs type="iconography" ref="#George">George, on horseback</rs>
                                   <rs type="iconography" ref="#martyr"></rs>
                                   <rs type="iconography" ref="#militarysaint"></rs>
-                                  <rs type="iconography" ref="#male"></rs>
+                                  <rs type="iconography" ref="#male"></rs>                                
+                                  <rs type="iconography" ref="#dressmilitary"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -89,7 +90,7 @@
                 <listApp>
                     <app loc="3"><rdg source="#Buckler1933">παμμεγίστ(ου)</rdg><rdg source="#Buckler1933">μ(ά)ρτυρος</rdg></app>
                     <app loc="4"><rdg source="#Buckler1933">Φορβίων</rdg><rdg source="#Papageorgiou2003"></rdg><rdg source="#VisCult"></rdg><rdg source="#Stylianou1973">ΦΩΡΒΙΩΝ</rdg><rdg source="#Buckler1933">τὸν</rdg><rdg source="#Rhoby2009">Φορβίω<supplied reason="omitted">ν</supplied></rdg><rdg source="#Rhoby2009">τὸν</rdg><rdg source="#HadjichristodoulouMyrianthefs2009">κρ[ί]σει</rdg></app>
-                    <app loc="5"><rdg source="#Sacopoulo1966">μάρτυρα</rdg><rdg source="#Papageorgiou2003"></rdg><rdg source="#VisCult"></rdg><rdg source="#Sacopoulo1966">στε[φ]ανί[την]</rdg><rdg source="#Stylianou1973">CΤΕΦΑΝΙΤΗΝ</rdg><rdg source="#Papageorgiou2003">στεφανίτην</rdg><rdg source="#Ševčenko2012"></rdg><rdg source="#VisCult"></rdg><rdg source="#Rhoby2009">στε[φ]α[νίτην]</rdg><rdg source="#HadjichristodoulouMyrianthefs2009">στεφανήτην</rdg><rdg source="#Buckler1933">καὶ τὰς</rdg><rdg source="#Sacopoulo1966"></rdg><rdg source="#Ševčenko2012"></rdg><rdg source="#VisCult"></rdg><rdg source="#Stylianou1973">ΚΑΙ ΤΑC</rdg><rdg source="#Papageorgiou2003">καί τάς προσευχάς</rdg><rdg source="#VisCult">προσευχὰς</rdg></app>
+                    <app loc="5"><rdg source="#Sacopoulo1966">μάρτυρα</rdg><rdg source="#Papageorgiou2003"></rdg><rdg source="#VisCult"></rdg><rdg source="#Sacopoulo1966">στε[φ]ανί[την]</rdg><rdg source="#Stylianou1973">CΤΕΦΑΝΙΤΗΝ</rdg><rdg source="#Papageorgiou2003">στεφανίτην</rdg><rdg source="#Ševčenko2012"></rdg><rdg source="#VisCult"></rdg><rdg source="#HadjichristodoulouMyrianthefs2009">στεφανήτην</rdg><rdg source="#Rhoby2009">στε[φ]α[νίτην]</rdg><rdg source="#Buckler1933">καὶ τὰς</rdg><rdg source="#Sacopoulo1966"></rdg><rdg source="#Ševčenko2012"></rdg><rdg source="#VisCult"></rdg><rdg source="#Stylianou1973">ΚΑΙ ΤΑC</rdg><rdg source="#Papageorgiou2003">καί τάς προσευχάς</rdg><rdg source="#VisCult">προσευχὰς</rdg></app>
                 </listApp>
                  </div>
             <div type="translation"> 

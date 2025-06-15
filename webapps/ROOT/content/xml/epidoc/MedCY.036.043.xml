@@ -6,7 +6,6 @@
         <fileDesc>
             <titleStmt>
                 <title>Ascension, Virgin</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -39,12 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>White letters against blue and green backgrounds. Majuscule letters. The words Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, horizontal line above each word. MHΡ joined in ligature. Accents and breathings systematic.
+                             <handNote>White majuscule letters against blue and green backgrounds. MHΡ joined in ligature. Wavy, horizontal abbreviation mark above ΜΗΡ ΘΥ. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Ascension">Ascension, Virgin</rs>
-                            <rs type="iconography" ref="#christological"></rs></p>
+                                   <rs type="iconography" ref="#Virgin"></rs>
+                                   <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

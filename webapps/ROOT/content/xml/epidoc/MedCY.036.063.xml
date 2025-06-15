@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Christ Pantokrator</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -33,15 +34,18 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of Christ's head</layout>
+                                <layout>On either side of figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against light blue background. Majuscule letters. The sigla Ἰ(ησοῦ)ς Χ(ριστό)ς are fully rendered by an abbreviation with a big horizontal line above each word. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#ChristPantokrator">Christ Pantokrator</rs></p>
+                            <p><rs type="iconography" ref="#ChristPantokrator">Christ Pantokrator</rs>
+                           <rs type="iconography" ref="#Christ"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#divine"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -75,7 +79,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                    <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς"> <expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan><am>&#x00A0;῀&#x00A0;</am><milestone unit="column"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan><am>&#x00B4;</am></addName></name></persName> 
                </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +89,7 @@
                 <p>Jesus Christ</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

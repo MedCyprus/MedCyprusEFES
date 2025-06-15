@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Gregory of Nyssa</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, south recess, lower register, right of the rectangular niche</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. The word ἅγιος is abbreviated inside an omicron which indicates the article. OC in Γρηγόριος in ligature with a vertical, wavy final sigma. Accents and breathings almost systematic. Letter height: <height unit="cm">3</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. OC joined in ligature. Near systematic use of accents and breathings. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#GregoryOfNyssa">Gregory of Nyssa</rs></p>
+                            <p><rs type="iconography" ref="#GregoryOfNyssa">Gregory of Nyssa</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,9 +70,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-048-01.JPG"><desc>Bema, south recess, lower register, right of the rectangular nich, inscription detail</desc></graphic>
-        <graphic url="044-048-02.JPG"><desc>Bema, south recess, lower register, right of the rectangular niche, inscription</desc></graphic>
-        <graphic url="044-048-03.JPG"><desc>Bema, south recess, lower register, right of the rectangular niche, general view</desc></graphic>
+         <graphic rend="primary" url="044-048-01.JPG"><desc>Saint Gregory of Nyssa, inscription detail</desc></graphic>
+        <graphic url="044-048-02.JPG"><desc>Saint Gregory of Nyssa, inscription</desc></graphic>
+        <graphic url="044-048-03.JPG"><desc>Saint Gregory of Nyssa, general view</desc></graphic>
                </facsimile>
     <text>
         <body>
@@ -84,24 +86,26 @@
                       <lb n="5" break="no"/><hi rend="ligature">ος</hi></name>  
                       <cb n="b"/>
                     <lb n="1"/><addName type="epithet" key="of Nyssa"><choice><orig>O</orig><reg>Ὁ</reg></choice>
-                    <lb n="2"/>Nο<choice><orig>ι</orig><reg>ί</reg></choice>
+                    <lb n="2"/><choice><sic>Nο<choice><orig>ι</orig><reg>ί</reg></choice>
                   <lb n="3" break="no"/>σ
                   <lb n="4" break="no"/>ι
-                  <lb n="5" break="no"/><supplied reason="lost">ς</supplied> </addName></persName> 
+                  <lb n="5" break="no"/><supplied reason="lost">ς</supplied></sic><corr>Νύσσης</corr></choice> </addName></persName> 
                 </ab> 
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <listApp>
+                   <app loc="b.2-5"><rdg source="#Buckler1933">Νοίσιος</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Saint Gregory of Nyssa</p>
             </div>
             <div type="commentary">
-                <p>Good condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
-                <bibl>Unpublished</bibl>
+                <bibl><ptr target="#Buckler1933"/>, <citedRange>342</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

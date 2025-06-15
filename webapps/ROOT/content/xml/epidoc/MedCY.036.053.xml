@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Cryptograms</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, north recess' soffit, center</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -38,11 +38,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">3-3,5</height>
+                             <handNote>White letters against red background. Majuscule letters. Characters' size varies. Horizontal wavy line above all the abbreviations. Accents and breathings non systematic. Letter height: <height unit="cm">3-3,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#CrossProcessional">Patriarchal cross</rs></p>
+                            <p><rs type="iconography" ref="#crosspatriarchal">Cross, patriarchal, in medallion</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,23 +68,25 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-053-01.JPG"><desc>Bema, north recess' soffit, center, inscription</desc></graphic>
+         <graphic rend="primary" url="036-053-01.JPG"><desc>Cryptograms, inscription</desc></graphic>
                       </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                   <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς<am> &#x00A0;῀&#x00A0;</am></abbr></expan>
+                    <milestone unit="column"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></addName></name></persName>     
+                  <lb n="2"/><w lemma="νικῶ">Νι<milestone unit="column" n="right"/>Κ<choice><orig>α</orig><reg>ᾷ</reg></choice></w>
                </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Jesus Christ, conquers.</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Xi with superscript zeta and wavy diagonal sigma. Letters OC in ligature. Accents and breathings systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Alpha with its apex terminating in a serif to the left. Xi with a top bar terminating in a spine that curves inward, and lower part with a curvilinear spine ending in a descender. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -82,7 +82,7 @@
                   <cb n="b"/> 
                   <lb n="1"/><name type="forename" nymRef="#Αὐξίβιος"><choice><orig>Αυ</orig><reg>Αὐ</reg></choice><choice><orig>ξι</orig><reg>ξί</reg></choice>
                   <lb n="2" break="no"/>βι
-                  <lb n="3" break="no"/><hi rend="ligature">ος</hi></name></persName>              
+                  <lb n="3" break="no"/><supplied reason="lost">ος</supplied></name></persName>              
                 </ab> 
             </div>
             <div type="apparatus">

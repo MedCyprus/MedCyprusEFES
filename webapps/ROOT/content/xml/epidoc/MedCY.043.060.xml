@@ -42,7 +42,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Stylianos">Stylianos</rs></p>
+                            <p><rs type="iconography" ref="#Stylianos">Stylianos</rs>
+                            <rs type="iconography" ref="#monastic"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#scroll"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

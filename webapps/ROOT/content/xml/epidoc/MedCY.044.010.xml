@@ -27,21 +27,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, south half, lower register, first figure on the left</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, lower register, first figure on the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the prelate's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. John is abbreviated Ἰω(άννη)ς with a big, horizontal line above the Ἰω; wide omega with crosslet; wavy, diagonal final sigma. Chrysostom's monogram includes five letters. Rho starts at the top, runs through the chi, tau, mu and ends in a round omicron. Accents and breathings systematic. Letter height: <height unit="cm">3-4</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. John is abbreviated Ἰω(άννη)ς with a big, horizontal line above the Ἰω; wide omega with its apex surmounted by a crosslet;  final sigma with diagonal spine. Chrysostom's monogram includes five letters. Rho starts at the top, runs through the chi, tau, mu and ends in a round omicron. Accents and breathings systematic. Letter height: <height unit="cm">3-4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#JohnChrysostom">John Chrysostom</rs></p>
+                            <p><rs type="iconography" ref="#JohnChrysostom">John Chrysostom</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,10 +69,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-010-01.JPG"><desc>Bema, semicylindrical wall, south half, lower register, first figure on the left, inscription</desc></graphic>
-        <graphic url="044-010-02.JPG"><desc>Bema, semicylindrical wall, south half, lower register, first figure on the left, inscription detail</desc></graphic>
-        <graphic url="044-010-03.JPG"><desc>Bema, semicylindrical wall, south half, lower register, first figure on the left, inscription detail</desc></graphic>
-        <graphic url="044-010-04.JPG"><desc>Bema, semicylindrical wall, south half, lower register, general view </desc></graphic>
+         <graphic rend="primary" url="044-010-01.JPG"><desc>Saint John Chrysostom, inscription</desc></graphic>
+        <graphic url="044-010-02.JPG"><desc>Saint John Chrysostom, inscription detail</desc></graphic>
+        <graphic url="044-010-03.JPG"><desc>Saint John Chrysostom, inscription detail</desc></graphic>
+        <graphic url="044-010-04.JPG"><desc>Saint John Chrysostom, general view </desc></graphic>
                 </facsimile>
     <text>
         <body>
@@ -79,23 +81,27 @@
                     <cb n="a"/>
                     <lb n="1"/>Ὁ <persName type="sacred" key="JohnChrysostom"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
                     <lb n="2"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννη</ex><abbr rend="supraline">ς</abbr></expan></name>
-                     <cb n="1"/>
+                     <cb n="b"/>
                     <lb n="1"/>Ὁ 
                     <lb n="2"/><addName type="epithet" key="Chrysostom"><expan><abbr rend="supraline">Χρυ</abbr><am>´</am><ex>σόσ</ex><abbr rend="supraline">τ</abbr><ex>ο</ex><abbr rend="supraline">μος</abbr></expan></addName></persName>
               </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <listApp>
+                   <app loc="a"><rdg source="#Sacopoulo1966">ΙΩ</rdg></app>
+                   <app loc="b"><rdg source="#Buckler1933">χρυσόστομος</rdg></app>
+               </listApp>
             </div>
             <div type="translation">
                 <p>Saint John Chrysostom</p>
             </div>
             <div type="commentary">
-                <p>Good Condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 79-80</citedRange></bibl>
+                 <bibl><ptr target="#Buckler1933"/>, <citedRange>342</citedRange></bibl>
+                <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>79-81</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

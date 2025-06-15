@@ -37,11 +37,15 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Majuscule letters. Pi with short line attached the horizontal bar; Accents and breathings. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">3</height>
+                            <handNote>Black majuscule letters against white background. Pi with short line attached the horizontal bar; Accents and breathings. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Peter">Peter</rs></p>
+                            <p><rs type="iconography" ref="#Peter">Peter</rs>
+                            <rs type="iconography" ref="#apostle"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#scroll"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

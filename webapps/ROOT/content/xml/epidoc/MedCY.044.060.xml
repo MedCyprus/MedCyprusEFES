@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Paul's scroll</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,22 +28,27 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, northwestern pilaster, south face, lower register</rs>
                                     <dimensions unit="cm" scope="text"><height>16</height><width unit="cm">12</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>19</height><width unit="cm">16</width></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the open scroll held in the left hand by the saint.</layout>
+                                <layout>On the open scroll held in the left hand by the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Majuscule letters. Nu with its central bar forms a vertical, zig zag line. Eta with a cross on its horizontal bar. Omega formed by two omicron. Stroke constrast with two levels of boldness in the strokes that compose the letter, the vertical strokes being thick, the horizontal ones thin. Accents and breathings systematic. Long graves accents. Rough breathing in the form of inverted comma. Letter height: <height unit="cm">3</height>.
+                            <handNote>Black majuscule letters against white background. Nu with a zig-zag stroke. Eta with its crossbar crossed. Omega formed of two linked oval bowls. Two levels of boldness in the strokes that compose the letters, the vertical strokes being thick, the horizontal ones thin. Accents and breathings systematic. Long graves accents. Rough breathing in the form of inverted comma. Letter height: <height unit="cm">3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Paul">Paul</rs></p>
+                            <p><rs type="iconography" ref="#Paul">Paul</rs>                            
+                            <rs type="iconography" ref="#apostle"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#martyr"></rs>
+                            <rs type="iconography" ref="#scroll"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -69,9 +74,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-060-01.JPG"><desc>Naos, northwestern pilaster, south face, lower register, inscription detail</desc></graphic>
-        <graphic url="044-060-02.JPG"><desc>Naos, northwestern pilaster, south face, lower register, general view</desc></graphic>
-        <graphic url="044-060-03.JPG"><desc>Naos, northwestern pilaster, south face, lower register, general view </desc></graphic>
+         <graphic rend="primary" url="044-060-01.JPG"><desc>Saint Paul's scroll, inscription detail</desc></graphic>
+        <graphic url="044-060-02.JPG"><desc>Saint Paul's scroll, general view</desc></graphic>
+        <graphic url="044-060-03.JPG"><desc>Saint Paul's scroll, general view </desc></graphic>
       </facsimile>
     <text>
         <body>
@@ -79,24 +84,24 @@
               <ab>
                   <lb n="1"/> <supplied reason="lost">Ὁ <w lemma="φρονῶ">φρονῶν</w></supplied>               
                   <lb n="2"/><supplied reason="lost">τὴν</supplied><w lemma="ἡμέρα"><supplied reason="lost"> ἡμέ</supplied>
-                  <lb n="3" break="no"/>ραν</w> <persName type="divine" key="Lord"><name nymRef="#Κύριος"><w lemma="Κύριος"><expan><abbr>Κ</abbr><hi rend="ligature"><ex>υρί</ex></hi><abbr><choice><orig>ω</orig><reg>ῳ</reg></choice></abbr></expan></w></name></persName>
+                  <lb n="3" break="no"/>ραν</w> <persName type="divine" key="Lord"><w lemma="Κύριος"><expan><abbr>Κ</abbr><hi rend="ligature"><ex>υρί</ex></hi><abbr><choice><orig>ω</orig><reg>ῳ</reg></choice></abbr></expan></w></persName>
                   <lb n="4"/><w lemma="φρονῶ">φρονεῖ</w>
                   <lb n="5"/>καὶ ὁ μὴ 
                   <lb n="6"/><w lemma="φρονῶ">φ<supplied reason="lost">ρ</supplied>ονῶ<supplied reason="lost">ν</supplied></w>
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <p>n/a</p>
                  </div>
             <div type="translation">
                 <p>Whoever regards one day as special does so to the Lord and whoeved doesn't regard [it] as special.</p> 
             </div>
             <div type="commentary">
-                <p>Partially preserved. PENDING<!--The inscription is taken from Paul's Epistles on Romans, Rom. 14:6,1: or from a Catena on Pauline letters on Romans? (Maria Xenaki)  >--></p>
+                <p>Text: Rom. 14:6,1</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl><ptr target="#WeylCarr2012"/>,<citedRange> 213</citedRange></bibl>
+                    <bibl><ptr target="#WeylCarr2012a"/>,<citedRange> 213</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

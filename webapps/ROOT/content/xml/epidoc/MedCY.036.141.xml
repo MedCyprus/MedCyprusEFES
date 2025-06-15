@@ -34,7 +34,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the open scroll held in the left hand by the saint.</layout>
+                                <layout>On the open scroll held in the left hand by the saint.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -42,7 +42,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Peter">Peter</rs></p>
+                            <p><rs type="iconography" ref="#Peter">Peter</rs>
+                            <rs type="iconography" ref="#apostle"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#scroll"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

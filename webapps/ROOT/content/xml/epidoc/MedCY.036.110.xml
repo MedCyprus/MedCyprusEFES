@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Archangel Michael's labarum</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,26 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, south wall, lower register, to the west</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the labarum that Archangel is holding in his right hand.</layout>
+                                <layout>On the labarum that Archangel Michael is holding in his right hand.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White majuscule letters against gold background. letters. Character size varies. The last OC are written as superscript. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Michael">Archangel Michael</rs></p>
+                            <p><rs type="iconography" ref="#Michael">Archangel Michael</rs>
+                            <rs type="iconography" ref="#archangel"></rs> 
+                            <rs type="iconography" ref="#genderless"></rs>
+                            <rs type="iconography" ref="#dressimperial"></rs>
+                            <rs type="iconography" ref="#labarum"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,14 +73,14 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-110-01.JPG"><desc>Naos, south wall, lower register, to the west, inscription</desc></graphic>
-        <graphic url="036-110-02.JPG"><desc>Naos, south wall, lower register, to the west, general view</desc></graphic>
+         <graphic rend="primary" url="036-110-01.JPG"><desc>Archangel Michael's labarum, inscription</desc></graphic>
+        <graphic url="036-110-02.JPG"><desc>Archangel Michael's labarum, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><choice><orig>A</orig><reg>Ἅ</reg></choice>γιος, <w lemma="Ἅγιος"><choice><orig>A</orig><reg>Ἅ</reg></choice>γιος</w>, <w lemma="Ἅγιος"><choice><orig>Ά</orig><reg>Ἅ</reg></choice>γιος</w>, <addName type="epithet" key="Lord of Hosts"><supplied reason="lost">Κύριος<w lemma="Κύριος"></w> <w lemma="Σαβαώθ">Σαβαώθ</w></supplied></addName>
                 </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +90,7 @@
                 <p>Holy, holy, holy (Lord of Sabaoth)</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Text: Part of the Sanctus hymn</p>
             </div>
             <div type="bibliography">
                  <listBibl>

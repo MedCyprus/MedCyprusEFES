@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Virgin of the Mercy</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#narthex">Narthex, south conch, semidome</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. The inscription is written entirely in majuscule. The sigla Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, wavy line above each word. There is a ligature of the letters ΜΗΡ.  Mu, with its middle bar split into two parts, the upper part in the shape of an upsilon. Accents are systematically indicated.
+                            <handNote>White majuscule letters against red background. Mu with the central strokes reminiscent of an upsilon on a crossed stem. ΜΗΡ joined in ligature. Wavy-horizontal abbreviation marks above ΜΗΡ ΘΥ. Accents are systematically indicated.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#VirginMercy">Virgin of the Mercy</rs></p>
+                            <p><rs type="iconography" ref="#VirginMercy">Virgin of the Mercy</rs>
+                                   <rs type="iconography" ref="#female"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,31 +69,32 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-108-01.JPG"><desc>Narthex, south conch, semidome, inscription detail</desc></graphic>
-        <graphic url="044-108-02.JPG"><desc>Narthex, south conch, semidome, inscription</desc></graphic>
-        <graphic url="044-108-03.JPG"><desc>Narthex, south conch, semidome, general view</desc></graphic>
-        <graphic url="044-108-04.JPG"><desc>Narthex, south conch, semidome, general view</desc></graphic>
+         <graphic rend="primary" url="044-108-01.JPG"><desc>Virgin of the Mercy, inscription detail</desc></graphic>
+        <graphic url="044-108-02.JPG"><desc>Virgin of the Mercy, inscription</desc></graphic>
+        <graphic url="044-108-03.JPG"><desc>Virgin of the Mercy, general view</desc></graphic>
+        <graphic url="044-108-04.JPG"><desc>Virgin of the Mercy, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                 <lb n="1"/><persName type="sacred" key="MeterTheou"><addName nymRef="#Μήτηρ Θεοῦ"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μή</abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
-                    <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></addName></persName>    
+                 <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi><am>&#x00A0;῀&#x00A0;</am></w>
+                    <milestone unit="column" n="right"/><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></w></persName>    
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <listApp>
+                    <app loc="1"><rdg source="#Kalopissi-Verti2012">MΡ ΘΥ</rdg></app></listApp>
                  </div>
             <div type="translation">
                 <p>Mother of God</p> 
             </div>
             <div type="commentary">
-                <p>Poor condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl><ptr target="#Kalopissi-Verti2012"/>,<citedRange> 122</citedRange></bibl>
+                    <bibl><ptr target="#Kalopissi-Verti2012"/>, <citedRange>122</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

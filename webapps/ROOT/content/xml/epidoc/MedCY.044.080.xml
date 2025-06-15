@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Dormition, Christ</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. Well preserved.</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, lunette, middle register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. The sigla Ἰ(ησοῦ)ς Χ(ριστό)ς are fully rendered by an abbreviation with a big horizontal line above each word. Accents and breathings almost systematic.
+                            <handNote>White majuscule letters against blue background. Horizontal overline abbreviation mark above the sigla IC XC. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#DormitionChrist">Dormition, Christ</rs></p>
+                            <p><rs type="iconography" ref="#Dormition">Dormition, Christ</rs>
+                                   <rs type="iconography" ref="#Christ"></rs>
+                                   <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,29 +70,29 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-080-01.JPG"><desc>Naos, west wall, lunette, middle register, inscription detail</desc></graphic>
-        <graphic url="044-080-02.JPG"><desc>Naos, west wall, lunette, middle register, inscription</desc></graphic>
-        <graphic url="044-080-03.JPG"><desc>Naos, west wall, lunette, middle register, general view</desc></graphic>
+         <graphic rend="primary" url="044-080-01.JPG"><desc>Dormition, Christ, inscription detail</desc></graphic>
+        <graphic url="044-080-02.JPG"><desc>Dormition, Christ, inscription</desc></graphic>
+        <graphic url="044-080-03.JPG"><desc>Dormition, Christ, general view</desc></graphic>
                     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς Χριστός"> <expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan><space quantity="1" unit="character"></space><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></name></persName> 
+                  <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς"> <expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan></name><space quantity="1" unit="character"></space><addName type="epithet" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></persName> 
               </ab>
             </div>
             <div type="apparatus">
-                <p>PENDING</p>
+                <p>n/a</p>
                  </div>
             <div type="translation">
                 <p>Jesus Christ</p> 
             </div>
             <div type="commentary">
-                <p>Good condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                    <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 42</citedRange></bibl>
+                    <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>42</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

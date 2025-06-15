@@ -38,13 +38,15 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>White letters against blue background. Majuscule letters. Mu with the central strokes reminiscent of an upsilon on a stem. The words  ἀρχ(άγγελος) and Μιχ(αήλ) are fully rendered by abbreviations. Accents and breathings systematic.  
+                             <handNote>White majuscule letters against blue background. Mu with the central strokes reminiscent of an upsilon on a stem. The words  ἀρχ(άγγελος) and Μιχ(αήλ) are fully rendered by abbreviations. Accents and breathings systematic.  
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Michael">Archangel Michael</rs>
-                            <rs type="iconography" ref="#Archangel"></rs>
-                            <rs type="iconography" ref="#genderless"></rs></p>
+                            <rs type="iconography" ref="#archangel"></rs>
+                            <rs type="iconography" ref="#genderless"></rs>
+                            <rs type="iconography" ref="#dressantique"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

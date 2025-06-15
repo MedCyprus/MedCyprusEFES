@@ -27,21 +27,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semicylindrical wall, north half, lower register, first figure on the left</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, lower register, first figure on the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the right of the prelate's head</layout>
+                                <layout>On the right of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Small round omicron within an almost round final sigma for the saint's name; wavy, diagonal final sigma. The word ἅγιος is abrreviated inside an omicron which indicates the article ὁ. Accents and breathings systematic. Letter height: <height unit="cm">3-3,5</height>
+                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Small round omicron within an almost round final sigma for the saint's name; Gamma and tau with a top bar terminating in serifs; final sigma in the form of a wavy line. Accents and breathings systematic. Letter height: <height unit="cm">3-3,5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#DionysiosAreopagites">Dionysios the Areopagite</rs></p>
+                            <p><rs type="iconography" ref="#DionysiosAreopagites">Dionysios the Areopagite</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,8 +69,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-009-01.JPG"><desc>Bema, semicylindrical wall, north half, lower register, first figure on the left, inscription</desc></graphic>
-        <graphic url="044-009-02.JPG"><desc>Bema, semicylindrical wall, north half, lower register, first figure on the left, general view </desc></graphic>
+         <graphic rend="primary" url="044-009-01.JPG"><desc>Saint Dionysios the Areopagite, inscription detail</desc></graphic>
+        <graphic url="044-009-02.JPG"><desc>Saint Dionysios the Areopagite, inscription</desc></graphic>
+        <graphic url="044-009-03.JPG"><desc>Saint Dionysios the Areopagite, general view </desc></graphic>
         </facsimile>
     <text>
         <body>
@@ -84,17 +87,17 @@
               </ab>
             </div>
             <div type="apparatus">
-               <p>Pending</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Saint Dionysios the Areopagite</p>
             </div>
             <div type="commentary">
-                <p>Good Condition</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 75-6</citedRange></bibl>
+                <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>75-76</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

@@ -34,18 +34,19 @@
                             </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Under the saint's flying mantle</layout>
+                                <layout>Under the figure's flying mantle</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. ΟΥ and ΤΟΥ joined in ligatures. Systematic use of accents. Letter height: <height unit="cm">2,5-3</height>
+                            <handNote>White majuscule letters against blue background. Character size varies. Two abbreviation signs above and below ΔΕ. ΟΥ, ΤΟΥ joined in ligature. Systematic use of accents. Letter height: <height unit="cm">2,5-3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#George">George</rs>
+                            <p><rs type="iconography" ref="#George">George, on horseback</rs>
                                   <rs type="iconography" ref="#martyr"></rs>
                                   <rs type="iconography" ref="#militarysaint"></rs>
-                                  <rs type="iconography" ref="#male"></rs>
+                                  <rs type="iconography" ref="#male"></rs>                                                         
+                                  <rs type="iconography" ref="#dressmilitary"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -80,7 +81,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                <ab>
-                <lb n="1"/><w lemma="δέησις"><expan><abbr rend="supraline">Δέ</abbr><ex>ησις</ex></expan></w> <persName type="attested" role="donor" ref="#Nikephorosthefarrier"><name nymRef="#Νικηφόρος" type="forename">Νικηφ<choice><orig>ο</orig><reg>ό</reg></choice> <lb n="2" break="no"/>ρ<hi rend="ligature">ου</hi></name></persName> <hi rend="ligature">τοῦ</hi> <choice><sic>Καλλ<choice><orig>η</orig><reg>ή</reg></choice><choice><orig>ά</orig><reg>α</reg></choice></sic><corr>Καλλία</corr></choice>
+                <lb n="1"/><w lemma="δέησις"><expan><abbr rend="supraline">Δέ</abbr><ex>ησις</ex></expan></w> <persName type="attested" role="donor" ref="#Nikephorosthefarrier"><name nymRef="#Νικηφόρος" type="forename">Νικηφ<choice><orig>ο</orig><reg>ό</reg></choice> <lb n="2" break="no"/>ρ<hi rend="ligature">ου</hi></name> <hi rend="ligature">τοῦ</hi> <name nymRef="#Καλλίας" type="surname"><choice><sic>Καλλ<choice><orig>η</orig><reg>ή</reg></choice><choice><orig>ά</orig><reg>α</reg></choice></sic><corr>Καλλία</corr></choice></name></persName>
             </ab></div>
             <div type="apparatus">
                 <listApp>

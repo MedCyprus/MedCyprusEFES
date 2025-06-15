@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Kosmas</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, northwestern recess' soffit, west half, upper figure</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against brown background. Majuscule letters. Characters' size varies. Sigma with a diagonal stem and a tail. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Kosmas">Kosmas</rs></p>
+                            <p><rs type="iconography" ref="#Kosmas">Kosmas</rs>
+                            <rs type="iconography" ref="#monastic"></rs>
+                                  <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,14 +70,22 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-186-01.JPG"><desc>Naos, northwestern recess' soffit, west half, upper figure, inscription</desc></graphic>
-        <graphic url="036-186-02.JPG"><desc>Naos, northwestern recess' soffit, west half, upper figure, general view</desc></graphic>
+         <graphic rend="primary" url="036-186-01.JPG"><desc>Saint Kosmas, inscription</desc></graphic>
+        <graphic url="036-186-02.JPG"><desc>Saint Kosmas, general view</desc></graphic>
       </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice>
+                   <lb n="2"/><persName type="sacred" key="Cosmas"><w lemma="ἅγιος">ἅ
+                   <lb n="3" break="no"/>γ<choice><orig>ϊ</orig><reg>ı</reg></choice>
+                   <lb n="4" break="no"/>ος</w>
+                   <cb n="b"/>
+                     <lb n="1"/><name nymRef ="#Κοσμᾶς" type="forename">Κοσ
+                      <lb n="2" break="no"/>μ
+                       <lb n="3" break="no"/><choice><orig>ά</orig><reg>ᾶ</reg></choice>ς</name></persName>
                 </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +95,7 @@
                 <p>Saint Kosmas</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

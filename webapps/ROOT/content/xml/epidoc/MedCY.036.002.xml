@@ -38,13 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>White letters against blue background. Majuscule letters. Xi is placed above alpha and rho as a superscript. Beta with two bowls, the upper one smaller than the other, attached to its stem with space between them. The word ὁ ἀρχάγγελος is rendered by an abbreviation. Accents and breathings non systematic.
+                             <handNote>White majuscule letters against blue background. Xi is placed above alpha and rho as a superscript. Beta with two bowls, the upper one smaller than the other, attached to its stem with space between them. Abbreviation mark above ΑΡΧ. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Gabriel">Archangel Gabriel</rs>
-                                <rs type="iconography" ref="#Archangel"></rs>
+                                <rs type="iconography" ref="#archangel"></rs>
                                 <rs type="iconography" ref="#genderless"></rs>
+                                <rs type="iconography" ref="#dressantique"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -67,7 +68,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publications</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>

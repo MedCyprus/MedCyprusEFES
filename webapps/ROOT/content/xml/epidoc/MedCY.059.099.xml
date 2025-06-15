@@ -27,14 +27,14 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, lower register, next to St. Andronikos</rs>
                                     <dimensions unit="cm" scope="text"><height>24</height><width>15</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>28</height><width>16</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the open scroll held in the left hand by the saint</layout>
+                                <layout>On the open scroll held in the left hand by the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -42,7 +42,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#DanielOfSketis">Daniel of Sketis</rs></p>
+                            <p><rs type="iconography" ref="#DanielOfSketis">Daniel of Sketis</rs>
+                            <rs type="iconography" ref="#monastic"></rs> 
+                            <rs type="iconography" ref="#male"></rs>   
+                            <rs type="iconography" ref="#scroll"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,10 +71,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-099-01.JPG"><desc>Naos, west wall, lower register, next to St. Andronikos, inscription</desc></graphic>
-        <graphic url="059-099-02.JPG"><desc>Naos, west wall, lower register, next to St. Andronikos, general view</desc></graphic>
-        <graphic url="059-099-03.JPG"><desc>Naos, west wall, lower register, next to St. Andronikos, inscription</desc></graphic>
-        <graphic url="059-099-04.JPG"><desc>Naos, west wall, lower register, next to St. Andronikos, inscription</desc></graphic>
+         <graphic rend="primary" url="059-099-01.JPG"><desc>Saint Daniel of Sketis' scroll, inscription</desc></graphic>
+        <graphic url="059-099-02.JPG"><desc>Saint Daniel of Sketis' scroll, general view</desc></graphic>
+        <graphic url="059-099-03.JPG"><desc>Saint Daniel of Sketis' scroll, inscription</desc></graphic>
+        <graphic url="059-099-04.JPG"><desc>Saint Daniel of Sketis' scroll, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>

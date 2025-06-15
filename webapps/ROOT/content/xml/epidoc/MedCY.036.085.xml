@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Prophet David</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,12 +38,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. ΠΡ and TH joined in ligature. Δαυΐδ is rendered by an abbreviation with a big, wavy line above the name. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#David">David</rs>
-                                
                                 <rs type="iconography" ref="#prophet"></rs>
                                 <rs type="iconography" ref="#male"></rs>
                             </p>
@@ -78,7 +78,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                     <cb n="a"/>
+                      <lb n="1"/>Ὁ 
+                        <lb n="2"/><persName type="sacred" key="David"><w lemma="προφήτης"><hi rend="ligature">πρ</hi>
+                        <lb n="3" break="no"/>ο
+                         <lb n="4" break="no"/>
+                        <cb n="b"/>
+                       <lb n="1"/>φή
+                       <lb n="2" break="no"/><hi rend="ligature">τη</hi>ς</w>
+                         <lb n="3"/><name type="forename" nymRef="#Δαυΐδ"><expan><abbr rend="supraline">Δα</abbr><ex>υΐ</ex><abbr rend="supraline">δ</abbr></expan></name><am>&#x00B4;</am></persName> 
                </ab>
             </div>
             <div type="apparatus">
@@ -88,7 +96,7 @@
                 <p>Prophet David</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

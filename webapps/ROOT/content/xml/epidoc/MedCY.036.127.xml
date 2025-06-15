@@ -5,9 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Nativity, Adoration of the Magi</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <title>Nativity, Adoration of the Magi</title>              
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west vault, south side</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mu with the central strokes reminiscent of an upsilon on a stem. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Nativity">Nativity, Adoration of the Magi</rs></p>
+                            <p><rs type="iconography" ref="#Nativity">Nativity, Adoration of the Magi</rs>
+                                   <rs type="iconography" ref="#AdorationMagi"></rs>
+                                   <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,14 +70,14 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-127-01.JPG"><desc>Naos, west vault, south side, inscription</desc></graphic>
-        <graphic url="036-127-02.JPG"><desc>Naos, west vault, south side, general view</desc></graphic>
+         <graphic rend="primary" url="036-127-01.JPG"><desc>Nativity, Adoration of the Magi, inscription</desc></graphic>
+        <graphic url="036-127-02.JPG"><desc>Nativity, Adoration of the Magi, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><g ref="#cross">+</g>Ἡ <persName type="sacred" key="BiblicalMagi"><w lemma="μάγος">Μάγοι</w></persName>
                 </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +87,7 @@
                 <p>Magi</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

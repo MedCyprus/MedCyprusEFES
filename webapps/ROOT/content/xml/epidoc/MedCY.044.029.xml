@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Birth of the Virgin, Joachim</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,21 +28,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, northeast recess, lunette, upper register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the right of the Joachim’s head</layout>
+                                <layout>On the right of the figure’s head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. The word ἅγιος is abbreviated inside an omicron which indicates the article. Small thin lines in the circular parts of the omega. Accents and breathings almost systematic.
+                            <handNote>White letters against blue background. Majuscule letters. Omega formed of two linked round bowls, each with an inward-curving spine. Kappa with the arm terminating in a long serif. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#BirthVirgin">Birth of the Virgin</rs></p>
+                            <p><rs type="iconography" ref="#BirthVirgin">Birth of the Virgin, Joachim</rs>
+                                   <rs type="iconography" ref="#Joachim"></rs>
+                                   <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,18 +70,18 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-029-01.JPG"><desc>Bema, northeast recess, lunette, upper register, inscription detail</desc></graphic>
-        <graphic url="044-029-02.JPG"><desc>Bema, northeast recess, center, lunette, upper register, inscription</desc></graphic>
-        <graphic url="044-029-03.JPG"><desc>Bema, northeast recess, center, lunette, upper register, general view </desc></graphic>
+         <graphic rend="primary" url="044-029-01.JPG"><desc>Birth of the Virgin, Joachim, inscription detail</desc></graphic>
+        <graphic url="044-029-02.JPG"><desc>Birth of the Virgin, Joachim, inscription</desc></graphic>
+        <graphic url="044-029-03.JPG"><desc>Birth of the Virgin, Joachim, general view </desc></graphic>
         </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                    <lb n="1"/>Ὁ<persName type="sacred" key="Joachim"><w lemma="ἅγιος"><expan><abbr rend="supraline"> ἅ</abbr><ex>γιος</ex></expan></w>
-                    <lb n="2"/><name type="forename" nymRef="#Ἰωακείμ"> <choice><orig>Ἱ</orig><reg>Ἰ</reg></choice><choice><orig>ὠ</orig><reg>ω</reg></choice><supplied reason="omitted">α</supplied>
+                    <lb n="2"/><name type="forename" nymRef="#Ἰωακείμ"> <choice><sic><choice><orig>Ἱ</orig><reg>Ἰ</reg></choice><choice><orig>ὠ</orig><reg>ω</reg></choice><supplied reason="omitted">α</supplied>
                     <lb n="3" break="no"/>κ<choice><orig>η</orig><reg>εί</reg></choice>
-                    <lb n="4" break="no"/>μ<am>&#x00A0;΄&#x00A0;</am></name></persName>
+                    <lb n="4" break="no"/>μ<am>&#x00A0;΄&#x00A0;</am></sic><corr>Ἰωακείμ</corr></choice></name></persName>
                 </ab> 
             </div>
             <div type="apparatus">
@@ -89,7 +91,7 @@
                 <p>Saint Joachim</p>
             </div>
             <div type="commentary">
-                <p>Good condition. At the beginning of the name, the letter alpha is missing after iota and there is a spelling error in the final syllable with eta instead of epsilon iota (Ἱὠκημ instead of Ἰωακείμ). Accent after mu.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
