@@ -75,11 +75,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab><lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μή</abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
-                    <milestone unit="column"/> <expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></persName>       
+                    <milestone unit="column"/> <expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan>    
                   <lb n="1"/>Ἡ <addName type="epithet" key="Eleousa">Ἐ
                       <lb n="2" break="no"/>λε
                    <lb n="3" break="no"/><hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi>
-                   <lb n="4" break="no"/>σα</addName>   
+                   <lb n="4" break="no"/>σα</addName></persName>  
                   
               </ab>
             </div>
