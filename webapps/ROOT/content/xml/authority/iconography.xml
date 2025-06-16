@@ -748,15 +748,41 @@
                     <term xml:lang="en">Zosimas</term></item>
             </list>
 
-            <list type="individual_figure_iconography" xml:id="individual_figures_categories">
+            <!--<list type="individual_figure_iconography" xml:id="individual_figures_categories">
                 <head>Individual Figure Iconographic Types</head>
 
-                <item xml:id="dressantique"><!-- for angels -->
+                <item xml:id="dressantique"><!-\- for angels -\->
                     <term xml:lang="en">dress, antique</term>
                 </item>
                 <item xml:id="dresscivilian">
                     <term xml:lang="en">dress,
-                    civilian</term><!-- for angels and military martyrs -->
+                    civilian</term><!-\- for angels and military martyrs -\->
+                </item>
+                <item xml:id="dressdeacon"><!-\- for angels -\->
+                    <term xml:lang="en">dress, deacon's</term>
+                </item>
+                <item xml:id="dressimperial"><!-\- for angels -\->
+                    <term xml:lang="en">dress, imperial</term>
+                </item>
+                <item xml:id="dressmilitary">
+                    <term xml:lang="en">dress,
+                    military</term><!-\- for angels and military martyrs -\->
+                </item>
+                <item xml:id="dressunidentifiable">
+                    <term xml:lang="en">dress,
+                    unidentifiable</term><!-\- for angels and military martyrs -\->
+                </item>
+            </list>-->
+
+            <list type="individual_figures_categories" xml:id="individual_figures_categories">
+                <head>Individual Figure Categories</head>
+
+                <item xml:id="dressantique">
+                    <term xml:lang="en">dress, antique</term>
+                </item>
+                <item xml:id="dresscivilian">
+                    <term xml:lang="en">dress,
+                        civilian</term><!-- for angels and military martyrs -->
                 </item>
                 <item xml:id="dressdeacon"><!-- for angels -->
                     <term xml:lang="en">dress, deacon's</term>
@@ -766,17 +792,12 @@
                 </item>
                 <item xml:id="dressmilitary">
                     <term xml:lang="en">dress,
-                    military</term><!-- for angels and military martyrs -->
+                        military</term><!-- for angels and military martyrs -->
                 </item>
                 <item xml:id="dressunidentifiable">
                     <term xml:lang="en">dress,
-                    unidentifiable</term><!-- for angels and military martyrs -->
+                        unidentifiable</term><!-- for angels and military martyrs -->
                 </item>
-            </list>
-
-            <list type="individual_figures_categories" xml:id="individual_figures_categories">
-                <head>Individual Figure Categories</head>
-
                 <item xml:id="angelicpower">
                     <term xml:lang="en">Angelic Power</term>
                 </item>

@@ -15,7 +15,7 @@
   <xsl:param name="subdirectory" />
 
   <xsl:template match="/">
-    <add>
+    <add>This 
       <!-- EM idea of column with co-occuring keywords. put all rs/@ref in an array
              process them so that each item is a keyword, and there is another set of the remaining items. 
              put the latter in a column. Make them links to other items in the index. The-->
