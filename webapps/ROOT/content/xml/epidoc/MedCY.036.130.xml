@@ -38,15 +38,15 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>White letters against brown background. Majuscule letters. Delta with a bottom bar terminating in serifs at either end. Mu with the central strokes reminiscent of an upsilon on a stem. Accents and breathings systematic.
+                             <handNote>White majuscule letters against brown background. Delta with a bottom bar terminating in serifs at either end. Mu with the central strokes reminiscent of an upsilon on a stem. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#DescentIntoHell">Descent into Hell, Adam</rs>
-                            <rs type="iconography" ref="#Eve">
-                                <rs type="iconography" ref="#Christ"></rs>
-                                   <rs type="iconography" ref="#christological"></rs>
-                            </rs>
+                                  <rs type="iconography" ref="#Adam"></rs>
+                                  <rs type="iconography" ref="#Eve"></rs>
+                                  <rs type="iconography" ref="#Christ"></rs>
+                                  <rs type="iconography" ref="#christological"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -80,7 +80,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/>Ὁ <persName type="divine" key="Adam"><name nymRef="#Ἀδάμ" type="forename">Ἀδάμ</name></persName>
+                   <lb n="1"/>Ὁ <persName type="sacred" key="Adam"><name nymRef="#Ἀδάμ" type="forename">Ἀδάμ</name></persName>
                 </ab>
             </div>
             <div type="apparatus">
