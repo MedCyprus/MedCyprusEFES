@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against grey background. Majuscule letters. Characters' size varies. Horizontal wavy line above all the abbreviations. Letter height: <height unit="cm">8-9,5</height>
+                            <handNote>Black majuscule letters against grey background. Character size varies. Horizontal, wavy line above all the abbreviations. Letter height: <height unit="cm">8-9,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -76,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="divine" key="Christ"><name nymRef="#Ἰησοῦς"><expan><supplied reason="lost"><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex></supplied><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></name></persName>
+                    <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς" type="forename"><expan><supplied reason="lost"><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex></supplied><abbr rend="supraline">ς</abbr></expan> <milestone unit="column" n="right"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></addName></name></persName>
                    <lb n="2"/><persName type="divine" key="SonOfGod"><supplied reason="lost"><expan><abbr rend="supraline">Υἱ</abbr><ex>ὸ</ex><abbr rend="supraline">ς</abbr></expan></supplied> <milestone unit="column" n="right"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>
                     <lb n="3"/><w lemma="νικῶ"><supplied reason="lost">Νι</supplied> <milestone unit="column"/>κ<choice><orig>α</orig><reg>ᾷ</reg></choice></w>
                     <lb n="4"/> <gap reason="lost" extent="unknown" unit="character"></gap><milestone unit="column" n="right"/><abbr rend="supraline">Τ</abbr>
