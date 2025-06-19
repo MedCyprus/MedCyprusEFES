@@ -38,13 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>White letters against brown background. Majuscule letters. Beta with two squared bowls attached to its stem. Accents and breathings non systematic.
+                             <handNote>White majuscule letters against brown background. Beta with two squared bowls attached to its stem. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#DescentIntoHell">Descent into Hell, Eve</rs>
-                            <rs type="iconography" ref="#Adam"></rs>
-                                <rs type="iconography" ref="#Christ"></rs>
+                                   <rs type="iconography" ref="#Eve"></rs>
+                                   <rs type="iconography" ref="#Adam"></rs>
+                                   <rs type="iconography" ref="#Christ"></rs>
                                    <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
@@ -78,7 +79,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                     <lb n="1"/>Ἡ <persName type="divine" key="Εve"><name nymRef="#Εὔα" type="forename"><choice><sic><choice><orig>Έ</orig><reg>Ε</reg></choice>βα</sic><corr>Εὔα</corr></choice></name></persName> 
+                     <lb n="1"/>Ἡ <persName type="sacred" key="Εve"><name nymRef="#Εὔα" type="forename"><choice><sic><choice><orig>Έ</orig><reg>Ε</reg></choice>βα</sic><corr>Εὔα</corr></choice></name></persName> 
                 </ab>
             </div>
             <div type="apparatus">
