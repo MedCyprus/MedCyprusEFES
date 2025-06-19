@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>White letters against brown background. Majuscule letters. Characters' size varies. Horizontal wavy line above all the abbreviations. Accents and breathings non systematic. 
+                             <handNote>White majuscule letters against brown background. Character size varies. Horizontal, wavy line above all the abbreviations. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#keramidion">keramidion, Christ</rs></p>
+                            <p><rs type="iconography" ref="#keramidion">keramidion, Christ</rs>
+                                   <rs type="iconography" ref="#Christ"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -75,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς<am> &#x00A0;῀&#x00A0;</am></abbr></expan>
+                   <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς<am> &#x00A0;῀&#x00A0;</am></abbr></expan>
                     <milestone unit="column"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></name></persName>     
                  
                 </ab>
