@@ -39,7 +39,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Constantine">Constantine</rs></p>
+                            <p><rs type="iconography" ref="#Constantine">Constantine</rs>
+                                  <rs type="iconography" ref="#male"></rs>
+                                  <rs type="iconography" ref="#imperial"></rs></p>
                             </decoDesc>
                     </physDesc>
                     <history>
