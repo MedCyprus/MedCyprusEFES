@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Majuscule letters. Characters' size varies. Mu with its middle bar forms a tau; omega with crosslet. ΟΥ, ΤΟ, ΠΝ in ligatures. Double point before καταφυγή and σκέπη. Near systematic use of accents and breathings. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">3-3,5</height>
+                            <handNote>Black majuscule letters against white background. Character size varies. Mu with its middle bar forms a tau; omega with crosslet. ΟΥ, ΤΟ, ΠΝ joined in ligature. Double point before καταφυγή and σκέπη. Near systematic use of accents and breathings. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">3-3,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -80,7 +80,7 @@
                 <ab>
                     <lb n="1"/><supplied reason="lost">Ἡ <w lemma="ἐλπίς">ἐλπίς</w></supplied>
                     <lb n="2"/><supplied reason="lost"><w lemma="ἐγώ">μου</w> ὁ</supplied> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><supplied reason="lost"><abbr rend="supraline">ς</abbr></supplied></expan></w></persName>
-                    <lb n="3"/><w lemma="καταφυγή">:<choice><sic>καταφη<lb n="4" break="no"/>γ<choice><orig>ι</orig><reg>ί</reg></choice></sic><corr>καταφυ<lb n="4" break="no"/>γή</corr></choice></w> <w lemma="ἐγώ">μ<hi rend="ligature">ου</hi></w> ὁ <persName type="divine" key="Christ"><name nymRef="#Χριστός"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></name></persName>
+                    <lb n="3"/><w lemma="καταφυγή">:<choice><sic>καταφη<lb n="4" break="no"/>γ<choice><orig>ι</orig><reg>ί</reg></choice></sic><corr>καταφυ<lb n="4" break="no"/>γή</corr></choice></w> <w lemma="ἐγώ">μ<hi rend="ligature">ου</hi></w> ὁ <persName type="divine" key="Christ"><name nymRef="#Χριστός" type="forename"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></name></persName>
                     <lb n="5"/><w lemma="σκέπη">:<choice><sic>σκαίπι</sic><corr>σκέπη</corr></choice></w>
                     <lb n="6"/><w lemma="ἐγώ">μ<hi rend="ligature">ου</hi></w> <hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi> <w lemma="πνεῦμα"><expan><abbr rend="supraline"><hi rend="ligature">πν</hi></abbr><ex>εῦμ</ex><abbr rend="supraline">α</abbr></expan></w>
                     <lb n="7"/><hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi> <w lemma="ἅγιον"><choice><sic><choice><orig>ά</orig><reg>ἅ</reg></choice>γιων</sic><corr>ἅγιον</corr></choice></w>

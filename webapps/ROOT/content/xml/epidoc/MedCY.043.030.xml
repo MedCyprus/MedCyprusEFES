@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. Upsilon is attached to horizontal bar which at its ends has a vertical point. Diagonal final sigma. NN joined in ligature. The word Χ(ριστο)ῦ is abbreviated probably with a big, wavy line above the word, which is now lost. Accents and breathings non systematic. Letter height: <height unit="cm">3</height>
+                            <handNote>White majuscule letters against red background. Character size varies. Upsilon is attached to horizontal bar which at its ends has a vertical point. Diagonal final sigma. NN joined in ligature. The word Χ(ριστο)ῦ is abbreviated probably with a big, wavy line above the word, which is now lost. Accents and breathings non systematic. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -75,7 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="divine" key="Christ"><name nymRef ="#Χριστός"><expan><abbr rend="supraline">Χ</abbr><ex>ριστο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></name></persName> <w lemma="γέννησις"><choice><sic>Γ<choice><orig>ε</orig><reg>έ</reg></choice><hi rend="ligature">νν</hi>ισης</sic><corr>γέννησις</corr></choice></w>
+                    <lb n="1"/><persName type="divine" key="Christ"><name nymRef ="#Χριστός" type="forename"><expan><abbr rend="supraline">Χ</abbr><ex>ριστο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></name></persName> <w lemma="γέννησις"><choice><sic>Γ<choice><orig>ε</orig><reg>έ</reg></choice><hi rend="ligature">νν</hi>ισης</sic><corr>γέννησις</corr></choice></w>
                  </ab>
             </div>
             <div type="apparatus">
