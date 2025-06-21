@@ -83,8 +83,8 @@
                     <lb n="3" break="no"/>
                     <cb n="b"/>
                     <lb n="1"/>γγελ<supplied reason="lost">ί</supplied>
-                    <lb n="2" break="no"/>ου</w> <persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς " type="forename"></name><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><supplied reason="lost"><ex>ησο</ex><abbr rend="supraline">ῦ</abbr></supplied></expan>
-                    <lb  n="3"/><addName type="epithet" subtype="JesusChrist" key="Christ"><supplied reason="lost"><expan><abbr rend="supraline">Χ</abbr><ex>ριστο</ex><abbr rend="supraline">ῦ</abbr></expan></supplied></addName></persName>
+                    <lb n="2" break="no"/>ου</w> <persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><supplied reason="lost"><ex>ησο</ex><abbr rend="supraline">ῦ</abbr></supplied></expan>
+                    <lb  n="3"/><addName type="epithet" subtype="JesusChrist" key="Christ"><supplied reason="lost"><expan><abbr rend="supraline">Χ</abbr><ex>ριστο</ex><abbr rend="supraline">ῦ</abbr></expan></supplied></addName></name></persName>
                 </ab>
             </div>
             <div type="apparatus">
