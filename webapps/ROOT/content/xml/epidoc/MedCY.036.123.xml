@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>White letters against black backgrounds. Majuscule letters. Mu with the central strokes reminiscent of an upsilon on a stem and surmounted by a dot. MHΡ joined in ligature. The words Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, horizontal line above each word. Accents and breathings systematic.
+                             <handNote>White majuscule letters against black backgrounds. Mu with the central strokes reminiscent of an upsilon on a stem and surmounted by a dot. MHΡ joined in ligature. Wavy, horizontal abbreviation mark above ΜΗΡ ΘΥ. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -77,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><persName type="sacred" key="MeterTheou"><addName nymRef="#Μήτηρ Θεοῦ"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μή</abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w> <w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></w></addName></persName>
+                   <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μή</abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w> <w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></w></persName>
                 </ab>
             </div>
             <div type="apparatus">

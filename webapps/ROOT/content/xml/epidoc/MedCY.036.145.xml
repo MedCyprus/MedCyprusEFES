@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. The nomina sacra Μή(τη)ρ Θ(εο)ῦ are abbreviated. ΜΗΡ joined in ligature. Accents and breathings non systematic.
+                             <handNote>White majuscule letters against blue background. Character size varies. ΜΗΡ joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -76,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <persName type="sacred" key="MeterTheou"><addName nymRef="#Μήτηρ Θεοῦ"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w> <milestone unit="column" n="right"/><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice><am>&#x00A0;῀&#x00A0;</am></abbr></expan></w></addName></persName> 
+                   <persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w> <milestone unit="column" n="right"/><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice><am>&#x00A0;῀&#x00A0;</am></abbr></expan></w></persName> 
                 </ab>
             </div>
             <div type="apparatus">
