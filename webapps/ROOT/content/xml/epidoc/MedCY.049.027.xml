@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Accents and breathings non systematic.
+                            <handNote>White majuscule letters against blue background. Character size varies. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -88,7 +88,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/>κ<unclear>α</unclear><unclear>ὶ</unclear><space quantity="6" unit="character"></space> <w lemma="προσκυνῶ">προ<space quantity="6" unit="character"></space>σκυ<space quantity="6" unit="character"></space>νη<space quantity="6" unit="character"></space> σ<supplied reason="lost">άτ<space quantity="6" unit="character"></space>ωσαν</supplied></w><space quantity="6" unit="character"></space><w lemma="αὐτός"><supplied reason="lost">αὐτ<space quantity="6" unit="character"></space> </supplied><unclear>ῷ</unclear></w><space quantity="6" unit="character"></space><w lemma="πᾶς">πάν<space quantity="6" unit="character"></space> τες</w><space quantity="6" unit="character"></space><w lemma="ἄγγελοι">ἄ<space quantity="6" unit="character"></space> γγε <space quantity="6" unit="character"></space> λοι</w><space quantity="6" unit="character"></space><persName type="divine" key="God"><name nymRef="#Θεός"><w lemma="Θεός"><expan><abbr>Θ</abbr><ex>εο</ex>ῦ</expan></w></name></persName>        
+                    <lb n="1"/>κ<unclear>α</unclear><unclear>ὶ</unclear><space quantity="6" unit="character"></space> <w lemma="προσκυνῶ">προ<space quantity="6" unit="character"></space>σκυ<space quantity="6" unit="character"></space>νη<space quantity="6" unit="character"></space> σ<supplied reason="lost">άτ<space quantity="6" unit="character"></space>ωσαν</supplied></w><space quantity="6" unit="character"></space><w lemma="αὐτός"><supplied reason="lost">αὐτ<space quantity="6" unit="character"></space> </supplied><unclear>ῷ</unclear></w><space quantity="6" unit="character"></space><w lemma="πᾶς">πάν<space quantity="6" unit="character"></space> τες</w><space quantity="6" unit="character"></space><w lemma="ἄγγελοι">ἄ<space quantity="6" unit="character"></space> γγε <space quantity="6" unit="character"></space> λοι</w><space quantity="6" unit="character"></space><persName type="divine" key="God"><w lemma="Θεός"><expan><abbr>Θ</abbr><ex>εο</ex>ῦ</expan></w></persName>        
               </ab>
             </div>
             <div type="apparatus">

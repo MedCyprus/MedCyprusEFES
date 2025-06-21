@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Majuscule letters. Characters' size varies. Superscripts letters. In line 1, round omicron with four semicircular dots stuck on its walls forming an abstract cross; theta with crosslet attached to nearly round sigma; omega with crosslet. HM, ΗΝ in ligatures. Mu with its middle bar forms an upsilon with a dot at the top of its vertical line. Horizontal wavy line above the abbreviations of Θ(εό)ς. Accents and breathings with errors. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">3-4</height>
+                            <handNote>Black majuscule letters against white background. Character size varies. Superscripts letters. In line 1, round omicron with four semicircular dots stuck on its walls forming an abstract cross; theta with crosslet attached to nearly round sigma; omega with crosslet. HM, ΗΝ joined in ligature. Mu with its middle bar forms an upsilon with a dot at the top of its vertical line. Wavy, horizontal abbreviation mark ΘC. Accents and breathings with errors. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">3-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -81,8 +81,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   <lb n="1"/> Ὁ <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></w></persName>,                   
-                    <lb n="2"/><choice><orig>ο</orig><reg>ὁ</reg></choice> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></w></persName> <w lemma="ἐγώ"><expan><abbr rend="supraline"><hi rend="ligature">ἡμ</hi>ῶ</abbr><ex>ν</ex></expan></w>
+                   <lb n="1"/> Ὁ <persName type="divine" key="God"><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></w></persName>,                   
+                    <lb n="2"/><choice><orig>ο</orig><reg>ὁ</reg></choice> <persName type="divine" key="God"><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></w></persName> <w lemma="ἐγώ"><expan><abbr rend="supraline"><hi rend="ligature">ἡμ</hi>ῶ</abbr><ex>ν</ex></expan></w>
                     <lb n="3"/>ὁ <w><choice><sic>τὼν</sic><corr>τὸν</corr></choice></w> <w lemma="οὐράνιος"><choice><choice><sic>ο<choice><orig>ὑ</orig><reg>ὐ</reg></choice><lb n="4" break="no"/>ράνιων</sic><corr>οὐ<lb n="4" break="no"/>ράνιον</corr></choice></choice></w>
                     <lb n="5"/><w lemma="ἄρτος"><choice><sic><choice><orig>ά</orig><reg>ἄ</reg></choice>ρτων</sic><corr>ἄρτον</corr></choice></w> <hi rend="ligature">τ<choice><orig>η</orig><reg>ὴ</reg></choice></hi>ν 
                     <lb n="6"/><w lemma="τροφή"><expan><abbr rend="supraline">τροφ<supplied reason="lost">ή</supplied></abbr><ex>ν</ex>.</expan></w>

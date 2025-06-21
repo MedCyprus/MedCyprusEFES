@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against brown background. Majuscule letters. Characters' size varies. Delta with a bottom bar terminating in serif to the left. ΟΥ ligatured with a superscript tau above it. Accents and breathings non systematic.
+                            <handNote>White majuscule letters against brown background. Character size varies. Delta with a bottom bar terminating in serif to the left. ΟΥ ligatured with a superscript tau above it. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -78,7 +78,7 @@
               <lb n="1"/> <g ref="#cross">+</g> <w lemma="δέησις"><expan><abbr rend="supraline">Δ<choice><orig>ε</orig><reg>έ</reg></choice></abbr><ex>ησις</ex></expan></w> 
               <lb n="2"/>τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <w lemma="δοῦλος">δού
               <lb n="3" break="no"/>λου</w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> 
-              <lb n="4"/><persName type="divine" key="God"><name nymRef="#Θεός"></name><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>· <persName type="attested" role="donor" ref="#GeorgiosKompotes"><name nymRef="#Γεώργιος" type="forename">Γε-
+              <lb n="4"/><persName type="divine" key="God"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>· <persName type="attested" role="donor" ref="#GeorgiosKompotes"><name nymRef="#Γεώργιος" type="forename">Γε-
                <lb n="5"/>ωρ[γι]
                <lb n="6" break="no"/><hi rend="ligature">ου</hi></name> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <name nymRef="#Κομπότης" type="surname"><unclear>Κ</unclear>ο
                <lb n="7" break="no"/>μπoτη</name></persName>

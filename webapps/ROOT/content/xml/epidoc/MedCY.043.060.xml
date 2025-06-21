@@ -79,7 +79,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><supplied reason="lost">Ἡ <w lemma="ἐλπίς">ἐλπίς</w></supplied>
-                    <lb n="2"/><supplied reason="lost"><w lemma="ἐγώ">μου</w> ὁ</supplied> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><supplied reason="lost"><abbr rend="supraline">ς</abbr></supplied></expan></w></persName>
+                    <lb n="2"/><supplied reason="lost"><w lemma="ἐγώ">μου</w> ὁ</supplied> <persName type="divine" key="God"><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><supplied reason="lost"><abbr rend="supraline">ς</abbr></supplied></expan></w></persName>
                     <lb n="3"/><w lemma="καταφυγή">:<choice><sic>καταφη<lb n="4" break="no"/>γ<choice><orig>ι</orig><reg>ί</reg></choice></sic><corr>καταφυ<lb n="4" break="no"/>γή</corr></choice></w> <w lemma="ἐγώ">μ<hi rend="ligature">ου</hi></w> ὁ <persName type="divine" key="Christ"><name nymRef="#Χριστός" type="forename"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></name></persName>
                     <lb n="5"/><w lemma="σκέπη">:<choice><sic>σκαίπι</sic><corr>σκέπη</corr></choice></w>
                     <lb n="6"/><w lemma="ἐγώ">μ<hi rend="ligature">ου</hi></w> <hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi> <w lemma="πνεῦμα"><expan><abbr rend="supraline"><hi rend="ligature">πν</hi></abbr><ex>εῦμ</ex><abbr rend="supraline">α</abbr></expan></w>

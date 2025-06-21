@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>White letters against red background. Majuscule letters. Characters' size varies. Alphas in superscript. OY and TO joined in ligature. Horizontal line above the abbreviation of Κ(υρίο)υ. Accents and breathings non systematic. 
+                             <handNote>White majuscule letters against red background. Character size varies. Alphas in superscript. OY and TO joined in ligature. Horizontal abbreviation mark above ΚΥ. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -77,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/><g ref="#cross">+</g><w lemma="Ἰδού">᾿Ïδ<hi rend="ligature">οὺ</hi></w> ἡ <w lemma="δούλη">δ<hi rend="ligature">ού</hi>λη</w> <persName type="divine" key="Lord"><name nymRef="#Κύριος"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline"><choice><orig>ύ</orig><reg>υ</reg></choice></abbr></expan></w></name></persName>
+                    <lb n="1"/><g ref="#cross">+</g><w lemma="Ἰδού">᾿Ïδ<hi rend="ligature">οὺ</hi></w> ἡ <w lemma="δούλη">δ<hi rend="ligature">ού</hi>λη</w> <persName type="divine" key="Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline"><choice><orig>ύ</orig><reg>υ</reg></choice></abbr></expan></w></persName>
                   <lb n="2"/><w lemma="γίγνομαι">γ<choice><orig>ε</orig><reg>έ</reg></choice>νοι<hi rend="ligature">τό</hi></w> <w lemma="ἐγώ">μοι</w> κ<choice><orig>ὰ</orig><reg>α</reg></choice>τὰ 
                   <lb n="3"/>τ<choice><orig>ο</orig><reg>ὸ</reg></choice> <w lemma="ῥῆμα"><choice><orig>ρ</orig><reg>ῥ</reg></choice><choice><orig>ή</orig><reg>ῆ</reg></choice>μα</w> <w lemma="σύ">σ<hi rend="ligature">ου</hi></w>
                </ab>
