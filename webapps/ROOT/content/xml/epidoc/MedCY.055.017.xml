@@ -31,11 +31,11 @@
                                     </support>
                             </supportDesc>
                              <layoutDesc>
-                                <layout>The inscription appears on the open scroll held in the left hand by the prophet.</layout>
+                                <layout>On the open scroll held in the left hand by the prophet</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Text between two ochre-coloured ruled lines. Majuscule letters. Characters' size varies. Round omicron attached to nearly round final sigma, a feature that we encounter in manuscripts. In the middle of the horizontal bar of Π letter, there is a short, thin line, very frequent in Sotera. ΑΙ in ligature. Accents and breathings systematic. Letter height: <height unit="cm">4</height>
+                            <handNote>Black majuscule letters against white background. Text between two ochre-coloured ruled lines. Character size varies. Round omicron attached to nearly round final sigma, a feature that we encounter in manuscripts. In the middle of the horizontal bar of Π letter, there is a short, thin line, very frequent in Sotera. ΑΙ in ligature. Accents and breathings systematic. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -76,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                  <lb n="1"/>Ἡ <persName type="sacred" key="Virgin"><addName nymRef="#Παρθένος"></addName><w lemma="Παρθένος"><choice><sic>Παρθαί<lb n="2" break="no"/>νος</sic><corr>Παρθέ<lb n="2" break="no"/>νος</corr></choice></w></persName> <w lemma="σήμερον"><choice><sic><expan><abbr>σύμ<hi rend="ligature">αι</hi></abbr><ex>ρον</ex></expan></sic><corr>σήμερον</corr></choice></w>
+                  <lb n="1"/>Ἡ <persName type="sacred" key="Virgin"><name nymRef="#Παρθένος"></name><w lemma="Παρθένος"><choice><sic>Παρθαί<lb n="2" break="no"/>νος</sic><corr>Παρθέ<lb n="2" break="no"/>νος</corr></choice></w></persName> <w lemma="σήμερον"><choice><sic><expan><abbr>σύμ<hi rend="ligature">αι</hi></abbr><ex>ρον</ex></expan></sic><corr>σήμερον</corr></choice></w>
                 </ab>
             </div>
             <div type="apparatus">

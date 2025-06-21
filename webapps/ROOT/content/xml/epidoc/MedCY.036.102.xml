@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mu with the central strokes reminiscent of an upsilon on a stem and surmounted by a dot. TH and OY joined in ligature. The word Θεοτόκου is fully rendered by an abbreviation with a big, horizontal line above the word. Accents and breathings non systematic. 
+                             <handNote>White majsucule letters against blue background. Character size varies. Mu with the central strokes reminiscent of an upsilon on a stem and surmounted by a dot. TH and OY joined in ligature. The word Θεοτόκου is fully rendered by an abbreviation with a big, horizontal line above the word. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -82,7 +82,7 @@
                    <cb n="a"/>
                    <lb n="1"/><g ref="#cross">+</g>Ἡ <w lemma="κοίμησις">κοίμησις</w>
                   <cb n="b"/>
-                  <lb n="1"/>τ<choice><orig>ῆ</orig><reg>η</reg></choice>ς <w lemma="ὑπεραγία">ὑπεραγίας</w> <persName type="sacred" key="Theotokos"><addName nymRef="#Θεοτόκος"><expan><abbr rend="supraline">Θ</abbr><ex>εοτό</ex><abbr rend="supraline">κ<hi rend="ligature">ου</hi></abbr></expan></addName></persName>
+                  <lb n="1"/>τ<choice><orig>ῆ</orig><reg>η</reg></choice>ς <w lemma="ὑπεραγία">ὑπεραγίας</w> <persName type="sacred" key="Theotokos"><expan><abbr rend="supraline">Θ</abbr><ex>εοτό</ex><abbr rend="supraline">κ<hi rend="ligature">ου</hi></abbr></expan></persName>
                 </ab>
             </div>
             <div type="apparatus">
