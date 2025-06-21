@@ -90,7 +90,7 @@
                   <lb n="4" break="no"/>τον</w>.<w><hi rend="ligature">τὴν</hi></w> <w lemma="τροφή">τρο
                   <lb n="5" break="no"/>φ<hi rend="ligature">ήν</hi></w> <w>τ<hi rend="ligature">oῦ</hi></w> <w lemma="παντὸς">παν
                     <lb n="6" break="no"/>τὸς</w> <w lemma="κόσμος">κόσμ<hi rend="ligature">ου</hi></w>
-                  <lb n="7"/><w>τὸν</w> <persName type="divine" key="Lord"><name nymRef="Κύριος"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύριο</ex><abbr rend="supraline">ν</abbr></expan></w></name></persName> <w lemma="ἐγώ">ἡ
+                  <lb n="7"/><w>τὸν</w> <persName type="divine" key="Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύριο</ex><abbr rend="supraline">ν</abbr></expan></w></persName> <w lemma="ἐγώ">ἡ
                  <lb n="8" break="no"/>μῶ<hi rend="ligature">νκ</hi>αὶ</w> <persName type="divine" key="God"><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline"><supplied reason="lost">ν</supplied></abbr></expan></w></persName>
                   <lb n="9"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"> <expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ν</abbr></expan> <supplied reason="omitted"><addName type="epithet" subtype="JesusChrist" key="Christ">Χριστόν</addName></supplied></name></persName> <w lemma="ἐξαποστέλλω">ἐξαπο
                 <lb n="10" break="no"/>στε<choice><orig>ı</orig><reg>ἰ</reg></choice>λας</w>.<w lemma="σωτηρία"><expan><abbr rend="supraline">σ</abbr><ex>ωτη</ex><abbr rend="supraline">ρα</abbr></expan></w> <expan><abbr rend="supraline">κ</abbr><ex>αὶ</ex></expan>

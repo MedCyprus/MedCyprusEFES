@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mu with the central strokes reminiscent of an upsilon on a stem. Nu with its central bar forms a diagonal line. ΤΩ, ΝΗ, ΟΥ joined in ligature. Double point after the word σοῦ. Accents and breathings non systematic.
+                            <handNote>White majuscule letters against blue background. Character size varies. Mu with the central strokes reminiscent of an upsilon on a stem. Nu with its central bar forms a diagonal line. ΤΩ, ΝΗ, ΟΥ joined in ligature. Double point after the word σοῦ. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -80,7 +80,7 @@
             <lb n="1"/><space quantity="4" unit="character"></space><g ref="#cross">+</g>
             <lb n="2"/><w lemma="χαίρω">Χα<choice><orig>ι</orig><reg>ῖ</reg></choice>ρε </w><addName type="epithet" subtype="Maria" key="Kecharitomene"><w lemma="κεχαριτωμένη">κε
             <lb n="3" break="no"/>χαρι<hi rend="ligature">τω</hi>μ<choice><orig>ε</orig><reg>έ</reg></choice>
-            <lb n="4" break="no"/><hi rend="ligature">νη</hi></w></addName> ὁ <persName type="divine" key="Lord"><name nymRef="#Κύριος"></name><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύ</ex><abbr rend="supraline">ρι</abbr><ex>ος</ex></expan><am>´</am></w></persName>
+            <lb n="4" break="no"/><hi rend="ligature">νη</hi></w></addName> ὁ <persName type="divine" key="Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύ</ex><abbr rend="supraline">ρι</abbr><ex>ος</ex></expan><am>´</am></w></persName>
             <lb n="5"/>μετ<choice><orig>α</orig><reg>ὰ</reg></choice> 
             <lb n="6"/><w lemma="σύ">σ<hi rend="ligature">οῦ</hi></w>: 
                  </ab>

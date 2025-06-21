@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Mus with their middle bar forming a tau. NH and OY joined in ligature. Horizontal wavy line above the abbreviation of Κύριος. Accents and breathings non systematic. 
+                             <handNote>White majuscule letters against blue background. Character size varies. Mu with their middle bar forming a tau. NH and OY joined in ligature. Wavy, horizontal abbreviation mark line above ΚC. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -77,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/><g ref="#cross">+</g><w lemma="χαίρω">Χα<choice><orig>ί</orig><reg>ῖ</reg></choice>ρε</w> <w lemma="κεχαριτωμένη"><choice><sic>καιχαρïτομέ<hi rend="ligature">νη</hi></sic><corr>κεχαριτωμένη</corr></choice></w> <choice><orig>o</orig><reg>ὁ</reg></choice> <persName  type="divine" key="Lord"><name nymRef="#Κύριος"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύριο</ex><abbr rend="supraline">ς</abbr></expan></w> </name></persName>μετ<choice><orig>ὰ</orig><reg>ά</reg></choice> <w lemma="σύ">σ<hi rend="ligature">οῦ</hi></w> 
+                    <lb n="1"/><g ref="#cross">+</g><w lemma="χαίρω">Χα<choice><orig>ί</orig><reg>ῖ</reg></choice>ρε</w> <w lemma="κεχαριτωμένη"><choice><sic>καιχαρïτομέ<hi rend="ligature">νη</hi></sic><corr>κεχαριτωμένη</corr></choice></w> <choice><orig>o</orig><reg>ὁ</reg></choice> <persName  type="divine" key="Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύριο</ex><abbr rend="supraline">ς</abbr></expan></w> </persName>μετ<choice><orig>ὰ</orig><reg>ά</reg></choice> <w lemma="σύ">σ<hi rend="ligature">οῦ</hi></w> 
                </ab>
             </div>
             <div type="apparatus">

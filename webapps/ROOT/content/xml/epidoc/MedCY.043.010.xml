@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Majuscule letters. Characters' size varies. Superscript nu in line 3. Mu in line 2 with its middle bar forms an upsilon with dot at the top of its vertical line. HM, ΤO in ligatures. Horizontal wavy line above the abbreviations of Κ(ύρι)ε and Θ(εό)ς. The letters' size in the last line is smaller and varies than the rest of the letters of the inscription due to lack of space. Accents and breathings with errors. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">3,5-4,5</height>
+                            <handNote>Black majuscule letters against white background. Character size varies. Superscript nu in line 3. Mu in line 2 with its middle bar forms an upsilon with dot at the top of its vertical line. HM, ΤO  joined in ligature. Wavy, horizontal abbreviation mark above the abbreviations of ΚΕ and ΘC. The letters' size in the last line is smaller and varies than the rest of the letters of the inscription due to lack of space. Accents and breathings with errors. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">3,5-4,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -79,7 +79,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="divine" key="Lord"><name nymRef="#Κύριος"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύρι</ex><abbr rend="supraline">ε</abbr></expan></w></name></persName> <choice><orig>ο</orig><reg>ὁ</reg></choice> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><abbr rend="supraline">ς</abbr></expan></w></persName>
+                    <lb n="1"/><persName type="divine" key="Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύρι</ex><abbr rend="supraline">ε</abbr></expan></w></persName> <choice><orig>ο</orig><reg>ὁ</reg></choice> <persName type="divine" key="God"><name nymRef="#Θεός"></name><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><abbr rend="supraline">ς</abbr></expan></w></persName>
                     <lb n="2"/><w lemma="ἐγώ"><hi rend="ligature">ἡμ</hi><choice><orig>ὼ</orig><reg>ῶ</reg></choice>ν</w>
                     <lb n="3"/><w lemma="σῴζω">σ<choice><orig>ὼ</orig><reg>ῶ</reg></choice>σον </w>
                     <lb n="4"/><hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi>ν <w lemma="λαός">λ<del rend="erasure">α</del>α

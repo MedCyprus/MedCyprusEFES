@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies.
+                            <handNote>White majuscule letters against blue background. Character size varies.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -76,7 +76,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><supplied reason="lost"><w lemma="Ἰδού">Ἰδοὺ</w> ἡ <w lemma="δούλη">δούλη</w></supplied>
-                    <lb n="2"/><supplied reason="lost"><persName type="divine" key="Lord"><name nymRef="#Κύριος"></name><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">υ</abbr></expan></w></persName>· <w lemma="γίγνομαι">γένοιτό</w></supplied>
+                    <lb n="2"/><supplied reason="lost"><persName type="divine" key="Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">υ</abbr></expan></w></persName>· <w lemma="γίγνομαι">γένοιτό</w></supplied>
                     <lb n="3"/><w lemma="ἐγώ"><supplied reason="lost">μοι</supplied></w> κατ<choice><orig>α</orig><reg>ὰ</reg></choice>
                     <lb n="4"/><supplied reason="lost">τὸ <w lemma="ῥῆμα">ῥῆμα</w> </supplied><w lemma="σύ">σ<hi rend="ligature">ου</hi></w>.
                 </ab>

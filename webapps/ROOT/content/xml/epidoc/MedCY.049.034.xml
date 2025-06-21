@@ -38,7 +38,7 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. HM joined in ligature. Horizontal line above the abbreviation of Κ(υρίο)υ. Accents and breathings non systematic. 
+                            <handNote>White majuscule letters against red background. Character size varies. HM joined in ligature. Horizontal abbreviation mark above ΚΥ. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -79,7 +79,7 @@
               <ab>
                    <lb n="1"/><g ref="#cross">+</g><w lemma="Ἰδού">Ἰδοὺ</w>
                    <lb n="2"/>ἡ <w lemma="δούλη">δού
-                  <lb n="3" break="no"/>λη</w> <persName type="divine" key="Lord"><name nymRef="#Κύριος"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline"><choice><orig>ύ</orig><reg>υ</reg></choice></abbr></expan></w></name></persName>
+                  <lb n="3" break="no"/>λη</w> <persName type="divine" key="Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline"><choice><orig>ύ</orig><reg>υ</reg></choice></abbr></expan></w></persName>
                   <lb n="4"/><w lemma="γίγνομαι">γένοι                  
                   <lb n="5" break="no"/>τό</w> <w lemma="ἐγώ">μοι</w>
                   <lb n="6"/>κατὰ τ<choice><orig>ο</orig><reg>ὸ</reg></choice>
