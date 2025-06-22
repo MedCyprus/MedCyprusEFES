@@ -37,11 +37,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Upsilon is attached to horizontal bar which at its ends has a vertical point. The word Θ(εο)ῦ is fully rendered by an abbreviation with a big, wavy line above the word. Letter height: <height unit="cm">5</height>
+                            <handNote>White majuscule letters against blue background. Upsilon is attached to horizontal bar which at its ends has a vertical point. Wavy, horizontal abbreviation mark above [ΜΗΡ] ΘΥ. Letter height: <height unit="cm">5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#VirginHodegetria">Virgin Hodegetria</rs></p>
+                            <p><rs type="iconography" ref="#VirginHodegetria">Virgin Hodegetria</rs>
+                                   <rs type="iconography" ref="#female"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -74,8 +75,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                     <lb n="1"/><persName type="sacred" key="MeterTheou"><addName nymRef="#Μήτηρ Θεοῦ"><w lemma="μήτηρ"><supplied reason="lost"><expan><abbr>Μή</abbr><ex>τη</ex><abbr>ρ</abbr></expan></supplied></w>
-                    <milestone unit="column"/> <expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></addName></persName>   
+                     <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><supplied reason="lost"><expan><abbr>Μή</abbr><ex>τη</ex><abbr>ρ</abbr></expan></supplied></w>
+                    <milestone unit="column"/> <expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>   
                  </ab>
             </div>
             <div type="apparatus">
