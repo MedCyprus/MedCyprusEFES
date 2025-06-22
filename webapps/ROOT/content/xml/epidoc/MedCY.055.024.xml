@@ -39,8 +39,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#MaleSaintUnidentified_MedCY055.024">Male saint, unidentified</rs></p>
-                            </decoDesc>
+                            <p><rs type="iconography" ref="#unidentified_figure">Male saint, unidentified</rs>
+                                  <rs type="iconography" ref="#male"></rs></p>
+                        </decoDesc>
                     </physDesc>
                     <history>
                         <origin>

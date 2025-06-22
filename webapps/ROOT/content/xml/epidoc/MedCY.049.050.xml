@@ -37,12 +37,12 @@
                              </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Letter height: <height unit="cm">3</height>
+                            <handNote>White majuscule letters against blue background. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#unidentified">Saint, unidentified</rs>
-                            </p>
+                            <p><rs type="iconography" ref="#unidentified_figure">Male saint, unidentified</rs>
+                                  <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

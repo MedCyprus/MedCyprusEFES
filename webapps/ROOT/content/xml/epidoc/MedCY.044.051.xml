@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Delta is formed with a lambda on a bottom bar, with a serif to the left of its top bar. A round, small omicron almost attached to the final sigma, formed by a horizontal wavy line. Near systematic use of accents and breathings.
+                            <handNote>White majuscule letters against blue background. Character size varies. Delta is formed with a lambda on a bottom bar, with a serif to the left of its top bar. A round, small omicron almost attached to the final sigma, formed by a horizontal wavy line. Near systematic use of accents and breathings.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -78,10 +78,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                   <lb n="1"/>Ὁ <w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                
-                  <lb n="2" break="no"/><name nymRef="#Ἀδιάγνωστος">Ρ
+                  <lb n="2" break="no"/>Ρ
                   <lb n="3" break="no"/><gap reason="lost" quantity="1" unit="character"/>αν
                   <lb n="4" break="no"/>δρ
-                  <lb n="4" break="no"/>ος</name>
+                  <lb n="4" break="no"/>ος
                 </ab>  
             </div>
             <div type="apparatus">

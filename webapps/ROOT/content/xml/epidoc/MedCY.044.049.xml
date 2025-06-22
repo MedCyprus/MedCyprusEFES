@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                      <handNote>White letters against blue background. Majuscule letters.
+                      <handNote>White majuscule letters against blue background.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -82,7 +82,7 @@
                     <cb n="a"/>
                    <lb n="1"/><choice><orig>Ο</orig><reg>Ὁ</reg></choice> <w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
                     <cb n="b"/>
-                   <lb n="2"/><name nymRef="#Ἀδιάγνωστος"/><gap reason="lost" extent="unknown" unit="character"/>E<gap reason="lost" extent="unknown" unit="character"/>
+                   <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>E<gap reason="lost" extent="unknown" unit="character"/>
                     </ab> 
             </div>
             <div type="apparatus">
