@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. Horizontal overline abbreviation mark above the nomina sacra ΜΗΡ ΘΥ. ΜΗΡ joined in ligature. Vertical intersecting stroke on the abbreviation mark above ΘΥ.
+                            <handNote>White majuscule letters against blue background. Horizontal overline abbreviation mark above ΜΗΡ ΘΥ. ΜΗΡ joined in ligature. Vertical intersecting stroke on the abbreviation mark above ΘΥ.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -78,8 +78,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/><persName type="sacred" key="MeterTheou"><addName nymRef="#Μήτηρ Θεοῦ"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
-                    <milestone unit="column"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></addName></persName>   
+                    <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
+                    <milestone unit="column"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>   
               </ab>
             </div>
             <div type="apparatus">
