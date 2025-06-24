@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. OC joined in ligature. Accents and breathings systematic, with errors. Letter height: <height unit="cm">3,5-4</height>
+                            <handNote>White majuscule letters against red background. Character size varies. OC joined in ligature. Accents and breathings systematic, with errors. Letter height: <height unit="cm">3,5-4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -84,7 +84,7 @@
                     <lb n="3"  break="no"/> κω   
                      <lb n="4" break="no"/> βος</name>  
                       <cb n="b"/>
-                    <lb n="1"/>Ὁ <addName type="epithet" key="Lord's Brother"><w lemma="ἀδελφόθεος"><supplied reason="lost">Ἀ</supplied>
+                    <lb n="1"/>ὁ <addName type="epithet" key="Lord's Brother"><w lemma="ἀδελφόθεος"><supplied reason="lost">Ἀ</supplied>
                     <lb n="2" break='no'/>δελ
                   <lb n="3" break='no'/> φόθε
                   <lb n="4" break="no"/><hi rend="ligature">ος</hi></w></addName></persName> 

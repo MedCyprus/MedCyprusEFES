@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. John is abbreviated Ἰω(άννη)ς with a big, horizontal line above the Ἰω; wide omega with its apex surmounted by a crosslet;  final sigma with diagonal spine. Chrysostom's monogram includes five letters. Rho starts at the top, runs through the chi, tau, mu and ends in a round omicron. Accents and breathings systematic. Letter height: <height unit="cm">3-4</height>
+                            <handNote>White majuscule letters against blue background. Character size varies. Vertical calligraphic intersecting stroke applied to the abbreviation mark above ΙΩ; wide omega with its apex surmounted by a crosslet;  final sigma with diagonal spine. Chrysostom's monogram includes five letters. Rho starts at the top, runs through the chi, tau, mu and ends in a round omicron. Accents and breathings systematic. Letter height: <height unit="cm">3-4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -82,7 +82,7 @@
                     <lb n="1"/>Ὁ <persName type="sacred" key="JohnChrysostom"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
                     <lb n="2"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννη</ex><abbr rend="supraline">ς</abbr></expan></name>
                      <cb n="b"/>
-                    <lb n="1"/>Ὁ 
+                    <lb n="1"/>ὁ
                     <lb n="2"/><addName type="epithet" key="Chrysostom"><expan><abbr rend="supraline">Χρυ</abbr><am>´</am><ex>σόσ</ex><abbr rend="supraline">τ</abbr><ex>ο</ex><abbr rend="supraline">μος</abbr></expan></addName></persName>
               </ab>
             </div>

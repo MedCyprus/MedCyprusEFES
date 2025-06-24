@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Character size varies. OC joined in ligature, with the round omicron enclosing a final sigma, formed with a wavy vertical stroke; chi with strokes ending in small serifs on the upper arms; final sigma with diagonal spine in the word ὁ Κοινοβιάρχης. Near systematic use of accents and breathings. The Ὁ and ἅγιος bear rough breathings of the archaic variety, i.e. shaped like the left half of a majuscule eta. Letter height: <height unit="cm">4</height>.
+                            <handNote>White majuscule letters against blue background. Character size varies. OC joined in ligature, with the round omicron enclosing a final sigma, formed with a wavy vertical stroke; chi with strokes ending in small serifs on the upper arms; final sigma with diagonal spine in the word ὁ Κοινοβιάρχης. Near systematic use of accents and square breathings. Letter height: <height unit="cm">4</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -86,7 +86,7 @@
                 <lb n="5" break="no"/>σι
                 <lb n="6" break="no"/><hi rend="ligature">ος</hi></name>
                 <cb n="b"/>   
-                <lb n="1"/><choice><orig>Ο</orig><reg>Ὁ</reg></choice> <choice><sic><addName type="epithet" subtype="Theodosios" key="Cenobiarch">Kη
+                <lb n="1"/><choice><orig>ο</orig><reg>ὁ</reg></choice> <choice><sic><addName type="epithet" subtype="Theodosios" key="Cenobiarch">Kη
                 <lb n="2" break="no"/>νο
                 <lb n="3" break="no"/>βι
                 <lb n="4" break="no"/>άρ

@@ -80,7 +80,7 @@
                   <lb n="1"/><supplied reason="lost">Ὁ </supplied><persName type="sacred" key="JohnTheologian"><supplied reason="lost"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w></supplied>
                       <lb n="2"/><supplied reason="lost"><name nymRef="#Ἰωάννης" type="forename"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name></supplied>
                       <cb n="b"/>
-                  <lb n="1"/><space quantity="3" unit="character"></space>Ὁ
+                  <lb n="1"/><space quantity="3" unit="character"></space>ὁ
                   <lb n="2"/><addName type="epithet" key="Theologian">Θεολό
                   <lb n="3" break="no"/><space quantity="2" unit="character"></space>γος</addName></persName>
               </ab>

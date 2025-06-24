@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Lambda with the top bar terminating in a serif to the left; final sigma in the form of a wavy line. The word ἅγιος is abrreviated inside an omicron which indicates the article ὁ, a very frequent abbreviation in Asinou. Accents and breathings systematic. Letter height: <height unit="cm">2-4</height>
+                            <handNote>White majsucule letters against blue background. Character size varies. Lambda with the top bar terminating in a serif to the left; final sigma in the form of a wavy line. The word ἅγιος is abrreviated inside an omicron which indicates the article ὁ, a very frequent abbreviation in Asinou. Accents and breathings systematic. Letter height: <height unit="cm">2-4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -83,7 +83,7 @@
                     <lb n="4" break="no"/>ρι
                     <lb n="5" break="no"/>ος</name> 
                   <cb n="b"/>
-                  <lb n="5"/>Ὁ
+                  <lb n="5"/>ὁ
                   <lb n="6"/><addName type="epithet" key="Theologian">Θ
                   <lb n="7" break="no"/>ε
                   <lb n="8" break="no"/>ο

@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. Character size varies. Eta with its crossbar crossed; tau with a top bar terminating in serifs at either end; mu with the central strokes reminiscent of a tau; nu with a zig-zag stroke; upsilon on a crossed stem. ΑΝ, ΑΡ, ΤΡ joined in ligature. Systematic use of accents and breathings. Breathings of the modern variety (circular). Letter height: <height unit="cm">3</height>
+                            <handNote>White majuscule letters against blue background. Character size varies. Eta with its crossbar crossed; tau with a top bar terminating in serifs at either end; mu with the central strokes reminiscent of a tau; nu with a zig-zag stroke; upsilon on a crossed stem. ΑΝ, ΑΡ, ΤΡ joined in ligature. Systematic use of accents and breathings. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -85,7 +85,7 @@
                    <lb n="5*" break="no"/>α</w>
                   <lb n="3*"/> <name type="forename" nymRef="#Ἀναστασία"><hi rend="ligature"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>ν</hi>αστασία</name>
                    <cb n="b"/>   
-                   <lb n="1"/><choice><orig>Ἠ</orig><reg>Ἡ</reg></choice> 
+                   <lb n="1"/><choice><orig>ἠ</orig><reg>ἡ</reg></choice> 
                    <lb n ="2" break="no"/><addName type="epithet" key="Poison-curer"><w lemma="φαρμακολύτρια">Φ
                    <lb n ="3" break="no"/><hi rend="ligature">αρ</hi>
                    <lb n ="4" break="no"/>μα

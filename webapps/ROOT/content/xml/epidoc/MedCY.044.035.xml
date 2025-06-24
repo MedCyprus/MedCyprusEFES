@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Omega formed of two linked oval bowls, each with an inward-curving spine. Mu with the central strokes reminiscent of an upsilon on a stem and surmounted by a dot. Double dots after Ἐλεήμων. Βig, horizontal line above the abbreviation Ἰωάννης. Near systematic use of accents and breathings. Letter height: <height unit="cm">3-4,5</height>  
+                            <handNote>White majuscule letters against blue background. Character size varies. Omega formed of two linked oval bowls, each with an inward-curving spine. Mu with the central strokes reminiscent of an upsilon on a stem and surmounted by a dot. Double dots after Ἐλεήμων. Βig, horizontal line above the abbreviation Ἰωάννης. Near systematic use of accents and breathings. Letter height: <height unit="cm">3-4,5</height>  
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -80,7 +80,7 @@
                 <ab>                   
                     <lb n="1"/>Ὁ <persName type="sacred" key="JohnMerciful"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
                     <lb n="2"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan><am>′</am></name>
-                    <lb n="3"/><addName type="epithet" key="Merciful"><choice><orig>Ο</orig><reg>Ὁ</reg></choice> Ἐλε
+                    <lb n="3"/><addName type="epithet" key="Merciful"><choice><orig>ο</orig><reg>ὁ</reg></choice> Ἐλε
                     <lb n="4" break="no"/><choice><orig>ἠ</orig><reg>ή</reg></choice>μω 
                     <lb n="5" break="no"/>ν:</addName></persName>
                 </ab> 
