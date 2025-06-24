@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies. ΟΥ, ΝΝ, ΤΗ, ΗΝ joined in ligature. Accents and breathings systematic with errors.
+                            <handNote>White majuscule letters against blue background. Character size varies. ΟΥ, ΝΝ, ΤΗ, ΗΝ joined in ligature. Accents and breathings systematic with errors.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <lg met="Dodecasyllable">
-                    <l n="1"><lb n="1"/><g ref="#cross">+</g> ἡ <persName type="sacred" key="Virgin"><w lemma="Παρθένος">Παρθέν<hi rend="ligature">ου</hi></w></persName> <w lemma="γέννησις">γ<choice><orig>ε</orig><reg>έ</reg></choice><hi rend="ligature">νν</hi>ησις</w>, <choice><orig>ἠ</orig><reg>ἡ</reg></choice> <w lemma="σωτηρία"><choice><sic>σο<hi rend="ligature">τη</hi>ρία</sic><corr>σωτηρία</corr></choice></w></l>
+                    <l n="1"><lb n="1"/><g ref="#cross">+</g> Ἡ <persName type="sacred" key="Virgin"><w lemma="Παρθένος">Παρθέν<hi rend="ligature">ου</hi></w></persName> <w lemma="γέννησις">γ<choice><orig>ε</orig><reg>έ</reg></choice><hi rend="ligature">νν</hi>ησις</w>, <choice><orig>ἠ</orig><reg>ἡ</reg></choice> <w lemma="σωτηρία"><choice><sic>σο<hi rend="ligature">τη</hi>ρία</sic><corr>σωτηρία</corr></choice></w></l>
                     <l n="2"><lb n="2"/><w lemma="χαίρω"><choice><sic>χάριθη</sic><corr>χάρηθι</corr></choice></w> <w lemma="κόσμος"><choice><sic>κόσμαι</sic><corr>κόσμε</corr></choice></w>, <w lemma="σή">σ<hi rend="ligature">ὴν</hi></w> <w lemma="ἀνάστασις"><choice><sic>ἀνάστασ<hi rend="ligature">ην</hi></sic><corr>ἀνάστασιν</corr></choice></w> 
                     <lb n="3"/><space extent="17" unit="character"></space><w lemma="βλέπω">βλέπων</w>. <supplied reason="lost"><g ref="#cross">+</g></supplied></l>
                 </lg> 
