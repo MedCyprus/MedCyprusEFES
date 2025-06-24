@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background between two grey-coloured ruled lines. Majuscule letters. Characters' size varies. Nu with a zig-zag stroke; omega formed of two linked oval  bowls. ΑΝ, ΗΝ joined in ligature. Accents and breathings systematic, with errors.
+                            <handNote>Black majuscule letters against white background between two grey-coloured ruled lines. Character size varies. Nu with a zig-zag stroke; omega formed of two linked oval  bowls. ΑΝ, ΗΝ joined in ligature. Accents and breathings systematic, with errors.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -79,7 +79,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   <lb n="1"/><w lemma="ποία"><choice><sic>Πίαν</sic><corr>ποίαν</corr></choice></w> <w lemma="σύ">σο<choice><orig>ῖ</orig><reg>ί</reg></choice></w>
+                   <lb n="1"/><w lemma="ποία"><choice><sic>Πίαν</sic><corr>ποίαν</corr></choice></w> <w lemma="σύ">σο<choice><orig>ῖ</orig><reg>ι</reg></choice></w>
                    <lb n="2"/><w lemma="ἐπάξιος">ἐπ<choice><orig>ἅ</orig><reg>ά</reg></choice>ξι
                     <lb n="3" break="no"/>ον</w> <w lemma="ᾠδή"><choice><orig>ὠ</orig><reg>ᾠ</reg></choice>
                     <lb n="4" break="no"/>δ<hi rend="ligature"><choice><orig>ῆ</orig><reg>ὴ</reg></choice>ν</hi></w>
