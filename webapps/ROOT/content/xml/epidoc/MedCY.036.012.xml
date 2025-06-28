@@ -83,7 +83,7 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
                     <lb n="1"/><g ref="#cross">+</g>Ὁ <persName type="divine" key="God"><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></w></persName> Ὁ <persName type="divine" key="God"><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></w></persName> <w lemma="ἐγώ">ἡ
                   <lb n="2" break="no"/>μῶν</w> ὁ <choice><sic>τοὺ</sic><corr>τὸν</corr></choice> 
                   <lb n="3"/><w lemma="οὐράνιος">οὐρ<choice><orig>α</orig><reg>ά</reg></choice>νιον</w> <w lemma="ἄρτος"><choice><orig>ἀ</orig><reg>ἄ</reg></choice>ρ
@@ -101,7 +101,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Prayer of the Prothesis: O God, our God, who sent the Heavenly Bread, the food of the whole world, our Lord and God Jesus Christ, as our Savior, Redeemer and Benefactor ?</p>
+                <p>Prayer of the Prothesis: O God, our God, who sent the Heavenly Bread, the food of the whole world, our Lord and God Jesus Christ, as our Savior, Redeemer and Benefactor</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
