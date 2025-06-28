@@ -82,7 +82,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/><g ref="#cross">+</g><persName type="divine" key="Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύριο</ex><abbr rend="supraline">ε</abbr></expan></w></persName> Ὁ <persName type="divine" key="God"><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></w></persName> <w lemma="ἐγώ"><hi rend="ligature">ἡμ</hi><supplied reason="lost">ῶν</supplied></w>
+                    <lb n="1"/><g ref="#cross">+</g><persName type="divine" key="Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύρι</ex><abbr rend="supraline">ε</abbr></expan></w></persName> Ὁ <persName type="divine" key="God"><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></w></persName> <w lemma="ἐγώ"><hi rend="ligature">ἡμ</hi><supplied reason="lost">ῶν</supplied></w>
                   <lb n="2"/><choice><orig>ὁ</orig><reg>o</reg></choice><choice><orig>ῦ</orig><reg>ὖ</reg></choice> <hi rend="ligature">τὸ</hi> <w lemma="κράτος">κρά<hi rend="ligature">το</hi>ς</w> 
                    <lb n="3"/><w lemma="ἀνήκεστος"><choice><sic>ἀνείκαστον</sic><corr>ἀνήκεστον</corr></choice></w>  
                   <lb n="4"/><expan><abbr rend="supraline">κ</abbr><ex>αι</ex></expan> ἡ <w lemma="δόξα">δόξα</w> <w lemma="ἀκατάληπτος"><choice><orig>ἁ</orig><reg>ἀ</reg></choice>
