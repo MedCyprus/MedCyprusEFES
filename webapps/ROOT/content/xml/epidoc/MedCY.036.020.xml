@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Basil's scroll</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                  <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -27,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, lower register, first figure on the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">1,5-3</height> 
+                             <handNote>Black majuscule letters against white background. Character size varies. Mu with the central strokes reminiscent of an upsilon on a stem. AI joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">1,5-3</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -71,13 +72,13 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-020-01.JPG"><desc>Bema, apse, semicylindrical wall, south half, lower register, first figure on the left, inscription</desc></graphic>
-        <graphic url="036-020-02.JPG"><desc>Bema, apse, semicylindrical wall, south half, lower register, first figure on the left, inscription</desc></graphic>
+         <graphic rend="primary" url="036-020-01.JPG"><desc>Saint Basil's scroll, inscription</desc></graphic>
+        <graphic url="036-020-02.JPG"><desc>Saint Basil's scroll, inscription</desc></graphic>
              </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
                    <lb n="1"/><w lemma="οὐδείς">Οὐδε<choice><orig>ῖ</orig><reg>ὶ</reg></choice>ς</w>
                    <lb n="2"/><w lemma="'ἅξιος">ἄξιος</w> τῶν
                   <lb n="3"/><w lemma="συνδῶ">σ<choice><orig>ὺ</orig><reg>υ</reg></choice>νδεδε<add place="inline">μ</add>
@@ -95,7 +96,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Cherubic Hymn: No one of those who are tied to carnal desires and pleasures is worthy to approach, draw near, or serve You, glorious king.</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
