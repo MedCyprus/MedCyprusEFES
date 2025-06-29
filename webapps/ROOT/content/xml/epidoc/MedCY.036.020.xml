@@ -78,9 +78,9 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>
+              <ab>PENDING 
                    <lb n="1"/><w lemma="οὐδείς">Οὐδε<choice><orig>ῖ</orig><reg>ὶ</reg></choice>ς</w>
-                   <lb n="2"/><w lemma="'ἅξιος">ἄξιος</w> τῶν
+                   <lb n="2"/><w lemma="ἄξιος">ἄξιος</w> τῶν
                   <lb n="3"/><w lemma="συνδῶ">σ<choice><orig>ὺ</orig><reg>υ</reg></choice>νδεδε<add place="inline">μ</add>
                   <lb n="4" break="no"/>μένων</w> ·
                   <lb n="5"/>τ<hi rend="ligature">αῖ</hi>ς <w lemma="σαρκικός">σαρκι
@@ -88,8 +88,8 @@
                   <lb n="7" break="no"/>θυμίες·</w> 
                   <lb n="8"/><w lemma="προσέρχομαι">προσέρχεσ<add place="above">θ</add><supplied reason="omitted">αι</supplied></w>
                   <lb n="9"/>ἢ <w lemma="προσεγγίζω">προσεγγί
-                  <lb n="10" break="no"/>ζειν</w> ἢ <w lemma="λειτουργῶ">λειτουρ
-                  <lb n="11" break="no"/>γεῖν</w> <w lemma="σύ">συ</w> <w lemma="βασιλεύς">βασιλεῦ</w>
+                  <lb n="10" break="no"/>ζειν</w> <choice><orig>ἣ</orig><reg>ἢ</reg></choice> <w lemma="λειτουργῶ">λειτουρ
+                  <lb n="11" break="no"/>γεῖν</w> <w lemma="σύ">συ</w> <w lemma="βασιλεύς">βασιλε<choice><orig>υ</orig><reg>ῦ</reg></choice></w>
                </ab>
             </div>
             <div type="apparatus">
