@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Prelate, unidentified</title>
+                <title>Saint Herakleidios</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="unidentified_figure">Prelate, unidentified</rs>
+                            <p><rs type="iconography" ref="Herakleidios">Herakleidios</rs>
                                    <rs type="iconography" ref="prelate"></rs>
                                    <rs type="iconography" ref="male"></rs></p>
                         </decoDesc>
@@ -70,9 +70,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-032-01.JPG"><desc>Prelate, unidentified, inscription detail</desc></graphic>
-        <graphic url="044-032-02.JPG"><desc>Prelate, unidentified, inscription </desc></graphic>
-        <graphic url="044-032-03.JPG"><desc>Prelate, unidentified, general view </desc></graphic>
+         <graphic rend="primary" url="044-032-01.JPG"><desc>Saint Herakleidios, inscription detail</desc></graphic>
+        <graphic url="044-032-02.JPG"><desc>Saint Herakleidios, inscription </desc></graphic>
+        <graphic url="044-032-03.JPG"><desc>Saint Herakleidios, general view </desc></graphic>
         </facsimile>
     <text>
         <body>
@@ -81,15 +81,15 @@
                    <cb n="a"/> 
                         <lb n="1"/>Ὁ <persName type="sacred" key="Herakleidios"><name nymRef="#Ἡρακλείδιος" type="forename"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
                    <cb n="b"/>
-                        <lb n="1"/>Ἡ<unclear>ρα</unclear><supplied reason="lost">κ</supplied><unclear>λί</unclear>δι
-                         <lb n="2"/><supplied reason="lost">ο</supplied>ς</name></persName>
+                        <lb n="1"/><choice><sic>Ἡ<unclear>ρα</unclear><supplied reason="lost">κ</supplied><unclear>λί</unclear>δι
+                        <lb n="2" break="no"/><supplied reason="lost">ο</supplied>ς</sic><corr>Ἡρακλείδιος</corr></choice></name></persName>
                 </ab> 
             </div>
             <div type="apparatus">
                <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Saint [..?..]</p>
+                <p>Saint Herakleidios</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
