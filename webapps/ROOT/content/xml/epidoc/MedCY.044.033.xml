@@ -79,7 +79,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                    <cb n="a"/> 
-                    <lb n="1"/><supplied reason="lost">Ὁ <w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w></supplied>
+                    <lb n="1"/>Ὁ <w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
                   <cb n="b"/>
                     <lb n="1"/>N<gap reason="lost" extent="unknown" unit="character"></gap>
                 </ab> 

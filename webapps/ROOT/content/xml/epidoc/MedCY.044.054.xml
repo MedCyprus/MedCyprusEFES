@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue backgroud. Majuscule letters. Characters' size varies. MHN, ΔΗ, ΤΟΥ, ΜΗ and OY joined in ligature. Use of diaeresis over iota in ÏZ and ÏE. Small rounded marks above the letters of the date. The word ἰνδικτιῶνος is fully rendered by an abbreviation with a wavy line above the word. Near systematic use of breathings and accents. Breathings of the modern variety (circular).
+                            <handNote>White majuscule letters against blue backgroud. Character size varies. MHN, ΔΗ, ΤΟΥ, ΜΗ and OY joined in ligature. Use of diaeresis over iota in ÏZ and ÏE. Small rounded marks above the letters of the date. Wavy, horizontal abbreviation mark above the word ἰν(δικτιῶνος). Near systematic use of accents and breathings.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -78,7 +78,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                 <lb n="1"/><w lemma="μήν"><hi rend="ligature">Μην</hi><choice><orig>ῖ</orig><reg>ὶ</reg></choice></w> <w lemma="Δεκέμβριος"><choice><sic><hi rend="ligature">Δη</hi>κ<supplied reason="lost">ε</supplied><supplied reason="omitted">μ</supplied>βρί<choice><orig>ο</orig><reg>ο&#x0345;</reg></choice></sic><corr>Δεκεμβρίῳ</corr></choice></w> <num value="17">ιζ</num>
+                 <lb n="1"/><w lemma="μήν"><hi rend="ligature">Μην</hi><choice><orig>ῖ</orig><reg>ὶ</reg></choice></w> <w lemma="Δεκέμβριος"><expan><choice><sic><abbr><hi rend="ligature">Δη</hi>κ</abbr><ex>ε</ex><supplied reason="omitted">μ</supplied><abbr>βρί</abbr><choice><orig>ο</orig><reg>ο&#x0345;</reg></choice></sic><corr>Δεκεμβρίῳ</corr></choice></expan></w> <num value="17">ιζ</num>
                  <lb n="2"/><w lemma="ἰνδικτιών"><expan><abbr rend="supraline"><choice><orig>ι</orig><reg>ἰ</reg></choice>ν</abbr><ex>δικτιῶνος</ex></expan></w> <num value="15">ιε</num> <w lemma="ἔτος">ἔ<hi rend="ligature">του</hi>ς</w> <num value="6608"><hi rend="ligature">&#x03DB;</hi>χη</num> <w lemma="κοιμῶμαι"><choice><sic><choice><orig>ἑ</orig><reg>ἐ</reg></choice>κυ
                  <lb n="3" break="no"/><hi rend="ligature">μή</hi>θη</sic><corr>ἐκοιμήθη</corr></choice></w> ἡ <w lemma="δούλη"><choice><sic>δ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ύ</reg></choice></hi>λι</sic><corr>δούλη</corr></choice></w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <persName type="divine" key="God"><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></w></persName> <persName type="attested" role="donor" ref="#Gephyra"><name nymRef="#Γέφυρα" type="forename">Γέφυ
                  <lb n="4" break="no"/>ρα</name></persName>
