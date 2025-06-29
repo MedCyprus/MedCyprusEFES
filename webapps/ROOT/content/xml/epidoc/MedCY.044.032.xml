@@ -79,9 +79,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                    <cb n="a"/> 
-                        <lb n="1"/>Ὁ <w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                        <lb n="1"/>Ὁ <persName type="sacred" key="Herakleidios"><name nymRef="#Ἡρακλείδιος" type="forename"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
                    <cb n="b"/>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"></gap>
+                        <lb n="1"/>Ἡ<unclear>ρα</unclear><supplied reason="lost">κ</supplied><unclear>λί</unclear>δι
+                         <lb n="2"/><supplied reason="lost">ο</supplied>ς</name></persName>
                 </ab> 
             </div>
             <div type="apparatus">
