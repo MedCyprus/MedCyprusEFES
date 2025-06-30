@@ -374,6 +374,8 @@
                     <persName xml:lang="en">God</persName>
                     <persName xml:lang="grc" type="epithet" subtype="God" key="Lord">Κύριος</persName>
                     <persName xml:lang="en" type="epithet" subtype="God" key="Lord">Lord</persName>
+                    <persName xml:lang="grc">Παντοκράτωρ</persName>
+                    <persName xml:lang="en">Almighty</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q825</idno>                   
                     <!--What do we do with Lord? It also occurs on its own, but it also occurs as Lord God - Kyrios o Theos-->
                     <note>See also: Christ, Jesus Christ, King of Glory, Lord, Trinity, Word, Master</note>
