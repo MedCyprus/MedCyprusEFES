@@ -83,17 +83,17 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>PENDING
                    <lb n="1"/><g ref="#cross">+</g>Ὁ τὰς <w lemma="κοινή">κοι                  
-                  <lb n="2" break="no"/>νὰς</w> <w lemma="αὐτά">ταύ
+                  <lb n="2" break="no"/>νὰς</w> <w lemma="ταῦτα">τα<choice><orig>ύ</orig><reg>ύ</reg></choice>
                     <lb n="3" break="no"/>τας</w> καὶ <w lemma="σύμφωνος"><choice><sic>σ<choice><orig>υ</orig><reg>ύ</reg></choice>
                     <lb n="1" break="no"/>φ<choice><orig>ώ</orig><reg>ω</reg></choice>νους</sic><corr>σύμφων<hi rend="ligature">ου</hi>ς</corr></choice></w> <w lemma="ἐγώ"><choice><orig>η</orig><reg>ἡ</reg></choice> 
                     <lb n="1"  break="no"/>μῖν</w> <w lemma="χαρισάμενος">χαρι
                     <lb n="1" break="no"/>σάμενος</w>                     
                   <lb n="1"/><w lemma="προσευχή"><expan><abbr rend="supraline">προσευχ</abbr><ex>ὰς</ex></expan></w> ὁ
-                    <lb n="1"/><expan><abbr rend="supraline">κ</abbr><ex>αι</ex><am>`</am></expan> <w lemma="δυσὶ">δύο</w> <expan><abbr rend="supraline">κ</abbr><ex>αι</ex><am>`</am></expan>
+                    <lb n="1"/><expan><abbr rend="supraline">κ</abbr><ex>αι</ex><am>`</am></expan> <w lemma="δύο">δύο</w> <expan><abbr rend="supraline">κ</abbr><ex>αι</ex><am>`</am></expan>
                     <lb n="1"/><w lemma="τρισὶ"><choice><sic>τρ<hi rend="ligature">ει</hi>σ<choice><orig>ϊ</orig><reg>ὶ</reg></choice></sic><corr>τρισὶ</corr></choice></w> <w lemma="σύμφωνος">σ<choice><orig>υ</orig><reg>ύ</reg></choice> 
                   <lb n="1" break="no"/>μφων<hi rend="ligature">ου</hi>ς</w>
-                   <lb n="1"/>ἐπὶ το ὀν<choice><orig>ο</orig><reg>ό</reg></choice>
-                  <lb n="1" break="no"/>ματ<choice><orig>ι</orig><reg>ί</reg></choice> <supplied reason="lost">σ</supplied>ου
+                   <lb n="1"/>ἐπὶ το <w lemma="ὀνόματι">ὀν<choice><orig>ο</orig><reg>ό</reg></choice>
+                  <lb n="1" break="no"/>ματι</w> <supplied reason="lost">σ</supplied>ου
                </ab>
             </div>
             <div type="apparatus">
