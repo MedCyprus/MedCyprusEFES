@@ -39,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">2,5</height> 
+                             <handNote>Black majuscule letters against white background. Character size varies. Mu with the central strokes reminiscent of an upsilon on a stem. Delta is formed with a lambda on a bottom bar. Systematic use of triangular serifs. TW joined in ligature. Wavy, horizontal abbreviation mark above ΚΕ and ΘC. Accents and breathings non systematic. Letter height: <height unit="cm">2,5</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -91,14 +91,14 @@
                     <lb n="7" break="no"/>νέσεος</sic><corr>αἰνέσεως</corr></choice></w> πα
                   <lb n="8" break="no"/>ρ<choice><orig>α</orig><reg>ὰ</reg></choice> τῶν <w lemma="ἐπικαλέω">ἐπι
                     <lb n="9" break="no"/>καλουμ<choice><orig>έ</orig><reg>ε</reg></choice>ν<gap reason="lost" unit="character" quantity="1"></gap><unclear>ν</unclear></w>
-                  <lb n="10"/><unclear>σε</unclear> ενολη<unclear>κ</unclear><gap reason="lost" unit="character" quantity="1"></gap>ρδ PENDING
+                  <lb n="10"/><unclear>σε</unclear> εν <w lemma="όλη"><choice><orig>ο</orig><reg>ό</reg></choice>λη</w> <w lemma="καρδία"><unclear>κ</unclear><gap reason="lost" unit="character" quantity="1"></gap>ρδ</w> 
                </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>The Prayer of the Preparation Proscomide: O Lord God Almighty, who alone art holy, who dost accept the sacrifice of praise from those who call upon thee with their whole heart.</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
