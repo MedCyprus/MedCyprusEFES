@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING
+                             <handNote>White majuscule letters against blue and green background. Character size varies. Systematic use of triangular serifs. OY joined in ligature. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Ascension">Ascension</rs></p>
+                            <p><rs type="iconography" ref="#Ascension">Ascension</rs>
+                            <rs type="iconography" ref="#christological"></rs>
+                         </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -75,16 +77,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><g ref="#cross">+</g><w lemma="ἀνήρ">ἅνδρες</w> ς <w lemma="Γαλıλαῖος"><choice><sic>Γαληλα<choice><orig>ί</orig><reg>ῖ</reg></choice>οι</sic><corr>Γαλıλαῖοı</corr></choice></w>· Tϊ εστηκατε βλεποντ εις τ ουρανον· 
+                   <lb n="1"/><g ref="#cross">+</g><w lemma="ἀνήρ">ἅνδρες</w> ς <w lemma="Γαλıλαῖος"><choice><sic>Γαληλα<choice><orig>ί</orig><reg>ῖ</reg></choice>οι</sic><corr>Γαλıλαῖοı</corr></choice></w>· T<choice><orig>ϊ´</orig><reg>ί</reg></choice> <w lemma="ἵσταμαι"><choice><orig>ἐ</orig><reg>ἑ</reg></choice>στήκατε</w> <w lemma="βλέπω">βλέπον<add place="above">τ</add><supplied reason="omitted">ες</supplied></w> εἰς <add place="above">τ</add><supplied reason="omitted">ὸν</supplied> <w lemma="οὐρανός"><hi rend="ligature">οὐ</hi>ραν<choice><orig>ὸ</orig><reg>ό</reg></choice>ν</w>· 
                </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Acts 1:11: Men of Galilee, they said, why do you stand here looking into the sky?</p>
             </div>
-            <div type="commentary">
+            <div type="bibliography">
                 <p>PENDING</p>
             </div>
             <div type="bibliography">
