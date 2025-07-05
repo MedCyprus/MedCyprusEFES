@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Nativity, angel addresses the shepherd</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -27,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west vault, south side</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -71,14 +72,17 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-125-01.JPG"><desc>Naos, west vault, south side, inscription</desc></graphic>
-        <graphic url="036-125-02.JPG"><desc>Naos, west vault, south side, general view</desc></graphic>
+         <graphic rend="primary" url="036-125-01.JPG"><desc>Nativity, angel addresses the shepherd, inscription</desc></graphic>
+        <graphic url="036-125-02.JPG"><desc>Nativity, angel addresses the shepherd, general view</desc></graphic>
      </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><g ref="#cross">+</g>Μ<choice><orig>η</orig><reg>ὴ</reg></choice> <w lemma="φοβεῖσθαι"><choice><sic>φοβήσθε</sic><corr>φοβεῖσθε</corr></choice></w>· <w lemma="Ἰδού">᾽Ϊδ<hi rend="ligature">οὺ</hi></w> γὰρ 
+                  <lb n="2"/>ευαγγελιζομευμιν 
+                  <lb n="3"/>χαραν μεγαλην ος εσται 
+                  <lb n="4"/>παντιτωλαω<g ref="#cross">+</g>
                 </ab>
             </div>
             <div type="apparatus">
