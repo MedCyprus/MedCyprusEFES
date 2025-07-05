@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White majuscule letters against blue background. Character size varies. Systematic use of triangular serifs.Mu with the central strokes reminiscent of an upsilon on a stem and surmounted by a dot. Zeta with a top bar terminating in a serif and a spine with a tail. MH, OY, AP, HN, and CTAI joined in ligature. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -81,7 +81,7 @@
               <ab>
                    <lb n="1"/><g ref="#cross">+</g>Μ<choice><orig>η</orig><reg>ὴ</reg></choice> <w lemma="φοβεῖσθαι"><choice><sic>φοβήσθε</sic><corr>φοβεῖσθε</corr></choice></w>· <w lemma="Ἰδού">᾽Ϊδ<hi rend="ligature">οὺ</hi></w> γ<hi rend="ligature"><choice><orig>α</orig><reg>ὰ</reg></choice>ρ</hi>
                   <lb n="2"/><choice><sic><w lemma="εὐαγγελίζομαι"><choice><orig>ἐ</orig><reg>ε</reg></choice><choice><orig>υ</orig><reg>ὐ</reg></choice>αγγελίζομε</w></sic><corr>εὐαγγελίζομαι</corr></choice> <w lemma="ὑμῖν">ὐμῖν</w> 
-                  <lb n="3"/><w lemma="χαρά">χαρὰν</w> <w lemma="μεγάλη">μεγάλην</w> <w lemma="ὅς">ὅς</w> <w lemma="εἰμί"><choice><orig>έ</orig><reg>ἓ</reg></choice><hi rend="ligature">σται</hi></w> 
+                  <lb n="3"/><w lemma="χαρά">χαρὰν</w> <w lemma="μεγάλη">μεγάλ<hi rend="ligature">ην</hi></w> <w lemma="ὅς">ὅς</w> <w lemma="εἰμί"><choice><orig>έ</orig><reg>ἓ</reg></choice><hi rend="ligature">σται</hi></w> 
                   <lb n="4"/><w lemma="πᾶς">παντὶ</w> τ<choice><orig>ῶ</orig><reg>ῷ</reg></choice> <w lemma="λαός">λα<choice><orig>ῶ</orig><reg>ῷ</reg></choice></w><g ref="#cross">+</g>
                 </ab>
             </div>
