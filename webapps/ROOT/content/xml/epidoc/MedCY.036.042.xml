@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Ascension">Ascension</rs></p>
+                            <p><rs type="iconography" ref="#Ascension">Ascension</rs>
+                            <rs type="iconography" ref="#christological"></rs>
+                         </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -77,16 +79,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/><g ref="#cross">+</g><w lemma="Οὖτος"><hi rend="ligature">Οὖ</hi>τος</w> ὁ <persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς<am>&#x00A0;῀&#x00A0;</am></abbr></expan></name></persName>     
-                        
-                        ΙC ΟΑΝΑΛΗΦΘΕΙCΑΦVΜΩΝΕΙCΤΟΥΡΑ
+                    <lb n="1"/><g ref="#cross">+</g><w lemma="Οὖτος"><hi rend="ligature">Οὖ</hi>τος</w> ὁ <persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς<am>&#x00A0;῀&#x00A0;</am></abbr></expan></name></persName> ὁ <w lemma="ἀναληφθείς">ἀναληφθε<choice><orig>ῖ</orig><reg>ὶ</reg></choice>ς</w> ἀφ' <w lemma="ὑμεῖς"><choice><orig>υ</orig><reg>ὑ</reg></choice>μῶν</w> ε<choice><orig>ι</orig><reg>ἰ</reg></choice>ς <add place="above">τ</add><supplied reason="omitted">ὸν</supplied> <w lemma="οὐρανός"><hi rend="ligature">οὐ</hi>ρ<hi rend="ligature">αν</hi><supplied reason="omitted">ός</supplied></w>
                </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Acts 1:11: This same Jesus, who has been taken from you into heaven.</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
