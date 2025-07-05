@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">3-3,5</height>
+                             <handNote>White majuscule letters against red background. Character size varies. Wavy, horizontal abbreviation mark above all the abbreviations. Letter height: <height unit="cm">3-3,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -75,13 +75,14 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                      <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"> <expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan><am>&#x00A0;῀&#x00A0;</am><milestone unit="column"/><addName type="epithet" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName><am>&#x00B4;</am></name></persName> 
+                  <lb n="2"/><persName type="divine" key="SonOfGod"><expan><abbr rend="supraline">Υ</abbr><ex>ἱ</ex><abbr rend="supraline">έ</abbr></expan> <milestone unit="column"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></persName> 
                </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Jesus Christ, Son of God</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
