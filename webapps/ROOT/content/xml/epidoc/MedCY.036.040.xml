@@ -75,7 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                   <lb n="1"/><g ref="#cross">+</g><w lemma="ἀνήρ">ἅνδρες</w> ς <w lemma="Γαλıλαῖος"><choice><sic>Γαληλα<choice><orig>ί</orig><reg>ῖ</reg></choice>οι</sic><corr>Γαλıλαῖοı</corr></choice></w>· Tϊ εστηκατε βλεποντ εις τ ουρανον· 
                </ab>
             </div>
             <div type="apparatus">
