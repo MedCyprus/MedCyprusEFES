@@ -79,17 +79,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><g ref="#cross">+</g>Μ<choice><orig>η</orig><reg>ὴ</reg></choice> <w lemma="φοβεῖσθαι"><choice><sic>φοβήσθε</sic><corr>φοβεῖσθε</corr></choice></w>· <w lemma="Ἰδού">᾽Ϊδ<hi rend="ligature">οὺ</hi></w> γὰρ 
-                  <lb n="2"/>ευαγγελιζομευμιν 
-                  <lb n="3"/>χαραν μεγαλην ος εσται 
-                  <lb n="4"/>παντιτωλαω<g ref="#cross">+</g>
+                   <lb n="1"/><g ref="#cross">+</g>Μ<choice><orig>η</orig><reg>ὴ</reg></choice> <w lemma="φοβεῖσθαι"><choice><sic>φοβήσθε</sic><corr>φοβεῖσθε</corr></choice></w>· <w lemma="Ἰδού">᾽Ϊδ<hi rend="ligature">οὺ</hi></w> γ<hi rend="ligature"><choice><orig>α</orig><reg>ὰ</reg></choice>ρ</hi>
+                  <lb n="2"/><choice><sic><w lemma="εὐαγγελίζομαι"><choice><orig>ἐ</orig><reg>ε</reg></choice><choice><orig>υ</orig><reg>ὐ</reg></choice>αγγελίζομε</w></sic><corr>εὐαγγελίζομαι</corr></choice> <w lemma="ὑμῖν">ὐμῖν</w> 
+                  <lb n="3"/><w lemma="χαρά">χαρὰν</w> <w lemma="μεγάλη">μεγάλην</w> <w lemma="ὅς">ὅς</w> <w lemma="εἰμί"><choice><orig>έ</orig><reg>ἓ</reg></choice><hi rend="ligature">σται</hi></w> 
+                  <lb n="4"/><w lemma="πᾶς">παντὶ</w> τ<choice><orig>ῶ</orig><reg>ῷ</reg></choice> <w lemma="λαός">λα<choice><orig>ῶ</orig><reg>ῷ</reg></choice></w><g ref="#cross">+</g>
                 </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Luke 2:10-11: Fear not, for behold, I bring you good tidings of great joy, which shall be to all people.</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
