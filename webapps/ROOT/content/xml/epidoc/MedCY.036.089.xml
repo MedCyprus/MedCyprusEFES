@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White majuscule letters against blue and red background. Character size varies. Systematic use of triangular serifs.MM and OY joined in ligature. Accents and breathings systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -74,8 +74,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"> <expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan><am>&#x00A0;῀&#x00A0;</am><milestone unit="column"/> <milestone unit="column"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς<am>´</am></abbr></expan></addName></name></persName>
-                  <lb n="2"/> Ὁ ἐ<hi rend="ligature">μμ</hi>α      ν<hi rend="ligature">ου</hi>ηλ     
+                    <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"> <expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan><am>&#x00A0;῀&#x00A0;</am><milestone unit="column"/> <addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς<am>´</am></abbr></expan></addName></name></persName>
+                  <lb n="2"/> Ὁ Ἐ<hi rend="ligature">μμ</hi>α<milestone unit="column"/> ν<hi rend="ligature">ου</hi>ήλ     
                </ab>
             </div>
             <div type="apparatus">
