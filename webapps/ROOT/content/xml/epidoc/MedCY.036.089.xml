@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>White majuscule letters against blue and red background. Character size varies. Systematic use of triangular serifs.MM and OY joined in ligature. Accents and breathings systematic. 
+                             <handNote>White majuscule letters against blue and red background. Character size varies. Systematic use of triangular serifs. MM and OY joined in ligature. Accents and breathings systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#ChristEmmanuel">Christ Emmanuel</rs></p>
+                            <p><rs type="iconography" ref="#ChristEmmanuel">Christ Emmanuel</rs>
+                            <rs type="iconography" ref="#Christ"></rs>                             
+                            <rs type="iconography" ref="#divine"></rs> 
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
