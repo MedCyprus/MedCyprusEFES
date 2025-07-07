@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against blue background. Majuscule letters. Characters' size varies.
+                            <handNote>White majuscule letters against blue background. Character size varies.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -86,7 +86,7 @@
             <div type="apparatus">
                <listApp>
                    <app loc="1"><rdg source="#Ševčenko2012">τὰ ἅγία τῶν ἁγίων</rdg></app>
-                   <app loc="2"><rdg source="#Ševčenko2012">[προσαγ]ομένη / [εἰσερχ]ομένη /[εἰσαγ]- ομένη / [κεκλει]ομένη κόρη</rdg></app>
+                   <app loc="2"><rdg source="#Ševčenko2012">[προσαγ]ομένη / [εἰσερχ]ομένη / [εἰσαγ]ομένη / [κεκλει]ομένη κόρη</rdg></app>
                    <app loc="3-5"><rdg source="#Ševčenko2012">[εὐφραίν]εται ὁ Ζαχαρί[ας] </rdg></app>
                </listApp>
             </div>
