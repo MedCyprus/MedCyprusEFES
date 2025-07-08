@@ -80,15 +80,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                 <lb n="1"/><g ref="#cross">+</g><w lemma="ἀρχή"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>ρχὴ</w>           
+                 <lb n="1"/><g ref="#cross">+</g> <w lemma="ἀρχή"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>ρχὴ</w>           
                   <lb n="2"/><w lemma="καρποφορία">καρπο
                   <lb n="3" break="no"/>φορί
                   <lb n="4" break="no"/><supplied reason="lost">α</supplied>ς</w> <w lemma="ἄνθος"><choice><sic>ἄν
                   <lb n="5" break="no"/>θως</sic><corr>ἄνθος</corr></choice></w>
                   <lb n="6"/>κ<expan><ex>αὶ</ex></expan> <w lemma="ἀρχή"><choice><orig>α</orig><reg>ἀ</reg></choice>ρχὴ</w>
                   <lb n="7"/><w lemma="πρακτική"><choice><sic>πρακ<hi rend="ligature">τη</hi>
-                  <lb n="8" break="no"/>κη<unclear>ς</unclear></sic><corr>πρακτικῆς</corr></choice></w> <w lemma="ἐγκράτεια">ἐ<unclear>νγ</unclear>
-                  <lb n="9" break="no"/>κρα<supplied reason="lost">τεια</supplied></w>
+                  <lb n="8" break="no"/>κη<unclear>ς</unclear></sic><corr>πρακτικῆς</corr></choice></w> <w lemma="ἐγκράτεια"><choice><sic>ἐ<unclear>νγ</unclear>
+                  <lb n="9" break="no"/>κρα<supplied reason="lost">τείας</supplied></sic><corr>ἐγκρατείας</corr></choice></w>
               </ab>
             </div>
             <div type="apparatus">

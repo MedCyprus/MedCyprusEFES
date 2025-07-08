@@ -39,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters in greenish background. Omega with its apex surmounted by a crosslet, featuring spines curving inward; kappa with the upper arm terminating in a long serif; tau with a top bar terminating in serifs at either end; ΑΥ, OY, TO joined in ligature.The word ending Ν in αὐτόν (line 4) is rendered with a tachygraphic sign. Systematic use of accents and breathings. Breathings of the archaic variety (angular). Letter height: <height unit="cm">3</height>.
+                            <handNote>Black majuscule letters in greenish background. Omega with its apex surmounted by a crosslet, featuring spines curving inward; kappa with the upper arm terminating in a long serif; tau with a top bar terminating in serifs at either end; ΑΥ, OY, TO joined in ligature.The word ending Ν in αὐτόν (line 4) is rendered with a tachygraphic sign. Systematic use of accents and square breathings. Letter height: <height unit="cm">3</height>.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -82,10 +82,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <lb n="1"/><g ref="#cross">+</g> <w lemma="ἐγώ"><choice><orig>Ἑ</orig><reg>Ἐ</reg></choice>γὼ</w> <w lemma="οὐκέτι"><hi rend="ligature">οὐ</hi>         
-                  <lb n="2" break="no"/>κέτι</w> <w lemma="φοβοῦμαι">φοβ
-                  <lb n="3" break="no"/><supplied reason="lost">οῦμαι</supplied></w> <supplied reason="lost">τὸν</supplied> <persName type="divine" key="God"><w lemma="Θεός"><supplied reason="lost"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><abbr rend="supraline">ν</abbr></expan></supplied></w></persName> <w lemma="ἀλλά"><supplied reason="lost">ἀλλά</supplied></w> <w lemma="ἀγαπῶ"><supplied reason="lost">ἀ</supplied>
+                  <lb n="2" break="no"/>κέτι</w> <w lemma="φοβοῦμαι">φοβ<hi rend="ligature">ου</hi><add place="above"><unclear>μέ</unclear></add></w>
+                  <lb n="3" break="no"/><supplied reason="lost">τὸν</supplied> <persName type="divine" key="God"><w lemma="Θεός"><supplied reason="lost"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><abbr rend="supraline">ν</abbr></expan></supplied></w></persName> <w lemma="ἀλλά"><supplied reason="lost">ἀλλά</supplied></w> <w lemma="ἀγαπῶ"><supplied reason="lost">ἀ</supplied>
                   <lb n="4" break="no"/>γαπ<choice><orig>ο</orig><reg>ο&#x0342; </reg></choice></w> <w lemma="αὐτός"><choice><sic><hi rend="ligature">αὐ</hi><hi rend="ligature">τ<choice><orig>ω</orig><reg>ώ</reg></choice></hi><expan><ex>ν</ex></expan></sic><corr>αὐτόν</corr></choice></w>· ἡ
-                  <lb n="5"/><supplied reason="lost">γὰρ</supplied> <w lemma="ἀγάπη"></w><supplied reason="lost">ἀ</supplied>γ<supplied reason="lost">ά</supplied>π<supplied reason="lost">η</supplied>
+                  <lb n="5"/><unclear>γὰρ</unclear> <w lemma="ἀγάπη"></w><unclear>ἀ</unclear>γ<unclear>ά</unclear>πη
                   <lb n="6"/><w lemma="ἔξω"><supplied reason="lost">ἔξω</supplied></w> <w lemma="βάλλω"><choice><sic><supplied reason="lost">βά</supplied>
                   <lb n="7" break="no"/>λει</sic><corr>βάλλει</corr></choice></w> <hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi>ν <w lemma="φόβος">φ<supplied reason="lost">ό</supplied>
                   <lb n="8" break="no"/>β<supplied reason="lost">ο</supplied>ν</w><g ref="#cross">+</g>
