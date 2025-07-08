@@ -84,8 +84,11 @@
                   <lb n="1"/><g ref="#cross">+</g> <w lemma="ψυχή">Ψυχὴ</w>              
                   <lb n="2"/><w lemma="ἕβδομος">ἑβδ<choice><orig>ο</orig><reg>ό</reg></choice>μ<choice><orig>ή</orig><reg>η</reg></choice></w>
                   <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
-                  <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><unclear>δου</unclear>
-                  <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><unclear>῀</unclear><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"><addName type="epithet" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></name></persName>   
+                  <lb n="4"/><gap reason="lost" unit="character" quantity="1"/><unclear>ε</unclear>δο<unclear>υ</unclear>
+                  <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="divine" key="God"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></persName>   
+                  <lb n="6"/><gap reason="lost" extent="unknown" unit="character"></gap>
+                  <lb n="7"/><gap reason="lost" extent="unknown" unit="character"></gap>
+                  <lb n="8"/><gap reason="lost" extent="unknown" unit="character"></gap>
               </ab>
             </div>
             <div type="apparatus">
