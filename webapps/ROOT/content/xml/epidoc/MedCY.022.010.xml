@@ -6,9 +6,10 @@
         <fileDesc>
             <titleStmt>
                 <title>Prophet Solomon</title>
-                <editor xml:id="tp">Theocharis Petrou</editor>
+                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
-                <editor xml:id="mgp"> Maria G. Parani</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Character size varies. Alpha and lambda with the top bar terminating in a serif to the left. Mu with the central strokes reminiscent of an upsilon on a stem. OY joined in ligature. Wavy, horizontal abbreviation mark above Προφήτης. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,7 +77,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                    <lb n="1"/>Ὁ <persName type="sacred" key="Solomon"><w lemma="προφήτης"><expan><abbr rend="supraline">πρ</abbr><ex>ο</ex><abbr rend="supraline">φ</abbr><ex>ή</ex><abbr rend="supraline">τ</abbr><ex>η</ex><abbr rend="supraline">ς</abbr></expan><am>&#x00A0;΄&#x00A0;</am></w>
+                        <cb n="b"/>
+                        <lb n="1"/><choice><sic><name type="forename" nymRef="#Σολομῶν">Σ
+                        <lb n="2" break="no"/>αλα
+                        <lb n="3" break="no"/>μ<hi rend="ligature">ου</hi></name></sic><corr>Σολομῶν</corr></choice></persName>
                  </ab>
             </div>
             <div type="apparatus">
