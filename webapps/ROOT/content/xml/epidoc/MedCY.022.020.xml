@@ -7,8 +7,9 @@
             <titleStmt>
                 <title>Prophet Elijah</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
-                <editor xml:id="mgp"> Maria G. Parani</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against red background. Character size varies. Alpha and lambda with the top bar terminating in a serif to the left. ΛΗ joined in ligature. Wavy, horizontal abbreviation mark above Προφήτης. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,7 +77,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                    <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Elijah"><w lemma="προφήτης"><expan><abbr rend="supraline">πρ</abbr><ex>ο</ex><abbr rend="supraline">φ</abbr><ex>ή</ex><abbr rend="supraline">τ</abbr><ex>η</ex><abbr rend="supraline">ς</abbr></expan></w>
+                        <cb n="b"/>
+                        <lb n="1"/><choice><sic><name type="forename" nymRef="#Ἠλίας"><choice><orig>Η</orig><reg>Ἠ</reg></choice>
+                        <lb n="2" break="no"/><hi rend="ligature">λη</hi>
+                        <lb n="3" break="no"/>ας</name></sic><corr>Ἠλίας</corr></choice></persName>
                  </ab>
             </div>
             <div type="apparatus">
