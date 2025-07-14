@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Character size varies. AH joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><g ref="#cross">+</g>H <w lemma="Βαϊοφόρος"><choice><sic>Β<hi rend="ligature">αη</hi>ο
+                   <lb n="1"/><g ref="#cross">+</g><choice><orig>H</orig><reg>Ἠ</reg></choice> <w lemma="Βαϊοφόρος"><choice><sic>Β<hi rend="ligature">αη</hi>ο
                   <lb n="2" break="no"/>φ<choice><orig>ο</orig><reg>ό</reg></choice>ρος</sic><corr>Βαϊοφόρος</corr></choice></w>
                  </ab>
             </div>
@@ -87,7 +87,7 @@
                 <p>Entry into Jerusalem</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>The scene is narrated in Matt. 21:1–11, Mark 11:1–11, Luke 19:28–44 and John 12:12–1</p>
             </div>
             <div type="bibliography">
                  <listBibl>
