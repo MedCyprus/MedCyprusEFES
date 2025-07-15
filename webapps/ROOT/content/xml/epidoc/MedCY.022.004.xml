@@ -81,9 +81,9 @@
                     <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Jonah"><w lemma="προφήτης"><expan><abbr rend="supraline">πρ</abbr><ex>ο</ex><abbr rend="supraline">φ</abbr><ex>ή</ex><abbr rend="supraline">τ</abbr><ex>η</ex><abbr rend="supraline">ς</abbr></expan><am>&#x00A0;΄&#x00A0;</am></w>
                         <cb n="b"/>
                         <lb n="1"/><name type="forename" nymRef="#Ἰωνάς"><choice><sic>H
-                             <lb n="2"/>o
-                             <lb n="3"/>ν
-                            <lb n="4"/><hi rend="ligature"><choice><orig>α</orig><reg>ά</reg></choice>ς</hi></sic><corr>Ἰωνάς</corr></choice></name></persName>
+                             <lb n="2" break="no"/>o
+                             <lb n="3" break="no"/>ν
+                            <lb n="4" break="no"/><hi rend="ligature"><choice><orig>α</orig><reg>ά</reg></choice>ς</hi></sic><corr>Ἰωνάς</corr></choice></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
