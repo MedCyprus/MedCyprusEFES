@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against red background. Character size varies. Mu with the central strokes reminiscent of an upsilon on a stem. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -77,16 +77,16 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>ΠΕΝΔΙΝΓ
+              <ab>
                     <cb n="a"/>
-                   <lb n="1"/>Ο 
-                   <lb n="2"/><persName type="sacred" key="Symeon"><w lemma="ἅγιος">α
+                   <lb n="1"/><choice><orig>Ο</orig><reg>Ὁ</reg></choice>
+                   <lb n="2"/><persName type="sacred" key="Symeon"><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἅ</reg></choice>
                    <lb n="3" break="no"/>γı
                    <lb n="4" break="no"/>ος</w>
                    <cb n="b"/>
-                     <lb n="1"/><name nymRef ="#Συμεών" type="forename">Ση
+                     <lb n="1"/><choice><sic><name nymRef ="#Συμεών" type="forename">Ση
                      <lb n="2" break="no"/>με
-                     <lb n="3" break="no"/>oν</name></persName>
+                     <lb n="3" break="no"/>oν</name></sic><corr>Συμεών</corr></choice></persName>
                  </ab>
             </div>
             <div type="apparatus">
