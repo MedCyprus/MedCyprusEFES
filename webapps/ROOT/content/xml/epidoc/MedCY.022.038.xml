@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Character size varies. Mu with the central strokes reminiscent of an upsilon on a crossed stem. The words ἀρχ(άγγελος) and Μιχ(αήλ) are fully rendered by abbreviations. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -80,8 +80,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
-                   <!--<lb n="1"/>Ὁ <persName type="sacred" key="Michael"><name type="forename" nymRef ="#Μιχαήλ"> <w lemma="ἀρχάγγελος"></w>-->
+          
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice><persName type="sacred" key="Michael"><name type="forename" nymRef ="#Μιχαήλ"> <w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><hi rend="ligature"><choice><orig>ἁ</orig><reg>ἀ</reg></choice>ρ</hi>χ</abbr><ex>άγγελος</ex></expan></w> <choice><sic><expan><abbr rend="supraline">Μηχ</abbr><ex>αήλ</ex></expan></sic><corr>Μιχαήλ</corr></choice></name></persName>           
+                 
                  </ab>
             </div>
             <div type="apparatus">
