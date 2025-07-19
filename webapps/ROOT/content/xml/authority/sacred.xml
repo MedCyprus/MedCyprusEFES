@@ -13,8 +13,14 @@
     <text>
         <body>
             <listPerson>
+               
+                <person xml:id="Aaron">
+                    <persName xml:lang="grc">Ἀαρών</persName>
+                    <persName xml:lang="en">Aaron</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q86915934</idno>                   
+                </person>
                 
-                <person xml:id="Abibos">
+               <person xml:id="Abibos">
                     <persName xml:lang="grc">Ἄβιβος</persName>
                     <persName xml:lang="en">Abibos</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q3125328</idno>                   
