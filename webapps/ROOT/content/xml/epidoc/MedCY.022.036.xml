@@ -7,8 +7,9 @@
             <titleStmt>
                 <title>Abraham's sacrifice, Abraham</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
-                <editor xml:id="mgp"> Maria G. Parani</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Character size varies. Alpha with its apex terminating in a serif to the left. Wavy, horizontal abbreviation mark above Προφήτης. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -78,7 +79,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                  <cb n="a"/>
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> 
+                   <lb n="2"/><persName type="sacred" key="Abraham"><w lemma="προφήτης"><expan><abbr rend="supraline">προφ</abbr><ex>ήτης</ex></expan></w> <choice><orig>O</orig><reg>Ὁ</reg></choice> 
+                     <cb n="b"/>
+                        <lb n="1"/><name type="forename" nymRef="#Ἀβραάμ"><choice><orig>A</orig><reg>Ἀ</reg></choice>βρ
+                         <lb n="2"/>α<choice><orig>α</orig><reg>ἀ</reg></choice>μ</name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
