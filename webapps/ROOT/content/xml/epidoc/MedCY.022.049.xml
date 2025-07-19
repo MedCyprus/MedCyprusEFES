@@ -6,9 +6,10 @@
         <fileDesc>
             <titleStmt>
                 <title>Ascension, Bartholomew</title>
-                <editor xml:id="tp">Theocharis Petrou</editor>
+                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
-                <editor xml:id="mgp"> Maria G. Parani</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><persName type="sacred" key="Bartholomew"><name type="forename" nymRef="#Βαρθολομαῖος">Β<supplied reason="omitted">αρθολομαῖος</supplied></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
