@@ -986,6 +986,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1885832</idno>                   
                 </person>
                 
+                <person xml:id="Theodotus">
+                    <persName xml:lang="grc">Θεόδοτος</persName>
+                    <persName xml:lang="en">Theodotus</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q3526571</idno>                   
+                </person>
+                
                 <person xml:id="TheophanesPoet">
                     <persName xml:lang="grc">Θεοφάνης ὁ Ποιητής</persName>
                     <persName xml:lang="en">Theophanes the Poet</persName>
