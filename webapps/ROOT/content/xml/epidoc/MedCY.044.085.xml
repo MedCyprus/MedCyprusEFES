@@ -82,8 +82,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <lb n="1"/><g ref="#cross">+</g> <w lemma="ψυχή">Ψυχὴ</w>              
-                  <lb n="2"/><w lemma="ἕβδομος">ἑβδ<choice><orig>ο</orig><reg>ό</reg></choice>μ<choice><orig>ή</orig><reg>η</reg></choice></w>
-                  <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
+                  <lb n="2"/><w lemma="ἕβδομος">ἑβδομή</w>
+                  <lb n="3" break="no"/><gap reason="lost" extent="unknown" unit="character"/>
                   <lb n="4"/><gap reason="lost" unit="character" quantity="1"/><unclear>ε</unclear>δο<unclear>υ</unclear>
                   <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="divine" key="God"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></persName>   
                   <lb n="6"/><gap reason="lost" extent="unknown" unit="character"></gap>
@@ -95,7 +95,12 @@
                 <p>n/a</p>
                  </div>
             <div type="translation">
-                <p>The soul seventh [..?..]dou [..?..] Christ </p> 
+                <p><lb/>Line 1-3: Soul seven[..?..]
+                       <lb/>Line 3-4: Not usefully translated
+                       <lb/>Line 4: Not usefully translated
+                       <lb/>Line 5: [..?..] God
+                       <lb/>Line 6-8: Not usefully translated
+                    </p> 
             </div>
             <div type="commentary">
                 <p>No comment</p>
