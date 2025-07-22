@@ -528,7 +528,7 @@
             <listBibl xml:id="textualsources">
                 <head>Textual Sources</head>
                 
-                <bibl xml:id="DionysiusofFourna1909"><author><forename>Dionysius of Fourna</forename></author>, <date>1909</date>, <title level="m">Ἑρμηνεία τῆς ζωγραφικής τέχνης</title>, ed.<editor> <forename>A.</forename> <surname>Papadopoulos-Kerameus</surname> </editor>, <pubPlace>Petersburg</pubPlace>.</bibl>
+                <bibl xml:id="DionysiusofFourna1909"><author><surname>Dionysios of Fourna</surname></author>, <date>1909</date>, <title level="m">Ἑρμηνεία τῆς ζωγραφικής τέχνης</title>, ed.<editor> <forename>A.</forename> <surname>Papadopoulos-Kerameus</surname> </editor>, <pubPlace>Petersburg</pubPlace>.</bibl>
                 
                 <bibl xml:id="Lauxterman2003"><author><surname>Lauxterman</surname> <forename>M.</forename></author>, <date>2003</date>, <title level="m">Byzantine Poetry from Pisides to Geometres. Texts and Contexts</title>, <biblScope unit="volume">I</biblScope>, <pubPlace>Vienna</pubPlace>.</bibl>                
                 <bibl xml:id="Rhoby2021"><author><surname>Rhoby</surname> <forename>A.</forename></author>, <date>2021</date>, <title level="a">Varia Lexicographica III. Neues Material zum byzantinischen und postbyzantinischen Wortschatz</title>, <title level="j">JÖB</title>, <biblScope unit="volume">71</biblScope>, <biblScope unit="page">303-93</biblScope>.</bibl>
