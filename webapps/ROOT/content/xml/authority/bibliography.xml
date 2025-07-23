@@ -231,6 +231,8 @@
                     
                     <bibl xml:id="Papacostas2007"><author><surname>Papacostas</surname> <forename>T.</forename></author>, <date>2007</date>, <title level="a">The History and Architecture of the Monastery of Saint John Chrysostomos at Koutsovendis, Cyprus</title>, <title level="j">DOP</title> <biblScope unit="volume">61</biblScope>,<biblScope unit="page"> 25-156</biblScope>.</bibl>
                     
+                    <bibl xml:id="PapadopoulosKerameus1909"><editor><surname>Papadopoulos-Kerameus</surname><forename>A.</forename></editor>, (ed.), <date>1909</date>, <title level="m">Διονυσίου τοῦ ἐκ Φουρνᾶ. Ἑρμηνεία τῆς ζωγραφικής τέχνης</title>, <pubPlace>Petersburg</pubPlace>.</bibl>
+                    
                     <bibl xml:id="Papageorgiou1963"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>1963</date>, <title level="a">Η μονή Αψινθιωτίσσης</title>, <title level="j">RDAC</title> 1963, <biblScope unit="page">73-83</biblScope>.</bibl>
                     
                     <bibl xml:id="Papageorgiou1964"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>1964</date>, <title level="a">Ἡ Παλαιοχριστιανικὴ καὶ Βυζαντινὴ Ἀρχαιολογία καὶ Τέχνη ἐν Κύπρῳ κατὰ τὸ 1963</title>, <title level="j">Ἀπόστολος Βαρνάβας</title> <biblScope unit="volume">25</biblScope>, <biblScope unit="page">153-62, 209-16, 274-84, 349-53</biblScope>.</bibl>
@@ -256,7 +258,6 @@
                     <bibl xml:id="Papageorgiou2000"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>2000</date>, <title level="a">Η βυζαντινή αρχιτεκτονική (4ος-12ος αιώνας)</title>, in <title level="m">Ιερά Μητρόπολις Μόρφου. 2000 Χρόνια Τέχνης και Αγιότητος</title>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">63-70</biblScope>.</bibl>
                     
                     <bibl xml:id="Papageorgiou2003"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>2003</date>, <title level="a">Βυζαντινή επιγραφική στην Κύπρο</title>, in <title level="m">Κύπρος. Το πολιτιστικό της πρόσωπο δια μέσου των αιώνων</title>, ed. <editor><forename>I. </forename><surname>Theocharides</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">97-119</biblScope>.</bibl>
-                    
                     <bibl xml:id="Papageorgiou2004"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>2004</date>, <title level="m">Ιερά Μονή Αγίου Νεοφύτου: Ιστορία και Τέχνη (σύντομος οδηγός)</title>, <pubPlace>Nicosia</pubPlace>. </bibl>
                     
                     <bibl xml:id="Papageorgiou2008"><author><surname>Papageorgiou</surname> <forename>A.</forename></author>, <date>2008</date>, <title level="m">Η Λετύμπου και ο ναός των Αγίων Κηρύκου και Ιουλίττης στη Λετύμπου</title>, <pubPlace>Letymbou</pubPlace>.</bibl>
@@ -527,8 +528,6 @@
             
             <listBibl xml:id="textualsources">
                 <head>Textual Sources</head>
-                
-                <bibl xml:id="DionysiosofFourna1909"><author><surname>Dionysios of Fourna</surname></author>, <date>1909</date>, <title level="m">Ἑρμηνεία τῆς ζωγραφικής τέχνης</title>, ed.<editor> <forename>A.</forename> <surname>Papadopoulos-Kerameus</surname> </editor>, <pubPlace>Petersburg</pubPlace>.</bibl>
                 
                 <bibl xml:id="Lauxterman2003"><author><surname>Lauxterman</surname> <forename>M.</forename></author>, <date>2003</date>, <title level="m">Byzantine Poetry from Pisides to Geometres. Texts and Contexts</title>, <biblScope unit="volume">I</biblScope>, <pubPlace>Vienna</pubPlace>.</bibl>                
                 <bibl xml:id="Rhoby2021"><author><surname>Rhoby</surname> <forename>A.</forename></author>, <date>2021</date>, <title level="a">Varia Lexicographica III. Neues Material zum byzantinischen und postbyzantinischen Wortschatz</title>, <title level="j">JÖB</title>, <biblScope unit="volume">71</biblScope>, <biblScope unit="page">303-93</biblScope>.</bibl>
