@@ -131,8 +131,8 @@
                     </person>
                     
                     <person xml:id="IoannesGerakiotes">
-                        <persName xml:lang="en"><forename>Ioannes</forename> <surname>Gerakiotes</surname></persName>
-                        <persName xml:lang="grc"><forename>Ἰωάννης</forename> <surname>Γερακιώτης</surname></persName>
+                        <persName xml:lang="en"><forename>Ioannes</forename> <surname>Gerakiotes</surname> <surname>Moutoullas</surname></persName>
+                        <persName xml:lang="grc"><forename>Ἰωάννης</forename> <surname>Γερακιώτης</surname> <surname>Μουτουλλᾶς</surname></persName>
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                     
                         <note>Founder of the church of Panagia, Moutoullas, and donor of its 1280 murals</note>
                     </person>
