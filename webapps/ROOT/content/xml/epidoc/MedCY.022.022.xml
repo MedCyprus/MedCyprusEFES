@@ -82,7 +82,7 @@
                    <cb n="b"/> 
                    <lb n="1"/><name type="forename" nymRef="#Ζαχαρίας"><choice><sic>Ζα
                     <lb n="2" break="no"/>χα
-                    <lb n="3" break="no"/><hi rend="ligature">ρη</hi>α<supplied reason="lost">ς</supplied></sic><corr>Ζαχαρίας</corr></choice>
+                    <lb n="3" break="no"/><hi rend="ligature">ρ<choice><orig>η</orig><reg>ή</reg></choice></hi>α<supplied reason="lost">ς</supplied></sic><corr>Ζαχαρίας</corr></choice>
                    </name></persName>
                  </ab>
             </div>
