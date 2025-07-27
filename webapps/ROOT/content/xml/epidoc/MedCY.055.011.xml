@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Text between two ochre-coloured ruled lines. Majuscule letters. Characters' size varies. Ν, T, Ι in superscript. ΑΙ, ΤH, ΝΗΠ, ΤΙ, ΤΟ in ligature. In line 3 the ligature αΙ is written with a minuscule alpha attached to a majuscule iota. Mu in l. 4, with middle bar split into two parts, the upper part in the shape of an upsilon ending on a dot above a iota-shaped element; wide omega with crosslet in l. 9; use of diaeresis over iota in παντὶ (l. 5). Almost systematic use of accents and breathings. Double point after Ἀδελφοί and after ἀγαθόν. Letter height: <height unit="cm">4-5</height>
+                            <handNote>Black majuscule letters against white background. Text between two ochre-coloured ruled lines. Character size varies. Ν, T, Ι in superscript. ΑΙ, ΤH, ΝΗΠ, ΤΙ, ΤΟ joined in ligature. In line 3 the ligature αΙ is written with a minuscule alpha attached to a majuscule iota. Mu in l. 4, with middle bar split into two parts, the upper part in the shape of an upsilon ending on a dot above a iota-shaped element; wide omega with crosslet in l. 9; use of diaeresis over iota in παντὶ (l. 5). Almost systematic use of accents and breathings. Double point after Ἀδελφοί and after ἀγαθόν. Letter height: <height unit="cm">4-5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -90,7 +90,7 @@
                     <lb n="7" break="no"/>μέν<choice><orig>ο</orig><reg>οͅ</reg></choice></sic><corr>τῷ ἐργαζο<lb n="7" break="no"/>μένῳ</corr></choice></w>-->
                     <lb n="6"/><w><choice><sic>τ<choice><orig>ο</orig><reg>ο̃ͅ</reg></choice></sic><corr>τῷ</corr></choice></w> <w lemma="ἐργάζομαι"><choice><sic>ἐργαζο<lb n="7" break="no"/>μέν<choice><orig>ο</orig><reg>οͅ</reg></choice></sic><corr>ἐργαζο<lb n="7" break="no"/>μένῳ</corr></choice></w>
                     <lb n="8"/><hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi> <w lemma="ἀγαθός"><choice><sic><choice><orig>ἁ</orig><reg>ἀ</reg></choice>γα<lb n="9" break="no"/>θ<choice><orig>ὼ</orig><reg>ώ</reg></choice>ν</sic><corr>ἀγα<lb n="9" break="no"/>θόν</corr></choice></w>.
-                    <lb n="10"/><g ref="#cross">+</g><g ref="#cross">+</g>
+                    <lb n="10"/><g ref="#scribal-mark"></g><g ref="#scribal-mark"></g>
                 </ab>
             </div>
             <div type="apparatus">
@@ -100,7 +100,7 @@
                 <p>Brothers, glory and honor and peace to every man who works good.</p>
             </div>
             <div type="commentary">
-                <p>Two cross-like elements are placed at the very end of the text, a feature that we encounter in books and archival documents. The verse is taken from the Rom. 2:10.</p>
+                <p>Two scribal squiggles are placed at the very end of the text, a feature that we encounter in books and archival documents. The verse is taken from the Rom. 2:10.</p>
             </div>
             <div type="bibliography">
                 <listBibl> <bibl>Unpublished</bibl>
