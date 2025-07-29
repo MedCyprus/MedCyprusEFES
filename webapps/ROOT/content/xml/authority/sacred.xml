@@ -877,7 +877,10 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2333926</idno>                   
                 </person>
                 
-                     <person xml:id="RomanosMelode">
+           
+                
+                
+                    <person xml:id="RomanosMelode">
                     <persName xml:lang="grc">Ρωμανός</persName>
                     <persName xml:lang="en">Romanos the Melode</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="Romanos" key="Melode">ὁ Μελωδός</persName>
