@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">5,5-7</height>
+                            <handNote>White majuscule letters against blue background. Character size varies. Accents and breathings non systematic. Letter height: <height unit="cm">5,5-7</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Auxibios">Auxibios</rs></p>
+                           <p><rs type="iconography" ref="#Auxibios">Auxibios</rs>
+                                 <rs type="iconography" ref="#prelate"></rs>
+                               <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
