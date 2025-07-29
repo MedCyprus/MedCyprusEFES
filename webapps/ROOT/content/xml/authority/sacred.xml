@@ -318,6 +318,12 @@
                     <persName xml:lang="en">Eugraphos</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q59607910</idno>                   
                 </person>
+  
+                <person xml:id="Eulalios">
+                    <persName xml:lang="grc">Εὑλάλιος</persName>
+                    <persName xml:lang="en">Eulalios</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q5408742</idno>                   
+                </person>
                 
                 <person xml:id="Eustratios">
                     <persName xml:lang="grc">Εὐστράτιος</persName>
