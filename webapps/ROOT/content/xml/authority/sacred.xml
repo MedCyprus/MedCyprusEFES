@@ -70,6 +70,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q232975</idno>                   
                 </person>
                 
+                <person xml:id="Andrew">
+                    <persName xml:lang="grc">Ἀνδρέας</persName>
+                    <persName xml:lang="en">Andrew</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q43399</idno>                   
+                </person>
+                
                 <person xml:id="Andronikos">
                     <persName xml:lang="grc">Ἀνδρόνικος</persName>
                     <persName xml:lang="en">Andronikos</persName>
