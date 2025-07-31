@@ -906,6 +906,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q140013</idno>                   
                 </person>
                 
+                <person xml:id="Simon">
+                    <persName xml:lang="grc">Σίμων</persName>
+                    <persName xml:lang="en">Simon</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q12871</idno>                   
+                </person>
+                
                 <person xml:id="Solomon">
                     <persName xml:lang="grc">Σολομῶν</persName>
                     <persName xml:lang="en">Solomon</persName>                   
