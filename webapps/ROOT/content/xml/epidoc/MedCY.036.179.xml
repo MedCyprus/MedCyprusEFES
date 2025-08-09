@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Chariton's scroll</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -72,8 +72,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-179-01.JPG"><desc>Naos, southwestern pilaster, west face, inscription</desc></graphic>
-        <graphic url="036-179-02.JPG"><desc>Naos, southwestern pilaster, west face, general view</desc></graphic>
+         <graphic rend="primary" url="036-179-01.JPG"><desc>Saint Chariton's scroll, inscription</desc></graphic>
+        <graphic url="036-179-02.JPG"><desc>Saint Chariton's scroll, general view</desc></graphic>
       </facsimile>
     <text>
         <body>

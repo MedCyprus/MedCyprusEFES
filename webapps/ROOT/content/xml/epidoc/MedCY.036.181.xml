@@ -6,8 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Hilarion's scroll</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -72,8 +72,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-181-01.JPG"><desc>Naos, southwestern recess' soffit, west side, lower register, inscription</desc></graphic>
-        <graphic url="036-181-02.JPG"><desc>Naos, southwestern recess' soffit, west side, lower register, general view</desc></graphic>
+         <graphic rend="primary" url="036-181-01.JPG"><desc>Saint Hilarion's scroll, inscription</desc></graphic>
+        <graphic url="036-181-02.JPG"><desc>Saint Hilarion's scroll, general view</desc></graphic>
       </facsimile>
     <text>
         <body>
