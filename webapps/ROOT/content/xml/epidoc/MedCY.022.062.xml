@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Red majuscule letters against white background. Character size varies. Straight, horizontal mark above all the abbreviations. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,7 +75,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING</ab>
+                    <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan>
+                    <milestone unit="column"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></name></persName>     
+                  <lb n="2"/><w lemma="νικῶ"><expan><abbr rend="supraline">Ν</abbr><ex>ι</ex></expan><milestone unit="column" n="right"/><expan><abbr rend="supraline">Κ</abbr><ex>ᾷ</ex></expan></w></ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
