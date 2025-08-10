@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black majuscule letters against brown background. Character size varies. Systematic use of triangular serifs. Mu with the central strokes reminiscent of an upsilon on a crossed stem. Omega with its apex surmounted by a crosslet. Tau with its stem crossed at mid-height. HN, NHN, and HM joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,15 +75,15 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
                   <cb n="a"/>
                   <lb n="1"/><g ref="#cross">+</g><w lemma="ἐντολή"><choice><orig>ε</orig><reg>ἐ</reg></choice>ντο
                    <lb n="2" break="no"/>λ<hi rend="ligature">ὴν</hi></w> <w lemma="καινὴ"><choice><sic>κε
                   <lb n="3" break="no"/><hi rend="ligature">ν<choice><orig>η</orig><reg>ὴ</reg></choice>ν</hi></sic><corr>καινὴν</corr></choice></w> <w lemma="δίδωμι">δί
                   <lb n="4" break="no"/>δω<supplied reason="omitted">μι</supplied></w> <w lemma="ὑμεῖς"><choice><sic><hi rend="ligature"><choice><orig>ἠ</orig><reg>ἡ</reg></choice>μ</hi>
-                  <lb n="5" break="no"/>ην</sic><corr>ὑμῖν</corr></choice></w> <w lemma=" ἵνα">ἵ
-                  <cb n="b"/>
-                  <lb n="1" break="no"/>να</w> <w lemma="ἀγαπῶ">ἀ
+                  <lb n="5" break="no"/>ην</sic><corr>ὑμῖν</corr></choice></w> <w lemma=" ἵνα">ἵ</w>
+                  <cb n="b" break="no"/>
+                  <lb n="1" /><w lemma=" ἵνα">να</w> <w lemma="ἀγαπῶ">ἀ
                   <lb n="2" break="no"/>γαπᾶ
                   <lb n="3" break="no"/> τε</w> <w lemma="ἀλλήλοι">ἀ
                   <lb n="4" break="no"/>λλή
@@ -93,7 +93,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>John 13:34: A new commandment I give to you, that you love one another.</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
