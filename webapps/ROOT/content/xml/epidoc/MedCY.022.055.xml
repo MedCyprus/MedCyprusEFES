@@ -78,9 +78,9 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>
-                  <cb n="a"/>
-                  <lb n="1"/><g ref="#cross">+</g><w lemma="ἐντολή"><choice><orig>ε</orig><reg>ἐ</reg></choice>ντο
+              <ab> PENDING
+                  <!--<cb n="a"/>
+                  <lb n="1"/><g ref="#cross">+</g><w lemma="ἐντολή"><choice><orig>Ε</orig><reg>Ἐ</reg></choice>ντο
                    <lb n="2" break="no"/>λ<hi rend="ligature">ὴν</hi></w> <w lemma="καινὴ"><choice><sic>κε
                   <lb n="3" break="no"/><hi rend="ligature">ν<choice><orig>η</orig><reg>ὴ</reg></choice>ν</hi></sic><corr>καινὴν</corr></choice></w> <w lemma="δίδωμι">δί
                   <lb n="4" break="no"/>δω<supplied reason="omitted">μι</supplied></w> <w lemma="ὑμεῖς"><choice><sic><hi rend="ligature"><choice><orig>ἠ</orig><reg>ἡ</reg></choice>μ</hi>
@@ -90,7 +90,7 @@
                   <lb n="2" break="no"/>γαπᾶ
                   <lb n="3" break="no"/> τε</w> <w lemma="ἀλλήλοι">ἀ
                   <lb n="4" break="no"/>λλή
-                  <lb n="5" break="no"/>λους</w></ab>
+                  <lb n="5" break="no"/>λους</w>--></ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
