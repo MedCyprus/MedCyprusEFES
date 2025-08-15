@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against brown background. Character size varies. Systematic use of triangular serifs. Mu with the central strokes reminiscent of an upsilon on a crossed stem. Omega with its apex surmounted by a crosslet. Tau with its stem crossed at mid-height. HN, NHN, and HM joined in ligature. Accents and breathings non systematic.
+                            <handNote>Black majuscule letters against brown background. Character size varies. Systematic use of triangular serifs. Mu with the central strokes reminiscent of an upsilon on a crossed stem. Omega with its apex surmounted by a crosslet. Tau with its stem crossed at mid-height. HN, NHN, and HM joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">2,5-3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#ChristAntiphonetes">Christ Antiphonetes</rs>
+                                <rs type="iconography" ref="#Christ"></rs>
+                                <rs type="iconography" ref="#divine"></rs> 
+                            <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
