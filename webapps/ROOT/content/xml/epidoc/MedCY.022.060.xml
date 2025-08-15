@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Deesis"></rs>
+                                <rs type="iconography" ref="#Virgin"></rs>
+                                <rs type="iconography" ref="#female"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
