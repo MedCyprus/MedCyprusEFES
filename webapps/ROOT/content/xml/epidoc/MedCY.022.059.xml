@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against red background. Wavy, horizontal abbreviation mark above the sigla Ἰ(ησοῦ)ς Χ(ριστό)ς. Accents and breathings non systematic. Letter height: <height unit="cm">2</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Deesis"></rs>
+                                <rs type="iconography" ref="#Christ"></rs>
+                                <rs type="iconography" ref="#divine"></rs> 
+                            <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +78,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING</ab>
+                   <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></name></persName></ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
