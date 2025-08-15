@@ -77,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                    <lb n="1"/><persName type="sacred" key="Simon"><name type="forename" nymRef="#Σίμων">Σ<supplied reason="omitted">ίμων</supplied></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
