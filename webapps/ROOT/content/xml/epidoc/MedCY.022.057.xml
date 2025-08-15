@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against red background. Character size varies. Mu with the central strokes reminiscent of an upsilon on a stem. MHP joined in ligature. Wavy, horizontal abbreviation mark above the nomina sacra ΜΗΡ ΘΥ.  Accents and breathings non systematic.
+                            <handNote>White majuscule letters against red background. Character size varies. Mu with the central strokes reminiscent of an upsilon on a stem. MHP joined in ligature. Wavy, horizontal abbreviation mark above the nomina sacra ΜΗΡ ΘΥ. Accents and breathings non systematic. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Virgin"></rs>
+                                <rs type="iconography" ref="#female"></rs>
+                                <rs type="iconography" ref="#scroll"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -82,7 +84,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Mother of God</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
