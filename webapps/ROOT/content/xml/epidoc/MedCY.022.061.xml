@@ -76,7 +76,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING</ab>
+                  <cb n="a"/><lb n="1"/><name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name>
+                   <cb n="b"/>
+                <lb n="1"/><persName type="sacred" key="JohnForerunner"> <supplied reason="lost">Ὁ</supplied> <w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w></persName> 
+                   <lb n="2"/><addName type="epithet" key="Forerunner"><expan><abbr rend="supraline">Πρ</abbr><ex>όδρο</ex><abbr rend="supraline">
+                  <lb n="3" break="no"/>μ
+                  <lb n="4" break="no"/><hi rend="ligature">ο
+                  <lb n="5" break="no"/>ς</hi></abbr></expan></addName>
+              </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
