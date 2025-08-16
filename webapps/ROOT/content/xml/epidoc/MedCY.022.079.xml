@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saint Paraskeve's invocation</title>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
+                <editor xml:id="mx">Maria Xenaki</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.022.079</idno>
+                <availability>
+                  <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, northwestern pier, lower register, west face</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                </support> 
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>On the left and below the figure's arm</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>PENDING
+                            </handNote>
+                        </handDesc>
+                         <decoDesc>
+                            <p>PENDING
+                            </p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#KalopanagiotisKatholikon">Kalopanagiotis, Monastery of Saint John Lampadistes, church of Saint Herakleidios</origPlace>
+                            <origDate notBefore="1251" notAfter="1300" precision="medium">Second half of 13th century</origDate>
+                        </origin>
+                        <provenance when="2025">
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">09/06/2025</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc11">Invocation</term>
+                </keywords>
+            </textClass>
+            <creation>transcription (Th. Petrou, G. Apeitos)</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic rend="primary" url="022-079-01.jpg"><desc>Saint Paraskeve's invocation, inscription detail</desc></graphic>
+        <graphic url="022-079-02.jpg"><desc>Saint Paraskeve's invocation, inscription</desc></graphic>
+        <graphic url="022-079-03.jpg"><desc>Saint Paraskeve's invocation, general view</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+              <ab>
+                    PENDING</ab>
+            </div>
+            <div type="apparatus">
+               <p>PENDING</p>
+            </div>
+            <div type="translation">
+                <p>PENDING</p>
+            </div>
+            <div type="commentary">
+                <p>No comment</p>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                <bibl>PENDING</bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
