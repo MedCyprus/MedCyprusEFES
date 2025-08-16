@@ -847,6 +847,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q378656</idno>                   
                 </person>
                 
+                <person xml:id="Paraskeve">
+                    <persName xml:lang="grc">Παρασκευή</persName>
+                    <persName xml:lang="en">Paraskeve</persName> 
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2488959</idno>                   
+                </person>
+                
                 <person xml:id="Paul">
                     <persName xml:lang="grc">Παῦλος</persName>
                     <persName xml:lang="en">Paul</persName> 
