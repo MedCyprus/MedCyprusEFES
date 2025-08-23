@@ -76,8 +76,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>
-                   <lb n="1"/><g ref="#cross">+</g><w lemma="ἀνήρ">ἅνδρες</w> ς <w lemma="Γαλıλαῖος"><choice><sic>Γαληλα<choice><orig>ί</orig><reg>ῖ</reg></choice>οι</sic><corr>Γαλıλαῖοı</corr></choice></w>· T<choice><orig>ϊ´</orig><reg>ί</reg></choice> <w lemma="ἵσταμαι"><choice><orig>ἐ</orig><reg>ἑ</reg></choice>στήκατε</w> <w lemma="βλέπω">βλέπον<add place="above">τ</add><supplied reason="omitted">ες</supplied></w> εἰς <add place="above">τ</add><supplied reason="omitted">ὸν</supplied> <w lemma="οὐρανός"><hi rend="ligature">οὐ</hi>ραν<choice><orig>ὸ</orig><reg>ό</reg></choice>ν</w>· 
+              <ab>PENDING
+                   <lb n="1"/><g ref="#cross">+</g><w lemma="ἀνήρ">Ἄνδρςς</w> <w lemma="Γαλıλαῖος"><choice><sic>Γαληλα<choice><orig>ί</orig><reg>ῖ</reg></choice>οι</sic><corr>Γαλıλαῖοı</corr></choice></w>· T<choice><orig>ϊ´</orig><reg>ί</reg></choice> <w lemma="ἵσταμαι"><choice><orig>ἐ</orig><reg>ἑ</reg></choice>στήκατε</w> <w lemma="βλέπω">βλέπον<add place="above">τ</add><supplied reason="omitted">ες</supplied></w> εἰς <add place="above">τ</add><supplied reason="omitted">ὸν</supplied> <w lemma="οὐρανός"><hi rend="ligature">οὐ</hi>ραν<choice><orig>ὸ</orig><reg>ό</reg></choice>ν</w>· 
                </ab>
             </div>
             <div type="apparatus">
