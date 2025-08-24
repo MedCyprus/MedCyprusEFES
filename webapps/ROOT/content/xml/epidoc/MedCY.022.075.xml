@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against red background. ΗP joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Herakleidios">Herakleidios</rs>
+                                 <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -77,9 +79,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING</ab>
+                    <cb n="a"/>
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Herakleidios"><w lemma="ἅγιος"><choice><orig>Α</orig><reg>ἅ</reg></choice>γιος</w> <name nymRef ="#Ἡρακλείδιος" type="forename"><choice><sic><hi  rend="ligature"><choice><orig>H</orig><reg>Ἡ</reg></choice>ρ</hi>α 
+                      <lb n="2" break="no"/>
+                      <cb n="b"/>
+                      <lb n="1"/>κλ<choice><orig>ı</orig><reg>ί</reg></choice>δηος</sic><corr>Ἡρακλείδιος</corr></choice></name></persName></ab>
             </div>
             <div type="apparatus">
+                
                <p>PENDING</p>
             </div>
             <div type="translation">
