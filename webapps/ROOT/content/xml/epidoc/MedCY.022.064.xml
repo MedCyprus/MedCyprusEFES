@@ -76,15 +76,15 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
                   <cb n="a"/>
-                <lb n="1"/><w lemma="">Τ
+                <lb n="1"/><w lemma="Τρίτη"><choice><sic>Τ
                 <lb n="2" break="no"/>ρ
-                 <lb n="3" break="no"/>η
+                 <lb n="3" break="no"/><choice><orig>η</orig><reg>ή</reg></choice>
                   <lb n="4" break="no"/>
                    <cb n="b"/>
                   <lb n="1"/>τ
-                  <lb n="2" break="no"/>η</w></ab>
+                  <lb n="2" break="no"/>η</sic><corr>Τρίτη</corr></choice></w></ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
