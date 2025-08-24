@@ -77,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <cb n="a"/>
+                 <cb n="a"/>
                 <lb n="1"/><w lemma="Πέμπτη">Π
                 <lb n="2" break="no"/><choice><orig>ε</orig><reg>έ</reg></choice>μ<supplied reason="lost">π</supplied>
                  <lb n="3" break="no"/>
