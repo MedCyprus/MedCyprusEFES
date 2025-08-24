@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against red background. Accents and breathings non systematic. Letter height: <height unit="cm">2,5-3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Paraskeve">Paraskeve</rs>
+                                <rs type="iconography" ref="#martyr"></rs>
+                            <rs type="iconography" ref="#female"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -79,7 +81,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING</ab>
+                  <cb n="a"/>
+                  <lb n="1"/><choice><orig>H</orig><reg>Ἡ</reg></choice> <persName type="sacred" key="Paraskeve"><w lemma="ἁγία"><choice><orig>Α</orig><reg>Ἁ</reg></choice>γ<choice><orig>ι</orig><reg>ί</reg></choice>α</w> 
+                      <cb n="b"/>
+                      <lb n="1"/><name type="forename" nymRef="#Παρασκευή"><choice><sic>Παρασκεβ<choice><orig>η</orig><reg>ή</reg></choice></sic><corr>Παρασκευή</corr></choice></name></persName>
+              </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
