@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against green background. Accents and breathings non systematic. Letter height: <height unit="cm">1,5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Kyriake">Kyriake</rs>                
+                                  <rs type="iconography" ref="#martyr"></rs>
+                                  <rs type="iconography" ref="#female"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +77,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING</ab>
+                    <cb n="a"/>
+                <lb n="1"/><w lemma="Πέμπτη">Π
+                <lb n="2" break="no"/><choice><orig>ε</orig><reg>έ</reg></choice>μ<supplied reason="lost">π</supplied>
+                 <lb n="3" break="no"/>
+                   <cb n="b"/>
+                  <lb n="1"/>τ
+                  <lb n="2" break="no"/>η</w></ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
