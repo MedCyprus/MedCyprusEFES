@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black majuscule letters against white background. TO and AΓ joined in ligature. T is written in superscript on O. Accents and breathings non systematic. Letter height: <height unit="cm">?</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#mandylion">mandylion</rs>
+                            <rs type="iconography" ref="#Christ"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +76,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING</ab>
+                    <cb n="a"/>
+                   <lb n="1"/><hi rend="ligature">το</hi> <w lemma="ἅγιος"><hi rend="ligature"><choice><orig>α</orig><reg>ἅ</reg></choice>γ</hi>ιον</w>
+                  <cb n="b"/>
+                  <lb n="1"/><w lemma="μανδήλιον"><choice><sic>μ<supplied reason="omitted">α</supplied>νδ<choice><orig>ι</orig><reg>ί</reg></choice>λει<supplied reason="omitted">ον</supplied></sic><corr>μανδήλιον</corr></choice></w> 
+              
+              </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
