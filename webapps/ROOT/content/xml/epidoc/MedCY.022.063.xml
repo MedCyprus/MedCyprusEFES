@@ -79,12 +79,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                 <cb n="a"/>
-                <lb n="1"/><w lemma="δεύτερα">Δ
+                <lb n="1"/><w lemma="δευτέρα">Δ
                 <lb n="2" break="no"/>ε
-                 <lb n="3" break="no"/><choice><orig>υ</orig><reg>ύ</reg></choice>
+                 <lb n="3" break="no"/>υ
                     <lb n="4" break="no"/>
                    <cb n="b"/>
-                  <lb n="1"/>τε
+                  <lb n="1"/>τ<choice><orig>ε</orig><reg>έ</reg></choice>
                   <lb n="2" break="no"/>ρα</w> 
               </ab>
             </div>
