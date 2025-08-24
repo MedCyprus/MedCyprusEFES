@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against red background. Delta is formed with a lambda on a bottom bar, with a serif to the left of its top bar. AN and NHK joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">2,5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Andronikos">Andronikos</rs>
+                            <rs type="iconography" ref="#monastic"></rs>
+                                   <rs type="iconography" ref="#ascetic"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -76,7 +79,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING</ab>
+                    <lb n="1"/>Ὁ <persName type="sacred" key="Andronikos"><w lemma="ἅγιος"><choice><orig>Ἁ</orig><reg>Ἃ</reg></choice>γιος</w> <name nymRef ="#Ἀνδρόνικος" type="forename"><choice><sic><choice><orig>Α</orig><reg>Ἀ</reg></choice>νδρό<hi rend="ligature">νηκ</hi>ος</sic><corr>Ἀνδρόνικος</corr></choice></name></persName> 
+              </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
