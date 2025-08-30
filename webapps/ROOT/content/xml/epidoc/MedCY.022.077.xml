@@ -77,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                     <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <w lemma="βασιλεύς">Β<choice><orig>ὰ</orig><reg>α</reg></choice>σιλε<choice><orig>υ</orig><reg>ὺ</reg></choice><supplied reason="omitted">ς</supplied></w> <hi rend="ligature">τη</hi><supplied reason="omitted">ς</supplied> <w lemma="δόξα">Δόξης</w>
+                     <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <w lemma="βασιλεύς">Β<choice><orig>ὰ</orig><reg>α</reg></choice>σιλε<choice><orig>υ</orig><reg>ὺ</reg></choice><supplied reason="omitted">ς</supplied></w> <hi rend="ligature">τη</hi>ς <w lemma="δόξα"><expan><abbr rend="supraline">Δ</abbr><ex>ό</ex><abbr rend="supraline">ξ</abbr><ex>ης</ex></expan></w>
               </ab>
             </div>
             <div type="apparatus">
