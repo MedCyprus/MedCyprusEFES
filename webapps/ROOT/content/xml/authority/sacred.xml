@@ -387,6 +387,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q48438</idno>                   
                 </person>
                 
+                <person xml:id="Germanos">
+                    <persName xml:lang="grc">Γερμανός</persName>
+                    <persName xml:lang="en">Germanos</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q441464</idno>                   
+                </person>
+                
                 <person xml:id="God">
                     <persName xml:lang="grc">Θεός</persName>
                     <persName xml:lang="en">God</persName>
