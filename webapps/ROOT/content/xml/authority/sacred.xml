@@ -258,6 +258,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q41370</idno>                   
                 </person>
                 
+                <person xml:id="Demetrianos">
+                    <persName xml:lang="grc">Δημητριανός</persName>
+                    <persName xml:lang="en">Demetrianos</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q60465907</idno>                   
+                </person>
+                
                 <person xml:id="Demetrios">
                     <persName xml:lang="grc">Δημήτριος</persName>
                     <persName xml:lang="en">Demetrios</persName>
