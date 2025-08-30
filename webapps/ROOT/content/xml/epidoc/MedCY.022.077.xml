@@ -77,7 +77,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING</ab>
+                     <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <w lemma="βασιλεύς">Β<choice><orig>ὰ</orig><reg>α</reg></choice>σιλε<choice><orig>υ</orig><reg>ὺ</reg></choice><supplied reason="omitted">ς</supplied></w> <hi rend="ligature">τη</hi><supplied reason="omitted">ς</supplied> <w lemma="δόξα">Δόξης</w>
+              </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
