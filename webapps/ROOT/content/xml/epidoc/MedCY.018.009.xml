@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Mu with the central strokes reminiscent of an upsilon on a crossed stem. Final sigma in the form of a wavy line. Accents and breathings non systematic. Letter height: <height unit="cm">?</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Germanos">Germanos</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +77,16 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice><persName type="sacred" key="Germanos"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                    <cb n="b"/>
+                   <lb n="1"/><name nymRef ="#Γερμανός" type="forename">Γε
+                   <lb n="2" break="no"/>ρ
+                    <lb n="3" break="no"/>μ
+                    <lb n="4" break="no"/>α
+                    <lb n="5" break="no"/>ν
+                   <lb n="6" break="no"/><choice><orig>ὸ</orig><reg>ό</reg></choice>ς</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +96,7 @@
                 <p>Saint Germanos</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
