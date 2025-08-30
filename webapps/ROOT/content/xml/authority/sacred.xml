@@ -885,6 +885,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43675</idno>                   
                 </person>
                 
+                <person xml:id="Philon">
+                    <persName xml:lang="grc">Φίλων</persName>
+                    <persName xml:lang="en">Philon</persName>   
+                    <idno type="wikidata">not listed</idno>                   
+                </person>
+                
                 <person xml:id="Phloros">
                     <persName xml:lang="grc">Φλῶρος</persName>
                     <persName xml:lang="en">Phloros</persName> 
