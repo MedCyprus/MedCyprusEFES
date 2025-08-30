@@ -903,8 +903,11 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2333926</idno>                   
                 </person>
                 
-           
-                
+                <person xml:id="Polykarpos">
+                    <persName xml:lang="grc">Πολύκαρπος</persName>
+                    <persName xml:lang="en">Polykarpos</persName> 
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q192371</idno>                   
+                </person>
                 
                     <person xml:id="RomanosMelode">
                     <persName xml:lang="grc">Ρωμανός</persName>
