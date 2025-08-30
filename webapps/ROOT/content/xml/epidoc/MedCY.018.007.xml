@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against green background. Omega formed of two linked oval bowls. Accents and breathings systematic. Letter height: <height unit="cm">?</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Philon">Philon</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,13 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Philon"><supplied reason="lost"><w lemma="ἅγιος">ἅγιος</w></supplied>
+                    <lb n="2"/><name nymRef ="#Φίλων" type="forename">Φί
+                    <lb n="3" break="no"/>
+                   <cb n="b"/>
+                   <lb n="1"/>λων</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +92,7 @@
                 <p>Saint Philon</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
