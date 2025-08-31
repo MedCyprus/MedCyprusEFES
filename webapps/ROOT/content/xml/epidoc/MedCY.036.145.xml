@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>*Presentation of the Virgin to the Temple, Virgin</title>
+                <title>Presentation of the Virgin to the Temple, Virgin</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -51,9 +51,9 @@
                             <origPlace ref="locations.xml#Lagoudera">Lagoudera, Panagia tou Araka or Arakiotissa </origPlace>
                             <origDate when="1192-12" precision="high">Indiction 11, December 1192</origDate>
                          </origin>
-                        <provenance when="2022">
+                        <provenance when="2025">
                         </provenance>
-                        <provenance type="observed" resp="#tp">26-27/09/2022
+                        <provenance type="observed" resp="#tp">08/06/2025
                         </provenance>
                     </history>
                 </msDesc>
