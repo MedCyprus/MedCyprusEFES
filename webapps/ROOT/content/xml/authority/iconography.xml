@@ -23,6 +23,9 @@
                 <item xml:id="AdorationMagi">
                     <term xml:lang="en">Adoration of the Magi</term>
                 </item>
+                <item xml:id="AgonyInTheGarden">
+                    <term xml:lang="en">Agony in the Garden</term>
+                </item>
                 <!--<item xml:id="AngelicProcession">
                  <term xml:lang="en">Angelic procession</term>
              </item>-->
@@ -46,6 +49,9 @@
                 </item>
                 <item xml:id="BathChild">
                     <term xml:lang="en">Bath of the Child</term>
+                </item>
+                <item xml:id="Betrayal">
+                    <term xml:lang="en">Betrayal</term>
                 </item>
                 <item xml:id="VirginBath">
                     <term xml:lang="en">Bath of the infant Virgin</term>
@@ -82,6 +88,9 @@
                 <item xml:id="EntryIntoJerusalem">
                     <term xml:lang="en">Entry into Jerusalem</term>
                 </item>
+                <item xml:id="FortyMartyrs_martyrdom">
+                    <term xml:lang="en">Martyrdom of the Forty Martyrs of Sebasteia</term>
+                </item>
                 <item xml:id="Hetoimasia">
                     <term xml:lang="en">Hetoimasia (preparation of the throne)</term>
                 </item>
@@ -93,10 +102,7 @@
                 </item>
                 <item xml:id="LazarosRaising">
                     <term xml:lang="en">Raising of Lazaros</term>
-                </item>
-                <item xml:id="FortyMartyrs_martyrdom">
-                    <term xml:lang="en">Martyrdom of the Forty Martyrs of Sebasteia</term>
-                </item>
+                </item>             
                 <item xml:id="Nativity">
                     <term xml:lang="en">Nativity</term>
                 </item>
@@ -115,12 +121,6 @@
                 <item xml:id="WashingOfTheFeet">
                     <term xml:lang="en">Washing of the Feet</term>
                 </item>
-                <item xml:id="AgonyInTheGarden">
-                    <term xml:lang="en">Agony in the Garden</term>
-                </item>
-                <item xml:id="Betrayal">
-                    <term xml:lang="en">Betrayal</term>
-                </item>
                 <item xml:id="JudgementOfPilate">
                     <term xml:lang="en">Judgement of Pilate</term>
                 </item>
@@ -129,6 +129,9 @@
                 </item>
                 <item xml:id="DescentOfTheCross">
                     <term xml:lang="en">Descent of the Cross</term>
+                </item>
+                <item xml:id="WomenAtTheTomb">
+                    <term xml:lang="en">Women at the Tomb</term>
                 </item>
                 <item xml:id="unidentified_scene">
                     <term xml:lang="en">Unidentified scene</term>
