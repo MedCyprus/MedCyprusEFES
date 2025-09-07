@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Presentation of the Virgin to the Temple, Virgin receiving food by the angel, Virgin</title>
+                <title>Presentation of the Virgin to the Temple, the Virgin fed by the angel, Virgin</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -68,10 +68,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="018-033-01.JPG"><desc>Virgin receiving food by the angel, Virgin, inscription detail</desc></graphic>
-        <graphic url="018-033-02.JPG"><desc>Virgin receiving food by the angel, Virgin, inscription</desc></graphic>     
-        <graphic url="018-033-03.JPG"><desc>Virgin receiving food by the angel, Virgin, general view</desc></graphic>
-        <graphic url="018-033-04.JPG"><desc>Virgin receiving food by the angel, Virgin, general view</desc></graphic>
+         <graphic rend="primary" url="018-033-01.JPG"><desc>Presentation of the Virgin to the Temple, the Virgin fed by the angel, Virgin, inscription detail</desc></graphic>
+        <graphic url="018-033-02.JPG"><desc>Presentation of the Virgin to the Temple, the Virgin fed by the angel, Virgin, inscription</desc></graphic>     
+        <graphic url="018-033-03.JPG"><desc>Presentation of the Virgin to the Temple, the Virgin fed by the angel, Virgin, general view</desc></graphic>
+        <graphic url="018-033-04.JPG"><desc>Presentation of the Virgin to the Temple, the Virgin fed by the angel, Virgin, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
