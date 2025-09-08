@@ -63,7 +63,11 @@
                     <persName xml:lang="en">Akindynos</persName>                   
                     <idno type="wikidata">not listed</idno>                   
                 </person>
-                
+                <person xml:id="Alexios">
+                    <persName xml:lang="grc">Ἀλεξιος</persName>
+                    <persName xml:lang="en">Alexios</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q12872095</idno>                   
+                </person>
                 <person xml:id="AnastasiaPharmakolytria">
                     <persName xml:lang="grc">Ἀναστασία</persName>
                     <persName xml:lang="en">Anastasia</persName>
