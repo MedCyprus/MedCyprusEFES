@@ -42,8 +42,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#PresentationVirgin">Presentation of the Virgin to the Temple, Virgin</rs>
-                             <rs type="iconography" ref="#Virgin"></rs></p>
+                        <p><rs type="iconography" ref="#PresentationVirgin">Presentation of the Virgin to the Temple, Virgin</rs>
+                            <rs type="iconography" ref="#VirginFedbyAngel"></rs>
+                            <rs type="iconography" ref="#Virgin"></rs>
+                            <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
