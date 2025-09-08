@@ -572,6 +572,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q40662</idno>                   
                 </person>
                 
+                <person xml:id="JohnKalybites">
+                    <persName xml:lang="grc"> Ἰωάννης ὁ Καλυβίτης</persName>
+                    <persName xml:lang="en">John Kalybites</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="JohnKalybites" key="Kalybites">ὁ Καλυβίτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JohnKalybites" key="Kalybites">Kalybites</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1959875</idno>                   
+                </person>
+                
                 <person xml:id="JohnMerciful">
                     <persName xml:lang="grc"> Ἰωάννης ὁ Ἐλεήμων</persName>
                     <persName xml:lang="en">John the Merciful</persName> 
