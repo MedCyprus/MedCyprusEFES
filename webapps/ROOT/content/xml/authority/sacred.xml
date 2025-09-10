@@ -421,6 +421,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q59550534</idno>                   
                 </person>
                 
+                <person xml:id="GregoryOfAgrigento">
+                    <persName xml:lang="grc">Γρηγόριος</persName>
+                    <persName xml:lang="en">Gregory of Agrigento</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="GregoryOfAgrigento" key="of Agrigento">ὁ Ἀκραγαντίνος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="GregoryOfAgrigento" key="of Agrigento">of Agrigento</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q9282211</idno>                   
+                </person>
+                
                 <person xml:id="GregoryNazianzenos">
                     <persName xml:lang="grc">Γρηγόριος</persName>
                     <persName xml:lang="en">Gregory the Theologian / Nazianzenos</persName> 
