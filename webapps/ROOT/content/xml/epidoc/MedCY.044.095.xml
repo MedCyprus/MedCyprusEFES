@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Forty Martyrs of Sebaste</title>
+                <title>Forty Martyrs of Sebasteia</title>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <author xml:id="mx">Maria Xenaki</author>
@@ -71,13 +71,13 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-095-01.JPG"><desc>Forty Martyrs of Sebaste, inscription detail</desc></graphic>
-        <graphic url="044-095-02.JPG"><desc>Forty Martyrs of Sebaste, inscription detail</desc></graphic>
-        <graphic url="044-095-03.JPG"><desc>Forty Martyrs of Sebaste, inscription detail</desc></graphic>
-        <graphic url="044-095-04.JPG"><desc>Forty Martyrs of Sebaste, inscription detail</desc></graphic>
-        <graphic url="044-095-05.JPG"><desc>Forty Martyrs of Sebaste, inscription detail</desc></graphic>
-        <graphic url="044-095-06.JPG"><desc>Forty Martyrs of Sebaste, general view</desc></graphic>
-        <graphic url="044-095-07.JPG"><desc>Forty Martyrs of Sebaste, general view</desc></graphic>
+         <graphic rend="primary" url="044-095-01.JPG"><desc>Forty Martyrs of Sebasteia, inscription detail</desc></graphic>
+        <graphic url="044-095-02.JPG"><desc>Forty Martyrs of Sebasteia, inscription detail</desc></graphic>
+        <graphic url="044-095-03.JPG"><desc>Forty Martyrs of Sebasteia, inscription detail</desc></graphic>
+        <graphic url="044-095-04.JPG"><desc>Forty Martyrs of Sebasteia, inscription detail</desc></graphic>
+        <graphic url="044-095-05.JPG"><desc>Forty Martyrs of Sebasteia, inscription detail</desc></graphic>
+        <graphic url="044-095-06.JPG"><desc>Forty Martyrs of Sebasteia, general view</desc></graphic>
+        <graphic url="044-095-07.JPG"><desc>Forty Martyrs of Sebasteia, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
