@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Forty Martyrs of Sebaste</title>
+                <title>Forty Martyrs of Sebasteia</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -71,11 +71,11 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-094-01.JPG"><desc>Forty Martyrs of Sebaste, inscription detail</desc></graphic>
-        <graphic url="044-094-02.JPG"><desc>Forty Martyrs of Sebaste, inscription detail</desc></graphic>
-        <graphic url="044-094-03.JPG"><desc>Forty Martyrs of Sebaste, inscription</desc></graphic>
-        <graphic url="044-094-04.JPG"><desc>Forty Martyrs of Sebaste, general view</desc></graphic>
-        <graphic url="044-094-05.JPG"><desc>Forty Martyrs of Sebaste, general view</desc></graphic>
+         <graphic rend="primary" url="044-094-01.JPG"><desc>Forty Martyrs of Sebasteia, inscription detail</desc></graphic>
+        <graphic url="044-094-02.JPG"><desc>Forty Martyrs of Sebasteia, inscription detail</desc></graphic>
+        <graphic url="044-094-03.JPG"><desc>Forty Martyrs of Sebasteia, inscription</desc></graphic>
+        <graphic url="044-094-04.JPG"><desc>Forty Martyrs of Sebasteia, general view</desc></graphic>
+        <graphic url="044-094-05.JPG"><desc>Forty Martyrs of Sebasteia, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -89,7 +89,7 @@
                 <p>n/a</p>
                  </div>
             <div type="translation">
-                <p>[The Forty] gloriously triumphant Μ[artyrs] of Seb[aste]</p> 
+                <p>[The Forty] gloriously triumphant Μ[artyrs] of Seb[asteia]</p> 
             </div>
             <div type="commentary">
                 <p>No comment</p>
