@@ -1023,6 +1023,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2742399</idno>                   
                 </person>
                 
+                <person xml:id="Thallelaios">
+                    <persName xml:lang="grc">Θαλλέλαιος</persName>
+                    <persName xml:lang="en">Thallelaios</persName>               
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q16086357</idno>                   
+                </person>
+                
                 <person xml:id="Thomas">
                     <persName xml:lang="grc">Θωμᾶς</persName>
                     <persName xml:lang="en">Thomas</persName>                   
