@@ -81,7 +81,7 @@
                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Aaron"><w lemma="προφήτης"><expan><abbr rend="supraline">πρ</abbr><ex>ο</ex><abbr rend="supraline">φ</abbr><ex>ή</ex><abbr rend="supraline">τ</abbr><ex>η</ex><abbr rend="supraline">ς</abbr></expan></w>
                       <cb n="b"/>
                       <lb n="1"/><name type="forename" nymRef="#Ἀαρών"><choice><sic><choice><orig>A</orig><reg>Ἀ</reg></choice>
-                         <lb n="2" break="no"/>ρο
+                         <lb n="2" break="no"/>ρ<choice><orig>ο</orig><reg>ό</reg></choice>
                           <lb n="3" break="no"/>ν</sic><corr>Ἀαρών</corr></choice></name></persName>
                  </ab>
             </div>

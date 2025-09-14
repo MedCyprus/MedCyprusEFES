@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Deacon, unidentified</title>
+                <title>Saint Laurentios</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -41,8 +41,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Laurentios">Saint unidentified, possibly Laurentios</rs>
-                               
+                            <p><rs type="iconography" ref="#Laurentios">Saint unidentified, possibly Laurentios</rs>                              
                                <rs type="iconography" ref="#deacon"></rs>
                                <rs type="iconography" ref="#male"></rs>
                             </p>
@@ -70,10 +69,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="021-001-01.JPG"><desc>Deacon, unidentified, inscription</desc></graphic>
-        <graphic url="021-001-02.JPG"><desc>Deacon, unidentified, inscription detail</desc></graphic>
-        <graphic url="021-001-03.JPG"><desc>Deacon, unidentified, inscription detail</desc></graphic>
-        <graphic url="021-001-04.JPG"><desc>Deacon, unidentified, general view</desc></graphic>      
+        <graphic rend="primary" url="021-001-01.JPG"><desc>Saint Laurentios, inscription</desc></graphic>
+        <graphic url="021-001-02.JPG"><desc>Saint Laurentios, inscription detail</desc></graphic>
+        <graphic url="021-001-03.JPG"><desc>Saint Laurentios, inscription detail</desc></graphic>
+        <graphic url="021-001-04.JPG"><desc>Saint Laurentios, general view</desc></graphic>      
     </facsimile>
     <text>
         <body>

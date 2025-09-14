@@ -63,11 +63,21 @@
                     <persName xml:lang="en">Akindynos</persName>                   
                     <idno type="wikidata">not listed</idno>                   
                 </person>
-                
+                <person xml:id="Alexios">
+                    <persName xml:lang="grc">Ἀλεξιος</persName>
+                    <persName xml:lang="en">Alexios</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q12872095</idno>                   
+                </person>
                 <person xml:id="AnastasiaPharmakolytria">
                     <persName xml:lang="grc">Ἀναστασία</persName>
                     <persName xml:lang="en">Anastasia</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q232975</idno>                   
+                </person>
+                
+                <person xml:id="Andrew">
+                    <persName xml:lang="grc">Ἀνδρέας</persName>
+                    <persName xml:lang="en">Andrew</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q43399</idno>                   
                 </person>
                 
                 <person xml:id="Andronikos">
@@ -252,6 +262,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q41370</idno>                   
                 </person>
                 
+                <person xml:id="Demetrianos">
+                    <persName xml:lang="grc">Δημητριανός</persName>
+                    <persName xml:lang="en">Demetrianos</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q60465907</idno>                   
+                </person>
+                
                 <person xml:id="Demetrios">
                     <persName xml:lang="grc">Δημήτριος</persName>
                     <persName xml:lang="en">Demetrios</persName>
@@ -318,6 +334,12 @@
                     <persName xml:lang="en">Eugraphos</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q59607910</idno>                   
                 </person>
+  
+                <person xml:id="Eulalios">
+                    <persName xml:lang="grc">Εὑλάλιος</persName>
+                    <persName xml:lang="en">Eulalios</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q5408742</idno>                   
+                </person>
                 
                 <person xml:id="Eustratios">
                     <persName xml:lang="grc">Εὐστράτιος</persName>
@@ -361,9 +383,9 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q81989</idno>                   
                 </person>
                 
-                <person xml:id="Gedeon">
+                <person xml:id="Gideon">
                     <persName xml:lang="grc">Γεδεών</persName>
-                    <persName xml:lang="en">Gedeon</persName>                   
+                    <persName xml:lang="en">Gideon</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q176125</idno>                   
                 </person>
                 
@@ -373,6 +395,12 @@
                     <persName xml:lang="grc" type="epithet" subtype="George" key="Cappadocian">ὁ Καππαδόκης</persName>
                     <persName xml:lang="en" type="epithet" subtype="George" key="Cappadocian">Cappadocian</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q48438</idno>                   
+                </person>
+                
+                <person xml:id="Germanos">
+                    <persName xml:lang="grc">Γερμανός</persName>
+                    <persName xml:lang="en">Germanos</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q441464</idno>                   
                 </person>
                 
                 <person xml:id="God">
@@ -391,6 +419,14 @@
                     <persName xml:lang="grc">Γουρίας</persName>
                     <persName xml:lang="en">Gourias</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q59550534</idno>                   
+                </person>
+                
+                <person xml:id="GregoryOfAgrigento">
+                    <persName xml:lang="grc">Γρηγόριος</persName>
+                    <persName xml:lang="en">Gregory of Agrigento</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="GregoryOfAgrigento" key="of Agrigento">ὁ Ἀκραγαντίνος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="GregoryOfAgrigento" key="of Agrigento">of Agrigento</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q9282211</idno>                   
                 </person>
                 
                 <person xml:id="GregoryNazianzenos">
@@ -463,6 +499,8 @@
                     <persName xml:lang="en">Ignatios Theophoros</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="IgnatiosTheophoros" key="Theophoros">ὁ Θεοφόρος</persName>
                     <persName xml:lang="en" type="epithet" subtype="IgnatiosTheophoros" key="Theophoros">the God-bearing</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="IgnatiosTheophoros" key="of Antioch">ὁ Ἀντιοχείας</persName>
+                    <persName xml:lang="en" type="epithet" subtype="IgnatiosTheophoros" key="of Antioch">of Antioch</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44170</idno>                   
                 </person>
                 
@@ -540,6 +578,14 @@
                     <persName xml:lang="grc" type="epithet" subtype="JohnForerunner" key="Forerunner">ὁ Πρόδρομος</persName>
                     <persName xml:lang="en" type="epithet" subtype="JohnForerunner" key="Forerunner">Forerunner</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q40662</idno>                   
+                </person>
+                
+                <person xml:id="JohnKalybites">
+                    <persName xml:lang="grc"> Ἰωάννης ὁ Καλυβίτης</persName>
+                    <persName xml:lang="en">John Kalybites</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="JohnKalybites" key="Kalybites">ὁ Καλυβίτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JohnKalybites" key="Kalybites">Kalybites</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1959875</idno>                   
                 </person>
                 
                 <person xml:id="JohnMerciful">
@@ -835,6 +881,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q378656</idno>                   
                 </person>
                 
+                <person xml:id="Paraskeve">
+                    <persName xml:lang="grc">Παρασκευή</persName>
+                    <persName xml:lang="en">Paraskeve</persName> 
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2488959</idno>                   
+                </person>
+                
                 <person xml:id="Paul">
                     <persName xml:lang="grc">Παῦλος</persName>
                     <persName xml:lang="en">Paul</persName> 
@@ -865,13 +917,25 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43675</idno>                   
                 </person>
                 
+                <person xml:id="Philon">
+                    <persName xml:lang="grc">Φίλων</persName>
+                    <persName xml:lang="en">Philon</persName>   
+                    <idno type="wikidata">not listed</idno>                   
+                </person>
+                
                 <person xml:id="Phloros">
                     <persName xml:lang="grc">Φλῶρος</persName>
                     <persName xml:lang="en">Phloros</persName> 
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2333926</idno>                   
                 </person>
                 
-                     <person xml:id="RomanosMelode">
+                <person xml:id="Polykarpos">
+                    <persName xml:lang="grc">Πολύκαρπος</persName>
+                    <persName xml:lang="en">Polykarpos</persName> 
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q192371</idno>                   
+                </person>
+                
+                    <person xml:id="RomanosMelode">
                     <persName xml:lang="grc">Ρωμανός</persName>
                     <persName xml:lang="en">Romanos the Melode</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="Romanos" key="Melode">ὁ Μελωδός</persName>
@@ -895,6 +959,12 @@
                     <persName xml:lang="grc">Σέργιος</persName>
                     <persName xml:lang="en">Sergios</persName>               
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q140013</idno>                   
+                </person>
+                
+                <person xml:id="Simon">
+                    <persName xml:lang="grc">Σίμων</persName>
+                    <persName xml:lang="en">Simon</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q12871</idno>                   
                 </person>
                 
                 <person xml:id="Solomon">
@@ -951,6 +1021,12 @@
                     <persName xml:lang="grc" type="epithet" subtype="SymeonMiracleWorker" key="Thaumatourgos">ὁ Θαυματουργός</persName>
                     <persName xml:lang="en" type="epithet" subtype="SymeonMiracleWorker" key="Thaumatourgos">Thaumatourgos</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2742399</idno>                   
+                </person>
+                
+                <person xml:id="Thallelaios">
+                    <persName xml:lang="grc">Θαλλέλαιος</persName>
+                    <persName xml:lang="en">Thallelaios</persName>               
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q16086357</idno>                   
                 </person>
                 
                 <person xml:id="Thomas">

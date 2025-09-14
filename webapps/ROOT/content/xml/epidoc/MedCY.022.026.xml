@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. Character size varies. Wavy, horizontal abbreviation mark above Προφήτης. Accents and breathings non systematic.
+                            <handNote>White majuscule letters against blue background. Character size varies. Zeta with no top bar,  curvilinear spine and tail. Wavy, horizontal abbreviation mark above Προφήτης. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -80,7 +80,7 @@
                    <cb n="a"/>
                     <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Ezekiel"><w lemma="προφήτης"><expan><abbr rend="supraline">πρ</abbr><ex>ο</ex><abbr rend="supraline">φ</abbr><ex>ή</ex><abbr rend="supraline">τ</abbr><ex>η</ex><abbr rend="supraline">ς</abbr></expan><am>&#x00A0;΄&#x00A0;</am></w>
                       <cb n="b"/>
-                        <lb n="1"/><name type="forename" nymRef="#Ἰεζεκιήλ"><choice><sic>Η
+                        <lb n="1"/><name type="forename" nymRef="#Ἰεζεκιήλ"><choice><sic><choice><orig>Η</orig><reg>Ἠ</reg></choice>
                         <lb n="2" break="no"/>ε
                         <lb n="3" break="no"/>ζε
                         <lb n="4" break="no"/>κυ

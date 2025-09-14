@@ -23,6 +23,9 @@
                 <item xml:id="AdorationMagi">
                     <term xml:lang="en">Adoration of the Magi</term>
                 </item>
+                <item xml:id="AgonyInTheGarden">
+                    <term xml:lang="en">Agony in the Garden</term>
+                </item>
                 <!--<item xml:id="AngelicProcession">
                  <term xml:lang="en">Angelic procession</term>
              </item>-->
@@ -46,6 +49,9 @@
                 </item>
                 <item xml:id="BathChild">
                     <term xml:lang="en">Bath of the Child</term>
+                </item>
+                <item xml:id="Betrayal">
+                    <term xml:lang="en">Betrayal</term>
                 </item>
                 <item xml:id="VirginBath">
                     <term xml:lang="en">Bath of the infant Virgin</term>
@@ -82,6 +88,9 @@
                 <item xml:id="EntryIntoJerusalem">
                     <term xml:lang="en">Entry into Jerusalem</term>
                 </item>
+                <item xml:id="FortyMartyrs_martyrdom">
+                    <term xml:lang="en">Martyrdom of the Forty Martyrs of Sebasteia</term>
+                </item>
                 <item xml:id="Hetoimasia">
                     <term xml:lang="en">Hetoimasia (preparation of the throne)</term>
                 </item>
@@ -93,10 +102,7 @@
                 </item>
                 <item xml:id="LazarosRaising">
                     <term xml:lang="en">Raising of Lazaros</term>
-                </item>
-                <item xml:id="FortyMartyrs_martyrdom">
-                    <term xml:lang="en">Martyrdom of the Forty Martyrs of Sebasteia</term>
-                </item>
+                </item>             
                 <item xml:id="Nativity">
                     <term xml:lang="en">Nativity</term>
                 </item>
@@ -109,17 +115,14 @@
                 <item xml:id="PresentationVirgin">
                     <term xml:lang="en">Presentation of the Virgin to the Temple</term>
                 </item>
+                <item xml:id="VirginFedbyAngel">
+                    <term xml:lang="en">The Virgin fed by the angel</term>
+                </item>
                 <item xml:id="AbrahamSacrifice">
                     <term xml:lang="en">The Sacrifice of Abraham</term>
                 </item>
                 <item xml:id="WashingOfTheFeet">
                     <term xml:lang="en">Washing of the Feet</term>
-                </item>
-                <item xml:id="AgonyInTheGarden">
-                    <term xml:lang="en">Agony in the Garden</term>
-                </item>
-                <item xml:id="Betrayal">
-                    <term xml:lang="en">Betrayal</term>
                 </item>
                 <item xml:id="JudgementOfPilate">
                     <term xml:lang="en">Judgement of Pilate</term>
@@ -129,6 +132,9 @@
                 </item>
                 <item xml:id="DescentOfTheCross">
                     <term xml:lang="en">Descent of the Cross</term>
+                </item>
+                <item xml:id="WomenAtTheTomb">
+                    <term xml:lang="en">Women at the Tomb</term>
                 </item>
                 <item xml:id="unidentified_scene">
                     <term xml:lang="en">Unidentified scene</term>
@@ -188,6 +194,9 @@
                 </item>
                 <item xml:id="Akindynos">
                     <term xml:lang="en">Akindynos</term>
+                </item>
+                <item xml:id="Alexios">
+                    <term xml:lang="en">Alexios</term>
                 </item>
                 <item xml:id="Amoun">
                     <term xml:lang="en">Amoun</term>
@@ -291,6 +300,9 @@
                 <item xml:id="Damianos">
                     <term xml:lang="en">Damianos</term>
                 </item>
+                <item xml:id="Demetrianos">
+                    <term xml:lang="en">Demetrianos</term>
+                </item>
                 <item xml:id="Demetrios">
                     <term xml:lang="en">Demetrios</term>
                 </item>
@@ -363,11 +375,17 @@
                 <item xml:id="Gerasimos">
                     <term xml:lang="en">Gerasimos</term>
                 </item>
+                    <item xml:id="Germanos">
+                        <term xml:lang="en">Germanos</term>
+                    </item>
                 <item xml:id="Gideon">
                     <term xml:lang="en">Gideon</term>
                 </item>
                 <item xml:id="Gourias">
                     <term xml:lang="en">Gourias</term>
+                </item>
+                <item xml:id="GregoryOfAgrigento">
+                    <term xml:lang="en">Gregory of Agrigento</term>
                 </item>
                 <item xml:id="GregoryNazianzenos">
                     <term xml:lang="en">Gregory the Theologian</term>
@@ -401,6 +419,7 @@
                 </item>
                 <item xml:id="IgnatiosTheophoros">
                     <term xml:lang="en">Ignatios</term>
+                    <note>same as Ignatios of Antioch</note>
                 </item>
                 <item xml:id="Ioannes_1">
                     <term xml:lang="en">Ioannes, donor, Kakopetria, Saint Nicholas of the
@@ -441,6 +460,9 @@
                 </item>
                 <item xml:id="JohnForerunner">
                     <term xml:lang="en">John the Forerunner</term>
+                </item>
+                <item xml:id="JohnKalybites">
+                    <term xml:lang="en">John Kalybites</term>
                 </item>
                 <item xml:id="JohnLampadistes">
                     <term xml:lang="en">John Lampadistes</term>
@@ -599,11 +621,17 @@
                 <item xml:id="Philippos">
                     <term xml:lang="en">Philippos</term>
                 </item>
+                <item xml:id="Philon">
+                    <term xml:lang="en">Philon</term>
+                </item>
                 <item xml:id="Phloros">
                     <term xml:lang="en">Phloros</term>
                 </item>
                 <item xml:id="Phylon">
                     <term xml:lang="en">Phylon</term>
+                </item>
+                <item xml:id="Polykarpos">
+                    <term xml:lang="en">Polykarpos</term>
                 </item>
                 <item xml:id="Romanos">
                     <term xml:lang="en">Romanos</term>
@@ -625,6 +653,9 @@
                 </item>
                 <item xml:id="shepherd">
                     <term xml:lang="en">shepherd</term>
+                </item>
+                <item xml:id="Simon">
+                    <term xml:lang="en">Simon</term>
                 </item>
                 <item xml:id="Solomon">
                     <term xml:lang="en">Solomon</term>
@@ -658,6 +689,9 @@
                 </item>
                 <item xml:id="tetramorph">
                     <term xml:lang="en">Tetramorph</term>
+                </item>
+                <item xml:id="Thallelaios">
+                    <term xml:lang="en">Thallelaios</term>
                 </item>
                 <item xml:id="Thekla">
                     <term xml:lang="en">Thekla</term>

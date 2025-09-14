@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saint Germanos</title>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
+                <editor xml:id="mx">Maria Xenaki</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.018.009</idno>
+                <availability>
+                  <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, south passage soffit, east half</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                </support> 
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>On either side of the figure's head</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>White majuscule letters against blue background. Mu with the central strokes reminiscent of an upsilon on a crossed stem. Final sigma in the form of a wavy line. Accents and breathings non systematic. Letter height: <height unit="cm">?</height>
+                            </handNote>
+                        </handDesc>
+                         <decoDesc>
+                            <p><rs type="iconography" ref="#Germanos">Germanos</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
+                            </p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Kakopetria">Kakopetria, Saint Nicholas of the Roof</origPlace>
+                            <origDate notBefore="1001" notAfter="1100" precision="medium">11th century</origDate>
+                        </origin>
+                        <provenance when="2022">
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">05/07/2022</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                </keywords>
+            </textClass>
+            <creation>transcription (Th. Petrou), publication</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic rend="primary" url="018-009-01.JPG"><desc>Saint Germanos, inscription</desc></graphic>
+        <graphic url="018-009-02.JPG"><desc>Saint Germanos, general view</desc></graphic>
+        <graphic url="018-009-03.JPG"><desc>Saint Germanos, general view</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice><persName type="sacred" key="Germanos"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                    <cb n="b"/>
+                   <lb n="1"/><name nymRef ="#Γερμανός" type="forename">Γε
+                   <lb n="2" break="no"/>ρ
+                    <lb n="3" break="no"/>μ
+                    <lb n="4" break="no"/>α
+                    <lb n="5" break="no"/>ν
+                   <lb n="6" break="no"/><choice><orig>ὸ</orig><reg>ό</reg></choice>ς</name></persName>
+                 </ab>
+            </div>
+            <div type="apparatus">
+               <p>PENDING</p>
+            </div>
+            <div type="translation">
+                <p>Saint Germanos</p>
+            </div>
+            <div type="commentary">
+                <p>No comment</p>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                <bibl><ptr target="#Stylianou1946"/>, <citedRange>117</citedRange></bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

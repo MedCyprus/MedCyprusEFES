@@ -72,7 +72,8 @@
     </teiHeader>
     <facsimile>
         <graphic rend="primary" url="049-022-01.JPG"><desc>Saint Leo, Pope of Rome, inscription</desc></graphic>
-        <graphic url="049-022-02.JPG"><desc>Saint Leo, Pope of Rome, general view</desc></graphic>
+        <graphic url="049-022-02.JPG"><desc>Saint Leo, Pope of Rome, inscription detail</desc></graphic>
+        <graphic url="049-022-03.JPG"><desc>Saint Leo, Pope of Rome, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -80,7 +81,7 @@
               <ab>
                   <cb n="a"/>
                      <lb n="1"/>Ὁ <persName type="sacred" key="LeoPopeOfRome"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w> 
-                    <lb n="2"/><name type="forename" nymRef="Λέων">Λέ
+                    <lb n="2"/><name type="forename" nymRef="#Λέων">Λέ
                      <lb n="3" break="no"/>ων</name>
                     <cb n="b"/>
                      <lb n="1"/><addName type="epithet" key="Pope of Rome"><w lemma="πάπας"><choice><sic>ά

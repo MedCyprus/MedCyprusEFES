@@ -6,7 +6,6 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint John of Damascus' scroll</title>
-                <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -74,8 +73,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-033-01.JPG"><desc>Bema, east wall, thriumphal arch, upper medallion, on the north, inscription</desc></graphic>
-        <graphic url="036-033-02.JPG"><desc>Bema, east wall, thriumphal arch, upper medallion, on the north, general view</desc></graphic>
+         <graphic rend="primary" url="036-033-01.JPG"><desc>Saint John of Damascus' scroll, inscription</desc></graphic>
+        <graphic url="036-033-02.JPG"><desc>Saint John of Damascus' scroll, general view</desc></graphic>
              </facsimile>
     <text>
         <body>

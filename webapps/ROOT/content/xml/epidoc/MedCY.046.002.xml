@@ -7,8 +7,9 @@
             <titleStmt>
                 <title>Saint Auxibios</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
-                <editor xml:id="mgp"> Maria G. Parani</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
@@ -27,21 +28,23 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, north passage to prothesis, soffit of arch, on the west</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">5,5-7</height>
+                            <handNote>White majuscule letters against blue background. Character size varies. ΟC joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">5,5-7</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Auxibios">Auxibios</rs></p>
+                           <p><rs type="iconography" ref="#Auxibios">Auxibios</rs>
+                                 <rs type="iconography" ref="#prelate"></rs>
+                               <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,16 +69,21 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="046-002-01.JPG"><desc>Bema, north passage to prothesis, soffit of arch, on the west, inscription</desc></graphic>
-        <graphic url="046-002-02.JPG"><desc>Bema, north passage to prothesis, soffit of arch, on the west, inscription detail</desc></graphic>
-        <graphic url="046-002-03.JPG"><desc>Bema, north passage to prothesis, soffit of arch, on the west, incription detail</desc></graphic>
-        <graphic url="046-002-04.JPG"><desc>Bema, north passage to prothesis, soffit of arch, on the west, general view</desc></graphic>
+        <graphic rend="primary" url="046-002-01.JPG"><desc>Saint Auxibios, inscription</desc></graphic>
+        <graphic url="046-002-02.JPG"><desc>Saint Auxibios, inscription detail</desc></graphic>
+        <graphic url="046-002-03.JPG"><desc>Saint Auxibios, incription detail</desc></graphic>
+        <graphic url="046-002-04.JPG"><desc>Saint Auxibios, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                   <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Auxibios"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice>γ</abbr><ex>ιος</ex></expan></w>
+                    <cb n="b"/>
+                       <lb n="1"/><name type="forename" nymRef="#Aὐξίβιος">A<choice><orig>υ</orig><reg>ὐ</reg></choice>
+                     <lb n="2" break="no"/>ξίβι
+                      <lb n="3" break="no"/><hi rend="ligature">ος</hi></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +93,7 @@
                 <p>Saint Auxibios</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

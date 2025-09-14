@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. Character size varies. PH joined in ligature. Wavy, horizontal abbreviation mark above Προφήτης. Accents and breathings non systematic.
+                            <handNote>White majuscule letters against blue background. Character size varies. Zeta with no top bar,  curvilinear spine and tail. PH joined in ligature. Wavy, horizontal abbreviation mark above Προφήτης. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -82,7 +82,7 @@
                    <cb n="b"/> 
                    <lb n="1"/><name type="forename" nymRef="#Ζαχαρίας"><choice><sic>Ζα
                     <lb n="2" break="no"/>χα
-                    <lb n="3" break="no"/><hi rend="ligature">ρη</hi>α<supplied reason="lost">ς</supplied></sic><corr>Ζαχαρίας</corr></choice>
+                    <lb n="3" break="no"/><hi rend="ligature">ρ<choice><orig>η</orig><reg>ή</reg></choice></hi>α<supplied reason="lost">ς</supplied></sic><corr>Ζαχαρίας</corr></choice>
                    </name></persName>
                  </ab>
             </div>

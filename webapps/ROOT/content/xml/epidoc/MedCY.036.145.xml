@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>*Presentation of the Virgin to the Temple, Virgin</title>
+                <title>Presentation of the Virgin to the Temple, Virgin</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -34,16 +34,16 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the left of the Virgin</layout>
+                                <layout>Above the Virgin's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>White majuscule letters against blue background. Character size varies. ΜΗΡ joined in ligature. Accents and breathings non systematic.
+                             <handNote>White majuscule letters against brown background. Majuscule letters. Characters' size varies. Mu with the central strokes reminiscent of an upsilon on a stem. MHΡ joined in ligature. The words Μή(τη)ρ Θ(εο)ῦ are fully rendered by an abbreviation with a big, horizontal line above each word. Accents and breathings systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#PresentationVirgin">Presentation of the Virgin to the Temple, Virgin</rs>
-                             <rs type="iconography" ref="#Virgin"></rs></p>
+                             <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -76,7 +76,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w> <milestone unit="column" n="right"/><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice><am>&#x00A0;῀&#x00A0;</am></abbr></expan></w></persName> 
+                   <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μή</abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
+                    <milestone unit="column" n="right"/><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></w></persName> 
                 </ab>
             </div>
             <div type="apparatus">

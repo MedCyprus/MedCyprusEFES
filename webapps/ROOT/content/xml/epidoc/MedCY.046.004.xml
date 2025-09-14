@@ -7,8 +7,9 @@
             <titleStmt>
                 <title>Saint Phylon</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
-                <editor xml:id="mgp"> Maria G. Parani</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
@@ -27,13 +28,13 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, south passage to diakonikon, soffit of arch, on the west</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the left of the saint's head</layout>
+                                <layout>On the left of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -66,11 +67,11 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="046-004-01.JPG"><desc>Bema, south passage to diakonikon, soffit of arch, on the west, inscription</desc></graphic>
-        <graphic url="046-004-02.JPG"><desc>Bema, south passage to diakonikon, soffit of arch, on the west, inscription detail</desc></graphic>
-        <graphic url="046-004-03.JPG"><desc>Bema, south passage to diakonikon, soffit of arch, on the west, incription detail</desc></graphic>
-        <graphic url="046-004-04.JPG"><desc>Bema, south passage to diakonikon, soffit of arch, on the west, general view</desc></graphic>
-        <graphic url="046-004-05.JPG"><desc>Bema, south passage to diakonikon, soffit of arch, on the west, general view</desc></graphic>
+        <graphic rend="primary" url="046-004-01.JPG"><desc>Saint Phylon, inscription</desc></graphic>
+        <graphic url="046-004-02.JPG"><desc>Saint Phylon, inscription detail</desc></graphic>
+        <graphic url="046-004-03.JPG"><desc>Saint Phylon, incription detail</desc></graphic>
+        <graphic url="046-004-04.JPG"><desc>Saint Phylon, general view</desc></graphic>
+        <graphic url="046-004-05.JPG"><desc>Saint Phylon, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -86,7 +87,7 @@
                 <p>Saint Phylon</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

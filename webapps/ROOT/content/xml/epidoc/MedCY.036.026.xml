@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint John the Merciful's scroll</title>
-                <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -72,10 +73,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="036-026-01.JPG"><desc>Bema, apse, semicylindrical wall, south half, lower register, first figure on the right, inscription</desc></graphic>
-        <graphic url="036-026-02.JPG"><desc>Bema, apse, semicylindrical wall, south half, lower register, first figure on the right, inscription detail</desc></graphic>
-        <graphic url="036-026-03.JPG"><desc>Bema, apse, semicylindrical wall, south half, lower register, first figure on the right, inscription detail</desc></graphic>
-        <graphic url="036-026-04.JPG"><desc>Bema, apse, semicylindrical wall, south half, lower register, first figure on the right, inscription detail</desc></graphic>
+         <graphic rend="primary" url="036-026-01.JPG"><desc>Saint John the Merciful's scroll, inscription</desc></graphic>
+        <graphic url="036-026-02.JPG"><desc>Saint John the Merciful's scroll, inscription detail</desc></graphic>
+        <graphic url="036-026-03.JPG"><desc>Saint John the Merciful's scroll, inscription detail</desc></graphic>
+        <graphic url="036-026-04.JPG"><desc>Saint John the Merciful's scroll, inscription detail</desc></graphic>
                      </facsimile>
     <text>
         <body>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Christ Antiphonetes' codex</title>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
+                <editor xml:id="mx">Maria Xenaki</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.022.055</idno>
+                <availability>
+                  <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, southeastern pier, west face</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                </support> 
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>On the open codex held in the left hand by Christ</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Black majuscule letters against brown background. Character size varies. Systematic use of triangular serifs. Mu with the central strokes reminiscent of an upsilon on a crossed stem. Omega with its apex surmounted by a crosslet. Tau with its stem crossed at mid-height. HN, NHN, and HM joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">2,5-3</height>
+                            </handNote>
+                        </handDesc>
+                         <decoDesc>
+                            <p><rs type="iconography" ref="#ChristAntiphonetes">Christ Antiphonetes</rs>
+                                <rs type="iconography" ref="#Christ"></rs>
+                                <rs type="iconography" ref="#divine"></rs> 
+                            <rs type="iconography" ref="#male"></rs>
+                            </p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#KalopanagiotisKatholikon">Kalopanagiotis, Monastery of Saint John Lampadistes, church of Saint Herakleidios</origPlace>
+                            <origDate notBefore="1251" notAfter="1300" precision="medium">Second half of 13th century</origDate>
+                        </origin>
+                        <provenance when="2022">
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">16/09/2022</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
+                </keywords>
+            </textClass>
+            <creation>transcription (Th. Petrou, G. Apeitos)</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic rend="primary" url="022-055-01.JPG"><desc>Christ Antiphonetes' codex, inscription</desc></graphic>
+        <graphic url="022-055-02.JPG"><desc>Christ Antiphonetes' codex, inscription</desc></graphic>
+        <graphic url="022-055-03.JPG"><desc>Christ Antiphonetes' codex, general view</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+              <ab> PENDING
+                  <!--<cb n="a"/>
+                  <lb n="1"/><g ref="#cross">+</g><w lemma="ἐντολή"><choice><orig>Ε</orig><reg>Ἐ</reg></choice>ντο
+                   <lb n="2" break="no"/>λ<hi rend="ligature">ὴν</hi></w> <w lemma="καινὴ"><choice><sic>κε
+                  <lb n="3" break="no"/><hi rend="ligature">ν<choice><orig>η</orig><reg>ὴ</reg></choice>ν</hi></sic><corr>καινὴν</corr></choice></w> <w lemma="δίδωμι">δί
+                  <lb n="4" break="no"/>δω<supplied reason="omitted">μι</supplied></w> <w lemma="ὑμεῖς"><choice><sic><hi rend="ligature"><choice><orig>ἠ</orig><reg>ἡ</reg></choice>μ</hi>
+                  <lb n="5" break="no"/>ην</sic><corr>ὑμῖν</corr></choice></w> <w lemma=" ἵνα">ἵ</w>
+                  <cb n="b" break="no"/>
+                  <lb n="1" /><w lemma=" ἵνα">να</w> <w lemma="ἀγαπῶ">ἀ
+                  <lb n="2" break="no"/>γαπᾶ
+                  <lb n="3" break="no"/> τε</w> <w lemma="ἀλλήλοι">ἀ
+                  <lb n="4" break="no"/>λλή
+                  <lb n="5" break="no"/>λους</w>--></ab>
+            </div>
+            <div type="apparatus">
+               <p>PENDING</p>
+            </div>
+            <div type="translation">
+                <p>John 13:34: A new commandment I give to you, that you love one another.</p>
+            </div>
+            <div type="commentary">
+                <p>No comment</p>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                <bibl>PENDING</bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

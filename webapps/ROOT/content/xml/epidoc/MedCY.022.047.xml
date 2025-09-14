@@ -79,7 +79,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/><persName type="sacred" key="James"><name type="forename" nymRef="#Ἰάκωβος"><choice><sic>H<supplied reason="omitted">άκωβος</supplied></sic><corr>Ἰάκωβος</corr></choice></name></persName>
+                    <lb n="1"/><persName type="sacred" key="James"><name type="forename" nymRef="#Ἰάκωβος"><choice><sic><choice><orig>H</orig><reg>Ἠ</reg></choice><supplied reason="omitted">άκωβος</supplied></sic><corr>Ἰάκωβος</corr></choice></name></persName>
                  </ab>
             </div>
             <div type="apparatus">

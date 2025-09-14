@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Donation Inscription</title>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
+                <editor xml:id="mgp"> Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.018.060</idno>
+                <availability>
+                  <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#narthex">Narthex, northeastern recess, lower register</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                </support> 
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Framed by the portrait of a kneeling couple, in all probability Ioannes mentioned in the inscription (r.) and his wife (l.).</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>PENDING. White letters against green background. Majuscule letters. Lines are ruled top and bottom. The inscription, except the beginning of the first two lines, is clear, legible and consists of bold letters. However, the thickness of the letters in some places varies, while all eight lines have a slight slope to the upper right. ΟΥ, ΤΗ, ΓΗ, ΑΝ, ΝΤΗ, ΝΗ, ΜΑ, ΝΑ, ΗΝΑ, ΤΑ joined in ligatures. The ligature of the letters OY varies and is presented with four different ways. Accents and breathings non systematic. Letter height:<height unit="cm">3</height>
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <p><rs type="iconography" ref="#Ioannes_1">Ioannes</rs>
+                               <rs type="iconography" ref="#wife_Ioannes_1">wife of Ioannes</rs>                             
+                                <rs type="iconography" ref="#Supplicant_Donor"></rs>
+                                <rs type="iconography" ref="#Supplicant_Other"></rs>
+                                <rs type="iconography" ref="#male"></rs>
+                                <rs type="iconography" ref="#female"></rs>                           
+                            </p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Kakopetria">Kakopetria, Saint Nicholas the Roof</origPlace>
+                            <origDate notBefore="1267" notAfter="1333" precision="medium">Late 13th-Early 14th century</origDate>
+                        </origin>
+                        <provenance when="2022">
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">05/07/2022, 04/10/2022</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc3">Donation</term>
+                </keywords>
+            </textClass>
+            <creation>transcription (Th. Petrou), publication</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic rend="primary" url="018-060-01.JPG"><desc>Donation Inscription</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+              <ab>
+                    <lb n="1"/>PENDING<gap reason="lost" extent="unknown" unit="character"></gap> οκ αει ω <persName type="attested" role="donor" ref="#Ioannes_1"><name nymRef="#Ἰωάννης" type="forename"><expan><abbr rend="supraline">ιω</abbr><ex>άννης</ex></expan></name></persName> ο Κα<gap reason="lost" extent="unkown" unit="character"></gap> τ<supplied reason="lost">η</supplied><unclear>ν </unclear><supplied reason="lost">αγι</supplied><hi rend="ligature">αν </hi><placeName ref="mentioned_places.xml#AgiosNicholaostisStegis">μο
+<lb n="2" break="no"/><supplied reason="lost">νην</supplied> τ<hi rend="ligature">ου</hi> αγί<hi rend="ligature">ου </hi>Νικολαου <hi rend="ligature">τη</hi>ς <hi rend="ligature">Στ</hi>ε<hi rend="ligature">γη</hi>ς</placeName>
+<lb n="3"/>το χανου<hi rend="ligature">τη</hi><hi rend="ligature">ν τη</hi><hi rend="ligature">ν Κ</hi>αα<hi rend="ligature">ν η</hi>ς <hi rend="ligature">τη</hi><hi rend="ligature">ν η</hi>
+                    <lb n="4" break="no"/>μερ<supplied reason="lost">α</supplied>ν <persName type="attested" role="abbot" ref="#Germanos"><name type="forename" nymRef="#Γερμανός">Γερ<hi rend="ligature">μα</hi>ν<hi rend="ligature">ου</hi></name> ιερομο<hi rend="ligature">να</hi>χ<hi rend="ligature">ου</hi></persName>
+<lb n="5"/>και καθ<hi rend="ligature">ει</hi>γουμε<unclear>ν</unclear><supplied reason="lost"><hi rend="ligature">ου</hi></supplied> και η<gap reason="lost" quantity="2" unit="character"></gap>
+<lb n="6" break="no"/><hi rend="ligature">να</hi> το <hi rend="ligature">αν</hi>ασις <hi rend="ligature">ηνα</hi> εχι <hi rend="ligature">τα</hi>ς <abbr rend="supraline">αρ</abbr> <expan><abbr>τ</abbr><ex>ων</ex></expan><abbr rend="supraline">τρ</abbr> οκ
+<lb n="7" break="no"/>το <expan><abbr>Θεοφωρ</abbr><ex>ων</ex></expan> <expan><abbr rend="supraline">παταιρ</abbr><ex>ων</ex></expan>και του αγι
+<lb n="8" break="no"/>ου Νικολαου
+                </ab>
+            </div>
+            <div type="apparatus">
+               <p>PENDING</p>
+            </div>
+            <div type="translation">
+                <p>PENDING</p>
+            </div>
+            <div type="commentary">
+                <p>PENDING</p>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                <bibl>PENDING</bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

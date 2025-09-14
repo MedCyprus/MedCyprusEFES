@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saint Herakleidios</title>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
+                <editor xml:id="mx">Maria Xenaki</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.022.075</idno>
+                <availability>
+                  <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Exfoliated.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, northwestern pier, lower register, south face</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                </support> 
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>On either side of the figure's head</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>White majuscule letters against red background. Lambda with the top bar terminating in a serif to the left. Final sigma in the form of a wavy line. ΗP joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">4</height>
+                            </handNote>
+                        </handDesc>
+                         <decoDesc>
+                            <p><rs type="iconography" ref="#Herakleidios">Herakleidios</rs>
+                                 <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            </p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#KalopanagiotisKatholikon">Kalopanagiotis, Monastery of Saint John Lampadistes, church of Saint Herakleidios</origPlace>
+                            <origDate notBefore="1251" notAfter="1300" precision="medium">Second half of 13th century</origDate>
+                        </origin>
+                        <provenance when="2022">
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">16/09/2022</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                </keywords>
+            </textClass>
+            <creation>transcription (Th. Petrou, G. Apeitos)</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic rend="primary" url="022-075-01.JPG"><desc>Saint Herakleidios, inscription</desc></graphic>
+        <graphic url="022-075-02.JPG"><desc>Saint Herakleidios, inscription detail</desc></graphic>
+        <graphic url="022-075-03.JPG"><desc>Saint Herakleidios, inscription detail</desc></graphic>
+        <graphic url="022-075-04.JPG"><desc>Saint Herakleidios, general view</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+              <ab>
+                    <cb n="a"/>
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Herakleidios"><w lemma="ἅγιος"><choice><orig>Α</orig><reg>ἅ</reg></choice>γιος</w> <name nymRef ="#Ἡρακλείδιος" type="forename"><choice><sic><hi  rend="ligature"><choice><orig>H</orig><reg>Ἡ</reg></choice>ρ</hi>α 
+                      <lb n="2" break="no"/>
+                      <cb n="b"/>
+                      <lb n="1"/>κλ<choice><orig>ı</orig><reg>ί</reg></choice>δηος</sic><corr>Ἡρακλείδιος</corr></choice></name></persName></ab>
+            </div>
+            <div type="apparatus">
+               <p>PENDING</p>
+            </div>
+            <div type="translation">
+                <p>Saint Herakleidios</p>
+            </div>
+            <div type="commentary">
+                <p>No comment</p>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                <bibl>PENDING</bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

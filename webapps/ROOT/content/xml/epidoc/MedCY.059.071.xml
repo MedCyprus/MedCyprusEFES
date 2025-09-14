@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Crucifixion, tablet</title>
+                <title>Crucifixion, Christ</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -33,7 +33,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the tablet above Christ's head</layout>
+                                <layout>On either side of Christ's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#crosstablet">Crucifixion, tablet</rs></p>
+                            <p>... <rs type="iconography" ref="iconography.xml#Crucifixion">Crucifixion, Christ</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -59,7 +59,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                    <term type="textType" ref="text_types.xml#doc9">Sigla</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publication</creation>
@@ -68,6 +68,7 @@
     <facsimile>
          <graphic rend="primary" url="059-071-01.JPG"><desc>Naos, east wall, above the Holy Cross' recess, inscription</desc></graphic>
         <graphic url="059-071-02.JPG"><desc>Naos, east wall, above the Holy Cross' recess, general view</desc></graphic>
+        <graphic url="059-071-03.JPG"><desc>Naos, east wall, above the Holy Cross' recess, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -80,7 +81,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>The King of Glory</p>
+                <p>Jesus Christ</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
