@@ -8,3 +8,4 @@ webapps/solr/data
 docs/build
 *.DS_Store
 .DS_Store
+.xpr
