@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Ψ and Η joined in ligature. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Ascension">Ascension</rs>
+                            <rs type="iconography" ref="#christological"></rs>
+                            <rs type="iconography" ref="#archangel"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -76,7 +78,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><choice><orig>H</orig><reg>Ή</reg></choice> <w lemma="ἀνάληψις"><choice><sic><choice><orig>ἁ</orig><reg>ἀ</reg></choice>ν<choice><orig>α</orig><reg>ά</reg></choice>λη<hi rend="ligature">ψη</hi>ς</sic><corr>ἀνάληψις</corr></choice></w>. 
                  </ab>
             </div>
             <div type="apparatus">
