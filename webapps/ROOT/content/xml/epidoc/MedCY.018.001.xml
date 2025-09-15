@@ -77,7 +77,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                  <cb n="a"/>
+                   <lb n="1"/><supplied reason="lost"><choice><orig>O</orig><reg>Ὁ</reg></choice></supplied> <persName type="sacred" key="Gabriel"><name type="forename" nymRef ="#Γαβριήλ"><w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><hi rend="ligature"><supplied reason="lost">ἀρ</supplied></hi>χ</abbr><ex>άγγελος</ex></expan></w>
+                    <cb n="b"/>   
+                    <lb n="1"/>Γα
+                  <lb n="2" break="no"/>βρι
+                  <lb n="3" break="no"/><choice><orig>η</orig><reg>ή</reg></choice>
+                  <lb n="4" break="no"/>λ</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
