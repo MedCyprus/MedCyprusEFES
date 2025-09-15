@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Gabriel">Archangel Gabriel</rs>
+                                <rs type="iconography" ref="#archangel"></rs>
+                                <rs type="iconography" ref="#genderless"></rs>
+                                <rs type="iconography" ref="#dressantique"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
