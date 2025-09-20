@@ -81,10 +81,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <lb n="1"/><g ref="#cross">+</g> <w lemma="φεύγω">Φεῦγε</w>. <w lemma="σιωπῶ">Σι              
-                  <lb n="2" break="no"/>ῶπ<supplied reason="lost">α</supplied></w> <w lemma="ἡσυχάζω"><unclear>ἡ</unclear>σύ
+                  <lb n="2" break="no"/><unclear>ῶπ</unclear><supplied reason="lost">α</supplied></w> <w lemma="ἡσυχάζω"><unclear>ἡ</unclear>σύ
                   <lb n="3" break="no"/><supplied reason="lost">χαζε</supplied></w> <w lemma="αὕτη"><supplied reason="lost">αὗτ</supplied>αι</w>
-                  <lb n="4"/><supplied reason="lost">γάρ</supplied> <w lemma="εἰμί"><supplied reason="lost">εἰσιν</supplied></w> <supplied reason="lost">αἱ</supplied> <w lemma="ῥίζα"><supplied reason="lost">ῥίζαι</supplied></w> <supplied reason="lost">τῆς</supplied> <w lemma="ἀναμαρτησία"><supplied reason="lost">ἀ</supplied>ν 
-                  <lb n="5" break="no"/><supplied reason="lost">μαρτησίας</supplied></w> <unclear>κ</unclear><hi rend="ligature"><unclear>αὶ</unclear> </hi><unclear>τῆ</unclear>ς 
+                  <lb n="4"/><supplied reason="lost">γάρ</supplied> <w lemma="εἰμί"><supplied reason="lost">εἰσι</supplied>ν</w> 
+                  <lb n="5"/><supplied reason="lost">αἱ</supplied> <w lemma="ῥίζα"><supplied reason="lost">ῥίζ</supplied><unclear>αι</unclear></w> <hi rend="ligature"><unclear>τ</unclear>ῆ</hi>ς 
                   <lb n="6"/><w lemma="δικαιοσύνη"> δικα<choice><orig>ὶ</orig><reg>ι</reg></choice><choice><orig>ὀ</orig><reg>ο</reg></choice>
                   <lb n="7" break="no"/>σύνης</w>
                   <lb n="8"/><g ref="#cross">+</g><g ref="#cross">+</g><g ref="#cross">+</g>
@@ -103,9 +103,10 @@
                 <p>Flee, maintain silence, live a life of contemplative quiet. These are the roots of being without sin and justice.</p> 
             </div>
             <div type="commentary">
-                <p>The inscription is identified with a saying of Arsenios from the Apophegmata Patrum (PG 65, 88β) (<bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 97-98</citedRange></bibl>). It is most likely a paraphrase from Paul's First Epistle to Timothy, 6:11, and Second Epistle to Timothy, 2:22.
+                <p>The inscription is identified in the Life of Saint Arsenios (ῥίζαι ἀναμαρτησίας rather than δικαιοσύνης), section 7, lines 193–194, ed. Fr. Halkin, Hagiographica inedita decem [Corpus Christianorum Series Graeca 21], Turnhout 1989. It is also appears in the Apophthegmata Patrum, collectio alphabetica, PG 65, col. 88, lines 33–34; collectio systematica, chapter 2, paragraph 4, lines 6–7, ed. J.-C. Guy, Les apophtegmes des pères. Collection systématique, Sources chrétiennes 387, Paris 1993. Further attestations occur in numerous other texts without "δικαιοσύνης".</p>
+                <!--<p>The inscription is identified with a saying of Arsenios from the Apophegmata Patrum (PG 65, 88β) (<bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 97-98</citedRange></bibl>). It is most likely a paraphrase from Paul's First Epistle to Timothy, 6:11, and Second Epistle to Timothy, 2:22.</p>  -->
 
-</p>  
+
                 
             </div>
             <div type="bibliography">
