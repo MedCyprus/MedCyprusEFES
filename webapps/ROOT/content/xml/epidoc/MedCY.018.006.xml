@@ -77,7 +77,19 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                   <cb n="a"/>
+                   <lb n="1"/>Ὁ <persName type="sacred" key="IgnatiosTheophoros"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                      <lb n="2"/><name nymRef ="#Ἰγνάτιος" type="forename"><choice><orig>Ί</orig><reg>Ἰ</reg></choice>
+                        <lb n="3" break="no"/>γνά
+                        <lb n="4" break="no"/>τι
+                        <lb n="5" break="no"/>ος</name></persName>  
+                    <cb n="b"/>
+                       <lb n="1"/><placeName ref="mentioned_places.xml#Antioch"><expan><abbr rend="supraline">Ἀ
+                       <lb n="2" break="no"/>ν
+                       <lb n="3" break="no"/><hi rend="ligature">τη</hi>
+                       <lb n="4" break="no"/><supplied reason="lost">ο</supplied>
+                       <lb n="5" break="no"/>χ</abbr><ex>εία</ex></expan>ς</placeName>
                  </ab>
             </div>
             <div type="apparatus">
