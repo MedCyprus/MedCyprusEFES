@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Tau with a top bar terminating in serifs at either end. Chi with strokes ending in small serifs on the upper arms. Sigmas with diagonal spines. TH joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">3-4</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#IgnatiosTheophoros">Ignatios</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -99,7 +101,7 @@
                 <p>Saint Ignatios of Antioch</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
