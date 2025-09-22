@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Alpha with its apex terminating in a serif to the left. Accents and breathings non systematic. Letter height: <height unit="cm">4,5-7</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Zacharias">Zacharias</rs>                                
+                                <rs type="iconography" ref="#prophet"></rs>
+                                <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +77,15 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Zacharias"><w lemma="προφήτης"><supplied reason="lost">προφήτης</supplied></w>
+                    <cb n="b"/>
+                      <lb n="1"/><name nymRef ="#Ζαχαρίας" type="forename">Ζ
+                          <lb n="2" break="no"/>α
+                          <lb n="3" break="no"/>χα
+                          <lb n="4" break="no"/>ρ<choice><orig>ı</orig><reg>ί</reg></choice>
+                          <lb n="5" break="no"/><supplied reason="lost">ας</supplied></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +95,7 @@
                 <p>Saint Zacharias</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
