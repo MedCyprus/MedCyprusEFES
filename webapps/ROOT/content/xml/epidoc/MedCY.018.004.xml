@@ -74,7 +74,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><choice><orig>H</orig><reg>Ἡ</reg></choice> <w lemma="Πεντηκοστή"><choice><sic>Πεντıκοσ<hi rend="ligature">τ<choice><orig>η</orig><reg>ή</reg></choice></hi></sic><corr>Πεντηκοστή</corr></choice></w>
                  </ab>
             </div>
             <div type="apparatus">
