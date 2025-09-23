@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Final sigma with diagonal spine. ΠΡ joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">3,5- 6</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Kyprianos">Kyprianos</rs>
+                             <rs type="iconography" ref="#male"></rs>
+                             <rs type="iconography" ref="#prelate"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,14 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                   <lb n="1"/><persName type="sacred" key="Kyprianos"><supplied reason="lost">Ὁ</supplied> <supplied reason="lost"><w lemma="ἅγιος">ἅγιος</w></supplied>
+                   <lb n="2"/><name nymRef ="#Κυπριανός" type="forename">Κ
+                       <lb n="3" break="no"/>υ
+                       <lb n="4" break="no"/><hi rend="ligature">πρ</hi>ι
+                       <lb n="5" break="no"/>α
+                       <lb n="6" break="no"/>ν
+                       <lb n="7" break="no"/><choice><orig>o</orig><reg>ό</reg></choice>ς</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +93,7 @@
                 <p>Saint Kyprianos</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
