@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Tau with a top bar terminating in serifs at either end. Omega formed of two linked oval bowls. Accents and breathings non systematic. Letter height: <height unit="cm">?</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Transfiguration">Transfiguration</rs>
+                            <rs type="iconography" ref="#Christ"></rs>
+                            <rs type="iconography" ref="#christological"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -77,7 +79,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><supplied reason="lost">Ἡ</supplied> <w lemma="Μεταμόρφωσις"><supplied reason="lost">μ</supplied>εταμ<choice><orig>o</orig><reg>ό</reg></choice>ρφωσις</w>
                  </ab>
             </div>
             <div type="apparatus">
@@ -87,7 +90,7 @@
                 <p>Transfiguration</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
