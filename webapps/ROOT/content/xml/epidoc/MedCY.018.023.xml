@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Lambda with the top bar terminating in a serif to the left. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#WomenAtTheTomb">Women At The Tomb</rs>
+                                  <rs type="iconography" ref="#christological"></rs>
+                                <rs type="iconography" ref="#angel"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +77,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><persName type="sacred" key="Angel"><w lemma="ἄγγελος"><choice><orig>A</orig><reg>Ἄ</reg></choice>γγελο<supplied reason="lost">ς</supplied></w> <addName type="epithet" key="of the Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">ῦ</abbr></expan></w></addName></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +88,7 @@
                 <p>Angel of the Lord</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
