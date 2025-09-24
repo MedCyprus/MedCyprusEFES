@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#DescentIntoHell">Descent into Hell</rs>
+                            <rs type="iconography" ref="#christological"></rs>
+                                 <rs type="iconography" ref="#Christ"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan><am>&#x00A0;῀&#x00A0;</am><milestone unit="column"/> <addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς<am>′</am></abbr></expan></addName></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +87,7 @@
                 <p>Jesus Christ</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
