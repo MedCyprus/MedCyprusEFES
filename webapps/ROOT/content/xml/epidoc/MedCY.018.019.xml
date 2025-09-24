@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Alpha with its apex terminating in a serif to the left. NA and CT joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#DescentIntoHell">Descent into Hell</rs>
+                            <rs type="iconography" ref="#christological"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -76,7 +77,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><g ref="#cross">+</g> <choice><orig>H</orig><reg>Ἡ</reg></choice> <w lemma="ἀνάστασις"><choice><orig>A</orig><reg>ἀ</reg></choice><hi rend="ligature">ν<choice><orig>α</orig><reg>ά</reg></choice></hi><hi rend="ligature">στ</hi>αστασις</w> <g ref="#cross">+</g> 
                  </ab>
             </div>
             <div type="apparatus">
@@ -86,7 +88,7 @@
                 <p>Resurrection</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
