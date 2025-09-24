@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#WomenAtTheTomb">Women At The Tomb</rs>
+                                  <rs type="iconography" ref="#christological"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +75,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                   <lb n="1"/><g ref="#cross">+</g> <choice><orig>O</orig><reg>Ὁ</reg></choice> <w lemma="λίθος">λίθος</w> <g ref="#cross">+</g>
                  </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +86,7 @@
                 <p>The stone</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
