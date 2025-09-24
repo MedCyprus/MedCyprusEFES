@@ -75,7 +75,12 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/><choice><orig>H</orig><reg>Ἠ</reg></choice> <w lemma="Σταύρωσις"><choice><sic><hi rend="ligature">Στα</hi><choice><orig>υ</orig><reg>ύ</reg></choice><add place="inline">β</add>ρο
+                  <lb n="2" break="no"/>
+                  <cb n="b"/>
+                  <lb n="1" />σıς</sic><corr>Σταύρωσις</corr></choice></w>
                  </ab>
             </div>
             <div type="apparatus">
