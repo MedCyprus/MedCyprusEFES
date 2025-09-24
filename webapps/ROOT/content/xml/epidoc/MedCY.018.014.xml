@@ -74,7 +74,9 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><choice><orig>Ἡ</orig><reg>Ἠ</reg></choice> <w lemma="ἔγερσις">Ἔγερσις</w> τοῦ <persName type="sacred" key="Lazaros"><name type="forename" nymRef="#Λάζαρος">Λ<choice><orig>α</orig><reg>ά</reg></choice>
+                   <lb n="2" break="no"/>ζ<choice><orig>ά</orig><reg>α</reg></choice>ρου</name></persName>.   
                  </ab>
             </div>
             <div type="apparatus">
