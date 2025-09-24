@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Zeta with a top bar terminating in a serif and a spine with a tail. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#LazarosRaising">Raising of Lazaros</rs>                            
+                                <rs type="iconography" ref="#christological"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -76,7 +77,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <lb n="1"/><choice><orig>Ἡ</orig><reg>Ἠ</reg></choice> <w lemma="ἔγερσις">Ἔγερσις</w> τοῦ <persName type="sacred" key="Lazaros"><name type="forename" nymRef="#Λάζαρος">Λ<choice><orig>α</orig><reg>ά</reg></choice>
-                   <lb n="2" break="no"/>ζ<choice><orig>ά</orig><reg>α</reg></choice>ρου</name></persName>.   
+                   <lb n="2" break="no"/>ζ<choice><orig>ά</orig><reg>α</reg></choice>ρου</name></persName>   
                  </ab>
             </div>
             <div type="apparatus">
@@ -86,7 +87,7 @@
                 <p>Raising of Lazaros</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
