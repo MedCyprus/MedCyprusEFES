@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against brown background. Alpha with its apex terminating in a serif to the left. Lambda with the top bar terminating in a serif to the left. Delta is formed with a lambda on a bottom bar, with a serif to the left of its top bar. ΕΥ and ΤΗ joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Crucifixion">Crucifixion</rs>
+                                  <rs type="iconography" ref="#christological"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +75,9 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice> <w lemma="βασιλεύς">βασιλεύ<supplied reason="omitted">ς</supplied></w> <hi rend="ligature">τη</hi>ς <w lemma="δόξα"><choice><sic>δ<choice><orig>ώ</orig><reg>ῶ</reg></choice>
+                     <lb n="2" break="no"/>ξης</sic><corr>δόξης</corr></choice></w>
                  </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +87,7 @@
                 <p>The King of Glory</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
