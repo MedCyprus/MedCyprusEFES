@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Wavy, horizontal abbreviation mark above the nomina sacra ΜΗΡ ΘΥ. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p>
+                                <rs type="iconography" ref="#Crucifixion">Crucifixion</rs>
+                                  <rs type="iconography" ref="#christological"></rs>
+                                <rs type="iconography" ref="#Virgin"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
