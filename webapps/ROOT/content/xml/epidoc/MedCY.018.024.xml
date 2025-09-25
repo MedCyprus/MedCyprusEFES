@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Alpha and lambda with the top bar terminating in a serif to the left. Final sigma in form of a wavy line. Accents and breathings systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Nicholas">Nicholas</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                                <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -77,7 +79,17 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/>Ὁ 
+                  <lb n="2"/><persName type="sacred" key="Nicholas"><w lemma="ἅγιος">ἅ
+                   <lb n="3" break="no"/>γι
+                   <lb n="4" break="no"/>ος</w>
+                   <cb n="b"/>
+                      <lb n="1"/><name type="forename" nymRef="#Νικόλαος">Νι
+                     <lb n="2" break="no"/>κό
+                     <lb n="3" break="no"/>λα
+                     <lb n="4" break="no"/>ος</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -87,7 +99,7 @@
                 <p>Saint Nicholas</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
