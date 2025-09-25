@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Omega formed of two linked oval bowls. ΤΩ joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#PresentationVirgin">Presentation of the Virgin to the Temple</rs>
+                             <rs type="iconography" ref="#mariological"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +76,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                   <lb n="1"/>Τ<choice><orig>ὰ</orig><reg>α</reg></choice> <w lemma="ἅγιος">ἅγια</w> <hi rend="ligature">τῶ</hi>ν <w lemma="ἅγιος"><choice><orig>ἀ</orig><reg>ἁ</reg></choice>γίων</w> 
                  </ab>
             </div>
             <div type="apparatus">
