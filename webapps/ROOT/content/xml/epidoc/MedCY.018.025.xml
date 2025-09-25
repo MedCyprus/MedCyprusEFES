@@ -42,9 +42,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Christ"></rs>
+                            <p><rs type="iconography" ref="#Christ">Christ</rs>
                                 <rs type="iconography" ref="#divine"></rs> 
                             <rs type="iconography" ref="#male"></rs>
+                                <rs type="iconography" ref="#Nicholas"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
