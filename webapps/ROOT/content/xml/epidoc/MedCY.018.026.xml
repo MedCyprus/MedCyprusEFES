@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Virgin">Virgin</rs>
+                                <rs type="iconography" ref="#Christ"></rs>
+                                   <rs type="iconography" ref="#Nicholas"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,9 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
+                    <w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></w></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +88,7 @@
                 <p>Mother of God</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
