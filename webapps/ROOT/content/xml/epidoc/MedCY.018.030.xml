@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Omega with its apex surmounted by a crosslet. Mu with the central strokes reminiscent of an upsilon. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Joachim">Joachim</rs>
+                                <rs type="iconography" ref="#PresentationVirgin"></rs>
+                                <rs type="iconography" ref="#mariological"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +77,13 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><persName type="sacred" key="Joachim"><name type="forename" nymRef="#Ἰωακείμ">Ἰ
+                    <lb n="2" break="no"/>ω
+                    <lb n="3" break="no"/>α
+                    <lb n="4" break="no"/>κ
+                    <lb n="5" break="no"/>ε<choice><orig>ῖ</orig><reg>ί</reg></choice>
+                     <lb n="6" break="no"/>μ</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +93,7 @@
                 <p>Joachim</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
