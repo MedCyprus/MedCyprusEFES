@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Final sigma in the form of a wavy line. Accents and breathings systematic. Letter height: <height unit="cm">?</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Phloros">Phloros</rs>
+                                   <rs type="iconography" ref="#martyr"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -76,7 +78,15 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                   <cb n="a"/>
+                <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Phloros"><supplied reason="lost"><w lemma="ἅγιος">ἅγιος</w></supplied>
+                    <cb n="b"/>
+                    <lb n="1"/><name type="forename" nymRef="#Φλῶρος">Φ
+                    <lb n="2" break="no"/>λ
+                       <lb n="3" break="no"/>ῶ
+                        <lb n="4" break="no"/>ρος
+                    </name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
@@ -86,7 +96,7 @@
                 <p>[Saint] Phloros</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
