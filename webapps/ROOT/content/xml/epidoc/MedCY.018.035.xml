@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Final sigma in the form of a wavy line. Horizontal abbreviation mark above the characters IΩ. Accents and breathings non systematic. Letter height: <height unit="cm">2,5-3,5</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#JohnKalybites">JohnKalybites</rs>
+                            <rs type="iconography" ref="#monastic"></rs>
+                                <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +77,20 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                <lb n="1"/>Ὁ <persName type="sacred" key="JohnKalybites"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                   <cb n="b"/> 
+                    <lb n="1"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name></persName>
+                    <lb n="2"/>Ὁ
+                  <lb n="3"/><addName type="epithet" key="Kalybites"><choice><sic>Κ
+                  <lb n="4" break="no"/>α
+                  <lb n="5" break="no"/>λ
+                  <lb n="6" break="no"/>υ
+                  <lb n="7" break="no"/>β
+                  <lb n="8" break="no"/>ή
+                    <lb n="9" break="no"/>τ
+                    <lb n="10" break="no"/>ις</sic><corr>Καλυβίτης</corr></choice></addName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +100,7 @@
                 <p>Saint John Kalybites</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
