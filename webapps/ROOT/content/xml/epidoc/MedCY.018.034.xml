@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Xi with upper part with a straight diagonal spine, and lower part with a curvilinear spine and a tail. Accents and breathings systematic. Letter height: <height unit="cm">3-4,5</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Alexios">Alexios</rs>
+                            <rs type="iconography" ref="#martyr"></rs>
+                                <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,22 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                   <cb n="a"/>
+                    <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice>
+                  <lb n="2"/><persName type="sacred" key="Alexios"><w lemma="ἅγιος">ἅ
+                   <lb n="3" break="no"/>γ
+                  <lb n="4" break="no"/>ι
+                   <lb n="5" break="no"/>ο
+                   <lb n="6" break="no"/>ς</w>
+                   <cb n="b"/>
+                      <lb n="1"/><name type="forename" nymRef="#Ἀλεξιος"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>
+                     <lb n="2" break="no"/>λ
+                     <lb n="3" break="no"/><choice><orig>έ</orig><reg>ε</reg></choice>
+                     <lb n="4" break="no"/>ξ
+                      <lb n="5" break="no"/>ι
+                     <lb n="6" break="no"/>ο
+                     <lb n="7" break="no"/>ς</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
