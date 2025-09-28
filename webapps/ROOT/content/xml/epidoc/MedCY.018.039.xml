@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Accents and breathings non systematic. Letter height: <height unit="cm">?</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Christ">Christ</rs>
+                                <rs type="iconography" ref="#divine"></rs>   
+                                <rs type="iconography" ref="#male"></rs>   
+                                <rs type="iconography" ref="#FortyMartyrs"></rs>   
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -76,7 +79,10 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan>
+                  <lb n="2"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
@@ -86,7 +92,7 @@
                 <p>Jesus Christ</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
