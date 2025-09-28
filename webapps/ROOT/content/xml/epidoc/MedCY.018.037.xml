@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Eta with its crossbar crossed. Final sigmas in the form of a wavy line under the letter O. Accents and breathings non systematic. Letter height: <height unit="cm">1,5-4</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#GregoryOfAgrigento">Gregory</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,29 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                <lb n="1"/>Ὁ <persName type="sacred" key="GregoryOfAgrigento"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                <lb n="2"/><name type="forename" nymRef="#Γρηγόριος">Γ
+                    <lb n="3" break="no"/>ρ
+                    <lb n="4" break="no"/>η
+                    <lb n="5" break="no"/>γ
+                    <lb n="6" break="no"/>ό
+                    <lb n="7" break="no"/>ρι
+                     <lb n="8" break="no"/>ος
+                    <cb n="b"/>
+                <lb n="1"/><addName type="epithet" key="Ἀκραγαντίνος"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>
+                     <lb n="2" break="no"/>κ
+                    <lb n="3" break="no"/>ρ
+                    <lb n="4" break="no"/>α
+                    <lb n="5" break="no"/>γ
+                    <lb n="6" break="no"/>α
+                    <lb n="7" break="no"/>ν
+                    <lb n="8" break="no"/>τ
+                    <lb n="9" break="no"/><choice><orig>ι</orig><reg>ί</reg></choice>
+                    <lb n="10" break="no"/>ν
+                    <lb n="11" break="no"/><choice><orig>ό</orig><reg>ο</reg></choice>ς
+                     </addName></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +108,7 @@
                 <p>Saint Gregory of Agrigento</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
