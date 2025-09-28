@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Accents and breathings non systematic. Letter height: <height unit="cm">?</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#FortyMartyrs_martyrdom">Martyrdom of the Forty Martyrs of Sebasteia</rs>
+                                  <rs type="iconography" ref="#FortyMartyrs"></rs>            
+                                  <rs type="iconography" ref="#hagiographic">hagiographic</rs>         
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -77,7 +79,11 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                <cb n="a"/>
+                <lb n="1"/>Οἱ <w lemma="ἅγιος"><choice><orig>ἄ</orig><reg>ἅ</reg></choice>γιοι</w>
+                 <cb n="b"/> 
+                  <lb n="1"/><persName type="sacred" key="FortyMartyrs"><w lemma= "τεσσαράκοντα">τεσσαράκοντα</w></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -87,7 +93,7 @@
                 <p>Forty Martyrs</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
