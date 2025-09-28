@@ -81,7 +81,7 @@
                   <cb n="a"/>
                 <lb n="1"/>Ὁ <persName type="sacred" key="JohnKalybites"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
                    <cb n="b"/> 
-                    <lb n="1"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name></persName>
+                    <lb n="1"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan>
                     <lb n="2"/>Ὁ
                   <lb n="3"/><addName type="epithet" key="Kalybites"><choice><sic>Κ
                   <lb n="4" break="no"/>α
@@ -90,7 +90,7 @@
                   <lb n="7" break="no"/>β
                   <lb n="8" break="no"/>ή
                     <lb n="9" break="no"/>τ
-                    <lb n="10" break="no"/>ις</sic><corr>Καλυβίτης</corr></choice></addName>
+                    <lb n="10" break="no"/>ις</sic><corr>Καλυβίτης</corr></choice></addName></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
