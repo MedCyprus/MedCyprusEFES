@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule black against grey background. Omega formed of two linked round bowls, each with an inward-curving spine. Tau with a top bar terminating in serifs at either end. Letter height: <height unit="cm">4</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Euthymios">Euthymios</rs>
+                                   <rs type="iconography" ref="#monastic"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
+                                <rs type="iconography" ref="#ascetic"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
