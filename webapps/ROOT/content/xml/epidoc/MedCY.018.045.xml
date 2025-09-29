@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Final sigma in the form of a wavy line. Accents and breathings non systematic. Letter height: <height unit="cm">4</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Euthymios">Euthymios</rs>
+                                   <rs type="iconography" ref="#monastic"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
+                                <rs type="iconography" ref="#ascetic"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +77,12 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                <lb n="1"/><supplied reason="lost">Ὁ</supplied><persName type="sacred" key="Euthymios"><supplied reason="lost"><w lemma="ἅγιος">ἅγιος</w></supplied>
+                    <lb n="2"/><name type="forename" nymRef="#Εὐθύμιος"><choice><sic>Ε<choice><orig>υ</orig><reg>ὐ</reg></choice>
+                        <lb n="3"/>θύ
+                        <lb n="4"/>μη
+                        <lb n="5"/>ος</sic><corr>Εὐθύμιος</corr></choice></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +92,7 @@
                 <p>[Saint] Euthymios</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
