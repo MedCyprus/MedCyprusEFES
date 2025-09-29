@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Eta with its crossbar crossed. Lambda with the top bar terminating in a serif to the left. Final sigma in the form of a wavy line. Phi with a diamond-shaped counter. ΠΠ joined in ligature. Accents and breathings systematic. Letter height: <height unit="cm">?</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#LastJudgment">LastJudgment, Philippos</rs>
+                                  <rs type="iconography" ref="#Philippos"></rs>                                                    
+                                  <rs type="iconography" ref="#christological"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -76,7 +78,13 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><persName type="sacred" key="Philippos"><name type="forename" nymRef="#Φίλιππος"><choice><sic>Φ
+                      <lb n="2" break="no"/>ί
+                      <lb n="3" break="no"/>λ
+                      <lb n="4" break="no"/>η
+                      <lb n="5" break="no"/><hi rend="ligature">ππ</hi>
+                      <lb n="6" break="no"/>ος</sic><corr>Φίλιππος</corr></choice></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -86,7 +94,7 @@
                 <p>Philippos</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
