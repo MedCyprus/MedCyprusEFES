@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Delta is formed with a lambda on a bottom bar. Final sigma in the form of a wavy line. Accents and breathings systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Andrew">Andrew</rs>
+                                  <rs type="iconography" ref="#apostle"></rs>
+                                  <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,14 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><persName type="sacred" key="Andrew"><name type="forename" nymRef="#Ἀνδρέας">Ἀ
+                      <lb n="2" break="no"/>ν
+                      <lb n="3" break="no"/>δ
+                      <lb n="4" break="no"/>ρ
+                      <lb n="5" break="no"/>έ
+                      <lb n="6" break="no"/>α
+                      <lb n="7" break="no"/>ς</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +93,7 @@
                 <p>Andrew</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
