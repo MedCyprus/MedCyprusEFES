@@ -38,11 +38,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against red background. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#LastJudgement">Last Judgement, Personification of the sea</rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +74,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                      <lb n="1"/><choice><orig>Ἠ</orig><reg>Ἡ</reg></choice> <w lemma="θάλασσα">θάλασσα</w>
                  </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +85,7 @@
                 <p>Sea</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
