@@ -75,7 +75,18 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                <lb n="1"/><supplied reason="lost">Ὁ</supplied>
+                  <lb n="2"/><persName type="sacred" key="Sergios"><supplied reason="lost"><w lemma="ἅγιος">ἅ
+                  <lb n="3" break="no"/>γι
+                  <lb n="4" break="no"/>ος</w></supplied>
+                    <cb n="b"/>
+                    <lb n="1"/><name type="forename" nymRef="#Θαλλέλαιος">Θ  
+                        <lb n="2" break="no"/>α
+                        <lb n="3" break="no"/>λλέ
+                        <lb n="4" break="no"/>λαι
+                        <lb n="5" break="no"/>ος</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +96,7 @@
                 <p>Saint Thallelaios</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
