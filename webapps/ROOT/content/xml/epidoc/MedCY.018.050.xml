@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#JamesAlphaeus">James Alphaeus</rs>
+                                  <rs type="iconography" ref="#LastJudgment"></rs>
+                                  <rs type="iconography" ref="#christological"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,14 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><persName type="sacred" key="JamesAlphaeus"><name type="forename" nymRef="#Ἰάκωβος"><choice><orig>Ϊ</orig><reg>Ἰ</reg></choice>
+                      <lb n="2" break="no"/>ά
+                      <lb n="3" break="no"/>κ
+                      <lb n="4" break="no"/>ω
+                      <lb n="5" break="no"/>β
+                      <lb n="6" break="no"/>ο
+                      <lb n="7" break="no"/>ς</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +93,7 @@
                 <p>James</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
