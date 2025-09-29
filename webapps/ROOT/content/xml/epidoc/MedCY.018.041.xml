@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Final sigmas in the form of a wavy line. Accents and breathings non systematic. Letter height: <height unit="cm">?</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Lauros">Lauros</rs>
+                                   <rs type="iconography" ref="#martyr"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,17 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                <lb n="1"/>Ὁ 
+                  <lb n="2"/><persName type="sacred" key="Lauros"><w lemma="ἅγιος">ἅ
+                  <lb n="3" break="no"/>γι
+                  <lb n="4" break="no"/>ος</w>
+                    <cb n="b"/>
+                      <lb n="1"/><name type="forename" nymRef="#Λαῦρος"><supplied reason="lost">Λ</supplied>
+                      <lb n="2" break="no"/>α<choice><orig>υ</orig><reg>ῦ</reg></choice>
+                      <lb n="3" break="no"/><supplied reason="lost">ρ
+                     <lb n="4" break="no"/>ος</supplied></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +96,7 @@
                 <p>Saint Lauros</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
