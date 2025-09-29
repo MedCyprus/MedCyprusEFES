@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Mu with the central strokes reminiscent of an upsilon on a stem. Final sigma in the form of a wavy line. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#LastJudgement">Last Judgement, Matthew</rs>
+                                  <rs type="iconography" ref="#apostle"></rs>
+                                  <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,13 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><persName type="sacred" key="Matthew"><name type="forename" nymRef="#Ματθαῖος">Μ
+                      <lb n="2" break="no"/>α
+                      <lb n="3" break="no"/>τ
+                      <lb n="4" break="no"/>θ
+                      <lb n="5" break="no"/>α<choice><orig>ῖ</orig><reg>ί</reg></choice>
+                      <lb n="6" break="no"/>ος</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +92,7 @@
                 <p>Matthew</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
