@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Mu with the central strokes reminiscent of an upsilon on a stem. Final sigma in the form of a wavy line. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Mark">Mark</rs>
+                                  <rs type="iconography" ref="#apostle"></rs>
+                                  <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,13 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><persName type="sacred" key="Mark"><name type="forename" nymRef="#Μᾶρκος">Μ
+                      <lb n="2" break="no"/><choice><orig>ά</orig><reg>ᾶ</reg></choice>
+                      <lb n="3" break="no"/>ρ
+                      <lb n="4" break="no"/>κ
+                      <lb n="5" break="no"/>ο
+                      <lb n="6" break="no"/>ς</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +92,7 @@
                 <p>Mark</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
