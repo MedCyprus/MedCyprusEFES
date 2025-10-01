@@ -27,8 +27,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
-                                    <rs type="placement-building" ref="#narthex">Narthex, northeastern recess, lower register</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
+                                    <rs type="placement-building" ref="#narthex">Narthex, northeast recess, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -53,7 +53,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Kakopetria">Kakopetria, Saint Nicholas the Roof</origPlace>
-                            <origDate notBefore="1267" notAfter="1333" precision="medium">Late 13th-Early 14th century</origDate>
+                            <origDate notBefore="1267" notAfter="1333" precision="medium">Late 13th-early 14th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
@@ -72,7 +72,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="018-067-01.JPG"><desc>Donation Inscription</desc></graphic>
+        <graphic rend="primary" url="018-063-01.JPG"><desc>Donation Inscription, detail</desc></graphic>
+        <graphic url="018-063-02.JPG"><desc>Donation Inscription</desc></graphic>
+        <graphic url="018-063-03.JPG"><desc>Donation Inscription,general view</desc></graphic>
+        <graphic url="018-063-04.JPG"><desc>Donation Inscription, recess' general view</desc></graphic>
     </facsimile>
     <text>
         <body>
