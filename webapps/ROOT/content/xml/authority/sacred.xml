@@ -1197,6 +1197,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2993862</idno>                   
                 </person>
                 
+                <person xml:id="Holy318FathersofNicaea">
+                    <persName xml:lang="grc">318 Πατέρες της Νίκαιας</persName>
+                    <persName xml:lang="en">318 God-bearing Fathers of the First Ecumenical Council in Nicaea</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="Holy318FathersofNicaea" key="God-bearing">Θεοφόροι</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Holy318FathersofNicaea" key="God-bearing">God-bearing</persName>
+                    <idno type="wikidata">not listed</idno>                   
+                </person>
+                
             </listPerson>
         </body>
     </text>
