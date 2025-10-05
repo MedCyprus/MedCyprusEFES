@@ -634,6 +634,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2282958</idno>                   
                 </person>
                 
+                <person xml:id="Kerykos">
+                    <persName xml:lang="grc">Κήρυκος</persName>
+                    <persName xml:lang="en">Kerykos</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q514765</idno>                   
+                </person>
+                
                 <person xml:id="KingOfGlory">
                     <persName xml:lang="grc">Ὁ βασιλεύς τῆς δόξης</persName>
                     <persName xml:lang="en">King of Glory</persName>
