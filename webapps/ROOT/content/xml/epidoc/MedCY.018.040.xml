@@ -51,7 +51,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Kakopetria">Kakopetria, Saint Nicholas of the Roof</origPlace>
-                            <origDate notBefore="1001" notAfter="1101" precision="medium">11th century</origDate>
+                            <origDate notBefore="1001" notAfter="1100" precision="medium">11th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
