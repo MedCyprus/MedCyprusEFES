@@ -133,6 +133,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q530065</idno>                   
                 </person>
                 
+                <person xml:id="Artemios">
+                    <persName xml:lang="grc">Ἀρτέμιος</persName>
+                    <persName xml:lang="en">Artemios</persName>               
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q956592</idno>                   
+                </person>
+                
                 <person xml:id="Athanasia">
                     <persName xml:lang="grc">Ἀθανασία</persName>
                     <persName xml:lang="en">Athanasia</persName>
