@@ -1036,6 +1036,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2742399</idno>                   
                 </person>
                 
+                <person xml:id="Terentios">
+                    <persName xml:lang="grc">Τερέντιος</persName>
+                    <persName xml:lang="en">Terentios</persName>               
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1960801</idno>                   
+                </person>
+                
                 <person xml:id="Thallelaios">
                     <persName xml:lang="grc">Θαλλέλαιος</persName>
                     <persName xml:lang="en">Thallelaios</persName>               
