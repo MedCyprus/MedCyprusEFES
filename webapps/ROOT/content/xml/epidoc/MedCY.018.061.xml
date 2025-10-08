@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Accents and breathings non systematic. Letter height: <height unit="cm">?</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Kyriakos">Lauros</rs>
+                                   <rs type="iconography" ref="#martyr"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,22 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                   <cb n="a"/>
+                <lb n="1"/>Ὁ 
+                  <lb n="2"/><persName type="sacred" key="Kyriakos"><w lemma="ἅγιος">ἅ
+                  <lb n="3" break="no"/>γ
+                   <lb n="4" break="no"/>ι
+                     <lb n="5" break="no"/>ο
+                     <lb n="6" break="no"/>ς</w>
+                    <cb n="b"/>
+                    <lb n="1"/><name type="forename" nymRef="#Κυριακός"><supplied reason="lost">Κ</supplied>
+                      <lb n="2" break="no"/>υ
+                        <lb n="3" break="no"/>ρ
+                        <lb n="4" break="no"/>ι<supplied reason="omitted">α</supplied>
+                        <lb n="5" break="no"/>κ
+                      <lb n="6" break="no"/><choice><orig>o</orig><reg>ό</reg></choice>
+                        <lb n="7" break="no"/>ς</name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
