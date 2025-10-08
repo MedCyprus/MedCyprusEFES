@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Tryphon">Lauros</rs>
+                                   <rs type="iconography" ref="#martyr"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,21 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                <lb n="1"/><supplied reason="lost">Ὁ</supplied> 
+                  <lb n="2"/><persName type="sacred" key="Tryphon"><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
+                  <lb n="3" break="no"/>γ
+                   <lb n="4" break="no"/>ι
+                     <lb n="5" break="no"/>ο
+                     <lb n="6" break="no"/>ς</w>
+                    <cb n="b"/>
+                      <lb n="1"/><name type="forename" nymRef="#Τρύφων">Τ
+                       <lb n="2" break="no"/>ρ
+                        <lb n="3" break="no"/>ύ
+                         <lb n="4" break="no"/>φ
+                          <lb n="5" break="no"/>ω
+                        <lb n="6" break="no"/>ν</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
