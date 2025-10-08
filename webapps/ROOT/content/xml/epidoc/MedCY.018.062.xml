@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against red and blue background. Mu with the central strokes reminiscent of a tau on a crossed stem. Delta is formed with a lambda on a bottom bar, with a serif to the left of its top bar. Tau with a top bar terminating in serifs at either end. Alpha with its apex terminating in a serif to the left. MHP and TP joined in ligature. Wavy, horizontal abbreviation mark above the sigla ΜΗΡ ΘΥ. Accents and breathings non systematic. Letter height: <height unit="cm">?</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#VirginHodegetria">Virgin Hodegetria</rs>
+                                   <rs type="iconography" ref="#female"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +76,18 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μή</abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
+                    <milestone unit="column" n="right"/><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></w></persName> 
+                  <cb n="a"/>
+                  <lb n="1"/><addName type="epithet" key="Hodegetria">Ἡ
+                  <lb n="2"/><choice><sic><choice><orig>Ὀ</orig><reg>Ο</reg></choice>
+                  <lb n="3" break="no"/>δı
+                       <lb n="4" break="no"/>
+                   <cb n="b"/>
+                   <lb n="1"/>γί
+                   <lb n="2" break="no"/><hi rend="ligature">τρ</hi>η
+                   <lb n="3" break="no"/>α</sic><corr>Οδηγήτρια</corr></choice></addName>
                  </ab>
             </div>
             <div type="apparatus">
