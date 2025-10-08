@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Chi with strokes ending in small serifs on the upper armsç ΓΑ joined in ligature. Wavy, horizontal abbreviation mark above the character X. Accents and breathings non systematic. Letter height: <height unit="cm">?</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Gabriel">Archangel Gabriel</rs>
+                                  <rs type="iconography" ref="#archangel"></rs>
+                                  <rs type="iconography" ref="#genderless"></rs>
+                                <rs type="iconography" ref="#dressimperial"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +77,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice><persName type="sacred" key="Gabriel"><name type="forename" nymRef ="#Γαβριήλ"> <w lemma="ἀρχάγγελος"><expan><abbr rend="supraline">ἀρχ</abbr><ex>άγγελος</ex></expan></w> <hi rend="ligature">Γα</hi>βριήλ</name></persName>     
                  </ab>
             </div>
             <div type="apparatus">
