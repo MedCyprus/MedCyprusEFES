@@ -501,6 +501,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2667621</idno>                   
                 </person>
                 
+                <person xml:id="Ioasaph">
+                    <persName xml:lang="grc">Ἰωάσαφ</persName>
+                    <persName xml:lang="en">Ioasaph</persName>               
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q790563</idno>                   
+                </person>
+                
                 <person xml:id="Isaiah">
                     <persName xml:lang="grc">Ἠσαΐας</persName>
                     <persName xml:lang="en">Isaiah</persName>                   
