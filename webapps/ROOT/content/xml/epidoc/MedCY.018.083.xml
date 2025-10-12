@@ -64,7 +64,7 @@
                     <term type="textType" ref="text_types.xml#doc9">Sigla</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publication</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -89,7 +89,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Stylianou1946"/>, <citedRange>141</citedRange></bibl>
+                <bibl><ptr target="#Stylianou1946"/>, <citedRange>142</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
