@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Deesis, John the Forerunner</title>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
+                <editor xml:id="mx">Maria Xenaki</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.018.082</idno>
+                <availability>
+                  <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#narthex">Narthex, central bay, west recess, lunette, left of Christ</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                </support> 
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>On either side of the saint's head</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>PENDING
+                            </handNote>
+                        </handDesc>
+                         <decoDesc>
+                            <p>PENDING
+                            </p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Kakopetria">Kakopetria, Saint Nicholas of the Roof</origPlace>
+                            <origDate notBefore="1201" notAfter="1400" precision="medium">Late 13th-Early 14th century</origDate>
+                        </origin>
+                        <provenance when="2022">
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">05/07/2022</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                </keywords>
+            </textClass>
+            <creation>transcription (Th. Petrou), publication</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic rend="primary" url="018-082-01.JPG"><desc>Deesis, John the Forerunner, inscription</desc></graphic>
+        <graphic url="018-082-02.JPG"><desc>Deesis, John the Forerunner, general view</desc></graphic>  
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+              <ab>PENDING
+                 </ab>
+            </div>
+            <div type="apparatus">
+               <p>PENDING</p>
+            </div>
+            <div type="translation">
+                <p>Saint John the Forerunner</p>
+            </div>
+            <div type="commentary">
+                <p>No comment</p>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                <bibl><ptr target="#Stylianou1946"/>, <citedRange>141</citedRange></bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
