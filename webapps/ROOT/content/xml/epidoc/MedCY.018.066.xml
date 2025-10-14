@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black majuscule letters against white background. Delta is formed with a lambda on a bottom bar, with a serif to the left of its top bar. Tau with a top bar terminating in serifs at either end. Letter height: <height unit="cm">?</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Gabriel">Archangel Gabriel</rs>
+                                  <rs type="iconography" ref="#archangel"></rs>
+                                  <rs type="iconography" ref="#genderless"></rs>
+                                <rs type="iconography" ref="#dressimperial"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +77,9 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/>P <milestone unit="column"/> K
+                  <lb n="2"/>Δ <milestone unit="column"/> Τ
                  </ab>
             </div>
             <div type="apparatus">
