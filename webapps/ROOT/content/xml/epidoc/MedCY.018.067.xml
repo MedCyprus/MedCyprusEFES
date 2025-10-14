@@ -42,7 +42,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Kyriakos">Kyriakos</rs>
+                                  <rs type="iconography" ref="#ascetic"></rs>
+                                  <rs type="iconography" ref="#monastic"></rs>
+                                  <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +77,17 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                  <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice>
+                  <lb n="2"/><persName type="sacred" key="Kyriakos"><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἅ</reg></choice>
+                  <lb n="3" break="no"/>γι
+                  <lb n="4" break="no"/><hi rend="ligature">ος</hi></w>
+                 <cb n="b"/>
+                   <lb n="1"/><name type="forename" nymRef="#Κυριακός"><choice><sic>Κυ
+                  <lb n="2" break="no"/>ρυ
+                  <lb n="3" break="no"/>α
+                   <lb n="4" break="no"/>κ<hi rend="ligature"><choice><orig>ὸ</orig><reg>ό</reg></choice>ς</hi></sic><corr>Κυριακός</corr></choice></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
