@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against multi-color background. Kappa consists of one vertical stem and two diagonal arms extending from the middle of the stem. Mu with the central strokes reminiscent of an upsilon on a crossed stem. OC joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">?</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Kosmas">Kosmas</rs>
+                            <rs type="iconography" ref="#monastic"></rs>
+                                  <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
