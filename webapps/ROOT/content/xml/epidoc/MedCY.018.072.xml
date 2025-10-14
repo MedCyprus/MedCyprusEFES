@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. OC joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">4-5</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Ioasaph">Ioasaph</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,17 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                  <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice>
+                  <lb n="2"/><persName type="sacred" key="Ioasaph"><w lemma="ἅγιος">ἅ
+                  <lb n="3" break="no"/>γι
+                  <lb n="4" break="no"/><hi rend="ligature">ος</hi></w>
+                  <cb n="b"/> 
+                   <lb n="1"/><name nymRef ="#Ἰωάσαφ" type="forename"><choice><sic><choice><orig>I</orig><reg>Ἰ</reg></choice>
+                    <lb n="2" break="no"/>o
+                        <lb n="3" break="no"/>ά
+                        <lb n="4" break="no"/>σαφ</sic><corr>Ἰωάσαφ</corr></choice></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
