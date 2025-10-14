@@ -75,7 +75,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING    
+                  <cb n="a"/>
+                  <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice>
+                  <lb n="2"/><persName type="sacred" key="Tychikos"><w lemma="ἅγιος">ἅ
+                  <lb n="3" break="no"/>γι
+                  <lb n="4" break="no"/><hi rend="ligature">ος</hi></w>
+                  <cb n="b"/> 
+                   <lb n="1"/><name nymRef ="#Τυχικός" type="forename"><choice><sic>Tι
+                    <lb n="2" break="no"/>χι
+                        <lb n="3" break="no"/>κ<choice><orig>ό</orig><reg>ὸ</reg></choice>
+                        <lb n="4" break="no"/>ς</sic><corr>Τυχικός</corr></choice></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
