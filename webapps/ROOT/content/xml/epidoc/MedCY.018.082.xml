@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against brown background. Mu with the central strokes reminiscent of an upsilon on a stem. OC joined in ligature. Ἰωάννης and Πρόδρομος are abbreviated as  with a big, wavy line above the words. Accents and breathings non systematic. Letter height: <height unit="cm">?</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#JohnForerunner">John the Forerunner</rs>
+                                <rs type="iconography" ref="#Deesis"></rs>
+                                   <rs type="iconography" ref="#prophet"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,8 +77,17 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
-                 </ab>
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice> 
+                  <lb n="2"/><persName type="sacred" key="JohnForerunner"><w lemma="ἅγιος">ἅ
+                  <lb n="3" break="no"/>γι
+                  <lb n="4" break="no"/><hi rend="ligature">ος</hi></w> 
+                 <lb n="5"/> <name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>
+                <cb n="b"/>
+               <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> 
+                 <lb n="2"/><addName type="epithet" key="Forerunner"><expan><abbr rend="supraline">Πρ</abbr><ex>ό</ex><abbr rend="supraline">δ</abbr><ex>ρο</ex><abbr rend="supraline">μ
+                <lb n="3"/><hi rend="ligature">ος</hi></abbr></expan></addName></persName></ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
