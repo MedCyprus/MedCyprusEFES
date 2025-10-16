@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against green background. Accents and breathings non systematic. Letter height: <height unit="cm">?</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Panteleimon">Panteleimon</rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#martyr"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +77,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING    
+                  <cb n="a"/>
+                  <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice>
+                  <lb n="2"/><persName type="sacred" key="Panteleimon"><w lemma="ἅγιος">ἅ
+                  <lb n="3" break="no"/><supplied reason="lost">γι</supplied>
+                  <lb n="4" break="no"/><supplied reason="lost"><hi rend="ligature">ος</hi></supplied></w>
+                    <cb n="b"/>  
+                     <lb n="1"/><name nymRef ="#Παντελεήμων" type="forename"><supplied reason="lost">Παντελεήμων</supplied></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
