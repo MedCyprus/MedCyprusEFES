@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against green background. Alpha with its apex terminating in a serif to the left. Delta is formed with a lambda on a bottom bar, with a serif to the left of its top bar. Mu with the central strokes reminiscent of an upsilon on a crossed stem. OC and AN joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">?</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Damianos">Damianos</rs>
+                            <rs type="iconography" ref="#doctor"></rs>
+                                  <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +77,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING    
+                 <cb n="a"/>
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice>
+                  <lb n="2"/><persName type="sacred" key="Damian"><w lemma="ἅγιος">ἅ
+                  <lb n="3" break="no"/>γι
+                  <lb n="4" break="no"/><hi rend="ligature">ος</hi></w>
+                   <cb n="a"/> 
+                     <lb n="1"/><name nymRef ="#Δαμιανός" type="forename">Δ
+                     <lb n="2" break="no"/>α
+                    <lb n="3" break="no"/>μι
+                    <lb n="4" break="no"/><hi rend="ligature">αν</hi><hi rend="ligature">ός</hi></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
