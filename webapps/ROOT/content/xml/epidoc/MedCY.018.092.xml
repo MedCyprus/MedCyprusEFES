@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint John/Kosmas? of Damascus</title>
+                <title>Saint Athanasia</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -28,8 +28,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
-                                    <rs type="placement-building" ref="#narthex">Narthex, northeast pilaster, west face, lower register</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved. Exfoliated.</rs>
+                                    <rs type="placement-building" ref="#narthex">Narthex, northwest recess, soffit, lower register, to the north</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -64,12 +64,12 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou)</creation>
+            <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="018-092-01.JPG"><desc>Saint John/Kosmas? of Damascus, inscription</desc></graphic>
-        <graphic url="018-092-02.JPG"><desc>Saint John/Kosmas? of Damascus, general view</desc></graphic> 
+         <graphic rend="primary" url="018-092-01.JPG"><desc>Saint Athanasia, inscription</desc></graphic>
+        <graphic url="018-092-02.JPG"><desc>Saint Athanasia, general view</desc></graphic> 
     </facsimile>
     <text>
         <body>
@@ -81,14 +81,14 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Saint Kosmas of Damascus</p>
+                <p>Saint Athanasia</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>Unpublished</bibl>
+                <bibl><ptr target="#Stylianou1946"/>, <citedRange>121</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
