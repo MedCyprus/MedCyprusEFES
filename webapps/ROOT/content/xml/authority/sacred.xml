@@ -955,6 +955,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2333926</idno>                   
                 </person>
                 
+                <person xml:id="Photios">
+                    <persName xml:lang="grc">Φώτιος</persName>
+                    <persName xml:lang="en">Photios</persName>                   
+                    <idno type="wikidata">not listed</idno>                   
+                </person>
+                
                 <person xml:id="Polykarpos">
                     <persName xml:lang="grc">Πολύκαρπος</persName>
                     <persName xml:lang="en">Polykarpos</persName> 
