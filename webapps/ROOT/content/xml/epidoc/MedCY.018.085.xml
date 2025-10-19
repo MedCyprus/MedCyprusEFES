@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Eustratios">Eustratios</rs>                               
+                                   <rs type="iconography" ref="#male"></rs>
+                                   <rs type="iconography" ref="#martyr"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +77,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING</ab>
+                   <cb n="a"/>
+                   <lb n="1"/>Ὁ 
+                  <lb n="2"/><persName type="sacred" key="Eustratios"><w lemma="ἅγιος">ἅ
+                   <lb n="3" break="no"/>γι
+                   <lb n="4" break="no"/><hi rend="ligature">ος</hi></w>
+                   <cb n="b"/>
+                       <lb n="1"/><name type="forename" nymRef="#Εὐστράτιος">Εὐ
+                       <lb n="2" break="no"/><hi rend="ligature">στ</hi><hi rend="ligature">ρά</hi>
+                       <lb n="3" break="no"/>τ<choice><orig>ϊ</orig><reg>ι</reg></choice>
+                       <lb n="4" break="no"/><hi rend="ligature">ος</hi></name></persName></ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
