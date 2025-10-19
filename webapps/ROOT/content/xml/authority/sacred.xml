@@ -75,6 +75,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q450316</idno>                   
                 </person>
                 
+                <person xml:id="Ambrosios">
+                    <persName xml:lang="grc">Ἀμβρόσιος</persName>
+                    <persName xml:lang="en">Ambrosios</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q43689</idno>                   
+                </person>
+                
                 <person xml:id="AnastasiaPharmakolytria">
                     <persName xml:lang="grc">Ἀναστασία</persName>
                     <persName xml:lang="en">Anastasia</persName>
