@@ -336,6 +336,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q200608</idno>                   
                 </person>
                 
+                <person xml:id="Epigon">
+                    <persName xml:lang="grc">Ἐπίγων</persName>
+                    <persName xml:lang="en">Epigon</persName>               
+                    <idno type="wikidata">Not listed</idno>                   
+                </person>
+                
                 <person xml:id="Epiphanios">
                     <persName xml:lang="grc">Ἐπιφάνιος</persName>
                     <persName xml:lang="en">Epiphanios</persName>               
@@ -965,6 +971,12 @@
                     <persName xml:lang="grc">Φώτιος</persName>
                     <persName xml:lang="en">Photios</persName>                   
                     <idno type="wikidata">Not listed</idno>                   
+                </person>
+                
+                <person xml:id="Poemen">
+                    <persName xml:lang="grc">Ποιμήν</persName>
+                    <persName xml:lang="en">Poemen</persName>               
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1255493</idno>                   
                 </person>
                 
                 <person xml:id="Polykarpos">
