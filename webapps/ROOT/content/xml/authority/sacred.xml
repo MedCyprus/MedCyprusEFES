@@ -189,6 +189,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q192816</idno>                   
                 </person>
                 
+                <person xml:id="Barlaam">
+                    <persName xml:lang="grc">Βαρλαάμ</persName>
+                    <persName xml:lang="en">Barlaam</persName>               
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q790563</idno>                   
+                </person>
+                
                 <person xml:id="Barnabas">
                     <persName xml:lang="grc">Βαρνάβας</persName>
                     <persName xml:lang="en">Barnabas</persName>        
