@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Accents and breathings systematic. Letter height: <height unit="cm">3,5-5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Zosimas">Zosimas</rs>
+                                  <rs type="iconography" ref="#priest"></rs>
+                                  <rs type="iconography" ref="#male"></rs>
+                                  <rs type="iconography" ref="#hagiographic"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +77,15 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/>Ὁ <persName type="sacred" key="Zosimas"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                   <lb n="2"/><name nymRef="#Ζωσιμᾶς" type="forename">Ζ
+                       <lb n="3" break="no"/>ω
+                       <lb n="4" break="no"/>σ
+                       <lb n="5" break="no"/><supplied reason="lost">ι</supplied>
+                       <lb n="6" break="no"/><supplied reason="lost">μ</supplied>
+                       <lb n="7" break="no"/><supplied reason="lost">ᾶ</supplied>
+                       <lb n="8" break="no"/><supplied reason="lost">ς</supplied></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +95,7 @@
                 <p>Saint Zosimas</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
