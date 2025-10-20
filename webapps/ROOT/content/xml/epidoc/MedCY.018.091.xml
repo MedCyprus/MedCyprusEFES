@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Nu with its central bar forms a diagonal line. PH and NA joned in ligature. Accents and breathings systematic. Letter height: <height unit="cm">3-4,5</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Marina">Marina</rs>
+                                 <rs type="iconography" ref="#martyr"></rs>
+                            <rs type="iconography" ref="#female"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +77,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING</ab>
+              <lb n="1"/><supplied reason="lost">Ἡ</supplied> 
+                    <lb n="2"/><persName type="sacred" key="Marina"><w lemma="ἁγία"><supplied reason="lost">ἁ</supplied>
+                    <lb n="3" break="no" />γί
+                    <lb n="4" break="no"/>α</w>
+                    <lb n="5"/><name type="forename" nymRef="#Μαρίνα"><choice><sic>Μα
+                    <lb n="2" break="no"/><hi rend="ligature">ρή</hi>
+                    <lb n="3" break="no"/><hi rend="ligature">να</hi></sic><corr>Μαρίνα</corr></choice></name></persName>       
+              </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
