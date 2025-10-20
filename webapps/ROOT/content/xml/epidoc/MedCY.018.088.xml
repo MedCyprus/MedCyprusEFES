@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Mu with the central strokes reminiscent of an upsilon on a stem. Delta is formed with a lambda on a bottom bar, with a serif to the left of its top bar. OC, MAP, and PH joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">?</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Mardarios">Mardarios</rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#martyr"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +77,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING</ab>
+                  <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Mardarios"><w lemma="ἅγιος">ἅγι<hi rend="ligature">ος</hi></w> <name type="forename" nymRef="#Μαρδάριος"><choice><sic><hi rend="ligature">Μαρ</hi>δά<hi rend="ligature">ρη</hi><hi rend="ligature">ος</hi></sic><corr>Μαρδάριος"</corr></choice></name></persName>
+              </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
