@@ -77,7 +77,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>PENDING
                    <lb n="1"/><w lemma="ἱστορῶ"><unclear>Ιστοριθ</unclear><supplied reason="lost">η</supplied> </w><gap reason="lost" extent="unknown" unit="character"></gap> <supplied reason="lost">εγκ</supplied><unclear>λ</unclear>ειστρα> δι̣α <w lemma="χείρ"><unclear>χει̣ρο</unclear><supplied reason="lost">ς</supplied></w> <w lemma="ἐγώ"><unclear>εμο</unclear>υ </w><persName type="attested" ref="persons.xml#TheodoreApseudes"><name nymRef="#Θεόδωρος" type="forename">Θεοδώρ<hi rend="ligature">ου</hi></name> τ<hi rend="ligature">ου</hi> <name nymRef="#Ἀψευδής" type="surname">Αψευδ<hi rend="ligature">ου</hi>ς</name></persName>
-                   <lb n="2"/><supplied reason="lost">ἔτ</supplied>ει <num value="6691"><hi rend="ligature">&#x03DB;</hi >χ<hi rend="ligature">&#x03DE;</hi></num><hi rend="ligature">α'</hi> (ινδικτίωνος)<unclear>α</unclear>'
+                   <lb n="2"/><supplied reason="lost">ἔτ</supplied>ει <num value="6691"><hi rend="ligature">&#x03DB;</hi >χ&#x03DE;α</num> (ινδικτίωνος) <unclear>α</unclear>'
                 </ab>
             </div>
             <div type="apparatus">
