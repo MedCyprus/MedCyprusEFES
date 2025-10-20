@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. OC and TP joned in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">?</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Tryphon">Tryphon</rs>
+                                   <rs type="iconography" ref="#martyr"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +77,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Tryphon"><w lemma="ἅγιος">ἅ
+                  <lb n="2" break="no"/>γι
+                 <lb n="3" break="no"/><hi rend="ligature">ος</hi></w>
+                    <lb n="4"/><name type="forename" nymRef="#Τρύφων"><choice><sic><hi rend="ligature">Τρ</hi>ί
+                   <lb n="5" break="no"/>φ<supplied reason="lost">ων</supplied></sic><corr>Τρύφων</corr></choice></name></persName>
               </ab>
             </div>
             <div type="apparatus">
