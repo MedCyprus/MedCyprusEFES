@@ -69,10 +69,23 @@
         <p><b>Architectural type: </b><xsl:value-of select="string-join(arr[@name='index_architectural_type']/str, '; ')"/></p>
         <p><b>Date of construction: </b><xsl:value-of select="string-join(arr[@name='index_construction']/str, '; ')"/></p>
         <p><b>Date of painted decoration: </b></p>  
-        <ul><xsl:for-each select="arr[@name='index_mural']/str"><li><xsl:value-of select="."/></li></xsl:for-each></ul>
+        <ul><xsl:for-each select="arr[@name='index_mural']/str"><li>
+          <xsl:call-template name="MedCYToLink">
+            <xsl:with-param name="solr-string" select="." />
+          </xsl:call-template>
+        </li></xsl:for-each></ul>
         <p><b>State of preservation of the murals: </b><xsl:value-of select="string-join(arr[@name='index_conservation']/str, '; ')"/></p>
-        <p><b>Donor(s): </b><xsl:value-of select="string-join(arr[@name='index_donors']/str, '; ')"/></p>
-        <p><b>Painter(s): </b><xsl:value-of select="string-join(arr[@name='index_painter']/str, '; ')"/></p>
+        <p><b>Donor(s): </b>
+          
+          <xsl:call-template name="MedCYToLink">
+            <xsl:with-param name="solr-string" select="string-join(arr[@name='index_donors']/str, '; ')" />
+          </xsl:call-template>
+        </p>
+        <p><b>Painter(s): </b>
+          <xsl:call-template name="MedCYToLink">
+            <xsl:with-param name="solr-string" select="string-join(arr[@name='index_painter']/str, '; ')" />
+          </xsl:call-template>
+        </p>
         
         <p><b>Graffiti: </b><xsl:if test="string-length(normalize-space(arr[@name='index_graffiti_text']/str)) ne  0">
           <xsl:apply-templates select="arr[@name='index_graffiti_text']"/>
@@ -109,6 +122,25 @@
         <p class="locations-go-top"><a href="#monuments">[Top]</a></p>
       </div>
     </div>
+  </xsl:template>
+  
+  <!-- Named template to handle adding HTML for links around MedCY references when they come out of solr queries -->
+  <xsl:template name="MedCYToLink">
+    <xsl:param name="solr-string"/>
+    <xsl:choose> 
+      <xsl:when test="contains($solr-string,'MedCY')">
+        <xsl:for-each select="tokenize(replace($solr-string,'(MedCY\.\d{3}\.\d{3})', '|$1|'),'\|')">
+          <xsl:variable name="solr-string-t" select="."/>
+          <xsl:choose>
+            <xsl:when test="contains(.,'MedCY')"><a href="/en/inscriptions/{$solr-string-t}.html"><xsl:value-of select="."/></a>
+            </xsl:when>
+            <xsl:otherwise><xsl:value-of select=".  "/></xsl:otherwise>
+          </xsl:choose>
+        </xsl:for-each>
+        
+      </xsl:when>
+      <xsl:otherwise><xsl:value-of select="$solr-string"/></xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
 
   <xsl:template match="result/doc[not(arr[@name='index_coordinates'])]"> <!-- i.e. all indices excluded locations -->
