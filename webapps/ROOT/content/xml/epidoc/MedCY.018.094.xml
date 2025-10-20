@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Delta is formed with a lambda on a bottom bar, with a serif to the left of its top bar. Mu with the central strokes reminiscent of an upsilon on a stem. OC joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">2,5-4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Kosmas">Kosmas</rs>
+                            <rs type="iconography" ref="#monastic"></rs>
+                                <rs type="iconography" ref="#hymnographer"></rs>
+                                  <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +77,25 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Cosmas"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
+                <lb n="2"/><name nymRef ="#Κοσμᾶς" type="forename">Κ
+                <lb n="3" break="no"/><supplied reason="lost">ο</supplied>
+                <lb n="4" break="no"/><supplied reason="lost">σ</supplied>
+                  <lb n="5" break="no"/>μ
+                   <lb n="6" break="no"/><choice><orig>α</orig><reg>ᾶ</reg></choice>
+                   <lb n="7" break="no"/>ς</name>
+                    <cb n="b"/>
+                    <lb n="1"/><placeName ref="mentioned_places.xml#Damascus">Ὁ
+                      <lb n="2"/><choice><sic>Δ
+                       <lb n="3" break="no"/>α
+                      <lb n="4" break="no"/>μ
+                        <lb n="5" break="no"/>α
+                        <lb n="6" break="no"/>ς
+                        <lb n="7" break="no"/>κı
+                       <lb n="8" break="no"/>ν
+                        <lb n="9" break="no"/><hi rend="ligature">ός</hi></sic><corr>Δαμαςκηνός</corr></choice></placeName></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -84,7 +105,7 @@
                 <p>Saint Kosmas of Damascus</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
