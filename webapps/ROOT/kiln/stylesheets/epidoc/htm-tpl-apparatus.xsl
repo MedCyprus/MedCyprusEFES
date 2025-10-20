@@ -471,8 +471,8 @@
               <xsl:text>.</xsl:text>
             </xsl:if>
             <xsl:choose>
-              <xsl:when test="child::t:sic/child::t:lb">
-                <xsl:value-of select="concat(preceding::t:lb[1]/@n,'–',child::t:sic/child::t:lb[last()]/@n)"/>
+              <xsl:when test="child::t:sic//t:lb">
+                <xsl:value-of select="concat(preceding::t:lb[1]/@n,'–',child::t:sic//t:lb[last()]/@n)"/>
               </xsl:when>
              <xsl:otherwise>
               <xsl:value-of select="preceding::t:lb[1]/@n"/>
@@ -496,12 +496,10 @@
           </xsl:for-each>
         </xsl:attribute>
       </xsl:if>
+      <xsl:if test="$listapp/app"><xsl:element name="b"><xsl:text>Regularised readings </xsl:text></xsl:element></xsl:if>
       <xsl:for-each select="$listapp/app">
         <xsl:sort select="translate(substring(@n,1,2),'–','')" data-type="number"/>
-        <!--<xsl:sort select="substring-before(@n,'–')" data-type="number"/>
-        <xsl:sort select="substring-after(@n,'–')" data-type="number"/>-->
         <xsl:if test="not(preceding-sibling::app[@n=current()/@n])">
-          <!--<xsl:text>l.</xsl:text>-->
           <xsl:value-of select="@n"/>
           <xsl:text>: </xsl:text>
         </xsl:if>
