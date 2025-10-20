@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Last Judgement, angel</title>
+                <title>Saint Marina</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -13,7 +13,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.018.055</idno>
+                <idno type="filename">MedCY.018.091</idno>
                 <availability>
                   <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
                 </availability>
@@ -28,28 +28,28 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
-                                    <rs type="placement-building" ref="#narthex">Narthex, north bay, northwest recess, soffit, to the south</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                    <rs type="placement-building" ref="#narthex">Narthex, central bay, west recess, central western pilaster, north face</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Above the angel's head</layout>
+                                <layout>On the right side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against green background. Accents and breathings systematic. 
+                            <handNote>PENDING
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#LastJudgement">Last Judgement, angel</rs>
+                            <p>PENDING
                             </p>
                         </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Kakopetria">Kakopetria, Saint Nicholas of the Roof</origPlace>
-                            <origDate notBefore="1101" notAfter="1200" precision="medium">12th century</origDate>
+                            <origDate notBefore="1201" notAfter="1400" precision="medium">Late 13th-Early 14th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
@@ -68,36 +68,27 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="018-055-01.JPG"><desc>Last Judgement, angel, inscription detail</desc></graphic>
-        <graphic url="018-055-02.JPG"><desc>Last Judgement, angel, general view</desc></graphic> 
-        <graphic url="018-055-03.JPG"><desc>Last Judgement, angel, general view</desc></graphic>
-        <graphic url="018-055-04.JPG"><desc>Last Judgement, angel, general view</desc></graphic>
-        <graphic url="018-055-05.JPG"><desc>Last Judgement, angel, general view</desc></graphic>
+         <graphic rend="primary" url="018-091-01.JPG"><desc>Saint Marina, inscription</desc></graphic>
+        <graphic url="018-091-02.JPG"><desc>Saint Marina, general view</desc></graphic>  
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><w lemma="Ἄγγελος">Ἄ
-                   <lb n="2" break="no"/>γ
-                   <lb n="3" break="no"/>γ
-                   <lb n="4" break="no"/>ε
-                   <lb n="5" break="no"/>λ
-                   <lb n="6" break="no"/>ος</w>
-                 </ab>
+                  PENDING</ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Angel</p>
+                <p>Saint Marina</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Stylianou1946"/>, <citedRange>121</citedRange></bibl>
+                <bibl><ptr target="#Stylianou1946"/>, <citedRange>143</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

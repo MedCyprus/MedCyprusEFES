@@ -219,6 +219,9 @@
                 <item xml:id="Amoun">
                     <term xml:lang="en">Amoun</term>
                 </item>
+                <item xml:id="Ambrosios">
+                    <term xml:lang="en">Ambrosios</term>
+                </item>
                 <item xml:id="AnastasiaPharmakolytria">
                     <term xml:lang="en">Anastasia the Poison-curer (Pharmakolytria) </term>
                 </item>
@@ -275,6 +278,9 @@
                 </item>
                 <item xml:id="Barbara">
                     <term xml:lang="en">Barbara</term>
+                </item>
+                <item xml:id="Barlaam">
+                    <term xml:lang="en">Barlaam</term>
                 </item>
                 <item xml:id="Barnabas">
                     <term xml:lang="en">Barnabas</term>
@@ -356,6 +362,9 @@
                 </item>
                 <item xml:id="Ephraim">
                     <term xml:lang="en">Ephraim</term>
+                </item>
+                <item xml:id="Epigon">
+                    <term xml:lang="en">Epigon</term>
                 </item>
                 <item xml:id="Epiphanios">
                     <term xml:lang="en">Epiphanios</term>
@@ -659,6 +668,9 @@
                 </item>
                 <item xml:id="Phylon">
                     <term xml:lang="en">Phylon</term>
+                </item>
+                <item xml:id="Poemen">
+                    <term xml:lang="en">Poemen</term>
                 </item>
                 <item xml:id="Polykarpos">
                     <term xml:lang="en">Polykarpos</term>

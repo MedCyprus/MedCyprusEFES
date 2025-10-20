@@ -29,7 +29,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
-                                    <rs type="placement-building" ref="#narthex">Narthex, northwest recess, soffit, to the north</rs>
+                                    <rs type="placement-building" ref="#narthex">Narthex, north bay, northwest recess, soffit, to the north</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -38,11 +38,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against green background. Zeta with a tail. Omega formed of two linked round bowls, each with an inward-curving spine. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#LastJudgement">Last Judgement</rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +75,17 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><w lemma="ζυγός"><choice><sic><choice><orig>Ό</orig><reg>Ὁ</reg></choice>
+                    <lb n="2"/>Z
+                    <lb n="3" break="no"/>υ
+                    <lb n="4" break="no"/>γ
+                    <lb n="5" break="no"/><choice><orig>ω</orig><reg>ώ</reg></choice>
+                    <lb n="6" break="no"/>ς</sic><corr>ζυγός</corr></choice></w>
+                   <lb n="7"/>τ
+                  <lb n="8"/><supplied reason="lost">η</supplied>
+                   <lb n="9"/><supplied reason="lost">ς</supplied>
+                  <lb n="10"/><w lemma="δικαιοσύνη"><supplied reason="lost">δικαιοσύνης</supplied></w>
                  </ab>
             </div>
             <div type="apparatus">
