@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Accents and breathings non systematic. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Athanasia">Athanasia</rs>
+                                <rs type="iconography" ref="#monastic"></rs>
+                            <rs type="iconography" ref="#female"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,22 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                  <lb n="1"/><choice><orig>H</orig><reg>Ἡ</reg></choice> 
+                  <lb n="2"/><persName type="sacred" key="Athanasia"><w lemma="ἁγία"><choice><orig>Α</orig><reg>Ἁ</reg></choice>
+                  <lb n="3" break="no"/>γ
+                   <lb n="4" break="no"/><supplied reason="lost">ί</supplied>
+                    <lb n="5" break="no"/>α</w>
+                   <cb n="b"/>
+                    <lb n="1"/><name type="forename" nymRef="#Ἀθανασία"><choice><sic>Ἀ
+                        <lb n="2" break="no"/>θ
+                        <lb n="3" break="no"/>α
+                        <lb n="4" break="no"/>ν
+                        <lb n="5" break="no"/>α
+                        <lb n="6" break="no"/>σ
+                        <lb n="7" break="no"/>ή
+                        <lb n="8" break="no"/>α</sic><corr>Ἀθανασία</corr></choice></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
