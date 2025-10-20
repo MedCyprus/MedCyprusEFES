@@ -38,11 +38,15 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. OC, CT, and YC joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">?</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Orestes">Orestes</rs>
+                            <rs type="iconography" ref="#martyr"></rs>
+                                  <rs type="iconography" ref="#militarysaint"></rs>
+                                  <rs type="iconography" ref="#male"></rs>                                
+                                  <rs type="iconography" ref="#dressmilitary"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +79,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING</ab>
+                <cb n="a"/>
+                    <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice>
+                    <lb n="2"/><persName type="sacred" key="Orestes"><w lemma="ἅγιος">ἅ
+                    <lb n="3" break="no" />γι
+                    <lb n="4" break="no"/>ος</w>
+                    <cb n="b"/>
+                     <lb n="1"/><name type="forename" nymRef="#Ὀρέστης"><choice><sic>Ὀ
+                     <lb n="2" break="no"/>ρέ
+                     <lb n="3" break="no"/><hi rend="ligature">στ</hi><hi rend="ligature">υς</hi></sic><corr>Ὀρέστης</corr></choice></name></persName>    
+              </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
