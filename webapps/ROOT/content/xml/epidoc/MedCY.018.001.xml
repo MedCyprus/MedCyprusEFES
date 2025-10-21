@@ -29,12 +29,12 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#bema">Bema, apse, semidome</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semidome, south side</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Above the figure's head, on the south side</layout>
+                                <layout>Above the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
