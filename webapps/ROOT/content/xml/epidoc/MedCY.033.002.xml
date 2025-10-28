@@ -6,13 +6,13 @@
         <fileDesc>
             <titleStmt>
                 <title>Unidentified prelate's scroll</title>
-           <author xml:id="tp">Theocharis Petrou</author>
+            <author xml:id="tp">Theocharis Petrou</author>
                 <author xml:id="mx">Maria Xenaki</author>
-                <editor xml:id="mgp"> Maria G. Parani</editor>
+                <editor xml:id="mgp"> Maria Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.033.004</idno>
+                <idno type="filename">MedCY.033.002</idno>
                 <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence></availability>
             </publicationStmt>
             <sourceDesc>
@@ -23,19 +23,19 @@
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
-                                <support>                             
-                                      <rs type="inscription-support">
-                                       <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>.</rs>
-                                    <rs type="placement-building">Bema, south wall, register above dado zone. </rs>
-                                    <dimensions unit="cm"><height>2,10 cm</height><width>61 cm</width></dimensions>   
+                                <support>
+                                   <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>.</rs>
+                                    <rs type="placement-building">Bema, north wall, register above dado zone.</rs>
+                                    <dimensions unit="cm"><height>1,48 cm</height><width>61 cm</width><dim>36,5 cm (halo diameter)</dim></dimensions>                                    
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the open scroll held in both hands by <p><rs type="iconography" ref="iconography.xml#PrelateUnidentified_MedCY033.004">Prelate, unidentified</rs></p></layout>
+                                <layout>The inscription appears on the open scroll held in both hands by <p><rs type="iconography" ref="iconography.xml#unidentified_prelate_MedCY033.003">an unidentified, co-officiating prelate</rs></p>.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Badly damaged. Very fragmentary. <height></height>
+                            <handNote>Black letters against white background. The inscription is written entirely in majuscule.<height></height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -51,7 +51,7 @@
                              <origPlace ref="locations.xml#KoutsoventisTrinity">Koutsoventis, Monastery of St John Chrysostom, Holy Trinity Chapel </origPlace>
                              <origDate notBefore="1095" notAfter="1103-08-31" precision="medium" evidence="prosopography titulature">ca 1100</origDate>
                         </origin>
-                        <provenance when="1969"> Not accessible since it is located in a military area in occupied Cyprus. Fig. 75 by Mango, Hawkins, Boyd 1990, Studied and photographed in 1969.
+                        <provenance when="1969"> Not accessible since it is located in a military area in occupied Cyprus. Figs. 72, 74 by Mango, Hawkins, Boyd 1990, Studied and photographed in 1969.
                         </provenance>
                         <provenance type="observed">currently, inaccessible
                         </provenance>
@@ -62,7 +62,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#liturgical">Liturgical citation</term>
+                    <term type="textType" ref="text_types.xml#Liturgical">Liturgical citation</term>
                 </keywords>
             </textClass>
             <creation>...</creation>
@@ -75,16 +75,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><supplied reason="lost"><expan><abbr>Κ</abbr><ex>ύρι</ex>ε</expan> ὁ <expan><abbr>Θ</abbr><ex>εὸ</ex><unclear>ς</unclear></expan></supplied> ἡ
-                    <lb n="2" break="no"/><supplied reason="lost">μῶν ὁ ἐ</supplied><unclear>ν</unclear>
-                    <lb n="3"/><supplied reason="lost">ὑψηλοῖς</supplied>
-                    <lb n="4"/><supplied reason="lost">κατοικῶν</supplied>
-                    <lb n="5"/><supplied reason="lost"><expan><abbr>κ</abbr><ex>αὶ</ex></expan>τὰ ταπει</supplied>
-                    <lb n="6" break="no"/><supplied reason="lost">νὰ ἐφορῶν</supplied>
-                    <lb n="7"/><supplied reason="lost">ὁ τὴν <expan><abbr>σ</abbr><ex>ωτη</ex>ρίαν</expan></supplied>
-                    <lb n="8"/><supplied reason="lost">τῷ γένει τῶν</supplied>
-                    <lb n="9"/><expan><abbr>ἀν</abbr><ex>θρώπ</ex>ων</expan> ἐξαπο
-                    <lb n="10" break="no"/>στείλ<supplied reason="lost">ας</supplied>
+                    <lb n="1"/><supplied reason="lost"><expan><abbr>K</abbr><ex>ύρι</ex>ε</expan> ὁ<expan> <abbr>Θ</abbr><ex>εὸ</ex>ς</expan> ἡ</supplied>
+                    <lb n="2" break="no"/>μ<unclear>ῶ</unclear><supplied reason="lost">ν οὗ</supplied>
+                    <lb n="3"/>τὸ κρ̣<supplied reason="lost">άτος</supplied>
+                    <lb n="4"/>ἀνείκασ<unclear>τ</unclear><unclear>ο</unclear><supplied reason="lost">ν</supplied>
+                    <lb n="5"/>καὶ <unclear>ἡ</unclear> δόξ<unclear>α</unclear>
+                    <lb n="6"/>ἀκατάλη
+                    <lb n="7" break="no"/>πτος·οὗ τὸ
+                    <lb n="8"/>ἔλεος ἀμέ-
+                    <lb n="9" break="no"/>τρητον·
                 </ab>
             </div>
             <div type="apparatus">
