@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly preserved.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved. Faded.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semidome, north side, above floor level</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
@@ -69,8 +69,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="033-001-01.JPG"><desc>Cryptograms, inscription</desc></graphic>
-        <graphic url="033-001-02.JPG"><desc>Cryptograms, general view</desc></graphic>  
+         <graphic rend="primary" url="033-001-01.jpg"><desc>Cryptograms, inscription</desc></graphic>
+        <graphic url="033-001-02.jpg"><desc>Cryptograms, general view</desc></graphic>  
     </facsimile>
     <text>
         <body>
