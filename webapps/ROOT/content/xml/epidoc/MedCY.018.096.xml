@@ -38,14 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote><rs type="iconography" ref="#Ambrosios">Ambrosios</rs>                               
-                                   <rs type="iconography" ref="#male"></rs>
-                                   <rs type="iconography" ref="#prelate"></rs>
+                            <handNote>White majuscule letters against blue background. Alpha with its apex terminating in a serif to the left. OC joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">4-5,5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>White majuscule letters against blue background. Alpha with its apex terminating in a serif to the left. OC joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">4-5,5</height>
-                            </p>
+                            <p>
+                           <rs type="iconography" ref="#Ambrosios">Ambrosios</rs>                               
+                                   <rs type="iconography" ref="#male"></rs>
+                                   <rs type="iconography" ref="#prelate"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
