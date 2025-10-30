@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote><rs type="iconography" ref="#Ambrosios">Ambrosios</rs>                               
+                                   <rs type="iconography" ref="#male"></rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p>White majuscule letters against blue background. Alpha with its apex terminating in a serif to the left. OC joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">4-5,5</height>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -76,7 +78,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  PENDING 
+                  <cb n="a"/>
+                    <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice>
+                    <lb n="2"/><persName type="sacred" key="Ambrosios"><w lemma="ἅγιος">ἅ
+                    <lb n="3" break="no" />γι
+                    <lb n="4" break="no"/><hi rend="ligature">ος</hi></w>
+                    <cb n="b"/>
+                     <lb n="1"/><name type="forename" nymRef="#Ἀμβρόσιος"><choice><orig>A</orig><reg>Ἀ</reg></choice>
+                     <lb n="2" break="no"/><supplied reason="omitted">μ</supplied>βρ
+                     <lb n="3" break="no"/>ό
+                      <lb n="4" break="no"/>σι
+                      <lb n="5" break="no"/><hi rend="ligature">ος</hi></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
