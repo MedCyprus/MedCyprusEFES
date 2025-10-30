@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cryptograms</title>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
+                <editor xml:id="mx">Maria Xenaki</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.033.001</idno>
+                <availability>
+                  <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semidome, north side, above floor level</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                </support> 
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>On either side and in-between the arms of a cross</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>PENDING
+                            </handNote>
+                        </handDesc>
+                         <decoDesc>
+                            <p>PENDING
+                            </p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#KoutsoventisTrinity">Koutsoventis, Monastery of Saint John Chrysostom, Holy Trinity chapel</origPlace>
+                            <origDate notBefore="1095" notAfter="1103-08-31" precision="medium" evidence="prosopography-titulature"> ca 1100</origDate>
+                        </origin>
+                        <provenance when="1969">Not accessible since it is located in a military area in occupied Cyprus. Studied and photographed in 1969.
+                        </provenance>    
+                        <provenance type="observed">Currently inaccessible</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc2">Cryptograms</term>
+                </keywords>
+            </textClass>
+            <creation>transcription (Th. Petrou), publication. Photos by Cyril Mango, The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC.
+</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic rend="primary" url="033-001-01.JPG"><desc>Cryptograms, inscription</desc></graphic>
+        <graphic url="033-001-02.JPG"><desc>Cryptograms, general view</desc></graphic>  
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+              <ab>PENDING
+                 </ab>
+            </div>
+            <div type="apparatus">
+               <p>PENDING</p>
+            </div>
+            <div type="translation">
+                <p>PENDING</p>
+            </div>
+            <div type="commentary">
+                <p>PENDING</p>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                <bibl><ptr target="#MangoHawkinsBoyd1990"/>, <citedRange>75</citedRange></bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
