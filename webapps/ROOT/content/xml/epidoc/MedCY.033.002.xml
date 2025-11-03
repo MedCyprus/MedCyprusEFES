@@ -6,14 +6,17 @@
         <fileDesc>
             <titleStmt>
                 <title>Unidentified prelate's scroll</title>
-            <author xml:id="tp">Theocharis Petrou</author>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
                 <idno type="filename">MedCY.033.002</idno>
-                <availability><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence></availability>
+                <availability>
+                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+              </availability>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -25,17 +28,17 @@
                             <supportDesc>
                                 <support>
                                    <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>.</rs>
-                                    <rs type="placement-building">Bema, north wall, register above dado zone.</rs>
-                                    <dimensions unit="cm"><height>1,48 cm</height><width>61 cm</width><dim>36,5 cm (halo diameter)</dim></dimensions>                                    
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, north wall, register above dado zone</rs>
+                                    <dimensions><height>n/a</height></dimensions>                                    
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the open scroll held in both hands by <p><rs type="iconography" ref="iconography.xml#unidentified_prelate_MedCY033.003">an unidentified, co-officiating prelate</rs></p>.</layout>
+                                <layout>On the open scroll held in both hands by an unidentified, co-officiating prelate</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. The inscription is written entirely in majuscule.<height></height>
+                            <handNote>PENDING
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -48,13 +51,12 @@
                     </physDesc>
                     <history>
                         <origin>
-                             <origPlace ref="locations.xml#KoutsoventisTrinity">Koutsoventis, Monastery of St John Chrysostom, Holy Trinity Chapel </origPlace>
+                             <origPlace ref="locations.xml#KoutsoventisTrinity">Koutsoventis, Monastery of Saint John Chrysostom, Holy Trinity chapel</origPlace>
                              <origDate notBefore="1095" notAfter="1103-08-31" precision="medium" evidence="prosopography titulature">ca 1100</origDate>
                         </origin>
-                        <provenance when="1969"> Not accessible since it is located in a military area in occupied Cyprus. Figs. 72, 74 by Mango, Hawkins, Boyd 1990, Studied and photographed in 1969.
+                        <provenance when="1969">Not accessible; located in a Turkish military zone in occupied north Cyprus. Studied and photographed in 1969.
                         </provenance>
-                        <provenance type="observed">currently, inaccessible
-                        </provenance>
+                        <provenance type="observed">Currently inaccessible</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -62,14 +64,17 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#Liturgical">Liturgical citation</term>
+                    <term type="textType" ref="text_types.xml#doc8">Liturgical citation</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou), publication, archival photos (The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC.) 
+</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+         <graphic rend="primary" url="033-002-01.jpg"><desc>Unidentified prelate's scroll, inscription (Photo by Cyril Mango, The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC)</desc></graphic>
+        <graphic url="033-002-02.jpg"><desc>Unidentified prelate's scroll, general view (Photo by Cyril Mango, The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC)</desc></graphic>  
+        <graphic url="033-002-03.jpg"><desc>Unidentified prelate's scroll, general view (Photo by Cyril Mango, The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC)</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -87,15 +92,18 @@
                 </ab>
             </div>
             <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>translation(s)</p>
+                <p>PENDING</p>
             </div>
             <div type="commentary">
-                <p>commentary</p>
+                <p>PENDING</p>
             </div>
             <div type="bibliography">
+                 <listBibl>
+                <bibl><ptr target="#MangoHawkinsBoyd1990"/>, <citedRange>77</citedRange></bibl>
+                </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
         </body>
