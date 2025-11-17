@@ -73,7 +73,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-            <lb n="1"/><persName type="sacred" key="Lazaros"><name type="forename" nymRef="#Λάζαρος"></name>Λάζαρε</persName>: <w lemma="δεῦρο"><choice><sic>Δεῦρρο</sic><corr>δεῦρο</corr></choice></w> <w lemma="ἔξω"><choice><sic><choice><orig>έ</orig><reg>ἔ</reg></choice>ξο</sic><corr>ἔξω</corr></choice></w>
+            <lb n="1"/><persName type="sacred" key="Lazaros"><name type="forename" nymRef="#Λάζαρος"></name>Λάζαρε</persName><choice><reg/><orig>:</orig></choice> <w lemma="δεῦρο"><choice><sic>Δεῦρρο</sic><corr>δεῦρο</corr></choice></w> <w lemma="ἔξω"><choice><sic><choice><orig>έ</orig><reg>ἔ</reg></choice>ξο</sic><corr>ἔξω</corr></choice></w>
                  </ab>
             </div>
             <div type="apparatus">

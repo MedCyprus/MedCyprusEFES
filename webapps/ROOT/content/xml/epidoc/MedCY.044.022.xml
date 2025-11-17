@@ -78,7 +78,7 @@
                 <lg met="Dodecasyllable">
                <l n="1"><lb n="1"/><gap reason="lost" extent="unknown"></gap>στων 
                    <lb n="2"/><g ref="#cross">+</g> μα<gap reason="lost" unit="character" quantity="3"></gap>οστόδο
-                   <lb n="3" break="no"/>τησελας: ταυ
+                   <lb n="3" break="no"/>τησελας<choice><reg/><orig>:</orig></choice> ταυ
                    <lb n="4" break="no"/>γισεκοτ<choice><orig>ά</orig><reg>α</reg></choice>
                    <lb n="5" break="no"/> μενοι</l> 
                <l n="2">τ<gap reason="lost" unit="character" quantity="1"></gap>ν α
@@ -86,7 +86,7 @@
                 <l n="3"><lb n="7"/><expan><abbr rend="supraline">κ</abbr><ex>αὶ</ex></expan><am>`</am> <w lemma="νῦν">ν<choice><orig>ὺ</orig><reg>ῦ</reg></choice>ν</w> <w lemma="βλέπω">βλ<choice><orig>ε</orig><reg>έ</reg></choice>
                     <lb n="8" break="no"/>π<hi rend="ligature">ου</hi>σ<choice><orig>ί</orig><reg>ι</reg></choice>ν</w> <w lemma="αἴρω"><choice><sic>ἐρρό
                     <lb n="9" break="no"/>μενὸν τ<choice><orig>ο</orig><reg>ὸ</reg></choice>ν</sic><corr>αἰρόμενον</corr></choice></w>
-                    <lb n="10"/> <w lemma="κτίστης"><choice><sic>κ<hi rend="ligature">τή</hi>σ<hi rend="ligature">την</hi></sic><corr>κτίστην</corr></choice></w>:</l><l n="4"><w lemma="ὅς"><choice><orig>ό</orig><reg>ὃ</reg></choice>ν</w>
+                    <lb n="10"/> <w lemma="κτίστης"><choice><sic>κ<hi rend="ligature">τή</hi>σ<hi rend="ligature">την</hi></sic><corr>κτίστην</corr></choice></w><choice><reg/><orig>:</orig></choice></l><l n="4"><w lemma="ὅς"><choice><orig>ό</orig><reg>ὃ</reg></choice>ν</w>
                     <lb n="11"/><w lemma="συνήθως"><choice><sic>συ<hi rend="ligature">ν<choice><orig>ὴ</orig><reg>ή</reg></choice></hi>θος</sic><corr>συνήθως</corr></choice></w> <w lemma="ἔχω">ἔχ<hi rend="ligature">ου</hi>
                     <lb n="12" break="no"/>σιν</w> <w lemma="ἄγγελος"><choice><orig>α</orig><reg>ἄ</reg></choice>γγελο<choice><orig>ῖ</orig><reg>ι</reg></choice></w> <w lemma="βλέπω"><choice><sic>βλέ
                     <lb n="13" break="no"/>πιν</sic><corr>βλέπειν</corr></choice></w></l>

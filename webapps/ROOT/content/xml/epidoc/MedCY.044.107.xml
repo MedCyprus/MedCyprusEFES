@@ -80,7 +80,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                <ab>
                    <lb n="1"/><w lemma="δέησις"><expan><abbr rend="supraline">Δέ</abbr><ex>ησι</ex></expan>ς</w> <hi rend="ligature">τῆ</hi>ς <w lemma="δούλη"><expan><abbr>δ<hi rend="ligature">ού</hi>λ<hi rend="ligature"></hi></abbr><ex>ης</ex></expan></w> τ<hi rend="ligature">οῦ</hi> <persName type="divine" key="God"><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></w></persName> <persName type="attested" role="donor" ref="#AnastasiaSaramalyna"><name nymRef="#Ἀναστασία" type="forename"><hi rend="ligature"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>ν</hi>αστασί<expan><ex>ας</ex></expan>·
-                   <lb n="2"/> <hi rend="ligature">τῆ</hi>ς <name nymRef="#Σαραμαλύνα" type="surname">Σ<hi rend="ligature">αρ</hi><hi rend="ligature">αμ</hi><choice><orig>ά</orig><reg>α</reg></choice>λ<choice><orig>υ</orig><reg>ύ</reg></choice>νας:-</name></name></persName>
+                   <lb n="2"/> <hi rend="ligature">τῆ</hi>ς <name nymRef="#Σαραμαλύνα" type="surname">Σ<hi rend="ligature">αρ</hi><hi rend="ligature">αμ</hi><choice><orig>ά</orig><reg>α</reg></choice>λ<choice><orig>υ</orig><reg>ύ</reg></choice>νας<choice><reg/><orig>:</orig></choice>-</name></name></persName>
                </ab> 
             </div>
             <div type="apparatus">

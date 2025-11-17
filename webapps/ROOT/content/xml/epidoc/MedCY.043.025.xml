@@ -82,7 +82,7 @@
                     <cb n="a"/>
                     <lb n="1"/><w lemma="ἐγώ"><choice><orig>Ἑ</orig><reg>Ἐ</reg></choice>γώ</w><w lemma="εἰμί"> <choice><sic><supplied reason="lost">εἰ</supplied>
                     <lb n="2" break="no"/><hi rend="ligature">μ</hi>η</sic><corr>εἰ<lb n="2" break="no"/>μι</corr></choice></w> <supplied reason="omitted">ἡ</supplied> <w lemma="θύρα">θ<supplied reason="lost">ύ</supplied>
-                    <lb n="3" break="no"/>ρα</w>: δι ̓ <w lemma="ἐγώ"><choice><orig>ἑ</orig><reg>ἐ</reg></choice>
+                    <lb n="3" break="no"/>ρα</w><choice><reg/><orig>:</orig></choice> δι ̓ <w lemma="ἐγώ"><choice><orig>ἑ</orig><reg>ἐ</reg></choice>
                     <lb n="4" break="no"/><supplied reason="lost">μοῦ</supplied></w> <choice><orig>ε</orig><reg>ἐ</reg></choice>
                     <lb n="5" break="no"/><supplied reason="lost">άν <w lemma="τίς">τις</w></supplied>
                     <cb n="b"/>

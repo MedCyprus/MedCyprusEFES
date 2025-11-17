@@ -78,7 +78,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w lemma="μετανοῶ"><choice><sic>Μετανο<lb n="2" break="no"/><choice><orig>ή</orig><reg>ῆ</reg></choice>τε</sic><corr>Μετανο<lb n="2" break="no"/>εῖτε</corr></choice></w>: <w lemma="ἐγγίζω"><choice><orig>η</orig><reg>ἤ</reg></choice>γγικε</w>
+                    <lb n="1"/><w lemma="μετανοῶ"><choice><sic>Μετανο<lb n="2" break="no"/><choice><orig>ή</orig><reg>ῆ</reg></choice>τε</sic><corr>Μετανο<lb n="2" break="no"/>εῖτε</corr></choice></w><choice><reg/><orig>:</orig></choice> <w lemma="ἐγγίζω"><choice><orig>η</orig><reg>ἤ</reg></choice>γγικε</w>
                     <lb n="3"/>γὰρ<choice><reg>,</reg><orig>·</orig></choice> ἡ <w lemma="βασιλεία"><choice><sic>Β<unclear>α</unclear><lb n="4" break="no"/>σειλήα</sic><corr>Βα<lb n="4" break="no"/>σιλεία</corr></choice></w>
                     <lb n="5"/>τ<choice><orig>ω</orig><reg>ῶ</reg></choice>ν <w lemma="οὐρανός">Ο<choice><orig>ὗ</orig><reg>ὐ</reg></choice>
                     <lb n="6" break="no"/>ρανῶν</w>
