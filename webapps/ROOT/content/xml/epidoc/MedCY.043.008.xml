@@ -81,7 +81,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><persName type="divine" key="Master"><w lemma="δεσπότης">Δ<choice><orig>ὲ</orig><reg>έ</reg></choice>σπο
-                    <lb n="2" break="no"/>τα<choice><orig>·</orig><reg>,</reg></choice></w></persName> <persName type="divine" key="Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύρι</ex><abbr rend="supraline">ε</abbr></expan></w></persName> ὁ 
+                    <lb n="2" break="no"/>τα<choice><orig><choice><reg>,</reg><orig>·</orig></choice></orig><reg>,</reg></choice></w></persName> <persName type="divine" key="Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύρι</ex><abbr rend="supraline">ε</abbr></expan></w></persName> ὁ 
                     <lb n="3"/><persName type="divine" key="God"><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><abbr rend="supraline">ς</abbr></expan></w></persName> <w lemma="ἐγώ"><hi rend="ligature">ἡμ</hi><choice><orig>ὼ</orig><reg>ῶ</reg></choice>ν</w>
                     <lb n="4"/> ὁ <w lemma="καθίστημι">κατα
                     <lb n="5" break="no"/>σ<hi rend="ligature">τή</hi>σας </w>

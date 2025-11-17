@@ -84,7 +84,7 @@
                 <lb n="1"/><g ref="#cross">+</g><w lemma="ὥσπερ"><choice><orig>Ὧ</orig><reg>Ὥ</reg></choice>σπερ</w>         
                 <lb n="2"/><w lemma="νεκρός">νεκρὸς</w>
                 <lb n="3"/><hi rend="ligature">οὐ</hi>κ <gap reason="lost" unit="character" quantity="1"/>σθή
-                <lb n="4"/>ἠ<gap reason="lost" unit="character" quantity="3"/>ος·
+                <lb n="4"/>ἠ<gap reason="lost" unit="character" quantity="3"/>ος<choice><reg>,</reg><orig>·</orig></choice>
                 <lb n="5"/>ὁ<gap reason="lost" unit="character" quantity="1"/><unclear>πη</unclear><gap reason="lost" unit="character" quantity="1"></gap>νό
                 <lb n="6"/><gap reason="lost" unit="character" quantity="4"/>᾽<unclear>α</unclear>δ<gap reason="lost" unit="character" quantity="1"/>
                 <lb n="7"/><gap reason="lost" unit="character" quantity="4"/><unclear>ρ</unclear><gap reason="lost" unit="character" quantity="1"></gap>

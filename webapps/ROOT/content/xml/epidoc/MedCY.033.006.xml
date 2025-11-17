@@ -76,12 +76,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <lg met="Dodecasyllable">
                     <l n="1"><lb n="1"/>PENDING <g ref="#cross">+</g>Tην ἐν <w lemma="πρόσωπον"><hi rend="ligature">πρ</hi>οσώπ<choice><corr source="#mango1990">οις</corr><sic>ω</sic></choice></w> <w lemma="τρεῖς"><hi rend="ligature">τρ</hi>ισὶ </w><w lemma="προσκυνῶ">προσκυν<hi rend="ligature">ου</hi>μένην</w></l>
-                  <l n="2"><lb n="2"/> <w lemma="ἄναρχος">ἄναρχον</w> <w lemma="ἀρχή">ἀρχ<hi rend="ligature">ην</hi></w> <w lemma="ὑπεράρχιος">υπεράρχιον</w> <w lemma="φύσις">φυσιν</w>·    </l>
-<l><lb n="3"/><w lemma="ἄμαχος">ἄμαχον</w> <w lemma="ἀλκή">ἀλκὴν </w><w lemma="ὑπερούσιος">ὑπερούσιον</w> <w lemma="μόνη">μόνην</w>· </l>
+                  <l n="2"><lb n="2"/> <w lemma="ἄναρχος">ἄναρχον</w> <w lemma="ἀρχή">ἀρχ<hi rend="ligature">ην</hi></w> <w lemma="ὑπεράρχιος">υπεράρχιον</w> <w lemma="φύσις">φυσιν</w><choice><reg>,</reg><orig>·</orig></choice>    </l>
+<l><lb n="3"/><w lemma="ἄμαχος">ἄμαχον</w> <w lemma="ἀλκή">ἀλκὴν </w><w lemma="ὑπερούσιος">ὑπερούσιον</w> <w lemma="μόνη">μόνην</w><choice><reg>,</reg><orig>·</orig></choice> </l>
 <l n="4"><lb n="4"/><w lemma="ποθῶ">ποθῶν </w><w lemma="σφόδρα">σφόδρα</w> <w lemma="σύ">σε</w> <rs type="office" ref="offices.xml#doux_Kyprou" sameAs="#Philokales"><w lemma="δούξ">δ<hi rend="ligature">οὺ</hi>ξ </w><placeName ref="mentioned_places.xml#Cyprus">Κύπρ<hi rend="ligature">ου</hi></placeName></rs> <persName type="attested" xml:id="Philokales" ref="#EumathiosPhilokales"><name nymRef="#Φιλοκάλης" type="surname">Φιλοκάλ<supplied reason="omitted">ης</supplied></name></persName></l>
-<l n="5"><lb n="5"/><persName type="attested" sameAs="#Philokales"><name nymRef="#Εὐμάθιος" type="forename"></name></persName> <rs type="office" ref="offices.xml#protistos_nobelisimon"><w lemma="πρώτιστος"><hi rend="ligature">πρ</hi>ώτιστος</w> <w lemma="νοβελλίσιμος">νωβ<supplied reason="lost">ε</supplied>λλισίμων</w></rs>·</l>
-<l><lb n="6"/><w lemma="βάθρον">βάθρων</w> ἀπ’αὐτῶν τὸν <w lemma="νέος">νεων</w> <w lemma="ἐγείρω">ἤγειρέ</w> σοι·</l>
-<l><lb n="7"/>πρὸς <w lemma="ἐξιλασμός">ἐξιλασμὸν</w> ὧν κακῶς <w lemma="παρασφάλλω">παρεσφάλη</w>· </l></lg>
+<l n="5"><lb n="5"/><persName type="attested" sameAs="#Philokales"><name nymRef="#Εὐμάθιος" type="forename"></name></persName> <rs type="office" ref="offices.xml#protistos_nobelisimon"><w lemma="πρώτιστος"><hi rend="ligature">πρ</hi>ώτιστος</w> <w lemma="νοβελλίσιμος">νωβ<supplied reason="lost">ε</supplied>λλισίμων</w></rs><choice><reg>,</reg><orig>·</orig></choice></l>
+<l><lb n="6"/><w lemma="βάθρον">βάθρων</w> ἀπ’αὐτῶν τὸν <w lemma="νέος">νεων</w> <w lemma="ἐγείρω">ἤγειρέ</w> σοι<choice><reg>,</reg><orig>·</orig></choice></l>
+<l><lb n="7"/>πρὸς <w lemma="ἐξιλασμός">ἐξιλασμὸν</w> ὧν κακῶς <w lemma="παρασφάλλω">παρεσφάλη</w><choice><reg>,</reg><orig>·</orig></choice> </l></lg>
             </div>
             <div type="apparatus">
                 <listApp>

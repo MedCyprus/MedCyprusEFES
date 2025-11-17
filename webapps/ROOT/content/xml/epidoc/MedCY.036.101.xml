@@ -82,18 +82,18 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                    PENDING<lb n="1"/> <g ref="#cross">+</g> <hi rend="ligature">Τη</hi> <expan><abbr>μη</abbr><ex>τε</ex><abbr>ρ</abbr></expan>
-<lb n="2"/>ετῆς· <hi rend="ligature">την</hi>
+<lb n="2"/>ετῆς<choice><reg>,</reg><orig>·</orig></choice> <hi rend="ligature">την</hi>
 <lb n="3"/>βροτών
-<lb n="4"/>σο<hi rend="ligature">τη</hi>ρίαν·
+<lb n="4"/>σο<hi rend="ligature">τη</hi>ρίαν<choice><reg>,</reg><orig>·</orig></choice>
 <lb n="5"/>Παρῶργι
-<lb n="6" break="no"/>σαν με· Συ
+<lb n="6" break="no"/>σαν με<choice><reg>,</reg><orig>·</orig></choice> Συ
 <lb n="7" break="no"/>μπάθησον
-<lb n="8"/><hi rend="ligature">υι</hi>έ μ<hi rend="ligature">ου</hi>· Άλλ' <hi rend="ligature">ου</hi>
+<lb n="8"/><hi rend="ligature">υι</hi>έ μ<hi rend="ligature">ου</hi><choice><reg>,</reg><orig>·</orig></choice> Άλλ' <hi rend="ligature">ου</hi>
 <lb n="9" break="no"/>κ επιστρέ
-<lb n="10" break="no"/>φ<hi rend="ligature">ου</hi>σιν· και
+<lb n="10" break="no"/>φ<hi rend="ligature">ου</hi>σιν<choice><reg>,</reg><orig>·</orig></choice> και
 <lb n="11"/>σώσον χά
-<lb n="12" break="no"/>ριν· Έξ<hi rend="ligature">ου</hi>σην
-<lb n="13"/>λύ<hi rend="ligature">τρ</hi>ον· Εύχα
+<lb n="12" break="no"/>ριν<choice><reg>,</reg><orig>·</orig></choice> Έξ<hi rend="ligature">ου</hi>σην
+<lb n="13"/>λύ<hi rend="ligature">τρ</hi>ον<choice><reg>,</reg><orig>·</orig></choice> Εύχα
 <lb n="14" break="no"/>ρι<hi rend="ligature">στ</hi>ό σι Λόγε
                 </ab>
             </div>
