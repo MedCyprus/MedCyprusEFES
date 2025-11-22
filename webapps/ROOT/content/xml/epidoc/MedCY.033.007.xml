@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Philokales first inscription</title>
+                <title>Philokales second inscription</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -37,9 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. Character size varies. 
-
-Mu with the central strokes reminiscent of an upsilon on a crossed stem; xi with upper part with a straight diagonal spine, and lower part with a curvilinear spine; top bar with serif to the left. Omega with its apex surmounted by a crosslet (lines 4, 5, 7) and by a dot above the apex (lines 1, 6), formed of two linked oval bowls, each bearing an inward-curving spine; upsilon on a crossed stem. ΤΡ, ΟΥ, ΝΗ, ΗΝ, ΠΡ joined in ligature. Systematic use of triangular serifs. Lines are ruled top and bottom. Accents and breathings non systematic. <height unit="cm">5 cm</height>
+                            <handNote>White majuscule letters against blue background. Mu with the central strokes reminiscent of an upsilon on a crossed stem; xi with upper part with a straight diagonal spine, and lower part with a curvilinear spine; top bar with serif to the left. Οmega with its apex surmounted by a crosslet, formed of two linked oval bowls, each bearing an inward-curving spine. ΟΥ joined in ligature. Systematic use of triangular serifs. Lines are ruled top and bottom. Accents and breathings systematic. Letter height: <height unit="cm">5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -83,7 +81,14 @@ Mu with the central strokes reminiscent of an upsilon on a crossed stem; xi with
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p><lb/>Lines 1: Not usefully translated
+                      <lb/>Line 2: [--?--] Trinity [--?--]
+                      <lb/>Line 3: [--?--] built [--?--]
+                      <lb/>Line 4: doux Eumathios and [--?--]
+                      <lb/>Line 5: [among] the nobles [--?--]
+                      <lb/>Line 6: [--?--] so [--?--]
+                      <lb/>Line 7: Not usefully translated
+</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
