@@ -6,8 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Prophet Ezekiel's scroll</title>
-                <editor xml:id="tp">Theocharis Petrou</editor>
-                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
+                <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -38,11 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background.
-The inscription is written entirely in uppercase. Lines are ruled top and bottom. Accents and breathings non systematic. The end of the text is marked with a middle dot.
-The inscription is clear, legible and consists of bold letters. From the middle and onwards of the text, the words are thinner and slightly compressed for space reasons.
-At the beginning of the inscription there are ligatures of the letters ΟΥ, ΝΗ. The letters Ε and Ω form inside them something like small spheres.
-Very good preservation condition. <height unit="cm">? cm</height>
+                            <handNote>Black majuscule letters against white background. Character size varies. Mu with the central strokes reminiscent of an upsilon on a stem; xi with upper part with a straight diagonal spine, and lower part with a curvilinear spine; top bar with serif to the left. In line 2, sigma with an inward-curving spine along its main stroke. In line 10, upsilon on a crossed stem; omega formed of two linked round bowls, each with an inward-curving spine. ΟΥ, ΝΗ joined in ligature. Systematic use of triangular serifs. Lines are ruled top and bottom. Accents and square breathings systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -101,10 +96,10 @@ Very good preservation condition. <height unit="cm">? cm</height>
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>“Thus saith the Lord: Behold, I will open your graves and bring you up, out of your graves”. Translation by Mango, Hawkins, Boyd 1990, 85.</p>
+                <p>Thus says the Lord: Behold, I will open your graves and bring you up from your graves.</p>
             </div>
             <div type="commentary">
-                <p>The text comes from Ezekiel’s prophecy (Ezek. 37:12) and refers to the Resurrection’s scene on the south wall.</p>
+                <p>Text: Ezek. 37: 12-13</p>
             </div>
             <div type="bibliography">
                  <listBibl>
