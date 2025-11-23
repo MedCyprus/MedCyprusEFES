@@ -1130,6 +1130,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1885832</idno>                   
                 </person>
                 
+                <person xml:id="TheodosiosOfSkopelos">
+                    <persName xml:lang="grc">Θεoδόσιος ὁ ἐν τῷ Σκοπέλῳ</persName>
+                    <persName xml:lang="en">Theodosios of Skopelos</persName>
+                    <idno type="wikidata">Not listed</idno>                   
+                </person>
+                
                 <person xml:id="Theodotos">
                     <persName xml:lang="grc">Θεόδοτος</persName>
                     <persName xml:lang="en">Theodotos</persName>
