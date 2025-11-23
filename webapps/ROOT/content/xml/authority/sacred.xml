@@ -372,6 +372,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q5408742</idno>                   
                 </person>
                 
+                <person xml:id="Eusignios">
+                    <persName xml:lang="grc">Εὐσίγνιος</persName>
+                    <persName xml:lang="en">Eusignios</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q5414262</idno>                   
+                </person>
+                
                 <person xml:id="Eustratios">
                     <persName xml:lang="grc">Εὐστράτιος</persName>
                     <persName xml:lang="en">Eustratios</persName>
