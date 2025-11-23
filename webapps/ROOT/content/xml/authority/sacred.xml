@@ -748,6 +748,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43954</idno>                   
                 </person>
                 
+                <person xml:id="LoukasOfSteiris">
+                    <persName xml:lang="grc">Λουκᾶς</persName>
+                    <persName xml:lang="en">Loukas</persName>        
+                    <persName xml:lang="grc" type="epithet" subtype="Loukas" key="Steiris">ὁ Στειριώτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Loukas" key="Steiris">of Steiris</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2497353</idno>                   
+                </person>
+                
                 <person xml:id="Luke">
                     <persName xml:lang="grc">Λουκᾶς</persName>
                     <persName xml:lang="en">Luke</persName>        
@@ -755,7 +763,7 @@
                     <persName xml:lang="en" type="epithet" subtype="Luke" key="Evangelist">Evangelist</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q128538</idno>                   
                 </person>
-                                
+                
                 <person xml:id="Makedonios">
                     <persName xml:lang="grc">Μακεδόνιος</persName>
                     <persName xml:lang="en">Makedonios</persName> 
