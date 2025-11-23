@@ -937,6 +937,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9200</idno>                   
                 </person>
                 
+                <person xml:id="PaulTheSimple">
+                    <persName xml:lang="grc">Παῦλος ὁ Ἁπλοῦς</persName>
+                    <persName xml:lang="en">Paul the Simple</persName> 
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q3773019</idno>                   
+                </person>
+                
                 <person xml:id="Pegasios">
                     <persName xml:lang="grc">Πηγάσιος</persName>
                     <persName xml:lang="en">Pegasios</persName>                   
