@@ -1011,6 +1011,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q192371</idno>                   
                 </person>
                 
+                <person xml:id="Prokopios">
+                    <persName xml:lang="grc">Προκόπιος</persName>
+                    <persName xml:lang="en">Prokopios</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2466161</idno>                   
+                </person>
+                
                     <person xml:id="RomanosMelode">
                     <persName xml:lang="grc">Ρωμανός</persName>
                     <persName xml:lang="en">Romanos the Melode</persName> 
