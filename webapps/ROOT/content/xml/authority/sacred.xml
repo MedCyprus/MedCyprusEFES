@@ -1274,6 +1274,12 @@
                     <note>See also: Mother of God, Theotokos, Maria</note>
                 </person>
                 
+                <person xml:id="Xenophon">
+                    <persName xml:lang="grc">Ξενοφῶν</persName>
+                    <persName xml:lang="en">Xenophon</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q16327428</idno>                   
+                </person>
+                
                 <person xml:id="Zacharias">
                     <persName xml:lang="grc">Ζαχαρίας</persName>
                     <persName xml:lang="en">Zacharias</persName>                   
@@ -1285,6 +1291,7 @@
                     <persName xml:lang="en">Zechariah</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q604259</idno><!--for the Old Testament prophet-->              
                 </person>
+                
                 <person xml:id="Zosimas">
                     <persName xml:lang="grc">Ζωσιμᾶς</persName>
                     <persName xml:lang="en">Zosimas</persName>
