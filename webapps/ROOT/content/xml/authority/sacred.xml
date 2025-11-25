@@ -133,6 +133,12 @@
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
+                <person xml:id="Arkadios">
+                    <persName xml:lang="grc">Ἀρκάδιος</persName>
+                    <persName xml:lang="en">Arkadios</persName>
+                    <idno type="wikidata">Not listed</idno>                   
+                </person>
+                
                 <person xml:id="Arsenios">
                     <persName xml:lang="grc">Ἀρσένιος</persName>
                     <persName xml:lang="en">Arsenios</persName>
@@ -236,6 +242,12 @@
                 </person>
                 
                 <person sameAs="#JesusChrist"><persName>Christ</persName></person>
+                
+                <person xml:id="ClementRome">
+                    <persName xml:lang="grc">Κλήμης Ῥώμης</persName>
+                    <persName xml:lang="en">Clement of Rome</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q42887</idno>                   
+                </person>
                
                 <person xml:id="Constantine_Ormideia">
                     <persName xml:lang="grc">Κωνσταντῖνος τῆς Ὀρμήδειας</persName>
@@ -458,6 +470,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q59550534</idno>                   
                 </person>
                 
+                <person xml:id="GregentiosArchbishopHomerites">
+                    <persName xml:lang="grc">Γρηγέντιος, ἀρχιεπίσκοπος Ὁμηριτῶν</persName>
+                    <persName xml:lang="en">Gregentios, archbishop of the Homerites</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1545017</idno>                   
+                </person>
+                
                 <person xml:id="GregoryOfAgrigento">
                     <persName xml:lang="grc">Γρηγόριος</persName>
                     <persName xml:lang="en">Gregory of Agrigento</persName> 
@@ -466,6 +484,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9282211</idno>                   
                 </person>
                 
+                <person xml:id="GregoryOfCrete">
+                    <persName xml:lang="grc">Γρηγόριος ὁ ἐν τῷ Ἀκρίτα</persName>
+                    <persName xml:lang="en">Gregory of Cape Akritas</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q12750535</idno>                   
+                </person>
+                           
                 <person xml:id="GregoryNazianzenos">
                     <persName xml:lang="grc">Γρηγόριος</persName>
                     <persName xml:lang="en">Gregory the Theologian / Nazianzenos</persName> 
@@ -480,6 +504,14 @@
                     <persName xml:lang="grc" type="epithet" subtype="GregoryOfNyssa" key="of Nyssa">ὁ Νύσσης</persName>
                     <persName xml:lang="en" type="epithet" subtype="GregoryOfNyssa" key="of Nyssa">of Nyssa</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q191734</idno>                   
+                </person>
+                
+                <person xml:id="GregoryThaumatourgos">
+                    <persName xml:lang="grc">Γρηγόριος</persName>
+                    <persName xml:lang="en">Gregory Thaumatourgos</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="GregoryThaumatourgos" key="Thaumatourgos">ὁ Θαυματουργός</persName>
+                    <persName xml:lang="en" type="epithet" subtype="GregoryThaumatourgos" key="Thaumatourgos">Thaumatourgos</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q337537</idno>                   
                 </person>
                 
                 <person xml:id="Habakkuk">
@@ -547,6 +579,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44170</idno>                   
                 </person>
                 
+                <person xml:id="JamesAlphaeus">
+                    <persName xml:lang="grc">Ἰάκωβος, υἱός Ἀλφαῖου</persName>
+                    <persName xml:lang="en">James, son of Alphaeus</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q3245490</idno>                   
+                </person>
+                
                 <person xml:id="JamesLordBrother">
                     <persName xml:lang="grc">Ἰάκωβος</persName>
                     <persName xml:lang="en">James the Lord's Brother</persName> 
@@ -555,12 +593,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q26925</idno>                   
                 </person>
                 
-                <person xml:id="JamesAlphaeus">
-                    <persName xml:lang="grc">Ἰάκωβος, υἱός Ἀλφαῖου</persName>
-                    <persName xml:lang="en">James, son of Alphaeus</persName>                   
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q3245490</idno>                   
+                <person xml:id="JamesPersian">
+                    <persName xml:lang="grc">Ἰάκωβος ὁ Πέρσης</persName>
+                    <persName xml:lang="en">James the Persian</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2625267klhm</idno>                   
                 </person>
-                
+                             
                 <person xml:id="JamesZebedee">
                     <persName xml:lang="grc">Ἰάκωβος, υἱός Ζεβεδαίου</persName>
                     <persName xml:lang="en">James, son of Zebedee</persName>                   
@@ -637,6 +675,12 @@
                     <persName xml:lang="grc" type="epithet" subtype="JohnMerciful" key="Merciful">ὁ Ἐλεήμων</persName>
                     <persName xml:lang="en" type="epithet" subtype="JohnMerciful" key="Merciful">Merciful</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q372668</idno>                   
+                </person>
+                
+                <person xml:id="JohnSonOfXenophon">
+                    <persName xml:lang="grc">Ἰωάννης</persName>
+                    <persName xml:lang="en">John, son of Saint Xenophon</persName>
+                    <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
                 <person xml:id="JohnTheologian">
@@ -1136,7 +1180,7 @@
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
-                <person xml:id="Theodore">
+                <person xml:id="Theodore"><!--Stratelates-->
                     <persName xml:lang="grc">Θεόδωρος</persName>
                     <persName xml:lang="en">Theodore</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2363350</idno>                   
