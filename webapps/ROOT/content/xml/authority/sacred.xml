@@ -926,6 +926,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q45581</idno>                   
                 </person>
                 
+                <person xml:id="Misael">
+                    <persName xml:lang="grc">Μισαήλ</persName>
+                    <persName xml:lang="en">Misael</persName>   
+                    <idno type="wikidata">Not listed</idno>                   
+                </person>
+                
                 <person xml:id="Moses">
                     <persName xml:lang="grc">Μωυσῆς</persName>
                     <persName xml:lang="en">Moses</persName>
