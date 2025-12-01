@@ -13,7 +13,7 @@
 
   <xsl:template match="/">
     <add>
-      <xsl:for-each-group select="//tei:persName[@type!='divine'][@type!='sacred'][not(@sameAs)][ancestor::tei:div/@type = 'edition']" group-by="concat(@ref,'-',@role)">
+      <xsl:for-each-group select="//tei:persName[@type!='divine'][@type!='sacred'][@type!='other'][not(@sameAs)][ancestor::tei:div/@type = 'edition']" group-by="concat(@ref,'-',@role)">
         <xsl:variable name="id">
           <xsl:choose>
             <xsl:when test="contains(@ref, '#')">
