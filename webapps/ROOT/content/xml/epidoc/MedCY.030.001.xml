@@ -46,7 +46,7 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#KomaGialouNicholas">Koma tou Gialou, Saint Nicholas</origPlace>
+                            <origPlace ref="locations.xml#KomaGialouNicholas" n="single">Koma tou Gialou, Saint Nicholas</origPlace>
                             <origDate notBefore="1167" notAfter="1233" precision="medium" source="bibliography.xml#Chotzakoglou2005">Late 12th century-Early 13th century?</origDate>
                         </origin>
                         <provenance when="2022">
