@@ -340,7 +340,7 @@
                     <desc type="architectural">Domed-hall church, with a later extension to the west; built on the ruins of a 7th-century three-aisled basilica</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="low" evidence="style">12th century</date> (bema; naos)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="high" evidence="inscription(s)">First half of the 16th century</date> (bema; dome; naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="high" evidence="inscriptions">First half of the 16th century</date> (bema; dome; naos)</desc>
                     </desc>
                     <desc type="conservation">Badly damaged; very fragmentary. Conservation/cleaning: late 1940s, 1998, 2003, 2004, 2008, 2011, 2013-2015, 2017 (DAC)</desc>
                     <desc type="donors">
@@ -387,7 +387,7 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Domed-hall church (today, ruinous), with narthex subsequently added to the west (12th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1201" precision="medium">12th century</date> (narthex)</desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1201" precision="low" evidence="style">12th century</date> (narthex)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; very poorly preserved. One mural detached and displayed in the <ref target="#SoteraMuseum">Ecclesiastical Museum of Sotera.</ref></desc>
                     <desc type="donors">Unknown</desc>
@@ -420,10 +420,10 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Domed-hall church, with twin apses inscribed into the eastern curved wall; narthex subsequently added to the west</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium">11th century</date> (bema)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium">13th century</date> (naos: south central recess)</desc>
-                        <desc type="layer" n="3">3st layer: <date notBefore="1201" notAfter="1400" precision="medium">13th or 14th century</date> (naos: central bay)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (naos: western bay)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="low" evidence="style">11th century</date> (bema)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="low" evidence="style">13th century</date> (naos: south central recess)</desc>
+                        <desc type="layer" n="3">3st layer: <date notBefore="1201" notAfter="1400" precision="low" evidence="style">13th or 14th century</date> (naos: central bay)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1500" precision="low" evidence="style, portraiture">15th century</date> (naos: western bay)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1985-1986, 2002 (DAC)</desc>
                     <desc type="donors">Male and female donors, lay and ecclesiastic, donated votive panels throughout the Byzantine and medieval period: 
@@ -465,7 +465,7 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Domed-hall(?) church, with south chapel added subsequently </desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1133" precision="medium">Early 12th century</date> (bema)</desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1133" precision="low" evidence="style">Early 12th century</date> (bema)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; murals detached, now displayed in the <ref target="#PaphosMuseum">Ecclesiastical Museum of the Holy Bishopric of Paphos</ref>. Conservation/cleaning: 1992, 2001 (DAC)
                        </desc>
@@ -500,7 +500,7 @@
                     <desc type="context"><term>Urban fringe</term></desc>
                     <desc type="architectural">Single-cell chapel, partially carved into the rock (built sections of north, south and west walls do not survive)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="0901" notAfter="1000" precision="medium">10th century</date> (naos)</desc>
+                        <desc type="layer" n="1"><date notBefore="0901" notAfter="1000" precision="low" evidence="style">10th century</date> (naos)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poorly preserved. Conservation/cleaning: 1969 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -536,11 +536,11 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Free-cross domed church; western extension of aisles, narthex, and northeastern naos compartment added subsequently (13th century?)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" source="bibliography.xml#EcclesMon">Philotheou, Petrou: 11th century;</date> 
-                        <date notBefore="1201" notAfter="1300" precision="medium">MedCyprus: 13th century</date> (naos: south crossarm, east wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1233" precision="medium">Early 13th century</date> (naos: north and south crossarms)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="medium">Late 13th century</date> (narthex)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (dome; naos: north and south crossarms, western vault)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="low" evidence="style"  source="bibliography.xml#EcclesMon">Philotheou, Petrou: 11th century;</date> 
+                            <date notBefore="1201" notAfter="1300" precision="low" evidence="style">MedCyprus: 13th century</date> (naos: south crossarm, east wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1233" precision="low" evidence="style">Early 13th century</date> (naos: north and south crossarms)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="low" evidence="style">Late 13th century</date> (narthex)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1500" precision="low" evidence="style">15th century</date> (dome; naos: north and south crossarms, western vault)</desc>
                         <desc type="layer" n="5">5th layer: <date when="1896" precision="high">1896</date> (naos: north and south crossarms)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1966, 1980-1981, 1985-1986, 1995-1996, 1999, 2001 (DAC)</desc>
@@ -585,11 +585,11 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Five-domed basilica, with a small domed tetraconch attached to its southeast corner; narthex subsequently added to the west (19th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="0701" notAfter="0900" precision="medium">8th or 9th century</date> (eastern dome above bema)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="0901" notAfter="1000" precision="medium">10th century</date> (nave)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1101" notAfter="1133" precision="medium">Early 12th century</date> (bema; nave)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (nave; south aisle)</desc>
-                        <desc type="layer" n="5">5th layer: <date notBefore="1467" notAfter="1533" precision="medium">Late 15th - Early 16th century</date> (bema; central and western domes of nave; nave)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="0701" notAfter="0900" precision="low" evidence="style">8th or 9th century</date> (eastern dome above bema)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="0901" notAfter="1000" precision="low" evidence="style">10th century</date> (nave)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1101" notAfter="1133" precision="low" evidence="style">Early 12th century</date> (bema; nave)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1301" notAfter="1400" precision="low" evidence="style">14th century</date> (nave; south aisle)</desc>
+                        <desc type="layer" n="5">5th layer: <date notBefore="1467" notAfter="1533" precision="low" evidence="style">Late 15th - Early 16th century</date> (bema; central and western domes of nave; nave)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1955, 1974, 1976, 1977, 1994, 1995, 2003 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
