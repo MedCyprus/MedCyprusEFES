@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                 <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface.</objectType> Well preserved.</rs>
                                     <rs type="placement-building" ref="#narthex">Narthex, south conch, semicylindrical wall, west side</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
@@ -49,8 +49,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Asinou">Niketari, Panagia Phorbiotissa or Asinou</origPlace>
-                            <origDate notBefore="1275" notAfter="1300" precision="medium">Last quarter of 13th century</origDate>
+                            <origPlace ref="locations.xml#Asinou" n="4th">Niketari, Panagia Phorbiotissa or Asinou</origPlace>
+                            <origDate notBefore="1275" notAfter="1300" precision="medium" evidence="artistic-style">Last quarter of 13th century</origDate>
                         </origin>
                          <provenance when="2022">
                         </provenance>
