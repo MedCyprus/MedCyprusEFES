@@ -25,15 +25,15 @@
                     <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.734564431148705, 32.48443089411125</geo></location>
-                    <desc type="construction"><date notBefore="1167" notAfter="1233" precision="medium">Late 12th - Early 13th century</date></desc>
+                    <desc type="construction"><date notBefore="1167" notAfter="1233">Late 12th - Early 13th century</date></desc>
                     <desc type="function"><term>Parochial</term>(?), <term>funerary</term>(?)</desc>
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Free-cross domed church</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="low" evidence="style">late 12th century</date> (naos: north crossarm, east wall)</desc>
-                            <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="low" evidence="style">13th century</date> (naos: north crossarm, west, north and east wall; west crossarm, north wall)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1400" precision="low" evidence="style">14th century</date> (naos: west crossarm, south wall)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1451" notAfter="1500" precision="low" evidence="style">second half of the 15th century</date> (naos: west crossarm, north wall)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" evidence="artistic-style">late 12th century</date> (naos: north crossarm, east wall)</desc>
+                            <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" evidence="artistic-style">13th century</date> (naos: north crossarm, west, north and east wall; west crossarm, north wall)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1400" evidence="artistic-style">14th century</date> (naos: west crossarm, south wall)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1451" notAfter="1500" evidence="artistic-style">second half of the 15th century</date> (naos: west crossarm, north wall)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1985-1986, 1995, 2002 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -638,8 +638,8 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed triconch church (today, ruinous), with northwest <ref target="#GialiaChapel">chapel of Saint George</ref> and western porch extending in front of both main church and chapel added subsequently</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1051" notAfter="1100" precision="medium">second half of 11th century</date> (bema; naos)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1150" precision="medium">first half of 12th century </date> (western porch)</desc>                    </desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1051" notAfter="1100" precision="low" evidence="style">second half of 11th century</date> (bema; naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1150" precision="low" evidence="style">first half of 12th century </date> (western porch)</desc>                    </desc>
                     <desc type="conservation">Very fragmentary; poorly preserved. Fragments of painted plaster revealed during excavations are kept in the <ref target="locations.xml#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning:  2011, 2013, 2015 (DAC?)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknwon</desc>
@@ -675,7 +675,7 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed-hall chapel, annexed to the northwest of the <ref target="#GialiaKatholikon">main church</ref> of the monastery</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1150" precision="medium">first half of 12th century</date> (naos; western porch)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1150" precision="low" evidence="style">first half of 12th century</date> (naos; western porch)</desc>
                     </desc>
                     <desc type="conservation">very fragmentary; poorly preserved. Fragments of painted plaster revealed during excavations are kept in the <ref target="locations.xml#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning:  2011, 2013, 2015 (DAC?)</desc>
                     <desc type="donors">Unknown</desc>
