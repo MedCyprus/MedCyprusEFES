@@ -30,10 +30,10 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Free-cross domed church</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" evidence="artistic-style">late 12th century</date> (naos: north crossarm, east wall)</desc>
-                            <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" evidence="artistic-style">13th century</date> (naos: north crossarm, west, north and east wall; west crossarm, north wall)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1400" evidence="artistic-style">14th century</date> (naos: west crossarm, south wall)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1451" notAfter="1500" evidence="artistic-style">second half of the 15th century</date> (naos: west crossarm, north wall)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium" evidence="artistic-style">late 12th century</date> (naos: north crossarm, east wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</date> (naos: north crossarm, west, north and east wall; west crossarm, north wall)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (naos: west crossarm, south wall)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1451" notAfter="1500" precision="medium" evidence="artistic-style">second half of the 15th century</date> (naos: west crossarm, north wall)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1985-1986, 1995, 2002 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
