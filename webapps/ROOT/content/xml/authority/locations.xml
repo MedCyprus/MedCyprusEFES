@@ -150,7 +150,7 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Domed pier cross-in-square church; domed-hall narthex subsequently added to the west (12th or 13th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1401" precision="low" evidence="style">13th-14th century</date> (naos)</desc>                       
+                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1401" precision="medium" evidence="artistic-style">13th-14th century</date> (naos)</desc>                       
                     </desc>
                     <desc type="conservation">Very fragmentary; badly preserved. Conservation/cleaning: 2020 (Bishopric of Karpasia)</desc>
                     <desc type="donors">Unknown</desc>
@@ -189,8 +189,8 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Single-aisled barrel-vaulted church; narthex with drumless dome subsequently added to the west</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1233" precision="low" evidence="style">early 13th century</date> (naos: north and south wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1267" notAfter="1300" precision="low" evidence="style">late 13th century?</date> (naos: south wall)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1233" precision="medium" evidence="artistic-style">early 13th century</date> (naos: north and south wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style">late 13th century?</date> (naos: south wall)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; badly preserved. Conservation/cleaning: 1973 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -227,8 +227,8 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed pier cross-in-square church</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="low" evidence="style">11th century</date> (bema)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1133" precision="low" evidence="style">early 12th century</date> (bema)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style">11th century</date> (bema)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">early 12th century</date> (bema)</desc>
                     </desc>
                     <desc type="conservation">Partially preserved; after 1974, some murals mutilated, others detached. Conservation/cleaning: 1972 (DAC), 2009 (USAID/SAVE)</desc>
                     <desc type="donors">Unknown</desc>
@@ -266,8 +266,8 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Free-cross domed church; western crossarm subsequently extended westwards</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300" precision="low" evidence="style">13th century?;</date> (west crossarm: south wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="low" evidence="style">15th century?; overpainted in the 20th century</date> (bema; central bay and dome; north and south crossarms</desc></desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century?;</date> (west crossarm: south wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium" evidence="artistic-style">15th century?; overpainted in the 20th century</date> (bema; central bay and dome; north and south crossarms</desc></desc>
                     <desc type="conservation">Murals of 1st layer, very fragmentary. Conservation/cleaning: 1996, 1997 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
@@ -304,7 +304,7 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Domed-hall church; narthex subsequently added to the west (16th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1250" precision="low" evidence="style">First half of the 13th century</date> (bema; dome; naos)</desc>
+                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1250" precision="medium" evidence="artistic-style">First half of the 13th century</date> (bema; dome; naos)</desc>
                     </desc>
                     <desc type="conservation">Partially preserved. Conservation/cleaning: 2005 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -340,8 +340,8 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Domed-hall church, with a later extension to the west; built on the ruins of a 7th-century three-aisled basilica</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="low" evidence="style">12th century</date> (bema; naos)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="high" evidence="inscriptions">First half of the 16th century</date> (bema; dome; naos)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style">12th century</date> (bema; naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" evidence="internal-date">First half of the 16th century</date> (bema; dome; naos)</desc>
                     </desc>
                     <desc type="conservation">Badly damaged; very fragmentary. Conservation/cleaning: late 1940s, 1998, 2003, 2004, 2008, 2011, 2013-2015, 2017 (DAC)</desc>
                     <desc type="donors">
@@ -388,7 +388,7 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Domed-hall church (today, ruinous), with narthex subsequently added to the west (12th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1201" precision="low" evidence="style">12th century</date> (narthex)</desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1201" precision="medium" evidence="artistic-style">12th century</date> (narthex)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; very poorly preserved. One mural detached and displayed in the <ref target="#SoteraMuseum">Ecclesiastical Museum of Sotera.</ref></desc>
                     <desc type="donors">Unknown</desc>
