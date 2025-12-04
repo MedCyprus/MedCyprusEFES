@@ -44,7 +44,7 @@
                     <idno type="HGC">http://www.cyprusgazetteer.org/hu/281/</idno>
                     <idno type="geonames">https://www.geonames.org/10347045/acheleia.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>cat. 1</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>387</citedRange></bibl>
@@ -56,6 +56,7 @@
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>524</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>7: 210</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 44-57</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>cat. 1</citedRange></bibl>
                     </listBibl>
                 </place>
                            
@@ -71,16 +72,15 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Rock-cut, single-cell chapel</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="0901" notAfter="1000" precision="low" evidence="style">10th century</date> (naos: north wall, above the tomb; north wall, eastern side).
+                        <desc type="layer" n="1">1st layer: <date notBefore="0901" notAfter="1000" precision="medium" evidence="artistic-style">10th century</date> (naos: north wall, above the tomb; north wall, eastern side).
                         </desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1001" notAfter="1200" precision="low" evidence="style, stratigraphy">undetermined; prior to the 13th-14th century</date> (naos: north wall, eastern side)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1201" notAfter="1400" precision="low" evidence="style"> 13th-14th century? First half of the 14th century?</date> (bema; naos: east, north and west wall; ceiling)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1001" notAfter="1200" precision="medium" evidence="material-context">undetermined; prior to the 13th-14th century</date> (naos: north wall, eastern side)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1201" notAfter="1400" precision="medium" evidence="artistic-style"> 13th-14th century? First half of the 14th century?</date> (bema; naos: east, north and west wall; ceiling)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; condition poor. Conservation/cleaning: 1990-1991, 1993, 2002, 2005-2006 (DAC). Some of the paintings of the 1st layer have been removed to the <!--<ref target="#ByzantineMuseum.html">Byzantine Museum of the Cultural Foundation Archbishop Makarios III.</ref>Still needs to be activated as a link--> </desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458</citedRange></bibl></desc> <!-- Only cited range is displayed; not the target in the bibliography.xml-->
-
+                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458</citedRange></bibl></desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="HGC">Not listed</idno>
                     <idno type="geonames">http://www.geonames.org/20648/agios-sozomenos.html</idno>
@@ -112,8 +112,8 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Single-aisled vaulted church; later additions: south lateral aisle (12th-13th century?) and western open porch (14th-15th century?) </desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="low" evidence="style">late 12th century</date> (naos: south wall, western side; west wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="low" evidence="style">13th century?</date> (naos: west wall; north wall, central recess?)</desc>                
+                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium" evidence="artistic-style">late 12th century</date> (naos: south wall, western side; west wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century?</date> (naos: west wall; north wall, central recess?)</desc>                
                     </desc>
                     <desc type="conservation">Fragmentary. Some of the murals were illegally detached from the walls following 1974; current location unknown</desc>
                     <desc type="donors">Unknown</desc>
@@ -133,6 +133,7 @@
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>349-55</citedRange></bibl>                    
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>18: 499-500</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2: 412-13</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>256-60, cat. 4</citedRange></bibl>
                     </listBibl>
                 </place>
                 
