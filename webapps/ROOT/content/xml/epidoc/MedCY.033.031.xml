@@ -53,7 +53,7 @@
                         </origin>
                         <provenance when="1969">Not accessible; located in a Turkish military zone in occupied north Cyprus. Studied and photographed in 1969.
                         </provenance>    
-                        <provenance type="observed">Currently inaccessible</provenance>
+                        <provenance type="not-observed">Currently inaccessible</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
