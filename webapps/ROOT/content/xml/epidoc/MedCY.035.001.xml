@@ -33,7 +33,7 @@
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#SymeonStylitesElder">Symeon Stylites the Elder</rs></p>
+                            <p>PENDING</p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -49,9 +49,9 @@
                             <origPlace ref="locations.xml#KoutsoventisSaviour">Koutsoventis, Monastery of Saint John Chrysostom, Saviour</origPlace>
                             <origDate notBefore="1101" notAfter="1133" precision="medium">Early 12th century</origDate>
                         </origin>
-                        <provenance when="1969">
+                        <provenance when="2025">Not accessible; located in a Turkish military zone in occupied north Cyprus.
                         </provenance>    
-                        <provenance type="observed">currently, inaccessible</provenance>
+                        <provenance type="observed">Currently inaccessible</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -62,11 +62,12 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou)</creation>
+            <creation>transcription (Th. Petrou), archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+         <graphic rend="primary" url="035-001-01.jpg"><desc>Saint Symeon Stylites, inscription (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
+        <graphic url="035-001-02.jpg"><desc>Saint Symeon Stylites, general view (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>  
     </facsimile>
     <text>
         <body>
@@ -79,7 +80,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Saint Symeon [..?..]</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
