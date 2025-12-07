@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, north wall, main register </rs>
+                                    <rs type="placement-building" ref="#naos">Naos, north wall, main register?</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -62,12 +62,13 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>
+            <creation>transcription (Th. Petrou), archival photos (Department of Antiquities, Cyprus, Photographic Archive), (The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC).</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
          <graphic rend="primary" url="035-002-01.jpg"><desc>Lamentation, inscription (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
         <graphic url="035-002-02.jpg"><desc>Lamentation, general view (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>  
+        <graphic url="035-002-03.jpg"><desc>Lamentation, general view (Photo by Cyril Mango, The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC)</desc></graphic>
     </facsimile>
     <text>
         <body>
