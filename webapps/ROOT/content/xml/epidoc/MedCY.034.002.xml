@@ -49,10 +49,8 @@
                         <origin>
                             <origPlace ref="locations.xml#KoutsoventisPanagia">Koutsoventis, Monastery of Saint John Chrysostom, Panagia Aphendrika</origPlace>
                             <origDate notBefore="1167" notAfter="1233" precision="medium">Late 12th or early 13th century</origDate>
-                        </origin>
-                        <provenance>Not accessible; located in a Turkish military zone in occupied north Cyprus.
-                        </provenance>    
-                        <provenance type="observed">Currently inaccessible</provenance>
+                        </origin>                         
+                        <provenance type="not-observed">Currently inaccessible (located in a Turkish military zone in occupied north Cyprus)</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
