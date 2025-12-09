@@ -438,7 +438,7 @@
                     <idno type="HGC">http://www.cyprusgazetteer.org/146485/156/</idno>
                     <idno type="geonames">https://www.geonames.org/16759/agios-georgios.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>cat. 7.a-e</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>269-70</citedRange></bibl>                        
@@ -467,7 +467,7 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Domed-hall(?) church, with south chapel added subsequently </desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1133" precision="low" evidence="style">Early 12th century</date> (bema)</desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">Early 12th century</date> (bema)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; murals detached, now displayed in the <ref target="#PaphosMuseum">Ecclesiastical Museum of the Holy Bishopric of Paphos</ref>. Conservation/cleaning: 1992, 2001 (DAC)
                        </desc>
@@ -502,7 +502,7 @@
                     <desc type="context"><term>Urban fringe</term></desc>
                     <desc type="architectural">Single-cell chapel, partially carved into the rock (built sections of north, south and west walls do not survive)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="0901" notAfter="1000" precision="low" evidence="style">10th century</date> (naos)</desc>
+                        <desc type="layer" n="1"><date notBefore="0901" notAfter="1000" precision="medium" evidence="artistic-style">10th century</date> (naos)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poorly preserved. Conservation/cleaning: 1969 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -538,15 +538,15 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Free-cross domed church; western extension of aisles, narthex, and northeastern naos compartment added subsequently (13th century?)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="low" evidence="style"  source="bibliography.xml#EcclesMon">Philotheou, Petrou: 11th century;</date> 
-                            <date notBefore="1201" notAfter="1300" precision="low" evidence="style">MedCyprus: 13th century</date> (naos: south crossarm, east wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1233" precision="low" evidence="style">Early 13th century</date> (naos: north and south crossarms)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="low" evidence="style">Late 13th century</date> (narthex)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1500" precision="low" evidence="style">15th century</date> (dome; naos: north and south crossarms, western vault)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style"  source="bibliography.xml#EcclesMon">Philotheou, Petrou: 11th century;</date> 
+                            <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">MedCyprus: 13th century</date> (naos: south crossarm, east wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1233" precision="medium" evidence="artistic-style iconography">Early 13th century</date> (naos: north and south crossarms)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style">Late 13th century</date> (narthex)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1533" precision="medium" evidence="artistic-style">15th century or early 16th century</date> (dome; naos: north and south crossarms, western vault)</desc>
                         <desc type="layer" n="5">5th layer: <date when="1896" precision="high">1896</date> (naos: north and south crossarms)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1966, 1980-1981, 1985-1986, 1995-1996, 1999, 2001 (DAC)</desc>
-                    <desc type="donors">Unknown</desc>
+                    <desc type="donors">2nd layer: Stephanos and his wife <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)--></desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>376</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0029.html</idno>
@@ -554,7 +554,7 @@
                     <idno type="HGC">http://www.cyprusgazetteer.org/146639/159/</idno>
                     <idno type="geonames">https://www.geonames.org/18814/panagia-chryseleousa.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl ana="unpublished"/>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>cat. 8</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>407</citedRange></bibl>
@@ -569,9 +569,11 @@
                         <bibl><ptr target="bibliography.xml#Gkioles2003"/><citedRange>68-69, 144-45, 186-87</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>524, 619, 650-51</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2004, 47-48</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Eliades2008"/><citedRange>1: 318-19</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>19: 445-47</citedRange></bibl>  
                         <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2: 132-34</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 84-103</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>72,73, 130-31, 149-50, cat. 8</citedRange></bibl>
                     </listBibl>
                 </place>
                 
