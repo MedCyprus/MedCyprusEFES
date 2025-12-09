@@ -417,19 +417,19 @@
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.86560311978039, 32.55097098304513</geo></location>
                     <desc type="construction"><date notBefore="1001" notAfter="1100" precision="medium">11th century</date></desc>
-                    <desc type="function"><term>Pilgrimage</term>(?)</desc>
+                    <desc type="function"><term>Pilgrimage</term>(?); <term>funerary</term>(?)</desc>
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Domed-hall church, with twin apses inscribed into the eastern curved wall; narthex subsequently added to the west</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="low" evidence="style">11th century</date> (bema)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="low" evidence="style">13th century</date> (naos: south central recess)</desc>
-                        <desc type="layer" n="3">3st layer: <date notBefore="1201" notAfter="1400" precision="low" evidence="style">13th or 14th century</date> (naos: central bay)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1500" precision="low" evidence="style, portraiture">15th century</date> (naos: western bay)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style">11th century</date> (bema)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style iconography">13th century</date> (naos: south central recess)</desc>
+                        <desc type="layer" n="3">3st layer: <date notBefore="1201" notAfter="1400" precision="medium" evidence="artistic-style">13th or 14th century</date> (naos: central bay)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1201" notAfter="1500" precision="medium" evidence="artistic-style">14th or 15th century</date> (naos: western bay)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1985-1986, 2002 (DAC)</desc>
-                    <desc type="donors">Male and female donors, lay and ecclesiastic, donated votive panels throughout the Byzantine and medieval period: 
+                    <desc type="donors">Male and female donors, lay and ecclesiastic, donated votive panels: 
                         2nd layer: the priest Georgios and Magdalene <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->.
-                        3rd layer: Theodosia <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->, one monk (Leontios)<!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->, and at least another male donor <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->.
+                        3rd layer: Theodosia <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->, the monk Leontios <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->, and one other male donor <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->.
                         4th layer: female donor (portrait; no inscription surviving)</desc>                    
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -452,6 +452,7 @@
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>4: 334</citedRange></bibl>  
                         <bibl><ptr target="bibliography.xml#Stewart2020"/><citedRange>163, 172-73</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 344-55</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>385-91, cat. 7.a-e</citedRange></bibl>
                     </listBibl>
                 </place>
                 
