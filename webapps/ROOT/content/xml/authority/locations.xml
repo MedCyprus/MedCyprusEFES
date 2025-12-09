@@ -589,11 +589,11 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Five-domed basilica, with a small domed tetraconch attached to its southeast corner; narthex subsequently added to the west (19th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="0701" notAfter="0900" precision="low" evidence="style">8th or 9th century</date> (eastern dome above bema)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="0901" notAfter="1000" precision="low" evidence="style">10th century</date> (nave)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1101" notAfter="1133" precision="low" evidence="style">Early 12th century</date> (bema; nave)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1301" notAfter="1400" precision="low" evidence="style">14th century</date> (nave; south aisle)</desc>
-                        <desc type="layer" n="5">5th layer: <date notBefore="1467" notAfter="1533" precision="low" evidence="style">Late 15th - Early 16th century</date> (bema; central and western domes of nave; nave)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="0701" notAfter="0900" precision="medium" evidence="artistic-style">8th or 9th century</date> (eastern dome above bema)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="0901" notAfter="1000" precision="medium" evidence="artistic-style">10th century</date> (nave)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">Early 12th century</date> (bema; nave)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (nave; south aisle)</desc>
+                        <desc type="layer" n="5">5th layer: <date notBefore="1467" notAfter="1533" precision="medium" evidence="artistic-style">Late 15th - Early 16th century</date> (bema; central and western domes of nave; nave)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1955, 1974, 1976, 1977, 1994, 1995, 2003 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -642,13 +642,12 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed triconch church (today, ruinous), with northwest <ref target="#GialiaChapel">chapel of Saint George</ref> and western porch extending in front of both main church and chapel added subsequently</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1051" notAfter="1100" precision="low" evidence="style">second half of 11th century</date> (bema; naos)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1150" precision="low" evidence="style">first half of 12th century </date> (western porch)</desc>                    </desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1051" notAfter="1100" precision="medium" evidence="artistic-style">second half of 11th century</date> (bema; naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1150" precision="medium" evidence="artistic-style">first half of 12th century </date> (western porch)</desc>                    </desc>
                     <desc type="conservation">Very fragmentary; poorly preserved. Fragments of painted plaster revealed during excavations are kept in the <ref target="locations.xml#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning:  2011, 2013, 2015 (DAC?)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknwon</desc>
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Gagoshidze2014a"/><citedRange>90-93</citedRange></bibl></desc>
-
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0052.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/hu/749/</idno>
                     <idno type="geonames">https://www.geonames.org/maps/google_35.0895_32.555.html</idno>
@@ -679,12 +678,11 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed-hall chapel, annexed to the northwest of the <ref target="#GialiaKatholikon">main church</ref> of the monastery</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1150" precision="low" evidence="style">first half of 12th century</date> (naos; western porch)</desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1150" precision="medium" evidence="artistic-style">first half of 12th century</date> (naos; western porch)</desc>
                     </desc>
                     <desc type="conservation">very fragmentary; poorly preserved. Fragments of painted plaster revealed during excavations are kept in the <ref target="locations.xml#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning:  2011, 2013, 2015 (DAC?)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
-
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Gagoshidze2014a"/><citedRange>90-93</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0052.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/hu/749/</idno>
@@ -701,6 +699,7 @@
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>4: 352</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gagoshidze2014a"/></bibl>
                         <bibl><ptr target="bibliography.xml#Gagoshidze2014b"/></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>130</citedRange></bibl>
                     </listBibl>
                 </place>
                 
