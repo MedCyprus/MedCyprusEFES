@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Lamentation, Christ</title>
+                <title>Entombment, Christ</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -48,10 +48,8 @@
                         <origin>
                             <origPlace ref="locations.xml#KoutsoventisSaviour">Koutsoventis, Monastery of Saint John Chrysostom, Saviour</origPlace>
                             <origDate notBefore="1101" notAfter="1133" precision="medium">Early 12th century</origDate>
-                        </origin>
-                        <provenance when="2025">Not accessible; located in a Turkish military zone in occupied north Cyprus.
-                        </provenance>    
-                        <provenance type="observed">Currently inaccessible</provenance>
+                        </origin>    
+                        <provenance type="not-observed">Currently inaccessible (located in a Turkish military zone in occupied north Cyprus)</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
