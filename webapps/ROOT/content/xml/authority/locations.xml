@@ -992,7 +992,7 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Rock-cut, double-bay chapel</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1300" precision="medium">13th century</date> (bema)</desc>
+                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</date> (bema)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poor state of preservation. Fragments of murals were detached and are now kept in storage at the Department of Antiquities, Cyprus. Conservation/cleaning: 2002-2008 (DAC) </desc>
                     <desc type="donors">Unknown</desc>
@@ -1029,9 +1029,9 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Domed-hall church, with narthex added subsequently (20th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1233" precision="medium">late 12th century - early 13th century</date> (bema; dome; naos: south central recess, southwestern recess) </desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (naos: west vault)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1901" notAfter="1933" precision="medium">early 20th century</date> (naos: north central recess, nothwestern recess)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style">late 12th century - early 13th century</date> (bema; dome; naos: south central recess, southwestern recess) </desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium" evidence="artistic-style">15th century</date> (naos: west vault)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1901" notAfter="1933" precision="medium" evidence="artistic-style">early 20th century</date> (naos: north central recess, nothwestern recess)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary</desc>
                     <desc type="donors">1st layer: one supplicatory inscription in the bema makes reference to the priest Michael (son of?) Pileas, who may have contributed to the decoration of the church <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->; a second fragmentary inscription in the naos that makes reference to the wife(?) of one Sakellares is in all probability a funerary one <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->.</desc>
@@ -1056,6 +1056,7 @@
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>626-27</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>166-77</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>3: 35-37</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>73-82, 139-40, cat. 19.a-b</citedRange></bibl>
                     </listBibl>
                 </place>
                 
