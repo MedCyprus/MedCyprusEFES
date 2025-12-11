@@ -422,7 +422,7 @@
                     <desc type="architectural">Domed-hall church, with twin apses inscribed into the eastern curved wall; narthex subsequently added to the west</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style">11th century</date> (bema)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style iconography">13th century</date> (naos: south central recess)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style material-context">13th century</date> (naos: south central recess)</desc>
                         <desc type="layer" n="3">3st layer: <date notBefore="1201" notAfter="1400" precision="medium" evidence="artistic-style">13th or 14th century</date> (naos: central bay)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1201" notAfter="1500" precision="medium" evidence="artistic-style">14th or 15th century</date> (naos: western bay)</desc>
                     </desc>
@@ -540,7 +540,7 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style"  source="bibliography.xml#EcclesMon">Philotheou, Petrou: 11th century;</date> 
                             <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">MedCyprus: 13th century</date> (naos: south crossarm, east wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1233" precision="medium" evidence="artistic-style iconography">Early 13th century</date> (naos: north and south crossarms)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1233" precision="medium" evidence="artistic-style material-context">Early 13th century</date> (naos: north and south crossarms)</desc>
                         <desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style">Late 13th century</date> (narthex)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1533" precision="medium" evidence="artistic-style">15th century or early 16th century</date> (dome; naos: north and south crossarms, western vault)</desc>
                         <desc type="layer" n="5">5th layer: <date when="1896" precision="high">1896</date> (naos: north and south crossarms)</desc>
@@ -776,8 +776,8 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Original structure of uncertain type, since only part of the north wall survives incorporated into the present-day two-aisled timber roofed church, which was constructed in the 14th/15th century and expanded in the early 20th century</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (prothesis; naos: northwestern recess)</desc>                        
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (naos: central recess of north wall)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">early 12th century</date> (prothesis; naos: northwestern recess)</desc>                        
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium" evidence="artistic-style">15th century</date> (naos: central recess of north wall)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1972, 2006-2007 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -803,6 +803,7 @@
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>2: 283-86</citedRange></bibl> 
                         <bibl><ptr target="bibliography.xml#VisCult"/><citedRange>1: 688-96</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>1: 104-13</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>445-47, cat. 17</citedRange></bibl>
                     </listBibl>
                 </place>
                 
