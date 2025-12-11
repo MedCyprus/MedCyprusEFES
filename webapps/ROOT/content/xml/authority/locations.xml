@@ -1067,12 +1067,13 @@
                     <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.76138313281389, 32.4123872854924</geo></location>
-                    <desc type="construction"><date notBefore="1101" notAfter="1167" precision="medium" evidence="murals">Prior to the late 12th century (date of 1st layer of painted decoration)</date></desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1167" precision="medium">Prior to the late 12th century (date of 1st layer of painted decoration)</date></desc>
                     <desc type="function"><term>Pilgrimage</term>(?)</desc>
                     <desc type="context"><term>Urban</term></desc>
                     <desc type="architectural">Chamber of a Hellenestic(?) rock-cut tomb, converted into a single-cell chapel</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium" source="bibliography.xml#Papageorgiou1996 bibliography.xml#Stylianou1997">Papageorgiou, Stylianou: late 12th century</date> <date notBefore="1301" notAfter="1400" precision="medium" source="bibliography.xml#HatfieldYoung1978 bibliography.xml#Konstantinidi2008">Hatfield Young, Konstandinidi: 14th century</date> (bema)</desc>                                                <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (naos)</desc>
+                        <desc type="layer" n="1">1st layer:<date notBefore="1167" notAfter="1200" precision="medium" evidence="artistic-style" source="bibliography.xml#Papageorgiou1996 bibliography.xml#Stylianou1997">Papageorgiou, Stylianou: late 12th century</date> <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style" source="bibliography.xml#HatfieldYoung1978 bibliography.xml#Konstantinidi2008">Hatfield Young, Konstandinidi: 14th century</date> (bema)</desc>                                                
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (naos)</desc>
                     </desc>
                     <desc type="conservation">Poor condition; badly damaged. Conservation/cleaning: 1980, 2005 (DAC)</desc>
                     <desc type="donors">1st layer(?): a fragmentary inscription <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)--> makes reference to a priest and caretaker of the church. Whether he was a donor remains unclear.</desc>
@@ -1116,11 +1117,11 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Originally, a domed pier cross-in-square church; extensively rebuilt in the 15th century; south porch added at an unknown date</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="0867" notAfter="0933" precision="medium">late 9th or early 10th century</date> (naos: piers originally supporting the dome)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1001" notAfter="1100" precision="medium">11th century</date> (naos: west wall)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (naos: soffits of arches connecting western piers with west wall)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1151" notAfter="1200" precision="medium">second half of 12th century</date> (naos: piers originally supporting the dome)</desc>
-                        <desc type="layer" n="5">5th layer: <date notBefore="1167" notAfter="1233" precision="medium">late 12th - early 13th century</date> (naos: piers originally supporting the dome, vaults of north and south crossarms)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="0867" notAfter="0933" precision="medium" evidence="artistic-style">late 9th or early 10th century</date> (naos: piers originally supporting the dome)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style">11th century</date> (naos: west wall)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">early 12th century</date> (naos: soffits of arches connecting western piers with west wall)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1151" notAfter="1200" precision="medium" evidence="artistic-style">second half of 12th century</date> (naos: piers originally supporting the dome)</desc>
+                        <desc type="layer" n="5">5th layer: <date notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style">late 12th - early 13th century</date> (naos: piers originally supporting the dome, vaults of north and south crossarms)</desc>
                     </desc>
                     <desc type="conservation">Partially preserved. Some of the murals have been detached and are now on display at the <ref target="#KykkosMuseum">Museum of the Kykkos Monastery</ref>. Conservation/cleaning: 1977, 1980-2000, 2002-2005, 2007-2008 (DAC) </desc>
                     <desc type="donors">A number of fragmentary inscriptions survive associated with votive panels of the 4th and 5th layers of painted decoration, see <!--<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>, <ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>, <ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref> + --></desc>
@@ -1152,6 +1153,7 @@
                         <bibl><ptr target="bibliography.xml#Perdiki2014a"/></bibl>
                         <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2:220-24</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>2: 432-45</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>72, 76-77, cat. 20.a-b</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -1166,14 +1168,14 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Domed pier cross-in-square church, incorporating the apse of an Early Byzantine basilica (5th century?) to the east, with the north and south chapels and western extension added subsequently</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300" precision="medium">13th century</date> (bema; naos: eastern and southwestern piers; north chapel)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (north chapel)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1401" notAfter="1600" precision="medium">15th or sixteenth century</date> (north chapel)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</date> (bema; naos: eastern and southwestern piers; north chapel)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (north chapel)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1401" notAfter="1600" precision="medium" evidence="artistic-style">15th or 16th century</date> (north chapel)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Condition varies, from well to poorly preserved. Conservation/cleaning: 1965, 1972, 1975, 1979, 1983-1984, 1995 (DAC)</desc>
                     <desc type="donors">
                         1st layer: one Leo or Leontios <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)--> associated with the panel of St John the Baptist on the northwestern pier of the naos.
-                        3rd layer: poorly preserved portrait of male(?) donor associated with mural of Sts Kosmas and Damian in the northwester recess of the north chapel. 
+                        3rd layer: poorly preserved portrait of male(?) donor associated with mural of Sts Kosmas and Damian in the northwestern recess of the north chapel. 
                     </desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>349, 353-54, 375</citedRange></bibl></desc>
@@ -1183,6 +1185,7 @@
                     <idno type="geonames">https://www.geonames.org/4727/panagia-angeloktistos.html</idno>
                     <listBibl type="inscriptions">
                         <bibl><ptr target="bibliography.xml#Foulias2004"/><citedRange>28</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>cat. 21</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>185-87</citedRange></bibl>
@@ -1199,6 +1202,7 @@
                         <bibl><ptr target="bibliography.xml#Kappas2009"/><citedRange>2: 91-95</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2010, 33-34</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>1: 58-59</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>77-78, cat. 21</citedRange></bibl>
                     </listBibl>
                 </place>
                 
