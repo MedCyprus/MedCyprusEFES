@@ -1660,9 +1660,9 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed-hall church</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1233" precision="medium">early 13th century</date> (bema; dome)</desc>
+                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1233" precision="medium" evidence="artistic-style">early 13th century</date> (bema; dome)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary; very good state of preservation. Sometime between 1974 and 1983 the murals were detached by looters to be sold abroad. In 1984 they were obtained by the Menil Foundation on behalf of the Church of Cyprus and were put on display at the Menil Collection, Houston TX. In 2012 the murals were repatriated and are now on housed in the <ref target="#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</ref>. Conservation/cleaning: 1972 (DAC), 1984-1988 (Menil Foundation)</desc>
+                    <desc type="conservation">Fragmentary; very good state of preservation. Sometime between 1974 and 1983 the murals were detached by looters to be sold abroad. In 1984 they were obtained by the Menil Foundation on behalf of the Church of Cyprus and were put on display at the Menil Collection, Houston TX. In 2012 the murals were repatriated and are now on display in the <ref target="#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</ref>. Conservation/cleaning: 1972 (DAC), 1984-1988 (Menil Foundation)</desc>
                     <desc type="donors">The hieromonk and abbot Laurentios <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)--></desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -1685,6 +1685,7 @@
                         <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>55-64</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>235-40</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>7: 206-07</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>83-85, cat. 28</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -1700,14 +1701,14 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Pier, vaulted, three-aisled basilica, incorporating the central apse of an Early Byzantine column basilica, with a dome over the central nave and a drumless dome above the bema, a narthex to the west with a dome over its central bay, and a porch to the south. Form, the result of successive, difficult-to-date building phases.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="0701" notAfter="0800" precision="medium">8th century</date> (nave)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="0851" notAfter="0950" precision="medium">second half of 9th century - first half of 10th century</date> (bema; nave)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (bema; nave)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1490" notAfter="1510" precision="low">ca 1500</date> (bema; dome; nave; aisles; south porch)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="0701" notAfter="0800" precision="medium" evidence="artistic-style">8th century</date> (nave)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="0851" notAfter="0950" precision="medium" evidence="artistic-style prosopography">second half of 9th century - first half of 10th century</date> (bema; nave)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style">12th century</date> (bema; nave)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1490" notAfter="1510" precision="low" evidence="artistic-style material-context">ca 1500</date> (bema; dome; nave; aisles; south porch)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poorly preserved. Conservation/cleaning: 1950 (DAC)</desc>
                     <desc type="donors">
-                        2nd layer: a fragmentary painted inscription on the southwest pier makes mention of one deacon(?) John, the archbishop Theodore(?) (of Cyprus?), the patriarch(?) Solomon of Jerusalem (ca 860-865), and one Eustathius; the nature of their involvement with the church is unclear.
+                        2nd layer: a fragmentary painted inscription on the southwest pier makes mention of one deacon(?) John, the archbishop Theodore(?) (of Cyprus?), the patriarch(?) Solomon of Jerusalem (ca 860-865), and one Eustathius; the nature of their involvement with the church is unclear (<ref target="MedCY.040.001.html">MedCY.040.001</ref>).
                         4th layer: portrait of a man and a woman, either his (deceased?) wife or daughter, on the lunette above the south door; neither their names nor their relation survive in the fragmentary inscription that accompanies the portrait.
                     </desc>
                     <desc type="painter">Unknown</desc>
