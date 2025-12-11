@@ -818,11 +818,11 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed octagon church, with narthex and south portico added subsequently (16th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium">late 12th century</date> (bema; naos)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1467" notAfter="1500" precision="medium">late 15th century</date> (naos: north and south walls)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1601" notAfter="1700" precision="medium">17th century</date> (narthex)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium" evidence="artistic-style">late 12th century</date> (bema; naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1467" notAfter="1500" precision="medium" evidence="artistic-style">late 15th century</date> (naos: north and south walls)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1601" notAfter="1700" precision="medium" evidence="artistic-style">17th century</date> (narthex)</desc>
                     </desc>
-                    <desc type="conservation">Prior to 1974, good state of preservation; after 1974, the murals were mutilated and/or detached and illegaly exported; some were repatriated and are now kept in the <ref target="#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</ref>. Conservation/cleaning: 1962, 1969, 1971-1972 (DAC)</desc>
+                    <desc type="conservation">Prior to 1974, good state of preservation; after 1974, the murals were mutilated and/or detached and illegaly exported; some were repatriated and are now displayed in the <ref target="#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</ref>. Conservation/cleaning: 1962, 1969, 1971-1972 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed (M. G. Trentin)</desc>
@@ -861,8 +861,8 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Originally, a single-aisled structure, either vaulted or domed, attached to the north of <ref target="#KalopanagiotisKatholikon">the church of Saint Herakleidios</ref>, to house the tomb of the saint; today, only the eastern part of the north wall survives, incorporated into a later structure of the 18th century</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1200" precision="medium" source="bibliography.xml#Papageorgiou2012a">Papageorgiou: 12th century</date>
-                            <date notBefore="1251" notAfter="1300" precision="medium" source="bibliography.xml#Perdiki2023">Perdiki: second half of 13th century</date></desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic style" source="bibliography.xml#Papageorgiou2012a">Papageorgiou: 12th century</date>
+                            <date notBefore="1251" notAfter="1300" precision="medium" evidence="artistic style" source="bibliography.xml#Perdiki2023">Perdiki: second half of 13th century</date></desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1968-1973, 2001 (DAC), 2007-2012 (Courtauld Institute of Art)
                     </desc>
@@ -900,11 +900,11 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Domed pier cross-in-square church, with <ref target="KalopanagiotisChapel">the chapel of Saint John Lampadistes</ref>, the so-called chapel of the Akathistos Hymn, and the narthex added subsequently (15th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium">11th century</date> (bema)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (bema)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1251" notAfter="1300" precision="medium">second half of 13th century</date> (dome; naos: central bay, south vault, west crossarm, west wall)</desc>
-                       <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1433" precision="medium">early 15th century</date> (bema; prothesis; diakonikon; naos: north crossarm, north wall, northwestern and southwestern compartments, south wall)</desc>
-                        <desc type="layer" n="5">5th layer: <date notBefore="1451" notAfter="1500" precision="medium">second half of 15th century</date> (narthex)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style">11th century</date> (bema)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style">12th century</date> (bema)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1251" notAfter="1300" precision="medium" evidence="artistic-style material-context">second half of 13th century</date> (dome; naos: central bay, south vault, west crossarm, west wall)</desc>
+                       <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1433" precision="medium" evidence="artistic-style">early 15th century</date> (bema; prothesis; diakonikon; naos: north crossarm, north wall, northwestern and southwestern compartments, south wall)</desc>
+                        <desc type="layer" n="5">5th layer: <date notBefore="1451" notAfter="1500" precision="medium" evidence="textual-context">second half of 15th century</date> (narthex)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. The murals of the 3rd-5th layers survive in good condition. Conservation/cleaning: 1968-1973, 2001 (DAC), 2007-2012 (Courtauld Institute of Art)</desc>
                     <desc type="donors">
@@ -942,6 +942,7 @@
                         <bibl><ptr target="bibliography.xml#IrakleousBakirtzis2020"/></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>1: 126-43</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Perdiki2023"/><citedRange>33–68</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>71-72, 164-68, 235-36, 326, 419-28, 445-46, 515-33, cat. 18.a-b</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -956,8 +957,8 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Rock-cut, single-cell church, with three shallow niches carved into the eastern wall</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (east wall, below the three niches)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1167" notAfter="1233" precision="medium">late 12th or early 13th century</date> (east wall; south wall: east end; north wall: east end)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">early 12th century</date> (east wall, below the three niches)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style">late 12th or early 13th century</date> (east wall; south wall: east end; north wall: east end)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poor condition. Conservation/cleaning: 1968-1969 (DAC)</desc>
                     <desc type="donors">On the south wall, a fragmentary incised inscription on the plaster mentions one Leontios, monk and abbot of the monastery; whether or not he was involved in the decoration of the church is unclear (prior to the execution of the 2nd layer of painted decoration)</desc>
