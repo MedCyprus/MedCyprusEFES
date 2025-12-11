@@ -716,18 +716,17 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style">11th century</date> (bema; naos: western crossarm)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">early 12th century</date> (walled entrance to the diakonikon)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style">12th century</date>(naos: southwestern corner bay; narthex: central and north bays)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style">12th century</date> (naos: southwestern corner bay; narthex: central and north bays)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1201" notAfter="1400" precision="medium" evidence="artistic-style">13th-14th century</date> (naos: north crossarm; narthex)</desc>
                         <desc type="layer" n="5">5th layer: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (bema; dome; naos: south crossarm; narthex)</desc>
-                        <desc type="layer" n="6">6th layer: <date notBefore="1401" notAfter="1500" precision="medium" evidence="artistic-style">15th century</date> (naos: north crossarm; narthex: central bay)</desc>
+                        <desc type="layer" n="6">6th layer: <date notBefore="1401" notAfter="1500" precision="medium" evidence="artistic-style">15th century</date> (naos: north crossarm; narthex)</desc>
                         <desc type="layer" n="7">7th layer: <date when="1633" evidence="internal-date">1633</date> (naos: eastern piers, west face)</desc> 
                     </desc>
                     <desc type="conservation">Fragmentary; good condition. Murals of the 5th layer (14th century) from the bema were detached and are now displayed in the <ref target="#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</ref>. Conservation/cleaning: 1966, 1968-1975, 1986, 1987, 1992, 2007 (DAC)
                     </desc>
                     <desc type="donors">
-                        2nd layer: monk, whose name has been purposfully erased, but whose portrait survives <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->
-                        4th layer: one John and his wife (<ref target="MedCY.018.045.html">MedCY.018.045</ref>); John Triphyles, with his wife and their children, including his son Paskales <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->
-                        5th layer: the monk Nikon (inscription and portrait in the southwest recess of the narthex)
+                        2nd layer: monk, whose name has been purposfully erased, but whose portrait survives (<ref target="MedCY.018.027.html">MedCY.018.027</ref>)
+                        5th layer: one John and his wife <!--(<ref target="MedCY.018.097.html">MedCY.018.097</ref>)-->; John Triphyles, with his wife and their children, including his son Paskales <!--(<ref target="MedCY.018.084.html">MedCY.018.084</ref>)-->; the monk Nikon (inscription and portrait in the southwest recess of the narthex)
                         7th layer: the priest-monk Philotheos (portrait and inscription)</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/1/"/></desc>
