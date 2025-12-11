@@ -1344,9 +1344,9 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Free-cross domed church, with elongated eastern crossarm; western crossarm subsequently replaced with extant structure and south porch subsequently added</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium" source="bibliography.xml#MKE">Papageorgiou: 12th century, repainted in the 14th; </date>
-                            <date notBefore="1301" notAfter="1400" precision="medium">all other scholars: 14th century</date> (naos)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1600">15th or 16th century</date> (dome; naos)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" evidence="artistic-style" precision="medium" source="bibliography.xml#MKE">Papageorgiou: 12th century, repainted in the 14th; </date>
+                            <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">all other scholars: 14th century</date> (naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1600" precision="medium" evidence="artistic-style">15th or 16th century</date> (dome; naos)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; good condition. Conservation/cleaning: 1993 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -1385,10 +1385,10 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed-hall church, with vaulted narthex to the west</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1095" notAfter="1105" precision="low">ca 1100</date> (bema; dome; naos; narthex)</desc>
+                        <desc type="layer" n="1"><date notBefore="1095" notAfter="1105" precision="low" evidence="office prosopography titulature">ca 1100</date> (bema; dome; naos; narthex)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; up to 1974, good condition. After 1974, the monument became inaccessible, so the condition of the murals cannot be evaluated. Conservation/cleaning: 1963-1969 (Dumbarton Oaks)</desc>
-                    <desc type="donors">The doux of Cyprus, Eumathios Philokales (<ref target="MedCY.033.001.html">MedCY.033.001</ref>, <!--<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>-->)</desc>
+                    <desc type="donors">The doux of Cyprus, Eumathios Philokales (<ref target="MedCY.033.006.html">MedCY.033.006</ref>, <ref target="MedCY.033.007.html">MedCY.033.007</ref>)</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#MangoHawkinsBoyd1990"/><citedRange>81,86</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0064.html</idno>
@@ -1436,7 +1436,7 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed-hall chapel (today, ruinous), attached to the north side of the <ref target="#KoutsoventisSaviour">chapel of the Saviour</ref></desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1167" notAfter="1233" precision="medium">late 12th or early 13th century</date> (naos: north wall, southwest recess)</desc>
+                        <desc type="layer" n="1"><date notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style">late 12th or early 13th century</date> (naos: north wall, southwest recess)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; prior to to 1974, fair condition. After 1974, the monument became inaccessible, so the condition of the murals cannot be evaluated. Conservation/cleaning: 1956 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -1474,7 +1474,7 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed-hall church (today, ruinous), with narthex added subsequently to the west and the <ref target="#KoutsoventisPanagia">chapel of Panagia Aphendrika</ref> added to the north</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (bema; naos: north wall)</desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">early 12th century</date> (bema; naos: north wall)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; prior to to 1974, fair condition. After 1974, the monument became inaccessible, so the condition of the murals cannot be evaluated. Conservation/cleaning: 1930s, 1956 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -1516,10 +1516,10 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed-hall church, with an apsidal narthex added subsequently to the west (ca 1200); the narthex was replaced by the one extant today in the late 18th century</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1170" notAfter="1178" precision="medium" >1170s </date> (bema: apse)</desc>
-                        <desc type="layer" n="2">2nd layer: <date when="1192" precision="high" >1192</date> (bema; dome; naos)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1330" notAfter="1340" precision="low">ca 1332/3</date> (narthex: east wall; exterior of north wall: lunette above north door)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1601" notAfter="1650" precision="medium" >first half of 17th century</date> (exterior of north wall)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1170" notAfter="1178" precision="medium" evidence="artistic-style">1170s </date> (bema: apse)</desc>
+                        <desc type="layer" n="2">2nd layer: <date when="1192" evidence="internal-date" >1192</date> (bema; dome; naos)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1330" notAfter="1340" precision="low" evidence="artistic-style lettering">ca 1332/3</date> (narthex: east wall; exterior of north wall: lunette above north door)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1601" notAfter="1650" precision="medium" evidence="artistic-style">first half of 17th century</date> (exterior of north wall)</desc>
                     </desc>
                     <desc type="conservation">Excellent. Conservation/cleaning: 1968-1973 (Dumbarton Oaks), 1977 (DAC)</desc>
                     <desc type="donors">2nd layer: Leo Authentes (<ref target="MedCY.036.107.html">MedCY.036.107</ref>, <ref target="MedCY.036.152.html">MedCY.036.152</ref>)</desc>                    
@@ -1540,6 +1540,7 @@
                         <bibl><ptr target="bibliography.xml#Agapitos2018"/><citedRange>89-96</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Konstantinidi2018"/><citedRange>49-88</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#VisCult"/><citedRange> 1: 199-213</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>cat. 26.a-b </citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>306</citedRange></bibl>
@@ -1557,7 +1558,8 @@
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>2: 378-82</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#SneldersImmerzeel2012-13"/><citedRange>83-86</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2018"/></bibl>
-                        <bibl><ptr target="bibliography.xml#Touliatos2021"/><citedRange>266-87</citedRange></bibl>     
+                        <bibl><ptr target="bibliography.xml#Touliatos2021"/><citedRange>266-87</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>51-71, 371, cat. 26.a-b</citedRange></bibl>
                  </listBibl>
                 </place>
                     
@@ -1572,7 +1574,7 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Domed pier cross-in-square church, built over the nave of an Early Byzantine basilica and incorporating its eastern central apse; domed narthex added during the 12th century to the west; exonarthex and western porch added subsequently (15th/16th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1150">first half of 12th century</date> (bema)</desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1150" precision="medium" evidence="artistic-style">first half of 12th century</date> (bema)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poor state of preservation. Conservation/cleaning: - </desc>
                     <desc type="donors">Unknown</desc>
@@ -1614,8 +1616,8 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Domed pier cross-in-square church</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300">13th century</date> (bema: apse wall; naos: southwestern pier, soffits of arches connecting western piers to the west wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500">15th century</date> (bema; naos)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</date> (bema: apse wall; naos: southwestern pier, soffits of arches connecting western piers to the west wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium" evidence="artistic-style">15th century</date> (bema; naos)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; fair condition. Conservation/cleaning: 1955-1956, 1984-1985, 1987-1990, 1999 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
