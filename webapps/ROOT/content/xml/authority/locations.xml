@@ -1220,9 +1220,9 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Domed-hall church with elongated eastern and western bays, built on the remains of an Early Byzantine basilica (7th century?) </desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1151" notAfter="1200" precision="medium">second half of 12th century</date> (bema; naos: north and south walls)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1367" notAfter="1400" precision="medium">late 14th century</date> (naos: north and south walls)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (naos: south central recess)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1151" notAfter="1200" precision="medium" evidence="artistic-style">second half of 12th century</date> (bema; naos: north and south walls)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1367" notAfter="1400" precision="medium" evidence="artistic-style">late 14th century</date> (naos: north and south walls)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1501" notAfter="1600" precision="medium" evidence="artistic-style">16th century</date> (naos: south central recess)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poor state of preservation. Conservation/cleaning: 1950, 1975, 1999, 2011-2013 (DAC)</desc>
                     <desc type="donors">
@@ -1270,8 +1270,8 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Single-aisled, barrel-vaulted church</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1233" precision="medium" source="bibliography.xml#Chotzakoglou2005">Chotzakoglou: late 12th century - early 13th century;</date>
-                            <date notBefore="1301" notAfter="1500" precision="medium" source="bibliography.xml#Papageorgiou2010">Papageorgiou: 14th or 15th century</date> (bema; naos)</desc>
+                        <desc type="layer" n="1"><date notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style" source="bibliography.xml#Chotzakoglou2005">Chotzakoglou: late 12th century - early 13th century;</date>
+                            <date notBefore="1301" notAfter="1500" precision="medium" evidence="artistic-style" source="bibliography.xml#Papageorgiou2010">Papageorgiou: 14th or 15th century</date> (bema; naos)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poorly preserved. After 1974, sections of the murals were detached by looters; their current location is unknown. Conservation/cleaning: 1967 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -1305,8 +1305,8 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Single-aisled vaulted chapel</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="0701" notAfter="0800" precision="medium">8th century</date> (bema; naos: north wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="0801" notAfter="0900" precision="medium">9th century</date> (bema; naos: vault, north and south walls)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="0701" notAfter="0800" precision="medium" evidence="artistic-style">8th century</date> (bema; naos: north wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="0801" notAfter="0900" precision="medium" evidence="artistic-style">9th century</date> (bema; naos: vault, north and south walls)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poorly preserved. After 1974, sections of the murals were detached by looters and illegally exported abroad. Conservation/cleaning: 1967 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
