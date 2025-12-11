@@ -714,15 +714,15 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Domed pier cross-in-square church, with narthex subsequently added (12th century); the saddleback timber roof covering both was in place by the 13th century</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium">11th century</date> (bema; naos: western crossarm)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (walled entrance to the diakonikon)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1101" notAfter="1200" precision="medium">12th century</date>(naos: southwestern corner bay; narthex: central and north bays)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1201" notAfter="1400" precision="medium">13th-14th century</date> (naos: north crossarm; narthex)</desc>
-                        <desc type="layer" n="5">5th layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (bema; dome; naos: south crossarm; narthex)</desc>
-                        <desc type="layer" n="6">6th layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (naos: north crossarm; narthex: central bay)</desc>
-                        <desc type="layer" n="7">7th layer: <date when="1633" precision="high">1633</date> (naos: eastern piers, west face)</desc> 
+                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style">11th century</date> (bema; naos: western crossarm)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">early 12th century</date> (walled entrance to the diakonikon)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style">12th century</date>(naos: southwestern corner bay; narthex: central and north bays)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1201" notAfter="1400" precision="medium" evidence="artistic-style">13th-14th century</date> (naos: north crossarm; narthex)</desc>
+                        <desc type="layer" n="5">5th layer: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (bema; dome; naos: south crossarm; narthex)</desc>
+                        <desc type="layer" n="6">6th layer: <date notBefore="1401" notAfter="1500" precision="medium" evidence="artistic-style">15th century</date> (naos: north crossarm; narthex: central bay)</desc>
+                        <desc type="layer" n="7">7th layer: <date when="1633" evidence="internal-date">1633</date> (naos: eastern piers, west face)</desc> 
                     </desc>
-                    <desc type="conservation">Fragmentary; good condition. Murals of the 4th layer (14th century) from the bema were detached and are now displayed in the <ref target="#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</ref>. Conservation/cleaning: 1966, 1968-1975, 1986, 1987, 1992, 2007 (DAC)
+                    <desc type="conservation">Fragmentary; good condition. Murals of the 5th layer (14th century) from the bema were detached and are now displayed in the <ref target="#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</ref>. Conservation/cleaning: 1966, 1968-1975, 1986, 1987, 1992, 2007 (DAC)
                     </desc>
                     <desc type="donors">
                         2nd layer: monk, whose name has been purposfully erased, but whose portrait survives <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->
@@ -740,6 +740,7 @@
                         <bibl><ptr target="bibliography.xml#Stylianou1951"/></bibl>
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange>317-19</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#VisCult"/><citedRange>1: 688-96</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>cat. 16.b-d</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>286</citedRange></bibl>
@@ -761,6 +762,7 @@
                         <bibl><ptr target="bibliography.xml#SneldersImmerzeel2012-13"/><citedRange>80-81</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#VisCult"/><citedRange>1: 688-96</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Bakirtzis2022"/></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>34, 371-85, cat. 16.b-d</citedRange></bibl>
                     </listBibl>
                 </place>
                 
