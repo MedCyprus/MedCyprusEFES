@@ -44,14 +44,14 @@
                          <decoDesc>
                             <p><rs type="iconography" ref="#Ioasaph">Ioasaph</rs>                               
                                    <rs type="iconography" ref="#male"></rs>
-                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#monastic"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Kakopetria">Kakopetria, Saint Nicholas of the Roof</origPlace>
-                            <origDate notBefore="1201" notAfter="1400" precision="medium">Late 13th-Early 14th century</origDate>
+                            <origDate notBefore="1101" notAfter="1200" precision="medium">12th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
