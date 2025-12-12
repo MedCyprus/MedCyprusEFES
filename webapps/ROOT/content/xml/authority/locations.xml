@@ -2007,8 +2007,8 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Single-aisled vaulted church, with a sail-vault narthex to the west</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1267" notAfter="1300">late 13th century</date> (narthex)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600">16th century</date> (bema; naos; narthex)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1267" notAfter="1300" evidence="artistic-style">late 13th century</date> (narthex)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" evidence="artistic-style">16th century</date> (bema; naos; narthex)</desc>
                     </desc>
                     <desc type="conservation">Very fragmentary; poor condition. Conservation/cleaning: 2001-2002 (DAC)</desc>
                     <desc type="donors">1st layer: a Latin family, consting of the parents and at least two children, funded the mural of a Latin saintly prelate (portrait; no inscription survives)</desc>
@@ -2027,6 +2027,7 @@
                         <bibl><ptr target="bibliography.xml#Spanou2002"/><citedRange>43</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>4: 317</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2: 342-43</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>488-90, cat. 34</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -2041,7 +2042,7 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Originally, a domed pier cross-in-square church, of which only the tripartite sanctuary survives incorporated into the 19th-century church that has replaced the original structure</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1250" precision="medium">first half of 13th century</date> (bema: arches leading to the prothesis and the diakonikon)</desc>
+                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1250" precision="medium" evidence="artistic-style">first half of 13th century</date> (bema: arches leading to the prothesis and the diakonikon)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; good state of preservation. Conservation/cleaning: 2007 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -2077,8 +2078,8 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Single-aisled vaulted church, with a sail-vault narthex subsequently added to the west</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium">11th century</date> (naos)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1167" notAfter="1200" precision="medium">late 12th century</date> (bema; naos: north wall; narthex; exterior west wall of narthex)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style">11th century</date> (naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1167" notAfter="1200" precision="medium" evidence="artistic-style">late 12th century</date> (bema; naos: north wall; narthex; exterior west wall of narthex)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poor state of preservation; covered in soot. Conservation/cleaning: 2000 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -2114,14 +2115,14 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Form of original single-aisled church uncertain; currently, a domed-hall church, incororating the apse and lower parts of the naos walls of the 12th-century structure (late 13th/early 14th century), flanked by "chapels"/aisles to the south (late 13th/early 14th century) and the north (14th century) that were expanded to their present width in the 15th/16th century.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date when="1178" precision="high">1178</date> (bema: apse)<!-- date needs to be checked and confirmed; Papacostas: 1171/2 --></desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium">13th century</date> (bema: east wall to the south of the apse; south aisle: north wall)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1335" notAfter="1350" precision="medium" source="bibliography.xml#Zarras2010">Zarras: second quarter of 14th century;</date> <date notBefore="1351" notAfter="1375" precision="medium" source="bibliography.xml#Hadjichristodoulou2005">Hadjichristodoulou: third quarter of 14th century</date>(bema; dome; naos)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1351" notAfter="1375" precision="medium">3rd quarter of the 14th century</date> (north aisle)</desc>
-                        <desc type="layer" n="5">5th layer: <date notBefore="1301" notAfter="1500" precision="medium">14th - 15th century</date> (south aisle: west wall)</desc>
-                        <desc type="layer" n="5">6th layer: <date notBefore="1501" notAfter="1533" precision="medium">early 16th century</date> (naos: south wall)</desc>
+                        <desc type="layer" n="1">1st layer: <date when="1178" evidence="internal-date">1178</date> (bema: apse)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</date> (bema: east wall to the south of the apse; south aisle: north wall)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1335" notAfter="1350" precision="medium" evidence="artistic-style" source="bibliography.xml#Zarras2010">Zarras: second quarter of 14th century;</date> <date notBefore="1351" notAfter="1375" precision="medium" evidence="artistic-style" source="bibliography.xml#Hadjichristodoulou2005">Hadjichristodoulou: third quarter of 14th century</date>(bema; dome; naos)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1351" notAfter="1375" precision="medium" evidence="artistic-style prosopography">3rd quarter of the 14th century</date> (north aisle)</desc>
+                        <desc type="layer" n="5">5th layer: <date notBefore="1301" notAfter="1500" precision="medium" evidence="artistic-style">14th - 15th century</date> (south aisle: west wall)</desc>
+                        <desc type="layer" n="6">6th layer: <date notBefore="1501" notAfter="1533" precision="medium" evidence="artistic-style">early 16th century</date> (naos: south wall)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary; on the whole, good state of preservation; the murals of the 12th century bear extensive hammer marks to prepare the surface for a new painted layer; the 14th-century murals of the bema apse were detached by DAC and relocated to the east wall of the south chapel. Conservation/cleaning: 1972, 1982-1983, 1985-1994, 2002-2003, 2008 (DAC) </desc>
+                    <desc type="conservation">Fragmentary; on the whole, good state of preservation; the murals of the 12th century bear extensive hammer marks to prepare the surface for a new painted layer; the 14th-century murals of the bema apse were detached by DAC and relocated to the east wall of the south aisle. Conservation/cleaning: 1972, 1982-1983, 1985-1994, 2002-2003, 2008 (DAC) </desc>
                     <desc type="donors">
                         1st layer: the priest Georgios, along with the other priests of the village (<ref target="MedCY.048.001.html">MedCY.048.001</ref>)
                         3rd layer: no names survive in the fragmentary dedicatory inscription above the western entrance to the naos. Three funerary portraits of lay men and women, accompanied by inscriptions, on the walls of the naos and on the western facade (lunette above the door); whether they and/or their families contributed to the decoration of the church remains unclear.
@@ -2166,6 +2167,7 @@
                         <bibl><ptr target="bibliography.xmll#Zarras2010"/></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>17: 341-43</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>1: 616-43</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>16, 37, 94-96, 321-29, 391-96, cat. 37.a-f</citedRange></bibl>
                     </listBibl>
                 </place>
                 
