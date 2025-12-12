@@ -2182,8 +2182,8 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Domed-hall church</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1160" notAfter="1180" precision="medium">1160-1180</date> (bema; dome; naos)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (naos: south wall)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1160" notAfter="1180" precision="medium" evidence="artistic-style">1160-1180</date> (bema; dome; naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium" evidence="artistic-style">15th century</date> (naos: south wall)</desc>
                     </desc>
                     <desc type="conservation">Fairly good condition; at points, where the surface paint does not survive, the underpaint is visible. Conservation/cleaning: 1954 (DAC), 1959-1960 (DAC/Byzantine Institute), 1969, 1980, 1998, 2010 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -2214,6 +2214,7 @@
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>2010, 32</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>2: 360-61</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange>1: 266-75</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>34-37</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -2230,8 +2231,8 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Five-domed three-aisled basilica, built on the remains of an Early Byzantine basilica; narthex subsequently added to the west (12th century?)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300" precision="medium">13th century</date> (nave: northeast pier, southwest pier, eastern piers supporting central dome) </desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (nave: northwest pier supporting the central dome)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</date> (nave: northeast pier, southwest pier, eastern piers supporting central dome) </desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="medium" evidence="artistic-style">16th century</date> (nave: northwest pier supporting the central dome)</desc>
                     </desc>
                     <desc type="conservation">Very fragmentary. Conservation/cleaning: 2010 (DAC)</desc>
                     <desc type="donors">2nd layer: a funerary inscription makes reference to one priest Solomos(?), however his association with the decoration of the church remains unclear.</desc>
@@ -2271,7 +2272,7 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Domed-hall church, with narthex subsequently added to the west (15th century). A larger, single-aisled vaulted church was added to the south in 1723.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (bema; dome: pendentives; naos)</desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style">12th century</date> (bema; dome: pendentives; naos)</desc>
                     </desc>
                     <desc type="conservation">Very fragmentary; some murals bear hammer marks. Conservation/cleaning: 2012-2013 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -2303,9 +2304,9 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Single-aisled vaulted church, with a now ruinous narthex subsequently added to the west (date unknown)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium" source="bibliography.xml#Papageorgiou2010">Papageorgiou: 12th century; </date>
-                            <date notBefore="1201" notAfter="1300" precision="medium" source="bibliography.xml#Chotzakoglou2010a">Chotzakoglou: 13th century</date> (bema; naos)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1500" precision="medium">13th century or later</date> (naos: north central recess; southwest recess)</desc> <!--need to see good photos of these to get a better idea about the dating -->
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style" source="bibliography.xml#Papageorgiou2010">Papageorgiou: 12th century; </date>
+                            <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style" source="bibliography.xml#Chotzakoglou2010a">Chotzakoglou: 13th century</date> (bema; naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1500" precision="medium" evidence="artistic-style">13th century or later</date> (naos: north central recess; southwest recess)</desc> <!--need to see good photos of these to get a better idea about the dating -->
                     </desc>
                     <desc type="conservation">Fragmentary; poor state of preservation. Conservation/cleaning: 1967 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -2341,10 +2342,10 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Variation of the simple domed octagon church, with six supports instead of eight; apsidal narthex subsequently added to the west (12th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1090" notAfter="1110" precision="low">ca 1100</date> (bema; naos)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1151" notAfter="1200" precision="medium">second half of 12th century</date> (narthex)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1400" precision="medium">14th century</date> (naos)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1600" precision="medium">15th/16th century</date> (bema; narthex)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1090" notAfter="1110" precision="low" evidence="artistic-style">ca 1100</date> (bema; naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1151" notAfter="1200" precision="medium" evidence="artistic-style">second half of 12th century</date> (narthex)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (naos)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1600" precision="medium" evidence="artistic-style">15th/16th century</date> (bema; narthex)</desc>
                     </desc>
                     <desc type="conservation">Very fragmentary; poor state of preservation. During restoration work in the 1960s, the mural of St Ignatios (3rd layer) was transferred from the northeast pier supporting the dome, to the southeast, in order to reveal earlier murals. After 1974, the murals sufferred serious damage, while sections were detached by looters and illegally exported abroad. Conservation/cleaning: 1963-1964, 1968, 1971 (DAC) </desc>
                     <desc type="donors">Unknown</desc>
