@@ -903,7 +903,7 @@
                         <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style">11th century</date> (bema)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style">12th century</date> (bema)</desc>
                         <desc type="layer" n="3">3rd layer: <date notBefore="1251" notAfter="1300" precision="medium" evidence="artistic-style material-context">second half of 13th century</date> (dome; naos: central bay, south vault, west crossarm, west wall)</desc>
-                       <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1433" precision="medium" evidence="artistic-style">early 15th century</date> (bema; prothesis; diakonikon; naos: north crossarm, north wall, northwestern and southwestern compartments, south wall)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1433" precision="medium" evidence="artistic-style">early 15th century</date> (bema; prothesis; diakonikon; naos: north crossarm, north wall, northwestern and southwestern compartments, south wall)</desc>
                         <desc type="layer" n="5">5th layer: <date notBefore="1451" notAfter="1500" precision="medium" evidence="textual-context">second half of 15th century</date> (narthex)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. The murals of the 3rd-5th layers survive in good condition. Conservation/cleaning: 1968-1973, 2001 (DAC), 2007-2012 (Courtauld Institute of Art)</desc>
@@ -1751,8 +1751,8 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Domed-hall church, built over the nave of a three-aisled domed basilica of the 7th/8th century; at a later unknown date, the western bay was truncated.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (naos)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1467" notAfter="1533" precision="medium">late 15th century - early 16th century</date> (dome and pendentives)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style">12th century</date> (naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1467" notAfter="1533" precision="medium" evidence="artistic-style">late 15th century - early 16th century</date> (dome and pendentives)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poor condition. Conservation/cleaning: 1997, 2014 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -1788,11 +1788,11 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Single-aisled barrel-vaulted church, with a second, timber gable roof.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (bema)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1167" notAfter="1233" precision="medium">late 12th century - early 13th century</date> (bema; naos)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1350" precision="medium">first half of 14th century</date> (naos: west bay)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1450" precision="medium">first half of 15th century</date> (naos: north wall)</desc>
-                        <desc type="layer" n="5">5th layer: <date when="1564" precision="high">1564</date> (bema; naos)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">early 12th century</date> (bema)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style">late 12th century - early 13th century</date> (bema; naos)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1350" precision="medium" evidence="artistic-style">first half of 14th century</date> (naos: west bay)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1450" precision="medium" evidence="artistic-style">first half of 15th century</date> (naos: north wall)</desc>
+                        <desc type="layer" n="5">5th layer: <date when="1564" evidence="internal-date">1564</date> (bema; naos)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; good condition. Conservation/cleaning: 1960 (DAC), 1969-1972 (Dumbarton Oaks), 1990 (DAC), 1992-1994, 1997, 2009 (Courtauld Institute of Art)
                     </desc>
@@ -1831,12 +1831,12 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Single-aisled timber-roofed church, with an L-shaped closed portico along its northern and western sides.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date when="1280-07-30" precision="high">July 30, 1280</date> (bema; naos; exterior of west wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1333" precision="medium">early 14th century </date> (naos: south wall; exterior of west wall)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1467" notAfter="1533" precision="medium"> late 15th century - early 16th century </date> (exterior of north wall)</desc>    
+                        <desc type="layer" n="1">1st layer: <date when="1280-07-30" evidence="internal-date">July 30, 1280</date> (bema; naos; exterior of west wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1333" precision="medium" evidence="artistic-style">early 14th century </date> (naos: south wall; exterior of west wall)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1467" notAfter="1533" precision="medium" evidence="artistic-style"> late 15th century - early 16th century </date> (exterior of north wall)</desc>    
                     </desc>
                     <desc type="conservation">Fragmentary; good condition. Conservation/cleaning: 1968, 2003, 2007 (DAC)</desc>
-                    <desc type="donors"> 1st layer: Ioannes Gerakiotes and his wife Irene funded the construction and the mural decoration of the church (<ref target="MedCY.043.020.html">MedCY.043.020</ref>, <ref target="MedCY.043.021.html">MedCY.043.020</ref>). Christophoros Omotes and his wife Maria funded the mural panel of Saint Christopher on the south wall of the naos (<ref target="MedCY.043.036.html">MedCY.043.036</ref>). Another couple, Georgios Kompotes and his wife Eirene, funded the mural panel with the enthroned Christ on the exterior of the west wall <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->.</desc>
+                    <desc type="donors"> 1st layer: Ioannes Gerakiotes and his wife Irene funded the construction and the mural decoration of the church (<ref target="MedCY.043.020.html">MedCY.043.020</ref>, <ref target="MedCY.043.021.html">MedCY.043.020</ref>). Christophoros Omotes and his wife Maria funded the mural panel of Saint Christopher on the south wall of the naos (<ref target="MedCY.043.036.html">MedCY.043.036</ref>). Another couple, Georgios Kompotes and his wife Eirene, funded the mural panel with the enthroned Christ on the exterior of the west wall (<ref target="MedCY.043.068.html">MedCY.043.068</ref>).</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/6/"/></desc>
                     <idno type="IBCC">Not listed</idno>
@@ -1853,6 +1853,7 @@
                         <bibl><ptr target="bibliography.xml#Rhoby2009"/><citedRange> 334, 341</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#PerdikisMyrianthefs2009"/></bibl>
                         <bibl><ptr target="bibliography.xml#VisCult"/><citedRange> 2: 1480-87</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>cat. 29.c</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>288</citedRange></bibl>
@@ -1879,6 +1880,7 @@
                         <bibl><ptr target="bibliography.xml#PerdikisMyrianthefs2009"/></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>14: 377-80</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Touliatos2021"/><citedRange>318-33</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>156-58, 168-80, 195-228, 295-97, cat.29.a-d </citedRange></bibl>
                     </listBibl>
                 </place>
                                 
@@ -1924,14 +1926,14 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Single-aisled, barrel-vaulted church, with a second, timber gable roof; an apsidal narthex with a domical vault was subseqently added to the west (mid- to late 12th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date when="1105" precision="high">1105/6</date> (bema; naos: west bay; narthex: above entrance into the naos, originally exterior of west wall; exterior of north wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1175" notAfter="1200" precision="medium">last quarter of 12th century</date> (narthex: south apse; east wall on either side of door into naos)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1175" notAfter="1333" precision="medium"> late 12th century - before 1332/3 </date> (narthex: north apse, below mural icon of Archangel Michael)</desc>   
-                        <desc type="layer" n="4">4th layer: <date notBefore="1275" notAfter="1300" precision="medium">last quarter of 13th century</date> (bema; naos: western pilasters; narthex: south apse)</desc>
-                        <desc type="layer" n="5">5th layer: <date when="1332" precision="high"> 1332/3</date> (narthex)</desc>
-                        <desc type="layer" n="6">6th layer: <date notBefore="1333" notAfter="1350" precision="medium"> 1340s</date> (naos: central bay)</desc>
-                        <desc type="layer" n="7">7th layer: <date notBefore="1501" notAfter="1600" precision="medium"> 16th century</date> (naos: east face of northwest pilaster)</desc>
-                        <desc type="layer" n="8">8th layer: <date notBefore="1618" notAfter="1640" precision="medium"> 1618-1640</date> (bema)</desc>
+                        <desc type="layer" n="1">1st layer: <date when="1105" evidence="internal-date">1105/6</date> (bema; naos: west bay; narthex: above entrance into the naos, originally exterior of west wall; exterior of north wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1175" notAfter="1200" precision="medium" evidence="artistic-style">last quarter of 12th century</date> (narthex: south apse; east wall on either side of door into naos)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1175" notAfter="1333" precision="medium" evidence="archaeological-context"> late 12th century - before 1332/3 </date> (narthex: north apse, below mural icon of Archangel Michael)</desc>   
+                        <desc type="layer" n="4">4th layer: <date notBefore="1275" notAfter="1300" precision="medium" evidence="artistic-style">last quarter of 13th century</date> (bema; naos: western pilasters; narthex: south apse)</desc>
+                        <desc type="layer" n="5">5th layer: <date when="1332" evidence="internal-date"> 1332/3</date> (narthex)</desc>
+                        <desc type="layer" n="6">6th layer: <date notBefore="1333" notAfter="1350" precision="medium" evidence="artistic-style"> 1340s</date> (naos: central bay)</desc>
+                        <desc type="layer" n="7">7th layer: <date notBefore="1501" notAfter="1600" precision="medium" evidence="artistic-style"> 16th century</date> (naos: east face of northwest pilaster)</desc>
+                        <desc type="layer" n="8">8th layer: <date notBefore="1618" notAfter="1640" precision="medium" evidence="artistic-style prosopography"> 1618-1640</date> (bema)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; very good state of preservation. Conservation/cleaning: 1954-1955 (DAC), 1965-1967 (Dumbarton Oaks), 1995-1996 (DAC)</desc>
                     <desc type="donors">
