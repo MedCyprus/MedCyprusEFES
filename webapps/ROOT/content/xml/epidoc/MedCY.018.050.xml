@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Last Judgement, James, son of Alphaeus?</title>
+                <title>Last Judgment, James, son of Alphaeus(?)</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,9 +42,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#JamesAlphaeus">James Alphaeus</rs>
-                                  <rs type="iconography" ref="#LastJudgment"></rs>
-                                  <rs type="iconography" ref="#christological"></rs>
+                            <p><rs type="iconography" ref="#LastJudgment">Last Judgment, the apostle James</rs>
+                                  <rs type="iconography" ref="#JamesAlphaeus"></rs>
+                                 <rs type="iconography" ref="#JamesZebedee"></rs>
+                                  <rs type="iconography" ref="#eschatological"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
