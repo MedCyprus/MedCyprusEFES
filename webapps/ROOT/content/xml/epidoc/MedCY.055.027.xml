@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Last Judgement, the falsifier of weight</title>
+                <title>Last Judgment, the falsifier of weights</title>
                 <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -39,7 +39,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#LastJudgment">Last Judgment, the falsifier of weight</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#LastJudgment">Last Judgment, the falsifier of weights</rs>
+                                <rs type="iconography" ref="iconography.xml#LastJudgmentSinnersInHell"></rs>
+                                <rs type="iconography" ref="iconography.xml#Falsifier"></rs>
+                                <rs type="iconography" ref="iconography.xml#eschatological"></rs>
+                            </p>
                             </decoDesc>
                     </physDesc>
                     <history>
