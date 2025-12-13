@@ -145,8 +145,8 @@
                 <item xml:id="WashingOfTheFeet">
                     <term xml:lang="en">Washing of the Feet</term>
                 </item>
-                <item xml:id="JudgementOfPilate">
-                    <term xml:lang="en">Judgement of Pilate</term>
+                <item xml:id="JudgmentOfPilate">
+                    <term xml:lang="en">Judgment of Pilate</term>
                 </item>
                 <item xml:id="RoadToCalvary">
                     <term xml:lang="en">Road to Calvary</term>
@@ -677,6 +677,9 @@
                 </item>
                 <item xml:id="Phylon">
                     <term xml:lang="en">Phylon</term>
+                </item>
+                <item xml:id="Pilate">
+                    <term xml:lang="en">Pontius Pilate</term>
                 </item>
                 <item xml:id="Poemen">
                     <term xml:lang="en">Poemen</term>
