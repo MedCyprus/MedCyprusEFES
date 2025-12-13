@@ -42,8 +42,8 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#LastJudgment">Last Judgment, the scale of Justice</rs>
-                                <rs type="iconography" ref="#LastJudgmentScale"></rs>
+                            <p><rs type="iconography" ref="#LastJudgmentScale" >Last Judgment, the scale of Justice</rs>
+                                <rs type="iconography" ref="#LastJudgment"></rs>
                                 <rs type="iconography" ref="#eschatological"></rs>
                             </p>
                         </decoDesc>
