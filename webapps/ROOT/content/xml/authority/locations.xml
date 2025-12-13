@@ -2694,7 +2694,7 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">In ruins, original form uncertain; single-aisled vaulted structure.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1300" precision="medium">13th century</date> (naos)</desc>
+                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</date> (naos)</desc>
                     </desc>
                     <desc type="conservation">Very fragmentary; poor state of preservation. Conservation/cleaning: 2004 (DAC). The surviving murals were detached and transferred to the conservation workshops of DAC in Paphos.</desc>
                     <desc type="donors">Unknown</desc>
@@ -2726,10 +2726,10 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Originally, a domed-hall structure, though with cylindrical engaged piers supporting the dome; north aisle/"chapel" and successive western extensions subsequently added</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (bema; dome; naos)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (naos: southwest recess)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (north aisle)</desc>
-                        <desc type="layer" n="4">4th layer: <date when="1959" precision="high">1959</date> (prothesis)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">early 12th century</date> (bema; dome; naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium" evidence="artistic-style">15th century</date> (naos: southwest recess)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1501" notAfter="1600" precision="medium" evidence="artistic-style">16th century</date> (north aisle)</desc>
+                        <desc type="layer" n="4">4th layer: <date when="1959" evidence="internal-date">1959</date> (prothesis)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; good state of presevation. Conservation/cleaning: 1965-1966 (Greek Archaeological Service), 2008 (TCCH - unofficial emergency work)
                     </desc>
@@ -2771,6 +2771,7 @@
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>7: 230-32</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#HadjichristodoulouFoulias2020"/></bibl>
                         <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2: 471-73</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>33-34</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -2787,7 +2788,7 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Single-aisled vaulted church</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (bema; naos)</desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style">12th century</date> (bema; naos)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; very poor state of preservation. Conservation/cleaning: 1973, 2008 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
