@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Character size varies. Tau is written superscript on Eta. Final sigma in the form of a wavy line. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -78,7 +78,18 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab><cb n="a"/>
+                    <lb n="1"/>Ὁ
+                  <lb n="2"/><persName type="sacred" key="Ezekiel"><w lemma="προφήτης">π
+                     <lb n="3" break="no"/>ρο
+                     <lb n="4" break="no"/>φήτ<supplied reason="omitted">η</supplied>ς</w>
+                      <cb n="b"/>
+                        <lb n="1"/><name type="forename" nymRef="#Ἰεζεκιήλ"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>
+                        <lb n="2" break="no"/>ε
+                        <lb n="3" break="no"/>ζε
+                        <lb n="4" break="no"/>κι
+                        <lb n="5" break="no"/><choice><orig>η</orig><reg>ή</reg></choice>
+                          <lb n="6" break="no"/>λ</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
