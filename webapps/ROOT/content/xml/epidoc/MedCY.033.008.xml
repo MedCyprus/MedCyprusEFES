@@ -42,7 +42,8 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#martyr"></rs>
+                                <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +76,11 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab><lb n="1"/><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἅ</reg></choice>
+                   <lb n="2" break="no"/>γ
+                  <lb n="3" break="no"/>ι
+                   <lb n="4" break="no"/>ο
+                   <lb n="5" break="no"/>ς</w>
                  </ab>
             </div>
             <div type="apparatus">
