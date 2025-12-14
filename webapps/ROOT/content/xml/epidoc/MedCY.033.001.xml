@@ -38,11 +38,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black majuscule letters against white background. Characters' size varies.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#crossgreek">Cross, Greek, in medallion</rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +75,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab><lb n="1"/>κ <milestone unit="column"/> κξ
+                  <lb n="2"/>ε <milestone unit="column"/> τκ
                  </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +86,7 @@
                 <p>PENDING</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>The exact meaning of all these letters is unclear to us. The initials TK, usually followed by ΠΓ, are interpreted as τόπος κρανίου παράδεισος γέγονε.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
