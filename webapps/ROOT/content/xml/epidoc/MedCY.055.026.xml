@@ -39,7 +39,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Sea_Personification">Personification of the sea</rs></p>
+                            <p><rs type="iconography" ref="#LastJudgment">Last Judgment, Personification of the Sea</rs>
+                                <rs type="iconography" ref="#Sea"></rs>
+                                <rs type="iconography" ref="#eschatological"></rs>
+                            </p>
                             </decoDesc>
                     </physDesc>
                     <history>
