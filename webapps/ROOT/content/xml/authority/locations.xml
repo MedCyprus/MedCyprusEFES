@@ -77,7 +77,7 @@
                         <desc type="layer" n="2">2nd layer: <date notBefore="1001" notAfter="1200" precision="medium" evidence="material-context">undetermined; prior to the 13th-14th century</date> (naos: north wall, eastern side)</desc>
                         <desc type="layer" n="3">3rd layer: <date notBefore="1201" notAfter="1400" precision="medium" evidence="artistic-style"> 13th-14th century? First half of the 14th century?</date> (bema; naos: east, north and west wall; ceiling)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary; condition poor. Conservation/cleaning: 1990-1991, 1993, 2002, 2005-2006 (DAC). Some of the paintings of the 1st layer have been removed to the <!--<ref target="#ByzantineMuseum.html">Byzantine Museum of the Cultural Foundation Archbishop Makarios III.</ref>Still needs to be activated as a link--> </desc>
+                    <desc type="conservation">Fragmentary; condition poor. Conservation/cleaning: 1990-1991, 1993, 2002, 2005-2006 (DAC). Some of the paintings of the 1st layer have been removed to the <ref target="#ByzantineMuseum.html">Byzantine Museum of the Cultural Foundation Archbishop Makarios III.</ref></desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458</citedRange></bibl></desc>
@@ -2347,7 +2347,7 @@
                         <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (naos)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1600" precision="medium" evidence="artistic-style">15th/16th century</date> (bema; narthex)</desc>
                     </desc>
-                    <desc type="conservation">Very fragmentary; poor state of preservation. During restoration work in the 1960s, the mural of St Ignatios (3rd layer) was transferred from the northeast pier supporting the dome, to the southeast, in order to reveal earlier murals. After 1974, the murals sufferred serious damage, while sections were detached by looters and illegally exported abroad. Conservation/cleaning: 1963-1964, 1968, 1971 (DAC) </desc>
+                    <desc type="conservation">Very fragmentary; poor state of preservation. During restoration work in the 1960s, the mural of St Ignatios (3rd layer) was transferred from the northeast pier supporting the dome, to the southeast, in order to reveal earlier murals. After 1974, the murals sufferred serious damage, while sections were detached by looters and illegally exported abroad.Some have been retrieved and are now on display at the <ref target="#ByzantineMuseum.html">Byzantine Museum of the Cultural Foundation Archbishop Makarios III.</ref> Conservation/cleaning: 1963-1964, 1968, 1971 (DAC) </desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -2393,7 +2393,7 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Groin-vaulted rectangular hall, with an apse to the east</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (apse)</desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">early 12th century</date> (apse)</desc>
                     </desc>
                     <desc type="conservation">Very fragmentary; very poor state of preservation. Conservation/cleaning: 1964, 1966 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -2428,15 +2428,16 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural"> Currently, a domed-hall church, resulting from the remodeling of an earlier (8th century?) single-aisled structure built over the nave of an Early Byzantine basilica; an annex of uncertain date was constructed along the south side of the church, later concealed by the 19th-century south portico.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="0701" notAfter="0900" precision="low">8th or 9th century</date> (naos: behind the southeast pilaster) </desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1234" precision="low">12th or early 13th century</date> (naos: north recesses on either side of the dome; northeast pilaster supporting the dome)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="medium">last third of 13th century</date> (prothesis; naos: east vault, central bay, west vault, west wall?)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (prothesis; naos: western pilasters supporting the dome)</desc>
-                        <desc type="layer" n="5">5th layer: <date notBefore="1801" notAfter="1900" precision="medium">19th century</date> (bema; prothesis)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="0701" notAfter="1100" precision="medium" evidence="material-context">prior to the conversion of the church into a domed hall, possibly 8th or 9th century</date> (behind the southeast pilaster, between bema and naos) </desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1234" precision="medium" evidence="artistic-style material-context">late 12th or early 13th century</date> (naos: north recesses on either side of the central bay; northeast pilaster supporting the dome)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1234" notAfter="1267" precision="medium" evidence="material-context">mid-13th century</date> (naos: northeast pilaster supporting the dome)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style material-context">last third of 13th century</date> (apse; prothesis; naos: east vault, central bay, west vault, west wall?)</desc>
+                        <desc type="layer" n="5">5th layer: <date notBefore="1501" notAfter="1600" precision="medium" evidence="artistic-style material-context">16th century</date> (apse; prothesis; naos: western pilasters supporting the dome)</desc>
+                        <desc type="layer" n="6">6th-7th layers: <date notBefore="1801" notAfter="1900" precision="medium" evidence="artistic-style material-context">19th century, two painting episodes in quick succession</date> (prothesis)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; fair condition, though the lower parts of some of the murals on the north wall were damaged by humidity. Conservation/cleaning: 1989, 1991, 1996, 1998-2000, 2002, 2008, 2016 (DAC)
                     </desc>
-                    <desc type="donors">3rd layer: one, possibly two portraits of male supplicants on the north wall; in the absence of surviving inscriptions, their potential contribution to the decoration of the church remains unclear</desc>
+                    <desc type="donors">4th layer: one, possibly two portraits of male supplicants on the north wall; in the absence of surviving inscriptions, their potential contribution to the decoration of the church remains unclear</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed (M. G. Trentin)</desc>
                     <idno type="IBCC">Not listed</idno>
@@ -2459,6 +2460,7 @@
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>13: 63-64</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange> 2: 422-24</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange> 2: 628-39</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>180-83, 295-97, 303-11, cat.40 </citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -2473,8 +2475,8 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Currently, a three-aisled vaulted basilica, the result of major reconstruction in the 1970s by DAC. Originally, the church may have been a cross-in-square building</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (nave)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (bema; nave)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style">12th century</date> (nave)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="medium" evidence="artistic-style">16th century</date> (bema; nave)</desc>
                     </desc>
                     <desc type="conservation">Very fragmentary; during the 20th-century reconstruction of the vaulting, ashlars from the site bearing fragments of murals were employed in no particular order. Ashlars bearing mural fragments are also kept in the <ref target="#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning: -</desc>
                     <desc type="donors">Unknown</desc>
@@ -2512,9 +2514,9 @@
                     <desc type="context"><term>Village</term>(?)</desc>
                     <desc type="architectural">Originally, a domed triconch or tetraconch; in 1817, the eastern apse was demolished and enlarged and the western part was also demolished and the church expanded to the west. What remained of the original church was incorporated into the modern church to serve as its sanctuary.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1267" notAfter="1333" precision="medium">late 13th - early 14th century</date> (dome; south conch: east wall [repainted in the 20th century])</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (prothesis)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1901" notAfter="2000" precision="medium">20th century</date> (south conch)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1267" notAfter="1333" precision="medium" evidence="artistic-style">late 13th - early 14th century</date> (dome; south conch: east wall [repainted in the 20th century])</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="medium" evidence="artistic-style">16th century</date> (prothesis)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1901" notAfter="2000" precision="medium" evidence="artistic-style">20th century</date> (south conch)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; dome murals: fairly good state of preservation. Conservation/cleaning: 1981,1990, 2006, 2016 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -2550,13 +2552,13 @@
                     <desc type="context"><term>Village</term>(?)</desc>
                     <desc type="architectural">Domed pier cross-in-square church, built on the site and incorporating elements of an Early Byzantine basilica</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date>10th century</date> (naos: only the inscription [<ref target="MedCY.058.001.html">MedCY.058.001</ref>] may be ascribed with certainty to this layer)</desc>
-                        <desc type="layer" n="2">2nd layer: <date>14th century</date> (diakonikon; naos: west piers, south wall)</desc>
-                        <desc type="layer" n="3">3rd layer: <date when="1887" precision="high">1887</date> (naos: southwest pier, north face)</desc>                                        </desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="0901" notAfter="1000" precision="medium" evidence="office prosopography">10th century</date> (naos: only the inscription [<ref target="MedCY.058.001.html">MedCY.058.001</ref>] may be ascribed with certainty to this layer)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (diakonikon; naos: west piers, south wall)</desc>
+                        <desc type="layer" n="3">3rd layer: <date when="1887" evidence="internal-date">1887</date> (naos: southwest pier, north face)</desc>                                        </desc>
                     <desc type="conservation">Fragmentary; very poor state of preservation; murals faded. After 1974, the face of a military saint on horseback on the south face of the northwestern pier was covered with plaster. Conservation/cleaning: -</desc>
                     <desc type="donors">
                         1st layer: the potential contribution of the author/narrator of an extensive funerary inscription (<ref target="MedCY.058.001.html">MedCY.058.001</ref>) in the southwestern part of the church to the mural decoration is unclear.
-                        3rd layer: fragmentary inscriptions mentions a male donor and his family; no names survive</desc>
+                        3rd layer: fragmentary inscription mentions a male donor and his family; no names survive</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0097.html</idno>
@@ -2589,17 +2591,17 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Rock-cut complex, comprising the cell with the tomb, the bema, the trapezoidal naos, and the narthex</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1159" notAfter="1183" precision="medium">1159/60 - 1183</date> (cell)</desc>
-                        <desc type="layer" n="2">2nd layer: <date when="1183" precision="high">1183</date> (bema; cell)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1197" notAfter="1214" precision="medium">after 1197 - 1214 (death of Neophytos the Recluse)</date> (naos)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1495" notAfter="1505" precision="low">ca 1500</date> (narthex)</desc>
-                        <desc type="layer" n="5">5th layer: <date when="1503" precision="high">1503 </date> (bema; naos)</desc>
+                        <desc type="layer" n="1">1st and 2nd layers, in quick succession: <date notBefore="1159" notAfter="1183" precision="medium" evidence="material-context written-evidence">1159/60 - 1183</date> (cell; on either side of the wall separating the cell from the bema)</desc>
+                        <desc type="layer" n="3">3rd layer: <date when="1183" evidence="internal-date">1183</date> (bema; cell; tomb)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1195" notAfter="1214" precision="low" evidence="written-evidence">ca 1195 (certainly, prior to the death of Neophytos the Recluse in 1214)</date> (naos)</desc>
+                        <desc type="layer" n="5">5th layer: <date notBefore="1495" notAfter="1505" precision="low" evidence="artistic-style">ca 1500</date> (narthex)</desc>
+                        <desc type="layer" n="6">6th layer: <date when="1503" evidence="internal-date">1503 </date> (bema; naos)</desc>
                     </desc>
                     <desc type="conservation">Very good state of preservation. Conservation/cleaning: 1963-1964, 1970 (Dumbarton Oaks), 1976,1984, 1987, 1989, 1992, 2005 (DAC)</desc>
                     <desc type="donors">
-                        1st - 3rd layers: Neophytos the Recluse, as attested by extant portraits and inscriptions <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)--> in the complex, as well as by the writings of the saint
-                        5th layer: the monk Neophytos, mentioned in an inscription in the naos</desc>
-                    <desc type="painter">2nd layer: Theodore Apseudes (<ref target="MedCY.059.125.html">MedCY.059.125</ref>)</desc>
+                        1st - 4th layers: Neophytos the Recluse, as attested by extant portraits and inscriptions (<ref target="MedCY.059.014.html">MedCY.059.014</ref>, <ref target="MedCY.059.125.html">MedCY.059.125</ref>, <ref target="MedCY.059.126.html">MedCY.059.126</ref>) in the complex, as well as by the writings of the saint
+                        6th layer: the monk Neophytos, mentioned in an inscription in the naos</desc>
+                    <desc type="painter">3rd layer: Theodore Apseudes (<ref target="MedCY.059.128.html">MedCY.059.128</ref>)</desc>
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#MangoHawkins1966"/><citedRange>121, 132, 138, 153, 180</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>306</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2020"/><citedRange>295</citedRange></bibl></desc>
                     <idno type="IBCC">Not listed</idno>
                     <idno type="Frankika">https://frankika.efa.gr/en/node/9329</idno>
@@ -2640,6 +2642,7 @@
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>13: 392-399</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#SneldersImmerzeel2012-13"/><citedRange>83-86</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml.#Bordne2015"/><citedRange>27-36</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>38-49, 96-121, cat. 41</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -2654,8 +2657,8 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Rock-cut trapezoidal hall</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1197" notAfter="1214" precision="medium">ca 1200</date> (ceiling; east, west and south walls)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1495" notAfter="1505" precision="low">ca 1500</date> (ceiling; west wall)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1195" notAfter="1214" precision="low" evidence="artistic-style written-evidence">ca 1200</date> (ceiling; east, west and south walls)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1495" notAfter="1505" precision="low" evidence="artistic-style">ca 1500</date> (ceiling; west wall)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1984</desc>
                     <desc type="donors">1st layer: Neophytos the Recluse (though no inscription or portrait survives)</desc>
@@ -2691,7 +2694,7 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">In ruins, original form uncertain; single-aisled vaulted structure.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1300" precision="medium">13th century</date> (naos)</desc>
+                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</date> (naos)</desc>
                     </desc>
                     <desc type="conservation">Very fragmentary; poor state of preservation. Conservation/cleaning: 2004 (DAC). The surviving murals were detached and transferred to the conservation workshops of DAC in Paphos.</desc>
                     <desc type="donors">Unknown</desc>
@@ -2723,10 +2726,10 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Originally, a domed-hall structure, though with cylindrical engaged piers supporting the dome; north aisle/"chapel" and successive western extensions subsequently added</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date> (bema; dome; naos)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium">15th century</date> (naos: southwest recess)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (north aisle)</desc>
-                        <desc type="layer" n="4">4th layer: <date when="1959" precision="high">1959</date> (prothesis)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">early 12th century</date> (bema; dome; naos)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium" evidence="artistic-style">15th century</date> (naos: southwest recess)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1501" notAfter="1600" precision="medium" evidence="artistic-style">16th century</date> (north aisle)</desc>
+                        <desc type="layer" n="4">4th layer: <date when="1959" evidence="internal-date">1959</date> (prothesis)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; good state of presevation. Conservation/cleaning: 1965-1966 (Greek Archaeological Service), 2008 (TCCH - unofficial emergency work)
                     </desc>
@@ -2768,6 +2771,7 @@
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>7: 230-32</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#HadjichristodoulouFoulias2020"/></bibl>
                         <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange>2: 471-73</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>33-34</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -2784,7 +2788,7 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Single-aisled vaulted church</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (bema; naos)</desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style">12th century</date> (bema; naos)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; very poor state of preservation. Conservation/cleaning: 1973, 2008 (DAC)</desc>
                     <desc type="donors">Unknown</desc>

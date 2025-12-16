@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Judgement of Pilate, Psalm verse</title>
+                <title>Judgment of Pilate, Psalm verse</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -41,7 +41,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#JudgementOfPilate">Judgement of Pilate</rs></p>
+                            <p><rs type="iconography" ref="#JudgmentOfPilate">Judgment of Pilate</rs>                            
+                               <rs type="iconography" ref="#christological"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

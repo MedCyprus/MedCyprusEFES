@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Last Judgement, Matthew</title>
+                <title>Last Judgment, Matthew</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,9 +42,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#LastJudgement">Last Judgement, Matthew</rs>
-                                  <rs type="iconography" ref="#apostle"></rs>
-                                  <rs type="iconography" ref="#male"></rs>
+                            <p><rs type="iconography" ref="#LastJudgment">Last Judgment, the apostle Matthew</rs>
+                                  <rs type="iconography" ref="#Matthew"></rs>
+                                  <rs type="iconography" ref="#eschatological"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>

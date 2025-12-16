@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Last Judgement, Christ’s words to the damned</title>
+                <title>Last Judgment, Deesis, Christ’s words to the damned</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,7 +42,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#LastJudgment" >Last Judgment, Deesis, Christ the Judge</rs>
+                                <rs type="iconography" ref="#Deesis" ></rs>
+                                <rs type="iconography" ref="#Christ"></rs>
+                                <rs type="iconography" ref="#eschatological"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>

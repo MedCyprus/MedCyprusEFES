@@ -99,7 +99,7 @@
                 </item>
                 <item xml:id="LastJudgment">
                     <term xml:lang="en">Last Judgment</term>
-                </item>
+                </item>               
                 <item xml:id="LastJudgmentRighteousHeaven">
                     <term xml:lang="en">Last Judgment, the Righteous in Heaven</term>
                 </item>
@@ -145,8 +145,8 @@
                 <item xml:id="WashingOfTheFeet">
                     <term xml:lang="en">Washing of the Feet</term>
                 </item>
-                <item xml:id="JudgementOfPilate">
-                    <term xml:lang="en">Judgement of Pilate</term>
+                <item xml:id="JudgmentOfPilate">
+                    <term xml:lang="en">Judgment of Pilate</term>
                 </item>
                 <item xml:id="RoadToCalvary">
                     <term xml:lang="en">Road to Calvary</term>
@@ -395,6 +395,9 @@
                 </item>
                 <item xml:id="Ezekiel">
                     <term xml:lang="en">Ezekiel</term>
+                </item>
+                <item xml:id="Falsifier">
+                    <term xml:lang="en">The falsifier of weights</term>
                 </item>
                 <item xml:id="FortyMartyrs">
                     <term xml:lang="en">Forty Martyrs of Sebasteia</term>
@@ -660,8 +663,8 @@
                 <item xml:id="Philagrios">
                     <term xml:lang="en">Philagrios</term>
                 </item>
-                <item xml:id="Philippos">
-                    <term xml:lang="en">Philippos</term>
+                <item xml:id="Philip">
+                    <term xml:lang="en">Philip</term>
                 </item>
                 <item xml:id="Philon">
                     <term xml:lang="en">Philon</term>
@@ -674,6 +677,9 @@
                 </item>
                 <item xml:id="Phylon">
                     <term xml:lang="en">Phylon</term>
+                </item>
+                <item xml:id="Pilate">
+                    <term xml:lang="en">Pontius Pilate</term>
                 </item>
                 <item xml:id="Poemen">
                     <term xml:lang="en">Poemen</term>

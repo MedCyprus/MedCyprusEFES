@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against green background. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="Vincent">Saint Vincent</rs>   
+                                   <rs type="iconography" ref="deacon"></rs>
+                                   <rs type="iconography" ref="male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +77,17 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab><cb n="a"/>
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied>
+                 <lb n="2"/><persName type="sacred" key="Vincent"><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
+                 <lb n="3" break="no"/><supplied reason="lost">γ</supplied>
+                 <lb n="4" break="no"/><supplied reason="lost">ι</supplied>
+                  <lb n="5" break="no"/>ο<supplied reason="lost">ς</supplied></w>
+                   <cb n="b"/>
+                   <lb n="1"/><name nymRef ="#Βικέντιος" type="forename">Βι
+                     <lb n="2"/><supplied reason="lost">κέ</supplied>ν
+                       <lb n="3"/><supplied reason="lost">τι</supplied>
+                     <lb n="4"/><supplied reason="lost">ος</supplied></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
