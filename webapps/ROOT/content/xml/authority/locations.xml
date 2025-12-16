@@ -644,7 +644,7 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1051" notAfter="1100" precision="medium" evidence="artistic-style">second half of 11th century</date> (bema; naos)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1150" precision="medium" evidence="artistic-style">first half of 12th century </date> (western porch)</desc>                    </desc>
-                    <desc type="conservation">Very fragmentary; poorly preserved. Fragments of painted plaster revealed during excavations are kept in the <ref target="locations.xml#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning:  2011, 2013, 2015 (DAC?)</desc>
+                    <desc type="conservation">Very fragmentary; poorly preserved. Fragments of painted plaster revealed during excavations are kept in the <ref target="#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning:  2011, 2013, 2015 (DAC?)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknwon</desc>
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Gagoshidze2014a"/><citedRange>90-93</citedRange></bibl></desc>
@@ -680,7 +680,7 @@
                     <desc type="mural">
                         <desc type="layer" n="1"><date notBefore="1101" notAfter="1150" precision="medium" evidence="artistic-style">first half of 12th century</date> (naos; western porch)</desc>
                     </desc>
-                    <desc type="conservation">very fragmentary; poorly preserved. Fragments of painted plaster revealed during excavations are kept in the <ref target="locations.xml#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning:  2011, 2013, 2015 (DAC?)</desc>
+                    <desc type="conservation">very fragmentary; poorly preserved. Fragments of painted plaster revealed during excavations are kept in the <ref target="#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning:  2011, 2013, 2015 (DAC?)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Gagoshidze2014a"/><citedRange>90-93</citedRange></bibl></desc>
@@ -898,7 +898,7 @@
                     <desc type="construction"><date notBefore="1001" notAfter="1100" precision="medium">11th century</date></desc>
                     <desc type="function"><term>Parochial</term>(?). Currently, the main church (katholikon) of the monastery; whether its original function was <term>monastic</term> remains probable, but uncertain.</desc>
                     <desc type="context"><term>Village fringe</term></desc>
-                    <desc type="architectural">Domed pier cross-in-square church, with <ref target="KalopanagiotisChapel">the chapel of Saint John Lampadistes</ref>, the so-called chapel of the Akathistos Hymn, and the narthex added subsequently (15th century)</desc>
+                    <desc type="architectural">Domed pier cross-in-square church, with <ref target="#KalopanagiotisChapel">the chapel of Saint John Lampadistes</ref>, the so-called chapel of the Akathistos Hymn, and the narthex added subsequently (15th century)</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style">11th century</date> (bema)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style">12th century</date> (bema)</desc>
@@ -2476,7 +2476,7 @@
                         <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium">12th century</date> (nave)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1501" notAfter="1600" precision="medium">16th century</date> (bema; nave)</desc>
                     </desc>
-                    <desc type="conservation">Very fragmentary; during the 20th-century reconstruction of the vaulting, ashlars from the site bearing fragments of murals were employed in no particular order. Ashlars bearing mural fragments are also kept in the <ref target="locations.xml#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning: -</desc>
+                    <desc type="conservation">Very fragmentary; during the 20th-century reconstruction of the vaulting, ashlars from the site bearing fragments of murals were employed in no particular order. Ashlars bearing mural fragments are also kept in the <ref target="#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning: -</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>

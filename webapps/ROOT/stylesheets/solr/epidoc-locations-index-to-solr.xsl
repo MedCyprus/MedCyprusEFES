@@ -158,12 +158,27 @@
           </field>
               <xsl:for-each select="$idno//tei:desc[@type='mural']//tei:desc[@type='layer']">
                 <field name="index_mural">
-                  <xsl:value-of select="."/>
+                  <!--<xsl:value-of select="."/>-->
+                  <xsl:value-of>
+                    <xsl:apply-templates mode="date-evidence"/>
+                  </xsl:value-of>
                 </field>
               </xsl:for-each>
-            <field name="index_conservation">
+          
+            <field name="index_conservation"> <!-- if <ref>, then rewrite string and replace <ref> link with start and end symbols -->
               <xsl:value-of select="$idno//tei:desc[@type='conservation']"/>
+              <!--<xsl:value-of>-->
+                <!-- <xsl:for-each select="$idno//tei:desc[@type='conservation']/(@* | node()| text())">
+                   <xsl:call-template name="munge-ref">
+                      <xsl:with-param name="child-segment" select="."/>
+                   </xsl:call-template>
+                 </xsl:for-each>-->
+               <!--<xsl:call-template name="munge-ref">
+                  <xsl:with-param name="child-segment" select="$idno//tei:desc[@type='conservation']"/>
+                </xsl:call-template>
+              </xsl:value-of>-->
           </field>
+          
             <field name="index_donors">
               <xsl:value-of select="$idno//tei:desc[@type='donors']"/>
             </field>
@@ -244,9 +259,30 @@
       </xsl:for-each-group>
     </add>
   </xsl:template>
+  
+  <xsl:template match="tei:date" mode="date-evidence">
+    <xsl:value-of select="."/> based on 
+    <xsl:value-of select="translate(replace(@evidence,' ',', '),'-',' ')"/>.
+  </xsl:template>
 
   <xsl:template match="tei:origPlace|tei:repository">
     <xsl:call-template name="field_index_instance_location" />
+  </xsl:template>
+  
+  <xsl:template name="munge-ref">
+    <xsl:param name="child-segment"/>
+    xx<xsl:value-of select="$child-segment/name()"/>xx
+    <xsl:for-each select="$child-segment/child::node()" >
+      match2 
+     <xsl:choose>
+       <xsl:when test="element()"> <!-- assume only likely elements are <ref> -->
+         <xsl:text>¢</xsl:text><xsl:value-of select="@target"/> <xsl:value-of select="."/><xsl:text>‡</xsl:text>
+       </xsl:when>
+       <xsl:when test="text()">
+         <xsl:value-of select="."/>match3
+       </xsl:when>
+     </xsl:choose>
+    </xsl:for-each>
   </xsl:template>
 
 </xsl:stylesheet>
