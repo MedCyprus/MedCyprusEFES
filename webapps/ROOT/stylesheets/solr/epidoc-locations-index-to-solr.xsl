@@ -154,7 +154,7 @@
               <xsl:value-of select="$idno//tei:desc[@type='context']"/>
             </field>
             <field name="index_architectural_type">
-              <xsl:value-of select="$idno//tei:desc[@type='architectural']"/>
+              <xsl:apply-templates select="$idno//tei:desc[@type='architectural']" mode="munge-ref"/>
           </field>
               <xsl:for-each select="$idno//tei:desc[@type='mural']//tei:desc[@type='layer']">
                 <field name="index_mural">
@@ -166,17 +166,7 @@
               </xsl:for-each>
           
             <field name="index_conservation"> <!-- if <ref>, then rewrite string and replace <ref> link with start and end symbols -->
-              <xsl:value-of select="$idno//tei:desc[@type='conservation']"/>
-              <!--<xsl:value-of>-->
-                <!-- <xsl:for-each select="$idno//tei:desc[@type='conservation']/(@* | node()| text())">
-                   <xsl:call-template name="munge-ref">
-                      <xsl:with-param name="child-segment" select="."/>
-                   </xsl:call-template>
-                 </xsl:for-each>-->
-               <!--<xsl:call-template name="munge-ref">
-                  <xsl:with-param name="child-segment" select="$idno//tei:desc[@type='conservation']"/>
-                </xsl:call-template>
-              </xsl:value-of>-->
+             <xsl:apply-templates select="$idno//tei:desc[@type='conservation']" mode="munge-ref"/>
           </field>
           
             <field name="index_donors">
@@ -269,20 +259,8 @@
     <xsl:call-template name="field_index_instance_location" />
   </xsl:template>
   
-  <xsl:template name="munge-ref">
-    <xsl:param name="child-segment"/>
-    xx<xsl:value-of select="$child-segment/name()"/>xx
-    <xsl:for-each select="$child-segment/child::node()" >
-      match2 
-     <xsl:choose>
-       <xsl:when test="element()"> <!-- assume only likely elements are <ref> -->
-         <xsl:text>¢</xsl:text><xsl:value-of select="@target"/> <xsl:value-of select="."/><xsl:text>‡</xsl:text>
-       </xsl:when>
-       <xsl:when test="text()">
-         <xsl:value-of select="."/>match3
-       </xsl:when>
-     </xsl:choose>
-    </xsl:for-each>
+  <xsl:template match="tei:ref" mode="munge-ref">
+    ¢<xsl:value-of select="@target"/>£<xsl:value-of select="."/>¢
   </xsl:template>
 
 </xsl:stylesheet>

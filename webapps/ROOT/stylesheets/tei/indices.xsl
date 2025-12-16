@@ -66,7 +66,9 @@
         <p><b>Context: </b><xsl:value-of select="string-join(arr[@name='index_context']/str, '; ')"/>
           <b> &#xA0;&#xA0;&#xA0;&#xA0; Function: </b><xsl:value-of select="string-join(arr[@name='index_function']/str, '; ')"/></p>
         <!--<p><b>Coordinates: </b><xsl:value-of select="string-join(arr[@name='index_coordinates']/str, '; ')"/></p>-->
-        <p><b>Architectural type: </b><xsl:value-of select="string-join(arr[@name='index_architectural_type']/str, '; ')"/></p>
+            <p><b>Architectural type: </b><xsl:call-template name="location-ref2html">
+              <xsl:with-param name="solr-string" select="string-join(arr[@name='index_architectural_type']/str, '; ')"/>
+            </xsl:call-template></p>
         <p><b>Date of construction: </b><xsl:value-of select="string-join(arr[@name='index_construction']/str, '; ')"/></p>
         <p><b>Date of painted decoration: </b></p>  
         <ul><xsl:for-each select="arr[@name='index_mural']/str"><li>
@@ -74,7 +76,9 @@
             <xsl:with-param name="solr-string" select="." />
           </xsl:call-template>
         </li></xsl:for-each></ul>
-        <p><b>State of preservation of the murals: </b><xsl:value-of select="string-join(arr[@name='index_conservation']/str, '; ')"/></p>
+        <p><b>State of preservation of the murals: </b><xsl:call-template name="location-ref2html">
+          <xsl:with-param name="solr-string" select="string-join(arr[@name='index_conservation']/str, '; ')"/>
+        </xsl:call-template></p>
         <p><b>Donor(s): </b>
           
           <xsl:call-template name="MedCYToLink">
@@ -137,7 +141,23 @@
             <xsl:otherwise><xsl:value-of select=".  "/></xsl:otherwise>
           </xsl:choose>
         </xsl:for-each>
-        
+      </xsl:when>
+      <xsl:otherwise><xsl:value-of select="$solr-string"/></xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+  
+  <xsl:template name="location-ref2html">
+    <xsl:param name="solr-string"/>
+    <xsl:choose> 
+      <xsl:when test="contains($solr-string,'¢')">
+        <xsl:for-each select="tokenize($solr-string,'¢')">
+          <xsl:variable name="solr-string-t" select="."/>
+          <xsl:choose>
+            <xsl:when test="contains(.,'£')"><a href="{substring-before(.,'£')}"><xsl:value-of select="substring-after(.,'£')"/></a>
+            </xsl:when>
+            <xsl:otherwise><xsl:value-of select=".  "/></xsl:otherwise>
+          </xsl:choose>
+        </xsl:for-each>
       </xsl:when>
       <xsl:otherwise><xsl:value-of select="$solr-string"/></xsl:otherwise>
     </xsl:choose>

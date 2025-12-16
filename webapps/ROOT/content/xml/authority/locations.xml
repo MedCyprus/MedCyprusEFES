@@ -75,7 +75,7 @@
                         <desc type="layer" n="1">1st layer: <date notBefore="0901" notAfter="1000" precision="medium" evidence="artistic-style">10th century</date> (naos: north wall, above the tomb; north wall, eastern side).
                         </desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1001" notAfter="1200" precision="medium" evidence="material-context">undetermined; prior to the 13th-14th century</date> (naos: north wall, eastern side)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1201" notAfter="1400" precision="medium" evidence="artistic-style"> 13th-14th century? First half of the 14th century?</date> (bema; naos: east, north and west wall; ceiling)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1201" notAfter="1400" precision="medium" evidence="artistic-style"> 13th-14th century(?) First half of the 14th century(?)</date> (bema; naos: east, north and west wall; ceiling)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; condition poor. Conservation/cleaning: 1990-1991, 1993, 2002, 2005-2006 (DAC). Some of the paintings of the 1st layer have been removed to the <ref target="#ByzantineMuseum.html">Byzantine Museum of the Cultural Foundation Archbishop Makarios III.</ref></desc>
                     <desc type="donors">Unknown</desc>
@@ -113,7 +113,7 @@
                     <desc type="architectural">Single-aisled vaulted church; later additions: south lateral aisle (12th-13th century?) and western open porch (14th-15th century?) </desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium" evidence="artistic-style">late 12th century</date> (naos: south wall, western side; west wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century?</date> (naos: west wall; north wall, central recess?)</desc>                
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century(?)</date> (naos: west wall; north wall, central recess?)</desc>                
                     </desc>
                     <desc type="conservation">Fragmentary. Some of the murals were illegally detached from the walls following 1974; current location unknown</desc>
                     <desc type="donors">Unknown</desc>
@@ -190,7 +190,7 @@
                     <desc type="architectural">Single-aisled barrel-vaulted church; narthex with drumless dome subsequently added to the west</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1233" precision="medium" evidence="artistic-style">early 13th century</date> (naos: north and south wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style">late 13th century?</date> (naos: south wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style">late 13th century(?)</date> (naos: south wall)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; badly preserved. Conservation/cleaning: 1973 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -266,8 +266,8 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Free-cross domed church; western crossarm subsequently extended westwards</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century?;</date> (west crossarm: south wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium" evidence="artistic-style">15th century?; overpainted in the 20th century</date> (bema; central bay and dome; north and south crossarms</desc></desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century(?);</date> (west crossarm: south wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium" evidence="artistic-style">15th century(?); overpainted in the 20th century</date> (bema; central bay and dome; north and south crossarms</desc></desc>
                     <desc type="conservation">Murals of 1st layer, very fragmentary. Conservation/cleaning: 1996, 1997 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
@@ -428,8 +428,8 @@
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1985-1986, 2002 (DAC)</desc>
                     <desc type="donors">Male and female donors, lay and ecclesiastic, donated votive panels: 
-                        2nd layer: the priest Georgios and Magdalene <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->.
-                        3rd layer: Theodosia <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->, the monk Leontios <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->, and one other male donor <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->.
+                        2nd layer: the priest Georgios and Magdalene.
+                        3rd layer: Theodosia, the monk Leontios, and one other male donor.
                         4th layer: female donor (portrait; no inscription surviving)</desc>                    
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -546,7 +546,7 @@
                         <desc type="layer" n="5">5th layer: <date when="1896" precision="high">1896</date> (naos: north and south crossarms)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1966, 1980-1981, 1985-1986, 1995-1996, 1999, 2001 (DAC)</desc>
-                    <desc type="donors">2nd layer: Stephanos and his wife <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)--></desc>
+                    <desc type="donors">2nd layer: Stephanos and his wife</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>376</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0029.html</idno>
@@ -1034,7 +1034,7 @@
                         <desc type="layer" n="3">3rd layer: <date notBefore="1901" notAfter="1933" precision="medium" evidence="artistic-style">early 20th century</date> (naos: north central recess, nothwestern recess)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary</desc>
-                    <desc type="donors">1st layer: one supplicatory inscription in the bema makes reference to the priest Michael (son of?) Pileas, who may have contributed to the decoration of the church <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->; a second fragmentary inscription in the naos that makes reference to the wife(?) of one Sakellares is in all probability a funerary one <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->.</desc>
+                    <desc type="donors">1st layer: one supplicatory inscription in the bema makes reference to the priest Michael (son of?) Pileas, who may have contributed to the decoration of the church; a second fragmentary inscription in the naos that makes reference to the wife(?) of one Sakellares is in all probability a funerary one.</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed (M. G. Trentin)</desc>
                     <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0016.html</idno>
@@ -1076,7 +1076,7 @@
                         <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (naos)</desc>
                     </desc>
                     <desc type="conservation">Poor condition; badly damaged. Conservation/cleaning: 1980, 2005 (DAC)</desc>
-                    <desc type="donors">1st layer(?): a fragmentary inscription <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)--> makes reference to a priest and caretaker of the church. Whether he was a donor remains unclear.</desc>
+                    <desc type="donors">1st layer(?): a fragmentary inscription makes reference to a priest and caretaker of the church. Whether he was a donor remains unclear.</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Meinardus1969"/></bibl> <bibl><ptr target="bibliography.xml#Kraack1997"/><citedRange>106-08</citedRange></bibl> <bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>460</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>305-06</citedRange></bibl> <bibl><ptr target="bibliography.xml#Trentin2020"/><citedRange>286-88, 295</citedRange></bibl> <bibl><ptr target="bibliography.xml#FouliasHadjichristodoulou2022"/><citedRange>158</citedRange></bibl>
                     </desc>
@@ -1163,7 +1163,7 @@
                     <placeName type="district" ref="district.xml#larnaca">Larnaca</placeName>
                     <placeName type="diocese" ref="diocese.xml#kition">Bishopric of Kition</placeName>
                     <location><geo>34.847624209783056, 33.57104628466248</geo></location>
-                    <desc type="construction"><date notBefore="1067" notAfter="1200" >Late 11th or 12th century, with later additions: north chapel dedicated to Sts Kosmas and Damian, late 12th or early 13th century; south, "Latin" chapel, late 13th century; western extension, 19th century?</date></desc>
+                    <desc type="construction"><date notBefore="1067" notAfter="1200" >Late 11th or 12th century, with later additions: north chapel dedicated to Sts Kosmas and Damian, late 12th or early 13th century; south, "Latin" chapel, late 13th century; western extension, 19th century(?)</date></desc>
                     <desc type="function"><term>Parochial</term>(?), <term>funerary</term></desc>
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Domed pier cross-in-square church, incorporating the apse of an Early Byzantine basilica (5th century?) to the east, with the north and south chapels and western extension added subsequently</desc>
@@ -1174,7 +1174,7 @@
                     </desc>
                     <desc type="conservation">Fragmentary. Condition varies, from well to poorly preserved. Conservation/cleaning: 1965, 1972, 1975, 1979, 1983-1984, 1995 (DAC)</desc>
                     <desc type="donors">
-                        1st layer: one Leo or Leontios <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)--> associated with the panel of St John the Baptist on the northwestern pier of the naos.
+                        1st layer: one Leo or Leontios associated with the panel of St John the Baptist on the northwestern pier of the naos.
                         3rd layer: poorly preserved portrait of male(?) donor associated with mural of Sts Kosmas and Damian in the northwestern recess of the north chapel. 
                     </desc>
                     <desc type="painter">Unknown</desc>
@@ -1226,7 +1226,7 @@
                     </desc>
                     <desc type="conservation">Fragmentary; poor state of preservation. Conservation/cleaning: 1950, 1975, 1999, 2011-2013 (DAC)</desc>
                     <desc type="donors">
-                        1st layer: a fragmentary inscription above the south door preserves a reference to a male donor <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->.
+                        1st layer: a fragmentary inscription above the south door preserves a reference to a male donor.
                         2nd layer: a fragmentary inscription identifies the male donor of the mural of an archangel in the north central recess of the naos as Sampson(?) (son) of Plounteas</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -1663,7 +1663,7 @@
                         <desc type="layer" n="1"><date notBefore="1201" notAfter="1233" precision="medium" evidence="artistic-style">early 13th century</date> (bema; dome)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; very good state of preservation. Sometime between 1974 and 1983 the murals were detached by looters to be sold abroad. In 1984 they were obtained by the Menil Foundation on behalf of the Church of Cyprus and were put on display at the Menil Collection, Houston TX. In 2012 the murals were repatriated and are now on display in the <ref target="#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</ref>. Conservation/cleaning: 1972 (DAC), 1984-1988 (Menil Foundation)</desc>
-                    <desc type="donors">The hieromonk and abbot Laurentios <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)--></desc>
+                    <desc type="donors">The hieromonk and abbot Laurentios</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">Not listed</idno>
@@ -2734,7 +2734,7 @@
                     <desc type="conservation">Fragmentary; good state of presevation. Conservation/cleaning: 1965-1966 (Greek Archaeological Service), 2008 (TCCH - unofficial emergency work)
                     </desc>
                     <desc type="donors">
-                        1st layer: one donor (gender unclear) addresses a prayer to the Theotokos, but no name survives <!--(<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>)-->
+                        1st layer: one donor (gender unclear) addresses a prayer to the Theotokos, but no name survives
                         4th layer: Andreas K. Prokopiou, along with his wife and their children
                     </desc>
                     <desc type="painter">4th layer: Konstantes S. Sergiou</desc>
