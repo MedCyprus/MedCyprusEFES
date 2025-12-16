@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Last Judgment, the rich man</title>
+                <title>Last Judgment, the rich man in hell</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -70,15 +70,15 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="018-057-01.JPG"><desc>Last Judgement, the rich man and Lazaros, inscription</desc></graphic>
-        <graphic url="018-057-02.JPG"><desc>Last Judgement, the rich man and Lazaros, general view</desc></graphic> 
-        <graphic url="018-057-03.JPG"><desc>Last Judgement, the rich man and Lazaros, general view</desc></graphic>
+         <graphic rend="primary" url="018-057-01.JPG"><desc>Last Judgment, the rich man in hell, inscription</desc></graphic>
+        <graphic url="018-057-02.JPG"><desc>Last Judgment, the rich man in hell, general view</desc></graphic> 
+        <graphic url="018-057-03.JPG"><desc>Last Judgment, the rich man in hell, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <w lemma="πλούσιος">πλ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ύ</reg></choice></hi>σιος</w> <persName type="sacred" key="Lazaros"><name type="forename" nymRef="#Λάζαρος">Λάζαρος</name></persName> 
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <w lemma="πλούσιος">πλ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ύ</reg></choice></hi>σιος</w> <name type="forename" nymRef="#Λάζαρος">Λάζαρος</name> 
                  </ab>
             </div>
             <div type="apparatus">

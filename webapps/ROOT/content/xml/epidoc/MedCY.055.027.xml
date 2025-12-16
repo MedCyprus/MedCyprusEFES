@@ -69,10 +69,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-027-01.JPG"><desc>Last Judgement, the falsifier of weight, inscription</desc></graphic>
-        <graphic rend="primary" url="055-027-02.JPG"><desc>Last Judgement, the falsifier of weight, inscription detail</desc></graphic>
-        <graphic rend="secondary" url="055-027-03.JPG"><desc>Last Judgement, the falsifier of weight, inscription</desc></graphic>
-        <graphic rend="tertiary" url="055-027-04.JPG"><desc>Last Judgement, the falsifier of weight, general view</desc></graphic>
+         <graphic url="055-027-01.JPG"><desc>Last Judgment, the falsifier of weights, inscription</desc></graphic>
+        <graphic rend="primary" url="055-027-02.JPG"><desc>Last Judgment, the falsifier of weights, inscription detail</desc></graphic>
+        <graphic rend="secondary" url="055-027-03.JPG"><desc>Last Judgment, the falsifier of weights, inscription</desc></graphic>
+        <graphic rend="tertiary" url="055-027-04.JPG"><desc>Last Judgment, the falsifier of weights, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -85,7 +85,7 @@
                 <p>n/a</p>
             </div>
             <div type="translation">
-                <p>The falsifier of weight </p>
+                <p>The falsifier of weights </p>
             </div>
             <div type="commentary">
                 <p>No comment</p>

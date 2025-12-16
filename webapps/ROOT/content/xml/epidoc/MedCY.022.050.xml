@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ascension, Philippos</title>
+                <title>Ascension, Philip</title>
                <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Ascension">Ascension, Philippos</rs>
+                            <p><rs type="iconography" ref="#Ascension">Ascension, Philip</rs>
                                   <rs type="iconography" ref="#Philippos"></rs>                                                    
                                   <rs type="iconography" ref="#christological"></rs>
                             </p>
@@ -70,21 +70,21 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="022-050-01.JPG"><desc>Ascension, Philippos, inscription detail</desc></graphic>
-        <graphic url="022-050-02.JPG"><desc>Ascension, Philippos, general view</desc></graphic>
+        <graphic rend="primary" url="022-050-01.JPG"><desc>Ascension, Philip, inscription detail</desc></graphic>
+        <graphic url="022-050-02.JPG"><desc>Ascension, Philip, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/><persName type="sacred" key="Philippos"><name type="forename" nymRef="#Φίλιππος">Φ<supplied reason="omitted">ίλιππος</supplied></name></persName>
+                    <lb n="1"/><persName type="sacred" key="Philip"><name type="forename" nymRef="#Φίλιππος">Φ<supplied reason="omitted">ίλιππος</supplied></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Ph(ilippos)</p>
+                <p>Ph(ilip)</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>

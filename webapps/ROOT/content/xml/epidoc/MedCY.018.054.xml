@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#LastJudgment">Last Judgment, personification of the sea</rs>
+                            <p><rs type="iconography" ref="#LastJudgment">Last Judgment, Personification of the Sea</rs>
                                 <rs type="iconography" ref="#Sea"></rs>
                                 <rs type="iconography" ref="#eschatological"></rs>
                             </p>
@@ -70,8 +70,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="018-054-01.JPG"><desc>Last Judgement, Personification of the sea, inscription</desc></graphic>
-        <graphic url="018-054-02.JPG"><desc>Last Judgement, Personification of the sea, general view</desc></graphic> 
+         <graphic rend="primary" url="018-054-01.JPG"><desc>Last Judgment, Personification of the Sea, inscription</desc></graphic>
+        <graphic url="018-054-02.JPG"><desc>Last Judgment, Personification of the Sea, general view</desc></graphic> 
     </facsimile>
     <text>
         <body>

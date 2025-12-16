@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#LastJudgment">LastJudgment, the apostle Philip</rs>
+                            <p><rs type="iconography" ref="#LastJudgment">Last Judgment, the apostle Philip</rs>
                                   <rs type="iconography" ref="#Philip"></rs>                                                    
                                   <rs type="iconography" ref="#eschatological"></rs>
                             </p>
@@ -70,16 +70,16 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="018-049-01.JPG"><desc>Last Judgement, Philippos, inscription detail</desc></graphic>
-        <graphic url="018-049-02.JPG"><desc>Last Judgement, Philippos, inscription</desc></graphic> 
-        <graphic url="018-049-03.JPG"><desc>Last Judgement, Philippos, general view</desc></graphic>
-        <graphic url="018-049-04.JPG"><desc>Last Judgement, Philippos, general view</desc></graphic>
+         <graphic rend="primary" url="018-049-01.JPG"><desc>Last Judgment, Philip, inscription detail</desc></graphic>
+        <graphic url="018-049-02.JPG"><desc>Last Judgment, Philip, inscription</desc></graphic> 
+        <graphic url="018-049-03.JPG"><desc>Last Judgment, Philip, general view</desc></graphic>
+        <graphic url="018-049-04.JPG"><desc>Last Judgment, Philip, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><persName type="sacred" key="Philippos"><name type="forename" nymRef="#Φίλιππος"><choice><sic>Φ
+                  <lb n="1"/><persName type="sacred" key="Philip"><name type="forename" nymRef="#Φίλιππος"><choice><sic>Φ
                       <lb n="2" break="no"/>ί
                       <lb n="3" break="no"/>λ
                       <lb n="4" break="no"/>η
@@ -91,7 +91,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Philippos</p>
+                <p>Philip</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
