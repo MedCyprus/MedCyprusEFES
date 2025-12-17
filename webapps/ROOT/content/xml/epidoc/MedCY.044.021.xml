@@ -27,21 +27,21 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
-                                    <rs type="placement-building" ref="#bema">Bema, northern apse respond, north panel</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved; upper part hidden behind modern plaster and metal supporting column.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, northern apse respond</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Above the Archangel Gabriel's left hand</layout>
+                                <layout>Rectangular panel, above Archangel Gabriel of the Annunciation</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. Character size varies. Nu with its central bar forms a diagonal line; kappa with the arm terminating in a long serif. ΡΗ joined in ligature. Double point after the word δεξιόθεν. Accents and breathings non systematic, with errors.
+                            <handNote>White majuscule letters against blue background. Character size varies. Nu with its central bar forming a diagonal line; kappa with the arm terminating in a long serif. ΡΗ joined in ligature. Double point after the word δεξιόθεν. Accents and breathings non systematic, with errors. A partially preserved cross with rays between the cross-arms below the last line.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Ascension">Ascension epigram</rs>
+                            <p><rs type="iconography" ref="#Ascension">Ascension</rs>
                                    <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
@@ -88,20 +88,20 @@
                 </lg>
             </div>
             <div type="apparatus">
-               <listApp><app><note>Due to the very fragmentary inscription we relied on Ševčenko's transcription</note></app></listApp>
+               <listApp><app><note>Transcription after (<ptr target="#Ševčenko2012"/>, 75)</note></app></listApp>
             </div>
             <div type="translation">
                 <p>
                     <lb n="1"/>Not usefully translated. 
                     <lb n="2"/>Line 1: [--?--] from the right
-                    <lb n="3"/>Lines 1-4: [--?--] with the glory of the Lord and from [--?--]
+                    <lb n="3"/>Lines 2-4: [--?--] with the glory of the Lord and from [--?--]
                     <lb n="4"/>Line 5: [--?--] shadow of
                     <lb n="5"/>Line 6: [--?--]
                     <lb n="6"/>Lines 7-10: At the judgment, do not condemn [me] to their midst (<ptr target="#Ševčenko2012"/>, 75).
                 </p>
             </div>
             <div type="commentary">
-                <p>Some words are partially preserved and therefore we are unaware of their origin and meaning. The text ends with a cross with four rays in the angles. Οnly the phrases: ἐν τῷ μέσῳ τῶν ἐν τῆ κρίσει μὴ κρίνῃς, in lines 7-10 are understandable. Text: Unknown.</p>
+                <p>Probably, first half of an epigram, dedicated to the Ascension, which continues on the southern respond (<ref target="MedCY.044.022.html">MedCY.044.022</ref>). Because of the state of preservation, the division between the verses is uncertain (<ptr target="#Ševčenko2012"/>, 75). Only the last line is understandable. The source of the epigram has not been identified.</p>
             </div>
             <div type="bibliography"> 
                  <listBibl>
