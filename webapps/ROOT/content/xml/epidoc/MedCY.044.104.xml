@@ -29,16 +29,16 @@
                                 <support>
                                 <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
-                                    <rs type="placement-building" ref="#narthex">Narthex, south conch, semicylindrical wall, central scene</rs>
+                                    <rs type="placement-building" ref="#narthex">Narthex, south apse, semicylindrical wall, middle register</rs>
                           <dimensions unit="cm" scope="text"><height>37</height><width unit="cm">67</width></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Under the figure's flying mantle</layout>
+                                <layout>To the right, under the figure's flying mantle</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote> White majuscule letters against blue background. Character size varies. Chi-shaped motifs integrated into the initial letters iota and pi. Mu with the central strokes reminiscent of an upsilon on a crossed stem; omega with its apex surmounted by a crosslet, featuring spines curving inward. In line 3, the first rho (Ρ) is rendered with a rigid vertical stem and a compressed, angular bowl, which extends outward with a sharp, tapering serif-like stroke; upsilon on a crossed stem.  TΗΡ, TΩ, ΡΗ, ΤΗΝ, ΤΟΥ, ΜΜ, ΟΥ, ΜΑΡ, ΤΥ, TH, NH, ΤΩ, ΦΟ, NK, ΑΥ, ΝΜ, ΝΤ joined in ligature. Upper points and double dots after the words Νικηφόρος, πόθῳ, εἰκόνα, Γεωργίου, Φορβίω(ν), κρίσει, and στεφανίτην. Near systematic use of accents and breathings. Letter height: <height unit="cm">2,5-3</height>
+                            <handNote> White majuscule letters against blue background. Character size varies. Chi-shaped motifs integrated into the initial letters iota and pi. Mu with the central strokes reminiscent of an upsilon on a crossed stem; omega with its apex surmounted by a crosslet, featuring spines curving inward. In line 3, the first rho (Ρ) is rendered with a rigid vertical stem and a compressed, angular bowl, which extends outward with a sharp, tapering serif-like stroke; upsilon on a crossed stem.  TΗΡ, TΩ, ΡΗ, ΤΗΝ, ΤΟΥ, ΜΜ, ΟΥ, ΜΑΡ, ΤΥ, TH, NH, ΤΩ, ΦΟ, NK, ΑΥ, ΝΜ, ΝΤ joined in ligature. Upper points and double dots after the words Νικηφόρος, πόθῳ, εἰκόνα, Γεωργίου, Φορβίω(ν), κρίσει, and στεφανίτην mark the end of verses. Near systematic use of accents and breathings. A cross marks the beginning of the text; two dots and a dash mark the end. Letter height: <height unit="cm">2,5-3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -94,19 +94,19 @@
                 </listApp>
                  </div>
             <div type="translation"> 
-                <p>A healer of horses, Nikephoros the pious,
-                moved by warm heartfelt desire 
-                with like feeling painted the image 
-                of the very great martyr George;
-                and revently in this monastery of the Phorbia,
-                desirous of finding help at [the] Judjement 
-                from the most brilliant crowned martyr, 
-                and the prayers of those dwelling here.
-                (<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 82</citedRange></bibl>)
+                <p><lb n="1"/>A healer of horses, Nikephoros the pious,
+                <lb n="2"/>moved by warm heartfelt desire 
+                <lb n="3"/>with like feeling painted the image 
+                <lb n="4"/>of the very great martyr George;
+                <lb n="5"/>and reverently in this monastery of the Phorbia,
+                <lb n="6"/>desirous of finding help at [the] Judgement 
+                <lb n="7"/>from the most brilliant crowned martyr, 
+                <lb n="8"/>and the prayers of those dwelling here.
+                (after<ptr target="#Ševčenko2012"/>, 82)
                 </p> 
             </div>
             <div type="commentary">
-                <p>The inscription is made up of six lines, which correspond to eight metrical verses. A cross marks the beginning of the poem, while a double dot with a hyphen appears at the end. Τhe single and double points after the words Νικηφόρος, πόθῳ, εἰκόνα, Γεωργίου, Φορβίων, κρίσει, and στεφανίτην denote the end of the verses. Τhe donor of the mural icon, the veterinarian of horses Nikephoros, is probably a different person from the Nikephoros mentioned in the invocation that is inscribed below the metrical poem examined (see <ref target="MedCY.044.105.html">MedCY.044.105</ref>) (<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 83</citedRange></bibl>; <bibl><ptr target="#VisCult"/>,<citedRange> 189</citedRange></bibl>). </p>
+                <p> It is unclear whether Nikephoros, the healer of horses, mentioned here should be identified with the Nikephoros mentioned in the non-metrical inscription that was painted immediately below the poem, using a slightly different, more yellowish, pigment (<ref target="MedCY.044.105.html">MedCY.044.105</ref>) (<ptr target="#Ševčenko2012"/>, 83; <ptr target="#NicolaïdèsWinfield2012"/>, 101; <ptr target="#VisCult"/>, 189). </p>
             </div>
             <div type="bibliography">
                 <listBibl> 
