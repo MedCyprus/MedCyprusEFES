@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos" source="bibliography.xml#Papageorgiou2010">Uncertain; Papageorgiou: Naos, north wall</rs>
+                                    <rs type="placement-building" ref="#naos"> Uncertain; <ptr target="#Papageorgiou2010"/>: Naos, north wall</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>

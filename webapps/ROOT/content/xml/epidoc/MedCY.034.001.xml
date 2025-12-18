@@ -28,8 +28,8 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos" source="bibliography.xml#Stylianou1997">Stylianou and Stylianou: Naos, southwest recess, lunette; </rs>
-                                    <rs type="placement-building" ref="#naos" source="bibliography.xml#Papageorgiou2010">Papageorgiou: Naos, south wall, central recess, lunette</rs>
+                                    <rs type="placement-building" ref="#naos"><ptr target="#Stylianou1997"/> Naos, southwest recess, lunette; </rs>
+                                    <rs type="placement-building" ref="#naos"><ptr target="#Papageorgiou2010"/>  Naos, south wall, central recess, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>

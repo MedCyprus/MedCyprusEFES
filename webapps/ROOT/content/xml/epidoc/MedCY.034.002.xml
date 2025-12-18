@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#prothesis" source="bibliography.xml#Papageorgiou2010">Uncertain; Papageorgiou: northeast recess, east support</rs>
+                                    <rs type="placement-building" ref="#prothesis"> Uncertain; <ptr target="#Papageorgiou2010"/>: northeast recess, east support</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
