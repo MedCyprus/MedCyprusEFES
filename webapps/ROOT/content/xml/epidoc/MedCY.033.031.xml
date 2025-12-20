@@ -50,10 +50,8 @@
                         <origin>
                             <origPlace ref="locations.xml#KoutsoventisTrinity">Koutsoventis, Monastery of Saint John Chrysostom, Holy Trinity chapel</origPlace>
                             <origDate notBefore="1095" notAfter="1103-08-31" precision="medium"> ca 1100</origDate>
-                        </origin>
-                        <provenance when="1969">Not accessible; located in a Turkish military zone in occupied north Cyprus. Studied and photographed in 1969.
-                        </provenance>    
-                        <provenance type="not-observed">Currently inaccessible</provenance>
+                        </origin>    
+                        <provenance type="not-observed">Currently inaccessible (located in a Turkish military zone in occupied north Cyprus)</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
