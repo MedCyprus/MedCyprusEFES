@@ -13,7 +13,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.018.064</idno>
+                <idno type="filename">MedCY.018.055</idno>
                 <availability>
                   <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
                 </availability>
@@ -70,9 +70,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="018-064-01.JPG"><desc>Saint Alypios, inscription</desc></graphic>
-        <graphic url="018-064-02.JPG"><desc>Saint Alypios, general view</desc></graphic>
-        <graphic url="018-064-03.JPG"><desc>Saint Alypios, general view</desc></graphic>
+         <graphic rend="primary" url="018-055-01.JPG"><desc>Saint Alypios, inscription</desc></graphic>
+        <graphic url="018-055-02.JPG"><desc>Saint Alypios, general view</desc></graphic>
+        <graphic url="018-055-03.JPG"><desc>Saint Alypios, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
