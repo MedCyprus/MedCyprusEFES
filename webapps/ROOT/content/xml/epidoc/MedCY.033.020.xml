@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against red background. Character sizes differ. Omega formed of two linked round bowls, each with an inward-curving spine. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#George">George</rs>
+                            <rs type="iconography" ref="#martyr"></rs>
+                            <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -73,7 +75,18 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/>Ὁ
+                  <lb n="2"/><persName type="sacred" key="George"><w lemma="ἅγιος"><choice><orig>ἁ</orig><reg>ἅ</reg></choice>
+                    <lb n="3" break="no"/>γι
+                    <lb n="4" break="no"/>ος</w>
+                     <cb n="b"/>
+                   <lb n="1"/><name type="forename" nymRef="#Γεώργιος">Γε
+                  <lb n="2" break="no"/>ώ
+                  <lb n="3" break="no"/>ρ
+                  <lb n="4" break="no"/>γι
+                  <lb n="5" break="no"/>ος</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
