@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Systematic use of triangular serifs. Upsilon on a crossed stem. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Paul">Paul the Simple</rs>
+                                  <rs type="iconography" ref="#male"></rs>
+                                <rs type="iconography" ref="#ascetic"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -73,7 +75,18 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                  <lb n="1"/>Ὁ <persName type="sacred" key="PaulTheSimple"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
+                 <lb n="2"/><name type="forename" nymRef="#Παῦλος">Π
+                   <lb n="3" break="no"/>αῦ
+                  <lb n="4" break="no"/>λ
+                    <lb n="5" break="no"/>ος</name>
+                      <cb n="b"/>
+                  <lb n="1"/><addName type="epithet" key="Simple">ὁ 
+                    <lb n="2"/><w lemma="Ἁπλοῦς">Ἁ
+                     <lb n="3" break="no"/>πλ
+                     <lb n="4" break="no"/>οῦς</w></addName></persName>
                  </ab>
             </div>
             <div type="apparatus">
