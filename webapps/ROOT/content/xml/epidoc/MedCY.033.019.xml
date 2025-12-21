@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#LoukasOfSteiris">Loukas Of Steiris</rs>
+                            <rs type="iconography" ref="#monastic"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -73,7 +75,16 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/>
+                  <cb n="b"/>  
+                  <lb n="1"/>ὁ
+                  <lb n="2"/>ἐν
+                  <lb n="3"/>τω
+                  <lb n="4"/>Στει
+                  <lb n="5" break="no"/>ρί
+                  <lb n="6" break="no"/>ω
                  </ab>
             </div>
             <div type="apparatus">
