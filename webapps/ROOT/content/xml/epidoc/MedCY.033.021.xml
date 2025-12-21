@@ -38,11 +38,15 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Character sizes differ. Delta is formed with a lambda on a bottom bar, with a serif to the left of its top bar. Mu with the central strokes reminiscent of an upsilon on a crossed stem. MH and TP joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Demetrios">Demetrios</rs>
+                                  <rs type="iconography" ref="#martyr"></rs>
+                                  <rs type="iconography" ref="#militarysaint"></rs>
+                                  <rs type="iconography" ref="#male"></rs>                                
+                                  <rs type="iconography" ref="#dressmilitary"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -73,7 +77,17 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/>Ὁ
+                  <lb n="2"/><persName type="sacred" key="Demetrios"><w lemma="ἅγιος"><choice><orig>ἁ</orig><reg>ἅ</reg></choice>
+                    <lb n="3" break="no"/>γι
+                    <lb n="4" break="no"/>ος</w>
+                     <cb n="b"/>
+                   <lb n="1"/><name type="forename" nymRef="#Δημήτριος">Δη
+                  <lb n="2" break="no"/><hi rend="ligature">μή</hi>
+                  <lb n="3" break="no"/><hi rend="ligature">τρ</hi>ι
+                  <lb n="4" break="no"/>ος</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
