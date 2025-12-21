@@ -13,7 +13,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.018.040</idno>
+                <idno type="filename">MedCY.018.031</idno>
                 <availability>
                   <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
                 </availability>
@@ -70,10 +70,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="018-040-01.JPG"><desc>Saint Phloros, inscription</desc></graphic>
-        <graphic url="018-040-02.JPG"><desc>Saint Phloros, inscription detail</desc></graphic>   
-        <graphic url="018-040-03.JPG"><desc>Saint Phloros, inscription detail</desc></graphic>
-        <graphic url="018-040-04.JPG"><desc>Saint Phloros, general view</desc></graphic>
+         <graphic rend="primary" url="018-031-01.JPG"><desc>Saint Phloros, inscription</desc></graphic>
+        <graphic url="018-031-02.JPG"><desc>Saint Phloros, inscription detail</desc></graphic>   
+        <graphic url="018-031-03.JPG"><desc>Saint Phloros, inscription detail</desc></graphic>
+        <graphic url="018-031-04.JPG"><desc>Saint Phloros, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
