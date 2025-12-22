@@ -87,7 +87,7 @@
             </div>
             <div type="apparatus">
                 <listApp>
-                    <app loc="1"><rdg source="#Buckler1933">[ἀνοικοδομήθη ὁ πάνσεπτος οὗτος ναὸς δι]</rdg><rdg source="#Sacopoulo1966"></rdg><rdg source="#Stylianou1960">[ΑΝΟΙΚΟΔΟΜΗΘΗ Ο ΠΑΝCΕΠΤΟC ΟΥΤΟC ΝΑΟC ΔΙ]</rdg><rdg source="#Stylianou1973">[ΑΝΙCΤΟΡΗΘΗ Ο ΝΑΟC ΤΗC]</rdg><rdg source="#HatfieldYoung1983">Ἀνοικοδομήθη ὁ Πάνθεπτος οὗτος ναός [δι]ά</rdg><rdg source="#Papageorgiou2003">[Ἀνιστορήθη ὁ πάνσεπτος οὗτος ναός δ]</rdg><rdg source="#HadjichristodoulouMyrianthefs2009">διά</rdg><rdg source="#Buckler1933">κὲ</rdg><rdg source="#Papageorgiou2003">Ἰσχυρίου</rdg><rdg source="#Stylianou1973">ΒΑCΙΛΕΥΩΝΤΟC</rdg><rdg source="#Papageorgiou2003">βασιλεύων(τος)</rdg><rdg source="#Sacopoulo1966">ἰν[δικτίων]ος</rdg><rdg source="#HatfieldYoung1983"></rdg><rdg source="#HadjichristodoulouMyrianthefs2009">ινδικτ(ίωνος)</rdg></app>                 
+                    <app loc="1"><rdg source="#Buckler1933">[ἀνοικοδομήθη ὁ πάνσεπτος οὗτος ναὸς δι]</rdg><rdg source="#Sacopoulo1966"></rdg><rdg source="#Stylianou1960">[ΑΝΟΙΚΟΔΟΜΗΘΗ Ο ΠΑΝCΕΠΤΟC ΟΥΤΟC ΝΑΟC ΔΙ]</rdg><rdg source="#Stylianou1973">[ΑΝΙCΤΟΡΗΘΗ Ο ΝΑΟC ΤΗC]</rdg><rdg source="#HatfieldYoung1983">Ἀνοικοδομήθη ὁ Πάνθεπτος οὗτος ναός [δι]ά</rdg><rdg source="#Papageorgiou2003">[Ἀνιστορήθη ὁ πάνσεπτος οὗτος ναός δ]</rdg><rdg source="#HadjichristodoulouMyrianthefs2009">διά</rdg><rdg source="#VisCult">[----] συνδρομῆς</rdg><rdg source="#Buckler1933">κὲ</rdg><rdg source="#VisCult">πολῦ</rdg><rdg source="#Papageorgiou2003">Ἰσχυρίου</rdg><rdg source="#Stylianou1973">ΒΑCΙΛΕΥΩΝΤΟC</rdg><rdg source="#Papageorgiou2003">βασιλεύων(τος)</rdg><rdg source="#VisCult">βασιλεύων[το]ς</rdg><rdg source="#Sacopoulo1966">ἰν[δικτίων]ος</rdg><rdg source="#HatfieldYoung1983"></rdg><rdg source="#HadjichristodoulouMyrianthefs2009">ινδικτ(ίωνος)</rdg><rdg source="#VisCult">ἰν(δικτιῶνος)</rdg></app>                 
                 </listApp>
             </div>
             <div type="translation">
@@ -105,7 +105,8 @@
                    <bibl><ptr target="#HatfieldYoung1983"/>, <citedRange>321-22</citedRange></bibl>
                    <bibl><ptr target="#Wharton1988"/>, <citedRange>76</citedRange></bibl>
                    <bibl><ptr target="#Papageorgiou2003"/>, <citedRange>107</citedRange></bibl> 
-                    <bibl><ptr target="#HadjichristodoulouMyrianthefs2009"/>, <citedRange>13</citedRange></bibl>
+                   <bibl><ptr target="#HadjichristodoulouMyrianthefs2009"/>, <citedRange>13</citedRange></bibl>
+                   <bibl><author>Carr </author>in <ptr target="#VisCult"/> 1,<citedRange> 182-83</citedRange></bibl>  
                  </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
