@@ -85,17 +85,20 @@
               <ab>
                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <w lemma="νόμος">νόμ<expan><ex>ος</ex></expan></w>
                   <lb n="2"/><w lemma="λέγω">λέγει</w>·
-                  <lb n="3"/>τ<expan><ex>οῖς</ex></expan><gap reason="lost" extent="unknown" unit="character"></gap> <choice><orig>ε</orig><reg>ἐ</reg></choice><expan><ex>ν</ex></expan>
+                  <lb n="3"/><expan><abbr rend="supraline">τ</abbr><ex>οῖς</ex></expan><space extent="unknown" unit="character"></space> <choice><orig>ε</orig><reg>ἐ</reg></choice><expan><ex>ν</ex></expan>
               </ab>
             </div>
             <div type="apparatus">
-                <p>n/a</p>
-                 </div>
+                <listApp>
+                    <app loc="3"><rdg source="#WeylCarr2012a">τ[αῖς...]</rdg>
+                 </app></listApp></div>
             <div type="translation">
                 <p>Τhe law says to [---] those</p> 
             </div>
             <div type="commentary">
-                <p>The inscription is taken from Peter's epistles to the Romans 3:19, 1-2: Now we know that whatever the law says, it says to those who are under the law.</p>
+                <p><lb n="1"/>Text: Rom. 3:19.
+                      <lb n="2"/><hi rend="italic">Οἴδαμεν δὲ ὅτι ὅσα ὁ νόμος λέγει τοῖς ἐν τῷ νόμῳ λαλεῖ.</hi>
+                      <lb n="3"/><q>"Now we know that whatever the law says, it says to those who are under the law"</q>.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
