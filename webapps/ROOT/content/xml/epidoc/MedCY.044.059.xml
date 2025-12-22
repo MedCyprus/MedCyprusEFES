@@ -89,8 +89,9 @@
               </ab>
             </div>
             <div type="apparatus">
-                <p>n/a</p>
-                 </div>
+                <listApp>
+                    <app loc="1"><rdg source="#WeylCarr2012a">τ[αῖς...]</rdg>
+                 </app></listApp></div>
             <div type="translation">
                 <p>Τhe law says to [---] those</p> 
             </div>
