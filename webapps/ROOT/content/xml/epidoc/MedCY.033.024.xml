@@ -73,7 +73,17 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/>Ὁ
+                  <lb n="2"/><persName type="sacred" key="Eusignios"><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
+                    <lb n="3" break="no"/>γι
+                    <lb n="4" break="no"/>ος</w>
+                     <cb n="b"/>
+                   <lb n="1"/><name type="forename" nymRef="#Εὐσίγνιος">Εὐ
+                  <lb n="2" break="no"/>σί
+                  <lb n="3" break="no"/><hi rend="ligature">γν</hi>ι
+                  <lb n="4" break="no"/>ος</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
