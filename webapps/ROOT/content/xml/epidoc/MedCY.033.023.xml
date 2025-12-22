@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against green background. Character sizes differ. Alpha with its apex terminating in a serif to the left. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Prokopios">Prokopios</rs>
+                            <rs type="iconography" ref="#martyr"></rs>
+                            <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -73,7 +75,18 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/>Ὁ
+                  <lb n="2"/><persName type="sacred" key="Prokopios"><w lemma="ἅγιος">ἅ
+                    <lb n="3" break="no"/>γι
+                    <lb n="4" break="no"/>ος</w>
+                     <cb n="b"/>
+                   <lb n="1"/><name type="forename" nymRef="#Προκόπιος">Π
+                  <lb n="2" break="no"/>ρο
+                  <lb n="3" break="no"/>κό
+                  <lb n="4" break="no"/>πι
+                  <lb n="5" break="no"/>ος</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
