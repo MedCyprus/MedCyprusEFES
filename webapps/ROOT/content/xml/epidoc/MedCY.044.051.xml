@@ -78,10 +78,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                   <lb n="1"/>Ὁ <w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                
-                  <lb n="2"/>Ρ
-                  <lb n="3" break="no"/><gap reason="lost" quantity="1" unit="character"/>αν
-                  <lb n="4" break="no"/>δρ
-                  <lb n="4" break="no"/>ος
+                  <lb n="2"/><gap reason="lost" quantity="1" unit="character"></gap>ρ<gap reason="lost" quantity="1" unit="character"></gap>
+                  <lb n="3" break="no"/><unclear>αγ</unclear>αν
+                  <lb n="4" break="no"/>δρος
                 </ab>  
             </div>
             <div type="apparatus">
