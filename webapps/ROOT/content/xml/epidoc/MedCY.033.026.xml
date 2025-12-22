@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Character sizes differ. Omega formed of two linked round bowls, each with an inward-curving spine. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Xenophon">Xenophon</rs>
+                            <rs type="iconography" ref="#monastic"></rs>
+                            <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -73,7 +75,18 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice>
+                  <lb n="2"/><persName type="sacred" key="Xenophon"><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἅ</reg></choice>
+                    <lb n="3" break="no"/>γι
+                    <lb n="4" break="no"/>ος</w>
+                     <cb n="b"/>
+                   <lb n="1"/><name type="forename" nymRef="#Ξενοφῶν">Ξε
+                  <lb n="2" break="no"/>νο
+                  <lb n="3" break="no"/>φ
+                  <lb n="4" break="no"/>ῶ
+                   <lb n="5" break="no"/>ν</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
