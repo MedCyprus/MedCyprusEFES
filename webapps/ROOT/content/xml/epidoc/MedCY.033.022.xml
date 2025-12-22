@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against green background.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#unidentified_figure">Male saint, unidentified</rs>
+                                  <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -73,7 +74,11 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/><supplied reason="lost">Ὁ</supplied>
+                   <lb n="2"/><w lemma="ἅγιος"><supplied reason="lost">ἅγι</supplied>
+                    <lb n="3" break="no"/>ος</w>
                  </ab>
             </div>
             <div type="apparatus">
