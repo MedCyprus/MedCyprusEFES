@@ -91,8 +91,9 @@
               </ab>
             </div>
             <div type="apparatus">
-                <p>n/a</p>
-                 </div>
+                <listApp>
+                    <app loc="4-6"><rdg source="#WeylCarr2012a">φρονει καὶ ὁ μὴ[...]ων</rdg>
+                 </app></listApp></div>
             <div type="translation">
                 <p>Whoever regards one day as special does so to the Lord and whoeved doesn't regard [it] as special.</p> 
             </div>
