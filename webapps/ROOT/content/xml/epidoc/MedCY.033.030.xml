@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#GregoryThaumatourgos">Gregory Thaumatourgos</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -77,15 +79,15 @@
               <ab>
                   <cb n="a"/>
                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="GregoryThaumatourgos"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
-                    <lb n="2"/><name type="forename" nymRef="#Γρηγόριος">Γρη
+                    <lb n="2"/><name type="forename" nymRef="#Γρηγόριος"><choice><sic><hi rend="ligature">Γρ</hi>η
                     <lb n="3" break="no"/>γό
                     <lb n="4" break="no"/>ρη
-                     <lb n="5" break="no"/>ος</name>
+                     <lb n="5" break="no"/>ος</sic><corr>Γρηγόριος</corr></choice></name>
                      <cb n="b"/>
                    <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice>
                   <lb n="2"/><addName type="epithet" key="Miracle-Worker">Θαυ
                   <lb n="3" break="no"/>μα
-                  <lb n="4" break="no"/>ταυρ
+                  <lb n="4" break="no"/>τ<hi rend="ligature">oυ</hi>ρ
                    <lb n="5" break="no"/>γ<choice><orig>ο</orig><reg>ό</reg></choice>ς</addName></persName> 
                  </ab>
             </div>
