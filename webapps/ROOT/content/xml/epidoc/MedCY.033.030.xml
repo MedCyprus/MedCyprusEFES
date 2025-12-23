@@ -74,7 +74,19 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="GregoryThaumatourgos"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
+                    <lb n="2"/><name type="forename" nymRef="#Γρηγόριος">Γρη
+                    <lb n="3" break="no"/>γό
+                    <lb n="4" break="no"/>ρη
+                     <lb n="5" break="no"/>ος</name>
+                     <cb n="b"/>
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice>
+                  <lb n="2"/><addName type="epithet" key="Miracle-Worker">Θαυ
+                  <lb n="3" break="no"/>μα
+                  <lb n="4" break="no"/>ταυρ
+                   <lb n="5" break="no"/>γ<choice><orig>ο</orig><reg>ό</reg></choice>ς</addName></persName> 
                  </ab>
             </div>
             <div type="apparatus">
