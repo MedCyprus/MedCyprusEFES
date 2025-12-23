@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Character sizes differ. ΓΡ joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#GregoryOfAgrigento">Gregory</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,23 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                    <cb n="a"/>
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="GregoryOfAgrigento">
+             <w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>ά</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
+                   <lb n="2"/><name type="forename" nymRef="#Γρηγόριος"><hi rend="ligature">Γρ</hi>η
+                  <lb n="3" break="no"/>γό
+                  <lb n="4" break="no"/>ρι
+                  <lb n="5" break="no"/>ο
+                   <lb n="6" break="no"/>ς</name>
+                   <cb n="b"/>
+                     <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice>
+                     <lb n="2"/><placeName ref="mentioned_places.xml#Agrigento"><choice><orig>A</orig><reg>Ἀ</reg></choice>
+                     <lb n="3" break="no"/>κρα
+                       <lb n="4" break="no"/>γαν
+                       <lb n="5" break="no"/>τ<choice><orig>ı</orig><reg>ί</reg></choice>
+                     <lb n="6" break="no"/>νο
+                        <lb n="7" break="no"/>ς</placeName></persName>
                  </ab>
             </div>
             <div type="apparatus">
