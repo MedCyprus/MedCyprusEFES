@@ -86,14 +86,16 @@
             <div type="apparatus">
                 <listApp>
                     <app loc="1"><rdg source="#Papageorgiou2003">Δέησις</rdg><rdg source="#VisCult"></rdg></app>
-                    <app loc="2"><rdg source="#HadjichristodoulouMyrianthefs2009">Καλλή[α]</rdg></app>
+                    <app loc="2"><rdg source="#HadjichristodoulouMyrianthefs2009">Καλλή[α]</rdg><rdg source="#Rhoby2009">ΚΑΛΛΗΑ, Καλλία</rdg><rdg source="#Ševčenko2012">Καλληά</rdg><rdg source="#VisCult"></rdg></app>
                 </listApp>
                  </div>
             <div type="translation"> 
                 <p>Invocation of Nikephoros the farrier (?) (<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 82</citedRange></bibl>)</p> 
             </div>
             <div type="commentary">
-                <p>The inscription, written in a different colour to the dedicatory epigram above (see <ref target="MedCY.044.104.html">MedCY.044.104</ref>), may have been added when this and the fresco of Saint George on horseback were completed. Consequently, Nikephoros the farrier is probably a different person from the veterinarian Nikephoros, mentioned in the dedicatory epigram (<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 83</citedRange></bibl>; <bibl><ptr target="#VisCult"/>,<citedRange> 189</citedRange></bibl>).</p>
+                <p>The inscription, written in a different colour from the dedicatory epigram above (see <ref target="MedCY.044.104.html">MedCY.044.104</ref>), may have been added when both it and the fresco of Saint George on horseback were completed. According to Weyl Carr in <ptr target="#VisCult"/>, if Καλληάς is understood as καλλιγᾶς, the term should be interpreted as ‘farrier’. However, following <ptr target="#Rhoby2009"></ptr>, 342–43, Nikephoros Kallias should rather be understood as a personal name in which Kallias functions as a byname. On this reading, Nikephoros the farrier is to be identified with a single individual, not distinct from the Nikephoros mentioned in the dedicatory epigram.
+
+<!--The inscription, written in a different colour from the dedicatory epigram above (see <ref target="MedCY.044.104.html">MedCY.044.104</ref>), may have been added when this and the fresco of Saint George on horseback were completed. Consequently, Nikephoros the farrier is probably a different person from the veterinarian Nikephoros, mentioned in the dedicatory epigram (<bibl><ptr target="#Ševčenko2012"/>,<citedRange> 83</citedRange></bibl>; <bibl><ptr target="#VisCult"/>,<citedRange> 189</citedRange></bibl>).--></p>
             </div>
             <div type="bibliography">
                 <listBibl>
@@ -103,8 +105,8 @@
                    <bibl><ptr target="#Stylianou1973"/>, <citedRange>34-36</citedRange></bibl>   
                    <bibl><ptr target="#Wharton1988"/>, <citedRange>77</citedRange></bibl>
                    <bibl><ptr target="#Papageorgiou2003"/>, <citedRange>111-112</citedRange></bibl>
-                    <bibl><ptr target="#Rhoby2009"/>, <citedRange>342-44</citedRange></bibl>
-                    <bibl><ptr target="#HadjichristodoulouMyrianthefs2009"/>, <citedRange>29-30</citedRange></bibl>
+                   <bibl><ptr target="#HadjichristodoulouMyrianthefs2009"/>, <citedRange>29-30</citedRange></bibl>
+                    <bibl><ptr target="#Rhoby2009"/>, <citedRange>342-44</citedRange></bibl>                   
                     <bibl><ptr target="#Ševčenko2012"/>, <citedRange>81-83</citedRange></bibl>                                                                <bibl><author>Carr </author>in <ptr target="#VisCult"/><citedRange> 1, 187-90</citedRange></bibl>       
                 </listBibl>              
                 <p>bibliography of previous editions, discussion, etc.</p>
