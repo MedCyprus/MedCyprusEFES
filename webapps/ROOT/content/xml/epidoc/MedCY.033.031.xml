@@ -74,7 +74,9 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/>
                  </ab>
             </div>
             <div type="apparatus">
