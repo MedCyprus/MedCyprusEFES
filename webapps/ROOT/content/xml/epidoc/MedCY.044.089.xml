@@ -82,12 +82,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <lb n="1"/><g ref="#cross">+</g> <w lemma="ἐγώ"><choice><orig>Ἑ</orig><reg>Ἐ</reg></choice>γὼ</w> <w lemma="οὐκέτι"><hi rend="ligature">οὐ</hi>         
-                  <lb n="2" break="no"/>κέτι</w> <w lemma="φοβοῦμαι"><choice><sic>φοβ<hi rend="ligature"><unclear>ου</unclear></hi>
+                  <lb n="2" break="no"/>κέτι</w> <w lemma="φοβοῦμαι"><choice><sic>φοβ<hi rend="ligature">ού</hi>
                   <lb n="3" break="no"/><supplied reason="lost">μ</supplied><unclear>ε</unclear></sic><corr>φοβοῦμαι</corr></choice></w> <expan><abbr>τ</abbr><ex>ὸν</ex></expan> <persName type="divine" key="God"><w lemma="Θεός"><supplied reason="lost"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><abbr rend="supraline">ν</abbr></expan></supplied></w></persName> <w lemma="ἀλλά"><supplied reason="lost">ἀλ</supplied><unclear>λ᾽</unclear></w> <w lemma="ἀγαπῶ"><choice><sic><unclear>ἀ</unclear>
                   <lb n="4" break="no"/>γαπ<choice><orig>ο</orig><reg>ο&#x0342; </reg></choice></sic><corr>ἀγαπῶ</corr></choice></w> <w lemma="αὐτός"><choice><sic><hi rend="ligature">αὐ</hi><hi rend="ligature">τ<choice><orig>ω</orig><reg>ώ</reg></choice></hi><expan><ex>ν</ex></expan></sic><corr>αὐτόν</corr></choice></w><choice><reg>,</reg><orig>·</orig></choice> ἡ
-                  <lb n="5"/><unclear>γὰ</unclear>ρ <w lemma="τελεία"><expan><abbr>τ<supplied reason="lost">ελ</supplied></abbr><supplied reason="lost"><ex>εία</ex></supplied></expan></w> <w lemma="ἀγάπη"></w><w lemma="ἀγάπη"><unclear>ἀ</unclear>γ<supplied reason="lost">ά</supplied>
-                  <lb n="6" break="no"/><supplied reason="lost">πη</supplied> </w><w lemma="ἔξω"><supplied reason="lost">ἔξω</supplied></w> <w lemma="βάλλω"><supplied reason="lost">βάλ</supplied>
-                  <lb n="7" break="no"/>ει</w> <hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi>ν <w lemma="φόβος">φ<unclear>ό</unclear>
+                  <lb n="5"/><unclear>γὰρ</unclear> <w lemma="τελεία"><expan><abbr>τ<supplied reason="lost">ελ</supplied></abbr><supplied reason="lost"><ex>εία</ex></supplied></expan></w> <w lemma="ἀγάπη"></w><w lemma="ἀγάπη"><unclear>ἀ</unclear>γ<supplied reason="lost">ά</supplied>
+                  <lb n="6" break="no"/><supplied reason="lost">πη</supplied> </w><w lemma="ἔξω"><supplied reason="lost">ἔξω</supplied></w> <w lemma="βάλλω"><supplied reason="lost">βά</supplied>
+                  <lb n="7" break="no"/>λει</w> <hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi>ν <w lemma="φόβος">φ<unclear>ό</unclear>
                   <lb n="8" break="no"/>β<unclear>ον</unclear></w> <g ref="#cross">+</g>
               </ab>
             </div>
@@ -100,7 +100,7 @@
                 <p>I no longer fear God, but I love Him. For love casts out fear</p> 
             </div>
             <div type="commentary">
-                <p>The inscription is identified with a saying of Saint Antonios from the Apophegmata Patrum (PG 65,85). The same text is proposed for the scroll of Saint Antonios in the Painter's Manual of Dionysios of Fourna (<bibl><ptr target="#PapadopoulosKerameus1909"/>, <citedRange>292, incipit 273</citedRange></bibl>, <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 105, n.1</citedRange></bibl>).</p> 
+                <p>The inscription is identified with a saying of Saint Antonios from the Apophegmata Patrum (PG 65, col. 85, lines 31-33) and <bibl><ptr target="Guy1993"/>, <biblScope unit="chapter">ch. 17</biblScope>, <biblScope unit="section">§ 1</biblScope>, <biblScope unit="line">lines 1–2</biblScope></bibl>. The same text is proposed for the scroll of Saint Antonios in the Painter's Manual of Dionysios of Fourna (<bibl><ptr target="#PapadopoulosKerameus1909"/>, <citedRange>292, incipit 273</citedRange></bibl>, <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 105, n.1</citedRange></bibl>).</p> 
             </div>
             <div type="bibliography">
                 <listBibl> 
