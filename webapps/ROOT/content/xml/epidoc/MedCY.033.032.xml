@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Character size varies. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#GregoryOfCrete">Gregory Of Crete</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,19 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="GregoryOfCrete"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
+                  <lb n="2"/><name type="forename" nymRef="#Γρηγόριος">Γρη
+                    <lb n="3" break="no"/>γό
+                    <lb n="4" break="no"/><supplied reason="lost">ριος</supplied></name>
+                    <cb n="b"/>
+                    <lb n="1"/>ὁ
+                  <lb n="2"/>ἐν
+                  <lb n="3"/>τω
+                    <lb n="4"/><placeName ref="mentioned_places.xml#Akritas">Ἀ
+                     <lb n="5" break="no"/><supplied reason="lost">κ</supplied>ρ<supplied reason="lost">ί</supplied>
+                     <lb n="6" break="no"/>τ<supplied reason="lost">α</supplied></placeName></persName>
                  </ab>
             </div>
             <div type="apparatus">
