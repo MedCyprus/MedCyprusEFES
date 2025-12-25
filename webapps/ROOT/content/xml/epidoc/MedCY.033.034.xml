@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against green background. Delta is formed with a lambda on a bottom bar, with a serif to the left of its top bar.  
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#TheodoreStratelates">Theodore Stratelates</rs>
+                            <rs type="iconography" ref="#martyr"></rs>
+                                  <rs type="iconography" ref="#male"></rs> 
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -73,7 +75,12 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Theodore"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
+                  <lb n="2"/><name type="forename" nymRef="#Θεόδωρος"><supplied reason="lost">Θε</supplied>
+                    <lb n="3" break="no"/>ό
+                      <lb n="4" break="no"/>δ<supplied reason="lost">ωρος</supplied></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
