@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Characters' size varies. Mu with the central strokes reminiscent of an upsilon on a stem. Omega formed of two linked round bowls, each with an inward-curving spine. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Moses">Moses</rs>
+                                
+                                <rs type="iconography" ref="#prophet"></rs>
+                                <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +77,16 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Moses"><w lemma="προφήτης"><supplied reason="lost">πρ</supplied>ο
+                  <lb n="2" break="no"/>φ<choice><orig>η</orig><reg>ή</reg></choice>τ<supplied reason="omitted">ης</supplied></w>
+                      <cb n="b"/>
+                      <lb n="1"/><name type="forename" nymRef="#Μωυσῆς">Μ
+                          <lb n="2" break="no"/>ω<supplied reason="omitted">υ</supplied>
+                          <lb n="3" break="no"/>σ
+                           <lb n="4" break="no"/>ῆ
+                          <lb n="5" break="no"/>ς</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
