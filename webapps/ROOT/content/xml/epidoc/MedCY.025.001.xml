@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Communion of the Apostles</title>
+                <title>Communion of the Apostles, Metadosis (Offering of the Bread)</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, upper register</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, upper register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -41,7 +41,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#CommunionApostles">Communion of the Apostles</rs>
+                            <p><rs type="iconography" ref="#CommunionApostlesMetalepsis">Communion of the Apostles, Metadosis (Offering of the Bread)</rs>
+                                 <rs type="iconography" ref="#CommunionApostles"></rs>
                                 <rs type="iconography" ref="#christological"></rs>                                
                                 <rs type="iconography" ref="#liturgical"></rs>
                             </p>
@@ -50,11 +51,11 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#KatoLefkara">Kato Lefkara, Archangel Michael</origPlace>
-                            <origDate notBefore="1167" notAfter="1233" precision="medium">Late 12th century-Early 13th century</origDate>
+                            <origDate notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style">Late 12th century-Early 13th century</origDate>
                         </origin>                        
                         <provenance when="2022">
                         </provenance>    
-                        <provenance type="observed" resp="#tp">13/04/2022</provenance>
+                        <provenance type="observed" resp="#tp">08/02/2022</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -69,8 +70,12 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="..."/>
-    </facsimile>
+         <graphic rend="primary" url="025-002-01.JPG"><desc>Communion of the Apostles, Metadosis (Offering of the Bread), inscription detail (Photographic composite, two images)</desc></graphic>
+         <graphic url="025-002-02.JPG"><desc>Communion of the Apostles, Metadosis (Offering of the Bread), inscription</desc></graphic>
+         <graphic url="025-002-03.JPG"><desc>Communion of the Apostles, Metadosis (Offering of the Bread), inscription detail</desc></graphic>
+         <graphic url="025-002-04.JPG"><desc>Communion of the Apostles, Metadosis (Offering of the Bread), inscription detail</desc></graphic>
+         <graphic url="025-002-05.JPG"><desc>Communion of the Apostles, Metadosis (Offering of the Bread), general view</desc></graphic>
+             </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
