@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Characters' size varies. Alpha with its apex terminating in a serif to the left. Accents and breathings systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Athanasios">Athanasios</rs>
+                                <rs type="iconography" ref="#prelate"></rs>
+                                <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,14 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Athanasios"><supplied reason="lost"><w lemma="ἅγιος">ἅγιος</w></supplied>
+                  <cb n="b"/>
+                  <lb n="1"/><name type="forename" nymRef="#Ἀθανάσιος">Ἀ
+                  <lb n="2" break="no"/>θα
+                  <lb n="3" break="no"/>νά
+                  <lb n="4" break="no"/><supplied reason="lost">σιος</supplied></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
