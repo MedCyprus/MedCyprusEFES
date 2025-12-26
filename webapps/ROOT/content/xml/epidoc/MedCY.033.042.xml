@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Betrayal">Betrayal</rs>
+                            <rs type="iconography" ref="#christological"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -73,7 +74,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><supplied reason="lost">Ή</supplied> <w lemma="Προδοσία"><supplied reason="lost">Προδ</supplied>οσία</w>
                  </ab>
             </div>
             <div type="apparatus">
