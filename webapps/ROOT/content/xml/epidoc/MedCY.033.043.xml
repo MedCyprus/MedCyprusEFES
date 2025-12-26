@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Characters' size varies. Omega with its apex surmounted by a crosslet. John is abbreviated as Ἰω(άννης) with a small horizontal line above Ἰω. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#JohnTheologian">John the Evangelist</rs>
+                             <rs type="iconography" ref="#evangelist"></rs>
+                                <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -73,7 +75,12 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><persName type="sacred" key="JohnTheologian"><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan> ὁ
+                   <lb n="2"/><addName type="epithet" key="Theologian">Θε
+                   <lb n="3" break="no"/>o
+                  <lb n="4" break="no"/><supplied reason="lost">λ</supplied>ό
+                  <lb n="5" break="no"/>γος</addName></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
