@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against red background. Character size varies. Alpha with its apex terminating in a serif to the left. Omega formed of two linked oval bowls. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#JamesPersian">James Persian</rs>
+                                   <rs type="iconography" ref="#martyr"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -73,7 +75,10 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                         <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="JamesPersian"><w lemma="ἅγιος"><supplied reason="lost"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></supplied></w>
+                  <lb n="2"/><name type="forename" nymRef="#Ἰάκωβος"><choice><orig>I</orig><reg>Ἰ</reg></choice><choice><orig>α</orig><reg>ά</reg></choice>κω
+                    <lb n="3" break="no"/>βο<supplied reason="lost">ς</supplied></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
