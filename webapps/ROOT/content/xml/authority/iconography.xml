@@ -101,7 +101,7 @@
                     <term xml:lang="en">Last Judgment</term>
                 </item>               
                 <item xml:id="LastJudgmentRighteousHeaven">
-                    <term xml:lang="en">Last Judgment, the Righteous in Heaven</term>
+                    <term xml:lang="en">Last Judgment, Angel(?) calling the righteous to Heaven</term>
                 </item>
                 <item xml:id="LastJudgmentScale">
                     <term xml:lang="en">Last Judgment, Scale of Justice</term>
@@ -110,7 +110,7 @@
                 <term xml:lang="en">Last Judgment, the Scroll of Heaven</term>
                 </item>
                 <item xml:id="LastJudgmentSinnersInHell">
-                    <term xml:lang="en">Last Judgment, Sinners in Hell</term>
+                    <term xml:lang="en">Last Judgment, Fiery angel driving sinners in Hell</term>
                 </item>
                 <item xml:id="LastJudgmentRichMan">
                     <term xml:lang="en">Last Judgement, the rich man in hell</term>
@@ -827,10 +827,10 @@
                 </item>
                 <item xml:id="Zacharias">
                     <term xml:lang="en"
-                    >Zacharias</term><!--for the priest/prophet/father of John the Forurunner -->
+                    >Zacharias</term><note>for the priest/prophet/father of John the Forurunner</note>
                 </item>
                 <item xml:id="Zechariah">
-                    <term xml:lang="en">Zechariah</term><!--for the Old Testament prophet-->
+                    <term xml:lang="en">Zechariah</term><note>for the Old Testament prophet</note>
                 </item>
                 <item xml:id="Zenon">
                     <term xml:lang="en">Zenon</term>
