@@ -1333,13 +1333,15 @@
                 <person xml:id="Zacharias">
                     <persName xml:lang="grc">Ζαχαρίας</persName>
                     <persName xml:lang="en">Zacharias</persName>                   
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q139464</idno><!--for the priest/prophet/father of John the Forurunner -->
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q139464</idno>
+                    <note>for the priest/prophet/father of John the Forurunner</note>                
                 </person>
                 
                 <person xml:id="Zechariah">
                     <persName xml:lang="grc">Ζαχαρίας</persName>
                     <persName xml:lang="en">Zechariah</persName>                   
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q604259</idno><!--for the Old Testament prophet-->              
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q604259</idno>
+                    <note>for the Old Testament prophet</note>              
                 </person>
                 
                 <person xml:id="Zosimas">
