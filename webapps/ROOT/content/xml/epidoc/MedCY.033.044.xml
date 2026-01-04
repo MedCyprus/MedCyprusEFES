@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against red background. Mu with the central strokes reminiscent of an upsilon on a stem.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Misael">Misael</rs>
+                                <rs type="iconography" ref="#monastic"></rs>
+                                <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,14 +76,17 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Misael"><supplied reason="lost"><w lemma="ἅγιος">ἅγιος</w></supplied>
+                  <lb n="2"/><name type="forename" nymRef="#Μισαήλ">Μ<supplied reason="lost">ισαήλ</supplied></name></persName>
+                  
                  </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Not usefully traslated</p>
+                <p>[Saint] [M]isael</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
