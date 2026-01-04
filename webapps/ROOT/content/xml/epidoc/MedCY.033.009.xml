@@ -77,9 +77,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab><cb n="a"/>
                   <lb n="1"/><supplied reason="lost">Ὁ</supplied>
-                 <lb n="2"/><persName type="sacred" key="Vincent"><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
-                 <lb n="3" break="no"/><supplied reason="lost">γ</supplied>
-                 <lb n="4" break="no"/><supplied reason="lost">ι</supplied>
+                 <lb n="2"/><persName type="sacred" key="Vincent"><w lemma="ἅγιος"><supplied reason="lost">ἅ
+                 <lb n="3" break="no"/>γ
+                 <lb n="4" break="no"/>ι</supplied>
                   <lb n="5" break="no"/>ο<supplied reason="lost">ς</supplied></w>
                    <cb n="b"/>
                    <lb n="1"/><name nymRef ="#Βικέντιος" type="forename">Βι
