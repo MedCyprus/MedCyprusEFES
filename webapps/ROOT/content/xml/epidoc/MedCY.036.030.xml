@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>Red letters against white background. Majuscule letters. Characters' size varies. Mu with its middle bar forming a tau. Delta is formed with a lambda on a horizontal bar, with a bottom bar terminating in serifs on both ends. AN joined in ligature. Accents and breathings non systematic.
+                             <handNote>Red majuscule letters against white background. Character size varies. Mu with its middle bar forming a tau. Delta is formed with a lambda on a horizontal bar, with a bottom bar terminating in serifs on both ends. AN joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -48,8 +48,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Lagoudera">Lagoudera, Panagia tou Araka or Arakiotissa </origPlace>
-                            <origDate when="1192-12" precision="high">Indiction 11, December 1192</origDate>
+                            <origPlace ref="locations.xml#Lagoudera" n="2nd">Lagoudera, Panagia tou Araka or Arakiotissa </origPlace>
+                            <origDate when="1192-12" precision="high" evidence="internal-date">Indiction 11, December 1192</origDate>
                          </origin>
                         <provenance when="2022">
                         </provenance>
