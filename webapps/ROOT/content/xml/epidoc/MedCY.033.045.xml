@@ -73,7 +73,11 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <cb n="a"/>
+                   <lb n="1"/> <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key=""><w lemma="ἅγιος"><supplied reason="lost"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></supplied></w>
+                   <cb n="b"/>
+                     <lb n="1"/> <name type="forename" nymRef="#"></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
