@@ -77,7 +77,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <cb n="a"/>
-                   <lb n="1"/>
+                   <lb n="1"/><supplied reason="lost">Ὁ</supplied> <w lemma="ἅγιος"><supplied reason="lost"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></supplied></w>
+                  <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>
                   <cb n="b"/>  
                   <lb n="1"/>ὁ
                   <lb n="2"/>ἐν
