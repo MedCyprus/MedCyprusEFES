@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#ClementRome">Clement of Rome</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -73,14 +75,21 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab>
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="ClementRome"><w lemma="ἅγιος"><supplied reason="lost"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></supplied></w>
+                   <lb n="2"/><name nymRef ="#Κλήμης" type="forename"><supplied reason="lost">Κ</supplied>
+                    <lb n="3" break="no"/><supplied reason="lost">λ</supplied>
+                    <lb n="4" break="no"/><supplied reason="lost">ή</supplied>
+                     <lb n="5" break="no"/>μ
+                     <lb n="6" break="no"/>η
+                      <lb n="7" break="no"/>ς</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Not usefully translated</p>
+                <p>[Saint] [-?-]ment</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
