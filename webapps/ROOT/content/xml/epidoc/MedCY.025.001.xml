@@ -12,7 +12,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.025.002</idno>
+                <idno type="filename">MedCY.025.001</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
                 </availability>
@@ -50,7 +50,7 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#KatoLefkara">Kato Lefkara, Archangel Michael</origPlace>
+                            <origPlace ref="locations.xml#KatoLefkara" n="1st">Kato Lefkara, Archangel Michael</origPlace>
                             <origDate notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style">Late 12th century-Early 13th century</origDate>
                         </origin>                        
                         <provenance when="2022">
@@ -70,11 +70,11 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="025-002-01.jpg"><desc>Communion of the Apostles, Metadosis (Offering of the Bread), inscription detail (Photographic composite, two images)</desc></graphic>
-         <graphic url="025-002-02.JPG"><desc>Communion of the Apostles, Metadosis (Offering of the Bread), inscription</desc></graphic>
-         <graphic url="025-002-03.JPG"><desc>Communion of the Apostles, Metadosis (Offering of the Bread), inscription detail</desc></graphic>
-         <graphic url="025-002-04.JPG"><desc>Communion of the Apostles, Metadosis (Offering of the Bread), inscription detail</desc></graphic>
-         <graphic url="025-002-05.JPG"><desc>Communion of the Apostles, Metadosis (Offering of the Bread), general view</desc></graphic>
+         <graphic rend="primary" url="025-001-01.jpg"><desc>Communion of the Apostles, Metadosis (Offering of the Bread), inscription detail (Photographic composite, two images)</desc></graphic>
+         <graphic url="025-001-02.JPG"><desc>Communion of the Apostles, Metadosis (Offering of the Bread), inscription</desc></graphic>
+         <graphic url="025-001-03.JPG"><desc>Communion of the Apostles, Metadosis (Offering of the Bread), inscription detail</desc></graphic>
+         <graphic url="025-001-04.JPG"><desc>Communion of the Apostles, Metadosis (Offering of the Bread), inscription detail</desc></graphic>
+         <graphic url="025-001-05.JPG"><desc>Communion of the Apostles, Metadosis (Offering of the Bread), general view</desc></graphic>
              </facsimile>
     <text>
         <body>
