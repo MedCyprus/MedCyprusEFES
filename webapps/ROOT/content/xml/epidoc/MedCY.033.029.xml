@@ -87,12 +87,12 @@
                    <lb n="6" break="no"/>ς</name>
                    <cb n="b"/>
                      <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice>
-                     <lb n="2"/><placeName ref="mentioned_places.xml#Agrigento"><choice><orig>A</orig><reg>Ἀ</reg></choice>
+                     <lb n="2"/><addName type="epithet" key="Agrigento"><placeName ref="mentioned_places.xml#Agrigento"><choice><orig>A</orig><reg>Ἀ</reg></choice>
                      <lb n="3" break="no"/>κρα
                        <lb n="4" break="no"/>γαν
                        <lb n="5" break="no"/>τ<choice><orig>ı</orig><reg>ί</reg></choice>
                      <lb n="6" break="no"/>νο
-                        <lb n="7" break="no"/>ς</placeName></persName>
+                        <lb n="7" break="no"/>ς</placeName></addName></persName>
                  </ab>
             </div>
             <div type="apparatus">
