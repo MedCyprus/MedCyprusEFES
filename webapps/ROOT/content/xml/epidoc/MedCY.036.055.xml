@@ -82,10 +82,10 @@
                     <lb n="1"/>Ὁ <persName type="sacred" key="Stephen"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>
                     <lb n="2"/><name type="forename" nymRef="#Στέφανος">Στέ
                    <lb n="3" break="no"/>φ<hi rend="ligature">αν</hi>ο<supplied reason="omitted">ς</supplied></name>
-                   <lb n="4"/>ὁ <addName type="epithet" key="Protomartyr"><hi rend="ligature">Πρ</hi>ωτο
+                   <lb n="4"/>ὁ <addName type="epithet" key="Protomartyr"><hi rend="ligature">Πρ</hi>οτώ
                    <lb n="5" break="no"/>
                   <cb n="b"/>
-                   <lb n="1"/>μ<hi rend="ligature"><choice><orig>α</orig><reg>ά</reg></choice>ρ</hi>τ<choice><orig>ῦ</orig><reg>υ</reg></choice><supplied reason="omitted">ρα</supplied>ς</addName></persName>
+                   <lb n="1"/>μ<choice><sic><hi rend="ligature"><choice><orig>α</orig><reg>ά</reg></choice>ρ</hi>τ<choice><orig>ῦ</orig><reg>υ</reg></choice><supplied reason="omitted">ρα</supplied>ς</sic><corr>Πρωτομάρτυρας</corr></choice></addName></persName>
                </ab>
             </div>
             <div type="apparatus">
