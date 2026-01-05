@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">3,5-5</height>
+                             <handNote>Black majuscule letters against white background. Character size varies. Wavy, horizontal abbreviation mark above all the abbreviations. Letter height: <height unit="cm">3,5-5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -75,8 +75,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/>  I C   <milestone unit="column"/> XC
-                  <lb n="2"/> ΥC   ΞC <milestone unit="column"/>  ΕΘ   ΘΥ
+                   <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"> <expan><abbr rend="supraline">Ἱ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan><am>&#x00A0;῀&#x00A0;</am><milestone unit="column"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan><am>&#x00B4;</am></addName></name></persName> 
+                  <lb n="2"/><persName type="divine" key="SonOfGod"><expan><abbr rend="supraline">Υ</abbr><ex>ἱὸ</ex><abbr rend="supraline">ς</abbr></expan><am>&#x00A0;῀&#x00A0;</am> ΞC <milestone unit="column"/> ΕΘ <expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></persName>
 
                </ab>
             </div>
