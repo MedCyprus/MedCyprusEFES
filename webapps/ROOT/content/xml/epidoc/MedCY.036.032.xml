@@ -81,7 +81,7 @@
                     <lb n="1"/>Ὁ <persName type="sacred" key="JohnOfDamascus"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>
                     <lb n="2"/><name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>          
                     <lb n="3"/><placeName ref="mentioned_places.xml#Damascus">Ὁ
-                     <lb n="4"/>Δαμας
+                     <lb n="4"/>Δαμασ
                       <lb n="5" break="no"/>
                      <cb n="b"/>
                     <lb n="1"/>κη
