@@ -77,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/><g ref="#cross">+</g>Ἡ <w lemma="ἑτοιμασία"><choice><sic><choice><orig>Ε</orig><reg>Ἑ</reg></choice>τυ <milestone unit="column" />μασ<choice><orig>ï</orig><reg>ί</reg></choice><choice><orig>ά</orig><reg>α</reg></choice></sic><corr>Ἑτοιμασία</corr></choice></w>   
+                    <lb n="1"/><g ref="#cross">+</g>Ἡ <w lemma="ἑτοιμασία"><choice><sic><choice><orig>Ἐ</orig><reg>Ἑ</reg></choice>τυ <milestone unit="column" />μασ<choice><orig>ΐ</orig><reg>ί</reg></choice>α</sic><corr>Ἑτοιμασία</corr></choice></w>   
                </ab>
             </div>
             <div type="apparatus">
