@@ -83,9 +83,9 @@
                       <lb n="1"/>Ὁ <persName type="sacred" key="Ezekiel"><w lemma="προφήτης"><hi rend="ligature">πρ</hi>ο
                         <lb n="2" break="no"/>φή<hi rend="ligature">της</hi></w>
                          <cb n="b"/>
-                          <lb n="1"/><name type="forename" nymRef="#Ἰεζεκιήλ"><choice><orig>Ï</orig><reg>Ἰ</reg></choice><choice><orig>έ</orig><reg>ε</reg></choice>
+                          <lb n="1"/><name type="forename" nymRef="#Ἰεζεκιήλ"><choice><orig>ΐ</orig><reg>Ἰ</reg></choice><choice><orig>ἐ</orig><reg>ε</reg></choice>
                          <lb n="2" break="no"/>ζε
-                          <lb n="3" break="no"/>κι<space quantity="1" unit="character"/>ήλ</name></persName>
+                          <lb n="3" break="no"/>κι<space quantity="1" unit="character"/><choice><orig>ῆ</orig><reg>ή</reg></choice>λ</name></persName>
                </ab>
             </div>
             <div type="apparatus">
