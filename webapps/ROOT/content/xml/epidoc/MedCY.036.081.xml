@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Final sigma with a wavy tail. THC joined in ligature. Accents and breathings non systematic.
+                             <handNote>White letters against blue background. Majuscule letters. Characters' size varies. Final sigma with a wavy tail. TH joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -82,11 +82,11 @@
                     <cb n="a"/>
                       <lb n="1"/>Ὁ 
                         <lb n="2"/><persName type="sacred" key="Jonah"><w lemma="προφήτης">προ
-                         <lb n="3" break="no"/>φή<hi rend="ligature">της</hi></w>
+                         <lb n="3" break="no"/>φή<hi rend="ligature">τη</hi>ς</w>
                          <cb n="b"/>
-                           <lb n="1"/><name type="forename" nymRef="#Ἰωνάς"><choice><orig>Ï</orig><reg>Ἰ</reg></choice>
+                           <lb n="1"/><name type="forename" nymRef="#Ἰωνάς"><choice><orig>ΐ</orig><reg>Ἰ</reg></choice>
                              <lb n="2"/>ω
-                             <lb n="3"/>ν<choice><orig>α</orig><reg>ά</reg></choice>ς</name></persName>
+                             <lb n="3"/>ν<choice><orig>α</orig><reg>ᾶ</reg></choice>ς</name></persName>
                </ab>
             </div>
             <div type="apparatus">
