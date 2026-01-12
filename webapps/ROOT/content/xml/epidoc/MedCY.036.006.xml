@@ -51,7 +51,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Lagoudera">Lagoudera, Panagia tou Araka or Arakiotissa </origPlace>
-                            <origDate notBefore="1170" notAfter="1178">1170s</origDate>
+                            <origDate notBefore="1170" notAfter="1178" precision="medium" evidence="artistic-style">1170s</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
