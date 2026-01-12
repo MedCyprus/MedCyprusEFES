@@ -53,7 +53,7 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Lagoudera">Lagoudera, Panagia tou Araka or Arakiotissa </origPlace>
+                            <origPlace ref="locations.xml#Lagoudera" n="2nd">Lagoudera, Panagia tou Araka or Arakiotissa </origPlace>
                             <origDate when="1192-12" evidence="internal-date">Indiction 11, December 1192</origDate>
                          </origin>
                         <provenance when="2022">
