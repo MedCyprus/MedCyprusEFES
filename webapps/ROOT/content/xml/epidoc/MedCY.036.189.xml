@@ -30,7 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, northwestern pilaster, west face, lower register</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>30</height><width>14</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>40</height><width>18</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>Black majuscule letters against white background. Character size varies. Systematic use of triangular serifs. MHNHN and HC joined in ligature. Letter height: <height unit="cm">3</height>   
                             </handNote>
                         </handDesc>
                         <decoDesc>
