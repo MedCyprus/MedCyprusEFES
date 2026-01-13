@@ -30,7 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwestern pilaster, west face, lower register</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                     <dimensions unit="cm" scope="text"><height>37</height><width>15</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>45</height><width>18</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>Black majuscule letters against white background. Character size varies. Systematic use of triangular serifs. Delta with a serif to the left of its top bar and a tail extending outward to the right. OY and NH joined in ligature. Horizontal abbreviation mark above ΘΥ. Letter height: <height unit="cm">2-3,5</height>    
                             </handNote>
                         </handDesc>
                         <decoDesc>
