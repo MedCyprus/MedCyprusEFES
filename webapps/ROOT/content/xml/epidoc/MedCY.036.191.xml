@@ -30,7 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, northwestern recess' soffit, west side, lower register</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>30,5</height><width>15,5</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>40</height><width>19</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>Black majuscule letters against white background. Character size varies. Systematic use of triangular serifs. Delta with a serif to the left of its top bar and a tail extending outward to the right. Mu with the central strokes reminiscent of an upsilon on a stem. OY, THN, and HN joined in ligature. Wavy, horizontal abbreviation mark above KN. Letter height: <height unit="cm">3</height>   
                             </handNote>
                         </handDesc>
                         <decoDesc>
