@@ -30,7 +30,7 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, north wall, lower register, above the north entrance</rs>
-                                    <dimensions><height>PENDING</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>93</height><width>8</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>Black majuscule letters against white background. Character size varies. Systematic use of triangular serifs. AN, THC, OY,  and AP joined in ligature. Letter height: <height unit="cm">2-4</height>  
                             </handNote>
                         </handDesc>
                         <decoDesc>
