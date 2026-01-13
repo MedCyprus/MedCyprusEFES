@@ -30,7 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwestern pilaster, east face </rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>29</height><width>18</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>42</height><width>20</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>Black majuscule letters against blue background. Text between two ochre-coloured ruled lines. Character size varies. Letter height: <height unit="cm">2,5</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
