@@ -30,7 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, northwestern pilaster, south face</rs>
-                                    <dimensions><height>PENDING</height></dimensions>
+                                   <dimensions unit="cm" scope="text"><height>36</height><width>17</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>41</height><width>20</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>Black majuscule letters against white background. Character size varies. Systematic use of triangular serifs. CT, NHN, THC, and NH joined in ligature. Horizontal abbreviation mark above ΠΝC. Letter height: <height unit="cm">1,5-3</height>    
                             </handNote>
                         </handDesc>
                         <decoDesc>
