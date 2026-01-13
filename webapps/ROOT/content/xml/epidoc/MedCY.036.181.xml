@@ -30,7 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwestern recess' soffit, west side, lower register</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>29</height><width>13,5</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>44</height><width>18,5</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
