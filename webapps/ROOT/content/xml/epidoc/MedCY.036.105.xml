@@ -82,7 +82,7 @@
                    <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
                     <milestone unit="column"/> <expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>    
                   <cb n="a"/>
-                  <lb n="1"/><g ref="#cross">+</g>Ἡ <addName type="epithet" subtype="Maria" key="Arakiotissa">Ἀρακϊό<hi rend="ligature">τη</hi>σσα</addName> 
+                  <lb n="1"/><g ref="#cross">+</g>ἡ <addName type="epithet" subtype="Maria" key="Arakiotissa">Ἀρακϊό<hi rend="ligature">τη</hi>σσα</addName> 
                   <cb n="b"/>
                   <lb n="1"/><g ref="#cross">+</g>Κὲ <addName type="epithet" subtype="Maria" key="Kecharitomene"><w lemma="κεχαριτωμένη"><choice><sic>Κ<hi rend="ligature">ὰι</hi>χαρ<choice><orig>ϊ</orig><reg>ι</reg></choice><hi rend="ligature">το</hi>μέ<hi rend="ligature">νη</hi></sic><corr>κεχαριτωμένη</corr></choice></w></addName>
                 </ab>
