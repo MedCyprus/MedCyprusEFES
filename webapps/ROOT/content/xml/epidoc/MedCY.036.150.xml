@@ -78,14 +78,14 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                    <cb n="a"/>
-                    <lb n="1"/>Το <w lemma="ἅγιον">ἅ
-                 <lb n="2"/>γ<choice><orig>ϊ</orig><reg>ι</reg></choice>
-                 <lb n="3"/>ον</w>
+                    <lb n="1"/>Το <w lemma="ἅγιον"><choice><orig>Ἄ</orig><reg>ἅ</reg></choice>
+                 <lb n="2" break="no"/>γ<choice><orig>ϊ</orig><reg>ι</reg></choice>
+                 <lb n="3" break="no"/>ον</w>
                   <cb n="b"/>
                   <lb n="1"/><w lemma="κεραμίδι"><choice><sic>κὲ
-                  <lb n="2"/>ρα
-                  <lb n="3"/><hi rend="ligature">μή</hi>
-                  <lb n="4"/>δῆ</sic><corr>κεραμίδι</corr></choice></w>
+                  <lb n="2" break="no"/>ρα
+                  <lb n="3" break="no"/><hi rend="ligature">μή</hi>
+                  <lb n="4" break="no"/>δῆ</sic><corr>κεραμίδι</corr></choice></w>
                 </ab>
             </div>
             <div type="apparatus">
