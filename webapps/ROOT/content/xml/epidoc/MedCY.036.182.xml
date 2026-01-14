@@ -78,7 +78,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><choice><orig>Ἠ</orig><reg>Ἡ</reg></choice><w lemma="βάπτισις">βά<space quantity="2" unit="character"/>πτισις</w>
+                   <lb n="1"/><choice><orig>Ἠ</orig><reg>Ἡ</reg></choice> <w lemma="βάπτισις">βά<space quantity="2" unit="character"/>πτισις</w>
                 </ab>
             </div>
             <div type="apparatus">
