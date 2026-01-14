@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>White majuscule letters against brown background. Character size varies. Lambda with the top bar terminating in a serif to the left. MΩΝ joined in ligature. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -75,7 +75,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><name type="forename" nymRef="#Σολομῶν">Σο
+                 <lb n="2" break="no"/>λο
+                 <lb n="3" break="no"/><hi rend="ligature">μῶν</hi></name>
                 </ab>
             </div>
             <div type="apparatus">
