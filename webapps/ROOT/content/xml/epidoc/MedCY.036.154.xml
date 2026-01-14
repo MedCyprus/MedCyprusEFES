@@ -80,10 +80,10 @@
                     <cb n="a"/>
                    <lb n="1"/>Ὁ <persName type="sacred" key="SymeonGodReceiver"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice>γ</abbr><ex>ιος</ex></expan></w> <name type="forename" nymRef="#Συμεών">Συμε<choice><orig>ω</orig><reg>ώ</reg></choice>ν</name></persName>
                    <cb n="b"/>
-                  <lb n="1"/>Ὁ
+                  <lb n="1"/><choice><orig>o</orig><reg>ὁ</reg></choice>
                   <lb n="2"/><addName type="epithet" key="GodReceiver"><choice><sic>Θε
                   <lb n="3" break="no"/>ο
-                  <lb n="4" break="no"/>δό
+                  <lb n="4" break="no"/>δ<choice><orig>ω</orig><reg>ώ</reg></choice>
                   <lb n="5" break="no"/>χ
                   <lb n="6" break="no"/><hi rend="ligature">ος</hi></sic><corr>Θεοδόχος</corr></choice></addName>
                 </ab>
