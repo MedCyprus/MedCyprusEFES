@@ -85,8 +85,8 @@
                    <lb n="4" break="no"/>ος</w>
                    <cb n="b"/>
                     <lb n="1"/><name type="forename" nymRef="#Πέτρος">Π<choice><orig>ε</orig><reg>έ</reg></choice>
-                       <lb n="2"/><hi rend="ligature">τρ</hi>
-                       <lb n="3"/><hi rend="ligature">ος</hi></name></persName>
+                       <lb n="2" break="no"/><hi rend="ligature">τρ</hi>
+                       <lb n="3" break="no"/><hi rend="ligature">ος</hi></name></persName>
                 </ab>
             </div>
             <div type="apparatus">
