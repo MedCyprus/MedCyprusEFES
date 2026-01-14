@@ -81,11 +81,11 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                    <lb n="1"/><choice><orig>Ἠ</orig><reg>Ἡ</reg></choice> <persName type="sacred" key="MaryOfEgypt"><w lemma="ὁσία"><choice><orig>o</orig><reg>ὁ</reg></choice>σί
-                    <lb n="2"  break="no"/>α</w> <name type="forename" nymRef="#Μαρία">Μα
+                    <lb n="2"  break="no"/>α</w><space quantity="1" unit="character"/><name type="forename" nymRef="#Μαρία">Μα
                     <lb n="3"  break="no"/>ρί<space quantity="1" unit="character"/>α</name>
                     <lb n="4" break="no"/>Ἡ <addName type="epithet" key="Egyptian"><choice><sic>ἐγιπτία</sic><corr>Αἰγυπτία</corr></choice></addName>
-                    <lb n="5" break="no"/>Η <addName type="epithet" key="Egyptian"><choice><sic>Εγ<supplied reason="lost">υ
-                    <lb n="6" break="no"/>πτυα</supplied></sic><corr>Αἰγυπτία</corr></choice></addName></persName>
+                    <lb n="5" break="no"/>Η <addName type="epithet" key="Egyptian"><choice><sic>ἐγ<supplied reason="lost">υ
+                    <lb n="6" break="no"/>πτία</supplied></sic><corr>Αἰγυπτία</corr></choice></addName></persName>
                 </ab>
             </div>
             <div type="apparatus">
