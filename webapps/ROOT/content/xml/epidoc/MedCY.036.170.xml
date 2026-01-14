@@ -81,14 +81,14 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <cb n="a"/>
-                   <lb n="1"/>Ο 
-                   <lb n="2"/><persName type="sacred" key="Christopher"><w lemma="ἅγιος">α
+                   <lb n="1"/>Ὁ
+                   <lb n="2"/><persName type="sacred" key="Christopher"><w lemma="ἅγιος">ἅ
                    <lb n="3" break="no"/>γı
                    <lb n="4" break="no"/><hi rend="ligature">ος</hi></w>
                    <cb n="b"/>
                     <lb n="1"/><name nymRef ="#Χριστοφόρος" type="forename">Χρι
                     <lb n="2" break="no"/>στο
-                    <lb n="3" break="no"/>φο
+                    <lb n="3" break="no"/>φό
                     <lb n="4" break="no"/>ρ<hi rend="ligature">ος</hi></name></persName>
                 </ab>
             </div>
