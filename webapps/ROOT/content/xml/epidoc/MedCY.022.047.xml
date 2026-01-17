@@ -29,12 +29,12 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Exfoliated.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, south vault, east</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, south vault, east side, first figure on the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the right of the Virgin, first figure on the left</layout>
+                                <layout>Above the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
