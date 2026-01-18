@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly damaged.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, middle register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -66,9 +66,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="025-013-01.JPG"><desc>Invocation,inscription</desc></graphic>
-         <graphic url="025-025-02.JPG"><desc>Invocation, inscription</desc></graphic>
-         <graphic url="025-025-03.JPG"><desc>Invocation, general view</desc></graphic>
+         <graphic rend="primary" url="025-013-01.JPG"><desc>Invocation, inscription</desc></graphic>
+         <graphic url="025-013-02.JPG"><desc>Invocation, inscription</desc></graphic>
+         <graphic url="025-013-03.JPG"><desc>Invocation, general view</desc></graphic>
              </facsimile>
     <text>
         <body>
