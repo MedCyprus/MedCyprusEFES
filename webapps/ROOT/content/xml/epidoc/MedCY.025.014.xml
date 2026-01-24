@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Melismos</title>
+                <title>Melismos (Fraction)</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -66,8 +66,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="025-014-01.JPG"><desc>Melismos, inscription</desc></graphic>
-         <graphic url="025-014-02.JPG"><desc>Melismos, general view</desc></graphic>
+         <graphic rend="primary" url="025-014-01.JPG"><desc>Melismos (Fraction), inscription</desc></graphic>
+         <graphic url="025-014-02.JPG"><desc>Melismos (Fraction), general view</desc></graphic>
              </facsimile>
     <text>
         <body>
