@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saint Triphyllios</title>
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="mx">Maria Xenaki</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.025.028</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>                       
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, north recess' soffit, west side</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>On either side of the figure's head</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>PENDING
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <p>PENDING</p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#KatoLefkara" n="1st">Kato Lefkara, Archangel Michael</origPlace>
+                            <origDate notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style">Late 12th century-Early 13th century</origDate>
+                        </origin>                        
+                        <provenance when="2022">
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">08/02/2022, 13/04/2022</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                </keywords>
+            </textClass>
+            <creation>transcription (Th. Petrou)</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic rend="primary" url="025-028-01.JPG"><desc>Saint Triphyllios, inscription</desc></graphic>
+         <graphic url="025-028-02.JPG"><desc>Saint Triphyllios, inscription</desc></graphic>
+         <graphic url="025-028-03.JPG"><desc>Saint Triphyllios, inscription</desc></graphic>
+         <graphic url="025-028-03.JPG"><desc>Saint Triphyllios, inscription detail</desc></graphic>
+         <graphic url="025-028-04.JPG"><desc>Saint Triphyllios, general view</desc></graphic>
+             </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    PENDING                      
+                 </ab>
+            </div>
+            <div type="apparatus">
+               <p>PENDING</p>
+            </div>
+            <div type="translation">
+                <p>[Saint] Tri[phy]llios</p>
+            </div>
+            <div type="commentary">
+                <p>No comment</p>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                <bibl>Unpublished</bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
