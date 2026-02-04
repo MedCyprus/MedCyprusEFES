@@ -27,19 +27,19 @@
                 <place xml:id="Antioch">
                     <placeName xml:lang="grc">Ἀντιοχεία</placeName>
                     <placeName xml:lang="en">Antioch</placeName>
-                    <idno type="pleiades">https://pleiades.stoa.org/places/658381/antiocheia-am-orontes-1/?searchterm=antioch*</idno>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/658381</idno>
                 </place>
                 
                 <place xml:id="Cyprus">
                     <placeName xml:lang="grc">Κύπρος</placeName>
                     <placeName xml:lang="en">Cyprus</placeName>
-                    <idno type="pleiades">https://pleiades.stoa.org/places/707498/cyprus/?searchterm=cyprus*</idno>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/707498</idno>
                 </place>
                 
                 <place xml:id="Damascus">
                     <placeName xml:lang="grc">Δαμασκός</placeName>
                     <placeName xml:lang="en">Damascus</placeName>
-                    <idno type="pleiades">https://pleiades.stoa.org/places/678106/damascus/?searchterm=damascus*</idno>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/678106</idno>
                 </place>
                 
                 <place xml:id="MonasteryOfPhorbiotissa">
@@ -57,14 +57,14 @@
                 <place xml:id="Rome">
                     <placeName xml:lang="grc">Ῥώμη</placeName>
                     <placeName xml:lang="en">Rome</placeName>
-                    <idno type="pleiades">https://pleiades.stoa.org/places/423025/rome-1/?searchterm=rome</idno>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/423025</idno>
                 </place>
                 
                 <place xml:id="Sebaste">
                     <placeName xml:lang="grc">Σεβάστεια</placeName>
                     <placeName xml:lang="en">Sebaste</placeName>
                     <placeName xml:lang="ru">Сивас</placeName>
-                    <idno type="pleiades">https://pleiades.stoa.org/places/609521/?searchterm=sebaste*</idno>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/609521</idno>
                 </place>
                
             </listPlace>
