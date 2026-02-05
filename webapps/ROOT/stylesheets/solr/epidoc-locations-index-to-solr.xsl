@@ -251,8 +251,8 @@
   </xsl:template>
   
   <xsl:template match="tei:date" mode="date-evidence">
-    <xsl:value-of select="."/> based on 
-    <xsl:value-of select="translate(replace(@evidence,' ',', '),'-',' ')"/>.
+    <xsl:value-of select="."/>, based on 
+    <xsl:value-of select="translate(replace(@evidence,' ',', '),'-',' ')"/>
   </xsl:template>
 
   <xsl:template match="tei:origPlace|tei:repository">

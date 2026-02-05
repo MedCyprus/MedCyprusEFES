@@ -284,6 +284,8 @@
      multiValued="false" stored="true" indexed="true" />
    <field name="index_map_labels" type="string" required="false"
      multiValued="false" stored="true" indexed="true" />
+   <field name="index_placenames_gazetteer" type="string" required="false"
+     multiValued="false" stored="true" indexed="true" />
    <!-- Concordance fields. -->
    <field name="concordance_bibliography_ref" stored="true" indexed="true"
           multiValued="false" required="false" type="string" />

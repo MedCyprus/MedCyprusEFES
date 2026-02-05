@@ -311,7 +311,25 @@
     </th>
   </xsl:template>
   
-  <xsl:template match="str[@name=('index_surname', 'index_honorific', 'index_secular_office', 'index_dignity', 'index_ecclesiastical_office', 'index_occupation', 'index_relation', 'index_inscription_date', 'index_item_type', 'index_item_role', 'index_numeral_value', 'index_id')]">
+  <xsl:template match="str[@name='index_item_type']">
+    <td>
+    <xsl:choose>
+      <xsl:when test="ancestor::doc[descendant::str[@name='index_placenames_gazetteer']]">
+        <xsl:element name="a">
+        <xsl:attribute name="href">
+          <xsl:value-of select="ancestor::doc/arr[@name='index_placenames_gazetteer']/str"/>
+        </xsl:attribute>
+        <xsl:value-of select="."/>
+      </xsl:element>
+      </xsl:when>
+    <xsl:otherwise>
+        <xsl:value-of select="."/>
+    </xsl:otherwise>
+    </xsl:choose>
+    </td>
+  </xsl:template>
+  
+  <xsl:template match="str[@name=('index_surname', 'index_honorific', 'index_secular_office', 'index_dignity', 'index_ecclesiastical_office', 'index_occupation', 'index_relation', 'index_inscription_date', 'index_item_role', 'index_numeral_value', 'index_id')]"> <!-- removed index_item_type -->
     <td>
       <xsl:value-of select="."/>
     </td>
