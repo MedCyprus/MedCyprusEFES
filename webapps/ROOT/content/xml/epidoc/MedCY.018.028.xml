@@ -87,7 +87,7 @@
                     <lb n="7" break="no"/>ρι
                      <lb n="8" break="no"/>ος
                     <cb n="b"/>
-                <lb n="1"/><addName type="epithet" key="Ἀκραγαντίνος"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>
+                <lb n="1"/><placeName ref="mentioned_places.xml#Agrigentum"><addName type="epithet" key="Ἀκραγαντίνος"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>
                      <lb n="2" break="no"/>κ
                     <lb n="3" break="no"/>ρ
                     <lb n="4" break="no"/>α
@@ -98,7 +98,7 @@
                     <lb n="9" break="no"/><choice><orig>ι</orig><reg>ί</reg></choice>
                     <lb n="10" break="no"/>ν
                     <lb n="11" break="no"/><choice><orig>ό</orig><reg>ο</reg></choice>ς
-                     </addName></name></persName> 
+                     </addName></placeName></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
