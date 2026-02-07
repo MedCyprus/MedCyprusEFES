@@ -24,6 +24,12 @@
                     <idno type="cyprusgazetteer">https://cyprusgazetteer.org/146711/252/</idno>
                 </place>
                 
+                <place xml:id="Agrigentum">
+                    <placeName xml:lang="grc">Ἀκράγας</placeName>
+                    <placeName xml:lang="en">Agragas/Agrigentum</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/462086</idno>
+                </place>
+                
                 <place xml:id="Antioch">
                     <placeName xml:lang="grc">Ἀντιοχεία</placeName>
                     <placeName xml:lang="en">Antioch</placeName>
