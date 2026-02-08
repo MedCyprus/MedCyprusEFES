@@ -30,6 +30,12 @@
                     <idno type="pleiades">https://pleiades.stoa.org/places/462086</idno>
                 </place>
                 
+                <place xml:id="AkritasPromontory">
+                    <placeName xml:lang="grc">Ἀκρίτας</placeName>
+                    <placeName xml:lang="en">Akritas Promontory</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/520955</idno>
+                </place>
+                
                 <place xml:id="Antioch">
                     <placeName xml:lang="grc">Ἀντιοχεία</placeName>
                     <placeName xml:lang="en">Antioch</placeName>
@@ -71,6 +77,12 @@
                     <placeName xml:lang="en">Sebaste</placeName>
                     <placeName xml:lang="ru">Сивас</placeName>
                     <idno type="pleiades">https://pleiades.stoa.org/places/609521</idno>
+                </place>
+                
+                <place xml:id="Skopelos">
+                    <placeName xml:lang="grc">Σκόπελος</placeName>
+                    <placeName xml:lang="en">Skopelos</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/658584</idno>
                 </place>
                
             </listPlace>
