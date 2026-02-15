@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. Wavy, horizontal abbreviation mark above the sigla Ἰ(ησοῦ)ς Χ(ριστό)ς. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -78,7 +78,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς" type="forename"><supplied reason="lost"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan></supplied> <milestone unit="column"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></name></persName>                  
                  </ab>
             </div>
             <div type="apparatus">
