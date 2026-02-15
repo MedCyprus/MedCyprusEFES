@@ -121,6 +121,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q164294</idno>                   
                 </person>
                 
+                <person xml:id="AnneProphetess">
+                    <persName xml:lang="grc">Ἄννα</persName>
+                    <persName xml:lang="en">Anna</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1774668</idno>                   
+                </person>
+                
                 <person xml:id="Antonios">
                     <persName xml:lang="grc">Ἀντώνιος</persName>
                     <persName xml:lang="en">Antonios</persName>

@@ -67,6 +67,16 @@
               <xsl:otherwise><xsl:text>Toponym</xsl:text></xsl:otherwise>-->
             </xsl:choose>
           </field>
+          <field name="index_placenames_gazetteer">
+            <xsl:choose>
+              <xsl:when test="$idno/tei:idno">
+                 <xsl:value-of select="$idno/tei:idno" />
+              </xsl:when>
+              <xsl:otherwise>
+                <xsl:value-of select="NO_GAZETTEER"/>
+              </xsl:otherwise>
+            </xsl:choose>
+          </field>
           <xsl:apply-templates select="current-group()" />
         </doc>
       </xsl:for-each-group>

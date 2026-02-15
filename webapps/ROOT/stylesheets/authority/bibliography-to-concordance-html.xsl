@@ -144,6 +144,14 @@
       <xsl:value-of select="."/>
     </a>
   </xsl:template>
+  
+  <xsl:template match="tei:ref">
+    <a target="_blank" href="{.}">
+      <xsl:value-of select="."/>
+    </a>
+  </xsl:template>
+  
+  
 
   <xsl:template match="tei:ptr[@target]">
     <xsl:choose>
