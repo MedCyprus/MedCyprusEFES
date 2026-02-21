@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Communion of the Apostles, Metalepsis (Offering of the Wine), Mark</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>  
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,15 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. Mu with the central strokes reminiscent of a tau. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#CommunionApostlesMetalepsis">Communion of the Apostles, Metalepsis (Offering of the Wine), Mark</rs>
+                                <rs type="iconography" ref="#CommunionApostles"></rs>
+                                <rs type="iconography" ref="#Mark"></rs>
+                                <rs type="iconography" ref="#christological"></rs>                                
+                                <rs type="iconography" ref="#liturgical"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +80,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                   <lb n="1"/><persName type="sacred" key="Mark"><name type="forename" nymRef="#Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name></persName>    
                  </ab>
             </div>
             <div type="apparatus">
