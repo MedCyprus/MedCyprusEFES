@@ -37,11 +37,15 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. Letter height: <height unit="cm">3,5</height>  
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#CommunionApostlesMetalepsis">Communion of the Apostles, Metalepsis (Offering of the Wine), Bartholomew.</rs>
+                                <rs type="iconography" ref="#CommunionApostles"></rs>
+                                <rs type="iconography" ref="#Bartholomew"></rs>
+                                <rs type="iconography" ref="#christological"></rs>                                
+                                <rs type="iconography" ref="#liturgical"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/><persName type="sacred" key="Bartholomew"><name type="forename" nymRef="#Βαρθολομαῖος"><expan><abbr>Β</abbr><ex>αρθολομαῖος</ex></expan></name></persName>                    
                  </ab>
             </div>
             <div type="apparatus">
