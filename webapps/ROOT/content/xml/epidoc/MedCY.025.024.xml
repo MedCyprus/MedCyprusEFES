@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Omega with its apex surmounted by a crosslet. OC joinaed in ligature. Wavy, horizontal mark above the abbreviation. Accents and breathings non systematic. Letter height: <height unit="cm">2,5-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#JohnMerciful">John the Merciful</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -76,7 +78,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/>
+                    <lb n="1"/>Ὁ                 
+                     <lb n="2"/><persName type="sacred" key="JohnMerciful"><w lemma="ἅγιος">ἅ
+                    <lb n="3" break="no"/>γι
+                    <lb n="4" break="no"/><hi rend="ligature">ος</hi></w> <name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>   
+                    <cb n="b"/>
+                     <lb n="1"/>ὁ <addName type="epithet" key="Merciful"><choice><sic>Ἐ
+                     <lb n="2" break="no"/>λε
+                      <lb n="3" break="no"/><choice><orig>ἥ</orig><reg>ή</reg></choice>μον</sic><corr>Ἐλεήμων</corr></choice></addName></persName>   
                  </ab>
             </div>
             <div type="apparatus">
