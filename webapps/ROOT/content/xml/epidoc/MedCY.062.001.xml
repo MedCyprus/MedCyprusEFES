@@ -27,8 +27,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, semidome</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semidome</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -41,17 +41,15 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#VirginBlachernitissa">Virgin Blachernitissa</rs></p>
+                            <p>PENDING</p>
                         </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Trikomo">Trikomo, Panagia</origPlace>
-                            <origDate notBefore="1101" notAfter="1133" precision="medium">Early 12th century</origDate>
-                        </origin>                        
-                        <provenance when="2022">
-                        </provenance>    
-                        <provenance type="observed"></provenance>
+                            <origPlace ref="locations.xml#Trikomo" n="1st">Trikomo, Panagia</origPlace>
+                            <origDate notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">Early 12th century</origDate>
+                        </origin>                            
+                        <provenance type="not-observed">Currently inaccessible (located in occupied north Cyprus)</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -62,11 +60,13 @@
                     <term type="textType" ref="text_types.xml#doc9">Sigla</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publications</creation>
+            <creation>transcription (Th. Petrou), publication, DOA photographic archive</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="..."/>
+         <graphic rend="primary" url="062-001-01.JPG"><desc>Virgin Blachernitissa, inscription (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
+        <graphic url="062-001-02.JPG"><desc>Virgin Blachernitissa, general view (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
+        <graphic url="062-001-03.JPG"><desc>Virgin Blachernitissa, general view (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -82,11 +82,11 @@
                 <p>Mother of God</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl><ptr target="#HadjichristodoulouFoulias2020"/>, <citedRange>59-62</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
