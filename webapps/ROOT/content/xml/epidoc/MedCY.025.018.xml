@@ -37,11 +37,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Accents and breathings non systematic. Letter height: <height unit="cm">2,5-3,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#GregoryNazianzenos">Gregory the Theologian</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -74,7 +76,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/>
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice>
+                    <lb n="2"/><persName type="sacred" key="GregoryNazianzenos"><w lemma="ἅγιος"><supplied reason="lost">ἅγιο</supplied>ς</w>                      <cb n="b"/>
+                        <lb n="1"/><name nymRef ="#Γρηγόριος" type="forename"><supplied reason="lost">Γρηγό</supplied><unclear>ρ</unclear>ιος</name> 
+                         <lb n="2"/><addName type="epithet" key="Theologian"><supplied reason="lost">Θε</supplied><unclear>ο</unclear>λόγος</addName></persName>
                  </ab>
             </div>
             <div type="apparatus">
