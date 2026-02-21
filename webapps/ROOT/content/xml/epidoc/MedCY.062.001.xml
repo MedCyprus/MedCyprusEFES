@@ -48,8 +48,10 @@
                         <origin>
                             <origPlace ref="locations.xml#Trikomo" n="1st">Trikomo, Panagia</origPlace>
                             <origDate notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">Early 12th century</origDate>
-                        </origin>                            
-                        <provenance type="not-observed">Currently inaccessible (located in occupied north Cyprus)</provenance>
+                        </origin>          
+                        <provenance when="2022">
+                        </provenance>                  
+                        <provenance type="observed" resp="#tp">18/08/2022; access denied</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
