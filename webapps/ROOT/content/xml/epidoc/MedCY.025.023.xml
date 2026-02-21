@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint John Chrysostom's scroll</title>
-                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -29,7 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, lower register, first figure on the left</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>42,5</height><width>12</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>50</height><width>21</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -37,11 +39,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black majuscule letters against white background. Mu with the central strokes reminiscent of a tau. Omega with its apex surmounted by a crosslet. AP, TH, TP, HN, OY, and AN joined in ligature. Wavy, horizontal abbreviation marks above ΟΥΝ, ΘΝ, ΙΝ, and ΧΝ. Letter height: <height unit="cm">2,5-3,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#JohnChrysostom">John Chrysostom</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#scroll"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -80,7 +85,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Prayer of the Prothesis: O God, our God, who didst send down the Heavenly Bread, the Food for the whole world, our Lord and God Jesus Christ.</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
