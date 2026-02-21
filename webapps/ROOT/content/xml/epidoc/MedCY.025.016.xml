@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Basil</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Alpha and lambda with the top bar terminating in a serif to the left. Final sigma in the form of a wavy line. Accents and breathings systematic. Letter height: <height unit="cm">2,5-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Basil">Basil</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -76,7 +79,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/>
+                  <lb n="1"/>Ὁ 
+                   <lb n="2"/><persName type="sacred" key="Basil"><w lemma="ἅγιος">ἅ
+                       <lb n="3" break="no"/>γι
+                       <lb n="4" break="no"/>ο
+                       <lb n="5" break="no"/>ς</w>
+                       
+                   <cb n="b"/>
+                  <lb n="1"/><name nymRef ="#Βασίλειος" type="forename">Βασί
+                  <lb n="2" break="no"/>λειος</name></persName> 
+                       
                  </ab>
             </div>
             <div type="apparatus">
