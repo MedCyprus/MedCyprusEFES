@@ -77,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/><persName type="sacred" key="Simon"><name type="forename" nymRef="#Σίμων"><expan><abbr rend="supraline">Σ</abbr><ex>ίμων</ex></expan></name></persName>
+                    <lb n="1"/><persName type="sacred" key="Simon"><name type="forename" nymRef="#Σίμων"><expan><abbr>Σ</abbr><ex>ίμων</ex></expan></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
