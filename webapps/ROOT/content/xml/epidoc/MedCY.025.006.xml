@@ -37,11 +37,15 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. Character size varies. Alpha with its apex terminating in a serif to the left. Accents and breathings systematic. Letter height: <height unit="cm">2</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#CommunionApostlesMetalepsis">Communion of the Apostles, Metadosis (Offering of the Bread)</rs>
+                                 <rs type="iconography" ref="#CommunionApostles"></rs>
+                                <rs type="iconography" ref="#christological"></rs>                                
+                                <rs type="iconography" ref="#liturgical"></rs>
+                                <rs type="iconography" ref="#angel"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +79,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/><w lemma="Ἅγιος">Ἅγιος</w> <w lemma="Ἅγιος">Ἅγιος</w>, <w lemma="Ἅγιος">Ἅγιος</w>, <addName type="epithet" key="Lord of Hosts"><supplied reason="lost">Κύριος<w lemma="Κύριος"></w> <w lemma="Σαβαώθ">Σαβαώθ</w></supplied></addName>                   
                  </ab>
             </div>
             <div type="apparatus">
