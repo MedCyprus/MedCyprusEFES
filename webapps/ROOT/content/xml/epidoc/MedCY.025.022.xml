@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint John Chrysostom</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Omega with its apex surmounted by a crosslet. Waivy, horizontal mark above the abbreviation. Accents and breathings non systematic. Letter height: <height unit="cm">2-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#JohnChrysostom">John Chrysostom</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -75,7 +78,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="JohnChrysostom"><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied><unclear>γ</unclear><unclear>ι</unclear>ος</w>   
+                     <lb n="2"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><supplied reason="lost">Ἰ</supplied>ω</abbr><ex>άννης</ex></expan></name>
+                     <cb n="b"/>
+                      <lb n="1"/><choice><orig>o</orig><reg>ὁ</reg></choice>
+                         <lb n="2"/><addName type="epithet" key="Chrysostom"> <expan><abbr rend="supraline">Χρυ</abbr><ex>σόστομ</ex><abbr rend="supraline">ος</abbr></expan></addName></persName>
                  </ab>
             </div>
             <div type="apparatus">
