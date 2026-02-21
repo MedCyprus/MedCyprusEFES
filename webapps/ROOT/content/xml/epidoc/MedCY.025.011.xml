@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. Letter height: <height unit="cm">3</height>  
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -82,7 +82,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/><persName type="sacred" key="James"><name type="forename" nymRef="#Ἰάκωβος"><expan><abbr><choice><orig>I</orig><reg>Ἰ</reg></choice></abbr><ex>άκωβος</ex></expan></name></persName>                          
                  </ab>
             </div>
             <div type="apparatus">
