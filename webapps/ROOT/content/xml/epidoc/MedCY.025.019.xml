@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Gregory the Theologian's scroll</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -29,7 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, lower register, middle figure</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>41</height><width>13</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>41</height><width>13</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -37,11 +39,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black majuscule letters against white background. Systematic use of triangular serifs. Omega with its apex surmounted by a crosslet. Mu with the central strokes reminiscent of a tau. THN, NHN, AY, and TH joined in ligature. Letter height: <height unit="cm">3-3,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#GregoryNazianzenos">Gregory the Theologian</rs>
+                              <rs type="iconography" ref="#prelate"></rs>
+                                <rs type="iconography" ref="#male"></rs>
+                                <rs type="iconography" ref="#scroll"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
