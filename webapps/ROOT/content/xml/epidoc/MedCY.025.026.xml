@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Epiphanios</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -41,7 +42,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Epiphanios">Epiphanios</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -75,7 +78,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/>
+                    <lb n="1"/>Ὁ                 
+                     <lb n="2"/><persName type="sacred" key="Epiphanios"><w lemma="ἅγιος">ἅ
+                    <lb n="3" break="no"/>γι
+                    <lb n="4" break="no"/><hi rend="ligature">ος</hi></w>        
+                     <cb n="b"/>
+                    <lb n="1"/><name type="forename" nymRef="#Ἐπιφάνιος"><choice><orig>Ἑ</orig><reg>Ἐ</reg></choice>πιφά
+                      <lb n="2" break="no"/>νιος</name></persName>     
                  </ab>
             </div>
             <div type="apparatus">
