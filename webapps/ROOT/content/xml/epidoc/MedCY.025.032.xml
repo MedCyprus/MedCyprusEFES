@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Accents and breathings non systematic. Letter height: <height unit="cm">3,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#unidentified_figure">Unidentified figure</rs>
+                                <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -75,7 +77,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <w lemma="ἅγιος"><choice><orig>α</orig><reg>ἅ</reg></choice><supplied reason="lost">γιος</supplied></w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>                  
                  </ab>
             </div>
             <div type="apparatus">
