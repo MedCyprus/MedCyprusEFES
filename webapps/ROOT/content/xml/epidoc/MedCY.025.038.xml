@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Prophet David</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#David">David</rs>
+                                <rs type="iconography" ref="#prophet"></rs>
+                                <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -74,7 +77,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/>
+                      <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="David"><w lemma="προφήτης"><supplied reason="lost">προφήτης</supplied></w>
+                        <cb n="b"/>
+                       <lb n="1"/><name type="forename" nymRef="#Δαυΐδ"><expan><abbr rend="supraline">Δα</abbr><ex>υΐ</ex><abbr rend="supraline">δ</abbr></expan></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
