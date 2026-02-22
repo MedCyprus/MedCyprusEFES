@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Prophet Gideon's scroll</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -41,7 +42,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Gideon">Gideon</rs>                                
+                                <rs type="iconography" ref="#prophet"></rs>
+                                <rs type="iconography" ref="#male"></rs>
+                                <rs type="iconography" ref="#scroll"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -81,7 +85,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Let there be drought on the fleece alone, and on all the earth let there be dew.</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
