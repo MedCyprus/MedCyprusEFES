@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Saint Epiphanios' scroll</title>
-                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -41,7 +42,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Epiphanios">Epiphanios</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#scroll"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -80,7 +84,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Lord, our God, save Your people and bless Your inheritance. Protect the fullness of Your Church.</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
