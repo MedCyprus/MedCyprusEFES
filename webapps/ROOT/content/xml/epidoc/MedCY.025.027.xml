@@ -30,7 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, lower register, first figure on the right</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>41,5</height><width>10</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>49,5</height><width>18</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black majuscule letters against white background. Systematic use of triangular serifs. Omega with its apex surmounted by a crosslet. Mu with the central strokes reminiscent of a tau. OY, ΓΗ, HP, TH, and THN joined in ligature. Wavy, horizontal abbreviation marks above ΚΕ and ΘC. Letter height: <height unit="cm">2-3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
