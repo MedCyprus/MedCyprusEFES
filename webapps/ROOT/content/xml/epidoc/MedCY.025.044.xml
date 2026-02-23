@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Presentation of Christ to the temple, Saint Symeon</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -41,7 +42,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Symeon">Symeon</rs>
+                            <rs type="iconography" ref="#stylite"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -74,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="SymeonArchimandrite"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <name type="forename" nymRef="#Συμεών"><supplied reason="lost">Συμε</supplied>ών</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
