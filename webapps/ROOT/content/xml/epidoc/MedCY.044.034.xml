@@ -66,14 +66,14 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-                    <creation>transcription (Th. Petrou), DOA Photographic Archive</creation>
+                    <creation>transcription (Th. Petrou), archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-034-1.JPG"><desc>Saint Tychikos, inscription (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
+         <graphic rend="primary" url="044-034-1.JPG"><desc>Saint Tychikos, inscription (© Department of Antiquities, Cyprus)</desc></graphic>
         <graphic url="044-034-02.JPG"><desc>Saint Tychikos, inscription detail </desc></graphic>
         <graphic url="044-034-03.JPG"><desc>Saint Tychikos, general view </desc></graphic>
-        <graphic url="044-034-04.JPG"><desc>Saint Tychikos, general view (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
+        <graphic url="044-034-04.JPG"><desc>Saint Tychikos, general view (© Department of Antiquities, Cyprus)</desc></graphic>
         </facsimile>
     <text>
         <body>
