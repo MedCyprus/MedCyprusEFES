@@ -76,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><choice><orig>Η</orig><reg>Ἡ</reg></choice> <w lemma="ἔγερσις"><choice><orig>E</orig><reg>Ἔ</reg></choice>γερσις</w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> PENDING <persName type="sacred" key="Lazaros"><name type="forename" nymRef="#Λάζαρος">Λαζάρου</name></persName>                   
+                    <lb n="1"/><choice><orig>Η</orig><reg>Ἡ</reg></choice> <w lemma="ἔγερσις"><choice><orig>E</orig><reg>Ἔ</reg></choice>γερσις</w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <w lemma="δίκαιος"><choice><sic>δ<choice><orig>ı</orig><reg>ί</reg></choice>κε<hi rend="ligature">ου</hi></sic><corr>δίκαιου</corr></choice></w> <persName type="sacred" key="Lazaros"><name type="forename" nymRef="#Λάζαρος">Λαζ<choice><orig>α</orig><reg>ά</reg></choice>ρ<hi rend="ligature">ου</hi></name></persName>                   
                  </ab>
             </div>
             <div type="apparatus">
