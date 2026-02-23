@@ -62,7 +62,7 @@
                     <term type="textType" ref="text_types.xml#doc14">Funerary inscription</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publication</creation>
+            <creation>transcription (Th. Petrou), publication, archival photos (Archbishopric of Cyprus, Athanasios Papageorgiou, Photographic Archive)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -80,6 +80,8 @@
          <graphic url="025-053-12.JPG"><desc>Funerary inscription, detail</desc></graphic>
          <graphic url="025-053-13.JPG"><desc>Funerary inscription, detail</desc></graphic>
          <graphic url="025-053-14.JPG"><desc>Funerary inscription, general view</desc></graphic>
+         <graphic url="025-053-15.JPG"><desc>Funerary inscription (© Archbishopric of Cyprus, Athanasios Papageorgiou, Photographic Archive)</desc></graphic>
+         <graphic url="025-053-16.JPG"><desc>Funerary inscription, general view (© Archbishopric of Cyprus, Athanasios Papageorgiou, Photographic Archive)</desc></graphic>
              </facsimile>
     <text>
         <body>
