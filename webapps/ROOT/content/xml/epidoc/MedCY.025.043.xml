@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Nativity">Nativity, angel addresses the shepherd</rs>
+                                  <rs type="iconography" ref="#AngelAddressesShepherd"></rs>
+                                  <rs type="iconography" ref="#angel"></rs>         
+                                  <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -74,14 +77,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    
+                    <lb n="1"/><w lemma="παύω"><supplied reason="lost">Παύ</supplied>σασθε</w>
+                  <lb n="2"/><w lemma="ἀγραυλῶ"><supplied reason="lost">ἀγρ</supplied>αυλοῦν
+                    <lb n="3" break="no"/>τες</w>                   
                  </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Cease camping in the fields.</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
