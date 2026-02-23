@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Presentation of Christ to the temple, Prophetess Anne</title>
-                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Brown majuscule letters against red background. Alpha with its apex terminating in a serif to the left. NN joined in ligature. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#PresentationChristTemple">Presentation of Christ to the Temple, Anne</rs>
+                                <rs type="iconography" ref="#Anne"></rs>
+                            <rs type="iconography" ref="#mariological"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -74,7 +78,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/><choice><orig>η</orig><reg>ἡ</reg></choice><persName type="sacred" key="Anne"><w lemma="ἁγία"><choice><orig>α</orig><reg>ἁ</reg></choice>γία</w> <name nymRef ="#Ἄννα" type="forename"><choice><orig>Α</orig><reg>Ἄ</reg></choice><hi rend="ligature">νν</hi>α</name></persName>               
                  </ab>
             </div>
             <div type="apparatus">
