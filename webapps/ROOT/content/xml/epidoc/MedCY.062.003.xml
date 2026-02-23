@@ -62,12 +62,12 @@
                     <term type="textType" ref="text_types.xml#doc9">Sigla</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), DOA photographic archive</creation>
+            <creation>transcription (Th. Petrou), archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="062-003-01.JPG"><desc>Christ Emmanuel, inscription (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
-        <graphic url="062-003-02.JPG"><desc>Christ Emmanuel, general view (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
+         <graphic rend="primary" url="062-003-01.JPG"><desc>Christ Emmanuel, inscription (© Department of Antiquities, Cyprus)</desc></graphic>
+        <graphic url="062-003-02.JPG"><desc>Christ Emmanuel, general view (© Department of Antiquities, Cyprus)</desc></graphic>
     </facsimile>
     <text>
         <body>

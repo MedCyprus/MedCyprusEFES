@@ -62,13 +62,13 @@
                     <term type="textType" ref="text_types.xml#doc9">Sigla</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publication, DOA photographic archive</creation>
+            <creation>transcription (Th. Petrou), publication, archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="062-001-01.JPG"><desc>Virgin Blachernitissa, inscription (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
-        <graphic url="062-001-02.JPG"><desc>Virgin Blachernitissa, general view (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
-        <graphic url="062-001-03.JPG"><desc>Virgin Blachernitissa, general view (© Department of Antiquities, Cyprus, Photographic Archive)</desc></graphic>
+         <graphic rend="primary" url="062-001-01.JPG"><desc>Virgin Blachernitissa, inscription (© Department of Antiquities, Cyprus)</desc></graphic>
+        <graphic url="062-001-02.JPG"><desc>Virgin Blachernitissa, general view (© Department of Antiquities, Cyprus)</desc></graphic>
+        <graphic url="062-001-03.JPG"><desc>Virgin Blachernitissa, general view (© Department of Antiquities, Cyprus)</desc></graphic>
     </facsimile>
     <text>
         <body>
