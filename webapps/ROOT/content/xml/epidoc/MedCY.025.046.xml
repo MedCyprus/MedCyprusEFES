@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Presentation of Christ to the temple, Prophetess Anne's scroll</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black majuscule letters against grey background. Alpha with its apex terminating in a serif to the left. OY and ΓΗ joined in ligature. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#PresentationChristTemple">Presentation of Christ to the Temple, Anne</rs>
+                                <rs type="iconography" ref="#Anne"></rs>
+                                <rs type="iconography" ref="#scroll"></rs>
+                            <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
