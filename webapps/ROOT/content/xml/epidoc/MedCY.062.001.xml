@@ -51,7 +51,7 @@
                         </origin>          
                         <provenance when="2022">
                         </provenance>                  
-                        <provenance type="observed" resp="#tp">18/08/2022; access denied</provenance>
+                        <provenance type="not-observed" resp="#tp">18/08/2022; access denied</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
