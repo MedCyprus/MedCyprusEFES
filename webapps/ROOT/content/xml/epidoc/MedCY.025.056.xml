@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Archangel Michael</title>
-                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. The word ἀρχ(άγγελος) is fully rendered by abbreviation. AP joined in ligature. Accents and breathings systematic. Letter height: <height unit="cm">2-4,5</height>    
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Michael">Archangel Michael</rs>
+                            <rs type="iconography" ref="#archangel"></rs>
+                            <rs type="iconography" ref="#genderless"></rs>
+                            <rs type="iconography" ref="#dressantique"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/>Ὁ <persName type="sacred" key="Michael"> <w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><hi rend="ligature"><choice><orig>α</orig><reg>ἀ</reg></choice>ρ</hi>χ<am>&#x00A0;΄&#x00A0;</am></abbr><ex>άγγελος</ex></expan></w> <name type="forename" nymRef ="#Μιχαήλ"><supplied reason="lost">Μιχαήλ</supplied></name></persName>                 
                  </ab>
             </div>
             <div type="apparatus">
