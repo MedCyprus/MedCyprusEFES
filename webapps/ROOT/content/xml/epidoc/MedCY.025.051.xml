@@ -42,7 +42,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#mandylion">mandylion</rs>
+                            <rs type="iconography" ref="#Christ"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -85,7 +86,12 @@
                   <lb n="3"/><w lemma="ἅγιος">ἅ
                   <lb n="4" break="no"/> γ<choice><orig>ı</orig><reg>ï</reg></choice>
                    <lb n="5" break="no"/>ο
-                     <lb n="6" break="no"/>ν</w>                    
+                     <lb n="6" break="no"/>ν</w>       
+                    <cb n="b"/>
+                    <lb n="1"/><w lemma="μανδήλιον"><choice><sic>μαν
+                  <lb n="2" break="no"/>δί
+                  <lb n="3" break="no"/>λυ
+                  <lb n="4" break="no"/>ων</sic><corr>μανδήλιον</corr></choice></w>
                  </ab>
             </div>
             <div type="apparatus">
