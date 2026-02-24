@@ -79,7 +79,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/>
+                   <lb n="1"/><choice><sic>Τ
+                   <lb n="2" break="no"/>ω</sic><corr>το</corr></choice>
+                  <lb n="3"/><w lemma="ἅγιος">ἅ
+                  <lb n="4" break="no"/> γ<choice><orig>ı</orig><reg>ï</reg></choice>
+                   <lb n="5" break="no"/>ο
+                     <lb n="6" break="no"/>ν</w>                    
                  </ab>
             </div>
             <div type="apparatus">
