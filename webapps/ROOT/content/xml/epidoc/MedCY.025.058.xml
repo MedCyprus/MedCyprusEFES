@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Communion of Mary of Egypt, Saint Mary of Egypt?</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Mu with the central strokes reminiscent of a tau. Accents and breathings systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -74,7 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/><name type="forename" nymRef="#Μαρία">Μαρία</name>                    
                  </ab>
             </div>
             <div type="apparatus">
