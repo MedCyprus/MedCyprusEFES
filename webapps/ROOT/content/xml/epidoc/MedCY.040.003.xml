@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint George (earliest layer)</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -51,8 +52,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Lythragkomi">Lythragkomi, Panagia Kanakaria</origPlace>
-                            <origDate notBefore="1167" notAfter="1233" precision="medium">Late 12th century-Early 13th century</origDate>
+                            <origPlace ref="locations.xml#Lythragkomi" n="3rd">Lythragkomi, Panagia Kanakaria</origPlace>
+                            <origDate notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style">12th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    

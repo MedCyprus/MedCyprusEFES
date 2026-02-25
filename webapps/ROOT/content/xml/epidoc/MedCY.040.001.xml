@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Donor inscription</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -46,8 +47,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Lythragkomi">Lythragkomi, Panagia Kanakaria</origPlace>
-                            <origDate notBefore="0851" notAfter="0950" precision="medium">Second half of 9th century - first half of 10th century</origDate>
+                            <origPlace ref="locations.xml#Lythragkomi" n="2nd">Lythragkomi, Panagia Kanakaria</origPlace>
+                            <origDate notBefore="0851" notAfter="0950" precision="medium" evidence="artistic-style">Second half of 9th century - first half of 10th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
