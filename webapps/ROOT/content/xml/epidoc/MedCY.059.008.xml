@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Epiphanios' scroll</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -38,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">1-2</height> 
+                            <handNote>Black majuscule letters letters against white backgound. Letter height: <height unit="cm">1-2</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
