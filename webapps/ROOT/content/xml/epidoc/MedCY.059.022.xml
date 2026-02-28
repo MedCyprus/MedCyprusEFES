@@ -38,17 +38,19 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">2,5-4</height>
+                            <handNote>White majuscule letters against blue background. Mu with the central strokes reminiscent of an upsilon on a stem. Upsilon on a crossed stem. Letter height: <height unit="cm">2,5-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Ephraim">Ephraim</rs></p>
+                            <p><rs type="iconography" ref="#Ephraim">Ephraim</rs>
+                            <rs type="iconography" ref="#monastic"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Tala">Tala, Hermitage of Saint Neophytos</origPlace>
-                            <origDate when="1183" precision="high">1183</origDate>
+                            <origPlace ref="locations.xml#Tala" n="3rd">Tala, Hermitage of Saint Neophytos</origPlace>
+                            <origDate when="1183" precision="high" evidence="internal-date">1183</origDate>
                         </origin>                        
                         <provenance when="2022">
                         </provenance>    
@@ -74,7 +76,18 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/> 
+                     <lb n="1"/>Ὁ 
+                     <lb n="2"/><persName type="sacred" key="EphraimSyrian"><w lemma="ἅγιος">ἅ   
+                     <lb n="3" break="no"/>γι
+                     <lb n="4" break="no"/>ο
+                     <lb n="5" break="no"/><supplied reason="lost">ς</supplied></w>
+                       <cb n="b"/>
+                        <lb n="1"/><name type="forename" nymRef="#Ἐφραίμ"><choice><orig>Ἑ</orig><reg>Ἐ</reg></choice>
+                          <lb n="2" break="no"/>φρ
+                          <lb n="3" break="no"/>αί   
+                           <lb n="4" break="no"/>μ</name>
+                          <lb n="5"/><choice><orig>ὅ</orig><reg>ὁ</reg></choice> <addName type="epithet" key="Syrian">Σύρος</addName></persName>
                  </ab>
             </div>
             <div type="apparatus">
