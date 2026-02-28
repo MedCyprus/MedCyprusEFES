@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Ephraim the Syrian's scroll</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">2</height>
+                            <handNote>Black majuscle letters against white background. Letter height: <height unit="cm">2</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -50,8 +51,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Tala">Tala, Hermitage of Saint Neophytos</origPlace>
-                            <origDate when="1183" precision="high">1183</origDate>
+                            <origPlace ref="locations.xml#Tala" n="3rd">Tala, Hermitage of Saint Neophytos</origPlace>
+                            <origDate when="1183" precision="high" evidence="internal-date">1183</origDate>
                         </origin>                        
                         <provenance when="2022">
                         </provenance>    
