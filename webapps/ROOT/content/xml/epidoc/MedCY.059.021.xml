@@ -37,17 +37,20 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">1,5-2,5</height>
+                            <handNote>White majuscule letters against blue and red background. MM joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">1,5-2,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#ChristEmmanuel">Christ Emmanuel</rs></p>
+                            <p><rs type="iconography" ref="#ChristEmmanuel">Christ Emmanuel</rs>
+                            <rs type="iconography" ref="#Christ"></rs>                             
+                            <rs type="iconography" ref="#divine"></rs> 
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Tala">Tala, Hermitage of Saint Neophytos</origPlace>
-                            <origDate when="1183" precision="high">1183</origDate>
+                            <origPlace ref="locations.xml#Tala" n="3rd">Tala, Hermitage of Saint Neophytos</origPlace>
+                            <origDate when="1183" precision="high" evidence="internal-date">1183</origDate>
                         </origin>                        
                         <provenance when="2022">
                         </provenance>    
@@ -73,7 +76,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"> <expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan><am>&#x00A0;῀&#x00A0;</am><milestone unit="column"/> <addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></name></persName>
+                  <lb n="2"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <choice><orig>E</orig><reg>Ἐ</reg></choice><hi rend="ligature">μμ</hi>α<milestone unit="column"/> νουήλ                        
                  </ab>
             </div>
             <div type="apparatus">
