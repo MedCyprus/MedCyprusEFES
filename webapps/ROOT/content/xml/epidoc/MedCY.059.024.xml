@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">2-3,5</height>
+                            <handNote>White majuscule letters against brown background. Final sigma in the form of a wavy line. Upsilon on a crossed stem. OC and TH joined in ligature. Accents and breathings systematic. Letter height: <height unit="cm">2-3,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -83,15 +83,14 @@
                        <lb n="3" break="no"/>γι
                       <lb n="4" break="no"/>ο
                        <lb n="5" break="no"/>ς</w>   
-                        <lb n="6"/><addName type="epithet" key="Anchorite"><choice><sic><supplied reason="lost">Ἀναχω</supplied>
-                      <lb n="7" break="no"/>
+                       
                         <cb n="b"/>
                         <lb n="1"/><name type="forename" nymRef="#Κυριακός">Κυ
                         <lb n="3" break="no"/>ρı
                         <lb n="4" break="no"/>α
                         <lb n="5" break="no"/>κ
                          <lb n="6" break="no"/><hi rend="ligature">ός</hi></name>
-                        <lb n="7"/>ρıτής</sic><corr>Ἀναχωρητής</corr></choice></addName></persName>
+                        <lb n="7"/><addName type="epithet" key="Anchorite"><choice><sic><supplied reason="lost">Ἀναχω</supplied>ρıτής</sic><corr>Ἀναχωρητής</corr></choice></addName></persName>
                     
                  </ab>
             </div>
