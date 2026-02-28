@@ -49,8 +49,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Asinou">Niketari, Panagia Phorbiotissa or Asinou</origPlace>
-                            <origDate precision="medium">14th century (thought to reproduce an original inscription of 1105/6)</origDate>
+                            <origPlace ref="locations.xml#Asinou" n="6th">Niketari, Panagia Phorbiotissa or Asinou</origPlace>
+                            <origDate precision="medium" evidence="artistic-style">1340s (thought to reproduce an original inscription of 1105/6)</origDate>
                         </origin>
                          <provenance when="2022">
                         </provenance>
