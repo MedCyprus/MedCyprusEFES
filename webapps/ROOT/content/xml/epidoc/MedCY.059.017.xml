@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Annunciation, Gabriel</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">2,5</height>
+                            <handNote>White majuscule letters against blue background. The word ὁ ἀρχάγγελος is rendered by an abbreviation. Accents and breathings non systematic. Letter height: <height unit="cm">2,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -48,8 +49,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Tala">Tala, Hermitage of Saint Neophytos</origPlace>
-                            <origDate when="1183" precision="high">1183</origDate>
+                            <origPlace ref="locations.xml#Tala" n="3rd">Tala, Hermitage of Saint Neophytos</origPlace>
+                            <origDate when="1183" precision="high" evidence="internal-date">1183</origDate>
                         </origin>                        
                         <provenance when="2022">
                         </provenance>    
@@ -76,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/>Ὁ <persName type="sacred" key="Gabriel"><name type="forename" nymRef="#Γαβριήλ"><w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><choice><orig>ἁ</orig><reg>ἀ</reg></choice>ρχ</abbr><ex>άγγελος</ex></expan> Γαβρıήλ</w></name></persName>                 
                  </ab>
             </div>
             <div type="apparatus">
