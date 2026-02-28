@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background.
+                            <handNote>White majuscule letters against blue background. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -81,7 +81,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Michael"><w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἀ</reg></choice>ρχ</abbr><ex>άγγελος</ex></expan></w> <name type="forename" nymRef="#Μιχαήλ"><expan><abbr rend="supraline">Μ<choice><orig>ϊ</orig><reg>ι</reg></choice></abbr><ex>χαήλ</ex></expan></name></persName>                  
                  </ab>
             </div>
             <div type="apparatus">
