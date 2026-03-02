@@ -44,8 +44,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Sotira">Sotira (Ammochostou), Transfiguration</origPlace>
-                            <origDate notBefore="1269" notAfter="1300">Last third 13th century</origDate>
+                            <origPlace ref="locations.xml#Sotira" n="4th">Sotira (Ammochostou), Transfiguration</origPlace>
+                            <origDate notBefore="1269" notAfter="1300" precision="medium" evidence="artistic-style material-context">Last third 13th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
