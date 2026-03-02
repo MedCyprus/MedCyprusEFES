@@ -49,8 +49,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Tala">Tala, Hermitage of Saint Neophytos</origPlace>
-                            <origDate when="1183" precision="high">1183</origDate>
+                            <origPlace ref="locations.xml#Tala" n="3rd">Tala, Hermitage of Saint Neophytos</origPlace>
+                            <origDate when="1183" precision="high" evidence="internal-date">1183</origDate>
                         </origin>                        
                         <provenance when="2022">
                         </provenance>    
