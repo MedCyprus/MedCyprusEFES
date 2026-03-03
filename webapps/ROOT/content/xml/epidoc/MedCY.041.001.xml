@@ -47,7 +47,7 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Menogeia" n="1st">Menogeia, Saints Athanasios and Cyril</origPlace>
+                            <origPlace ref="locations.xml#Menogeia" n="single">Menogeia, Saints Athanasios and Cyril</origPlace>
                             <origDate notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style">12th century</origDate>
                         </origin>
                         <provenance when="2022">

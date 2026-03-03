@@ -51,7 +51,7 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#KatoLefkara" n="1st">Kato Lefkara, Archangel Michael</origPlace>
+                            <origPlace ref="locations.xml#KatoLefkara" n="single">Kato Lefkara, Archangel Michael</origPlace>
                             <origDate notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style">Late 12th century-Early 13th century</origDate>
                         </origin>                        
                         <provenance when="2022">
