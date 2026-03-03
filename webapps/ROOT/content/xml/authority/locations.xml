@@ -77,7 +77,7 @@
                         <desc type="layer" n="2">2nd layer: <date notBefore="1001" notAfter="1200" precision="medium" evidence="material-context">undetermined; prior to the 13th-14th century</date> (naos: north wall, eastern side)</desc>
                         <desc type="layer" n="3">3rd layer: <date notBefore="1201" notAfter="1400" precision="medium" evidence="artistic-style"> 13th-14th century(?) First half of the 14th century(?)</date> (bema; naos: east, north and west wall; ceiling)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary; condition poor. Conservation/cleaning: 1990-1991, 1993, 2002, 2005-2006 (DAC). Some of the paintings of the 1st layer have been removed to the <ref target="#ByzantineMuseum.html">Byzantine Museum of the Cultural Foundation Archbishop Makarios III.</ref></desc>
+                    <desc type="conservation">Fragmentary; condition poor. Conservation/cleaning: 1990-1991, 1993, 2002, 2005-2006 (DAC). Some of the paintings of the 1st layer have been removed to the <ref target="#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III.</ref></desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#TrentinHadjikyriakos2007"/><citedRange>458</citedRange></bibl></desc>
@@ -2347,7 +2347,7 @@
                         <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (naos)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1600" precision="medium" evidence="artistic-style">15th/16th century</date> (bema; narthex)</desc>
                     </desc>
-                    <desc type="conservation">Very fragmentary; poor state of preservation. During restoration work in the 1960s, the mural of St Ignatios (3rd layer) was transferred from the northeast pier supporting the dome, to the southeast, in order to reveal earlier murals. After 1974, the murals sufferred serious damage, while sections were detached by looters and illegally exported abroad.Some have been retrieved and are now on display at the <ref target="#ByzantineMuseum.html">Byzantine Museum of the Cultural Foundation Archbishop Makarios III.</ref> Conservation/cleaning: 1963-1964, 1968, 1971 (DAC) </desc>
+                    <desc type="conservation">Very fragmentary; poor state of preservation. During restoration work in the 1960s, the mural of St Ignatios (3rd layer) was transferred from the northeast pier supporting the dome, to the southeast, in order to reveal earlier murals. After 1974, the murals sufferred serious damage, while sections were detached by looters and illegally exported abroad.Some have been retrieved and are now on display at the <ref target="#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III.</ref> Conservation/cleaning: 1963-1964, 1968, 1971 (DAC) </desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
