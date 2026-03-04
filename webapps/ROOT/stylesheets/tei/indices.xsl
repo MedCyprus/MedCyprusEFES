@@ -314,10 +314,10 @@
   <xsl:template match="str[@name='index_item_type']">
     <td>
     <xsl:choose>
-      <xsl:when test="ancestor::doc[descendant::str[@name='index_placenames_gazetteer']]">
+      <xsl:when test="string-length(ancestor::doc/str[@name='index_placenames_gazetteer']) > 0">
         <xsl:element name="a">
         <xsl:attribute name="href">
-          <xsl:value-of select="ancestor::doc/arr[@name='index_placenames_gazetteer']/str"/>
+          <xsl:value-of select="ancestor::doc/str[@name='index_placenames_gazetteer']"/>
         </xsl:attribute>
         <xsl:value-of select="."/>
       </xsl:element>
