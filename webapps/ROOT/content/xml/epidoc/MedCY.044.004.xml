@@ -48,7 +48,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Asinou" n="1st">Niketari, Panagia Phorbiotissa or Asinou</origPlace>
-                            <origDate precision="high" evidence="internal-date"><!--when="1105/6">-->1105/6</origDate>
+                            <origDate notBefore="1105" notAfter="1106" evidence="internal-date">1105/6</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
