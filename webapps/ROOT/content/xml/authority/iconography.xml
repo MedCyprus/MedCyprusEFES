@@ -836,10 +836,10 @@
                 </item>
                 <item xml:id="Zacharias">
                     <term xml:lang="en"
-                    >Zacharias</term><note>for the priest/prophet/father of John the Forurunner</note>
+                    >Zacharias</term><!--for the priest/father of John the Forurunner-->
                 </item>
                 <item xml:id="Zechariah">
-                    <term xml:lang="en">Zechariah</term><note>for the Old Testament prophet</note>
+                    <term xml:lang="en">Zechariah</term><!--for the Old Testament prophet-->
                 </item>
                 <item xml:id="Zenon">
                     <term xml:lang="en">Zenon</term>
@@ -945,6 +945,9 @@
                 </item>
                 <item xml:id="priest">
                     <term xml:lang="en">Priest</term>
+                </item>
+                <item xml:id="priest_Jewish">
+                    <term xml:lang="en">Priest, Jewish</term>
                 </item>
                 <item xml:id="prophet">
                     <term xml:lang="en">Prophet</term>
