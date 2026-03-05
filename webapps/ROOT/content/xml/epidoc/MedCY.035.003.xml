@@ -46,8 +46,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#KoutsoventisSaviour">Koutsoventis, Monastery of Saint John Chrysostom, Saviour</origPlace>
-                            <origDate notBefore="1101" notAfter="1133" precision="medium">Early 12th century</origDate>
+                            <origPlace ref="locations.xml#KoutsoventisSaviour" n="single">Koutsoventis, Monastery of Saint John Chrysostom, Saviour</origPlace>
+                            <origDate notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">early 12th century</origDate>
                         </origin>    
                         <provenance type="not-observed">Currently inaccessible (located in a Turkish military zone in occupied north Cyprus)</provenance>
                     </history>
