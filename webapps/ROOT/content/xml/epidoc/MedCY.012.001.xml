@@ -49,8 +49,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#ChoulouTheodore">Choulou, Saint Theodore</origPlace>
-                            <origDate notBefore="1101" notAfter="1133" precision="medium">Early 12th century</origDate>
+                            <origPlace ref="locations.xml#ChoulouTheodore" n="single">Choulou, Saint Theodore</origPlace>
+                            <origDate notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">Early 12th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
