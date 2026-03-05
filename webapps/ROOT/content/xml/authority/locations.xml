@@ -266,8 +266,8 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Free-cross domed church; western crossarm subsequently extended westwards</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century(?);</date> (west crossarm: south wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium" evidence="artistic-style">15th century(?); overpainted in the 20th century</date> (bema; central bay and dome; north and south crossarms</desc></desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century(?)</date> (west crossarm: south wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1500" precision="medium" evidence="artistic-style">15th century(?) (overpainted in the 20th century)</date> (bema; central bay and dome; north and south crossarms</desc></desc>
                     <desc type="conservation">Murals of 1st layer, very fragmentary. Conservation/cleaning: 1996, 1997 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
@@ -538,7 +538,7 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Free-cross domed church; western extension of aisles, narthex, and northeastern naos compartment added subsequently (13th century?)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style"  source="bibliography.xml#EcclesMon">Philotheou, Petrou: 11th century;</date> 
+                        <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style"  source="bibliography.xml#EcclesMon">Philotheou, Petrou: 11th century</date>; 
                             <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">MedCyprus: 13th century</date> (naos: south crossarm, east wall)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1233" precision="medium" evidence="artistic-style material-context">Early 13th century</date> (naos: north and south crossarms)</desc>
                         <desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style">Late 13th century</date> (narthex)</desc>
@@ -1270,7 +1270,7 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Single-aisled, barrel-vaulted church</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style" source="bibliography.xml#Chotzakoglou2005">Chotzakoglou: late 12th century - early 13th century;</date>
+                        <desc type="layer" n="1"><date notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style" source="bibliography.xml#Chotzakoglou2005">Chotzakoglou: late 12th century - early 13th century</date>
                             <date notBefore="1301" notAfter="1500" precision="medium" evidence="artistic-style" source="bibliography.xml#Papageorgiou2010">Papageorgiou: 14th or 15th century</date> (bema; naos)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poorly preserved. After 1974, sections of the murals were detached by looters; their current location is unknown. Conservation/cleaning: 1967 (DAC)</desc>
