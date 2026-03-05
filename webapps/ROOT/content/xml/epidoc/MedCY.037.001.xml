@@ -46,8 +46,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Lampousa">Lampousa, Panagia Acheiropoietos</origPlace>
-                            <origDate notBefore="1101" notAfter="1150">First half of 12th century</origDate>
+                            <origPlace ref="locations.xml#Lampousa" n="single">Lampousa, Panagia Acheiropoietos</origPlace>
+                            <origDate notBefore="1101" notAfter="1150" evidence="artistic-style">First half of 12th century</origDate>
                         </origin>
                         <provenance when="2024"><!--έλεγχος για μνημεία μη επισκέψιμα. Τι ημερομηνίες/λεκτικό βάζουμε;-->
                         </provenance>    
