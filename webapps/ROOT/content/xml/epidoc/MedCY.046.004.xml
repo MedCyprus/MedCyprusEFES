@@ -47,8 +47,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#PanoLefkara">Pano Lefkara, Holy Cross</origPlace>
-                            <origDate notBefore="1201" notAfter="1250" precision="medium">First half of 13th century</origDate>
+                            <origPlace ref="locations.xml#PanoLefkara" n="single">Pano Lefkara, Holy Cross</origPlace>
+                            <origDate notBefore="1201" notAfter="1250" precision="medium" evidence="artistic-style">first half of 13th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
