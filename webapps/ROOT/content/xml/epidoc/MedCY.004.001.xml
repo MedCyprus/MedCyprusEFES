@@ -50,8 +50,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#AigialousaMichael">Aigialousa, Archangel Michael</origPlace>
-                            <origDate notBefore="1201" notAfter="1401" precision="medium">13th-14th century</origDate>
+                            <origPlace ref="locations.xml#AigialousaMichael" n="single">Aigialousa, Archangel Michael</origPlace>
+                            <origDate notBefore="1201" notAfter="1401" precision="medium" evidence="artistic-style">13th-14th century</origDate>
                         </origin>
                         <provenance>n/a</provenance>
                         <provenance type="not-observed">
