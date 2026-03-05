@@ -49,8 +49,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Chortakia">Chortakia, Saint Theodore</origPlace>
-                            <origDate notBefore="1101" notAfter="1201" precision="medium">12th century</origDate>
+                            <origPlace ref="locations.xml#Chortakia" n="single">Chortakia, Saint Theodore</origPlace>
+                            <origDate notBefore="1101" notAfter="1201" precision="medium" evidence="artistic-style">12th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
