@@ -48,8 +48,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Chrysokava">Chrysokava, Saint Mavra</origPlace>
-                            <origDate notBefore="0901" notAfter="1000" precision="medium">10th century</origDate>
+                            <origPlace ref="locations.xml#Chrysokava" n="single">Chrysokava, Saint Mavra</origPlace>
+                            <origDate notBefore="0901" notAfter="1000" precision="medium" evidence="artistic-style">10th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
