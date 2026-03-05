@@ -49,8 +49,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#KalopanagiotisChapel">Kalopanagiotis, Monastery of Saint John Lampadistes, chapel of Saint John Lampadistes</origPlace>
-                            <origDate notBefore="1101" notAfter="1200" precision="medium" source="bibliography.xml#Papageorgiou2012a">12th century?</origDate>
+                            <origPlace ref="locations.xml#KalopanagiotisChapel" n="single">Kalopanagiotis, Monastery of Saint John Lampadistes, chapel of Saint John Lampadistes</origPlace>
+                            <origDate notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style" source="bibliography.xml#Papageorgiou2012a">12th century?</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
