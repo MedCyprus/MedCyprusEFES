@@ -25,7 +25,7 @@
                     <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.734564431148705, 32.48443089411125</geo></location>
-                    <desc type="construction"><date notBefore="1167" notAfter="1233">Late 12th - Early 13th century</date></desc>
+                    <desc type="construction"><date notBefore="1167" notAfter="1233">late 12th - early 13th century</date></desc>
                     <desc type="function"><term>Parochial</term>(?), <term>funerary</term>(?)</desc>
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Free-cross domed church</desc>
@@ -184,7 +184,7 @@
                     <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
                     <placeName type="diocese" ref="diocese.xml#karpasia">Bishopric of Karpasia</placeName>
                     <location><geo>35.53513, 34.18944</geo></location>
-                    <desc type="construction"><date notBefore="1067" notAfter="1133" precision="medium">Late 11th - Early 12th century</date></desc>
+                    <desc type="construction"><date notBefore="1067" notAfter="1133" precision="medium">late 11th - early 12th century</date></desc>
                     <desc type="function"><term>Unknown</term></desc>
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Single-aisled barrel-vaulted church; narthex with drumless dome subsequently added to the west</desc>
@@ -467,7 +467,7 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Domed-hall(?) church, with south chapel added subsequently </desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">Early 12th century</date> (bema)</desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">early 12th century</date> (bema)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; murals detached, now displayed in the <ref target="#PaphosMuseum">Ecclesiastical Museum of the Holy Bishopric of Paphos</ref>. Conservation/cleaning: 1992, 2001 (DAC)
                        </desc>
@@ -540,8 +540,8 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style"  source="bibliography.xml#EcclesMon">Philotheou, Petrou: 11th century</date>; 
                             <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">MedCyprus: 13th century</date> (naos: south crossarm, east wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1233" precision="medium" evidence="artistic-style material-context">Early 13th century</date> (naos: north and south crossarms)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style">Late 13th century</date> (narthex)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1233" precision="medium" evidence="artistic-style material-context">early 13th century</date> (naos: north and south crossarms)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style">late 13th century</date> (narthex)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1401" notAfter="1533" precision="medium" evidence="artistic-style">15th century or early 16th century</date> (dome; naos: north and south crossarms, western vault)</desc>
                         <desc type="layer" n="5">5th layer: <date when="1896" precision="high">1896</date> (naos: north and south crossarms)</desc>
                     </desc>
@@ -591,9 +591,9 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="0701" notAfter="0900" precision="medium" evidence="artistic-style">8th or 9th century</date> (eastern dome above bema)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="0901" notAfter="1000" precision="medium" evidence="artistic-style">10th century</date> (nave)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">Early 12th century</date> (bema; nave)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">early 12th century</date> (bema; nave)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (nave; south aisle)</desc>
-                        <desc type="layer" n="5">5th layer: <date notBefore="1467" notAfter="1533" precision="medium" evidence="artistic-style">Late 15th - Early 16th century</date> (bema; central and western domes of nave; nave)</desc>
+                        <desc type="layer" n="5">5th layer: <date notBefore="1467" notAfter="1533" precision="medium" evidence="artistic-style">late 15th - early 16th century</date> (bema; central and western domes of nave; nave)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1955, 1974, 1976, 1977, 1994, 1995, 2003 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
@@ -643,7 +643,7 @@
                     <desc type="architectural">Domed triconch church (today, ruinous), with northwest <ref target="#GialiaChapel">chapel of Saint George</ref> and western porch extending in front of both main church and chapel added subsequently</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1051" notAfter="1100" precision="medium" evidence="artistic-style">second half of 11th century</date> (bema; naos)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1150" precision="medium" evidence="artistic-style">first half of 12th century </date> (western porch)</desc>                    </desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1150" precision="medium" evidence="artistic-style">first half of 12th century</date> (western porch)</desc>                    </desc>
                     <desc type="conservation">Very fragmentary; poorly preserved. Fragments of painted plaster revealed during excavations are kept in the <ref target="#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning:  2011, 2013, 2015 (DAC?)</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknwon</desc>
@@ -673,7 +673,7 @@
                     <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
                     <placeName type="diocese" ref="diocese.xml#arsinoe">Bishopric of Arsinoe</placeName>
                     <location><geo>35.0896, 32.55495468191464</geo></location>
-                    <desc type="construction"><date notBefore="0967" notAfter="1033" precision="medium">Late 10th century - Early 11th century</date></desc>
+                    <desc type="construction"><date notBefore="0967" notAfter="1033" precision="medium">late 10th century - early 11th century</date></desc>
                     <desc type="function"><term>Monastic</term></desc>
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed-hall chapel, annexed to the northwest of the <ref target="#GialiaKatholikon">main church</ref> of the monastery</desc>
@@ -709,7 +709,7 @@
                     <placeName type="district" ref="district.xml#nicosia">Nicosia</placeName>
                     <placeName type="diocese" ref="diocese.xml#archbishopric">Archbishopric of Cyprus</placeName>
                     <location><geo>34.9772493969261, 32.88949694061986</geo></location>
-                    <desc type="construction"><date notBefore="1001" notAfter="1033" precision="medium">Early 11th century</date></desc>
+                    <desc type="construction"><date notBefore="1001" notAfter="1033" precision="medium">early 11th century</date></desc>
                     <desc type="function"><term>Monastic</term>(?); <term>pilgrimage</term>(?)</desc>
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Domed pier cross-in-square church, with narthex subsequently added (12th century); the saddleback timber roof covering both was in place by the 13th century</desc>
@@ -771,7 +771,7 @@
                     <placeName type="district" ref="district.xml#nicosia">Nicosia</placeName>
                     <placeName type="diocese" ref="diocese.xml#morphou">Bishopric of Morphou</placeName>
                     <location><geo>35.01250894002986, 32.88420907848711</geo></location>
-                    <desc type="construction"><date notBefore="1067" notAfter="1133" precision="medium">Late 11th - Early 12th century</date></desc>
+                    <desc type="construction"><date notBefore="1067" notAfter="1133" precision="medium">late 11th - early 12th century</date></desc>
                     <desc type="function"><term>Parochial</term></desc>
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Original structure of uncertain type, since only part of the north wall survives incorporated into the present-day two-aisled timber roofed church, which was constructed in the 14th/15th century and expanded in the early 20th century</desc>
@@ -813,7 +813,7 @@
                     <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
                     <placeName type="diocese" ref="diocese.xml#kyrenia">Bishopric of Kyreneia</placeName>
                     <location><geo>35.327, 33.619</geo></location>
-                    <desc type="construction"><date notBefore="1167" notAfter="1200" precision="medium">Late 12th century</date></desc>
+                    <desc type="construction"><date notBefore="1167" notAfter="1200" precision="medium">late 12th century</date></desc>
                     <desc type="function"><term>Monastic</term></desc>
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed octagon church, with narthex and south portico added subsequently (16th century)</desc>
@@ -861,8 +861,8 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Originally, a single-aisled structure, either vaulted or domed, attached to the north of <ref target="#KalopanagiotisKatholikon">the church of Saint Herakleidios</ref>, to house the tomb of the saint; today, only the eastern part of the north wall survives, incorporated into a later structure of the 18th century</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic style" source="bibliography.xml#Papageorgiou2012a">Papageorgiou: 12th century</date>
-                            <date notBefore="1251" notAfter="1300" precision="medium" evidence="artistic style" source="bibliography.xml#Perdiki2023">Perdiki: second half of 13th century</date></desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style" source="bibliography.xml#Papageorgiou2012a">Papageorgiou: 12th century</date>;
+                            <date notBefore="1251" notAfter="1300" precision="medium" evidence="artistic-style" source="bibliography.xml#Perdiki2023">Perdiki: second half of 13th century</date></desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1968-1973, 2001 (DAC), 2007-2012 (Courtauld Institute of Art)
                     </desc>
@@ -1024,7 +1024,7 @@
                     <placeName type="district" ref="district.xml#larnaca">Larnaca</placeName>
                     <placeName type="diocese" ref="diocese.xml#trimythous">Bishopric of Trimythous</placeName>
                     <location><geo>34.861755517715984, 33.31569740361403</geo></location>
-                    <desc type="construction"><date notBefore="1167" notAfter="1200" precision="medium">Late 12th century</date></desc>
+                    <desc type="construction"><date notBefore="1167" notAfter="1200" precision="medium">late 12th century</date></desc>
                     <desc type="function"><term>Monastic</term>(?)</desc>
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Domed-hall church, with narthex added subsequently (20th century)</desc>
@@ -1072,7 +1072,7 @@
                     <desc type="context"><term>Urban</term></desc>
                     <desc type="architectural">Chamber of a Hellenestic(?) rock-cut tomb, converted into a single-cell chapel</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer:<date notBefore="1167" notAfter="1200" precision="medium" evidence="artistic-style" source="bibliography.xml#Papageorgiou1996 bibliography.xml#Stylianou1997">Papageorgiou, Stylianou: late 12th century</date> <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style" source="bibliography.xml#HatfieldYoung1978 bibliography.xml#Konstantinidi2008">Hatfield Young, Konstandinidi: 14th century</date> (bema)</desc>                                                
+                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium" evidence="artistic-style" source="bibliography.xml#Papageorgiou1996 bibliography.xml#Stylianou1997">Papageorgiou, Stylianou: late 12th century</date>; <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style" source="bibliography.xml#HatfieldYoung1978 bibliography.xml#Konstantinidi2008">Hatfield Young, Konstandinidi: 14th century</date> (bema)</desc>                                                
                         <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (naos)</desc>
                     </desc>
                     <desc type="conservation">Poor condition; badly damaged. Conservation/cleaning: 1980, 2005 (DAC)</desc>
@@ -1163,7 +1163,7 @@
                     <placeName type="district" ref="district.xml#larnaca">Larnaca</placeName>
                     <placeName type="diocese" ref="diocese.xml#kition">Bishopric of Kition</placeName>
                     <location><geo>34.847624209783056, 33.57104628466248</geo></location>
-                    <desc type="construction"><date notBefore="1067" notAfter="1200" >Late 11th or 12th century, with later additions: north chapel dedicated to Sts Kosmas and Damian, late 12th or early 13th century; south, "Latin" chapel, late 13th century; western extension, 19th century(?)</date></desc>
+                    <desc type="construction"><date notBefore="1067" notAfter="1200" >late 11th or 12th century, with later additions: north chapel dedicated to Sts Kosmas and Damian, late 12th or early 13th century; south, "Latin" chapel, late 13th century; western extension, 19th century(?)</date></desc>
                     <desc type="function"><term>Parochial</term>(?), <term>funerary</term></desc>
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Domed pier cross-in-square church, incorporating the apse of an Early Byzantine basilica (5th century?) to the east, with the north and south chapels and western extension added subsequently</desc>
@@ -1270,7 +1270,7 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Single-aisled, barrel-vaulted church</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style" source="bibliography.xml#Chotzakoglou2005">Chotzakoglou: late 12th century - early 13th century</date>
+                        <desc type="layer" n="1"><date notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style" source="bibliography.xml#Chotzakoglou2005">Chotzakoglou: late 12th century - early 13th century</date>;
                             <date notBefore="1301" notAfter="1500" precision="medium" evidence="artistic-style" source="bibliography.xml#Papageorgiou2010">Papageorgiou: 14th or 15th century</date> (bema; naos)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poorly preserved. After 1974, sections of the murals were detached by looters; their current location is unknown. Conservation/cleaning: 1967 (DAC)</desc>
@@ -1344,7 +1344,7 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Free-cross domed church, with elongated eastern crossarm; western crossarm subsequently replaced with extant structure and south porch subsequently added</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" evidence="artistic-style" precision="medium" source="bibliography.xml#MKE">Papageorgiou: 12th century, repainted in the 14th; </date>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" evidence="artistic-style" precision="medium" source="bibliography.xml#MKE">Papageorgiou: 12th century, repainted in the 14th</date>;
                             <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">all other scholars: 14th century</date> (naos)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1401" notAfter="1600" precision="medium" evidence="artistic-style">15th or 16th century</date> (dome; naos)</desc>
                     </desc>
@@ -1431,7 +1431,7 @@
                     <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
                     <placeName type="diocese" ref="diocese.xml#jerusalem">Exarchate of the Holy Sepulchre in Cyprus</placeName>
                     <location><geo>35.272, 33.419</geo></location>
-                    <desc type="construction"><date notBefore="1167" notAfter="1200" precision="medium">Late 12th century</date></desc>
+                    <desc type="construction"><date notBefore="1167" notAfter="1200" precision="medium">late 12th century</date></desc>
                     <desc type="function"><term>Monastic</term>; <term>cemeterial</term></desc>
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed-hall chapel (today, ruinous), attached to the north side of the <ref target="#KoutsoventisSaviour">chapel of the Saviour</ref></desc>
@@ -1469,7 +1469,7 @@
                     <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
                     <placeName type="diocese" ref="diocese.xml#jerusalem">Exarchate of the Holy Sepulchre in Cyprus</placeName>
                     <location><geo>35.273, 33.419</geo></location>
-                    <desc type="construction"><date notBefore="1101" notAfter="1133" precision="medium">Early 12th century</date></desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date></desc>
                     <desc type="function"><term>Monastic</term>; <term>cemeterial</term></desc>
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed-hall church (today, ruinous), with narthex added subsequently to the west and the <ref target="#KoutsoventisPanagia">chapel of Panagia Aphendrika</ref> added to the north</desc>
@@ -1569,7 +1569,7 @@
                     <placeName type="district" ref="district.xml#kyrenia">Kyreneia</placeName>
                     <placeName type="diocese" ref="diocese.xml#kyrenia">Bishopric of Kyrenia</placeName>
                     <location><geo>35.354, 33.202</geo></location>
-                    <desc type="construction"><date notBefore="1067" notAfter="1133">Late 11th - Early 12th century, with later additions</date></desc>
+                    <desc type="construction"><date notBefore="1067" notAfter="1133">late 11th - early 12th century, with later additions</date></desc>
                     <desc type="function"><term>Monastic</term> (at least by the 15th century)</desc>
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Domed pier cross-in-square church, built over the nave of an Early Byzantine basilica and incorporating its eastern central apse; domed narthex added during the 12th century to the west; exonarthex and western porch added subsequently (15th/16th century)</desc>
@@ -1655,7 +1655,7 @@
                     <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
                     <placeName type="diocese" ref="diocese.xml#archbishopric">Archbishopric of Cyprus</placeName>
                     <location><geo>35.085577, 33.664674</geo></location>
-                    <desc type="construction"><date notBefore="1167" notAfter="1233" precision="medium">Late 12th - Early 13th century</date></desc>
+                    <desc type="construction"><date notBefore="1167" notAfter="1233" precision="medium">late 12th - early 13th century</date></desc>
                     <desc type="function"><term>Monastic</term></desc>
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed-hall church</desc>
@@ -1783,7 +1783,7 @@
                     <placeName type="district" ref="district.xml#limassol">Limassol</placeName>
                     <placeName type="diocese" ref="diocese.xml#limassol">Bishopric of Limassol</placeName>
                     <location><geo>34.799171828505585, 32.9091972716911</geo></location>
-                    <desc type="construction"><date notBefore="1101" notAfter="1133" precision="medium">Early 12th century</date></desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1133" precision="medium">early 12th century</date></desc>
                     <desc type="function"><term>Monastic</term></desc>
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Single-aisled barrel-vaulted church, with a second, timber gable roof.</desc>
@@ -1832,8 +1832,8 @@
                     <desc type="architectural">Single-aisled timber-roofed church, with an L-shaped closed portico along its northern and western sides.</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date when="1280-07-30" evidence="internal-date">July 30, 1280</date> (bema; naos; exterior of west wall)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1333" precision="medium" evidence="artistic-style">early 14th century </date> (naos: south wall; exterior of west wall)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1467" notAfter="1533" precision="medium" evidence="artistic-style"> late 15th century - early 16th century </date> (exterior of north wall)</desc>    
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1333" precision="medium" evidence="artistic-style">early 14th century</date> (naos: south wall; exterior of west wall)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1467" notAfter="1533" precision="medium" evidence="artistic-style"> late 15th century - early 16th century</date> (exterior of north wall)</desc>    
                     </desc>
                     <desc type="conservation">Fragmentary; good condition. Conservation/cleaning: 1968, 2003, 2007 (DAC)</desc>
                     <desc type="donors"> 1st layer: Ioannes Gerakiotes and his wife Irene funded the construction and the mural decoration of the church (<ref target="MedCY.043.020.html">MedCY.043.020</ref>, <ref target="MedCY.043.021.html">MedCY.043.020</ref>). Christophoros Omotes and his wife Maria funded the mural panel of Saint Christopher on the south wall of the naos (<ref target="MedCY.043.036.html">MedCY.043.036</ref>). Another couple, Georgios Kompotes and his wife Eirene, funded the mural panel with the enthroned Christ on the exterior of the west wall (<ref target="MedCY.043.068.html">MedCY.043.068</ref>).</desc>
@@ -2117,7 +2117,7 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date when="1178" evidence="internal-date">1178</date> (bema: apse)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</date> (bema: east wall to the south of the apse; south aisle: north wall)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1335" notAfter="1350" precision="medium" evidence="artistic-style" source="bibliography.xml#Zarras2010">Zarras: second quarter of 14th century;</date> <date notBefore="1351" notAfter="1375" precision="medium" evidence="artistic-style" source="bibliography.xml#Hadjichristodoulou2005">Hadjichristodoulou: third quarter of 14th century</date>(bema; dome; naos)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1335" notAfter="1350" precision="medium" evidence="artistic-style" source="bibliography.xml#Zarras2010">Zarras: second quarter of 14th century</date>; <date notBefore="1351" notAfter="1375" precision="medium" evidence="artistic-style" source="bibliography.xml#Hadjichristodoulou2005">Hadjichristodoulou: third quarter of 14th century</date> (bema; dome; naos)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1351" notAfter="1375" precision="medium" evidence="artistic-style prosopography">3rd quarter of the 14th century</date> (north aisle)</desc>
                         <desc type="layer" n="5">5th layer: <date notBefore="1301" notAfter="1500" precision="medium" evidence="artistic-style">14th - 15th century</date> (south aisle: west wall)</desc>
                         <desc type="layer" n="6">6th layer: <date notBefore="1501" notAfter="1533" precision="medium" evidence="artistic-style">early 16th century</date> (naos: south wall)</desc>
@@ -2304,7 +2304,7 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Single-aisled vaulted church, with a now ruinous narthex subsequently added to the west (date unknown)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style" source="bibliography.xml#Papageorgiou2010">Papageorgiou: 12th century; </date>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style" source="bibliography.xml#Papageorgiou2010">Papageorgiou: 12th century</date>;
                             <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style" source="bibliography.xml#Chotzakoglou2010a">Chotzakoglou: 13th century</date> (bema; naos)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1500" precision="medium" evidence="artistic-style">13th century or later</date> (naos: north central recess; southwest recess)</desc> <!--need to see good photos of these to get a better idea about the dating -->
                     </desc>
@@ -2593,7 +2593,7 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st and 2nd layers, in quick succession: <date notBefore="1159" notAfter="1183" precision="medium" evidence="material-context written-evidence">1159/60 - 1183</date> (cell; on either side of the wall separating the cell from the bema)</desc>
                         <desc type="layer" n="3">3rd layer: <date when="1183" evidence="internal-date">1183</date> (bema; cell; tomb)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1195" notAfter="1214" precision="low" evidence="written-evidence">ca 1195 (certainly, prior to the death of Neophytos the Recluse in 1214)</date> (naos)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1195" notAfter="1214" precision="low" evidence="written-evidence">ca 1195 (certainly prior to the death of Neophytos the Recluse in 1214)</date> (naos)</desc>
                         <desc type="layer" n="5">5th layer: <date notBefore="1495" notAfter="1505" precision="low" evidence="artistic-style">ca 1500</date> (narthex)</desc>
                         <desc type="layer" n="6">6th layer: <date when="1503" evidence="internal-date">1503 </date> (bema; naos)</desc>
                     </desc>
@@ -2689,7 +2689,7 @@
                     <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
                     <placeName type="diocese" ref="diocese.xml#arsinoe">Bishopric of Arsinoe</placeName>
                     <location><geo>34.96735762, 32.42950418</geo></location>
-                    <desc type="construction"><date notBefore="1167" notAfter="1300" precision="medium">Late 12th - 13th century</date></desc>
+                    <desc type="construction"><date notBefore="1167" notAfter="1300" precision="medium">late 12th - 13th century</date></desc>
                     <desc type="function"><term>Monastic</term>(?)</desc>
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">In ruins, original form uncertain; single-aisled vaulted structure.</desc>
@@ -2721,7 +2721,7 @@
                     <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
                     <placeName type="diocese" ref="diocese.xml#karpasia">Bishopric of Karpasia</placeName>
                     <location><geo>35.283, 33.889</geo></location>
-                    <desc type="construction"><date notBefore="1101" notAfter="1133" precision="medium">Early 12th century, with subsequent additions and alterations (15th and 19th centuries)</date></desc>
+                    <desc type="construction"><date notBefore="1101" notAfter="1133" precision="medium">early 12th century, with subsequent additions and alterations (15th and 19th centuries)</date></desc>
                     <desc type="function"><term>Parochial</term></desc>
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Originally, a domed-hall structure, though with cylindrical engaged piers supporting the dome; north aisle/"chapel" and successive western extensions subsequently added</desc>
