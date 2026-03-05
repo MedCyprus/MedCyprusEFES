@@ -50,8 +50,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#ChlorakasNicholas">Chlorakas, Saint Nicholas</origPlace>
-                            <origDate notBefore="1201" notAfter="1250" precision="medium">First half of the 13th century</origDate>
+                            <origPlace ref="locations.xml#ChlorakasNicholas" n="single">Chlorakas, Saint Nicholas</origPlace>
+                            <origDate notBefore="1201" notAfter="1250" precision="medium" evidence="artistic-style">First half of the 13th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
