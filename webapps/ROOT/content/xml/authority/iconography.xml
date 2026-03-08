@@ -38,6 +38,9 @@
                 <item xml:id="Angels_VirginOrans"><!-- cupola decoration around the Pantokrator -->
                     <term xml:lang="en">Adoring angels convering on the Virgin Orans</term>
                 </item>
+                <item xml:id="AnnePrayer">
+                    <term xml:lang="en">The Prayer of Anne</term>
+                </item>
                 <item xml:id="Αnnunciation">
                     <term xml:lang="en">Annunciation</term>
                 </item>
@@ -99,6 +102,15 @@
                 </item>
                 <item xml:id="Hetoimasia">
                     <term xml:lang="en">Hetoimasia (preparation of the throne)</term>
+                </item>
+                <item xml:id="JoachimPrayer">
+                    <term xml:lang="en">The Prayer of Joachim</term>
+                </item>
+                <item xml:id="JoachimAnneOffering">
+                    <term xml:lang="en">Joachim and Anne's offering</term>
+                </item>
+                <item xml:id="JoachimAnneEmbracing">
+                    <term xml:lang="en">The Embrace of Joachim and Anne</term>
                 </item>
                 <item xml:id="LastJudgment">
                     <term xml:lang="en">Last Judgment</term>
