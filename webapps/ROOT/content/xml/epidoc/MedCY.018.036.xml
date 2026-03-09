@@ -80,9 +80,9 @@
               <ab>
                 <lb n="1"/><supplied reason="lost">Ὁ</supplied><persName type="sacred" key="Euthymios"><supplied reason="lost"><w lemma="ἅγιος">ἅγιος</w></supplied>
                     <lb n="2"/><name type="forename" nymRef="#Εὐθύμιος"><choice><sic>Ε<choice><orig>υ</orig><reg>ὐ</reg></choice>
-                        <lb n="3"/>θύ
-                        <lb n="4"/>μη
-                        <lb n="5"/>ος</sic><corr>Εὐθύμιος</corr></choice></name></persName>
+                        <lb n="3" break="no"/>θύ
+                        <lb n="4" break="no"/>μη
+                        <lb n="5" break="no"/>ος</sic><corr>Εὐθύμιος</corr></choice></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
