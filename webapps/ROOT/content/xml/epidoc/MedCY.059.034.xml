@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Euthymios</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3</height>
+                            <handNote>White majuscule letters against blue background. Final sigma in the form of a wavy line. Accents and breathings non systematic. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -76,7 +77,18 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/> 
+                  <lb n="1"/>Ὁ
+                    <lb n="2"/><persName type="sacred" key="Euthymios"><w lemma="ἅγιος"><choice><orig>ἂ</orig><reg>ἅ</reg></choice>
+                     <lb n="3" break="no"/>γι
+                    <lb n="4" break="no"/>ο
+                     <lb n="5" break="no"/>ς</w>        
+                      <cb n="b"/> 
+                     <lb n="1"/><name nymRef ="#Εὐθύμιος" type="forename"><supplied reason="lost">Εὐ
+                         <lb n="2" break="no"/>θύ
+                        <lb n="3" break="no"/>μη</supplied>
+                        <lb n="4" break="no"/>ο
+                        <lb n="5" break="no"/>ς</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
