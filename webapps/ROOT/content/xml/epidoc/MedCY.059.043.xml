@@ -78,12 +78,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                      <cb n="a"/>
-                      <lb n="1"/>Ὁ            
+                    <lb n="1"/>Ὁ            
                     <lb n="2"/><persName type="sacred" key="David"><w lemma="προφήτης"><hi rend="ligature">πρ</hi>
                     <lb n="3" break="no"/>ο
-                       <lb n="4" break="no"/>φή<hi rend="ligature">τη</hi>ς</w>
+                    <lb n="4" break="no"/>φή<hi rend="ligature">τη</hi>ς</w>
                      <cb n="b"/> 
-                       <lb n="1"/> <name type="forename" nymRef="#Δαυΐδ"><expan><abbr rend="supraline">Δα</abbr><ex>υΐ</ex><abbr rend="supraline">δ</abbr></expan></name><am>&#x00B4;</am></persName> 
+                     <lb n="1"/> <name type="forename" nymRef="#Δαυΐδ"><expan><abbr rend="supraline">Δα</abbr><ex>υΐ</ex><abbr rend="supraline">δ</abbr></expan></name><am>&#x00B4;</am></persName> 
                  </ab>
             </div>
             <div type="apparatus">
