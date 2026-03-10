@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Prophet Jeremiah</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Characters size varies. TH and MH joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Jeremiah">Jeremiah</rs></p>
+                            <p><rs type="iconography" ref="#Jeremiah">Jeremiah</rs>
+                                <rs type="iconography" ref="#prophet"></rs>
+                                <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +76,18 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
+                  <cb n="a"/>
+                      <lb n="1"/>Ὁ 
+                       <lb n="2"/><persName type="sacred" key="Jeremiah"><w lemma="προφήτης">π
+                        <lb n="3" break="no"/>ρ
+                        <lb n="4" break="no"/>ο
+                      <lb n="5" break="no"/>φή<hi rend="ligature">τη</hi>ς</w>
+                      <cb n="b"/> 
+                     <lb n="1"/><name type="forename" nymRef="#Ἱερεμίας"><choice><sic><choice><orig>I</orig><reg>Ἱ</reg></choice>
+                     <lb n="2" break="no"/>ε
+                      <lb n="3" break="no"/>ρ
+                       <lb n="4" break="no"/>ε  
+                    <lb n="5" break="no"/><hi rend="ligature">μή</hi>ας</sic><corr>Ἱερεμίας</corr></choice></name></persName>
                 </ab>
             </div>
             <div type="apparatus">
