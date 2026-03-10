@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Cryptograms</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING. Letter height: <height unit="cm">5-6</height>
+                             <handNote>Red majuscule letters against white background. Characters size varies. Horizontal abbreviation mark above the sigla Ἰ(ησοῦ)ς Χ(ριστό)ς. Accents and breathings non systematic. Letter height: <height unit="cm">5-6</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -73,14 +74,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    PENDING
+                    <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></name></persName>
                </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Jesus Christ</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
