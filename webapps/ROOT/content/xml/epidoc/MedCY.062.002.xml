@@ -62,7 +62,7 @@
                     <term type="textType" ref="text_types.xml#doc7">Hymnographical citation</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publication, archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>
+            <creation>transcription (Th. Petrou), publications, archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -88,7 +88,9 @@
             </div>
             <div type="bibliography">
                  <listBibl>
+                <bibl><ptr target="#Rhoby2009"/>, <citedRange>377</citedRange></bibl>
                 <bibl><ptr target="#HadjichristodoulouFoulias2020"/>, <citedRange>59-62</citedRange></bibl>
+                <bibl><author>Carr </author>in <ptr target="#VisCult"/><citedRange> 2, 1488-93</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
