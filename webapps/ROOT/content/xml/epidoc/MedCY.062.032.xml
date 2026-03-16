@@ -62,11 +62,11 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publication, archival photos (Index of Medieval Art,  Trustees of Princeton University, The Svetlana Tomeković Database of Byzantine Art)</creation>
+            <creation>transcription (Th. Petrou), publication, archival photos (Index of Medieval Art,  Trustees of Princeton University, The Svetlana Tomeković Database of Byzantine Art, Record no. 1517)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="062-032-01.jpg"><desc>Saint Elpidophoros, inscription (© Index of Medieval Art,  Trustees of Princeton University, The Svetlana Tomeković Database of Byzantine Art, Record no. 1517)</desc></graphic>    
+         <graphic rend="primary" url="062-032-01.jpg"><desc>Saint Elpidophoros, inscription (© Svetlana Tomeković)</desc></graphic>    
     </facsimile>
     <text>
         <body>
