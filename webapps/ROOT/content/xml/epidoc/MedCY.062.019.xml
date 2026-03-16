@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>The Prayer of Anne</title>
+                <title>Prayer of Anna</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -66,7 +66,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="062-019-01.JPG"><desc>The Prayer of Anne, inscription (© Department of Antiquities, Cyprus)</desc></graphic>    
+         <graphic rend="primary" url="062-019-01.JPG"><desc>Prayer of Anna, inscription (© Department of Antiquities, Cyprus)</desc></graphic>    
     </facsimile>
     <text>
         <body>
@@ -79,7 +79,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>The prayer of Anne</p>
+                <p>Prayer of Anna</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>

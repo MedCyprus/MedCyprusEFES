@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Joachim and Anne offering gifts</title>
+                <title>Rejection of the offerings of Joachim and Anna</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -66,8 +66,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="062-021-01.JPG"><desc>Joachim and Anne offering gifts, inscription (© Department of Antiquities, Cyprus)</desc></graphic>    
-         <graphic url="062-021-02.JPG"><desc>Joachim and Anne offering gifts, general view (© Department of Antiquities, Cyprus)</desc></graphic>
+         <graphic rend="primary" url="062-021-01.JPG"><desc>Rejection of the offerings of Joachim and Anna, inscription (© Department of Antiquities, Cyprus)</desc></graphic>    
+         <graphic url="062-021-02.JPG"><desc>Rejection of the offerings of Joachim and Anna, general view (© Department of Antiquities, Cyprus)</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -80,7 +80,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Joachim and Anne offering gifts</p>
+                <p>Joachim and Anna offering gifts</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
