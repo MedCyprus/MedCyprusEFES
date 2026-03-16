@@ -766,7 +766,7 @@
                 </place>
                 
                 <place xml:id="Kaliana" n="19">
-                    <placeName xml:lang="en">Kaliana, Saints Joachim and Anne</placeName>
+                    <placeName xml:lang="en">Kaliana, Saints Joachim and Anna</placeName>
                     <placeName xml:lang="el">Καλιάνα, Άγιοι Ιωακείμ και Άννα</placeName>
                     <placeName type="district" ref="district.xml#nicosia">Nicosia</placeName>
                     <placeName type="diocese" ref="diocese.xml#morphou">Bishopric of Morphou</placeName>
