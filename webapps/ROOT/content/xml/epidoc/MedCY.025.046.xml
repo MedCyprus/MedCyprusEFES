@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Presentation of Christ to the temple, Prophetess Anne's scroll</title>
+                <title>Presentation of Christ to the temple, Prophetess Anna's scroll</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,8 +42,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#PresentationChristTemple">Presentation of Christ to the Temple, Anne</rs>
-                                <rs type="iconography" ref="#Anne"></rs>
+                            <p><rs type="iconography" ref="#PresentationChristTemple">Presentation of Christ to the Temple, Anna</rs>
+                                <rs type="iconography" ref="#Anna"></rs>
                                 <rs type="iconography" ref="#scroll"></rs>
                             <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
@@ -70,9 +70,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="025-046-01.JPG"><desc>Presentation of Christ to the temple, Prophetess Anne's scroll, inscription</desc></graphic>
-         <graphic url="025-046-02.JPG"><desc>Presentation of Christ to the temple, Prophetess Anne's scroll, inscription</desc></graphic>
-         <graphic url="025-046-03.JPG"><desc>Presentation of Christ to the temple, Prophetess Anne's scroll, general view</desc></graphic>
+         <graphic rend="primary" url="025-046-01.JPG"><desc>Presentation of Christ to the temple, Prophetess Anna's scroll, inscription</desc></graphic>
+         <graphic url="025-046-02.JPG"><desc>Presentation of Christ to the temple, Prophetess Anna's scroll, inscription</desc></graphic>
+         <graphic url="025-046-03.JPG"><desc>Presentation of Christ to the temple, Prophetess Anna's scroll, general view</desc></graphic>
              </facsimile>
     <text>
         <body>

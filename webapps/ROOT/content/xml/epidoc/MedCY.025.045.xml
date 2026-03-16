@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Presentation of Christ to the temple, Prophetess Anne</title>
+                <title>Presentation of Christ to the temple, Prophetess Anna</title>
                  <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,8 +42,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#PresentationChristTemple">Presentation of Christ to the Temple, Anne</rs>
-                                <rs type="iconography" ref="#Anne"></rs>
+                            <p><rs type="iconography" ref="#PresentationChristTemple">Presentation of Christ to the Temple, Anna</rs>
+                                <rs type="iconography" ref="#Anna"></rs>
                             <rs type="iconography" ref="#mariological"></rs>
                             </p>
                         </decoDesc>
@@ -70,22 +70,22 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="025-045-01.JPG"><desc>Presentation of Christ to the temple, Prophetess Anne, inscription</desc></graphic>
-         <graphic url="025-045-02.JPG"><desc>Presentation of Christ to the temple, Prophetess Anne, general view</desc></graphic>
-         <graphic url="025-045-03.JPG"><desc>Presentation of Christ to the temple, Prophetess Anne, general view</desc></graphic>
+         <graphic rend="primary" url="025-045-01.JPG"><desc>Presentation of Christ to the temple, Prophetess Anna, inscription</desc></graphic>
+         <graphic url="025-045-02.JPG"><desc>Presentation of Christ to the temple, Prophetess Anna, general view</desc></graphic>
+         <graphic url="025-045-03.JPG"><desc>Presentation of Christ to the temple, Prophetess Anna, general view</desc></graphic>
              </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><choice><orig>η</orig><reg>ἡ</reg></choice><persName type="sacred" key="Anne"><w lemma="ἁγία"><choice><orig>α</orig><reg>ἁ</reg></choice>γία</w> <name nymRef ="#Ἄννα" type="forename"><choice><orig>Α</orig><reg>Ἄ</reg></choice><hi rend="ligature">νν</hi>α</name></persName>               
+                    <lb n="1"/><choice><orig>η</orig><reg>ἡ</reg></choice><persName type="sacred" key="Anna"><w lemma="ἁγία"><choice><orig>α</orig><reg>ἁ</reg></choice>γία</w> <name nymRef ="#Ἄννα" type="forename"><choice><orig>Α</orig><reg>Ἄ</reg></choice><hi rend="ligature">νν</hi>α</name></persName>               
                  </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Saint Anne</p>
+                <p>Saint Anna</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
