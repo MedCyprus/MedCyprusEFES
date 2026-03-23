@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Descent from the Cross, numeral</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letter against red background.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#DescentOfTheCross">Descent of the Cross</rs></p>
+                            <p><rs type="iconography" ref="#DescentOfTheCross">Descent of the Cross</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
