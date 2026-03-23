@@ -42,7 +42,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#AgonyInTheGarden">Agony in the Garden</rs></p>
+                            <p><rs type="iconography" ref="#AgonyInTheGarden">Agony in the Garden</rs>
+                            <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
