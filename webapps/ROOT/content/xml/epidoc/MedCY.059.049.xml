@@ -38,11 +38,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letter against red background. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#AgonyInTheGarden">Agony in the Garden</rs></p>
+                            <p><rs type="iconography" ref="#AgonyInTheGarden">Agony in the Garden</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
