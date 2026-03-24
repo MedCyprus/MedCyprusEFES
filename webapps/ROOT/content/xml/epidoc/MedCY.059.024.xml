@@ -87,9 +87,9 @@
                         <cb n="b"/>
                         <lb n="1"/><name type="forename" nymRef="#Κυριακός">Κυ
                         <lb n="3" break="no"/>ρı
-                        <lb n="4" break="no"/>α
+                        <lb n="4" break="no"/><choice><orig>ἀ</orig><reg>α</reg></choice>
                         <lb n="5" break="no"/>κ
-                         <lb n="6" break="no"/><hi rend="ligature">ός</hi></name>
+                         <lb n="6" break="no"/><hi rend="ligature"><choice><orig>ὸ</orig><reg>ό</reg></choice>ς</hi></name>
                         <lb n="7"/><addName type="epithet" key="Anchorite"><choice><sic><supplied reason="lost">Ἀναχω</supplied>ρıτής</sic><corr>Ἀναχωρητής</corr></choice></addName></persName>
                     
                  </ab>
