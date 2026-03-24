@@ -78,11 +78,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <cb n="a"/> 
                   <lb n="1"/><name type="forename" nymRef="#Νεόφυτος"><expan><abbr rend="supraline">Ν
-                    <lb n="2" break="no"/>  
-                  <cb n="b"/>
-                   <lb n="1"/>ε</abbr><ex>όφυτος</ex></expan></name>                     
+                  <milestone unit="column" n="right"/>ε</abbr><ex>όφυτος</ex></expan></name>                     
                  </ab>
             </div>
             <div type="apparatus">
