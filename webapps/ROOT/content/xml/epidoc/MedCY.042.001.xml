@@ -48,7 +48,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Monagri" n="1st">Monagri, Monastery of Panagia Amasgou, katholikon</origPlace>
-                            <origDate notBefore="1201" notAfter="1233" precision="medium" evidence="artistic-style">Early 12th century</origDate>
+                            <origDate notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">Early 12th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
@@ -63,11 +63,13 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publications</creation>
+            <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+        <graphic rend="primary" url="042-001-01.JPG"><desc>Saint Spyridon, inscription</desc></graphic>
+        <graphic url="042-001-02.JPG"><desc>Saint Spyridon, inscription detail</desc></graphic>
+        <graphic url="042-001-03.JPG"><desc>Saint Spyridon, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -80,14 +82,14 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Saint Spyridon</p>
+                <p>[Saint] Spyridon</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl><ptr target="#Boyd1974"/>, <citedRange>287</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
