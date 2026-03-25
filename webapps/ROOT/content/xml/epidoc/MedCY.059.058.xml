@@ -76,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                  <lb n="1"/><choice><orig>H</orig><reg>Ἡ</reg></choice><w lemma="Προδοσία">Προδοσία</w>              
+                  <lb n="1"/><choice><orig>H</orig><reg>Ἡ</reg></choice> <w lemma="Προδοσία">Προδοσία</w>              
                  </ab>
             </div>
             <div type="apparatus">
