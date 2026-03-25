@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against brown background.  Character size varies. TH joined in ligature. Accents and breathings non systematic. 
+                            <handNote>White majuscule letters against brown background. Character size varies. TH joined in ligature. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -75,7 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <w lemma="βασιλεύς">Βασιλε<choice><orig>υ</orig><reg>ὺ</reg></choice>ς</w> <hi rend="ligature">τη</hi>ς <w lemma="δόξα">Δόξ<supplied reason="omitted">ης</supplied></w>          
+                    <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <w lemma="βασιλεύς">Βασιλε<choice><orig>υ</orig><reg>ὺ</reg></choice>ς</w> <hi rend="ligature">τη</hi>ς <w lemma="δόξα"><expan><abbr rend="supraline">Δόξ</abbr><ex>ης</ex></expan></w>          
                  </ab>
             </div>
             <div type="apparatus">
