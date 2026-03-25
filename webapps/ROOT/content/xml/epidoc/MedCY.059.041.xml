@@ -77,7 +77,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <cb n="a"/>
-                   <lb n="1"/>Ὁ <persName type="sacred" key="Moses"><w lemma="προφήτης"><hi rend="ligature">πρ</hi>οφήτ <supplied reason="omitted">ης</supplied></w> 
+                   <lb n="1"/>Ὁ <persName type="sacred" key="Moses"><w lemma="προφήτης"><expan><abbr rend="supraline"><hi rend="ligature">πρ</hi>οφήτ</abbr><ex>ης</ex></expan></w>
                      <cb n="b"/>
                     <lb n="1"/><name type="forename" nymRef="#Μωυσῆς"><choice><sic>Μ          
                      <lb n="2" break="no"/>ω
