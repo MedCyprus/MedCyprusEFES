@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Prelate, unidentified</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#unidentified">Prelate, unidentified</rs></p>
+                            <p><rs type="iconography" ref="#unidentified_figure">Unidentified figure</rs>
+                                <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,14 +69,17 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-082-01.JPG"><desc>Naos, east wall, recess' pilaster, lower register, next to Archangel Gabriel, inscription</desc></graphic>
-        <graphic url="059-082-02.JPG"><desc>Naos, east wall, recess' pilaster, lower register, next to Archangel Gabriel, general view</desc></graphic>
+         <graphic rend="primary" url="059-082-01.JPG"><desc>Prelate, unidentified, inscription</desc></graphic>
+        <graphic url="059-082-02.JPG"><desc>Prelate, unidentified, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/><unclear>Ὁ</unclear> <w lemma="ἅγιος"><unclear>ἅ</unclear>
+                    <lb n="2" break="no"/><supplied reason="lost">γι</supplied>
+                     <lb n="3" break="no"/>ος</w>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>                  
                  </ab>
             </div>
             <div type="apparatus">
