@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Enthroned Christ</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against green background. Wavy, horizontal abbeviation mark above the sigla ΧC.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -68,14 +69,15 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-088-01.JPG"><desc>Naos, north wall, lower register, to the right of the iconostasis</desc></graphic>
-        <graphic url="059-088-02.JPG"><desc>Naos, north wall, lower register, to the right of the iconostasis, general view</desc></graphic>
+         <graphic rend="primary" url="059-088-01.JPG"><desc>Enthroned Christ</desc></graphic>
+        <graphic url="059-088-02.JPG"><desc>Enthroned Christ, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                   <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"> <supplied reason="lost"><expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς<am> &#x00A0;῀&#x00A0;</am></abbr></expan></supplied>
+                    <milestone unit="column"/> <addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></name></persName>                   
                  </ab>
             </div>
             <div type="apparatus">
