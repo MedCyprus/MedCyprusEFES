@@ -37,11 +37,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3</height>
+                            <handNote>White majuscule letters against blue background. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#SymeonStylitesElder">Symeon Stylites the Elder</rs></p>
+                            <p><rs type="iconography" ref="#SymeonStylitesElder">Symeon Stylites the Elder</rs>
+                            <rs type="iconography" ref="#stylite"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +75,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/>
+                     <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
+                    <cb n="b"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>                       
                  </ab>
             </div>
             <div type="apparatus">
