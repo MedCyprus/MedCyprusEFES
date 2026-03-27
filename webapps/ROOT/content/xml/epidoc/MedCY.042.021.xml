@@ -5,15 +5,14 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Athanasios Pentaschoinites</title>
+                <title>Saint Athanasios</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
-                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.042.020</idno>
+                <idno type="filename">MedCY.042.021</idno>
                 <availability>
                   <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
                 </availability>
@@ -29,12 +28,12 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#bema">Bema, east wall, south half, lower register</rs>
+                                    <rs type="placement-building" ref="#diakonikon">Diakonikon, niche, first figure from the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Above and to the left of the figure's head</layout>
+                                <layout>Above the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -67,9 +66,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="042-020-01.JPG"><desc>Saint Athanasios Pentaschoinites, inscription</desc></graphic>
-        <graphic url="042-020-02.JPG"><desc>Saint Athanasios Pentaschoinites, inscription detail</desc></graphic>
-        <graphic url="042-020-03.JPG"><desc>Saint Athanasios Pentaschoinites, inscription detail</desc></graphic>
+        <graphic rend="primary" url="042-021-01.JPG"><desc>Saint Athanasios, inscription</desc></graphic>
+        <graphic url="042-021-02.JPG"><desc>Saint Athanasios, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -82,7 +80,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Saint Athanasios from Pentaschoino</p>
+                <p>Saint Ath[anasios]</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
