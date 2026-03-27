@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3-4</height>
+                            <handNote>White majuscule letters against blue background. Character size varies. Alpha with its apex terminating in a serif to the left. Accents and breathings non systematic. Letter height: <height unit="cm">3-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -76,7 +76,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/>Ὁ <persName type="sacred" key="Antonios"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                 
+                    <lb n="2"/><name type="forename" nymRef="#Ἀντώνιος"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>ν    
+                     <lb n="3" break="no"/>τώ
+                      <lb n="4" break="no"/>νι
+                    <lb n="5" break="no"/>ος</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
