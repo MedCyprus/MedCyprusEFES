@@ -145,6 +145,12 @@
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
+                <person xml:id="Ariston">
+                    <persName xml:lang="grc">Ἀριστων</persName>
+                    <persName xml:lang="en">Ariston</persName>
+                    <idno type="wikidata">Not listed</idno>                   
+                </person>
+                
                 <person xml:id="Arsenios">
                     <persName xml:lang="grc">Ἀρσένιος</persName>
                     <persName xml:lang="en">Arsenios</persName>
@@ -350,6 +356,12 @@
                     <persName xml:lang="grc">Ἐλπιδοφόρος</persName>
                     <persName xml:lang="en">Elpidophoros</persName>                   
                     <idno type="wikidata">Not listed</idno>                   
+                </person>
+                
+                <person xml:id="Epaphras">
+                    <persName xml:lang="grc">Ἐπαφρᾶς</persName>
+                    <persName xml:lang="en">Epaphras</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q724476</idno>                   
                 </person>
                 
                 <person xml:id="EphraimSyrian">
