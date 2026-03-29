@@ -78,9 +78,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                    <lb n="1"/>Ὁ <persName type="sacred" key="Amoun"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                  
-                   <lb n="2"/><name type="forename" nymRef="#Αμούν">Αμ<hi rend="ligature">ο<choice><orig>ῦ</orig><reg>ύ</reg></choice></hi>ν                      <lb n="3"/>ὁ <addName type="epithet" key="Nitrian"><choice><sic>Νη
+                   <lb n="2"/><name type="forename" nymRef="#Αμούν">Αμ<hi rend="ligature">ο<choice><orig>ῦ</orig><reg>ύ</reg></choice></hi>ν                      <lb n="3"/>ὁ <placeName ref="mentioned_places.xml#Nitria"><addName type="epithet" key="Νιτριώτης"><choice><sic>Νη
                    <lb n="4" break="no"/>τριό
-                   <lb n="5" break="no"/><hi rend="ligature">της</hi></sic><corr>Νιτριώτης</corr></choice></addName></name></persName> 
+                   <lb n="5" break="no"/><hi rend="ligature">της</hi></sic><corr>Νιτριώτης</corr></choice></addName></placeName></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
