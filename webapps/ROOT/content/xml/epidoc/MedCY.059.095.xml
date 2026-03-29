@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Amoun">Amoun</rs></p>
+                            <p><rs type="iconography" ref="#Amoun">Amoun</rs>
+                            <rs type="iconography" ref="#monastic"></rs> 
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -75,7 +77,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/>Ὁ <persName type="sacred" key="Amoun"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                  
+                   <lb n="2"/><name type="forename" nymRef="#Αμούν">Αμ<hi rend="ligature">ο<choice><orig>ῦ</orig><reg>ύ</reg></choice></hi>ν      
                  </ab>
             </div>
             <div type="apparatus">
