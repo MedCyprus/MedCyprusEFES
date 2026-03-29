@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Amoun</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -66,9 +67,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-095-01.JPG"><desc>Naos, west wall, lower register, next to St. Euthymios, inscription</desc></graphic>
-        <graphic url="059-095-02.JPG"><desc>Naos, west wall, lower register, next to St. Euthymios, general view</desc></graphic>
-        <graphic url="059-095-03.JPG"><desc>Naos, west wall, lower register, next to St. Euthymios, inscription</desc></graphic>
+         <graphic rend="primary" url="059-095-01.JPG"><desc>Saint Amoun, inscription</desc></graphic>
+        <graphic url="059-095-02.JPG"><desc>Saint Amoun, general view</desc></graphic>
+        <graphic url="059-095-03.JPG"><desc>Saint Amoun, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>
