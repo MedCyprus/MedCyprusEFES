@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3,5-5</height>
+                            <handNote>White majuscule letters against white background. Character size varies. Letter height: <height unit="cm">3,5-5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -77,8 +77,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/>Ὁ <persName type="sacred" key="Amoun"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                  
-                   <lb n="2"/><name type="forename" nymRef="#Αμούν">Αμ<hi rend="ligature">ο<choice><orig>ῦ</orig><reg>ύ</reg></choice></hi>ν      
+                   <lb n="1"/>Ὁ <persName type="sacred" key="Amoun"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                  
+                   <lb n="2"/><name type="forename" nymRef="#Αμούν">Αμ<hi rend="ligature">ο<choice><orig>ῦ</orig><reg>ύ</reg></choice></hi>ν                      <lb n="3"/>ὁ <addName type="epithet" key="Nitrian"><choice><sic>Νη
+                   <lb n="4" break="no"/>τριό
+                   <lb n="5" break="no"/><hi rend="ligature">της</hi></sic><corr>Νιτριώτης</corr></choice></addName></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
