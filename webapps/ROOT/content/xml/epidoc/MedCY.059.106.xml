@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Paisios</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                   <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3-4</height>
+                            <handNote>White majuscule letters against blue background. Character size varies. Final sigma in the form of a wavy line. Accents and breathings non systematic. Letter height: <height unit="cm">3-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Paisios">Paisios</rs></p>
+                            <p><rs type="iconography" ref="#Paisios">Paisios</rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#ascetic"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,14 +69,18 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-106-01.JPG"><desc>Naos, west wall, lower register, next to St. Makarios, inscription</desc></graphic>
-        <graphic url="059-106-02.JPG"><desc>Naos, west wall, lower register, next to St. Makarios, general view</desc></graphic>
+         <graphic rend="primary" url="059-106-01.JPG"><desc>Saint Paisios, inscription</desc></graphic>
+        <graphic url="059-106-02.JPG"><desc>Saint Paisios, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                   <lb n="1"/>Ὁ <persName type="sacred" key="Paisios"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                   <lb n="2"/><name type="forename" nymRef="#Παΐσιος"><choice><sic>Πα
+                   <lb n="3" break="no"/><choice><orig>ύ</orig><reg>ΰ</reg></choice>
+                    <lb n="4" break="no"/>σι
+                    <lb n="5" break="no"/><hi rend="ligature">ος</hi></sic><corr>Παΐσιος</corr></choice></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
