@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint John Climacus' scroll</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -34,11 +35,11 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the open scroll held in the left hand by the saint</layout>
+                                <layout>On the open scroll held in the left hand by the saint</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">2</height>
+                            <handNote>Black majuscule letters against white background. Character size varies. Systematic use of triangular serifs. Letter height: <height unit="cm">2</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -71,8 +72,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-103-01.JPG"><desc>Naos, west wall, lower register, next to St. Theodosios, inscription</desc></graphic>
-        <graphic url="059-103-02.JPG"><desc>Naos, west wall, lower register, next to St. Theodosios, general view</desc></graphic>
+         <graphic rend="primary" url="059-103-01.JPG"><desc>Saint John Climacus' scroll, inscription</desc></graphic>
+        <graphic url="059-103-02.JPG"><desc>Saint John Climacus' scroll, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
