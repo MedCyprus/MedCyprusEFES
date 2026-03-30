@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Stephen the Younger</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -69,10 +70,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-108-01.JPG"><desc>Naos, west wall, lower register, next to St. Paisios, inscription</desc></graphic>
-        <graphic url="059-108-02.JPG"><desc>Naos, west wall, lower register, next to St. Paisios, inscription detail</desc></graphic>
-        <graphic url="059-108-03.JPG"><desc>Naos, west wall, lower register, next to St. Paisios, inscription detail</desc></graphic>
-        <graphic url="059-108-04.JPG"><desc>Naos, west wall, lower register, next to St. Paisios, general view</desc></graphic>
+         <graphic rend="primary" url="059-108-01.JPG"><desc>Saint Stephen the Younger, inscription</desc></graphic>
+        <graphic url="059-108-02.JPG"><desc>Saint Stephen the Younger, inscription detail</desc></graphic>
+        <graphic url="059-108-03.JPG"><desc>Saint Stephen the Younger, inscription detail</desc></graphic>
+        <graphic url="059-108-04.JPG"><desc>Saint Stephen the Younger, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
