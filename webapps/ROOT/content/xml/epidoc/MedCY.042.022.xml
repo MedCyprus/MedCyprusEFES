@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, south vault, east side,first figure, left</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, south vault, east side, first figure, left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -47,7 +47,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Monagri" n="1st">Monagri, Monastery of Panagia Amasgou, katholikon</origPlace>
-                            <origDate notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">Early 12th century</origDate>
+                            <origDate notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style">Late 12th century-Early 13th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
