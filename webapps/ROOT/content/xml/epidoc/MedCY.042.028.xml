@@ -27,8 +27,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved. Slightly exfoliated.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, west wall, lunette, right half</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, west wall, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -80,9 +80,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>[The Dormition of the] Most Holy God-bearer
-
-Commentary</p>
+                <p>[The Dormition of the] Most Holy God-bearer</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
