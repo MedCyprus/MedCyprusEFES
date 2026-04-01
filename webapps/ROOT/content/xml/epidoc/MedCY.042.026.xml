@@ -46,7 +46,7 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Monagri" n="1st">Monagri, Monastery of Panagia Amasgou, katholikon</origPlace>
+                            <origPlace ref="locations.xml#Monagri" n="2nd">Monagri, Monastery of Panagia Amasgou, katholikon</origPlace>
                             <origDate notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style">Late 12th century-Early 13th century</origDate>
                         </origin>
                         <provenance when="2022">
