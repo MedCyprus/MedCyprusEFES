@@ -49,7 +49,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Sozomenos" n="3rd">Agios Sozomenos, Saint Sozomenos</origPlace>
-                            <origDate notBefore="1201" notAfter="1350" precision="medium" evidence="artistic-style"><!--13th-14th century, first half(?)-->First half(?) of the 13th-14th century</origDate>
+                            <origDate notBefore="1201" notAfter="1350" precision="medium" evidence="artistic-style">13th-14th century, first half (?)</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
