@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bishop of Kition accompanied by a group of figures, in conversation with the Saint Sozomenos (?)</title>
+                <title>Bishop of Kition accompanied by a group of figures, in conversation with Saint Sozomenos (?)</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -66,8 +66,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="002-015-01.JPG"><desc>Bishop of Kition accompanied by a group of figures, in conversation with the Saint Sozomenos (?), inscription</desc></graphic>     
-        <graphic url="002-015-02.JPG"><desc>Bishop of Kition accompanied by a group of figures, in conversation with the Saint Sozomenos (?), inscription</desc></graphic>   
+         <graphic rend="primary" url="002-015-01.JPG"><desc>Bishop of Kition accompanied by a group of figures, in conversation with Saint Sozomenos (?), inscription</desc></graphic>     
+        <graphic url="002-015-02.JPG"><desc>Bishop of Kition accompanied by a group of figures, in conversation with Saint Sozomenos (?), inscription</desc></graphic>   
     </facsimile>
     <text>
         <body>
