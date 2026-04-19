@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3-3,5</height>
+                            <handNote>White majuscule letters against blue backgrounds. Character size varies.Final sigma in the form of a wavy line. CT and TH joined in ligature. Letter height: <height unit="cm">3-3,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -80,7 +80,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
             <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Theodore"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
-                <lb n="2"/><name type="forename" nymRef="#Θεόδωρος">Θεόδω
+                <lb n="2"/><name type="forename" nymRef="#Θεόδωρος"><hi rend="ligature">Θεόδω</hi>
                <lb n="3" break="no"/>ρος</name>
                 <lb n="4"/><choice><orig>o</orig><reg>ὁ</reg></choice> <addName type="epithet" key="Stratelates"><hi rend="ligature">στ</hi>ρατηλά
                  <lb n="5" break="no"/><hi rend="ligature">τη</hi>
@@ -94,7 +94,7 @@
                 <p>[Saint] Theodore Stratelates</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
