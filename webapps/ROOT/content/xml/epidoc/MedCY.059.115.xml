@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Prophet Isaiah</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -66,14 +67,15 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-115-01.JPG"><desc>Cell, ceiling, apex, inscription</desc></graphic>
-        <graphic url="059-115-02.JPG"><desc>Cell, ceiling, apex, general view</desc></graphic>
+         <graphic rend="primary" url="059-115-01.JPG"><desc>Prophet Isaiah, inscription</desc></graphic>
+        <graphic url="059-115-02.JPG"><desc>Prophet Isaiah, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Isaiah"><w lemma="προφήτης"><supplied reason="lost">προφήτης</supplied></w>        
+                    <lb n="2"/><name type="forename" nymRef="#Ἠσαΐας">Ἠσα<choice><orig><unclear>ı</unclear></orig><reg>ΐ</reg></choice><unclear>α</unclear>ς</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
