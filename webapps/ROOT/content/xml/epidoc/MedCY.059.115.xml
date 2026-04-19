@@ -75,7 +75,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Isaiah"><w lemma="προφήτης"><supplied reason="lost">προφήτης</supplied></w>        
-                    <lb n="2"/><name type="forename" nymRef="#Ἠσαΐας">Ἠσα<choice><orig><unclear>ı</unclear></orig><reg>ΐ</reg></choice><unclear>α</unclear>ς</name></persName>
+                    <lb n="2"/><name type="forename" nymRef="#Ἠσαΐας"><choice><orig>H</orig><reg>Ἠ</reg></choice>σα<choice><orig><unclear>ı</unclear></orig><reg>ΐ</reg></choice><unclear>α</unclear>ς</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
