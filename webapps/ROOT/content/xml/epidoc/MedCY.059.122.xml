@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Andrew Salos (earliest layer)</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">4</height>
+                            <handNote>White majuscule letters against blue background. Accents and breathings non systematic. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#AndrewSalos">Andrew Salos</rs></p>
+                            <p><rs type="iconography" ref="#AndrewSalos">Andrew Salos</rs>
+                            <rs type="iconography" ref="#fool"></rs>
+                                  <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,15 +69,21 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-122-01.JPG"><desc>Cell, south wall, upper register, next to St. Andrew Salos, inscription</desc></graphic>
-        <graphic url="059-122-02.JPG"><desc>Cell, south wall, upper register, next to St. Andrew Salos, inscription detail</desc></graphic>
-        <graphic url="059-122-03.JPG"><desc>Cell, south wall, upper register, next to St. Andrew Salos, general view</desc></graphic>
+         <graphic rend="primary" url="059-122-01.JPG"><desc>Saint Andrew Salos (earliest layer), inscription</desc></graphic>
+        <graphic url="059-122-02.JPG"><desc>Saint Andrew Salos (earliest layer), inscription detail</desc></graphic>
+        <graphic url="059-122-03.JPG"><desc>Saint Andrew Salos (earliest layer), general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                   <lb n="1"/><choice><orig>o</orig><reg>ὁ</reg></choice>
+                    <lb n="2"/>δια    
+                    <lb n="3"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ν</abbr></expan></addName>
+                    <lb n="4"/><addName type="epithet" key="Salos">σ
+                     <lb n="5" break="no"/><supplied reason="lost">α</supplied>
+                       <lb n="6" break="no"/>λ
+                     <lb n="7" break="no"/>ος</addName>
                  </ab>
             </div>
             <div type="apparatus">
