@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Andrew Salos</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">1,5-3,5</height>
+                            <handNote>White majuscule letters against blue background. Characters size varies. Final sigma in the form of a wavy line. Accents and breathings non systematic. Letter height: <height unit="cm">1,5-3,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#AndrewSalos">Andrew Salos</rs></p>
+                            <p><rs type="iconography" ref="#AndrewSalos">Andrew Salos</rs>
+                            <rs type="iconography" ref="#fool"></rs>
+                                  <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,16 +69,27 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-121-01.JPG"><desc>Cell, south wall, upper register, next to the Crucifixion, inscription</desc></graphic>
-        <graphic url="059-121-02.JPG"><desc>Cell, south wall, upper register, next to the Crucifixion, inscription detail</desc></graphic>
-        <graphic url="059-121-03.JPG"><desc>Cell, south wall, upper register, next to the Crucifixion, inscription detail</desc></graphic>
-        <graphic url="059-121-04.JPG"><desc>Cell, south wall, upper register, next to the Crucifixion, general view</desc></graphic>
+         <graphic rend="primary" url="059-121-01.JPG"><desc>Saint Andrew Salos, inscription</desc></graphic>
+        <graphic url="059-121-02.JPG"><desc>Saint Andrew Salos, inscription detail</desc></graphic>
+        <graphic url="059-121-03.JPG"><desc>Saint Andrew Salos, inscription detail</desc></graphic>
+        <graphic url="059-121-04.JPG"><desc>Saint Andrew Salos, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                   <cb n="a"/>
+                      <lb n="1"/>Ὁ 
+                     <lb n="2"/><persName type="sacred" key="Andrew"><w lemma="ἅγιος"><choice><orig>ά</orig><reg>ἅ</reg></choice>
+                      <lb n="3" break="no"/>γι
+                      <lb n="4" break="no"/>ος</w> 
+                        <cb n="b"/>
+                         <lb n="1"/><name type="forename" nymRef="#Ἀνδρέας">Ἀνδρ<choice><orig>ε</orig><reg>έ</reg></choice>
+                          <lb n="2" break="no"/>ας</name>
+                         <lb n="3"/>ὁ δια 
+                         <lb n="4"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ν</abbr></expan></addName> <addName type="epithet" key="Salos">σσα
+                          <lb n="5" break="no"/>λος</addName></persName>
+                    
                  </ab>
             </div>
             <div type="apparatus">
@@ -85,7 +99,7 @@
                 <p>Saint Andrew Salos</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
