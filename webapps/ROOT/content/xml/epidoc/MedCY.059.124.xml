@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Deesis, Virgin</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -66,8 +67,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-124-01.JPG"><desc>Cell, north wall, inscription</desc></graphic>
-        <graphic url="059-124-02.JPG"><desc>Cell, north wall, general view</desc></graphic>
+         <graphic rend="primary" url="059-124-01.JPG"><desc>Deesis, Virgin, inscription</desc></graphic>
+        <graphic url="059-124-02.JPG"><desc>Deesis, Virgin, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
