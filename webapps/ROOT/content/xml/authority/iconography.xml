@@ -225,6 +225,9 @@
                 <item xml:id="Aeithalas">
                     <term xml:lang="en">Aeithalas</term>
                 </item>
+                <item xml:id="Agapios">
+                    <term xml:lang="en">Agapios</term>
+                </item>
                 <item xml:id="Akepsimas">
                     <term xml:lang="en">Akepsimas</term>
                 </item>
@@ -425,6 +428,9 @@
                 </item>
                 <item xml:id="Gabriel">
                     <term xml:lang="en">Archangel Gabriel</term>
+                </item>
+                <item xml:id="Galaktion">
+                    <term xml:lang="en">Galaktion</term>
                 </item>
                 <item xml:id="George">
                     <term xml:lang="en">George</term>
