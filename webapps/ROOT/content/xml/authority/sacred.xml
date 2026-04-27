@@ -52,6 +52,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q108114654</idno>                   
                 </person>
                 
+                <person xml:id="Agapios">
+                    <persName xml:lang="grc">Ἀγάπιος</persName>
+                    <persName xml:lang="en">Agapios</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q7400874</idno>                   
+                </person>
+                
                 <person xml:id="Akepsimas">
                     <persName xml:lang="grc">Ἀκεψιμάς</persName>
                     <persName xml:lang="en">Akepsimas</persName>
@@ -448,6 +454,12 @@
                     <persName xml:lang="grc">Γαβριήλ</persName>
                     <persName xml:lang="en">Gabriel</persName>   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q81989</idno>                   
+                </person>
+                
+                <person xml:id="Galaktion">
+                    <persName xml:lang="grc">Γαλακτίων</persName>
+                    <persName xml:lang="en">Galaktion</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1491655</idno>                   
                 </person>
                 
                 <person xml:id="Gideon">
