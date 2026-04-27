@@ -46,8 +46,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Sozomenos" n="3rd">Agios Sozomenos, Saint Sozomenos</origPlace>
-                            <origDate notBefore="1201" notAfter="1350" precision="medium" evidence="artistic-style">13th-14th century, first half (?)</origDate>
+                            <origPlace ref="locations.xml#Sozomenos" n="2nd">Agios Sozomenos, Saint Sozomenos</origPlace>
+                            <origDate notBefore="1001" notAfter="1200" precision="medium" evidence="material-context">Undetermined; prior to the 13th-14th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
