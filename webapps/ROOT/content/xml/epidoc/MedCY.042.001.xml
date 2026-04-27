@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. Character size varies. Omega with its apex surmounted by a crosslet. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -78,7 +78,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/> 
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Spyridon"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> 
+                   <cb n="b"/> 
+                      <lb n="1"/><name type="forename" nymRef="#Σπυρίδων">Σ
+                        <lb n="2" break="no"/>πυ
+                      <lb n="3" break="no"/>ρ<choice><orig>ı</orig><reg>ί</reg></choice>
+                        <lb n="4" break="no"/>δ
+                         <lb n="5" break="no"/>ω
+                        <lb n="6" break="no"/>ν</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
