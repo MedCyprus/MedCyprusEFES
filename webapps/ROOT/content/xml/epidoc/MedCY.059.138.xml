@@ -74,7 +74,12 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>PENDING</ab>
+                <ab>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="JohnForerunner"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <name nymRef ="#Ἰωάννης" type="forename"><supplied reason="lost">Ἰωάννης</supplied></name>
+                    <lb n="2"/>ὁ <addName type="epithet" key="Forerunner"><expan><abbr rend="supraline">Πρ</abbr><ex>ό</ex><abbr rend="supraline">δ</abbr><ex>ρ</ex><abbr rend="supraline">ο</abbr><ex>μ</ex><abbr rend="supraline">ος</abbr></expan></addName></persName> 
+                    
+                    
+                </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
