@@ -609,6 +609,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44170</idno>                   
                 </person>
                 
+                <person xml:id="Jason">
+                    <persName xml:lang="grc">Ἰάσων</persName>
+                    <persName xml:lang="en">Jason</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q978409<!--not sure--></idno>                   
+                </person>
+                
                 <person xml:id="JamesAlphaeus">
                     <persName xml:lang="grc">Ἰάκωβος, υἱός Ἀλφαῖου</persName>
                     <persName xml:lang="en">James, son of Alphaeus</persName>                   
