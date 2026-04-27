@@ -43,7 +43,9 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#DescentIntoHell">Descent into Hell, John the Forerunner</rs>
-                            <rs type="iconography" ref="#Prophet"></rs></p>
+                            <rs type="iconography" ref="#Prophet"></rs>
+                            <rs type="iconography" ref="#christological"></rs>
+                            <rs type="iconography" ref="#JohnForerunner"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
