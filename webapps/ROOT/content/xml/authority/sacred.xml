@@ -609,6 +609,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44170</idno>                   
                 </person>
                 
+                <person xml:id="Jason">
+                    <persName xml:lang="grc">Ἰάσων</persName>
+                    <persName xml:lang="en">Jason</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q978409<!--not sure--></idno>                   
+                </person>
+                
                 <person xml:id="JamesAlphaeus">
                     <persName xml:lang="grc">Ἰάκωβος, υἱός Ἀλφαῖου</persName>
                     <persName xml:lang="en">James, son of Alphaeus</persName>                   
@@ -1133,6 +1139,12 @@
                     <persName xml:lang="grc">Σολομῶν</persName>
                     <persName xml:lang="en">Solomon</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q37085</idno>                   
+                </person>
+                
+                <person xml:id="Sozomenos">
+                    <persName xml:lang="grc">Σωζόμενος</persName>
+                    <persName xml:lang="en">Sozomenos</persName>                   
+                    <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
                 <person xml:id="Spyridon">

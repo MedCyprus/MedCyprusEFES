@@ -279,6 +279,9 @@
                 <item xml:id="Aphthonios">
                     <term xml:lang="en">Aphthonios</term>
                 </item>                
+                <item xml:id="Ariston">
+                    <term xml:lang="en">Ariston</term>
+                </item>
                 <item xml:id="Arsenios">
                     <term xml:lang="en">Arsenios</term>
                 </item>
@@ -499,6 +502,9 @@
                 </item>
                 <item xml:id="Isaiah">
                     <term xml:lang="en">Isaiah</term>
+                </item>
+                <item xml:id="Jason">
+                    <term xml:lang="en">Jason</term>
                 </item>
                 <item xml:id="JamesLordBrother">
                     <term xml:lang="en">James the Lord's brother</term>
@@ -743,6 +749,9 @@
                 </item>
                 <item xml:id="Solomon">
                     <term xml:lang="en">Solomon</term>
+                </item>
+                <item xml:id="Sozomenos">
+                    <term xml:lang="en">Sozomenos</term>
                 </item>
                 <item xml:id="Spyridon">
                     <term xml:lang="en">Spyridon</term>
