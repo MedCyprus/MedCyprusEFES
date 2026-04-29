@@ -1141,6 +1141,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q37085</idno>                   
                 </person>
                 
+                <person xml:id="Sozomenos">
+                    <persName xml:lang="grc">Σωζόμενος</persName>
+                    <persName xml:lang="en">Sozomenos</persName>                   
+                    <idno type="wikidata">Not listed</idno>                   
+                </person>
+                
                 <person xml:id="Spyridon">
                     <persName xml:lang="grc">Σπυρίδων</persName>
                     <persName xml:lang="en">Spyridon</persName>                   
