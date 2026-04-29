@@ -38,11 +38,15 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>Black majuscule letters against ochre background.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Pentecost">Pentecost, Bartholomew</rs>
+                                   <rs type="iconography" ref="#Bartholomew"></rs>
+                                   <rs type="iconography" ref="#apostle"></rs>
+                                  <rs type="iconography" ref="#male"></rs>
+                                   <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                      <lb n="1"/><persName type="sacred" key="Bartholomew"><name type="forename" nymRef="#Βαρθολομαῖος"><expan><abbr rend="supraline">Β</abbr><ex>αρθολομαῖος</ex></expan></name></persName>                  
                  </ab>
             </div>
             <div type="apparatus">
