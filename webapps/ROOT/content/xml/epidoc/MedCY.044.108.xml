@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Virgin of the Mercy</title>
+                <title>Virgin</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -69,9 +69,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-108-01.JPG"><desc>Virgin of the Mercy, inscription detail</desc></graphic>
-        <graphic url="044-108-02.JPG"><desc>Virgin of the Mercy, inscription</desc></graphic>
-        <graphic url="044-108-03.JPG"><desc>Virgin of the Mercy, general view</desc></graphic>
+         <graphic rend="primary" url="044-108-01.JPG"><desc>Virgin, inscription detail</desc></graphic>
+        <graphic url="044-108-02.JPG"><desc>Virgin, inscription</desc></graphic>
+        <graphic url="044-108-03.JPG"><desc>Virgin, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
