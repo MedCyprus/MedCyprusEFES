@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Virgin Blachernitissa</title>
+                <title>Virgin</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -41,7 +41,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#VirginBlachernitissa">Virgin Blachernitissa</rs>
+                                   <rs type="iconography" ref="#female"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,8 +68,8 @@
     </teiHeader>
     <facsimile>
          <graphic rend="primary" url="062-001-01.JPG"><desc>Virgin Blachernitissa, inscription (© Department of Antiquities, Cyprus)</desc></graphic>
-        <graphic url="062-001-02.JPG"><desc>Virgin Blachernitissa, general view (© Department of Antiquities, Cyprus)</desc></graphic>
-        <graphic url="062-001-03.JPG"><desc>Virgin Blachernitissa, general view (© Department of Antiquities, Cyprus)</desc></graphic>
+        <graphic url="062-001-02.JPG"><desc>Virgin, general view (© Department of Antiquities, Cyprus)</desc></graphic>
+        <graphic url="062-001-03.JPG"><desc>Virgin, general view (© Department of Antiquities, Cyprus)</desc></graphic>
     </facsimile>
     <text>
         <body>
