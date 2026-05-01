@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Christ Antiphonetes</title>
+                <title>Christ</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -70,8 +70,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-024-01.JPG"><desc>Christ Antiphonetes, inscription </desc></graphic>
-        <graphic url="043-024-02.JPG"><desc>Christ Antiphonetes, general view</desc></graphic>
+         <graphic rend="primary" url="043-024-01.JPG"><desc>Christ, inscription </desc></graphic>
+        <graphic url="043-024-02.JPG"><desc>Christ, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
