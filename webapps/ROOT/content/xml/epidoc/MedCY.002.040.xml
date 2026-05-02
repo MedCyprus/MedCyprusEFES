@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, east wall, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -67,7 +67,7 @@
     </teiHeader>
     <facsimile>
          <graphic rend="primary" url="002-040-01.JPG"><desc>Christ's codex, inscription</desc></graphic>  
-         <graphic url="002-040-02.JPG"><desc>Christ's codex, inscription detail</desc></graphic>      
+         <graphic url="002-040-02.JPG"><desc>Christ's codex, general view</desc></graphic>      
     </facsimile>
     <text>
         <body>
