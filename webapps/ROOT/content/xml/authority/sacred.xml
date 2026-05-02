@@ -1037,6 +1037,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9200</idno>                   
                 </person>
                 
+                <person xml:id="PaulOfThebes">
+                    <persName xml:lang="grc">Παῦλος ὁ Θηβαῖος</persName>
+                    <persName xml:lang="en">Paul of Thebes</persName> 
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q313798</idno>                   
+                </person>
+                
                 <person xml:id="PaulTheSimple">
                     <persName xml:lang="grc">Παῦλος ὁ Ἁπλοῦς</persName>
                     <persName xml:lang="en">Paul the Simple</persName> 
