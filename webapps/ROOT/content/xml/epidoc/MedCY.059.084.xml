@@ -78,7 +78,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                  <cb n="a"/> 
-                  <lb n="1"/>Ἡ <persName type="sacred" key="Helena"><w lemma="ἁγία"><supplied reason="lost">ἁ</supplied>γ<supplied reason="lost">ία</supplied></w>
+                  <lb n="1"/>Ἡ <persName type="sacred" key="Helena"><w lemma="ἁγία"><choice><orig>ἀ</orig><reg>ἁ</reg></choice>γ<choice><orig>ι</orig><reg>ί</reg></choice>α</w>
                    <cb n="b"/>   
                    <lb n="1"/><name type="forename" nymRef="#Ἑλένη"><choice><orig>E</orig><reg>Ἑ</reg></choice><supplied reason="lost">λένη</supplied>  
                  </name></persName>               
