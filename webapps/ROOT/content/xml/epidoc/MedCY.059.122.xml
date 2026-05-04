@@ -77,8 +77,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
+                   
                    <lb n="1"/><choice><orig>o</orig><reg>ὁ</reg></choice>
-                    <lb n="2"/>δια    
+                    <lb n="2"/>δι<choice><orig>α</orig><reg>ὰ</reg></choice>    
                     <lb n="3"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ν</abbr></expan></addName>
                     <lb n="4"/><addName type="epithet" key="Salos">σ
                      <lb n="5" break="no"/><supplied reason="lost">α</supplied>
