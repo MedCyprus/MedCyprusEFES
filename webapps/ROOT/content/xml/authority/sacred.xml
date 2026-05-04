@@ -1037,9 +1037,19 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9200</idno>                   
                 </person>
                 
+                <person xml:id="PaulOfThebes">
+                    <persName xml:lang="grc">Παῦλος ὁ Θηβαῖος</persName>
+                    <persName xml:lang="en">Paul of Thebes</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="PaulOfThebes" key="Thebes">ὁ Θηβαῖος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="PaulOfThebes" key="Thebes">of Thebes</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q313798</idno>                   
+                </person>
+                
                 <person xml:id="PaulTheSimple">
                     <persName xml:lang="grc">Παῦλος ὁ Ἁπλοῦς</persName>
                     <persName xml:lang="en">Paul the Simple</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="PaulTheSimple" key="Simple">ὁ Ἁπλοῦς</persName>
+                    <persName xml:lang="en" type="epithet" subtype="PaulTheSimple" key="Simple">the Simple</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q3773019</idno>                   
                 </person>
                 
@@ -1106,8 +1116,8 @@
                     <person xml:id="RomanosMelode">
                     <persName xml:lang="grc">Ρωμανός</persName>
                     <persName xml:lang="en">Romanos the Melode</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="Romanos" key="Melode">ὁ Μελωδός</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Romanos" key="Melode">the Melode</persName>
+                        <persName xml:lang="grc" type="epithet" subtype="RomanosMelode" key="Melode">ὁ Μελωδός</persName>
+                        <persName xml:lang="en" type="epithet" subtype="RomanosMelode" key="Melode">the Melode</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q221059</idno>                   
                 </person>
                 
@@ -1162,8 +1172,8 @@
                 <person xml:id="Stephen">
                     <persName xml:lang="grc">Στέφανος</persName>
                     <persName xml:lang="en">Stephen</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="Stephan" key="Protomartyr">ὁ Πρωτομάρτυρας</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Stephan" key="Protomartyr">Protomartyr</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Stephen" key="Protomartyr">ὁ Πρωτομάρτυρας</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Stephen" key="Protomartyr">Protomartyr</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q161775</idno>                   
                 </person>
                 

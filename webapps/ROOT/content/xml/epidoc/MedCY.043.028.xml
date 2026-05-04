@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Virgin Hodegetria</title>
+                <title>Virgin</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -67,9 +67,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-028-01.JPG"><desc>Virgin Hodegetria, inscription </desc></graphic>
-        <graphic url="043-028-02.JPG"><desc>Virgin Hodegetria, inscription detail</desc></graphic>
-        <graphic url="043-028-03.JPG"><desc>Virgin Hodegetria, general view</desc></graphic>
+         <graphic rend="primary" url="043-028-01.JPG"><desc>Virgin, inscription </desc></graphic>
+        <graphic url="043-028-02.JPG"><desc>Virgin, inscription detail</desc></graphic>
+        <graphic url="043-028-03.JPG"><desc>Virgin, general view</desc></graphic>
     </facsimile>
     <text>
         <body>

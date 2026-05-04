@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Christ Antiphonetes' invocation</title>
+                <title>Christ's invocation</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -71,9 +71,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="022-056-01.JPG"><desc>Christ Antiphonetes' invocation, inscription detail</desc></graphic>
-        <graphic url="022-056-02.JPG"><desc>Christ Antiphonetes' invocation, inscription</desc></graphic>
-        <graphic url="022-056-03.JPG"><desc>Christ Antiphonetes' invocation, general view</desc></graphic>
+        <graphic rend="primary" url="022-056-01.JPG"><desc>Christ's invocation, inscription detail</desc></graphic>
+        <graphic url="022-056-02.JPG"><desc>Christ's invocation, inscription</desc></graphic>
+        <graphic url="022-056-03.JPG"><desc>Christ's invocation, general view</desc></graphic>
     </facsimile>
     <text>
         <body>

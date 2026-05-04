@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Christ Antiphonetes</title>
+                <title>Christ</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,10 +42,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Christ"></rs>
-                              
-                                <rs type="iconography" ref="#divine"></rs> 
-                            <rs type="iconography" ref="#male"></rs>
+                            <p><rs type="iconography" ref="#ChristAntiphonetes">Christ Antiphonetes</rs>
+                            <rs type="iconography" ref="#Christ"></rs>                             
+                            <rs type="iconography" ref="#divine"></rs> 
+                            <rs type="iconography" ref="#male"></rs>  
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -71,8 +71,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="022-054-01.JPG"><desc>Christ Antiphonetes, inscription</desc></graphic>
-        <graphic url="022-054-02.JPG"><desc>Christ Antiphonetes, general view</desc></graphic>
+        <graphic rend="primary" url="022-054-01.JPG"><desc>Christ, inscription</desc></graphic>
+        <graphic url="022-054-02.JPG"><desc>Christ, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
