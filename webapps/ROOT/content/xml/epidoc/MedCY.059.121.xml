@@ -86,9 +86,9 @@
                         <cb n="b"/>
                          <lb n="1"/><name type="forename" nymRef="#Ἀνδρέας">Ἀνδρ<choice><orig>ε</orig><reg>έ</reg></choice>
                           <lb n="2" break="no"/>ας</name>
-                         <lb n="3"/>ὁ δια 
-                         <lb n="4"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ν</abbr></expan></addName> <addName type="epithet" key="Salos">σσα
-                          <lb n="5" break="no"/>λος</addName></persName>
+                         <lb n="3"/>ὁ δι<choice><orig>α</orig><reg>ὰ</reg></choice>  
+                         <lb n="4"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ν</abbr></expan></addName> <addName type="epithet" key="Salos"><choice><sic>σσα
+                          <lb n="5" break="no"/>λος</sic><corr>σαλός</corr></choice></addName></persName>
                     
                  </ab>
             </div>
