@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Prelate, unidentified</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. Alpha with its apex terminating in a serif to the left. Final sigma in the form of a wavy line. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#unidentified_figure">Unidentified figure</rs>
+                                <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +76,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                   <cb n="a"/>
+                  <lb n="1"/>Ὁ 
+                      <lb n="2"/><w lemma="ἅγιος">ἅ
+                       <lb n="3" break="no"/>γι
+                        <lb n="4" break="no"/>ος</w>
+                     <cb n="b"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>     
                  </ab>
             </div>
             <div type="apparatus">
