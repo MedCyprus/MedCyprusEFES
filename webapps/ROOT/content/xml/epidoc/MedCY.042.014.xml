@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Philagrios</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Philagrios">Philagrios</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                                <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -72,7 +75,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/>
+                  <lb n="1"/>Ὁ <persName type="sacred" key="Philagrios"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                   <cb n="b"/>   
+                     <lb n="1"/><name nymRef ="#Φιλάγριος" type="forename">Φι
+                      <lb n="2" break="no"/>λά
+                      <lb n="3" break="no"/><supplied reason="lost">γριος</supplied></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
