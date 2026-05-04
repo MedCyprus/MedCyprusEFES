@@ -79,12 +79,13 @@
                     <cb n="a"/>
                   <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="GregoryNazianzenos"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <name nymRef ="#Γρηγόριος" type="forename"><supplied reason="lost">Γρηγ</supplied>όριος</name>                       
                    <cb n="b"/> 
-                  <lb n="1"/><addName type="epithet" key="Theologian">Θ
-                    <lb n="2" break="no"/>ε  
-                    <lb n="3" break="no"/>ο
-                    <lb n="4" break="no"/>λ
-                    <lb n="5" break="no"/>ό
-                    <lb n="6"/>γ<supplied reason="lost">ος</supplied></addName></persName>
+                  <lb n="1"/>Ὁ
+                     <lb n="2"/><addName type="epithet" key="Theologian">Θ
+                    <lb n="3" break="no"/>ε  
+                    <lb n="4" break="no"/>ο
+                    <lb n="5" break="no"/>λ
+                    <lb n="6" break="no"/>ό
+                    <lb n="7"/>γ<supplied reason="lost">ος</supplied></addName></persName>
                  </ab>
             </div>
             <div type="apparatus">
