@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Athanasios</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -73,7 +74,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/>Ὁ <persName type="sacred" key="Athanasios"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w> <name type="forename" nymRef="#Ἀθανάσιος"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>θ<supplied reason="lost">ανάσιος</supplied></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
