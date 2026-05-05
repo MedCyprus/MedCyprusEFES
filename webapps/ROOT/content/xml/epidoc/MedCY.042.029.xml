@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Dormition, archangel's sphere</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,16 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>Red majuscule letters against white background. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#archangel">Archangel, holding a sphere</rs>
+                                  <rs type="iconography" ref="#angelicpower"></rs>
+                                <rs type="iconography" ref="#dressimperial"></rs>
+                                  <rs type="iconography" ref="#genderless"></rs>
+                                <rs type="iconography" ref="#sphere"></rs>
+                                  <rs type="iconography" ref="#crosspatriarchal"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
