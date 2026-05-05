@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue and green backgrounds. MHΡ joined in ligature. Wavy, horizontal abbreviation mark above ΜΗΡ ΘΥ.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Virgin">Virgin</rs>
+                                <rs type="iconography" ref="#PresentationVirgin"></rs>
+                                <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
