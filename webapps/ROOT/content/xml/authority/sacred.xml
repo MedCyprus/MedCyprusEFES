@@ -1177,6 +1177,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q161775</idno>                   
                 </person>
                 
+                <person xml:id="StephenYounger">
+                    <persName xml:lang="grc">Στέφανος</persName>
+                    <persName xml:lang="en">Stephen</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="StephenYounger" key="Younger">ὁ Νέος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="StephenYounger" key="Younger">Younger</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q3592445</idno>                   
+                </person>
+                
                 <person xml:id="Stylianos">
                     <persName xml:lang="grc">Στυλιανός</persName>
                     <persName xml:lang="en">Stylianos</persName>
