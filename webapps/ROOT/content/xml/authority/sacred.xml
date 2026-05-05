@@ -319,6 +319,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q171724</idno>                   
                 </person>
                 
+                <person xml:id="DanielSketis">
+                    <persName xml:lang="grc">Δανιήλ</persName>
+                    <persName xml:lang="en">Daniel</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="DanielSketis" key="Nitria">ὁ Σκητιώτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="DanielSketis" key="Nitria">of Sketis</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q109826916</idno>                   
+                </person>
+                
                 <person xml:id="David">
                     <persName xml:lang="grc">Δαυΐδ</persName>
                     <persName xml:lang="en">David</persName>                   
