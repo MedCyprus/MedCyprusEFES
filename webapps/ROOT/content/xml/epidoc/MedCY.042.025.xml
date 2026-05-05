@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Presentation of Christ to the temple, Joseph</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>Black majuscule letters against ochre background. Character size varies. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#PresentationChristTemple">Presentation of Christ to the Temple, Joseph</rs>
+                            <rs type="iconography" ref="#Joseph"></rs>
+                            <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -72,7 +75,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="JosephMnestor"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>   
+                 <lb n="2"/><name type="forename" nymRef="#Ἰωσήφ">Ἰ<choice><orig>ὠ</orig><reg>ω</reg></choice>σήφ</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
