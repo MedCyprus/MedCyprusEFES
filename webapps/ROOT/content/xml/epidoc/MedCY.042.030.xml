@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Mark the Evangelist</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Mark">Mark the Evangelist</rs>
+                            <rs type="iconography" ref="#male"></rs>
+                             <rs type="iconography" ref="#evangelist"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Mark"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <name nymRef ="#Μᾶρκος" type="forename">Μ<choice><orig>α</orig><reg>ᾶ</reg></choice><supplied reason="lost">ρ</supplied><unclear>κ</unclear><supplied reason="lost">ος</supplied></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
