@@ -87,6 +87,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43689</idno>                   
                 </person>
                 
+                <person xml:id="Amoun">
+                    <persName xml:lang="grc">Ἀμοῦν</persName>
+                    <persName xml:lang="en">Amoun</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="Amoun" key="Nitria">ὁ Νιτριώτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Amoun" key="Nitria">of Nitria</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q473349</idno>                   
+                </person>
+                
                 <person xml:id="AnastasiaPharmakolytria">
                     <persName xml:lang="grc">Ἀναστασία</persName>
                     <persName xml:lang="en">Anastasia</persName>
