@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>Black majuscule letters against white background. OY joined in ligature. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -77,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><g ref="#cross">+</g> <w lemma="ἀρχή"><choice><orig>A</orig><reg>Ἀ</reg></choice><supplied reason="lost">ρχή</supplied></w> τοῦ <w lemma="εὐαγγέλιο">εὐαγγέλίου</w>
+                  <lb n="1"/><g ref="#cross">+</g> <w lemma="ἀρχή"><choice><orig>A</orig><reg>Ἀ</reg></choice><supplied reason="lost">ρχή</supplied></w> τοῦ <w lemma="εὐαγγέλιο"><supplied reason="lost">εὐαγγέλίου</supplied></w>
                  </ab>
             </div>
             <div type="apparatus">
