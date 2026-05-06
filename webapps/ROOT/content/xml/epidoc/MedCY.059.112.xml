@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Prophet Daniel</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Delta is formed with a lambda on a bottom bar, with a serif to the left of its top bar. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -69,14 +70,17 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-112-01.JPG"><desc>Cell, ceiling, apex, inscription</desc></graphic>
-        <graphic url="059-112-02.JPG"><desc>Cell, ceiling, apex, general view</desc></graphic>
+         <graphic rend="primary" url="059-112-01.JPG"><desc>Prophet Daniel, inscription</desc></graphic>
+        <graphic url="059-112-02.JPG"><desc>Prophet Daniel, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/>
+                   <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Daniel"><w lemma="προφήτης"><expan><abbr rend="supraline">πρ</abbr><ex>οφήτης</ex></expan></w>           
+                    <cb n="b"/>
+                       <lb n="1"/><name type="forename" nymRef="#Δανιήλ">Δαν<choice><orig>ϊ</orig><reg>ι</reg></choice>ήλ</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
@@ -86,7 +90,7 @@
                 <p>Prophet Daniel</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

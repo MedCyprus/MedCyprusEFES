@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Theodosios the Cenobiarch</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3</height>
+                            <handNote>White majuscule letters against blue background. Character size varies. Delta with a serif to the left of its top bar. HC joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -69,14 +70,19 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-100-01.JPG"><desc>Naos, west wall, lower register, next to St. Daniel, inscription</desc></graphic>
-        <graphic url="059-100-02.JPG"><desc>Naos, west wall, lower register, next to St. Daniel, general view</desc></graphic>
+         <graphic rend="primary" url="059-100-01.JPG"><desc>Saint Theodosios the Cenobiarch, inscription</desc></graphic>
+        <graphic url="059-100-02.JPG"><desc>Saint Theodosios the Cenobiarch, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/>Ὁ <persName type="sacred" key="Theodosios"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                     <lb n="2"/><name type="forename" nymRef="#Θεοδόσιος">Θεο
+                     <lb n="3" break="no"/>δό   
+                     <lb n="4" break="no"/>σι<hi rend="ligature">ος</hi></name>
+                      <lb n="5"/><choice><orig>ο</orig><reg>ὁ</reg></choice> <addName type="epithet" subtype="Theodosios" key="Cenobiarch">Κοι
+                        <lb n="6" break="no"/>νοβιάρχ<hi rend="ligature">ης</hi></addName></persName>
                  </ab>
             </div>
             <div type="apparatus">

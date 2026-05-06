@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Theodore Stratelates</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3-3,5</height>
+                            <handNote>White majuscule letters against blue backgrounds. Character size varies. Final sigma in the form of a wavy line. CT and TH joined in ligature. Letter height: <height unit="cm">3-3,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -71,13 +72,20 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-118-01.JPG"><desc>Cell, east wall, second figure on the left, inscription</desc></graphic>
-        <graphic url="059-118-02.JPG"><desc>Cell, east wall, second figure on the left, general view</desc></graphic>
+         <graphic rend="primary" url="059-118-01.JPG"><desc>Saint Theodore Stratelates, inscription</desc></graphic>
+        <graphic url="059-118-02.JPG"><desc>Saint Theodore Stratelates, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>PENDING</ab>
+                <ab>
+            <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Theodore"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
+                <lb n="2"/><name type="forename" nymRef="#Θεόδωρος"><supplied reason="lost">Θεόδω</supplied>
+               <lb n="3" break="no"/><unclear>ρ</unclear>ος</name>
+                <lb n="4"/><choice><orig>o</orig><reg>ὁ</reg></choice> <addName type="epithet" key="Stratelates"><hi rend="ligature">στ</hi>ρατηλά
+                 <lb n="5" break="no"/><hi rend="ligature">τη</hi>
+                   <lb n="6" break="no"/>ς</addName></persName>  
+                </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
@@ -86,7 +94,7 @@
                 <p>[Saint] Theodore Stratelates</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

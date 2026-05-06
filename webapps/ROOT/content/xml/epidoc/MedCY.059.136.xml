@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Descent into Hell</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. Character size varies. AN joined in ligature. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#DescentIntoHell">Descent Into Hell</rs></p>
+                            <p><rs type="iconography" ref="#DescentIntoHell">Descent into Hell</rs>
+                            <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,15 +68,17 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-136-01.JPG"><desc>Tomb, to the right of the niche, inscription</desc></graphic>
-        <graphic url="059-136-02.JPG"><desc>Tomb, to the right of the niche, inscription</desc></graphic>
-        <graphic url="059-136-03.JPG"><desc>Tomb, to the right of the niche, general view</desc></graphic>
-        <graphic url="059-136-04.JPG"><desc>Tomb, to the right of the niche, general view</desc></graphic>
+         <graphic rend="primary" url="059-136-01.JPG"><desc>Descent into Hell, inscription</desc></graphic>
+        <graphic url="059-136-02.JPG"><desc>Descent into Hell, inscription</desc></graphic>
+        <graphic url="059-136-03.JPG"><desc>Descent into Hell, general view</desc></graphic>
+        <graphic url="059-136-04.JPG"><desc>Descent into Hell, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>PENDING</ab>
+                <ab>
+                    <lb n="1"/><choice><orig>Ἠ</orig><reg>Ἡ</reg></choice> <w lemma="ἁγία"><choice><orig>α</orig><reg>ἁ</reg></choice>γία</w> <w lemma="Ἀνάστασις"><hi rend="ligature"><choice><orig>Α</orig><reg>Ἀ</reg></choice>ν</hi><choice><orig>α</orig><reg>ά</reg></choice>σ<supplied reason="lost">τα</supplied>σις</w>
+                </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>

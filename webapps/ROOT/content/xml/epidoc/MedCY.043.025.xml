@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Christ Antiphonetes' codex</title>
+                <title>Christ's codex</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Majuscule letters. Characters' size varies. MH in ligature. Mu with its middle bar forms an upsilon with a dot on its antennas. Double point after θύρα. Accents and breathings systematic. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">3</height>
+                            <handNote>Black majuscule letters against white background. Character size varies. MH in ligature. Mu with its middle bar forms an upsilon with a dot on its antennas. Double point after θύρα. Accents and breathings systematic. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -72,8 +72,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-025-01.JPG"><desc>Christ Antiphonetes' codex, inscription detail </desc></graphic>
-        <graphic url="043-025-02.JPG"><desc>Christ Antiphonetes' codex, inscription</desc></graphic>
+         <graphic rend="primary" url="043-025-01.JPG"><desc>Christ's codex, inscription detail </desc></graphic>
+        <graphic url="043-025-02.JPG"><desc>Christ's codex, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>

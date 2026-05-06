@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Crucifixion, Old Testament Personification</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                  <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -41,7 +42,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Crucifixion">Crucifixion, Old Testament Personification</rs></p>
+                            <p><rs type="iconography" ref="#Crucifixion">Crucifixion, Old Testament Personification</rs>
+                              <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,8 +68,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-072-01.JPG"><desc>Naos, east wall, above the Holy Cross' recess, inscription</desc></graphic>
-        <graphic url="059-072-02.JPG"><desc>Naos, east wall, above the Holy Cross' recess, general view</desc></graphic>
+         <graphic rend="primary" url="059-072-01.JPG"><desc>Crucifixion, Old Testament Personification, inscription</desc></graphic>
+        <graphic url="059-072-02.JPG"><desc>Crucifixion, Old Testament Personification, general view</desc></graphic>
     </facsimile>
     <text>
         <body>

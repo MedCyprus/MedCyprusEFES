@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Gregory the Theologian</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                   <editor xml:id="ds">Deniz Sever Georgousakis</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">2-3</height>
+                            <handNote>White majuscule letters against white background. Character size varies. Letter height: <height unit="cm">2-3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#GregoryNazianzenos">Gregory the Theologian</rs></p>
+                            <p><rs type="iconography" ref="#GregoryNazianzenos">Gregory the Theologian</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,14 +69,23 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-080-01.JPG"><desc>Naos, east wall, recess, lower register, first figure from the left inscription</desc></graphic>
-        <graphic url="059-080-02.JPG"><desc>Naos, east wall, recess, lower register, first figure from the left, general view</desc></graphic>
+         <graphic rend="primary" url="059-080-01.JPG"><desc>Saint Gregory the Theologian, inscription</desc></graphic>
+        <graphic url="059-080-02.JPG"><desc>Saint Gregory the Theologian, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/>
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="GregoryNazianzenos"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <name nymRef ="#Γρηγόριος" type="forename"><supplied reason="lost">Γρηγ</supplied>όριος</name>                       
+                   <cb n="b"/> 
+                  <lb n="1"/>Ὁ
+                     <lb n="2"/><addName type="epithet" key="Theologian">Θ
+                    <lb n="3" break="no"/>ε  
+                    <lb n="4" break="no"/>ο
+                    <lb n="5" break="no"/>λ
+                    <lb n="6" break="no"/>ό
+                    <lb n="7"/>γ<supplied reason="lost">ος</supplied></addName></persName>
                  </ab>
             </div>
             <div type="apparatus">

@@ -49,8 +49,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Asinou">Niketari, Panagia Phorbiotissa or Asinou</origPlace>
-                            <origDate precision="high">1105/6</origDate>
+                            <origPlace ref="locations.xml#Asinou" n="1st">Niketari, Panagia Phorbiotissa or Asinou</origPlace>
+                            <origDate notBefore="1105" notAfter="1106" evidence="internal-date">1105/6</origDate>
                         </origin>
                          <provenance when="2022">
                         </provenance>
@@ -74,7 +74,6 @@
         <graphic url="044-075-02.JPG"><desc>Entry into Jerusalem, inscription</desc></graphic>
         <graphic url="044-075-03.JPG"><desc>Entry into Jerusalem, general view</desc></graphic>
         <graphic url="044-075-04.JPG"><desc>Entry into Jerusalem, general view</desc></graphic>
-        <graphic url="044-075-05.JPG"><desc>Entry into Jerusalem, general view</desc></graphic>
         </facsimile>
     <text>
         <body>

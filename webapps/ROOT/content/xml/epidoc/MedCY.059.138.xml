@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Descent into Hell, John the Forerunner</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against brown background. Πρόδρομος is abbreviated as with a big, wavy line above the words. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#DescentIntoHell">Descent Into Hell, John the Forerunner</rs></p>
+                            <p><rs type="iconography" ref="#DescentIntoHell">Descent into Hell, John the Forerunner</rs>
+                            <rs type="iconography" ref="#Prophet"></rs>
+                            <rs type="iconography" ref="#christological"></rs>
+                            <rs type="iconography" ref="#JohnForerunner"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,13 +70,16 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-138-01.JPG"><desc>Tomb, to the right of the niche, next to Solomon, inscription</desc></graphic>
-        <graphic url="059-138-02.JPG"><desc>Tomb, to the right of the niche, next to Solomon, general view</desc></graphic>
+         <graphic rend="primary" url="059-138-01.JPG"><desc>Descent into Hell, John the Forerunner, inscription</desc></graphic>
+        <graphic url="059-138-02.JPG"><desc>Descent into Hell, John the Forerunner, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>PENDING</ab>
+                <ab>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="JohnForerunner"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <name nymRef ="#Ἰωάννης" type="forename"><supplied reason="lost">Ἰωάννης</supplied></name> ὁ <addName type="epithet" key="Forerunner"><expan><abbr rend="supraline">Πρ</abbr><ex>ό</ex><abbr rend="supraline">δ</abbr><ex>ρ</ex><abbr rend="supraline">ο</abbr><ex>μ</ex><abbr rend="supraline">ος</abbr></expan></addName></persName> 
+                    
+                </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>

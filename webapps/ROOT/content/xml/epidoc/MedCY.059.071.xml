@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Crucifixion, Christ</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>  
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Wavy, horizontal abbreviation mark above the sigla ΙC.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Crucifixion">Crucifixion, Christ</rs></p>
+                            <p><rs type="iconography" ref="#Crucifixion">Crucifixion, Christ</rs>
+                            <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,15 +68,16 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-071-01.JPG"><desc>Naos, east wall, above the Holy Cross' recess, inscription</desc></graphic>
-        <graphic url="059-071-02.JPG"><desc>Naos, east wall, above the Holy Cross' recess, general view</desc></graphic>
-        <graphic url="059-071-03.JPG"><desc>Naos, east wall, above the Holy Cross' recess, general view</desc></graphic>
+         <graphic rend="primary" url="059-071-01.JPG"><desc>Crucifixion, Christ, inscription</desc></graphic>
+        <graphic url="059-071-02.JPG"><desc>Crucifixion, Christ, general view</desc></graphic>
+        <graphic url="059-071-03.JPG"><desc>Crucifixion, Christ, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"> <expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan>
+                    <milestone unit="column"/><supplied reason="lost"><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></supplied></name></persName>                    
                  </ab>
             </div>
             <div type="apparatus">

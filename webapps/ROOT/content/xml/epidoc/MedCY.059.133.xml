@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint John Chrysostom</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#JohnChrysostom">John Chrysostom</rs></p>
+                            <p><rs type="iconography" ref="#JohnChrysostom">John Chrysostom</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,13 +69,15 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-133-01.JPG"><desc>Tomb, niche, on the right of the Virgin, inscription</desc></graphic>
-        <graphic url="059-133-02.JPG"><desc>Tomb, niche, on the right of the Virgin, general view</desc></graphic>
+         <graphic rend="primary" url="059-133-01.JPG"><desc>Saint John Chrysostom, inscription</desc></graphic>
+        <graphic url="059-133-02.JPG"><desc>Saint John Chrysostom, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>PENDING</ab>
+                <ab>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="JohnChrysostom"><w lemma="ἅγιος"><supplied reason="lost"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></supplied></w>
+                    <lb n="2"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex><abbr rend="supraline"></abbr></expan></name></persName></ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>

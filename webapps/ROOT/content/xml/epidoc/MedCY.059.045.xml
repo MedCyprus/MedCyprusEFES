@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Prophet Isaiah</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. Final sigma in the form of a wavy line. ΠΡO and ΤΗ joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Isaiah">Isaiah</rs></p>
+                            <p><rs type="iconography" ref="#Isaiah">Isaiah</rs>
+                            <rs type="iconography" ref="#prophet"></rs>
+                                <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,14 +69,22 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-045-01.JPG"><desc>Ceiling, pinnacle, above the recess of the Holy Cross, next to prophet David, inscription detail</desc></graphic>
-        <graphic url="059-045-02.JPG"><desc>Ceiling, pinnacle, above the recess of the Holy Cross, next to prophet David, general view</desc></graphic>
+         <graphic rend="primary" url="059-045-01.JPG"><desc>Prophet Isaiah, inscription detail</desc></graphic>
+        <graphic url="059-045-02.JPG"><desc>Prophet Isaiah, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/>
+                      <lb n="1"/>Ὁ 
+                     <lb n="2"/><persName type="sacred" key="Isaiah"><w lemma="προφήτης"><hi rend="ligature">προ</hi>    
+                     <lb n="3" break="no"/>φ
+                     <lb n="4" break="no"/>ή
+                      <lb n="5" break="no"/><hi rend="ligature">τη</hi>
+                      <lb n="6" break="no"/>ς</w>
+                       <cb n="b"/>
+                       <lb n="1"/><name type="forename" nymRef="#Ἠσαΐας"><choice><orig>H</orig><reg>Ἠ</reg></choice>σα<choice><orig>ı</orig><reg>ΐ</reg></choice>ας</name></persName>
                  </ab>
             </div>
             <div type="apparatus">

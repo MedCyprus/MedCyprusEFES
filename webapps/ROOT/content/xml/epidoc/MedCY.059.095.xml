@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Amoun</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3,5-5</height>
+                            <handNote>White majuscule letters against white background. Character size varies. Mu with the central strokes reminiscent of an upsilon on a crossed stem. OY and THC joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">3,5-5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Amoun">Amoun</rs></p>
+                            <p><rs type="iconography" ref="#Amoun">Amoun</rs>
+                            <rs type="iconography" ref="#monastic"></rs> 
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,15 +69,18 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-095-01.JPG"><desc>Naos, west wall, lower register, next to St. Euthymios, inscription</desc></graphic>
-        <graphic url="059-095-02.JPG"><desc>Naos, west wall, lower register, next to St. Euthymios, general view</desc></graphic>
-        <graphic url="059-095-03.JPG"><desc>Naos, west wall, lower register, next to St. Euthymios, inscription</desc></graphic>
+         <graphic rend="primary" url="059-095-01.JPG"><desc>Saint Amoun, inscription</desc></graphic>
+        <graphic url="059-095-02.JPG"><desc>Saint Amoun, general view</desc></graphic>
+        <graphic url="059-095-03.JPG"><desc>Saint Amoun, inscription</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                   <lb n="1"/>Ὁ <persName type="sacred" key="Amoun"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                  
+                   <lb n="2"/><name type="forename" nymRef="#Αμούν">Αμ<hi rend="ligature">ο<choice><orig>ῦ</orig><reg>ύ</reg></choice></hi>ν                      <lb n="3"/>ὁ <placeName ref="mentioned_places.xml#Nitria"><addName type="epithet" key="Νιτριώτης"><choice><sic>Νη
+                   <lb n="4" break="no"/>τριό
+                   <lb n="5" break="no"/><hi rend="ligature">της</hi></sic><corr>Νιτριώτης</corr></choice></addName></placeName></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">

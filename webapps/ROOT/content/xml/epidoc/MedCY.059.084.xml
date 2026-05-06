@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Helena</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3-4</height>
+                            <handNote>White majuscule letters against blue background. Character size varies. Accents and breathings non systematic. Letter height: <height unit="cm">3-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Helena">Helena</rs></p>
+                            <p><rs type="iconography" ref="#Helena">Helena</rs>
+                                  <rs type="iconography" ref="#female"></rs>
+                                  <rs type="iconography" ref="#imperial"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,15 +69,19 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-084-01.JPG"><desc>Naos, east wall, lower register, below the Descent from the Cross, next to St. Constantine, inscription</desc></graphic>
-        <graphic url="059-084-02.JPG"><desc>Naos, east wall, lower register, below the Descent from the Cross, next to St. Constantine, general view</desc></graphic>
-        <graphic url="059-084-03.JPG"><desc>Naos, east wall, lower register, below the Descent from the Cross, next to St. Constantine, general view</desc></graphic>
+         <graphic rend="primary" url="059-084-01.JPG"><desc>Saint Helena, inscription</desc></graphic>
+        <graphic url="059-084-02.JPG"><desc>Saint Helena, general view</desc></graphic>
+        <graphic url="059-084-03.JPG"><desc>Saint Helena, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                 <cb n="a"/> 
+                  <lb n="1"/>Ἡ <persName type="sacred" key="Helena"><w lemma="ἁγία"><choice><orig>ἀ</orig><reg>ἁ</reg></choice>γ<choice><orig>ι</orig><reg>ί</reg></choice>α</w>
+                   <cb n="b"/>   
+                   <lb n="1"/><name type="forename" nymRef="#Ἑλένη"><choice><orig>E</orig><reg>Ἑ</reg></choice><supplied reason="lost">λένη</supplied>  
+                 </name></persName>               
                  </ab>
             </div>
             <div type="apparatus">

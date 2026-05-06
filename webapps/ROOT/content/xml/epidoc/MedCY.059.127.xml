@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Cryptograms</title>
-                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against brown background. Horizontal wavy line above all the abbreviations. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -66,22 +67,24 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-127-01.JPG"><desc>Cell, north wall, shallow recess, over the desk, inscription</desc></graphic>
-        <graphic url="059-127-02.JPG"><desc>Cell, north wall, shallow recess, over the desk, inscription</desc></graphic>
-        <graphic url="059-127-03.JPG"><desc>Cell, north wall, shallow recess, over the desk, general view</desc></graphic>
+         <graphic rend="primary" url="059-127-01.JPG"><desc>Cryptograms, inscription</desc></graphic>
+        <graphic url="059-127-02.JPG"><desc>Cryptograms, inscription</desc></graphic>
+        <graphic url="059-127-03.JPG"><desc>Cryptograms, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+               <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς<am> &#x00A0;῀&#x00A0;</am></abbr></expan></name>
+                    <milestone unit="column"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></addName></persName>                
+                    <lb n="2"/><persName type="divine" key="SonOfGod"><expan><abbr rend="supraline">Υ<choice><orig>ι</orig><reg>ἱ</reg></choice></abbr><ex>ὸ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>
                  </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Jesus Christ, Son of God</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>

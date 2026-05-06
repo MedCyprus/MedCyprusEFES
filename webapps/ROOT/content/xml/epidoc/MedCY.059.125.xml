@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Deesis, Saint Neophytos' invocation</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -34,15 +35,17 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the open scroll on the left of the saint Neophytos</layout>
+                                <layout>On the open scroll on the left of the saint Neophytos</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">2,5-4</height>
+                            <handNote>Black majuscule letters against grey background. Character size varies. Mu with the central strokes reminiscent of a tau. Omega with its apex surmounted by a crosslet. CT, OY, and AP joined in ligature. Wavy horizontal abbreviation mark above MP and XE. Letter height: <height unit="cm">2,5-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Deesis">Deesis, Saint Neophytos</rs></p>
+                            <p><rs type="iconography" ref="#Deesis">Deesis, Saint Neophytos</rs>
+                            <rs type="iconography" ref="#monastic"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,12 +70,12 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-125-01.JPG"><desc>Cell, north wall, beneath the Deesis, inscription</desc></graphic>
-        <graphic url="059-125-02.JPG"><desc>Cell, north wall, beneath the Deesis, inscription </desc></graphic>
-        <graphic url="059-125-03.JPG"><desc>Cell, north wall, beneath the Deesis, inscription</desc></graphic>
-        <graphic url="059-125-04.JPG"><desc>Cell, north wall, beneath the Deesis, inscription detail</desc></graphic>
-        <graphic url="059-125-05.JPG"><desc>Cell, north wall, beneath the Deesis, inscription detail</desc></graphic>
-        <graphic url="059-125-06.JPG"><desc>Cell, north wall, beneath the Deesis, general view</desc></graphic>
+         <graphic rend="primary" url="059-125-01.JPG"><desc>Deesis, Saint Neophytos' invocation, inscription</desc></graphic>
+        <graphic url="059-125-02.JPG"><desc>Deesis, Saint Neophytos' invocation, inscription </desc></graphic>
+        <graphic url="059-125-03.JPG"><desc>Deesis, Saint Neophytos' invocation, inscription</desc></graphic>
+        <graphic url="059-125-04.JPG"><desc>Deesis, Saint Neophytos' invocation, inscription detail</desc></graphic>
+        <graphic url="059-125-05.JPG"><desc>Deesis, Saint Neophytos' invocation, inscription detail</desc></graphic>
+        <graphic url="059-125-06.JPG"><desc>Deesis, Saint Neophytos' invocation, general view</desc></graphic>
     </facsimile>
     <text>
         <body>

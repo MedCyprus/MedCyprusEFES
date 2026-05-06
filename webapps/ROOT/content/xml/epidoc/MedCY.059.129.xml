@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Verse epitaph</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3,5</height>
+                            <handNote>Black majuscule letters against grey background. Character size varies. Mu with the central strokes reminiscent of a tau. Tau with its stem crossed at mid-height. Alpha with its apex terminating in a serif to the left. Omega formed of two linked round bowls, each with an inward-curving spine. TP and NK joined in ligature. Letter height: <height unit="cm">3,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -66,8 +67,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-129-01.JPG"><desc>Cell, north wall, above the tomb, to the right of the saint inscription</desc></graphic>
-        <graphic url="059-129-02.JPG"><desc>Cell, north wall, above the tomb, to the right of the saint, general view</desc></graphic>
+         <graphic rend="primary" url="059-129-01.JPG"><desc>Verse epitaph, to the right of the saint inscription</desc></graphic>
+        <graphic url="059-129-02.JPG"><desc>Verse epitaph, general view</desc></graphic>
     </facsimile>
     <text>
         <body>

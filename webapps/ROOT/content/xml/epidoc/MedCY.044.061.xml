@@ -45,8 +45,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Asinou">Niketari, Panagia Phorbiotissa or Asinou</origPlace>
-                            <origDate precision="high">1105/6</origDate>
+                            <origPlace ref="locations.xml#Asinou" n="1st">Niketari, Panagia Phorbiotissa or Asinou</origPlace>
+                            <origDate notBefore="1105" notAfter="1106" evidence="internal-date">1105/6</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
@@ -106,7 +106,7 @@
                    <bibl><ptr target="#Wharton1988"/>, <citedRange>76</citedRange></bibl>
                    <bibl><ptr target="#Papageorgiou2003"/>, <citedRange>107</citedRange></bibl> 
                    <bibl><ptr target="#HadjichristodoulouMyrianthefs2009"/>, <citedRange>13</citedRange></bibl>
-                   <bibl><author>Carr </author>in <ptr target="#VisCult"/> 1,<citedRange> 182-83</citedRange></bibl>  
+                   <bibl><author>Carr </author>in <ptr target="#VisCult"/><citedRange> 1, 182-83</citedRange></bibl>  
                  </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Daniel the Stylite</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                  <editor xml:id="ds">Deniz Sever Georgousakis</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">2,5-3</height>
+                            <handNote>White majuscule letters against blue background. Character size varies. Accents and breathings systematic. Letter height: <height unit="cm">2,5-3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -69,14 +70,21 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-086-01.JPG"><desc>Naos, east wall, lower register, south side of the entrance door, middle figure, inscription</desc></graphic>
-        <graphic url="059-086-02.JPG"><desc>Naos, east wall, lower register, south side of the entrance door, middle figure, general view</desc></graphic>
+         <graphic rend="primary" url="059-086-01.JPG"><desc>Saint Daniel the Stylite, inscription</desc></graphic>
+        <graphic url="059-086-02.JPG"><desc>Saint Daniel the Stylite, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/>
+                      <lb n="1"/>Ὁ <persName type="sacred" key="Daniel"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>    
+                    <cb n="b"/>
+                      <lb n="1"/><name type="forename" nymRef="#Δανιήλ">Δα
+                         <lb n="2" break="no"/>νι
+                         <lb n="3" break="no"/>ή 
+                      <lb n="4" break="no"/>λ</name></persName>
+                          
                  </ab>
             </div>
             <div type="apparatus">

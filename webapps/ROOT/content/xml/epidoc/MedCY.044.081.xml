@@ -29,7 +29,7 @@
                                 <support>
                                 <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. Well preserved.</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, west wall, lunette, middle register</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, west wall, middle register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                             </support>
                             </supportDesc>
@@ -49,8 +49,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Asinou">Niketari, Panagia Phorbiotissa or Asinou</origPlace>
-                            <origDate precision="high">1105/6</origDate>
+                            <origPlace ref="locations.xml#Asinou" n="1st">Niketari, Panagia Phorbiotissa or Asinou</origPlace>
+                            <origDate notBefore="1105" notAfter="1106" evidence="internal-date">1105/6</origDate>
                         </origin>
                          <provenance when="2022">
                         </provenance>

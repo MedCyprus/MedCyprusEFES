@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Road to Calvary, numeral</title>
-                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against red background.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#RoadToCalvary">Road to Calvary</rs></p>
+                            <p><rs type="iconography" ref="#RoadToCalvary">Road to Calvary</rs>
+                             <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,9 +68,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-066-01.JPG"><desc>Naos, north wall, upper register, next to the Judgement of Pilate, inscription detail</desc></graphic>
-        <graphic url="059-066-02.JPG"><desc>Naos, north wall, upper register, next to the Judgement of Pilate, general view</desc></graphic>
-        <graphic url="059-066-03.JPG"><desc>Naos, north wall, upper register, next to the Judgement of Pilate, general view</desc></graphic>
+         <graphic rend="primary" url="059-066-01.JPG"><desc>Road to Calvary, numeral, inscription detail</desc></graphic>
+        <graphic url="059-066-02.JPG"><desc>Road to Calvary, numeral, general view</desc></graphic>
+        <graphic url="059-066-03.JPG"><desc>Road to Calvary, numeral, general view</desc></graphic>
     </facsimile>
     <text>
         <body>

@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Daniel of Sketis</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3-4</height>
+                            <handNote>White majuscule letters against white background. Character size varies. Tau with a top bar terminating in serifs at either end. HC joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">3-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -76,7 +77,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                   <lb n="1"/>Ὁ <persName type="sacred" key="Daniel"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>         
+                   <lb n="2"/><name type="forename" nymRef="#Δανιήλ">Δα
+                    <lb n="3" break="no"/>ν<choice><orig>ϊ</orig><reg>ι</reg></choice>
+                     <lb n="4" break="no"/>ήλ
+                    <lb n="5"/>ὁ <placeName ref="mentioned_places.xml#Sketis"><addName type="epithet" key="Σκητιώτης"><choice><sic>Σκη
+                     <lb n="6" break="no"/>τιότ<hi rend="ligature">ης</hi></sic><corr>Σκητιώτης</corr></choice></addName></placeName></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">

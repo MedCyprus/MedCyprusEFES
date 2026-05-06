@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Stephen the Younger</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">4-4,5</height>
+                            <handNote>White majuscule letters against white background. Character size varies. Final sigma in the form of a wavy line. CT joined in ligature. Accents and breathings systematic. Letter height: <height unit="cm">4-4,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -69,16 +70,29 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-108-01.JPG"><desc>Naos, west wall, lower register, next to St. Paisios, inscription</desc></graphic>
-        <graphic url="059-108-02.JPG"><desc>Naos, west wall, lower register, next to St. Paisios, inscription detail</desc></graphic>
-        <graphic url="059-108-03.JPG"><desc>Naos, west wall, lower register, next to St. Paisios, inscription detail</desc></graphic>
-        <graphic url="059-108-04.JPG"><desc>Naos, west wall, lower register, next to St. Paisios, general view</desc></graphic>
+         <graphic rend="primary" url="059-108-01.JPG"><desc>Saint Stephen the Younger, inscription</desc></graphic>
+        <graphic url="059-108-02.JPG"><desc>Saint Stephen the Younger, inscription detail</desc></graphic>
+        <graphic url="059-108-03.JPG"><desc>Saint Stephen the Younger, inscription detail</desc></graphic>
+        <graphic url="059-108-04.JPG"><desc>Saint Stephen the Younger, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/>
+                     <lb n="1"/>Ὁ 
+                    <lb n="2"/><persName type="sacred" key="StephenYounger"><w lemma="ἅγιος">ἅ
+                    <lb n="3" break="no"/>γ
+                      <lb n="4" break="no"/>ι
+                       <lb n="5" break="no"/>ο
+                      <lb n="6" break="no"/>ς</w>     
+                        <cb n="b"/>
+                       <lb n="1"/><name type="forename" nymRef="#Στέφανος"><hi rend="ligature">Στ</hi>έ
+                       <lb n="2" break="no"/>φα
+                       <lb n="3" break="no"/>νος</name>
+                       <lb n="4"/>ὁ
+                       <lb n="5"/><addName type="epithet" key="νέος">νέ
+                       <lb n="6" break="no"/>ο<supplied reason="lost">ς</supplied></addName></persName> 
                  </ab>
             </div>
             <div type="apparatus">

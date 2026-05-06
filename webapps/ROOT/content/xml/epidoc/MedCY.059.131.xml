@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Crucifixion, John the Theologian</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Crucifixion">Crucifixion, John the Theologian</rs></p>
+                            <p><rs type="iconography" ref="#Crucifixion">Crucifixion, John the Theologian</rs>
+                            <rs type="iconography" ref="#JohnTheologian"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,13 +68,16 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-131-01.jpg"><desc>Tomb, arched ceiling, on the left, inscription (© DOP: Mango, Hawkins 1966, fig. 106)</desc></graphic>
-        <graphic url="059-131-02.jpg"><desc>Tomb, arched ceiling, on the left, general view (© DOP: Mango, Hawkins 1966, fig. 106)</desc></graphic>
+         <graphic rend="primary" url="059-131-01.jpg"><desc>Crucifixion, John the Theologian, inscription (© DOP: Mango, Hawkins 1966, fig. 106)</desc></graphic>
+        <graphic url="059-131-02.jpg"><desc>Crucifixion, John the Theologian, general view (© DOP: Mango, Hawkins 1966, fig. 106)</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-                <ab>PENDING</ab>
+                <ab> 
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="JohnTheologian"><w lemma="ἅγιος"><choice><orig>ά</orig><reg>ἅ</reg></choice>γιος</w>
+                    <lb n="2"/><supplied reason="lost"><name type="forename" nymRef="#Ἰωάννης">Ἰωάννης</name></supplied></persName>  
+                </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>

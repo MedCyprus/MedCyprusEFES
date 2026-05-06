@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Deesis, Virgin</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3,5</height>
+                            <handNote>White majuscule letters against blue background. Mu with the central strokes reminiscent of a tau. MHP joined in ligature. Wavy, horizontal abbreviation mark above the nomina sacra ΜΗΡ ΘΥ. Accents and breathings non systematic. Letter height: <height unit="cm">3,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Deesis">Deesis, Virgin</rs></p>
+                            <p><rs type="iconography" ref="#Deesis">Deesis, Virgin</rs>
+                                <rs type="iconography" ref="#Virgin"></rs>
+                             </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,14 +69,15 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-124-01.JPG"><desc>Cell, north wall, inscription</desc></graphic>
-        <graphic url="059-124-02.JPG"><desc>Cell, north wall, general view</desc></graphic>
+         <graphic rend="primary" url="059-124-01.JPG"><desc>Deesis, Virgin, inscription</desc></graphic>
+        <graphic url="059-124-02.JPG"><desc>Deesis, Virgin, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
+                    <milestone unit="column"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>                      
                  </ab>
             </div>
             <div type="apparatus">

@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, carved apse, upper register, center</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
@@ -48,13 +48,12 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Sozomenos">Agios Sozomenos, Saint Sozomenos</origPlace>
-                            <origDate notBefore="1301" notAfter="1350" precision="medium"> First half of the 14th century?</origDate>
+                            <origPlace ref="locations.xml#Sozomenos" n="3rd">Agios Sozomenos, Saint Sozomenos</origPlace>
+                            <origDate notBefore="1201" notAfter="1350" precision="medium" evidence="artistic-style">13th-14th century, first half (?)</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
-                        <provenance type="observed" resp="#tp">23/06/2022
-                        </provenance>
+                        <provenance type="observed" resp="#tp">05/04/2022</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -65,11 +64,13 @@
                     <term type="textType" ref="text_types.xml#doc9">Sigla</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publications</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+         <graphic rend="primary" url="002-001-01.JPG"><desc>Virgin, inscription</desc></graphic>   
+        <graphic url="002-001-02.JPG"><desc>Virgin, inscription detail</desc></graphic> 
+        <graphic url="002-001-03.JPG"><desc>Virgin, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -79,17 +80,17 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Mother of God</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

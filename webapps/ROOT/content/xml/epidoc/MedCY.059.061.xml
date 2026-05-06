@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Betrayal, Peter</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>Brown majuscule letters against light brown background. Character size varies. OC joined in ligature. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -70,14 +71,18 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-061-01.JPG"><desc>Naos, on the west, upper register, next to the Agony, bottom-left, inscription</desc></graphic>
-        <graphic url="059-061-02.JPG"><desc>Naos, on the west, upper register, next to the Agony, bottom-left, general view</desc></graphic>
+         <graphic rend="primary" url="059-061-01.JPG"><desc>Betrayal, Peter, inscription</desc></graphic>
+        <graphic url="059-061-02.JPG"><desc>Betrayal, Peter, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/>
+                      <lb n="1"/>Ὁ <persName type="sacred" key="Peter"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                        <cb n="b"/>
+                          <lb n="1"/><name type="forename" nymRef="#Πέτρος">Πέ
+                          <lb n="2" break="no"/>τρ<hi rend="ligature">ος</hi></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
