@@ -41,7 +41,7 @@
               <td>Citations</td><td>References</td>
             </tr>
             <xsl:apply-templates mode="item-display"
-              select="/aggregation/response/result/doc[descendant::str[@name='concordance_bibliography_ref' and . = $bibl-id]]" ><xsl:sort select="str[@name='concordance_bibliography_cited_range']"/></xsl:apply-templates>
+              select="/aggregation/response/result/doc[descendant::str[@name='concordance_bibliography_ref' and . = $bibl-id]]" ><xsl:sort select="normalize-space(str[@name='concordance_bibliography_cited_range'])"/></xsl:apply-templates>
           </table>
         </div>
       </div>
