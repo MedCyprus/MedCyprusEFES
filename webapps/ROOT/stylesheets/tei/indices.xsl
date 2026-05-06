@@ -313,19 +313,25 @@
   
   <xsl:template match="str[@name='index_item_type']">
     <td>
-    <xsl:choose>
-      <xsl:when test="string-length(ancestor::doc/str[@name='index_placenames_gazetteer']) > 0">
+      <xsl:value-of select="."/>
+      <xsl:if test="string-length(ancestor::doc/str[@name='index_placenames_gazetteer']) > 0">
         <xsl:element name="a">
+          <xsl:attribute name="target">
+            <xsl:text>_blank</xsl:text>
+          </xsl:attribute>
         <xsl:attribute name="href">
           <xsl:value-of select="ancestor::doc/str[@name='index_placenames_gazetteer']"/>
         </xsl:attribute>
-        <xsl:value-of select="."/>
+          <xsl:choose>
+            <xsl:when test="contains(ancestor::doc/str[@name='index_placenames_gazetteer'],'pleiades')">
+              <xsl:text> [Pleiades]</xsl:text></xsl:when>
+            <xsl:when test="contains(ancestor::doc/str[@name='index_placenames_gazetteer'],'cyprus')">
+              <xsl:text> [Cyprus Gazetteer]</xsl:text></xsl:when>
+            <xsl:otherwise><xsl:text> [Gazetteer Link]</xsl:text></xsl:otherwise>
+          </xsl:choose>
       </xsl:element>
-      </xsl:when>
-    <xsl:otherwise>
-        <xsl:value-of select="."/>
-    </xsl:otherwise>
-    </xsl:choose>
+        </xsl:if>
+
     </td>
   </xsl:template>
   
