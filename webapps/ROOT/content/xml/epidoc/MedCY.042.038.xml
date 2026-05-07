@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint John of Damascus</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                  <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue backgound. Systematic use of triangular serifs. Mu with the central strokes reminiscent of a tau. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#JohnDamascus">John of Damascus</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -72,7 +75,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                  <cb n="a"/>
+                    <lb n="1"/><supplied reason="lost">Ὁ </supplied><persName type="sacred" key="JohnOfDamascus"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <name nymRef ="#Ἰωάννης" type="forename"><supplied reason="lost">Ἰωάννης</supplied></name>  
+                      <lb n="2"/><placeName ref="mentioned_places.xml#Damascus"><choice><sic>Ὀι</sic><corr>Ὁ</corr></choice>  
+                     <lb n="3"/>Δαμασ
+                       <lb n="4" break="no"/>
+                    <cb n="b"/>
+                    <lb n="1"/>κηνό<supplied reason="lost">ς</supplied></placeName></persName>
                  </ab>
             </div>
             <div type="apparatus">
