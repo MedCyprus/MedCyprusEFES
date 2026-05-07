@@ -112,18 +112,18 @@
             </div>
             <div type="bibliography">
                 <listBibl> 
-                   <bibl><ptr target="#Buckler1933"/>,<citedRange> 342-43</citedRange></bibl>
-                   <bibl><ptr target="#Stylianou1960"/>,<citedRange> 98</citedRange></bibl>  
-                   <bibl><ptr target="#Papageorgiou1965a"/>,<citedRange> 16-17</citedRange></bibl>
-                   <bibl><ptr target="#Sacopoulo1966"/>,<citedRange> 11</citedRange></bibl>   
-                   <bibl><ptr target="#Stylianou1973"/>,<citedRange> 4-6</citedRange></bibl>
-                   <bibl><ptr target="#HatfieldYoung1983"/>,<citedRange> 322</citedRange></bibl>
-                    <bibl><ptr target="#Wharton1988"/>,<citedRange> 76</citedRange></bibl>
-                   <bibl><ptr target="#Papageorgiou2003"/>,<citedRange> 107-08</citedRange></bibl> 
-                    <bibl><ptr target="#HadjichristodoulouMyrianthefs2009"/>,<citedRange> 19</citedRange></bibl>
-                   <bibl><ptr target="#Rhoby2009"/>,<citedRange> 349</citedRange></bibl>
-                   <bibl><ptr target="#Ševčenko2012"/>,<citedRange> 79-80</citedRange></bibl>
-                   <bibl><author>Carr </author>in <ptr target="#VisCult"/><citedRange> 1, 184-85</citedRange></bibl>  
+                   <bibl><ptr target="#Buckler1933"/>,<citedRange>342-43</citedRange></bibl>
+                   <bibl><ptr target="#Stylianou1960"/>,<citedRange>98</citedRange></bibl>  
+                   <bibl><ptr target="#Papageorgiou1965a"/>,<citedRange>16-17</citedRange></bibl>
+                   <bibl><ptr target="#Sacopoulo1966"/>,<citedRange>11</citedRange></bibl>   
+                   <bibl><ptr target="#Stylianou1973"/>,<citedRange>4-6</citedRange></bibl>
+                   <bibl><ptr target="#HatfieldYoung1983"/>,<citedRange>322</citedRange></bibl>
+                    <bibl><ptr target="#Wharton1988"/>,<citedRange>76</citedRange></bibl>
+                   <bibl><ptr target="#Papageorgiou2003"/>,<citedRange>107-08</citedRange></bibl> 
+                    <bibl><ptr target="#HadjichristodoulouMyrianthefs2009"/>,<citedRange>19</citedRange></bibl>
+                   <bibl><ptr target="#Rhoby2009"/>,<citedRange>349</citedRange></bibl>
+                   <bibl><ptr target="#Ševčenko2012"/>,<citedRange>79-80</citedRange></bibl>
+                   <bibl><author>Carr </author>in <ptr target="#VisCult"/><citedRange>1, 184-85</citedRange></bibl>  
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
