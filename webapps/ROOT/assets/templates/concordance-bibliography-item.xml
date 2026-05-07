@@ -26,11 +26,11 @@
       <xsl:value-of select="$title" />
     </kiln:block>
 
-    <kiln:block name="page-heading">
+   <!-- <kiln:block name="page-heading">
       <kiln:super />
-      <!--<xsl:text>Bibliographic Concordance: </xsl:text>-->
+      <!-\-<xsl:text>Bibliographic Concordance: </xsl:text>-\->
       <xsl:value-of select="$title" />
-    </kiln:block>
+    </kiln:block>-->
 
     <kiln:block name="content">
       <div class="row">
@@ -38,7 +38,7 @@
           <p><xsl:apply-templates mode="full-citation" select="id($bibl-id)" /></p>
           <table>
             <tr>
-              <td>Citations</td><td>References</td>
+              <td><xsl:value-of select="$title"></xsl:value-of></td><td>MedCyprus</td>
             </tr>
             <xsl:apply-templates mode="item-display"
               select="/aggregation/response/result/doc[descendant::str[@name='concordance_bibliography_ref' and . = $bibl-id]]" ><xsl:sort select="normalize-space(str[@name='concordance_bibliography_cited_range'])"/></xsl:apply-templates>
