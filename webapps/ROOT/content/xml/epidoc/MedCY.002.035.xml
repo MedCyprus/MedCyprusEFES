@@ -5,14 +5,14 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Ariston</title>
+                <title>Saint Galaktion</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.002.033</idno>
+                <idno type="filename">MedCY.002.035</idno>
                 <availability>
                   <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
                 </availability>
@@ -27,8 +27,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, north wall, recessed surface of the niche above the tomb, second figure on the left</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, north wall, recessed surface of the niche above the tomb, middle figure</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -62,13 +62,13 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publication?</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="002-033-01.JPG"><desc>Saint Ariston, inscription</desc></graphic> 
-         <graphic url="002-033-02.JPG"><desc>Saint Ariston, inscription detail</desc></graphic>   
-         <graphic url="002-033-03.JPG"><desc>Saint Ariston, inscription detail</desc></graphic>    
+         <graphic rend="primary" url="002-035-01.jpg"><desc>Saint Galaktion, inscription</desc></graphic> 
+         <graphic url="002-035-02.JPG"><desc>Saint Galaktion, inscription detail</desc></graphic>   
+         <graphic url="002-035-03.JPG"><desc>Saint Galaktion, inscription detail</desc></graphic>    
     </facsimile>
     <text>
         <body>
@@ -78,17 +78,17 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Saint Ariston</p>
+                <p>Saint Galaktion</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Papageorgiou1999b"/>, <citedRange>51</citedRange></bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
