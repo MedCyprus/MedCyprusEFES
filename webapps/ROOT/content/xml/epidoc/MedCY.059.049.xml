@@ -75,7 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <num value="3">Γ</num>                     
+                    <num value="3"><hi rend="supraline">Γ</hi></num>                     
                  </ab>
             </div>
             <div type="apparatus">
