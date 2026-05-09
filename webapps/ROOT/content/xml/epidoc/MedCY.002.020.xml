@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Sozomenos healing the sick</title>
+                <title>Saint Sozomenos heals the sick</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -66,7 +66,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="002-020-01.JPG"><desc>Saint Sozomenos healing the sick, inscription</desc></graphic>        
+         <graphic rend="primary" url="002-020-01.JPG"><desc>Saint Sozomenos heals the sick, inscription</desc></graphic>        
     </facsimile>
     <text>
         <body>
