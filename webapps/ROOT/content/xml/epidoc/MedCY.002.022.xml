@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Sozomenos' burial</title>
+                <title>The burial of Saint Sozomenos</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -66,7 +66,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="002-022-01.JPG"><desc>Saint Sozomenos' burial, inscription</desc></graphic>        
+         <graphic rend="primary" url="002-022-01.JPG"><desc>The burial of Saint Sozomenos, inscription</desc></graphic>        
     </facsimile>
     <text>
         <body>
