@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Paul, monastic saint</title>
+                <title>Saint Paul, a monastic saint</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -72,8 +72,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="002-037-01.JPG"><desc>Saint Paul, monastic saint, inscription</desc></graphic>  
-         <graphic url="002-037-02.JPG"><desc>Saint Paul, monastic saint, inscription detail</desc></graphic>      
+         <graphic rend="primary" url="002-037-01.JPG"><desc>Saint Paul, a monastic saint, inscription</desc></graphic>  
+         <graphic url="002-037-02.JPG"><desc>Saint Paul, a monastic saint, inscription detail</desc></graphic>      
     </facsimile>
     <text>
         <body>
