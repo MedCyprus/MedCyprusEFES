@@ -289,12 +289,6 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q8413</idno>                   
                 </person>
                 
-                <person xml:id="Cosmas">
-                    <persName xml:lang="grc">Κοσμᾶς</persName>
-                    <persName xml:lang="en">Cosmas</persName>
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q76486</idno>                   
-                </person>
-                
                 <person xml:id="Christopher">
                     <persName xml:lang="grc">Χριστοφόρος</persName>
                     <persName xml:lang="en">Christopher</persName>
@@ -784,6 +778,12 @@
                     <persName xml:lang="en">King of Glory</persName>
                     <idno type="wikidata">Not listed</idno>
                     <note>See also: Christ, Jesus Christ, Word, Master</note>
+                </person>
+                
+                <person xml:id="Kosmas">
+                    <persName xml:lang="grc">Κοσμᾶς</persName>
+                    <persName xml:lang="en">Cosmas</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q76486</idno>                   
                 </person>
                 
                 <person xml:id="KosmasPoet">
