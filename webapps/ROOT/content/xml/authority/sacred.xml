@@ -662,6 +662,10 @@
                     <persName xml:lang="en">Jesus</persName>
                     <persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="Christ">Χριστός</persName>
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="Christ">Christ</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Antiphonetes">Ἀντιφωνητής</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Antiphonetes">Antiphonetes</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Evergetes">Εὐεργέτις</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Evergetes">Evergetes</persName>
                     <!--><persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="SonofGod">Υἱὸς Θεοῦ</persName>
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="SonofGod">Son of God</persName>-->
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q302</idno>
