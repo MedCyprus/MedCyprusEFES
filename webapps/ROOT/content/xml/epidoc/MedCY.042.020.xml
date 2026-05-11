@@ -30,7 +30,7 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, east wall, south half, lower register</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><width unit="cm">18,5</width></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
