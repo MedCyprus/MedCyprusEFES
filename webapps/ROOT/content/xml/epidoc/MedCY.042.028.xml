@@ -75,7 +75,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><supplied reason="lost">Ἡ</supplied> <w lemma="κοίμησις"><supplied reason="lost">κοίμησις</supplied></w> <supplied reason="lost">της</supplied> <w lemma="ὑπεραγία"><supplied reason="lost">ὑπε</supplied>ραγίας</w> <persName type="sacred" key="Theotokos"><expan><abbr rend="supraline">Θ</abbr><ex>εοτό</ex><abbr rend="supraline">κ<hi rend="ligature">ου</hi></abbr></expan><am>&#x00B4;</am></persName>
+                   <lb n="1"/><supplied reason="lost">Ἡ</supplied> <w lemma="κοίμησις"><supplied reason="lost">κοίμησις</supplied></w> <supplied reason="lost">τῆς</supplied> <w lemma="ὑπεραγία"><supplied reason="lost">ὑπε</supplied>ραγίας</w> <persName type="sacred" key="Theotokos"><expan><abbr rend="supraline">Θ</abbr><ex>εοτό</ex><abbr rend="supraline">κ<hi rend="ligature">οῦ</hi></abbr></expan></persName>
+              
                  </ab>
             </div>
             <div type="apparatus">
