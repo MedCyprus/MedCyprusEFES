@@ -75,8 +75,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
+                    <cb n="a"/>
                     <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <w lemma="ἅγιος">ἅ<supplied reason="lost">γιος</supplied></w>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>                      
+                    <cb n="b"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>                      
                  </ab>
             </div>
             <div type="apparatus">
