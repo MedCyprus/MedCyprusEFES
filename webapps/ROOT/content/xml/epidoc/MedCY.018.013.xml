@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. Tau with a top bar terminating in serifs at either end. Omega formed of two linked oval bowls. Accents and breathings non systematic. Letter height: <height unit="cm">?</height> 
+                            <handNote>White majuscule letters against blue background. Tau with a top bar terminating in serifs at either end. Omega formed of two linked oval bowls. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -80,7 +80,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><supplied reason="lost">Ἡ</supplied> <w lemma="Μεταμόρφωσις"><supplied reason="lost">μ</supplied>εταμ<choice><orig>o</orig><reg>ό</reg></choice>ρφωσις</w>
+                  <lb n="1"/><supplied reason="lost">Ἡ</supplied> <w lemma="Μεταμόρφωσις"><supplied reason="lost">Μ</supplied>εταμ<choice><orig>o</orig><reg>ό</reg></choice>ρφωσις</w>
                  </ab>
             </div>
             <div type="apparatus">
