@@ -30,8 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved. Slightly exfoliated.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, carved apse, lower register, second figure on the right</rs>
-                                 <dimensions unit="cm" scope="text"><height>22</height><width>9,5</width></dimensions>  
-                                    <dimensions unit="cm" scope="scroll"><height>29</height><width>12</width></dimensions>   
+                                 <dimensions unit="cm" scope="text"><height>22</height><width>9,5</width></dimensions> 
+                                    <dimensions unit="cm" scope="scroll"><height>29</height><width>12</width></dimensions>  
                                 </support>
                             </supportDesc>
                             <layoutDesc>
