@@ -77,7 +77,7 @@
               <ab>
                   <cb n="a"/>
                     <lb n="1"/><supplied reason="lost">Ὁ </supplied><persName type="sacred" key="JohnOfDamascus"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <name nymRef ="#Ἰωάννης" type="forename"><supplied reason="lost">Ἰωάννης</supplied></name>  
-                      <lb n="2"/><placeName ref="mentioned_places.xml#Damascus"><choice><sic><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice>ι</sic><corr>Ὁ</corr></choice>  
+                      <lb n="2"/><placeName ref="mentioned_places.xml#Damascus"><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice>ι  
                      <lb n="3"/><choice><sic>Δαμασ
                        <lb n="4" break="no"/>
                     <cb n="b"/>
