@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint John Chrysostom</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. AΓ and OC joined in ligature. Wavy, horizontal mark above the abbreviation. Accents and breathings systematic. Letter height: <height unit="cm">3,5-5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#JohnChrysostom">John Chrysostom</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -72,7 +75,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                    <cb n="a"/>
+                    <lb n="1"/>Ὁ 
+                   <lb n="2"/><persName type="sacred" key="JohnChrysostom"><w lemma="ἅγιος"><hi rend="ligature">ἅγ</hi>ι
+                      <lb n="3" break="no"/><hi rend="ligature">ος</hi></w>   
+                     <cb n="b"/>
+                     <lb n="1"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>  
+                       <lb n="2"/><addName type="epithet" key="Chrysostom"><expan><abbr rend="supraline">Χρυ</abbr><ex>σόσ</ex><abbr rend="supraline">τ</abbr><ex>ο</ex><abbr rend="supraline">μος</abbr></expan></addName></persName>
                  </ab>
             </div>
             <div type="apparatus">
