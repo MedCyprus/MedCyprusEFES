@@ -30,7 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved. Slightly faded.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, carved apse, lower register, first figure on the right</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>22,5</height><width>9,5</width></dimensions> 
+                                    <dimensions unit="cm" scope="scroll"><height>31</height><width>13</width></dimensions>  
                                 </support>
                             </supportDesc>
                             <layoutDesc>
