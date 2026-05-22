@@ -42,7 +42,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#ChristEmmanuel">Christ Emmanuel</rs>
+                            <rs type="iconography" ref="#Christ"></rs>                             
+                            <rs type="iconography" ref="#divine"></rs> 
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +76,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                             <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"> <expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan><milestone unit="column"/> <addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></name></persName>
+                  <lb n="2"/> Ὁ Ἐ<hi rend="ligature">μμ</hi>α<milestone unit="column"/> ν<hi rend="ligature">ου</hi>ήλ     
                  </ab>
             </div>
             <div type="apparatus">
