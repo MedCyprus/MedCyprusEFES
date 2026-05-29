@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Paul, a monastic saint</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. AY and OC joined in ligature. Accents and breathings systematic. Letter height: <height unit="cm">3,5</height>  
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -79,7 +80,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                   <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Paul"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
+                  <cb n="b"/>
+                  <lb n="1"/><name type="forename" nymRef="#Παῦλος">Π<hi rend="ligature">αῦ</hi>     
+                   <lb n="2" break="no"/>λ<hi rend="ligature">ος</hi></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
