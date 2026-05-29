@@ -77,9 +77,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <cb n="a"/>
-                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Philagrios"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Ariston"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
                    <cb n="b"/>              
-                  <lb n="1"/><name nymRef ="#Φιλάγριος" type="forename">Ἀ
+                  <lb n="1"/><name nymRef ="#Ἀριστων" type="forename">Ἀ
                    <lb n="2" break="no"/>ρ<choice><orig>ί</orig><reg>ι</reg></choice>
                   <lb n="3" break="no"/><hi rend="ligature">στ</hi>ων</name></persName>    
                  </ab>
