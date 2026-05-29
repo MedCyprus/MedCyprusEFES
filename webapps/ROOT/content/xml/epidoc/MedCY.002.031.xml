@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Jason</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. Omega with its apex surmounted by a crosslet. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Jason">Jason</rs>
+                                   <rs type="iconography" ref="#monastic"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -72,7 +75,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                  <cb n="a"/>
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> 
+                  <lb n="2"/><persName type="sacred" key="Jason"><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἅ</reg></choice>γı<supplied reason="lost">ος</supplied></w>
+                   <cb n="b"/>   
+                   <lb n="1"/><name type="forename" nymRef="#Ἰάσων"><choice><orig>H</orig><reg>Ἠ</reg></choice>   
+                  <lb n="2" break="no"/><choice><orig>α</orig><reg>ά</reg></choice>  
+                 <lb n="3" break="no"/>σω
+                 <lb n="4" break="no"/>ν</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
