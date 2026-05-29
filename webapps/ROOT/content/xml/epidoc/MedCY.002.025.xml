@@ -74,7 +74,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+               <lb n="1"/>Ὁ <persName type="sacred" key="Jason"><w lemma="ἅγιος"><expan><abbr rend="supraline"> ἅγ</abbr><ex>ιος</ex></expan></w>
+                    <lb n="2"/><name type="forename" nymRef="#Ἰάσων"> 
                  </ab>
             </div>
             <div type="apparatus">
