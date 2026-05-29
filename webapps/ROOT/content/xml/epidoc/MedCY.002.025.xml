@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. Accents and breathings non systematic. Letter height: <height unit="cm">2</height>  
+                            <handNote>White majuscule letters against blue background. Character size varies. Accents and breathings non systematic. Letter height: <height unit="cm">2</height>  
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -80,7 +80,6 @@
                     <lb n="2"/><name type="forename" nymRef="#Ἰάσων"><choice><sic>Aγ<unclear>ἰ</unclear>
                     <lb n="3" break="no"/><unclear>ά</unclear>
                     <lb n="4" break="no"/>σον</sic><corr>Ἰάσων</corr></choice></name></persName>
-               
                  </ab>
             </div>
             <div type="apparatus">
