@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Virgin</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                    <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Mu with the central strokes reminiscent of a tau on a crossed stem. Delta is formed with a lambda on a bottom bar, with a serif to the left of its top bar. Tau with a top bar terminating in serifs at either end. Alpha with its apex terminating in a serif to the left. MHP and TP joined in ligature. Wavy, horizontal abbreviation mark above the sigla ΜΗΡ ΘΥ. Accents and breathings non systematic. Letter height: <height unit="cm">5</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -76,7 +77,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μή</abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
+                    <milestone unit="column" n="right"/><w lemma="Θεός"><supplied reason="lost"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></supplied></w></persName>                    
                  </ab>
             </div>
             <div type="apparatus">
