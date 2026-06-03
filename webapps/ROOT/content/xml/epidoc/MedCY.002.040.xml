@@ -38,11 +38,15 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. AΓ, AY, and OC joined in ligature. Accents and breathings nonsystematic. Letter height: <height unit="cm">3,5-4</height>  
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#PaulOfThebes">Saint Paul of Thebes</rs>
+                                 
+                                  <rs type="iconography" ref="#ascetic"></rs>
+                                
+                                  <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
