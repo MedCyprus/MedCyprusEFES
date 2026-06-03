@@ -38,12 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. AP joined in ligature. The word ἀρχ(άγγελος) is fully rendered by abbreviations. Accents and breathings non systematic. Letter height: <height unit="cm">3-4</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Gabriel">Archangel Gabriel</rs>
-                            <rs type="iconography" ref="#archangel"></rs></p>
+                            <rs type="iconography" ref="#archangel"></rs>
+                            <rs type="iconography" ref="#genderless"></rs>
+                            <rs type="iconography" ref="#dressimperial"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -77,7 +79,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Gabriel"><w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἀ</reg></choice>ρχ<am>&#x00A0;΄&#x00A0;</am></abbr><ex>άγγελος</ex></expan></w> <name type="forename" nymRef ="#Γαβριήλ">Γαβρ<choice><orig>ί</orig><reg>ι</reg></choice><choice><orig>η</orig><reg>ή</reg></choice>λ</name></persName>                      
                  </ab>
             </div>
             <div type="apparatus">
