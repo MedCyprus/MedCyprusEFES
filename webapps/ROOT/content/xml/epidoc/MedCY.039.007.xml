@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Hetoimasia, Christ's sigla</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against grey background. Mu with its middle bar forming a tau with a dot on the top. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Angels_Hetoimasia">Angels adoring the Hetoimasia, the Hetoimasia</rs>
+                                <rs type="iconography" ref="#Hetoimasia"></rs>                                
+                                <rs type="iconography" ref="#vision"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -74,7 +77,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
+                   <lb n="1"/><persName type="divine" key="JesusChrist"><name type="forename" nymRef ="#Ἰησοῦς"> <expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan>
+                    <milestone unit="column"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></name></persName> 
                 </ab>
             </div>
             <div type="apparatus">
