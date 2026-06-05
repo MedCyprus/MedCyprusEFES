@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Hetoimasia">Hetoimasia, John the Forerunner</rs>
+                                   <rs type="iconography" ref="#prophet"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -74,7 +76,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
+                    <cb n="a"/>
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="JohnForerunner"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice>γ</abbr><ex>ιος</ex></expan></w> <name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name>
+                      <cb n="b"/>
+                   <lb n="1"/>ὁ <addName type="epithet" key="Forerunner"><expan><abbr rend="supraline">Πρ<choice><orig>o</orig><reg>ό</reg></choice>δ</abbr><ex>ρο</ex><abbr rend="supraline">μ</abbr><ex>ο</ex><abbr rend="supraline">ς</abbr></expan></addName></persName> 
+                       
                 </ab>
             </div>
             <div type="apparatus">
