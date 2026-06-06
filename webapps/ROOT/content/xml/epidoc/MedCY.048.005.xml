@@ -41,7 +41,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p>None</p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +73,7 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>
+              <ab>PENDING
                     <lb n="1"/><g ref="#cross">+</g> <expan><abbr>Ἀνακ</abbr><ex>αι</ex>νί<ex>σ</ex>θη</expan> <expan><abbr rend="supraline">κ</abbr><ex>αὶ</ex></expan> ζ<choice><orig>o</orig><reg>ω</reg></choice>γραφήθη <choice><orig></orig><reg>ὁ</reg></choice>[π]ά̣ν<choice><orig>τ</orig><reg>δ</reg></choice>ημος ναός τοῦ τ<choice><orig>η</orig><reg>ι</reg></choice>μ<choice><orig>ή</orig><reg>ί</reg></choice><hi rend="ligature">ου</hi> <expan><abbr rend="supraline">κ</abbr><ex>αὶ</ex></expan> προσκη
                     <lb n="2" break="no"/><hi rend="ligature">νη</hi>τ<hi rend="ligature">οῦ</hi> <expan><abbr rend="supraline"><hi rend="ligature">στ</hi></abbr><ex>αυροῦ</ex></expan> δ<choice><orig>ï</orig><reg>ι</reg></choice>ὰ σ<choice><orig>υ</orig><reg>η</reg></choice><orig></orig><reg>ν</reg>δρομὴς <expan><abbr rend="supraline">κ</abbr><ex>αὶ</ex></expan> πόθου <persName type="attested" role="priest" ref="#Georgios"><name type="forename" nymRef="#Γεώργιος">Γε<hi rend="ligature">ωρ</hi><unclear>γ</unclear>ί<hi rend="ligature">ου</hi></name></persName> <choice><orig>η</orig><reg>ἱ</reg></choice>ερέος κ<choice><orig>ε</orig><reg>ὲ</reg></choice> <expan><abbr rend="supraline">τ</abbr><ex>ῶν</ex></expan>δ<choice><orig>ε</orig><reg>ὲ</reg></choice> λ<choice><orig>η</orig><reg>οι</reg></choice>π<choice><orig>ὸ</orig><reg>ῶ</reg></choice>ν
                     <lb n="3"/><choice><orig>η</orig><reg>ἱ</reg></choice>ερέ<choice><orig>ο</orig><reg>ω</reg></choice>ν˙κ<choice><orig>ε</orig><reg>αὶ</reg></choice> ὑπε̣ρ̣ χ<choice><orig>ο</orig><reg>ω</reg></choice><hi rend="ligature">ρ<choice><orig>ή</orig><reg>ί</reg></choice></hi>ου <placeName ref="mentioned_places.xml#Pelendri">Πελέ<hi rend="ligature"><choice><orig>τ</orig><reg>νδ</reg></choice>ρ</hi><choice><orig>η</orig><reg>ι</reg></choice>ο<choice><orig></orig><reg>ί</reg></choice><choice><orig>ν</orig><reg></reg></choice></placeName>˙ἐζ<choice><orig>ο</orig><reg>ω</reg></choice>γραφ̣ήθη δε δ<supplied reason="lost">ι</supplied>'
