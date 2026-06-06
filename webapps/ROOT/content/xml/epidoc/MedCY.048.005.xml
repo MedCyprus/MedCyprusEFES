@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved. Faded.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, center</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
@@ -59,7 +59,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc13">Dedicatory</term>
+                    <term type="textType" ref="text_types.xml#doc13">Dedicatory inscription</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publications</creation>
@@ -93,15 +93,13 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>Unpublished</bibl>
-                </listBibl>
-                <bibl><ptr target="bibliography.xml#Stylianou1960"/><citedRange>107-09</citedRange></bibl>
+                <bibl><ptr target="#Stylianou1960"/><citedRange>107-09</citedRange></bibl>
                 <bibl><ptr target="#Papageorgiou2003"/>, <citedRange>111</citedRange></bibl>
                 <bibl><ptr target="#Hadjichristodoulou2005"/>,<citedRange>58-59</citedRange></bibl>
-                <bibl><ptr target="bibliography.xml#Metcalf2009"/><citedRange>227</citedRange></bibl>
-                <bibl><ptr target="bibliography.xmll#Rhoby2009"/><citedRange>367-69</citedRange></bibl>
+                <bibl><ptr target="#Metcalf2009"/><citedRange>227</citedRange></bibl>
+                <bibl><ptr target="#Rhoby2009"/><citedRange>367-69</citedRange></bibl>
                 <bibl><ptr target="#Zarras2010"/>,<citedRange>15?</citedRange></bibl>
-                <bibl><author>Carr </author>in <ptr target="#VisCult"/><citedRange>1, 214-19</citedRange></bibl>
+                <bibl><author>Carr </author>in <ptr target="#VisCult"/> <citedRange>1, 214-19</citedRange></bibl></listBibl>
             </div>
         </body>
     </text>
