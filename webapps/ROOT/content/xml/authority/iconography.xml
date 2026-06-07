@@ -654,6 +654,9 @@
                 <item xml:id="Moses">
                     <term xml:lang="en">Moses</term>
                 </item>
+                <item xml:id="Nahum">
+                    <term xml:lang="en">Nahum</term>
+                </item>
                 <item xml:id="Neophytos">
                     <term xml:lang="en">Neophytos</term>
                 </item>
@@ -752,6 +755,9 @@
                 </item>
                 <item xml:id="Samonas">
                     <term xml:lang="en">Samonas</term>
+                </item>
+                <item xml:id="Samuel">
+                    <term xml:lang="en">Samuel</term>
                 </item>
                 <item xml:id="Sea">
                     <term xml:lang="en">Sea</term>
