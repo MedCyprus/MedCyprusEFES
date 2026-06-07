@@ -1000,6 +1000,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9077</idno>                   
                 </person>
                 
+                <person xml:id="Nahum">
+                    <persName xml:lang="grc">Ναούμ</persName>
+                    <persName xml:lang="en">Nahum</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1981722</idno>                   
+                </person>
+                
                 <person xml:id="Nicholas">
                     <persName xml:lang="grc">Νικόλαος</persName>
                     <persName xml:lang="en">Nicholas</persName>
@@ -1157,6 +1163,12 @@
                     <persName xml:lang="grc">Σαμωνᾶς</persName>
                     <persName xml:lang="en">Samonas</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q59550534</idno>                   
+                </person>
+                
+                <person xml:id="Samuel">
+                    <persName xml:lang="grc">Σαμουήλ</persName>
+                    <persName xml:lang="en">Samuel</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q6577515</idno>                   
                 </person>
                 
                 <person xml:id="Sergios">
