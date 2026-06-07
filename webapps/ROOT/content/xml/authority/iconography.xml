@@ -642,9 +642,12 @@
                 <item xml:id="MenasKallikelados">
                     <term xml:lang="en">Menas Kallikelados</term>
                 </item>
+                <item xml:id="Micah">
+                    <term xml:lang="en">Micah</term>
+                </item>
                 <item xml:id="Michael">
                     <term xml:lang="en">Archangel Michael</term>
-                </item>
+                </item>         
                 <item xml:id="Midwife">
                     <term xml:lang="en">Midwife</term>
                 </item>
@@ -888,6 +891,9 @@
                 </item>
                 <item xml:id="Zenon">
                     <term xml:lang="en">Zenon</term>
+                </item>
+                <item xml:id="Zephaniah">
+                    <term xml:lang="en">Zephaniah</term><!--Σοφονίας-->
                 </item>
                 <item xml:id="Zosimas">
                     <term xml:lang="en">Zosimas</term></item>
