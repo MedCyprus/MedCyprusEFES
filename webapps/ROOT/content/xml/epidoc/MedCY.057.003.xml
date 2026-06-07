@@ -62,7 +62,7 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou)</creation>
+            <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -76,7 +76,7 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>Hetoimasia</p>
@@ -86,7 +86,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>Unpublished</bibl>
+                <bibl><ptr target="#Papageorgiou1999a"/>, <citedRange>150</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
