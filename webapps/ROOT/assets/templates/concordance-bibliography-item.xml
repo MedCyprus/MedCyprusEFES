@@ -38,7 +38,8 @@
           <p><xsl:apply-templates mode="full-citation" select="id($bibl-id)" /></p>
           <table>
             <tr>
-              <td><xsl:value-of select="$title"></xsl:value-of></td><td>MedCyprus</td>
+              <!--<td><b><xsl:value-of select="$title"></xsl:value-of></b></td><td><b>MedCyprus</b></td>-->
+              <td><b>Citations</b></td><td><b>References</b></td>
             </tr>
             <xsl:apply-templates mode="item-display"
               select="/aggregation/response/result/doc[descendant::str[@name='concordance_bibliography_ref' and . = $bibl-id]]" ><xsl:sort select="normalize-space(str[@name='concordance_bibliography_cited_range'])"/></xsl:apply-templates>
