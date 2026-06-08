@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Hetoimasia, John the Forerunner</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>  
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. ΠΡΜOC joined in ligature. Ἰωάννης are abbreviated as with a big line above the word. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Hetoimasia">Hetoimasia, John the Forerunner</rs>
+                                   <rs type="iconography" ref="#prophet"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -72,7 +75,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                 <cb n="a"/>
+                   <lb n="1"/>Ὁ <persName type="sacred" key="JohnForerunner"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>ἁ</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w> 
+                   <lb n="2"/><name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name> 
+                 <cb n="b"/>
+                 <lb n="1"/><choice><orig>ὀ</orig><reg>ὁ</reg></choice> <addName type="epithet" key="Forerunner"><expan><abbr rend="supraline">Πρ</abbr><ex>oδρο</ex><abbr rend="supraline">μ<hi rend="ligature">ος</hi></abbr></expan></addName></persName> 
                  </ab>
             </div>
             <div type="apparatus">
