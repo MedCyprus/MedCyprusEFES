@@ -16,12 +16,12 @@
   <kiln:child>
     <kiln:block name="title">
       <kiln:super/>
-      <i18n:text i18n:key="menu-concordance-bibliography">Bibliographic Concordance</i18n:text>
+      <i18n:text i18n:key="menu-concordance-bibliography">Bibliography</i18n:text>
     </kiln:block>
 
     <kiln:block name="page-heading">
       <kiln:super/>
-      <i18n:text i18n:key="menu-concordance-bibliography">Bibliographic Concordance</i18n:text>
+      <i18n:text i18n:key="menu-concordance-bibliography">Bibliography</i18n:text>
     </kiln:block>
 
     <kiln:block name="content">

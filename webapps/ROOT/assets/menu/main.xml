@@ -10,6 +10,8 @@
   </menu>
   <menu label="Inscriptions" match="local-epidoc-index-display"
         i18n:key="menu-inscriptions" />
+  <menu label="Locations" match="local-index-display-html"
+    i18n:key="menu-locations" params="epidoc locations"/>
   <menu label="Indices" match="local-indices-type-display" params="epidoc">
     <item label="Abbreviations" match="local-index-display-html" params="epidoc abbreviation"/>
     <item label="Epithets" match="local-index-display-html" params="epidoc epithets"/>
@@ -17,7 +19,7 @@
     <item label="Iconography" match="local-index-display-html" params="epidoc iconography"/> 
     <!--<item label="Fragments" match="local-index-display-html" params="epidoc fragment"/>-->
     <item label="Ligatures" match="local-index-display-html" params="epidoc ligature"/> 
-    <item label="Locations" match="local-index-display-html" params="epidoc locations"/>
+  <!--  <item label="Locations" match="local-index-display-html" params="epidoc locations"/>-->
     <item label="Numerals" match="local-index-display-html" params="epidoc numeral"/>
     <item label="Offices, Dignities, Honorifics and Occupations" match="local-index-display-html" params="epidoc offices" />
     <item label="Personal Names" match="local-index-display-html" params="epidoc person_name"/>
@@ -29,7 +31,7 @@
    
   <!--<item label="Words" match="local-index-display-html" params="epidoc word"/>-->
   </menu>
-  <menu label="Bibliographic concordances" i18n:key="menu-concordance-bibliography" match="local-concordance-bibliography"/>
+  <menu label="Bibliography" i18n:key="menu-concordance-bibliography" match="local-concordance-bibliography"/>
   <menu label="Search" match="local-search" i18n:key="menu-search" />
   <menu label="Admin" language="" match="local-admin-home-page" i18n:key="menu-admin" />
 </root>
