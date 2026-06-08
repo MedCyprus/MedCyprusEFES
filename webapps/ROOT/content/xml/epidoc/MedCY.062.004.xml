@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Verse inscription</title>
+                <title>Dedicatory verse inscription</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>Black majuscule letters against yellow background. Mu with the central strokes reminiscent of an upsilon on a stem. OY and TH joined in ligature.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p>None</p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -59,19 +60,19 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc7">Hymnographical citation</term>
+                    <term type="textType" ref="text_types.xml#doc13">Dedicatory verse inscription</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publications, archival photos (Archbishopric of Cyprus, Athanasios Papageorgiou Photographic Archive; Department of Antiquities, Cyprus, Photographic Archive)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="062-004-01.JPG"><desc>Verse inscription, inscription (© Archbishopric of Cyprus, Athanasios Papageorgiou Photographic Archive)</desc></graphic>
-        <graphic url="062-004-02.JPG"><desc>Verse inscription, general view (© Archbishopric of Cyprus, Athanasios Papageorgiou Photographic Archive)</desc></graphic>
-        <graphic url="062-004-03.JPG"><desc>Verse inscription, inscription (© Department of Antiquities, Cyprus)</desc></graphic>
-        <graphic url="062-004-04.JPG"><desc>Verse inscription, inscription (© Department of Antiquities, Cyprus)</desc></graphic>
-        <graphic url="062-004-05.JPG"><desc>Verse inscription, general view (© Archbishopric of Cyprus, Athanasios Papageorgiou Photographic Archive)</desc></graphic>
-        <graphic url="062-004-06.JPG"><desc>Verse inscription, general view (© Archbishopric of Cyprus, Athanasios Papageorgiou Photographic Archive)</desc></graphic>
+         <graphic rend="primary" url="062-004-01.jpg"><desc>Verse inscription, inscription (© Archbishopric of Cyprus, Athanasios Papageorgiou Photographic Archive)</desc></graphic>
+        <graphic url="062-004-02.jpg"><desc>Verse inscription, general view (© Archbishopric of Cyprus, Athanasios Papageorgiou Photographic Archive)</desc></graphic>
+        <graphic url="062-004-03.jpg"><desc>Verse inscription, inscription (© Department of Antiquities, Cyprus)</desc></graphic>
+        <graphic url="062-004-04.jpg"><desc>Verse inscription, inscription (© Department of Antiquities, Cyprus)</desc></graphic>
+        <graphic url="062-004-05.jpg"><desc>Verse inscription, general view (© Archbishopric of Cyprus, Athanasios Papageorgiou Photographic Archive)</desc></graphic>
+        <graphic url="062-004-06.jpg"><desc>Verse inscription, general view (© Archbishopric of Cyprus, Athanasios Papageorgiou Photographic Archive)</desc></graphic>
     </facsimile>
     <text>
         <body>

@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Sozomenos</title>
+                <title>The burial of Saint Sozomenos</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -20,24 +21,24 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository ref="locations.xml#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III.</repository>
+                        <repository>n/a</repository>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved. Slightly faded.</rs>
-                                    <rs type="placement-building" ref="#naos">Originally: Naos, north wall, lower register, first figure, left</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, north wall, lower register, eastern side</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the right of the figure's head</layout>
+                                <layout>To the left of the figures</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against brown background. Letter height: <height unit="cm">3-3,5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -46,12 +47,12 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Sozomenos" n="1st">Agios Sozomenos, Saint Sozomenos</origPlace>
-                            <origDate notBefore="0901" notAfter="1000" precision="medium" evidence="artistic-style">10th century</origDate>
+                            <origPlace ref="locations.xml#Sozomenos" n="2nd">Agios Sozomenos, Saint Sozomenos</origPlace>
+                            <origDate notBefore="1001" notAfter="1200" precision="medium" evidence="material-context">Undetermined; prior to the 13th-14th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
-                        <provenance type="observed" resp="#tp">23/06/2022</provenance>
+                        <provenance type="observed" resp="#tp">15/04/2022</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -59,14 +60,15 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                    <term type="textType" ref="text_types.xml#doc19">Biographical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="002-023-01.JPG"><desc>Saint Sozomenos, inscription</desc></graphic>        
+         <graphic rend="primary" url="002-023-01.JPG"><desc>The burial of Saint Sozomenos, inscription</desc></graphic>      
+         <graphic url="002-023-02.JPG"><desc>The burial of Saint Sozomenos, inscription</desc></graphic>  
     </facsimile>
     <text>
         <body>
@@ -79,7 +81,7 @@
                <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Sozomenos</p>
+                <p>Not usefully translated</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>

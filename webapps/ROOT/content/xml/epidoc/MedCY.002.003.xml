@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Archangel Gabriel</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. Gamma with a wavy top bar. AP joined in ligature. The word ἀρχ(άγγελος) is fully rendered by abbreviation. Accents and breathings non systematic.  
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Gabriel">Archangel Gabriel</rs>
+                                <rs type="iconography" ref="#archangel"></rs>
+                                <rs type="iconography" ref="#genderless"></rs>
+                                <rs type="iconography" ref="#dressantique"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -72,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Gabriel"><w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><hi rend="ligature"><hi rend="ligature"><choice><orig>α</orig><reg>ἀ</reg></choice>ρ</hi></hi>χ</abbr><ex>άγγελος</ex></expan></w> <name type="forename" nymRef ="#Γαβριήλ">Γαβρι<choice><orig>ὴ</orig><reg>ή</reg></choice>λ</name></persName>  
                  </ab>
             </div>
             <div type="apparatus">

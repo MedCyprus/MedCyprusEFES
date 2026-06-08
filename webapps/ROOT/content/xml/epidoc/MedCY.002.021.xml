@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Sozomenos healing the men suffering from fever</title>
+                <title>Saint Sozomenos heals the sick, the sick at his feet</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -27,17 +28,17 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, north wall, upper register, east</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved. Slightly exfoliated.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, north wall, upper register, west</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>At the top of the scene</layout>
+                                <layout>Above the figures</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. Omega with its apex surmounted by a crosslet. Mu with the central strokes reminiscent of a tau. Tau with a top bar terminating in serifs at either end and with its stem crossed at mid-height. NN, TH, HN, AΓ, and OY joined in ligature. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -66,7 +67,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="002-021-01.JPG"><desc>Saint Sozomenos healing the men suffering from fever, inscription</desc></graphic>        
+         <graphic rend="primary" url="002-021-01.JPG"><desc>Saint Sozomenos heals the sick, the sick at his feet, inscription</desc></graphic>        
     </facsimile>
     <text>
         <body>
@@ -79,14 +80,14 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Saint Sozomenos heals the men suffering from fever</p>
+                <p>PENDING</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Papageorgiou1999b"/>, <citedRange>51</citedRange></bibl>
+                <bibl><ptr target="#Papageorgiou1999b"/>, <citedRange>50-51</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

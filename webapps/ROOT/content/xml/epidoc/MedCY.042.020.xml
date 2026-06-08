@@ -30,7 +30,7 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, east wall, south half, lower register</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><width unit="cm">18,5</width></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against red background. Character size varies. Nu with its central bar forms a diagonal line. Accents and breathings non systematic.
+                            <handNote>White majuscule letters against red background. Character size varies. Nu with its central bar forms a diagonal line. Accents and breathings non systematic. Letter height: <height unit="cm">3-5</height>    
                             </handNote>
                         </handDesc>
                          <decoDesc>

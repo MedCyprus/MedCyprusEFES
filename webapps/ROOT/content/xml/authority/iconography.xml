@@ -286,7 +286,7 @@
                     <term xml:lang="en">Arsenios</term>
                 </item>
                 <item xml:id="Artemios">
-                    <term xml:lang="en">Ἀρτέμιος</term>
+                    <term xml:lang="en">Artemios</term>
                 </item>
                 <item xml:id="Athanasia">
                     <term xml:lang="en">Athanasia</term>
@@ -335,6 +335,9 @@
                 </item>
                 <item xml:id="ChristEnthroned">
                     <term xml:lang="en">Enthroned Christ</term>
+                </item>
+                <item xml:id="ChristEvergetes">
+                    <term xml:lang="en">Christ Evergetes</term>
                 </item>
                 <item xml:id="ChristPantokrator">
                     <term xml:lang="en">Christ Pantokrator</term>
@@ -639,14 +642,20 @@
                 <item xml:id="MenasKallikelados">
                     <term xml:lang="en">Menas Kallikelados</term>
                 </item>
+                <item xml:id="Micah">
+                    <term xml:lang="en">Micah</term>
+                </item>
                 <item xml:id="Michael">
                     <term xml:lang="en">Archangel Michael</term>
-                </item>
+                </item>         
                 <item xml:id="Midwife">
                     <term xml:lang="en">Midwife</term>
                 </item>
                 <item xml:id="Moses">
                     <term xml:lang="en">Moses</term>
+                </item>
+                <item xml:id="Nahum">
+                    <term xml:lang="en">Nahum</term>
                 </item>
                 <item xml:id="Neophytos">
                     <term xml:lang="en">Neophytos</term>
@@ -746,6 +755,9 @@
                 </item>
                 <item xml:id="Samonas">
                     <term xml:lang="en">Samonas</term>
+                </item>
+                <item xml:id="Samuel">
+                    <term xml:lang="en">Samuel</term>
                 </item>
                 <item xml:id="Sea">
                     <term xml:lang="en">Sea</term>
@@ -885,6 +897,9 @@
                 </item>
                 <item xml:id="Zenon">
                     <term xml:lang="en">Zenon</term>
+                </item>
+                <item xml:id="Zephaniah">
+                    <term xml:lang="en">Zephaniah</term><!--Σοφονίας-->
                 </item>
                 <item xml:id="Zosimas">
                     <term xml:lang="en">Zosimas</term></item>

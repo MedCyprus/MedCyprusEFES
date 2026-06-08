@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Hetoimasia</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>  
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Mu with the central strokes reminiscent of an upsilon on a stem. Tau with a top bar terminating in serifs at either end. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Angels_Hetoimasia">Angels adoring the Hetoimasia, the Hetoimasia in a medallion</rs>
+                                <rs type="iconography" ref="#Hetoimasia"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -72,7 +74,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                  <lb n="1"/><supplied reason="lost">Ἡ</supplied> <w lemma="ἑτοιμασία"><choice><orig>E</orig><reg>Ἑ</reg></choice>τοιμα<space quantity="1" unit="character"/>
+σία</w>                       
                  </ab>
             </div>
             <div type="apparatus">

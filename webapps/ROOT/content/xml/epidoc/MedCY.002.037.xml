@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Paul, monastic saint</title>
+                <title>Saint Jason</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -27,8 +28,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, west wall, northern end, lower register, first figure on the left</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, north wall, recessed surface of the niche above the tomb, first figure on the right</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -37,17 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. OC joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">3,5-4,5</height>  
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#PaulTheSimple">Possibly Paul the Simple; other alternatives Paul the Younger of Latros, Paul of Xeropotamou</rs>
-                                  <rs type="iconography" ref="#PaulTheYoungerLatros"></rs>
-                                  <rs type="iconography" ref="#PaulOfXeropotamou"></rs>
-                                  <rs type="iconography" ref="#ascetic"></rs>
-                                  <rs type="iconography" ref="#monastic"></rs>
-                                  <rs type="iconography" ref="#male"></rs>
-                            </p>
+                            <p><rs type="iconography" ref="#Jason">Jason</rs>
+                                   <rs type="iconography" ref="#monastic"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -68,32 +65,38 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou)</creation>
+            <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="002-037-01.JPG"><desc>Saint Paul, monastic saint, inscription</desc></graphic>  
-         <graphic url="002-037-02.JPG"><desc>Saint Paul, monastic saint, inscription detail</desc></graphic>      
+         <graphic rend="primary" url="002-037-01.jpg"><desc>Saint Jason, inscription</desc></graphic>        
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                   <lb n="1"/>Ὁ 
+                  <lb n="2"/><persName type="sacred" key="Jason"><w lemma="ἅγιος">ἅγι
+                   <lb n="3" break="no"/><hi rend="ligature">ος</hi></w>
+                  <cb n="b"/>
+                    <lb n="1"/><name type="forename" nymRef="#Ἰάσων"><choice><sic>Ἠ
+                    <lb n="2" break="no"/><choice><orig>α</orig><reg>ά</reg></choice>
+                    <lb n="3" break="no"/>σoν</sic><corr>Ἰάσων</corr></choice></name></persName>  
                  </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>[Saint] Paul</p>
+                <p>Saint Jason</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>Unpublished</bibl>
+                <bibl><ptr target="#Papageorgiou1999b"/>, <citedRange>51</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

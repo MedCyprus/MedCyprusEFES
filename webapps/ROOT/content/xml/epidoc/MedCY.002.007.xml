@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Spyridon's scroll</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -29,7 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially damaged.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, carved apse, lower register, first figure on the left</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>21</height><width>9</width></dimensions> 
+                                    <dimensions unit="cm" scope="scroll"><height>35</height><width>12</width></dimensions>  
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -37,11 +39,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>Black majuscule letters against white background. Character size varies. Omega with its apex surmounted by a crosslet. Mu with the central strokes reminiscent of an upsilon on a crossed stem. OY and AN joined in ligature. Wavy, horizontal abbreviation mark above the characters ΘC. Letter height: <height unit="cm">4-4,5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Spyridon">Spyridon</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                             <rs type="iconography" ref="#scroll"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

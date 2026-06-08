@@ -1680,7 +1680,7 @@
                         <bibl><ptr target="bibliography.xml#WeylCarrMorrocco1991"/></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>492-95</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gkioles2003"/><citedRange>170</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange>168-69</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2003"/><citedRange>114</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>652</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Procopiou2007"/><citedRange>55-64</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>235-40</citedRange></bibl>
@@ -2116,7 +2116,7 @@
                     <desc type="architectural">Form of original single-aisled church uncertain; currently, a domed-hall church, incororating the apse and lower parts of the naos walls of the 12th-century structure (late 13th/early 14th century), flanked by "chapels"/aisles to the south (late 13th/early 14th century) and the north (14th century) that were expanded to their present width in the 15th/16th century.</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date when="1178" evidence="internal-date">1178</date> (bema: apse)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</date> (bema: east wall to the south of the apse; south aisle: north wall)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</date> (bema: east wall north and south of the apse; south aisle: north wall)</desc>
                         <desc type="layer" n="3">3rd layer: <date notBefore="1335" notAfter="1350" precision="medium" evidence="artistic-style" source="bibliography.xml#Zarras2010">Zarras: second quarter of 14th century</date>; <date notBefore="1351" notAfter="1375" precision="medium" evidence="artistic-style" source="bibliography.xml#Hadjichristodoulou2005">Hadjichristodoulou: third quarter of 14th century</date> (bema; dome; naos)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1351" notAfter="1375" precision="medium" evidence="artistic-style prosopography">3rd quarter of the 14th century</date> (north aisle)</desc>
                         <desc type="layer" n="5">5th layer: <date notBefore="1301" notAfter="1500" precision="medium" evidence="artistic-style">14th - 15th century</date> (south aisle: west wall)</desc>

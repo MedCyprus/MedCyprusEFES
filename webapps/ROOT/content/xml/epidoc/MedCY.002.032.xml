@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Agapios</title>
+                <title>Male monastic saint, unidentified</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +29,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, north wall, recessed surface of the niche above the tomb, first figure on the left</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, north wall, lower register, next to Saint Jason</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -37,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#unidentified_figure">Male saint, unidentified</rs>
+                                      </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -62,33 +64,38 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publication</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="002-032-01.JPG"><desc>Saint Agapios, inscription</desc></graphic> 
-         <graphic url="002-032-02.JPG"><desc>Saint Agapios, inscription detail</desc></graphic>   
-         <graphic url="002-032-03.JPG"><desc>Saint Agapios, inscription detail</desc></graphic>    
+         <graphic rend="primary" url="002-032-01.JPG"><desc>Male monastic saint, unidentified, inscription</desc></graphic>        
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                 <cb n="a"/>
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied>
+                  <lb n="2"/><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
+                   <lb n="3" break="no"/>γι
+                  <lb n="4" break="no"/>ο
+                   <lb n="5" break="no"/>ς</w>
+                  <cb n="b"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Saint Agapios</p>
+                <p>Saint [..?..]</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Papageorgiou1999b"/>, <citedRange>51</citedRange></bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

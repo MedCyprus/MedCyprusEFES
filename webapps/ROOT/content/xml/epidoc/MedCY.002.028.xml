@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Agapios</title>
+                <title>Saint Ariston</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -20,38 +21,40 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>n/a</repository>
+                        <repository ref="locations.xml#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III.</repository>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, north wall, lower register, first figure, left</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved. Faded.</rs>
+                                    <rs type="placement-building" ref="#naos">Originally: Naos, north wall, lower register, next to St. Agapios</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the figure's head</layout>
+                                <layout>To the right of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. CT joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">2</height>  
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Ariston">Ariston</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                                <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Sozomenos" n="3rd">Agios Sozomenos, Saint Sozomenos</origPlace>
-                            <origDate notBefore="1201" notAfter="1350" precision="medium" evidence="artistic-style">13th-14th century, first half (?)</origDate>
+                            <origPlace ref="locations.xml#Sozomenos" n="1st">Agios Sozomenos, Saint Sozomenos</origPlace>
+                            <origDate notBefore="0901" notAfter="1000" precision="medium" evidence="artistic-style">10th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
-                        <provenance type="observed" resp="#tp">15/04/2022</provenance>
+                        <provenance type="observed" resp="#tp">23/06/2022</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -66,20 +69,22 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="002-028-01.JPG"><desc>Saint Agapios, inscription</desc></graphic>        
+         <graphic rend="primary" url="002-028-01.JPG"><desc>Saint Ariston, inscription</desc></graphic>        
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Ariston"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice>γ</abbr><ex>ιος</ex></expan></w>
+                  <lb n="2"/><name nymRef ="#Ἀριστων" type="forename"><choice><orig>A</orig><reg>Ἀ</reg></choice>ρι
+                   <lb n="3" break="no"/><hi rend="ligature">στ</hi>ων</name></persName>    
                  </ab>
             </div>
             <div type="apparatus">
                <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Saint Agapios</p>
+                <p>Saint Ariston</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>

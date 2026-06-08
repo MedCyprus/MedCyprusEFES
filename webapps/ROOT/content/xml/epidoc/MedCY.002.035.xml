@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Sozomenos</title>
+                <title>Saint Galaktion</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,7 +29,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, north wall, recessed surface of the niche above the tomb, second figure on the right</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, north wall, recessed surface of the niche above the tomb, middle figure</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. AΓ joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">3-4</height>  
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Galaktion">Galaktion</rs>
+                                   <rs type="iconography" ref="#monastic"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,21 +69,30 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="002-035-01.JPG"><desc>Saint Sozomenos, inscription</desc></graphic> 
-         <graphic url="002-035-02.JPG"><desc>Saint Sozomenos, inscription</desc></graphic>       
+         <graphic rend="primary" url="002-035-01.jpg"><desc>Saint Galaktion, inscription</desc></graphic> 
+         <graphic url="002-035-02.JPG"><desc>Saint Galaktion, inscription detail</desc></graphic>   
+         <graphic url="002-035-03.JPG"><desc>Saint Galaktion, inscription detail</desc></graphic>    
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                  <cb n="a"/>
+                   <lb n="1"/>Ὁ 
+                  <lb n="2"/><persName type="sacred" key="Galaktion"><w lemma="ἅγιος"><hi rend="ligature"><choice><orig>α</orig><reg>ἅ</reg></choice>γ</hi>ι
+                  <lb n="3" break="no"/>ος</w>
+                  <cb n="b"/>  
+                  <lb n="1"/><name type="forename" nymRef="#Γαλακτίων"><choice><sic>Γα
+                 <lb n="3" break="no"/>λα
+                  <lb n="4" break="no"/>κτ<choice><orig>ı</orig><reg>ί</reg></choice>
+                  <lb n="5" break="no"/>ον</sic><corr>Γαλακτίων</corr></choice></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
                <p>n/a</p>
             </div>
             <div type="translation">
-                <p>[Saint] Sozomenos</p>
+                <p>Saint Galaktion</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>

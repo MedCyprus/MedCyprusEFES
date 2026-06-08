@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Sozomenos' burial</title>
+                <title>Saint Sozomenos healing the men suffering from fever</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -27,17 +28,17 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, north wall, lower register, eastern side</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, north wall, upper register, east</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>To the left of the figures</layout>
+                                <layout>At the top of the scene</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. Omega with its apex surmounted by a crosslet. Mu with the central strokes reminiscent of an upsilon on a stem. Tau with a top bar terminating in serifs at either end. AΓ, OC, OY, and ΠΥ joined in ligature. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -46,8 +47,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Sozomenos" n="2nd">Agios Sozomenos, Saint Sozomenos</origPlace>
-                            <origDate notBefore="1001" notAfter="1200" precision="medium" evidence="material-context">Undetermined; prior to the 13th-14th century</origDate>
+                            <origPlace ref="locations.xml#Sozomenos" n="3rd">Agios Sozomenos, Saint Sozomenos</origPlace>
+                            <origDate notBefore="1201" notAfter="1350" precision="medium" evidence="artistic-style">13th-14th century, first half (?)</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
@@ -62,11 +63,11 @@
                     <term type="textType" ref="text_types.xml#doc19">Biographical</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou)</creation>
+            <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="002-022-01.JPG"><desc>Saint Sozomenos' burial, inscription</desc></graphic>        
+         <graphic rend="primary" url="002-022-01.JPG"><desc>Saint Sozomenos healing the men suffering from fever, inscription</desc></graphic>        
     </facsimile>
     <text>
         <body>
@@ -76,17 +77,17 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Not usefully translated</p>
+                <p>Saint Sozomenos heals the men suffering from fever</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>Unpublished</bibl>
+                <bibl><ptr target="#Papageorgiou1999b"/>, <citedRange>51</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Jason</title>
+                <title>Saint Sozomenos</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -27,8 +28,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Originally: Naos, north wall, lower register, second figure, left</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved. Slightly faded.</rs>
+                                    <rs type="placement-building" ref="#naos">Originally: Naos, north wall, lower register, first figure, left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. OC joined in ligature. Accents and breathings systematic. Letter height: <height unit="cm">2-3</height>  
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Sozomenos">Sozomenos</rs>
+                                   <rs type="iconography" ref="#ascetic"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,24 +69,27 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="002-024-01.JPG"><desc>Saint Jason, inscription</desc></graphic>   
-         <graphic url="002-024-02.JPG"><desc>Saint Jason, inscription</desc></graphic>     
+         <graphic rend="primary" url="002-024-01.JPG"><desc>Saint Sozomenos, inscription</desc></graphic>        
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                    <lb n="1"/><persName type="sacred" key="Sozomenos"><name type="forename" nymRef="#Σωζόμενος"><choice><sic>Σo
+                    <lb n="2" break="no"/>ζώ
+                    <lb n="3" break="no"/>με
+                   <lb n="4" break="no"/>ν
+                   <lb n="5" break="no"/><hi rend="ligature">ος</hi></sic><corr>Σωζόμενος</corr></choice></name></persName>    
                  </ab>
             </div>
             <div type="apparatus">
                <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Saint Jason</p>
+                <p>Sozomenos</p>
             </div>
             <div type="commentary">
-                <p>The transformation of ΙΑCΟΝ into ΑΓΙΑCON is highly plausible, especially if the development followed the sequence: Ἅγιος Ἰάσων, Ἅη Ἰάσων, Ἁ(γ) Ἰάσων, particularly as a way of avoiding the repetition / alliteration of the /ι/ sound.</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>

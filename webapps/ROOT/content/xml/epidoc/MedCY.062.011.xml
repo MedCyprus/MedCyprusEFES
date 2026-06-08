@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Song of Moses</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,15 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. Omega with its apex surmounted by a crosslet and semicircular dots stuck on its circular walls. Horizontal overline abbreviation mark above ΘΥ.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Angels_Hetoimasia">Agels adoring the Hetoimasia</rs>
+                                <rs type="iconography" ref="#Hetoimasia"></rs>
+                                <rs type="iconography" ref="#angel"></rs>                             
+                                <rs type="iconography" ref="#dressantique"></rs>
+                                <rs type="iconography" ref="#vision"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

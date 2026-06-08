@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Galaktion</title>
+                <title>Saint Ariston</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -27,8 +28,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, north wall, recessed surface of the niche above the tomb, middle figure</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, north wall, recessed surface of the niche above the tomb, second figure on the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. CT joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">3-4</height>  
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Ariston">Ariston</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                                <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -62,33 +65,39 @@
                     <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou)</creation>
+            <creation>transcription (Th. Petrou), publication?</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="002-034-01.jpg"><desc>Saint Galaktion, inscription</desc></graphic> 
-         <graphic url="002-034-02.JPG"><desc>Saint Galaktion, inscription detail</desc></graphic>   
-         <graphic url="002-034-03.JPG"><desc>Saint Galaktion, inscription detail</desc></graphic>    
+         <graphic rend="primary" url="002-034-01.JPG"><desc>Saint Ariston, inscription</desc></graphic> 
+         <graphic url="002-034-02.JPG"><desc>Saint Ariston, inscription detail</desc></graphic>   
+         <graphic url="002-034-03.JPG"><desc>Saint Ariston, inscription detail</desc></graphic>    
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Ariston"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice>γι</abbr><ex>ος</ex></expan></w>
+                  <cb n="b"/>
+                    <lb n="1"/><name type="forename" nymRef="#Ἀριστων">Ἀ
+                    <lb n="2" break="no"/>ρ<choice><orig>ί</orig><reg>ι</reg></choice>
+                     <lb n="3" break="no"/><hi rend="ligature">στ</hi><supplied reason="omitted">ων</supplied> 
+                    </name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Saint Galaktion</p>
+                <p>Saint Ariston</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>Unpublished</bibl>
+                <bibl><ptr target="#Papageorgiou1999b"/>, <citedRange>51</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

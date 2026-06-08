@@ -30,7 +30,7 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, north recess, lunette, east</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>16</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. Character size varies. Alpha with its apex terminating in a serif to the left. CT joined in ligature. Accents and breathings non systematic. 
+                            <handNote>White majuscule letters against blue background. Character size varies. Alpha with its apex terminating in a serif to the left. CT joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">2,5-5</height>  
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -77,9 +77,9 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <cb n="a"/>
-                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Philagrios"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Ariston"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
                    <cb n="b"/>              
-                  <lb n="1"/><name nymRef ="#Φιλάγριος" type="forename">Ἀ
+                  <lb n="1"/><name nymRef ="#Ἀριστων" type="forename">Ἀ
                    <lb n="2" break="no"/>ρ<choice><orig>ί</orig><reg>ι</reg></choice>
                   <lb n="3" break="no"/><hi rend="ligature">στ</hi>ων</name></persName>    
                  </ab>

@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Christ's codex</title>
+                <title>Saint Paul of Thebes</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -27,21 +28,25 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, east wall, lower register</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, west wall, northern end, lower register, first figure on the right</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the open codex held in the left hand by Christ</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. AΓ, AY, and OC joined in ligature. Accents and breathings nonsystematic. Letter height: <height unit="cm">3,5-4</height>  
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#PaulOfThebes">Saint Paul of Thebes</rs>
+                                 
+                                  <rs type="iconography" ref="#ascetic"></rs>
+                                
+                                  <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -59,28 +64,39 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
+                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="002-040-01.JPG"><desc>Christ's codex, inscription</desc></graphic>  
-         <graphic url="002-040-02.JPG"><desc>Christ's codex, general view</desc></graphic>      
+         <graphic rend="primary" url="002-040-01.JPG"><desc>Saint Paul of Thebes, inscription</desc></graphic>  
+         <graphic url="002-040-02.JPG"><desc>Saint Paul of Thebes, inscription detail</desc></graphic>
+         <graphic url="002-040-03.JPG"><desc>Saint Paul of Thebes, inscription detail</desc></graphic>      
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                  <cb n="a"/> 
+               <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice> 
+                <lb n="2"/><persName type="sacred" key="PaulOfThebes"><w lemma="ἅγιος"><hi rend="ligature">ἅγ</hi>ι
+                 <lb n="3" break="no"/><hi rend="ligature">ος</hi></w>
+                <cb n="b"/> 
+                 <lb n="1"/><name type="forename" nymRef="#Παῦλος">Π<hi rend="ligature">α<choice><orig>ὐ</orig><reg>ῦ</reg></choice></hi>
+                 <lb n="2" break="no"/>λ<hi rend="ligature">ος</hi></name>    
+                <lb n="3"/><choice><orig>o</orig><reg>ὁ</reg></choice> 
+                 <lb n="4"/><placeName ref="mentioned_places.xml#Thebes"><addName type="epithet" key="Thebes"><choice><sic>Θη
+                  <lb n="5" break="no"/>βε
+                     <lb n="6" break="no"/><hi rend="ligature">ος</hi></sic><corr>Θηβαῖος</corr></choice></addName></placeName></persName>    
                  </ab>
             </div>
             <div type="apparatus">
                <p>n/a</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Saint Paul of Thebes</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>

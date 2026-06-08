@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Bishop of Kition accompanied by a group of figures, in conversation with Saint Sozomenos (?)</title>
+                <title>Biographical cycle of Saint Sozomenos, unidentified scene involving the bishop of Kition</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -66,8 +67,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="002-015-01.JPG"><desc>Bishop of Kition accompanied by a group of figures, in conversation with Saint Sozomenos (?), inscription</desc></graphic>     
-        <graphic url="002-015-02.JPG"><desc>Bishop of Kition accompanied by a group of figures, in conversation with Saint Sozomenos (?), inscription</desc></graphic>   
+         <graphic rend="primary" url="002-015-01.JPG"><desc>Biographical cycle of Saint Sozomenos, unidentified scene involving the bishop of Kition, inscription</desc></graphic>     
+        <graphic url="002-015-02.JPG"><desc>Biographical cycle of Saint Sozomenos, unidentified scene involving the bishop of Kition, inscription</desc></graphic>   
     </facsimile>
     <text>
         <body>

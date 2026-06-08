@@ -289,12 +289,6 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q8413</idno>                   
                 </person>
                 
-                <person xml:id="Cosmas">
-                    <persName xml:lang="grc">Κοσμᾶς</persName>
-                    <persName xml:lang="en">Cosmas</persName>
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q76486</idno>                   
-                </person>
-                
                 <person xml:id="Christopher">
                     <persName xml:lang="grc">Χριστοφόρος</persName>
                     <persName xml:lang="en">Christopher</persName>
@@ -668,6 +662,10 @@
                     <persName xml:lang="en">Jesus</persName>
                     <persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="Christ">Χριστός</persName>
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="Christ">Christ</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Antiphonetes">Ἀντιφωνητής</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Antiphonetes">Antiphonetes</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Evergetes">Εὐεργέτις</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Evergetes">Evergetes</persName>
                     <!--><persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="SonofGod">Υἱὸς Θεοῦ</persName>
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="SonofGod">Son of God</persName>-->
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q302</idno>
@@ -784,6 +782,12 @@
                     <persName xml:lang="en">King of Glory</persName>
                     <idno type="wikidata">Not listed</idno>
                     <note>See also: Christ, Jesus Christ, Word, Master</note>
+                </person>
+                
+                <person xml:id="Kosmas">
+                    <persName xml:lang="grc">Κοσμᾶς</persName>
+                    <persName xml:lang="en">Kosmas</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q76486</idno>                   
                 </person>
                 
                 <person xml:id="KosmasPoet">
@@ -972,6 +976,12 @@
                     <note>See also: Theotokos, Virgin, Maria</note>
                 </person>
                 
+                <person xml:id="Micah">
+                    <persName xml:lang="grc">Μιχαίας</persName>
+                    <persName xml:lang="en">Micah</persName>   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2804969</idno>                   
+                </person>
+                
                 <person xml:id="Michael">
                     <persName xml:lang="grc">Μιχαήλ</persName>
                     <persName xml:lang="en">Michael</persName>   
@@ -988,6 +998,12 @@
                     <persName xml:lang="grc">Μωυσῆς</persName>
                     <persName xml:lang="en">Moses</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9077</idno>                   
+                </person>
+                
+                <person xml:id="Nahum">
+                    <persName xml:lang="grc">Ναούμ</persName>
+                    <persName xml:lang="en">Nahum</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1981722</idno>                   
                 </person>
                 
                 <person xml:id="Nicholas">
@@ -1147,6 +1163,12 @@
                     <persName xml:lang="grc">Σαμωνᾶς</persName>
                     <persName xml:lang="en">Samonas</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q59550534</idno>                   
+                </person>
+                
+                <person xml:id="Samuel">
+                    <persName xml:lang="grc">Σαμουήλ</persName>
+                    <persName xml:lang="en">Samuel</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q6577515</idno>                   
                 </person>
                 
                 <person xml:id="Sergios">
@@ -1418,6 +1440,12 @@
                     <persName xml:lang="en">Zechariah</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q604259</idno>
                     <note>for the Old Testament prophet</note>              
+                </person>
+                
+                <person xml:id="Zephaniah">
+                    <persName xml:lang="grc">Σοφονίας</persName>
+                    <persName xml:lang="en">Zephaniah</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1761359</idno>                   
                 </person>
                 
                 <person xml:id="Zosimas">
