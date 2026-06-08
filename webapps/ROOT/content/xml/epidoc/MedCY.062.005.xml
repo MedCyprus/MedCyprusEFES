@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background.
+                            <handNote>White majuscule letters against blue background. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -77,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/><supplied reason="lost">Ἡ</supplied> <w lemma="ἀνάληψις"><choice><orig>α</orig><reg>ἀ</reg></choice>ν<choice><orig>α</orig><reg>ά</reg></choice>λη<supplied reason="lost">ψις</supplied></w>                 
                  </ab>
             </div>
             <div type="apparatus">
