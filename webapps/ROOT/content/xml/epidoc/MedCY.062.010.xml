@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Christ Pantokrator, The All-Seeing from on High</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,15 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>Black majuscule letters against yellow background. Character size varies. Tau with its stem crossed at mid-height
+Tau with a top bar terminating in serifs at either end and with its stem crossed at mid-height. Pi with a dot on its horizontal bar. Omega with its apex surmounted by a crosslet and semicircular dots stuck on its circular walls. Upsilon on a crossed stem. OY and TW joined in ligature. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#ChristPantokrator">Christ Pantokrator</rs>
+                             
+                             <rs type="iconography" ref="#divine"></rs>
+                             <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
