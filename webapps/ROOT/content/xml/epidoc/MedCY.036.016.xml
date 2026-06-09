@@ -81,7 +81,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/><g ref="#cross">+</g><persName type="divine" key="Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύρι</ex><abbr rend="supraline">ε</abbr></expan></w></persName> ὁ <persName type="divine" key="God"><w lemma="Θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></w></persName> <w lemma="ἐγώ"><choice><orig>ή</orig><reg>ἡ</reg></choice>
+                    <lb n="1"/><g ref="#cross">+</g><persName type="divine" key="Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύρι</ex><abbr rend="supraline">ε</abbr></expan></w></persName> ὁ <persName type="divine" key="God"><w lemma="θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εό</ex><abbr rend="supraline">ς</abbr></expan></w></persName> <w lemma="ἐγώ"><choice><orig>ή</orig><reg>ἡ</reg></choice>
                   <lb n="2" break="no"/>μῶν</w> <w lemma="σῴζω">σῶσον</w>
                   <lb n="3"/>τὸν <w lemma="λαός">λαόν</w> <w lemma="σύ">σ<hi rend="ligature">ου</hi></w>
                   <lb n="4"/>καὶ <w lemma="εὐλογῶ"><hi rend="ligature">εὐ</hi>λόγη
