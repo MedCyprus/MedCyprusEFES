@@ -82,7 +82,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <cb n="a"/>
-                  <lb n="1"/><choice><orig>H</orig><reg>Ἡ</reg></choice> <persName type="sacred" key="Paraskeve"><w lemma="ἁγία"><choice><orig>Α</orig><reg>Ἁ</reg></choice>γ<choice><orig>ι</orig><reg>ί</reg></choice>α</w> 
+                  <lb n="1"/><choice><orig>H</orig><reg>Ἡ</reg></choice> <persName type="sacred" key="Paraskeve"><w lemma="ἅγιος"><choice><orig>Α</orig><reg>Ἁ</reg></choice>γ<choice><orig>ι</orig><reg>ί</reg></choice>α</w> 
                       <cb n="b"/>
                       <lb n="1"/><name type="forename" nymRef="#Παρασκευή"><choice><sic>Παρασκεβ<choice><orig>η</orig><reg>ή</reg></choice></sic><corr>Παρασκευή</corr></choice></name></persName>
               </ab>
