@@ -8,16 +8,16 @@
     <item label="Sponsors" match="local-tei-display-html" params="sponsors"/>
     <item label="Contact" match="local-tei-display-html" params="contact"/>
   </menu>
-  <menu label="Inscriptions" match="local-epidoc-index-display"
-        i18n:key="menu-inscriptions" />
   <menu label="Locations" match="local-index-display-html"
     i18n:key="menu-locations" params="epidoc locations"/>
+  <menu label="Inscriptions" match="local-epidoc-index-display"
+        i18n:key="menu-inscriptions" />
   <menu label="Indices" match="local-indices-type-display" params="epidoc">
     <item label="Abbreviations" match="local-index-display-html" params="epidoc abbreviation"/>
     <item label="Epithets" match="local-index-display-html" params="epidoc epithets"/>
     <item label="Greek Words" match="local-index-display-html" params="epidoc lemma"/>
-    <item label="Iconography" match="local-index-display-html" params="epidoc iconography"/> 
-    <!--<item label="Fragments" match="local-index-display-html" params="epidoc fragment"/>-->
+    <!--<item label="Iconography" match="local-index-display-html" params="epidoc iconography"/> 
+    <item label="Fragments" match="local-index-display-html" params="epidoc fragment"/>-->
     <item label="Ligatures" match="local-index-display-html" params="epidoc ligature"/> 
   <!--  <item label="Locations" match="local-index-display-html" params="epidoc locations"/>-->
     <item label="Numerals" match="local-index-display-html" params="epidoc numeral"/>
