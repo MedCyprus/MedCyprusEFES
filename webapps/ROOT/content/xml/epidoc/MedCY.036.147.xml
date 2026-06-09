@@ -77,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><g ref="#cross">+</g>ἡ <persName type="sacred" key="Anna"><w lemma="ἁγία"><expan><abbr rend="supraline">ἁγ</abbr><ex>ία</ex></expan></w> <name nymRef ="#Ἄννα" type="forename"><choice><orig>Α</orig><reg>Ἄ</reg></choice><hi rend="ligature">νν</hi>α</name></persName><g ref="#cross">+</g>
+                   <lb n="1"/><g ref="#cross">+</g>ἡ <persName type="sacred" key="Anna"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἁγ</abbr><ex>ία</ex></expan></w> <name nymRef ="#Ἄννα" type="forename"><choice><orig>Α</orig><reg>Ἄ</reg></choice><hi rend="ligature">νν</hi>α</name></persName><g ref="#cross">+</g>
               
                 </ab>
             </div>

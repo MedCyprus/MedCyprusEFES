@@ -82,7 +82,7 @@
                      <cb n="a"/>
                     <lb n="1"/><persName type="sacred" key="Angel"><w lemma="ἄγγελος"><choice><sic><expan><abbr rend="supraline">Ἄγγαιλ</abbr><ex>ος</ex></expan></sic><corr>Ἄγγελος</corr></choice></w>
                   <cb n="b"/>
-                    <lb n="1"/><addName type="epithet" key="of the Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline"><choice><orig>ύ</orig><reg>υ</reg></choice></abbr></expan></w></addName></persName>
+                    <lb n="1"/><addName type="epithet" key="of the Lord"><w lemma="κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline"><choice><orig>ύ</orig><reg>υ</reg></choice></abbr></expan></w></addName></persName>
                </ab>
             </div>
             <div type="apparatus">

@@ -80,7 +80,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><choice><orig>A</orig><reg>Ἅ</reg></choice>γιος, <w lemma="Ἅγιος"><choice><orig>A</orig><reg>Ἅ</reg></choice>γιος</w>, <w lemma="Ἅγιος"><choice><orig>Ά</orig><reg>Ἅ</reg></choice>γιος</w>, <addName type="epithet" key="Lord of Hosts"><supplied reason="lost">Κύριος<w lemma="Κύριος"></w> <w lemma="Σαβαώθ">Σαβαώθ</w></supplied></addName>
+                   <lb n="1"/><choice><orig>A</orig><reg>Ἅ</reg></choice>γιος, <w lemma="ἅγιος"><choice><orig>A</orig><reg>Ἅ</reg></choice>γιος</w>, <w lemma="ἅγιος"><choice><orig>Ά</orig><reg>Ἅ</reg></choice>γιος</w>, <addName type="epithet" key="Lord of Hosts"><supplied reason="lost">Κύριος<w lemma="κύριος"></w> <w lemma="Σαβαώθ">Σαβαώθ</w></supplied></addName>
                 </ab>
             </div>
             <div type="apparatus">

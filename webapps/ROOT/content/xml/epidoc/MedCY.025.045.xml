@@ -78,7 +78,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><choice><orig>η</orig><reg>ἡ</reg></choice><persName type="sacred" key="Anna"><w lemma="ἁγία"><choice><orig>α</orig><reg>ἁ</reg></choice>γία</w> <name nymRef ="#Ἄννα" type="forename"><choice><orig>Α</orig><reg>Ἄ</reg></choice><hi rend="ligature">νν</hi>α</name></persName>               
+                    <lb n="1"/><choice><orig>η</orig><reg>ἡ</reg></choice><persName type="sacred" key="Anna"><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἁ</reg></choice>γία</w> <name nymRef ="#Ἄννα" type="forename"><choice><orig>Α</orig><reg>Ἄ</reg></choice><hi rend="ligature">νν</hi>α</name></persName>               
                  </ab>
             </div>
             <div type="apparatus">

@@ -77,9 +77,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><g ref="#cross">+</g><w lemma="Ἰδού">Ἰδοὺ</w>
+                   <lb n="1"/><g ref="#cross">+</g><w lemma="ἰδού">Ἰδοὺ</w>
                    <lb n="2"/>ἡ <w lemma="δούλη">δού
-                  <lb n="3" break="no"/>λη</w> <persName type="divine" key="Lord"><w lemma="Κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline"><choice><orig>ύ</orig><reg>υ</reg></choice></abbr></expan></w></persName>
+                  <lb n="3" break="no"/>λη</w> <persName type="divine" key="Lord"><w lemma="κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline"><choice><orig>ύ</orig><reg>υ</reg></choice></abbr></expan></w></persName>
                   <lb n="4"/><w lemma="γίγνομαι">γένοι                  
                   <lb n="5" break="no"/>τό</w> <w lemma="ἐγώ">μοι</w>
                   <lb n="6"/>κατὰ τ<choice><orig>ο</orig><reg>ὸ</reg></choice>
