@@ -78,7 +78,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><choice><orig>Ἠ</orig><reg>Ἡ</reg></choice> <persName type="sacred" key="MaryOfEgypt"><w lemma="ὁσία"><choice><orig>ὀ</orig><reg>ὁ</reg></choice>σία</w>
+                    <lb n="1"/><choice><orig>Ἠ</orig><reg>Ἡ</reg></choice> <persName type="sacred" key="MaryOfEgypt"><w lemma="ὅσιος"><choice><orig>ὀ</orig><reg>ὁ</reg></choice>σία</w>
                     <lb n="2"/>
                     <lb n="3"/><name type="forename" nymRef="#Μαρία"><supplied reason="lost">Μ</supplied>
                     <lb n="4" break="no"/>α
