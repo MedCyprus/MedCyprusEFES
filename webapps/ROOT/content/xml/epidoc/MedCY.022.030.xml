@@ -76,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><g ref="#cross">+</g><choice><orig>H</orig><reg>Ἠ</reg></choice> <w lemma="Βαϊοφόρος"><choice><sic>Β<hi rend="ligature">αη</hi>ο
+                   <lb n="1"/><g ref="#cross">+</g><choice><orig>H</orig><reg>Ἠ</reg></choice> <w lemma="βαϊοφόρος"><choice><sic>Β<hi rend="ligature">αη</hi>ο
                   <lb n="2" break="no"/>φ<choice><orig>ο</orig><reg>ό</reg></choice>ρος</sic><corr>Βαϊοφόρος</corr></choice></w>
                  </ab>
             </div>
