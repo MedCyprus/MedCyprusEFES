@@ -77,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-              <lb n="1"/><g ref="#cross">+</g> Ἡ <w lemma="Πεντηκοστή">Πεντ<hi rend="ligature">ηκ</hi><supplied reason="lost">οσ</supplied>
+              <lb n="1"/><g ref="#cross">+</g> Ἡ <w lemma="πεντηκοστή">Πεντ<hi rend="ligature">ηκ</hi><supplied reason="lost">οσ</supplied>
               <lb n="2" break="no"/> <hi rend="ligature">τ<choice><orig>η</orig><reg>ή</reg></choice></hi><am>´</am></w>
               </ab>
             </div>
