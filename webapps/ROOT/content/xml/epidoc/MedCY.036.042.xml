@@ -79,7 +79,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/><g ref="#cross">+</g><w lemma="οὖτος"><hi rend="ligature">Οὖ</hi>τος</w> ὁ <persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς<am>&#x00A0;῀&#x00A0;</am></abbr></expan></name></persName> ὁ <w lemma="ἀναλαμβάνω">ἀναληφθε<choice><orig>ῖ</orig><reg>ὶ</reg></choice>ς</w> ἀφ' <w lemma="ὑμεῖς"><choice><orig>υ</orig><reg>ὑ</reg></choice>μῶν</w> ε<choice><orig>ι</orig><reg>ἰ</reg></choice>ς <add place="above">τ</add><supplied reason="omitted">ὸν</supplied> <w lemma="οὐρανός"><hi rend="ligature">οὐ</hi>ρ<hi rend="ligature">αν</hi><supplied reason="omitted">ός</supplied></w>
+                    <lb n="1"/><g ref="#cross">+</g><w lemma="οὗτος"><hi rend="ligature">Οὖ</hi>τος</w> ὁ <persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς<am>&#x00A0;῀&#x00A0;</am></abbr></expan></name></persName> ὁ <w lemma="ἀναλαμβάνω">ἀναληφθε<choice><orig>ῖ</orig><reg>ὶ</reg></choice>ς</w> ἀφ' <w lemma="ὑμεῖς"><choice><orig>υ</orig><reg>ὑ</reg></choice>μῶν</w> ε<choice><orig>ι</orig><reg>ἰ</reg></choice>ς <add place="above">τ</add><supplied reason="omitted">ὸν</supplied> <w lemma="οὐρανός"><hi rend="ligature">οὐ</hi>ρ<hi rend="ligature">αν</hi><supplied reason="omitted">ός</supplied></w>
                </ab>
             </div>
             <div type="apparatus">
