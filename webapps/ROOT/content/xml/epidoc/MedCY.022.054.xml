@@ -79,7 +79,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></name></persName>
-                 <lb n="2"/><choice><orig>ο</orig><reg>ὁ</reg></choice> <addName type="epithet" key="Evergetes"><w lemma="εὐεργέτις"><choice><sic><choice><orig>Ε</orig><reg>Ἐ</reg></choice>βερ<milestone unit="column"/>ργ<choice><orig>ε</orig><reg>έ</reg></choice><hi rend="ligature">τη</hi>ς</sic><corr>Εὐεργέτις</corr></choice></w></addName>
+                 <lb n="2"/><choice><orig>ο</orig><reg>ὁ</reg></choice> <addName type="epithet" key="Evergetes"><w lemma="εὐεργέτης"><choice><sic><choice><orig>Ε</orig><reg>Ἐ</reg></choice>βερ<milestone unit="column"/>γ<choice><orig>ε</orig><reg>έ</reg></choice><hi rend="ligature">τη</hi>ς</sic><corr>Εὐεργέτης</corr></choice></w></addName>
 </ab>
             </div>
             <div type="apparatus">
