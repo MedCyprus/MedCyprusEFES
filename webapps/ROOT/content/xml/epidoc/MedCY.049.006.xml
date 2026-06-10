@@ -80,7 +80,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><w lemma="Μετάληψις"><choice><sic><supplied reason="lost">Με</supplied>τάληψης</sic><corr>Μετάληψις</corr></choice></w>
+                  <lb n="1"/><w lemma="μετάληψις"><choice><sic><supplied reason="lost">Με</supplied>τάληψης</sic><corr>Μετάληψις</corr></choice></w>
                </ab>
             </div>
             <div type="apparatus">
