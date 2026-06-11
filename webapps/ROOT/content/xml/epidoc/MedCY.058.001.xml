@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Funerary inscription</title>
+                <title>Biographical inscription (?)</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -59,7 +59,8 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc14">Funerary inscription</term>
+                    <term type="textType" ref="text_types.xml#doc17">unknown; </term>
+                    <term type="textType" ref="text_types.xml#doc19">biographical(?)</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publications</creation>
