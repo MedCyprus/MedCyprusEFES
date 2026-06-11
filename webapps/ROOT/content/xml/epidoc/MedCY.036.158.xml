@@ -61,7 +61,8 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc2">Cryptograms</term>
+                    <term type="textType" ref="text_types.xml#doc2">cryptogram; </term>
+                    <term type="textType" ref="text_types.xml#doc10">apotropaic</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
