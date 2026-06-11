@@ -17,7 +17,32 @@
     <text>
         <body>
             <list>
-                <!-- to be populated -->
+                <!-- to be populated
+Apotropaic
+Biographical
+Caption
+Cryptogram
+Dedicatory
+Donation
+Epitaph
+Ex voto
+Funerary
+Intercessory
+Invocation
+Magical formula
+Metrical
+Monogram
+Nomina Sacra
+Numeric
+Painter’s note
+Painter’s signature
+Quotation, biblical
+Quotation, hymnographical
+Quotation, liturgical
+Quotation, monastic
+Quotation, patristic
+Unknown
+-->          
                 <item xml:id="doc1"> 
                     <term xml:lang="en">Donor inscription</term>
                 </item>
@@ -43,10 +68,10 @@
                     <term xml:lang="en">Liturgical citation</term>
                 </item>
                 <item xml:id="doc9">
-                    <term xml:lang="en">Sigla</term>
+                    <term xml:lang="en">Nomina Sacra</term>
                 </item>
                 <item xml:id="doc10">
-                    <term xml:lang="en">Christogram</term>
+                    <term xml:lang="en">Apotropaic</term>
                 </item>
                 <item xml:id="doc11">
                     <term xml:lang="en">Invocation</term>
