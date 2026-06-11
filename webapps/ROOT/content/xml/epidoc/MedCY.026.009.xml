@@ -61,7 +61,8 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#cryptogram">Cryptograms</term>
+                    <term type="textType" ref="text_types.xml#doc2">Cryptogram</term>
+                    <term type="textType" ref="text_types.xml#doc10">Apotropaic</term>
                 </keywords>
             </textClass>
             <creation>...</creation>
