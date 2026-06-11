@@ -78,7 +78,7 @@
               <ab>
                     <lb n="1"/><w lemma="φῶς"><expan><abbr rend="supraline">Φ</abbr><ex>ῶς</ex></expan></w><milestone unit="column"/><persName type="divine" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστού</ex></expan></persName>
                    <lb n="2"/><expan><abbr rend="supraline">E</abbr><ex>λένη</ex></expan> <expan><abbr rend="supraline">E</abbr><ex>ὕρεν</ex></expan><milestone unit="column"/><expan><abbr rend="supraline">E</abbr><ex>λέους</ex></expan> <expan><abbr rend="supraline">E</abbr><ex>ρεισμα</ex></expan>
-                  <lb n="3"/><milestone unit="column" n="left"/><expan><abbr rend="supraline">Π</abbr><ex>άσι</ex></expan>
+                  <lb n="3"/><milestone unit="column" n="left"/><expan><abbr rend="supraline">Π</abbr><ex>άσι</ex></expan> <!-- traces of a Φ (Φαίνει) are also visible; this should be indicated both in the edition -->
                </ab>
             </div>
             <div type="apparatus">
