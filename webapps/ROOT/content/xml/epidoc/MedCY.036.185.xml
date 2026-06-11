@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Funerary inscription</title>
+                <title>Invocation</title>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -61,7 +61,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc14">Funerary inscription</term>
+                    <term type="textType" ref="text_types.xml#doc11">invocation</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publications, Bishopric of Morphou Photographic Archive: <ptr target="#Papageorgiou2018"/></creation>
