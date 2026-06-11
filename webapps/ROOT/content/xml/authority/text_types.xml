@@ -80,9 +80,9 @@ Unknown
                 <item xml:id="doc12">
                     <term xml:lang="en">Metrical</term>
                 </item>
-                <item xml:id="doc13">
+                <!-- <item xml:id="doc13">
                     <term xml:lang="en">Dedicatory verse inscription</term>
-                </item>
+                </item> this type is no longer used -->
                 <item xml:id="doc14">
                     <term xml:lang="en">Funerary</term>
                 </item>
