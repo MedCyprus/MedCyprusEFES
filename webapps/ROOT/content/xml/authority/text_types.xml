@@ -27,6 +27,7 @@ Donation
 Epitaph
 Ex voto
 Funerary
+Hortatory
 Intercessory
 Invocation
 Magical formula
@@ -102,6 +103,9 @@ Unknown
                 </item>
                 <item xml:id="doc20">
                     <term xml:lang="en">Painter's note</term>
+                </item>
+                <item xml:id="doc21">
+                    <term xml:lang="en">Hortatory</term>
                 </item>
             </list>
         </body>
