@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Philokales first inscription</title>
+                <title>Dedicatory metrical inscription</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp"> Maria Parani</editor>
@@ -57,7 +57,8 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc1">Donor inscription</term>
+                    <term type="textType" ref="text_types.xml#doc1">dedicatory; </term>
+                    <term type="textType" ref="text_types.xml#doc12">metrical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publication, archival photos (The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC.) 
