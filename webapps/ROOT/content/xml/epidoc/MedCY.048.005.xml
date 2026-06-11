@@ -59,7 +59,9 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc13">Dedicatory inscription</term>
+                     <term type="textType" ref="text_types.xml#doc1">dedicatory; </term>
+                    <term type="textType" ref="text_types.xml#doc21">hortatory; </term>
+                    <term type="textType" ref="text_types.xml#doc18">painter's signature</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publications</creation>
