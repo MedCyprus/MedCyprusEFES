@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Constantine's sphere Cryptograms</title>
+                <title>Saint Constantine's sphere</title>
                 <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -64,7 +64,8 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc2">Cryptograms, tetragram</term>
+                    <term type="textType" ref="text_types.xml#doc2">cryptogram; </term>
+                    <term type="textType" ref="text_types.xml#doc10">apotropaic</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
