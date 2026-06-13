@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Majuscule letters. Characters' size varies. Delta is formed with a lambda on a horizontal bar, which at its ends has a vertical point. Mu with its middle bar forms an upsilon with a dot on its antennas and at the top of its vertical bar. Pi with short line attached the horizontal bar; ΤΗ, ΜΡ, ΟΥ, ΜΗΡ in ligatures. The words δέησιν, μητρός, μῆτερ are rendered by an abbreviation with a wavy line above each word. In line 17, the abbreviation of the word εὐχαριστῶ is rendered by two irregular lines. Double point after λόγε, αἰτεῖς, σωτηρίαν, ἐπιστρέφουσι. Middle dot after λόγε. Text between two ochre-coloured ruled lines. Accents and breathings with errors. Letter height: <height unit="cm">2,5-4</height>
+                            <handNote>Black majuscule letters against white background. Character size varies. Delta is formed with a lambda on a horizontal bar, which at its ends has a vertical point. Mu with its middle bar forms an upsilon with a dot on its antennas and at the top of its vertical bar. Pi with short line attached the horizontal bar; ΤΗ, ΜΡ, ΟΥ, ΜΗΡ in ligatures. The words δέησιν, μητρός, μῆτερ are rendered by an abbreviation with a wavy line above each word. In line 17, the abbreviation of the word εὐχαριστῶ is rendered by two irregular lines. Double point after λόγε, αἰτεῖς, σωτηρίαν, ἐπιστρέφουσι. Middle dot after λόγε. Text between two ochre-coloured ruled lines. Accents and breathings with errors. Letter height: <height unit="cm">2,5-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -72,10 +72,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-027-01.JPG"><desc>Virgin Eleousa's scroll, inscription </desc></graphic>
-        <graphic url="043-027-02.JPG"><desc>Virgin Eleousa's scroll, inscription detail</desc></graphic>
-        <graphic url="043-027-03.JPG"><desc>Virgin Eleousa's scroll, inscription detail</desc></graphic>
-        <graphic url="043-027-03.JPG"><desc>Virgin Eleousa's scroll, general view</desc></graphic>
+         <graphic rend="primary" url="043-027-01.JPG"><desc>Virgin Eleousa, scroll, inscription </desc></graphic>
+        <graphic url="043-027-02.JPG"><desc>Virgin Eleousa, scroll, inscription detail</desc></graphic>
+        <graphic url="043-027-03.JPG"><desc>Virgin Eleousa, scroll, inscription detail</desc></graphic>
     </facsimile>
     <text>
         <body>
