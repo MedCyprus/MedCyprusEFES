@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                               <handNote>Black letters against ochre background. Majuscule letters. Characters' size varies. Superscripts letters. Omega with crosslet. In line 6 tau with a star. Mu with its middle bar forms a tau. Double point after συνδρομῆς, Ἰω(άννου), Γερακ[ιώτη] Μουτου]λλά, αὐτοῦ. Use of diaeresis over iota in Ïρίνης (l. 6), Ïουλίω (l. 7). Middle dot after μηνί, εἰς. Horizontal wavy line above the abbreviation of  Ἰω(άννου). ΠΤ, HΝ, ΟΥ joined in ligatures. Sporadic use of accents and breathings. Letter height: <height unit="cm">5,5-7,5</height>
+                               <handNote>Black majuscule letters against ochre background. Character size varies. Superscripts letters. Omega with crosslet. In line 6 tau with a star. Mu with its middle bar forms a tau. Double point after συνδρομῆς, Ἰω(άννου), Γερακ[ιώτη] Μουτου]λλά, αὐτοῦ. Use of diaeresis over iota in Ïρίνης (l. 6), Ïουλίω (l. 7). Middle dot after μηνί, εἰς. Horizontal wavy line above the abbreviation of  Ἰω(άννου). ΠΤ, HΝ, ΟΥ joined in ligatures. Sporadic use of accents and breathings. Letter height: <height unit="cm">5,5-7,5</height>
                             </handNote>
                          </handDesc>
                         <decoDesc>
@@ -72,11 +72,11 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-020-01.JPG"><desc>Ioannes Moutoullas first inscription, inscription</desc></graphic>
-        <graphic url="043-020-02.JPG"><desc>Ioannes Moutoullas first inscription, general view</desc></graphic>
-        <graphic url="043-020-03.JPG"><desc>Ioannes Moutoullas first inscription, inscription detail</desc></graphic>
-        <graphic url="043-020-04.JPG"><desc>Ioannes Moutoullas first inscription, inscription detail</desc></graphic>
-        <graphic url="043-020-05.JPG"><desc>Ioannes Moutoullas first inscription, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-020-01.JPG"><desc>Dedicatory inscription</desc></graphic>
+        <graphic url="043-020-02.JPG"><desc>Dedicatory inscription, general view</desc></graphic>
+        <graphic url="043-020-03.JPG"><desc>Dedicatory inscription, detail</desc></graphic>
+        <graphic url="043-020-04.JPG"><desc>Dedicatory inscription, detail</desc></graphic>
+        <graphic url="043-020-05.JPG"><desc>Dedicatory inscription, detail</desc></graphic>
     </facsimile>
     <text>
         <body>
