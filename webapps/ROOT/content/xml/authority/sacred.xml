@@ -242,6 +242,8 @@
                 <person xml:id="Basil">
                     <persName xml:lang="grc">Βασίλειος</persName>
                     <persName xml:lang="en">Basil</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Basil" key="theGreat">ὁ Μέγας</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Basil" key="theGreat">the Great</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44258</idno>                   
                 </person>
                 
