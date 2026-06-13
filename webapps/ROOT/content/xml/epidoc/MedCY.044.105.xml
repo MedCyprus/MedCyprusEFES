@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Invocation of Nikephoros the farrier(?) </title>
+                <title>Invocation of Nikephoros the farrier(?)</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -73,9 +73,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-105-01.JPG"><desc>Nikephoros the farrier's invocation, inscription detail</desc></graphic>
-        <graphic url="044-105-02.JPG"><desc>Nikephoros the farrier's invocation, inscription</desc></graphic>
-        <graphic url="044-105-03.JPG"><desc>Nikephoros the farrier's invocation, general view</desc></graphic>
+         <graphic rend="primary" url="044-105-01.JPG"><desc>Invocation of Nikephoros the farrier(?), inscription detail</desc></graphic>
+        <graphic url="044-105-02.JPG"><desc>Invocation of Nikephoros the farrier(?), inscription</desc></graphic>
+        <graphic url="044-105-03.JPG"><desc>Invocation of Nikephoros the farrier(?), general view</desc></graphic>
     </facsimile>
     <text>
         <body>
