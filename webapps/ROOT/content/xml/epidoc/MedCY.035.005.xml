@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Entombment of Christ, metrical inscription</title>
+                <title>Entombment of Christ, verse from the Lamentations</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -56,9 +56,8 @@
         </fileDesc>
         <profileDesc>
             <textClass>
-                <keywords>
-                    <term type="textType" ref="text_types.xml#doc12">Metrical inscription; </term>
-                    <term type="textType" ref="text_types.xml#doc07">hymnographical citation</term>
+                <keywords>                    
+                    <term type="textType" ref="text_types.xml#doc7">quotation, hymnographical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>
@@ -82,7 +81,7 @@
                 <p>PENDING</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Early attestation of (a variation of) Verse 24 of the Third Stanza of the Lamentations (Epitaphios Threnos) sung during the orthros of Holy Saturday (Sevcenko 2011, 256).</p>
             </div>
             <div type="bibliography">
                  <listBibl>
