@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Forty Martyrs of Sebasteia’s poem</title>
+                <title>Forty Martyrs of Sebasteia, poem</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="dk">Dora Konstantellou</editor>              
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -64,7 +64,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                     <term type="textType" ref="text_types.xml#doc12">Metrical inscription</term>
+                     <term type="textType" ref="text_types.xml#doc12">metrical</term>
                 </keywords>
             </textClass>
                     <creation>transcription (G. Apeitos, Th. Petrou), publications</creation>
