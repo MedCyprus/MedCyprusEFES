@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Cryptograms</title>
+                <title>Cryptogram and apotropaic(?) inscription</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -62,7 +62,7 @@
             <textClass>
                 <keywords>
                     <term type="textType" ref="text_types.xml#doc2">cryptogram; </term>
-                    <term type="textType" ref="text_types.xml#doc10">apotropaic; </term>
+                    <term type="textType" ref="text_types.xml#doc10">apotropaic(?); </term>
                     <term type="textType" ref="text_types.xml#doc12">metrical</term>
                 </keywords>
             </textClass>
