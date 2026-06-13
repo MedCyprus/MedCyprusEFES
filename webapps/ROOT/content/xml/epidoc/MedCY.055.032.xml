@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Brown letters against white background. Majuscule letters. Each of the cryptogram has a line above it signified its abbreviation. In the lower corners of the cross there is the tetragram EEEE also abbreviated with a line above it. Letter height: <height unit="cm">1,5-3</height>
+                            <handNote>Brown majuscule letters against white background. Character size varies. Each of the cryptogram has a line above it signified its abbreviation. In the lower corners of the cross there is the tetragram EEEE also abbreviated with a line above it. Letter height: <height unit="cm">1,5-3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -72,8 +72,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="055-032-01.JPG"><desc>Saint Constantine's sphere Cryptograms, inscription</desc></graphic>
-        <graphic url="055-032-02.JPG"><desc>Saint Constantine's sphere Cryptograms, general view</desc></graphic>
+        <graphic rend="primary" url="055-032-01.JPG"><desc>Saint Constantine, sphere, inscription</desc></graphic>
+        <graphic url="055-032-02.JPG"><desc>Saint Constantine, sphere, general view</desc></graphic>
     </facsimile>
     <text>
         <body>
