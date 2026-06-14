@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Nicholas' scroll</title>
+                <title>Saint Nicholas, scroll</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -64,7 +64,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc8">Liturgical citation</term>
+                    <term type="textType" ref="text_types.xml#doc8">quotation, liturgical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
@@ -84,7 +84,7 @@
                     <lb n="3"/><w lemma="σῴζω">σ<choice><orig>ὼ</orig><reg>ῶ</reg></choice>σον </w>
                     <lb n="4"/><hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi>ν <w lemma="λαός">λ<del rend="erasure">α</del>α
                     <lb n="5" break="no"/><choice><orig>ὸ</orig><reg>ό</reg></choice>ν</w> <w lemma="σύ">σου</w> 
-                    <lb n="6"/><w><choice><sic>κ<choice><orig>ε</orig><reg>ὲ</reg></choice></sic><corr>καὶ</corr></choice></w> <w lemma="εὐλογῶ"><choice><sic><expan><abbr>ε<choice><orig>ὑ</orig><reg>ὐ</reg></choice>λόγι</abbr><ex>σον</ex></expan></sic><corr>εὐλόγησον</corr></choice></w>
+                    <lb n="6"/><w><choice><sic>κ<choice><orig>ε</orig><reg>ὲ</reg></choice></sic><corr>καὶ</corr></choice></w> <w lemma="εὐλογέω"><choice><sic><expan><abbr>ε<choice><orig>ὑ</orig><reg>ὐ</reg></choice>λόγι</abbr><ex>σον</ex></expan></sic><corr>εὐλόγησον</corr></choice></w>
                  </ab>
             </div>
             <div type="apparatus">
