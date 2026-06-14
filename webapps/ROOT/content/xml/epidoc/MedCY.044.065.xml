@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Theodosios the Cenobiarch's scroll</title>
+                <title>Saint Theodosios the Cenobiarch, scroll</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -66,7 +66,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc15">Hagiographical citation</term>
+                    <term type="textType" ref="text_types.xml#doc15">quotation, monastic</term>
                 </keywords>
             </textClass>
             <creation>transcription (G. Apeitos, Th. Petrou), publication</creation>
@@ -81,7 +81,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <lb n="1"/><g ref="#cross">+</g> Ἡ <w lemma="νηστεία"><hi rend="ligature">νη</hi>στεί              
-                  <lb n="2" break="no"/>α</w> <w lemma="ταπεινῶ">ταπεινοῖ</w>
+                  <lb n="2" break="no"/>α</w> <w lemma="ταπεινόω">ταπεινοῖ</w>
                   <lb n="3"/>τὸ <w lemma="σῶμα">σῶμα</w> ἡ
                   <lb n="4"/><w lemma="ἀγρυπνία">ἀγρυπνία</w>
                   <lb n="5"/><w lemma="καθαρίζω">καθαρίζει</w>
