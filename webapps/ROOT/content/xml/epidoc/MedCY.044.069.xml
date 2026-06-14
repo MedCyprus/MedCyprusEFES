@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Ephraim the Syrian's scroll</title>
+                <title>Saint Ephraim the Syrian, scroll</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -66,7 +66,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc15">Hagiographical citation</term>
+                    <term type="textType" ref="text_types.xml#doc22">quotation, patristic</term>
                 </keywords>
             </textClass>
             <creation>transcription (G. Apeitos, Th. Petrou), publication</creation>
@@ -87,7 +87,7 @@
                   <lb n="5" break="no"/><hi rend="ligature">το</hi>ς</w> ὁ <w lemma="ἐγκράτεια">ἐγκρά
                   <lb n="6" break="no"/>τειαν </w><expan><abbr> κ</abbr><ex>αὶ</ex></expan><am>‵</am> <w lemma="ταπείνωσις">τα
                   <lb n="7" break="no"/>πείνωσ<choice><orig>ῖ</orig><reg>ι</reg></choice><expan><ex>ν</ex></expan></w>
-                  <lb n="8"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan><am>‵</am> <w lemma="ἀγάπη">ἀγά<hi rend="ligature">πην</hi></w> <w lemma="κτῶμαι"><choice><sic>ἐ 
+                  <lb n="8"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan><am>‵</am> <w lemma="ἀγάπη">ἀγά<hi rend="ligature">πην</hi></w> <w lemma="κτάομαι"><choice><sic>ἐ 
                   <lb n="9" break="no"/><supplied reason="lost">κ</supplied>τήσατ<choice><orig>ῶ</orig><reg>ω</reg></choice></sic><corr>ἐκτήσατο</corr></choice></w>
               </ab>
             </div>
