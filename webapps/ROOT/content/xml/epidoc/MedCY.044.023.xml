@@ -62,7 +62,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
+                    <term type="textType" ref="text_types.xml#doc6">quotation, biblical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
@@ -78,7 +78,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
             <lb n="1"/><space quantity="4" unit="character"></space><g ref="#cross">+</g>
-            <lb n="2"/><w lemma="χαίρω">Χα<choice><orig>ι</orig><reg>ῖ</reg></choice>ρε </w><addName type="epithet" subtype="Maria" key="Kecharitomene"><w lemma="κεχαριτωμένη">κε
+            <lb n="2"/><w lemma="χαίρω">Χα<choice><orig>ι</orig><reg>ῖ</reg></choice>ρε </w><addName type="epithet" subtype="Maria" key="Kecharitomene"><w lemma="χαριτόω">κε
             <lb n="3" break="no"/>χαρι<hi rend="ligature">τω</hi>μ<choice><orig>ε</orig><reg>έ</reg></choice>
             <lb n="4" break="no"/><hi rend="ligature">νη</hi></w></addName> ὁ <persName type="divine" key="Lord"><w lemma="κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύ</ex><abbr rend="supraline">ρι</abbr><ex>ος</ex></expan><am>´</am></w></persName>
             <lb n="5"/>μετ<choice><orig>α</orig><reg>ὰ</reg></choice> 
