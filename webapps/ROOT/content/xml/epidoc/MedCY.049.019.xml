@@ -79,7 +79,7 @@
               <ab>
                    <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς<am> &#x00A0;῀&#x00A0;</am></abbr></expan>
                     <milestone unit="column"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς<am>`</am></abbr></expan></addName></name></persName>     
-                  <lb n="2"/><w lemma="νικῶ"><expan><abbr rend="supraline">Ν</abbr><ex>ι</ex></expan><milestone unit="column" n="right"/><expan><abbr rend="supraline">Κ</abbr><ex>ᾷ</ex></expan></w>
+                  <lb n="2"/><w lemma="νικάω"><expan><abbr rend="supraline">Ν</abbr><ex>ι</ex></expan><milestone unit="column" n="right"/><expan><abbr rend="supraline">Κ</abbr><ex>ᾷ</ex></expan></w>
                </ab>
             </div>
             <div type="apparatus">
