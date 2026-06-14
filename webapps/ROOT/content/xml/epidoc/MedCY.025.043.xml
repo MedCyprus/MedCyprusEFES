@@ -63,7 +63,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                    <term type="textType" ref="text_types.xml#doc7">quotation, hymnographical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publication</creation>
@@ -79,7 +79,7 @@
                 <ab>
                     
                     <lb n="1"/><w lemma="παύω"><supplied reason="lost">Παύ</supplied>σασθε</w>
-                  <lb n="2"/><w lemma="ἀγραυλῶ"><supplied reason="lost">ἀγρ</supplied>αυλοῦν
+                  <lb n="2"/><w lemma="ἀγραυλέω"><supplied reason="lost">ἀγρ</supplied>αυλοῦν
                     <lb n="3" break="no"/>τες</w>                   
                  </ab>
             </div>
@@ -90,7 +90,7 @@
                 <p>Cease camping in the fields.</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>PENDING Verse from a troparion sung during the orthros (matins) on December 24 [reference], inspired by Luke 1:8-12</p>
             </div>
             <div type="bibliography">
                  <listBibl>
