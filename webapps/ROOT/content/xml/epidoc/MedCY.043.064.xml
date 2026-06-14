@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Peter's scroll</title>
+                <title>Saint Peter, scroll</title>
                 <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -63,7 +63,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
+                    <term type="textType" ref="text_types.xml#doc6">quotation, biblical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publication</creation>
@@ -79,7 +79,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><w lemma="ἀδελφός"><supplied reason="lost">Ἀδελφοὶ</supplied></w>
-                    <lb n="2"/><w lemma="παρακαλῶ"><supplied reason="lost">παρακαλῶ</supplied></w>
+                    <lb n="2"/><w lemma="παρακαλέω"><supplied reason="lost">παρακαλῶ</supplied></w>
                     <lb n="3"/><w lemma="σύ"><supplied reason="lost">ὑμᾶς</supplied></w> <supplied reason="lost">ὡς</supplied> <w lemma="πάροικος"><supplied reason="lost">παροί
                 <lb n="4" break="no"/>κους</supplied></w> <supplied reason="lost">καὶ</supplied> <w lemma="παρεπίδημος"><supplied reason="lost">παρε
                     <lb n="5" break="no"/>πιδήμους</supplied></w> <w lemma="ἀπέχω"><supplied reason="lost">ἀπέ</supplied>
