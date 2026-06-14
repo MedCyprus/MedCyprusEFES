@@ -65,7 +65,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
+                    <term type="textType" ref="text_types.xml#doc7">quotation, hymnographical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publication</creation>
@@ -82,7 +82,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <lb n="1"/><w lemma="παύω">Πα<supplied reason="lost">ύσ</supplied>α<supplied reason="lost">τε</supplied></w>
-                  <lb n="2"/><w lemma="ἀγραυλῶ">ἀγραυλο<supplied reason="lost">ῦ</supplied>ντες</w>                  
+                  <lb n="2"/><w lemma="ἀγραυλέω">ἀγραυλο<supplied reason="lost">ῦ</supplied>ντες</w>                  
                   <lb n="3"/>ὅτι <w lemma="σήμερον">σ<supplied reason="lost">ή</supplied><unclear>μ</unclear><supplied reason="lost">ε</supplied>ρον</w> <w lemma="γεννῶ">ἐγεννή<supplied reason="lost">θη</supplied></w>
                   <lb n="4"/><supplied reason="lost">ἡ</supplied> <w lemma="σωτηρία"><expan><abbr rend="supraline">σ</abbr><ex>ωτη</ex><abbr rend="supraline">ρία</abbr></expan></w> το<unclear>ῦ</unclear> <w lemma="κόσμος"><unclear>κ</unclear>όσμ<supplied reason="lost">ου</supplied></w>
               </ab>
@@ -94,7 +94,7 @@
                 <p>Do not wander in the fields, today the Savior of the world has been born.</p>
             </div>
             <div type="commentary">
-                <p>Text: From the hymns sung during the Christmas Eve.</p>
+                <p>PENDING Inspired by a troparion sung during the orthros (matins) on December 24 [reference], itself based on Luke 1:8-12</p>
             </div>
             <div type="bibliography">
                  <listBibl>
