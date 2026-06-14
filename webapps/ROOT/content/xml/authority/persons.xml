@@ -153,8 +153,8 @@
                     <person xml:id="Kaanis">
                         <persName xml:lang="en"><forename>Kaanis</forename></persName>
                         <persName xml:lang="grc"><forename>Καανῆς</forename></persName>
-                        <occupation type="occupation">?</occupation>
-                        <note>?</note>
+                        <occupation type="occupation"></occupation>
+                        <note>Unclear from the context whether the name refers to a person or to a locality.</note>
                         <!--<floruit notBefore="..." notAfter="...">...</floruit>
                         <idno type="wikidata"></idno>
                         <idno type="PBW">...</idno>-->
