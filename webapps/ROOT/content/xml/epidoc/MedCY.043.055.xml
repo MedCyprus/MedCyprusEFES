@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Descent Into Hell, John the Forerunner's scroll</title>
+                <title>Descent Into Hell, John the Forerunner, scroll</title>
                 <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -64,7 +64,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
+                    <term type="textType" ref="text_types.xml#doc6">quotation, biblical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
@@ -79,7 +79,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w lemma="ὁρῶ"><choice><sic><choice><orig>Ι</orig><reg>Ἴ</reg></choice>δε</sic><corr>ἴδε</corr></choice></w>
+                    <lb n="1"/><w lemma="ὁράω"><choice><sic><choice><orig>Ι</orig><reg>Ἴ</reg></choice>δε</sic><corr>ἴδε</corr></choice></w>
                     <lb n="2"/><w lemma="ὅς"><choice><sic><choice><orig>ὼ</orig><reg>ὣ</reg></choice>ν</sic><corr>ὃν</corr></choice></w> <w lemma="λέγω"><choice><sic><choice><orig>ύ</orig><reg>ὖ</reg></choice><lb n="3" break="no"/>πων</sic><corr>εἶ<lb n="3" break="no"/>πον</corr></choice></w><lb n="4"/><w lemma="σύ"><choice><sic><hi rend="ligature">ἡμ<choice><orig>ὴ</orig><reg>ῆ</reg></choice>ν</hi></sic><corr>ὑμῖν</corr></choice></w>
                  </ab>
             </div>
@@ -90,7 +90,7 @@
                 <p>Behold, he is the one of whom I have told you.</p>
             </div>
             <div type="commentary">
-                <p>The inscription is actually a paraphrase of John 1:29-30 and almost all the words are misspelled indicating a relative uneducated painter.</p>
+                <p>Paraphrase of John 1:29-30.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
