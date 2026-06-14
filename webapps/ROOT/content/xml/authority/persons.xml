@@ -150,6 +150,16 @@
                         <desc>family of Nikephoros Ischyrios</desc>
                     </relation>
                     
+                    <person xml:id="Kaanis">
+                        <persName xml:lang="en"><forename>Kaanis</forename></persName>
+                        <persName xml:lang="grc"><forename>Καανῆς</forename></persName>
+                        <occupation type="occupation">?</occupation>
+                        <note>?</note>
+                        <!--<floruit notBefore="..." notAfter="...">...</floruit>
+                        <idno type="wikidata"></idno>
+                        <idno type="PBW">...</idno>-->
+                    </person>
+                    
                     <person xml:id="Leon">
                         <persName xml:lang="en"><forename>Leon</forename> <surname>Authentes</surname></persName>
                         <persName xml:lang="grc"><forename>Λέων</forename> <surname>Αὐθέντης</surname></persName>                      
