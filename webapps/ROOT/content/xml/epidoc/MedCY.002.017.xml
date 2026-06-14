@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Biographical cycle of Saint Sozomenos(?), unidentified scene</title>
+                <title>Biographical cycle of Saint Sozomenos (?), unidentified scene</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                  <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -48,7 +48,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Sozomenos" n="3rd">Agios Sozomenos, Saint Sozomenos</origPlace>
-                            <origDate notBefore="1201" notAfter="1350" precision="medium" evidence="artistic-style">13th-14th century, first half (?)</origDate>
+                            <origDate notBefore="1201" notAfter="1350" precision="medium" evidence="artistic-style">13th-14th century, first half(?)</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
