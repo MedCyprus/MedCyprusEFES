@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Athanasios (Pentaschoinites?)</title>
+                <title>Saint Athanasios Pentaschoinites(?)</title>
                 <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#athanasiospentaschoinites">Athanasios Pentaschoinites ?</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#athanasiospentaschoinites">Athanasios Pentaschoinites(?)</rs></p>
                             </decoDesc>
                     </physDesc>
                     <history>
@@ -90,7 +90,7 @@
                 <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Saint Athanasios (Pentaschoinites?)</p>
+                <p>Saint Athanasios</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
