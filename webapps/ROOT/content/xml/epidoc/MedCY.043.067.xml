@@ -64,21 +64,21 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
+                    <term type="textType" ref="text_types.xml#doc6">quotation, biblical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-067-01.JPG"><desc>Saint John the Forerunner's scroll, inscription</desc></graphic>
+         <graphic rend="primary" url="043-067-01.JPG"><desc>Saint John the Forerunner, scroll</desc></graphic>
          <graphic url="043-067-02.JPG"><desc>Saint John the Forerunner's scroll, general view </desc></graphic>        
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w lemma="μετανοῶ"><choice><sic>Μετανο<lb n="2" break="no"/><choice><orig>ή</orig><reg>ῆ</reg></choice>τε</sic><corr>Μετανο<lb n="2" break="no"/>εῖτε</corr></choice></w><choice><reg/><orig>:</orig></choice> <w lemma="ἐγγίζω"><choice><orig>η</orig><reg>ἤ</reg></choice>γγικε</w>
+                    <lb n="1"/><w lemma="μετανοέω"><choice><sic>Μετανο<lb n="2" break="no"/><choice><orig>ή</orig><reg>ῆ</reg></choice>τε</sic><corr>Μετανο<lb n="2" break="no"/>εῖτε</corr></choice></w><choice><reg/><orig>:</orig></choice> <w lemma="ἐγγίζω"><choice><orig>η</orig><reg>ἤ</reg></choice>γγικε</w>
                     <lb n="3"/>γὰρ<choice><reg>,</reg><orig>·</orig></choice> ἡ <w lemma="βασιλεία"><choice><sic>Β<unclear>α</unclear><lb n="4" break="no"/>σειλήα</sic><corr>Βα<lb n="4" break="no"/>σιλεία</corr></choice></w>
                     <lb n="5"/>τ<choice><orig>ω</orig><reg>ῶ</reg></choice>ν <w lemma="οὐρανός">Ο<choice><orig>ὗ</orig><reg>ὐ</reg></choice>
                     <lb n="6" break="no"/>ρανῶν</w>
@@ -96,7 +96,7 @@
                 <p>Repent, for the kingdom of heaven is at hand.</p>
             </div>
             <div type="commentary">
-                <p>The inscription is referred to the preaching of the Saint John the Forerunner and is an excerpt of Matthew's gospel (Matt. 3:2). </p>
+                <p>After Matt. 3:2.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
