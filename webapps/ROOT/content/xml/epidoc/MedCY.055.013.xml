@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Peter's scroll</title>
+                <title>Saint Peter, scroll</title>
                 <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -63,7 +63,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
+                    <term type="textType" ref="text_types.xml#doc6">quotation, biblical</term>
                 </keywords>
             </textClass>
             <creation> transcription (Th. Petrou), archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>
@@ -80,7 +80,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/><w lemma="ἀδελφός"><choice><orig>Α</orig><reg>Ἀ</reg></choice>δελφο<supplied reason="lost"><choice><orig>ι</orig><reg>ὶ</reg></choice></supplied></w>
-                    <lb n="2"/><w lemma="παρακαλῶ">παρακ<unclear>α</unclear>                    
+                    <lb n="2"/><w lemma="παρακαλέω">παρακ<unclear>α</unclear>                    
                     <lb n="3" break="no"/>λ<choice><orig>ο</orig><reg>ῶ</reg></choice></w> <w lemma="σύ"><choice><sic><hi rend="ligature">ἡμ</hi><choice><orig>α</orig><reg>ᾶ</reg></choice><supplied reason="lost">ς</supplied></sic><corr>ὑμᾶς</corr></choice></w>
                     <lb n="4"/><w><choice><sic><choice><orig>ο</orig><reg>ὁ</reg></choice>ς</sic><corr>ὡς</corr></choice></w> <w lemma="πάροικος"><choice><sic>παρί<unclear>κου</unclear><supplied reason="lost">ς</supplied></sic><corr>παροίκους</corr></choice></w>
                     <lb n="5"/>κα<choice><orig>ι</orig><reg>ὶ</reg></choice> <w lemma="παρεπίδημος"><choice><sic>παρα<supplied reason="lost">ι</supplied><lb n="6" break="no"/>πιδ<hi rend="ligature"><choice><orig>η</orig><reg>ή</reg></choice>μ</hi><supplied reason="lost">ους</supplied></sic><corr>παρε<lb n="6" break="no"/>πιδήμους</corr></choice></w><lb n="7"/><w lemma="ἀπέχω"><choice><sic><choice><orig>α</orig><reg>ἀ</reg></choice>πέχαι<unclear>σθ</unclear><supplied reason="lost">αι</supplied></sic><corr>ἀπέχεσθαι</corr></choice></w>
