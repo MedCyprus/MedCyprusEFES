@@ -63,7 +63,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc7">Hymnographical citation</term>
+                    <term type="textType" ref="text_types.xml#doc7">quotation, hymnographical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
@@ -77,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-            <lb n="1"/><w lemma="παύω">Π<unclear>α</unclear><supplied reason="lost">ύσατε</supplied></w> <w lemma="ἀγραυλῶ"><supplied reason="lost">ἀγραυ</supplied>            
+            <lb n="1"/><w lemma="παύω">Π<unclear>α</unclear><supplied reason="lost">ύσατε</supplied></w> <w lemma="ἀγραυλέω"><supplied reason="lost">ἀγραυ</supplied>            
                 <lb n="2" break="no"/>λο<choice><orig>υ</orig><reg>ῦ</reg></choice><supplied reason="lost">ντες</supplied></w>     
                  </ab>
             </div>
@@ -90,7 +90,7 @@
                 <p>Do not wander in the fields</p>
             </div>
             <div type="commentary">
-                <p>The inscription is from the hymns sung during the Christmas Eve.</p>
+                <p>PENDING. Verse from a troparion sung during the orthros (matins) on December 24 [reference], inspired by Luke 2:8-12</p>
             </div>
             <div type="bibliography">
                  <listBibl>
