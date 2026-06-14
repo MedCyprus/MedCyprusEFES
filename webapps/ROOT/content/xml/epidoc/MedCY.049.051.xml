@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint, unidentified?</title>
+                <title>Saint, unidentified</title>
                 <author xml:id="tp">Theocharis Petrou</author>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <author xml:id="mx">Maria Xenaki</author>
@@ -49,7 +49,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#PeraChorio">Pera Chorio, Holy Apostles</origPlace>
-                            <origDate>15th c?</origDate>
+                            <origDate>15th century(?) <!-- if this is 15th c., why is it included? --></origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
