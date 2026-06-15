@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Unidentified prelate's scroll</title>
+                <title>Prelate, unidentified, scroll</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <author xml:id="mx">Maria Xenaki</author>
@@ -62,7 +62,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc8">Liturgical citation</term>
+                    <term type="textType" ref="text_types.xml#doc8">quotation, liturgical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publication, archival photos (The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC.) 
