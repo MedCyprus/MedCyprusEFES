@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Kyriakos' scroll</title>
+                <title>Saint Kyriakos, scroll</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -67,7 +67,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc15">Hagiographical citation</term>
+                    <term type="textType" ref="text_types.xml#doc15">quotation, monastic</term>
                 </keywords>
             </textClass>
             <creation>transcription (G. Apeitos, Th. Petrou)</creation>
