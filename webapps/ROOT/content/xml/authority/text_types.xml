@@ -18,6 +18,7 @@
         <body>
             <list>
                 <!-- to be populated
+Acclamation
 Apotropaic
 Biographical
 Caption
@@ -109,6 +110,9 @@ Unknown
                 </item>
                 <item xml:id="doc22">
                     <term xml:lang="en">Quotation, patristic</term>
+                </item>
+                <item xml:id="doc23">
+                    <term xml:lang="en">Acclamation</term>
                 </item>
             </list>
         </body>
