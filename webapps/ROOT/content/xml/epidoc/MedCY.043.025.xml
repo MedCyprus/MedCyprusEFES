@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Christ's codex</title>
+                <title>Christ, codex</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -42,8 +42,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#ChristAntiphonetes">Christ Antiphonetes</rs>
-                            <rs type="iconography" ref="#Christ"></rs> 
+                            <p><rs type="iconography" ref="#Christ">Christ</rs> 
                             <rs type="iconography" ref="#divine"></rs>
                             <rs type="iconography" ref="#male"></rs>   
                             <rs type="iconography" ref="#codex"></rs>
@@ -65,7 +64,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc6">Biblical citation</term>
+                    <term type="textType" ref="text_types.xml#doc6">quotation, biblical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
