@@ -976,6 +976,9 @@
                 <item xml:id="ascetic">
                     <term xml:lang="en">Ascetic</term>
                 </item>
+                <item xml:id="biblicalfigure">
+                    <term xml:lang="en">Biblical figure</term><!-- for all other figures who are not divine, angelic powers, prophets, apostles, high priests, etc. -->
+                </item>
                 <item xml:id="deacon">
                     <term xml:lang="en">Deacon</term>
                 </item>                
@@ -1002,10 +1005,7 @@
                 </item>
                 <item xml:id="monastic">
                     <term xml:lang="en">Monastic</term>
-                </item>
-                <item xml:id="OTfigure">
-                    <term xml:lang="en">Old Testament figure</term>
-                </item>
+                </item>                
                 <item xml:id="personification">
                     <term xml:lang="en">Personification</term>
                 </item>
