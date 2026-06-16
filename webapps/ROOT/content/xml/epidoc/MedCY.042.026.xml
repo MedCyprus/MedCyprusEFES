@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Presentation of Christ to the temple, Prophetess Anna's scroll</title>
+                <title>Presentation of Christ to the Temple, Prophetess Anna, scroll</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,10 +42,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#PresentationChristTemple">Presentation of Christ to the Temple, Anna</rs>
-                                <rs type="iconography" ref="#Anna"></rs>
+                            <p><rs type="iconography" ref="#PresentationChristTemple">Presentation of Christ to the Temple, the prophetess Anna</rs>
+                                <rs type="iconography" ref="#AnnaProphetess"></rs>
                                 <rs type="iconography" ref="#scroll"></rs>
-                            <rs type="iconography" ref="#mariological"></rs></p>
+                            <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
