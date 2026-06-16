@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Gregory of cape Akritas</title>
+                <title>Saint Gregory of Cape Akritas</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,8 +42,8 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#GregoryOfCrete">Gregory Of Crete</rs>
-                                   <rs type="iconography" ref="#prelate"></rs>
+                            <p><rs type="iconography" ref="#GregoryOfAkritas">Gregory of Cape Akritas</rs>
+                                   <rs type="iconography" ref="#monastic"></rs>
                                    <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
@@ -61,7 +61,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                    <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publication, archival photos (The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC.) 
