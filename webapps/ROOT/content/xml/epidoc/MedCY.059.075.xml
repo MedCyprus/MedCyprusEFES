@@ -60,12 +60,8 @@
         <profileDesc>
             <textClass>
                 <keywords>
-<<<<<<< Updated upstream
-                    <term type="textType" ref="text_types.xml#doc5">caption</term>
-=======
                     <term type="textType" ref="text_types.xml#doc5">caption; </term>
                     <term type="textType" ref="text_types.xml#doc6">quotation, biblical</term>
->>>>>>> Stashed changes
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publication, DOA Photographic Archive</creation>
