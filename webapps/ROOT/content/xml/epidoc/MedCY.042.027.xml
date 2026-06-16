@@ -61,7 +61,8 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                    <term type="textType" ref="text_types.xml#doc5">caption; </term>
+                    <term type="textType" ref="text_types.xml#doc6">quotation, biblical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publication</creation>
@@ -84,7 +85,7 @@
                 <p>The King of Glory</p>
             </div>
             <div type="commentary">
-                <p>No comment</p>
+                <p>PENDING Psalm 23:7-10</p>
             </div>
             <div type="bibliography">
                  <listBibl>
