@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Symeon</title>
+                <title>Saint Symeon with the Christ Child</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,9 +42,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#SymeonGodReceiver">Symeon</rs>
+                            <p><rs type="iconography" ref="#SymeonTheodochos">Saint Symeon holding the Christ Child</rs>
                             <rs type="iconography" ref="#male"></rs>
-                            <rs type="iconography" ref="#prophet"></rs></p>
+                            <rs type="iconography" ref="#biblicalfigure"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -63,7 +63,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                    <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
