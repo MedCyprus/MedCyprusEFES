@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Arsenios or Saint Niketas</title>
+                <title>Saint Artemios or Saint Niketas</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -44,9 +44,11 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#Niketas">Niketas</rs>
-                                <rs type="iconography" ref="#Arsenios">Arsenios</rs>
-                                   <rs type="iconography" ref="#martyr"></rs>
-                                   <rs type="iconography" ref="#male"></rs>
+                                <rs type="iconography" ref="#Artemios">Artemios</rs>
+                                <rs type="iconography" ref="#martyr"></rs>
+                                <rs type="iconography" ref="#militarysaint"></rs>
+                                <rs type="iconography" ref="#male"></rs>
+                                <rs type="iconography" ref="#dresscivilian"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
