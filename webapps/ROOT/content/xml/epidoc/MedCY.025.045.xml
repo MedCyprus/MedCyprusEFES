@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Presentation of Christ to the temple, Prophetess Anna</title>
+                <title>Presentation of Christ to the Temple, Prophetess Anna</title>
                  <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,9 +42,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#PresentationChristTemple">Presentation of Christ to the Temple, Anna</rs>
-                                <rs type="iconography" ref="#Anna"></rs>
-                            <rs type="iconography" ref="#mariological"></rs>
+                            <p><rs type="iconography" ref="#PresentationChristTemple">Presentation of Christ to the Temple, the prophetess Anna </rs>
+                                <rs type="iconography" ref="#AnnaProphetess"></rs>
+                            <rs type="iconography" ref="#christological"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -63,7 +63,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                    <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publication</creation>
@@ -78,7 +78,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><choice><orig>η</orig><reg>ἡ</reg></choice><persName type="sacred" key="Anna"><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἁ</reg></choice>γία</w> <name nymRef ="#Ἄννα" type="forename"><choice><orig>Α</orig><reg>Ἄ</reg></choice><hi rend="ligature">νν</hi>α</name></persName>               
+                    <lb n="1"/><choice><orig>η</orig><reg>ἡ</reg></choice> <persName type="sacred" key="Anna"><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἁ</reg></choice>γία</w> <name nymRef ="#Ἄννα" type="forename"><choice><orig>Α</orig><reg>Ἄ</reg></choice><hi rend="ligature">νν</hi>α</name></persName>               
                  </ab>
             </div>
             <div type="apparatus">
