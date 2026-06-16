@@ -42,9 +42,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#Aeithalas">Aeithalas</rs>
-                             <rs type="iconography" ref="#male"></rs>
-                             <rs type="iconography" ref="#deacon"></rs></p>
+                            <p><rs type="iconography" ref="#Aeithalas">Aeithalas, here represented as a mature priest rather than a deacon.</rs>
+                              <rs type="iconography" ref="#deacon"></rs>
+                              <rs type="iconography" ref="#priest"></rs>  
+                              <rs type="iconography" ref="#male"></rs>                            
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -63,7 +65,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                    <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
