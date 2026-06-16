@@ -65,7 +65,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                    <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publication</creation>
@@ -83,10 +83,10 @@
                   <lb n="1"/><choice><orig>Ο</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="John"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> 
                   <lb n="2"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline"><choice><orig>I</orig><reg> Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name>
                   <cb n="b"/>
-                      <lb n="1"/><addName type="epithet" key="Merciful"><w lemma="ἐλεήμων"></w><supplied reason="lost">ὁ</supplied>
+                      <lb n="1"/><addName type="epithet" key="Merciful"><w lemma="ἐλεήμων"><supplied reason="lost">ὁ</supplied>
                       <lb n="2"/><unclear>Ἐ</unclear><supplied reason="lost">λεή</supplied> 
                       <lb n="3" break="no"/>μω
-                      <lb n="4" break="no"/><supplied reason="lost">ν</supplied></addName></persName>
+                      <lb n="4" break="no"/><supplied reason="lost">ν</supplied></w></addName></persName>
                </ab>
             </div>
             <div type="apparatus">
