@@ -43,8 +43,10 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#JosephPresbyter">Joseph the Presbyter, here represented as a deacon rather than a priest.</rs>
-                            <rs type="iconography" ref="#male"></rs>
-                             <rs type="iconography" ref="#martyr"></rs></p>
+                               <rs type="iconography" ref="#priest"></rs>
+                                <rs type="iconography" ref="#deacon"></rs>
+                               <rs type="iconography" ref="#male"></rs>
+                               <rs type="iconography" ref="#martyr"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
