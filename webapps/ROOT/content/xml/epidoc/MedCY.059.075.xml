@@ -60,7 +60,12 @@
         <profileDesc>
             <textClass>
                 <keywords>
+<<<<<<< Updated upstream
                     <term type="textType" ref="text_types.xml#doc5">caption</term>
+=======
+                    <term type="textType" ref="text_types.xml#doc5">caption; </term>
+                    <term type="textType" ref="text_types.xml#doc6">quotation, biblical</term>
+>>>>>>> Stashed changes
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publication, DOA Photographic Archive</creation>
@@ -84,7 +89,7 @@
                 <p>The King of Glory</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>PENDING Psalm 23:7-10</p>
             </div>
             <div type="bibliography">
                  <listBibl>
