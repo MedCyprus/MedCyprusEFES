@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>The infant Christ</title>
+                <title>Saint Symeon with the Christ Child, Christ Child</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,10 +42,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#InfantChrist">Infant Christ</rs>
+                            <p><rs type="iconography" ref="#ChristChild">The Christ Child in the arms of Saint Symeon.</rs>
                                 <rs type="iconography" ref="#divine"></rs>
                              <rs type="iconography" ref="#male"></rs>
-                            <rs type="iconography" ref="#SymeonGodReceiver"></rs></p>
+                            <rs type="iconography" ref="#SymeonTheodochos"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -64,7 +64,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">Caption</term>
+                    <term type="textType" ref="text_types.xml#doc9">nomina sacra</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
