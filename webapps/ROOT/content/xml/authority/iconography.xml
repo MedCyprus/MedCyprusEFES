@@ -1003,6 +1003,9 @@
                 <item xml:id="monastic">
                     <term xml:lang="en">Monastic</term>
                 </item>
+                <item xml:id="OTfigure">
+                    <term xml:lang="en">Old Testament figure</term>
+                </item>
                 <item xml:id="personification">
                     <term xml:lang="en">Personification</term>
                 </item>
