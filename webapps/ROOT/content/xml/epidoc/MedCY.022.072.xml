@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Holy Mandylion, Christ</title>
+                <title>Mandylion, Christ</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -45,6 +45,7 @@
                             <p><rs type="iconography" ref="#Christ"></rs>
                                 <rs type="iconography" ref="#divine"></rs> 
                             <rs type="iconography" ref="#male"></rs>
+                                <rs type="iconography" ref="#mandylion"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
