@@ -54,11 +54,11 @@
                     <idno type="pleiades">https://pleiades.stoa.org/places/678106</idno>
                 </place>
                 
-                <place xml:id="Kaane">
+                <!--<place xml:id="Kaane">
                     <placeName xml:lang="grc">Καανή(;)</placeName>
                     <placeName xml:lang="en">Kaane(?)</placeName>
-                    <!--<idno type="pleiades">not found</idno>-->
-                </place>
+                    <idno type="pleiades">not found</idno>
+                </place>-->
                 
                 <place xml:id="MonasteryOfPhorbiotissa">
                     <placeName xml:lang="grc">Μονὴ τῶν Φορβίων</placeName>
