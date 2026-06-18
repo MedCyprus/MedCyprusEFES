@@ -150,15 +150,15 @@
                         <desc>family of Nikephoros Ischyrios</desc>
                     </relation>
                     
-                    <person xml:id="Kaane">
+                    <!--<person xml:id="Kaane">
                         <persName xml:lang="en"><forename>Kaane</forename></persName>
                         <persName xml:lang="grc"><forename>Καανή</forename></persName>
                         <occupation type="occupation"></occupation>
                         <note>Unclear from the context whether the name refers to a person or to a locality.</note>
-                        <!--<floruit notBefore="..." notAfter="...">...</floruit>
+                        <floruit notBefore="..." notAfter="...">...</floruit>
                         <idno type="wikidata"></idno>
-                        <idno type="PBW">...</idno>-->
-                    </person>
+                        <idno type="PBW">...</idno>
+                    </person>-->
                     
                     <person xml:id="Leon">
                         <persName xml:lang="en"><forename>Leon</forename> <surname>Authentes</surname></persName>
