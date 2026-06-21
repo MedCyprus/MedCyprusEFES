@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Nativity, Shepherds</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies. Mu with the central strokes reminiscent of an upsilon on a crossed stem. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#BirthVirgin">Birth of the Virgin, Shepherds</rs>
+                                  <rs type="iconography" ref="#Shepherds"></rs>                               
+                                  <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -72,7 +75,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                         <lb n="1"/>Ο<choice><orig>ı</orig><reg>ἱ</reg></choice> <w lemma="ποιμήν"><choice><sic>πυμ<choice><orig>ε</orig><reg>έ</reg></choice>          
+                        <lb n="2" break="no"/>νες</sic><corr>ποιμένες</corr></choice></w>
                  </ab>
             </div>
             <div type="apparatus">
