@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. Character size varies. NN and OY joined in ligature. The word Θεοτόκου is fully rendered by an abbreviation with a big, horizontal line above the word. Accents and breathings systematic.
+                            <handNote>White majuscule letters against blue background. Character size varies. Tau with a top bar terminating in serifs at either end and with its stem crossed at mid-height. NN and OY joined in ligature. The word Θεοτόκου is fully rendered by an abbreviation with a big, horizontal line above the word. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#BirthVirgin">Birth of the Virgin</rs>
+                            <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
