@@ -73,7 +73,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <lb n="1"/><supplied reason="lost">Ἡ</supplied> <w lemma="γέννησις">Γέ<hi rend="ligature">νν</hi>ησις</w> τñς <persName type="sacred" key="Theotokos"><expan><abbr rend="supraline">Θ</abbr><ex>εοτό</ex><abbr rend="supraline">κ<hi rend="ligature">οῦ</hi></abbr></expan></persName>               
                  </ab>
             </div>
             <div type="apparatus">
