@@ -1090,6 +1090,7 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>144-45</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1972"/><citedRange>202</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#HatfieldYoung1978"/></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1980, 19-20</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou1996"/><citedRange>73-74</citedRange></bibl>
