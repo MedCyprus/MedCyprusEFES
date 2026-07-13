@@ -5,14 +5,14 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Virgin and Child with Old Testament figures: Balaam(?), scroll</title>
+                <title>Virgin and Child with Old Testament figures: Unidentified prophet, scroll</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.057.024</idno>
+                <idno type="filename">MedCY.057.025</idno>
                 <availability>
                   <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
                 </availability>
@@ -28,12 +28,12 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, east wall of the south conch of the original triconch</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, east wall of the south conch of the original triconch, right</rs>
                                     <dimensions><height>PENDING</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the open scroll held in the right hand by the figure</layout>
+                                <layout>On the open scroll held in the left hand by the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -66,11 +66,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="057-024-01.JPG"><desc></desc></graphic>
-        <graphic url="057-024-02.JPG"><desc></desc></graphic>
-        <graphic url="057-024-03.JPG"><desc></desc></graphic>
-        <graphic url="057-024-04.JPG"><desc></desc></graphic>
-        <graphic url="057-024-05.JPG"><desc></desc></graphic>
+        <graphic rend="primary" url="057-025-01.JPG"><desc></desc></graphic>
+        <graphic url="057-025-02.JPG"><desc></desc></graphic>
+        <graphic url="057-025-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -86,7 +84,7 @@
                 <p>PENDING</p>
             </div>
             <div type="commentary">
-                <p>Text: Num. 24:17</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
