@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. Due to lack of space, the last syllable -ΠΙΝ (line 13) was written on the red border below the panel. Characters' size varies. Nu with its central bar forming a diagonal line. ΟΥ, ΤΗ, ΤΗΝ, ΝΗ joined in ligature. In lines 3 and 10 double point after the letters -ΕΛΑC and the word KTHCTHN respectively. Near systematic use of accents and breathings. Cross at the beggining of line 2.
+                            <handNote>White majuscule letters against blue background. Due to lack of space, the last syllable -ΠΙΝ (line 13) was written on the red border below the panel. Character size varies. Nu with its central bar forming a diagonal line. ΟΥ, ΤΗ, ΤΗΝ, ΝΗ joined in ligature. In lines 3 and 10 double point after the letters -ΕΛΑC and the word KTHCTHN respectively. Near systematic use of accents and breathings. Cross at the beggining of line 2.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -61,6 +61,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
+                    <term type="textType" ref="text_types.xml#doc24">quotation(?); </term>
                     <term type="textType" ref="text_types.xml#doc12">metrical</term>
                 </keywords>
             </textClass>
