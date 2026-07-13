@@ -30,7 +30,7 @@
     <add>
       <xsl:for-each select="$lemmata">
         <xsl:variable name="lemma" select="." />
-        <xsl:variable name="w" select="$root//tei:w[ancestor::tei:div/@type='edition'][contains(concat(' ', @lemma, ' '), $lemma)]" />
+        <xsl:variable name="w" select="$root//tei:w[ancestor::tei:div/@type='edition'][@lemma][contains(concat(' ', $lemma, ' '), @lemma)]" />
         <doc>
           <field name="document_type">
             <xsl:value-of select="$subdirectory" />
