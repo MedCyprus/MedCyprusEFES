@@ -63,7 +63,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc1" ref="https://ontology.inscriptiones.org/type_of_inscription/Dedication https://www.eagle-network.eu/voc/typeins/lod/88.html https://ark.mom.fr/ark:/76609/epv1sbdf33tz7">dedicatory</term>
+                    <term type="textType" key="doc1" ref="https://ontology.inscriptiones.org/type_of_inscription/Dedication https://www.eagle-network.eu/voc/typeins/lod/88.html https://ark.mom.fr/ark:/76609/epv1sbdf33tz7 https://www.wikidata.org/wiki/Q125323760">dedicatory</term>
                     <term type="textType" key="doc12" ref="https://www.eagle-network.eu/voc/typeins/lod/368.html">metrical</term>
                 </keywords>
             </textClass>

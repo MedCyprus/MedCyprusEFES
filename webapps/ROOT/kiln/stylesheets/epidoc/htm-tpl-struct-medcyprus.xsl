@@ -177,6 +177,14 @@
                  </xsl:element>
                  <xsl:text>)</xsl:text>
                </xsl:when>
+               <xsl:when test="starts-with(.,'https://www.wikidata.org')">
+                 <xsl:text> (</xsl:text>
+                 <xsl:element name="a">
+                   <xsl:attribute name="href" select="."/>
+                   <xsl:text>WD</xsl:text>
+                 </xsl:element>
+                 <xsl:text>)</xsl:text>
+               </xsl:when>
              </xsl:choose>
            </xsl:for-each>
          </xsl:if>
