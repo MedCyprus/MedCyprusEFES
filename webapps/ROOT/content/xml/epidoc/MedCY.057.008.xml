@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Horizontal abbreviation mark above Προφήτης. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Ezekiel">Ezekiel</rs>                                
+                                <rs type="iconography" ref="#prophet"></rs>
+                                <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -74,9 +76,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                 <cb n="a"/>
-                    <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Ezekiel"><w lemma="προφήτης"></w>
-                    
-                    
+                    <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Ezekiel"><w lemma="προφήτης"><expan><abbr rend="supraline">πρ</abbr><ex>ο</ex><abbr rend="supraline">φ</abbr><ex>ήτης</ex></expan></w>
                         <cb n="b"/>
                     <lb n="1"/><name type="forename" nymRef="#Ἰεζεκιήλ"><supplied reason="lost">Ἰε</supplied>ζε
                       <lb n="2"/>κι
