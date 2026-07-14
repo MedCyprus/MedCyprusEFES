@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Prophet Zephaniah</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -72,7 +73,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                PENDING
+                <cb n="a"/>
+                    <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Zephaniah"><w lemma="προφήτης"><expan><abbr rend="supraline">πρ</abbr><ex>ο</ex><abbr rend="supraline">φ</abbr><ex>ήτης</ex></expan></w>
+                     <lb n="2"/><name type="forename" nymRef="#Σοφονίας">Σο
+                     <lb n="3" break="no"/>    
+                  <cb n="b"/>
+                   <lb n="1"/>φ
+                     <lb n="2" break="no"/>ο
+                     <lb n="3" break="no"/><supplied reason="lost">νί
+                     <lb n="4" break="no"/>α
+                      <lb n="5" break="no"/>ς</supplied></name></persName>       
                  </ab>
             </div>
             <div type="apparatus">
