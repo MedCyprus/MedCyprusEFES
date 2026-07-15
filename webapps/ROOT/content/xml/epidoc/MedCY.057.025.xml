@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Virgin and Child with Old Testament figures: Unidentified prophet, scroll</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>  
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -29,7 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, east wall of the south conch of the original triconch, right</rs>
-                                    <dimensions><height>PENDING</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>13,5</height><width>8</width></dimensions> 
+                                    <dimensions unit="cm" scope="scroll"><height>17</height><width>11,5</width></dimensions>  
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
@@ -37,11 +39,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black majuscule letters against white background. Character size varies. Omega formed of two linked oval bowls. Mu with the central strokes reminiscent of an upsilon on a crossed stem. TH, MH, and THN joined in ligature. Letter height: <height unit="cm">2,5-3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#unidentified_figure">Unidentified figure</rs>
+                                <rs type="iconography" ref="#prophet"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                             <rs type="iconography" ref="#scroll"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
