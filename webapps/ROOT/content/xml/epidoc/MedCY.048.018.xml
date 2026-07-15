@@ -46,7 +46,7 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Pelendri" n="1st">Pelendri, Holy Cross</origPlace>
+                            <origPlace ref="locations.xml#Pelendri" n="2nd">Pelendri, Holy Cross</origPlace>
                             <origDate notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</origDate>
                         </origin>
                         <provenance when="2022">
