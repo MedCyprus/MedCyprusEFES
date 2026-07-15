@@ -78,7 +78,7 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>Saint Nicholas of Myra</p>
@@ -88,7 +88,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>Unpublished</bibl>
+                <bibl><ptr target="#Hadjichristodoulou2005"/>, <citedRange>59-61</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
