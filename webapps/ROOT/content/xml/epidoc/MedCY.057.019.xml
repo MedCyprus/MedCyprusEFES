@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Prophet Daniel</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -41,7 +42,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Daniel">Daniel</rs>                                
+                                <rs type="iconography" ref="#prophet"></rs>
+                                <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -72,7 +75,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                PENDING
+                <cb n="a"/>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Daniel"><w lemma="προφήτης"><supplied reason="lost">προφήτης</supplied></w>
+                   <cb n="b"/> 
+                    <lb n="1"/><name type="forename" nymRef="#Δανιήλ">Δ<hi rend="ligature">αν</hi><choice><orig>ϊ</orig><reg>ι</reg></choice>
+                    <lb n="2" break="no"/>ήλ</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
