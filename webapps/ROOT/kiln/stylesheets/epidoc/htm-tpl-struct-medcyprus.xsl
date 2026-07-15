@@ -146,9 +146,10 @@
      </xsl:if>
      </p>
      
-     <p><b>Type of text: </b>
+     <p><b>Text category: </b>
        <!--<xsl:apply-templates select="//t:term[@type='textType']"/>-->
        <xsl:for-each select="//t:term[@type='textType']">
+         <xsl:variable name="cur-term" select="normalize-space(lower-case(.))"/>
          <xsl:apply-templates/>
          <xsl:if test="starts-with(@ref,'http')">
            <xsl:for-each select="tokenize(@ref,' ')">
@@ -157,6 +158,11 @@
                  <xsl:text> (</xsl:text>
                  <xsl:element name="a">
                    <xsl:attribute name="href" select="."/>
+                   <xsl:attribute name="title">
+                     <xsl:text>Definition of '</xsl:text>
+                     <xsl:value-of select="$cur-term"/>
+                     <xsl:text>' in FairEpigraphy vocabularies</xsl:text>
+                   </xsl:attribute>
                    <xsl:text>FE</xsl:text>
                  </xsl:element>
                  <xsl:text>)</xsl:text>
@@ -165,6 +171,11 @@
                  <xsl:text> (</xsl:text>
                  <xsl:element name="a">
                    <xsl:attribute name="href" select="."/>
+                   <xsl:attribute name="title">
+                     <xsl:text>Definition of '</xsl:text>
+                     <xsl:value-of select="$cur-term"/>
+                     <xsl:text>' in EAGLE vocabularies</xsl:text>
+                   </xsl:attribute>
                    <xsl:text>Egl</xsl:text>
                  </xsl:element>
                  <xsl:text>)</xsl:text>
@@ -173,6 +184,11 @@
                  <xsl:text> (</xsl:text>
                  <xsl:element name="a">
                    <xsl:attribute name="href" select="."/>
+                   <xsl:attribute name="title">
+                     <xsl:text>Definition of '</xsl:text>
+                     <xsl:value-of select="$cur-term"/>
+                     <xsl:text>' in Biblissima EpiVoc vocabulary</xsl:text>
+                   </xsl:attribute>
                    <xsl:text>EV</xsl:text>
                  </xsl:element>
                  <xsl:text>)</xsl:text>
@@ -181,6 +197,11 @@
                  <xsl:text> (</xsl:text>
                  <xsl:element name="a">
                    <xsl:attribute name="href" select="."/>
+                   <xsl:attribute name="title">
+                     <xsl:text>Definition of '</xsl:text>
+                     <xsl:value-of select="$cur-term"/>
+                     <xsl:text>' in Wikidata ontology</xsl:text>
+                   </xsl:attribute>
                    <xsl:text>WD</xsl:text>
                  </xsl:element>
                  <xsl:text>)</xsl:text>
