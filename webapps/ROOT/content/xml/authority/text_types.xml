@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Controlled vocabulary of types of text for MedCyprus</title>
+                <title>Controlled vocabulary of text categories for MedCyprus</title>
             </titleStmt>
             <publicationStmt>
                 <p/>
@@ -48,57 +48,72 @@ Unknown
 -->          
                 <item xml:id="doc1"> 
                     <term xml:lang="en">Dedicatory</term>
+                    <ref type="fair-epigraphy">https://ontology.inscriptiones.org/type_of_inscription/Building_inscription</ref>
+                    <ref type="fair-epigraphy">https://ontology.inscriptiones.org/type_of_inscription/Dedication</ref>
                 </item>
                 <item xml:id="doc2">
                     <term xml:lang="en">Cryptogram</term>
                 </item>
                 <item xml:id="doc3">
                     <term xml:lang="en">Donation</term>
+                    <ref type="fair-epigraphy">https://ontology.inscriptiones.org/type_of_inscription/Endownment</ref>
                 </item>
                 <item xml:id="doc4">
                     <term xml:lang="en">Epitaph</term>
+                    <ref type="fair-epigraphy">https://ontology.inscriptiones.org/type_of_inscription/Funerary</ref>
                 </item>
                     <item xml:id="doc5">
                         <term xml:lang="en">Caption</term>
+                        <ref type="fair-epigraphy">https://ontology.inscriptiones.org/type_of_inscription/Description</ref>
                 </item>
                 <item xml:id="doc6">
                     <term xml:lang="en">Quotation, biblical</term>
+                    <ref type="fair-epigraphy">https://ontology.inscriptiones.org/type_of_inscription/Quotation</ref>
                 </item>
                 <item xml:id="doc7">
                     <term xml:lang="en">Quotation, hymnographical</term>
+                    <ref type="fair-epigraphy">https://ontology.inscriptiones.org/type_of_inscription/Quotation</ref>
                 </item>
                 <item xml:id="doc8">
                     <term xml:lang="en">Quotation, liturgical</term>
+                    <ref type="fair-epigraphy">https://ontology.inscriptiones.org/type_of_inscription/Quotation</ref>
                 </item>
                 <item xml:id="doc9">
                     <term xml:lang="en">Nomina Sacra</term>
                 </item>
                 <item xml:id="doc10">
                     <term xml:lang="en">Apotropaic</term>
+                    <ref type="fair-epigraphy">https://ontology.inscriptiones.org/type_of_inscription/Apotropaic_text</ref>
                 </item>
                 <item xml:id="doc11">
                     <term xml:lang="en">Invocation</term>
+                    <ref type="fair-epigraphy">https://ontology.inscriptiones.org/type_of_inscription/Invocation</ref>
                 </item>
                 <item xml:id="doc12">
                     <term xml:lang="en">Metrical</term>
+                    <ref type="eagle">https://www.eagle-network.eu/voc/typeins/lod/368.html</ref>
                 </item>
                 <item xml:id="doc13">
                     <term xml:lang="en">Intercessory</term>
                 </item>
                 <item xml:id="doc14">
                     <term xml:lang="en">Funerary</term>
+                    <ref type="fair-epigraphy">https://ontology.inscriptiones.org/type_of_inscription/Funerary</ref>
                 </item>
                 <item xml:id="doc15">
                     <term xml:lang="en">Quotation, monastic</term>
+                    <ref type="fair-epigraphy">https://ontology.inscriptiones.org/type_of_inscription/Quotation</ref>
                 </item>
                 <item xml:id="doc16">
                     <term xml:lang="en">Numeric</term>
                 </item>
                 <item xml:id="doc17">
                     <term xml:lang="en">Unknown</term>
+                    <ref type="fair-epigraphy">https://ontology.inscriptiones.org/type_of_inscription/Unable_to_determine</ref>
                 </item>
                 <item xml:id="doc18">
                     <term xml:lang="en">Painter's signature</term>
+                    <ref type="fair-epigraphy">https://ontology.inscriptiones.org/type_of_inscription/Attribution</ref>
                 </item>
                 <item xml:id="doc19">
                     <term xml:lang="en">Biographical</term>
@@ -108,15 +123,19 @@ Unknown
                 </item>
                 <item xml:id="doc21">
                     <term xml:lang="en">Hortatory</term>
+                    <ref type="fair-epigraphy">https://ontology.inscriptiones.org/type_of_inscription/Exhortation</ref>
                 </item>
                 <item xml:id="doc22">
                     <term xml:lang="en">Quotation, patristic</term>
+                    <ref type="fair-epigraphy">https://ontology.inscriptiones.org/type_of_inscription/Quotation</ref>
                 </item>
                 <item xml:id="doc23">
                     <term xml:lang="en">Acclamation</term>
+                    <ref type="fair-epigraphy">https://ontology.inscriptiones.org/type_of_inscription/Acclamation</ref>
                 </item>
                 <item xml:id="doc24">
                     <term xml:lang="en">Quotation, source unknown</term>
+                    <ref type="fair-epigraphy">https://ontology.inscriptiones.org/type_of_inscription/Quotation</ref>
                 </item>
             </list>
         </body>
