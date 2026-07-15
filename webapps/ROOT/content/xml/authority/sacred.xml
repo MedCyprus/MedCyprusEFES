@@ -878,6 +878,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1273634</idno>                   
                 </person>
                 
+                <person xml:id="Malachi">
+                    <persName xml:lang="grc">Μαλαχίας</persName>
+                    <persName xml:lang="en">Malachi</persName> 
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q5767200</idno>                   
+                </person>
+                
                 <person xml:id="Mamas">
                     <persName xml:lang="grc">Μάμας</persName>
                     <persName xml:lang="en">Mamas</persName> 
