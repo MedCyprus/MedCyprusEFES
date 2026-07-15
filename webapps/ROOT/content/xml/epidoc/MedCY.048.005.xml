@@ -95,12 +95,12 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Stylianou1960"/><citedRange>107-09</citedRange></bibl>
+                <bibl><ptr target="#Stylianou1960"/>, <citedRange>107-09</citedRange></bibl>
                 <bibl><ptr target="#Papageorgiou2003"/>, <citedRange>111</citedRange></bibl>
-                <bibl><ptr target="#Hadjichristodoulou2005"/>,<citedRange>58-59</citedRange></bibl>
-                <bibl><ptr target="#Metcalf2009"/><citedRange>227</citedRange></bibl>
-                <bibl><ptr target="#Rhoby2009"/><citedRange>367-69</citedRange></bibl>
-                <bibl><ptr target="#Zarras2010"/>,<citedRange>15?</citedRange></bibl>
+                <bibl><ptr target="#Hadjichristodoulou2005"/>, <citedRange>58-59</citedRange></bibl>
+                <bibl><ptr target="#Metcalf2009"/>, <citedRange>227</citedRange></bibl>
+                <bibl><ptr target="#Rhoby2009"/>, <citedRange>367-69</citedRange></bibl>
+                <bibl><ptr target="#Zarras2010"/>,<citedRange>15</citedRange></bibl>
                 <bibl><author>Carr </author>in <ptr target="#VisCult"/> <citedRange>1, 214-19</citedRange></bibl></listBibl>
             </div>
         </body>
