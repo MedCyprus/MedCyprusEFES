@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Nicholas</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                   <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Character size varies.TH joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">3-5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Nicholas">Nicholas</rs>
+                                  <rs type="iconography" ref="#prelate"></rs>
+                                  <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -74,7 +77,19 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                PENDING
+               <cb n="a"/>
+                    <lb n="1"/>Ὁ 
+                  <lb n="2"/><persName type="sacred" key="Nicholas"><w lemma="ἅγιος">ἅ
+                   <lb n="3" break="no"/>γι
+                   <lb n="4" break="no"/>ο
+                 <lb n="5" break="no"/>ς</w>
+                    <cb n="b"/>
+                     <lb n="1"/><name nymRef ="#Νικόλαος" type="forename"><supplied reason="lost">Νι</supplied>
+                      <lb n="2" break="no"/>κ<supplied reason="lost">ό</supplied>
+                     <lb n="3" break="no"/>λα
+                    <lb n="4" break="no"/>ο
+                     <lb n="5" break="no"/>ς</name></persName>
+                     <lb n="6"/><choice><orig>ὀ</orig><reg>ὁ</reg></choice> <choice><orig>ε</orig><reg>ἐ</reg></choice>ν <hi rend="ligature">τη</hi> <placeName ref="mentioned_places.xml#Myra">Μ<unclear>η</unclear>ρ<unclear>η</unclear></placeName> 
                  </ab>
             </div>
             <div type="apparatus">
