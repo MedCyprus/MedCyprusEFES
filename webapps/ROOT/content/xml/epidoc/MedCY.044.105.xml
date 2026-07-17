@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dormition, metrical inscription (earlier layer)</title>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
+                <editor xml:id="mgp"> Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.044.105</idno>
+                <availability>
+                 <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a preliminary<material>plastered</material> <objectType>layer. </objectType>Partially preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, west wall, middle register, below the Dormition</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                            </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>At the center of the Horizontal band extending along the full width of the scene</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Black majuscule letters against red background. Systematic use of triangular serifs. Letter height: <height unit="cm">4</height>
+                            </handNote>
+                        </handDesc>
+                         <decoDesc>
+                            <p><rs type="iconography" ref="#Dormition">Dormition</rs>
+                                   <rs type="iconography" ref="#mariological"></rs></p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Asinou" n="1st">Niketari, Panagia Phorbiotissa or Asinou</origPlace>
+                            <origDate notBefore="1105" notAfter="1106" evidence="internal-date">1105/6</origDate>
+                        </origin>
+                         <provenance when="2022">
+                        </provenance>
+                        <provenance type="observed" resp="#tp">04/07/2026
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc12">metrical</term>
+                </keywords>
+            </textClass>
+            <creation>transcription (G. Apeitos, Th. Petrou), publications</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic rend="primary" url="044-105-01.JPG"><desc></desc></graphic>
+        <graphic url="044-105-02.JPG"><desc></desc></graphic>
+        <graphic url="044-105-03.JPG"><desc></desc></graphic>
+        <graphic url="044-105-04.JPG"><desc></desc></graphic>
+        <graphic url="044-105-05.JPG"><desc></desc></graphic>
+                    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+              <ab>PENDING
+             </ab> 
+            </div>
+            <div type="apparatus">
+                    <p>PENDING</p>
+                 </div>
+            <div type="translation">
+                <p>PENDING</p>
+            </div>
+            <div type="commentary">
+                <p>PENDING</p>
+            </div>
+            <div type="bibliography">
+                <listBibl> 
+                   <bibl><ptr target="#Ševčenko2012"/>, <citedRange>80-81</citedRange></bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
