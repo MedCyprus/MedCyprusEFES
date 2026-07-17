@@ -278,7 +278,10 @@
                 </item>
                 <item xml:id="Aphthonios">
                     <term xml:lang="en">Aphthonios</term>
-                </item>                
+                </item>               
+                <item xml:id="Arethas">
+                    <term xml:lang="en">Arethas</term>
+                </item>
                 <item xml:id="Ariston">
                     <term xml:lang="en">Ariston</term>
                 </item>
@@ -554,6 +557,9 @@
                 <item xml:id="JohnTheologian">
                     <term xml:lang="en">John the Theologian</term>
                 </item>
+                <item xml:id="JohntheWonderworkingUnmercenary">
+                    <term xml:lang="en">John the Wonderworking Unmercenary</term>
+                </item>
                 <!--<item xml:id="JohnEvangelist">
                     <term xml:lang="en">John the Evangelist</term>
                 </item>-->
@@ -587,6 +593,9 @@
                 </item>
                 <item xml:id="Kyriakos">
                     <term xml:lang="en">Kyriakos</term>
+                </item>
+                <item xml:id="Kyros">
+                    <term xml:lang="en">Kyros</term>
                 </item>
                 <item xml:id="Laurentios">
                     <term xml:lang="en">Laurentios</term>
