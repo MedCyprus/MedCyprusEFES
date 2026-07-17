@@ -153,6 +153,12 @@
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
+                <person xml:id="Arethas">
+                    <persName xml:lang="grc">Ἀρέθας</persName>
+                    <persName xml:lang="en">Arethas</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1565813</idno>                   
+                </person>
+                
                 <person xml:id="Arkadios">
                     <persName xml:lang="grc">Ἀρκάδιος</persName>
                     <persName xml:lang="en">Arkadios</persName>
