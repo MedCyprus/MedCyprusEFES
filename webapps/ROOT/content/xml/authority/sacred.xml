@@ -751,6 +751,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q328804</idno>                   
                 </person>
                 
+                <person xml:id="JohntheWonderworkingUnmercenary">
+                    <persName xml:lang="grc">Ἰωάννης</persName>
+                    <persName xml:lang="en">John the Wonderworking Unmercenary</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q378732</idno>                   
+                </person>
+                
                 <person xml:id="Jonah">
                     <persName xml:lang="grc">Ἰωνάς</persName>
                     <persName xml:lang="en">Jonah</persName>                   
@@ -818,6 +824,12 @@
                     <persName xml:lang="grc" type="epithet" subtype="Kyriakos" key="Anchorite">ὁ Ἀναχωρητής</persName>
                     <persName xml:lang="en" type="epithet" subtype="Kyriakos" key="Anchorite">Anchorite</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q743246</idno>                   
+                </person>
+                
+                <person xml:id="Kyros">
+                    <persName xml:lang="grc">Κῦρος</persName>
+                    <persName xml:lang="en">Kyros</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q378732</idno>                   
                 </person>
                 
                 <person xml:id="Lord">
