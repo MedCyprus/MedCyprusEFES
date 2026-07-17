@@ -7,8 +7,9 @@
             <titleStmt>
                 <title>Saint Basil, scroll</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
-                <editor xml:id="mgp"> Maria G. Parani</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
@@ -29,7 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, first figure on the right</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                  <dimensions unit="cm" scope="text"><height>36</height><width>10,5</width></dimensions> 
+                                    <dimensions unit="cm" scope="scroll"><height>48</height><width>13,5</width></dimensions>  
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
@@ -37,11 +39,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black majuscule letters against white background. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Basil">Basil</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#scroll"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

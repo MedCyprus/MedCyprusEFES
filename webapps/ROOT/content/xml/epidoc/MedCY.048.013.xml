@@ -5,15 +5,14 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Virgin and Child with Old Testament figures: Unidentified prophet, scroll</title>
+                <title>Saint John Chrysostom, scroll</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
-                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>  
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.057.025</idno>
+                <idno type="filename">MedCY.048.013</idno>
                 <availability>
                   <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
                 </availability>
@@ -28,35 +27,31 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, east wall of the south conch of the original triconch, right</rs>
-                                    <dimensions unit="cm" scope="text"><height>13,5</height><width>8</width></dimensions> 
-                                    <dimensions unit="cm" scope="scroll"><height>17</height><width>11,5</width></dimensions>  
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, first figure on the left</rs>
+                                    <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the open scroll held in the left hand by the figure</layout>
+                                <layout>On the open scroll held in both hands by the prelate</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against white background. Character size varies. Omega formed of two linked oval bowls. Mu with the central strokes reminiscent of an upsilon on a crossed stem. TH, MH, and THN joined in ligature. Letter height: <height unit="cm">2,5-3</height>
+                            <handNote>PENDING
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#unidentified_figure">Unidentified figure</rs>
-                                <rs type="iconography" ref="#prophet"></rs>
-                            <rs type="iconography" ref="#male"></rs>
-                             <rs type="iconography" ref="#scroll"></rs></p>
+                            <p>PENDING</p>
                         </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Strovolos" n="1st">Strovolos, Panagia Chryseleousa</origPlace>
-                            <origDate notBefore="1267" notAfter="1333" precision="medium" evidence="artistic-style">Late 13th century-Early 14th century</origDate>
+                            <origPlace ref="locations.xml#Pelendri" n="1st">Pelendri, Holy Cross</origPlace>
+                            <origDate when="1178" evidence="internal-date">1178</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
-                        <provenance type="observed" resp="#tp">31/03/2022</provenance>
+                        <provenance type="observed" resp="#tp">12/07/2022</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -64,16 +59,17 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc6">quotation, biblical</term>
+                    <term type="textType" ref="text_types.xml#doc8">quotation, liturgical</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publication</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="057-025-01.JPG"><desc></desc></graphic>
-        <graphic url="057-025-02.JPG"><desc></desc></graphic>
-        <graphic url="057-025-03.JPG"><desc></desc></graphic>
+        <graphic rend="primary" url="048-013-01.JPG"><desc></desc></graphic>
+        <graphic url="048-013-02.JPG"><desc></desc></graphic>
+        <graphic url="048-013-03.JPG"><desc></desc></graphic>
+        <graphic url="048-013-04.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -83,7 +79,7 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>PENDING</p>
@@ -93,7 +89,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-               <bibl><ptr target="#Hadjichristodoulou2017"/>, <citedRange>55</citedRange></bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

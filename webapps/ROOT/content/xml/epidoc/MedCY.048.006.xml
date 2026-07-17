@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Basil the Great</title>
+                <title>Saint Basil the Great</title> 
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Character size varies. Accents and breathings systematic. Letter height: <height unit="cm">3,5-5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Basil">Basil</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +76,19 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                PENDING
+                 <cb n="a"/>
+                    <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Basil"><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἅ</reg></choice>
+                    <lb n="2" break="no"/>γι
+                     <lb n="3" break="no"/>ο
+                    <lb n="4" break="no"/>ς</w>
+                    <cb n="b"/>
+                     <lb n="1"/><addName type="epithet" key="theGreat">κὲ <unclear>μέγας</unclear>
+                      <lb n="2"/><name nymRef ="#Βασίλειος" type="forename"><choice><sic>Β
+                     <lb n="3" break="no"/><unclear>α</unclear>
+                     <lb n="4" break="no"/>σ<choice><orig>ı</orig><reg>ί</reg></choice> 
+                      <lb n="5" break="no"/>λη
+                      <lb n="6" break="no"/>ο<supplied reason="lost">ς</supplied></sic><corr>Βασίλειος</corr></choice>
+                     </name></addName></persName> 
                  </ab>
             </div>
             <div type="apparatus">
