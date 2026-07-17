@@ -2583,7 +2583,7 @@
                     <placeName xml:lang="el">Τάλα, Ἐγκλείστρα Αγίου Νεοφύτου</placeName>
                     <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
                     <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
-                    <location><geo>34.846888, 32.445192</geo></location>
+                    <location><geo>34.846876, 32.445087</geo></location>
                     <desc type="construction"><date notBefore="1159" notAfter="1197" precision="medium">1159/60: cell, also containing the tomb of Neophytos the Recluse, and the bema; 1183: naos; after 1170: narthex, hagiasterion (small space above the naos), New Zion (i.e., new cell, above the hagiasterion)</date></desc>
                     <desc type="function"><term>Hermitage</term>; <term>monastic</term>; <term>funerary</term></desc>
                     <desc type="context"><term>Rural</term></desc>
