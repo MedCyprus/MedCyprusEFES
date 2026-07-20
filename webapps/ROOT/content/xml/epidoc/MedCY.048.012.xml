@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint John Chrysostom</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Character size varies. CT joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">2,5-8</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#JohnChrysostom">John Chrysostom</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -74,7 +77,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                PENDING
+                <cb n="a"/>
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> 
+                  <lb n="2"/><persName type="sacred" key="JohnChrysostom"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> 
+                 <cb n="b"/>
+                 <lb n="1"/><name type="forename" nymRef="#Ἰωάννης"><supplied reason="lost">Ἰωάννης</supplied></name>       
+                 <lb n="2"/><choice><orig>o</orig><reg>ὁ</reg></choice> 
+                 <lb n="3"/><addName type="epithet" key="Chrysostom">Χρυ
+                 <lb n="4" break="no"/>σ<choice><orig>o</orig><reg>ό</reg></choice><hi rend="ligature">στ</hi>ο
+                <lb n="5" break="no"/>μ
+                 <lb n="6" break="no"/>ος</addName></persName>
                  </ab>
             </div>
             <div type="apparatus">
