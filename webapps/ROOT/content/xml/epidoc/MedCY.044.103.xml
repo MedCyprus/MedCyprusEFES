@@ -77,8 +77,13 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
-             </ab> 
+              <ab>
+                <lb n="1"/>Ὁ <persName type="sacred" key="Artemios"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                  <lb n="2"/><name type="forename" nymRef="#Ἀρτέμιος"><choice><sic>Ἀρ
+                  <lb n="3" break="no"/>τέ
+                 <lb n="4" break="no"/>μη
+                  <lb n="5" break="no"/>ος</sic><corr>Ἀρτέμιος</corr></choice></name></persName>    
+              </ab>
             </div>
             <div type="apparatus">
                     <p>PENDING</p>
@@ -87,7 +92,7 @@
                 <p>Saint Artemios</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
