@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Epiphanios</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. NH joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">3,5-5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Epiphanios">Epiphanios</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -72,7 +75,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                PENDING
+                <cb n="a"/>
+                 <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice>  
+                  <lb n="2"/><persName type="sacred" key="Epiphanios"><w lemma="ἅγιος">ἅ
+                 <lb n="3" break="no"/>γι
+                    <lb n="4" break="no"/>ος</w>
+                    <cb n="b"/>
+                    <lb n="1"/><name type="forename" nymRef="#Ἐπιφάνιος"><choice><sic><choice><orig>Ὲ</orig><reg>Ἐ</reg></choice>  
+                   <lb n="2" break="no"/>π<choice><orig>ῆ</orig><reg>η</reg></choice> 
+                        <lb n="3" break="no"/>φ<choice><orig>α</orig><reg>ά</reg></choice><hi rend="ligature">νη</hi>
+                      <lb n="4" break="no"/>ος</sic><corr>Ἐπιφάνιος</corr></choice></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
