@@ -77,14 +77,14 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
+              <ab><gap reason="lost" extent="unknown" unit="character"></gap>ν<unclear>α</unclear><gap reason="lost" extent="unknown" unit="character"></gap>ντρο<gap reason="lost" quantity="1" unit="character"></gap>αμ<gap reason="lost" extent="unknown" unit="character"></gap>     
              </ab> 
             </div>
             <div type="apparatus">
                     <p>PENDING</p>
                  </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Not usefully translated</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>
