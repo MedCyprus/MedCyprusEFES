@@ -42,9 +42,11 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Artemios">Artemios</rs>
-                            <rs type="iconography" ref="#martyr"></rs>
-                            <rs type="iconography" ref="#male"></rs>
+                                  <p><rs type="iconography" ref="#Artemios">Artemios</rs>
+                                  <rs type="iconography" ref="#martyr"></rs>
+                                  <rs type="iconography" ref="#militarysaint"></rs>
+                                  <rs type="iconography" ref="#male"></rs>          
+                                  <rs type="iconography" ref="#dresscivilian"></rs>                      
                             </p>
                         </decoDesc>
                     </physDesc>
