@@ -42,8 +42,10 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
-                            </p>
+                            <p><rs type="iconography" ref="#Kosmas">Kosmas or Damianos</rs>
+                                  <rs type="iconography" ref="#Damianos"></rs>  
+                                  <rs type="iconography" ref="#doctor"></rs>
+                                  <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -67,13 +69,13 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="033-045-01.jpg"><desc>Saint Kosmas or Damian?, inscription (Photo by Cyril Mango, The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC)</desc></graphic>
-        <graphic url="033-045-02.jpg"><desc>Saint Kosmas or Damian?, general view (Photo by Cyril Mango, The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC)</desc></graphic>  
+         <graphic rend="primary" url="033-045-01.jpg"><desc>(Photo by Cyril Mango, The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC)</desc></graphic>
+        <graphic url="033-045-02.jpg"><desc>(Photo by Cyril Mango, The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC)</desc></graphic>  
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>
+              <ab>PENDING
                   <cb n="a"/>
                    <lb n="1"/> <lb n="1"/><supplied reason="lost">Ὁ</supplied> <w lemma="ἅγιος"><supplied reason="lost"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></supplied></w>
                    <cb n="b"/>
