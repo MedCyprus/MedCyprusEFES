@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Character size varies. Mu with the central strokes reminiscent of an upsilon on a stem. AN joined in ligature. Letter height: <height unit="cm">1,5- 3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Panteleimon">Panteleimon</rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#martyr"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +75,20 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                PENDING
+                <cb n="a"/>
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Panteleimon"><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἅ</reg></choice>γι<supplied reason="lost">ος</supplied></w>
+                   <cb n="b"/>
+                   <lb n="1"/><name nymRef ="#Παντελεήμων" type="forename"><choice><sic>Π<hi rend="ligature">αν</hi>
+                       <lb n="2" break="no"/>
+                    <cb n="a"/>
+                     <lb n="1"/>τε
+                      <lb n="2" break="no"/>λε
+                       <lb n="3" break="no"/>
+                     <cb n="b"/>
+                     <lb n="1"/><choice><orig>η</orig><reg>ή</reg></choice>
+                     <lb n="2" break="no"/>μ
+                    <lb n="3" break="no"/>ω
+                    <lb n="4" break="no"/>ν</sic><corr>Παντελεήμων</corr></choice></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
