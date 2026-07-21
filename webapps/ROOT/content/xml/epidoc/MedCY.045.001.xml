@@ -46,8 +46,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Ormideia">Ormideia, Saint George of Agkona</origPlace>
-                            <origDate notBefore="1267" notAfter="1278" precision="medium">Late 13th century</origDate>
+                            <origPlace ref="locations.xml#Ormideia" n="1st">Ormideia, Saint George of Agkona</origPlace>
+                            <origDate notBefore="1267" notAfter="1278" precision="medium" evidence="artistic-style">Late 13th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
