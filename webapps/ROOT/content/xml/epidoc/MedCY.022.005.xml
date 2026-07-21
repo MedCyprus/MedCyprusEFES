@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Prophet Jonah, scroll</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -50,8 +51,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#KalopanagiotisKatholikon">Kalopanagiotis, Monastery of Saint John Lampadistes, church of Saint Herakleidios</origPlace>
-                            <origDate notBefore="1251" notAfter="1300" precision="medium">Second half of 13th century</origDate>
+                            <origPlace ref="locations.xml#KalopanagiotisKatholikon" n="3rd">Kalopanagiotis, Monastery of Saint John Lampadistes, church of Saint Herakleidios</origPlace>
+                            <origDate notBefore="1251" notAfter="1300" precision="medium" evidence="artistic-style material-context">Second half of 13th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
