@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Peter</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against red background. Character size varies. AN and OC joined in ligature. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Peter">Peter</rs>
+                            <rs type="iconography" ref="#apostle"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#martyr"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -72,7 +76,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                PENDING
+                <cb n="a"/>
+                   <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Peter"><w lemma="ἅγιος"><supplied reason="lost"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></supplied></w>
+                 <cb n="b"/>    
+                <lb n="1"/><name type="forename" nymRef="#Πέτρος">Π<unclear>έ</unclear>
+                  <lb n="2" break="no"/><hi rend="ligature">τρ</hi><hi rend="ligature">ος</hi></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
