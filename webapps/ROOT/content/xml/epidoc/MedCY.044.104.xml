@@ -75,22 +75,28 @@
                     </facsimile>
     <text>
         <body>
-            <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING
-             </ab> 
+          <div type="edition" xml:space="preserve" xml:lang="grc">
+            <ab>
+                <lb n="1"/>Ὁ <persName type="sacred" key="Arethas"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                  <lb n="2"/><name type="forename" nymRef="#Ἀρέθας"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>
+                  <lb n="3" break="no"/>ρέ
+                 <lb n="4" break="no"/>θ
+                  <lb n="5" break="no"/>α
+                  <lb n="6" break="no"/>ς</name></persName>    
+              </ab>
             </div>
             <div type="apparatus">
-                    <p>PENDING</p>
+                    <p>n/a</p>
                  </div>
             <div type="translation">
                 <p>Saint Arethas</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
-                   <bibl>PENDING</bibl>
+                   <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
