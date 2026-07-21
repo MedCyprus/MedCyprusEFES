@@ -67,7 +67,7 @@
                     <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publication</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -86,7 +86,7 @@
               </ab>
             </div>
             <div type="apparatus">
-                    <p>PENDING</p>
+                    <p>n/a</p>
                  </div>
             <div type="translation">
                 <p>Saint Kyros</p>
@@ -96,7 +96,7 @@
             </div>
             <div type="bibliography">
                 <listBibl> 
-                   <bibl>PENDING</bibl>
+                   <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
