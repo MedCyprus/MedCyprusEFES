@@ -30,7 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, middle figure</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                   <dimensions unit="cm" scope="text"><height>31,5</height><width>11,5</width></dimensions> 
+                                    <dimensions unit="cm" scope="scroll"><height>44</height><width>13</width></dimensions>  
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
