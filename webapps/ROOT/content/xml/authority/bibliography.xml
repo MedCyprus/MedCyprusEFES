@@ -312,9 +312,13 @@
                     
                     <bibl xml:id="Procopiou2018"><author><surname>Procopiou</surname><forename> E.</forename></author>, <date>2018</date>, <title level="a">New Evidence for the Early Byzantine Ecclesiastical Architecture of Cyprus</title>, in <title level="m">Church Building in Cyprus (fourth to seventh centuries). A Mirror of Intercultural contacts in the Eastern Mediterranean</title>, eds. <editor><forename>M.</forename> <surname>Horster</surname></editor>, <editor><forename>D. </forename><surname>Nicolaou</surname></editor> and <editor><forename>S.</forename> <surname>Rogge</surname></editor>, <placeName>Münster-New York</placeName>, <biblScope unit="page">73-98</biblScope>.</bibl>
                     
-                    <bibl xml:id="ProcopiouDemetriou2014"><author><surname>Procopiou</surname> <forename>E.</forename></author> and<author> <surname>Demetriou</surname> <forename>D.</forename></author>, <date>2014</date>, <title level="a">Ανασκαφική έρευνα στην Παναγία της Κοφίνου</title>, in <title level="m">Ευμάθιος Φιλοκάλης. Ανάδειξη βυζαντινών μνημείων Κρήτης και Κύπρου</title>, ed. <editor><forename>E.</forename> <surname>Procopiou</surname></editor>, <editor><forename>N.</forename> <surname>Pyrrou</surname></editor>, <pubPlace>Rethymno</pubPlace>, <biblScope unit="page">240-49</biblScope>.</bibl>             
+                    <bibl xml:id="ProcopiouDemetriou2014"><author><surname>Procopiou</surname> <forename>E.</forename></author> and<author> <surname>Demetriou</surname> <forename>D.</forename></author>, <date>2014</date>, <title level="a">Ανασκαφική έρευνα στην Παναγία της Κοφίνου</title>, in <title level="m">Ευμάθιος Φιλοκάλης. Ανάδειξη βυζαντινών μνημείων Κρήτης και Κύπρου</title>, ed. <editor><forename>E.</forename> <surname>Procopiou</surname></editor>, <editor><forename>N.</forename> <surname>Pyrrou</surname></editor>, <pubPlace>Rethymno</pubPlace>, <biblScope unit="page">240-49</biblScope>.</bibl>    
+                    
+                    <bibl xml:id="Rhoby2009"><author><surname>Rhoby</surname> <forename>A.</forename></author>, <date>2009</date>, <title>Byzantinische Epigramme auf Fresken und Mosaiken</title> (Byzantinische Epigramme in Inschriftlicher Überlieferung 1), <pubPlace>Vienna</pubPlace>. </bibl>
                     
                     <bibl xml:id="Rhoby2013"><author><surname>Rhoby</surname> <forename>A.</forename></author>, <date>2013</date>, <title level="a">Secret Messages? Byzantine Greek Tetragrams and Their Display</title>, <title level="j">In-Scription: revue en ligne d'études épigraphiques [En ligne]</title>, available: <ref>https://in-scription.edel.univ-poitiers.fr:443/in-scription/index.php?id=180</ref></bibl>
+                    
+                    <bibl xml:id="Rhoby2014"><author><surname>Rhoby</surname> <forename>A.</forename></author>, <date>2014</date>, <title>Byzantinische Epigramme auf Stein nebst Addenda zu den Bänden 1 und 2</title> (Byzantinische Epigramme in inschriftlicher Überlieferung, 3, Teil 1 und 2), <pubPlace>Vienna</pubPlace>. </bibl>
                     
                     <bibl xml:id="Sacopoulo1966"><author><surname>Sacopoulo</surname> <forename>M.</forename></author>, <date>1966</date>, <title level="m">Asinou en 1106 et sa contribution à l’iconographie</title>, <pubPlace>Brussels</pubPlace>.</bibl>
                     
@@ -508,7 +512,7 @@
             
             <bibl copyOf="#PerdikisMyrianthefs2009"></bibl>
             
-            <bibl xml:id="Rhoby2009"><author><surname>Rhoby</surname> <forename>A.</forename></author>, <date>2009</date>, <title>Byzantinische Epigramme auf Fresken und Mosaiken</title> (Byzantinische Epigramme in Inschriftlicher Überlieferung 1), <pubPlace>Vienna</pubPlace>. </bibl>
+            <bibl copyOf="#Rhoby2009"></bibl>
             
             <bibl copyOf="#MoutafovRhoby2012"></bibl>
             
