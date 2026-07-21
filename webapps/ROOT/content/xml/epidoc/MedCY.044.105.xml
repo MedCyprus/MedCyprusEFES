@@ -81,16 +81,20 @@
              </ab> 
             </div>
             <div type="apparatus">
-                    <p>PENDING</p>
+                    <listApp>
+                        <app loc="1"><rdg source="#Buckler1933"><gap reason="lost" quantity="5" unit="character"></gap>ν π<gap reason="lost" quantity="18" unit="character"></gap><supplied reason="lost">κέ</supplied>ντρον ἀμβ<supplied reason="lost">λῦνον ἁ</supplied></rdg><rdg source="#Ševčenko2012"><gap reason="lost" extent="unknown"></gap>ήτρ<gap reason="lost" quantity="2" unit="character"></gap> αμ<supplied reason="lost">αρτίας</supplied></rdg></app>
+</listApp>
                  </div>
             <div type="translation">
                 <p>Not usefully translated</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>According to <ptr target="#Buckler1933"/>, 344, the inscription reads [κέ]ντρον ἀμβ[λῦνον ἁ]μαρτίας, whereas <ptr target="#Ševčenko2012"/>, 81, suggests that it most probably originally read λ]ύτρον [. . .] ἁμαρτίας. <ptr target="#Sacopoulo1966"/>, 4, in turn, republishes Buckler's reading.</p>
             </div>
             <div type="bibliography">
                 <listBibl> 
+                   <bibl><ptr target="#Buckler1933"/>, <citedRange>344</citedRange></bibl>
+                   <bibl><ptr target="#Sacopoulo1966"/>, <citedRange>4</citedRange></bibl>
                    <bibl><ptr target="#Ševčenko2012"/>, <citedRange>80-81</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
