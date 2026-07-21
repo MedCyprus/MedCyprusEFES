@@ -46,8 +46,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#PanoPyrgos">Pano Pyrgos, Panagia Galoktiste</origPlace>
-                            <origDate notBefore="1167" notAfter="1200" precision="medium">Late 12th century</origDate>
+                            <origPlace ref="locations.xml#PanoPyrgos" n="2nd">Pano Pyrgos, Panagia Galoktiste</origPlace>
+                            <origDate notBefore="1167" notAfter="1200" precision="medium" evidence="artistic-style">Late 12th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
