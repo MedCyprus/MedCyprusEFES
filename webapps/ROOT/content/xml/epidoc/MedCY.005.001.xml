@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Prelate, unidentified</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -50,8 +51,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#AigialousaSakkas">Aigialousa, Saint George Sakkas</origPlace>
-                            <origDate notBefore="1201" notAfter="1233" precision="medium">Early 13th century</origDate>
+                            <origPlace ref="locations.xml#AigialousaSakkas" n="1st">Aigialousa, Saint George Sakkas</origPlace>
+                            <origDate notBefore="1201" notAfter="1233" precision="medium" evidence="artistic-style">Early 13th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
