@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Fragmentary inscription</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -46,8 +47,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Kiti">Kiti, Panagia Angeloktiste</origPlace>
-                            <origDate notBefore="1234" notAfter="1266" precision="medium">Mid-13th century</origDate>
+                            <origPlace ref="locations.xml#Kiti" n="1st">Kiti, Panagia Angeloktiste</origPlace>
+                            <origDate notBefore="1234" notAfter="1266" precision="medium" evidence="artistic-style">Mid-13th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
