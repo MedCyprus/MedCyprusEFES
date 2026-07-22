@@ -50,8 +50,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#TalaRefectory">Tala, Hermitage of Saint Neophytos</origPlace>
-                            <origDate notBefore="1197" notAfter="1214" precision="medium">ca 1200</origDate>
+                            <origPlace ref="locations.xml#TalaRefectory" n="1st">Tala, Hermitage of Saint Neophytos</origPlace>
+                            <origDate notBefore="1197" notAfter="1214" precision="medium" evidence="artistic-style textual-context">ca 1200</origDate>
                         </origin>                        
                         <provenance when="2022">
                         </provenance>    
