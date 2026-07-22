@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>Monastic saint, unidentified</title>
-                 <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="tp">Theocharis Petrou</editor>
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -46,8 +47,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#TalaRefectory">Tala, Hermitage of Saint Neophytos</origPlace>
-                            <origDate notBefore="1197" notAfter="1214" precision="medium">ca 1200</origDate>
+                            <origPlace ref="locations.xml#TalaRefectory" n="1st">Tala, Hermitage of Saint Neophytos</origPlace>
+                            <origDate notBefore="1197" notAfter="1214" precision="medium" evidence="artistic-style textual-context">ca 1200</origDate>
                         </origin>                        
                         <provenance when="2022">
                         </provenance>    
