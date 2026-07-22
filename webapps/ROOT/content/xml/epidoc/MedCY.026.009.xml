@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Cross</title>
                 <author xml:id="tp">Theocharis Petrou</author> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -47,8 +48,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Solomone">Kato Pafos, Saint Solomoni catacomb</origPlace>
-                            <origDate notBefore="1101" notAfter="1200" precision="medium">12th century</origDate>
+                            <origPlace ref="locations.xml#Solomone" n="1st">Kato Pafos, Saint Solomoni catacomb</origPlace>
+                            <origDate notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style">12th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>

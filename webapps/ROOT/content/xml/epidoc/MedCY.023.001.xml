@@ -51,8 +51,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Karavas">Karavas, Panagia Galaterousa</origPlace>
-                            <origDate notBefore="1167" notAfter="1233" precision="medium">Late 12th or early 13th century</origDate>
+                            <origPlace ref="locations.xml#Karavas" n="2nd">Karavas, Panagia Galaterousa</origPlace>
+                            <origDate notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style">Late 12th or early 13th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
