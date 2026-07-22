@@ -51,8 +51,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#PeraChorio">Pera Chorio, Holy Apostles</origPlace>
-                            <origDate notBefore="1160" notAfter="1180" precision="medium">1160-1180</origDate>
+                              <origPlace ref="locations.xml#PeraChorio" n="1st">Pera Chorio, Holy Apostles</origPlace>
+                            <origDate notBefore="1160" notAfter="1180" precision="medium" evidence="artistic-style">1160-1180</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
