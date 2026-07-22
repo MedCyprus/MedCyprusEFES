@@ -812,7 +812,7 @@
                     <placeName xml:lang="el">Καλογραία, Αντιφωνητής</placeName>
                     <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
                     <placeName type="diocese" ref="diocese.xml#kyrenia">Bishopric of Kyreneia</placeName>
-                    <location><geo>35.327, 33.619</geo></location>
+                    <location><geo>35.327372, 33.619145</geo></location>
                     <desc type="construction"><date notBefore="1167" notAfter="1200" precision="medium">late 12th century</date></desc>
                     <desc type="function"><term>Monastic</term></desc>
                     <desc type="context"><term>Rural</term></desc>
