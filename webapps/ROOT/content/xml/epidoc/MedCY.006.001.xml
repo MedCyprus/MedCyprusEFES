@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Military saint, unidentified</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -52,8 +53,8 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Akanthou">Akanthou, Panagia Pergameniotissa</origPlace>
-                            <origDate notBefore="1001" notAfter="1100" precision="medium">11th century</origDate>
+                            <origPlace ref="locations.xml#Akanthou" n="1st">Akanthou, Panagia Pergameniotissa</origPlace>
+                            <origDate notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style">11th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
