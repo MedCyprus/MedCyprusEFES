@@ -30,7 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, southeastern pier, west face</rs>
-                                    <dimensions><height>PENDING</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>19,5</height><width>8</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>24</height><width>27</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>PENDING.
+                             <handNote>Black and red majuscule letters against white background. Character size varies. Mu with the central strokes reminiscent of an upsilon on a stem.  Tau with a top bar terminating in serifs at either end.TH, MH, and OY joined in ligature. Letter height: <height unit="cm">2-2,5</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
