@@ -30,7 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#bema">Bema, east vault, south side, lower register, on the east</rs>
-                                    <dimensions><height>PENDING</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>26</height><width>9</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>35</height><width>11</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>White majuscule letters against black background. Character size varies. THi OY, and AN joined in ligature. Letter height: <height unit="cm">2,5-3</height> 
+                             <handNote>White majuscule letters against black background. Character size varies. TH, OY, and AN joined in ligature. Letter height: <height unit="cm">2,5-3</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
