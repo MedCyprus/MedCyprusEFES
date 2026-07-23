@@ -28,7 +28,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semidome</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
@@ -43,8 +43,7 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#ChristEmmanuel">Christ Emmanuel, in a medallion before the chest of the Virgin Orans</rs>
-                                <rs type="iconography" ref="#VirginOrans"></rs>
-                                
+                                <rs type="iconography" ref="#VirginOrans"></rs>                        
                                 <rs type="iconography" ref="#divine"></rs>
                                 <rs type="iconography" ref="#male"></rs>                                
                             </p>
@@ -72,7 +71,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+        <graphic rend="primary" url="020-001-01.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -82,17 +81,17 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Jesus [Christ]</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
