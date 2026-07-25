@@ -2810,6 +2810,35 @@
                     </listBibl>
                 </place>
                 
+                <place xml:id="KalograiaHagiasma" n="64">
+                    <placeName xml:lang="en">Kalograia, Antiphonetes, hagiasma</placeName>
+                    <placeName xml:lang="el">Καλογραία, Αντιφωνητής, αγίασμα</placeName>
+                    <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#kyrenia">Bishopric of Kyreneia</placeName>
+                    <location><geo>35.32764530646646, 33.61898675841899</geo></location>
+                    <desc type="construction"><date notBefore="1000" notAfter="1300" precision="medium"></date>uncertain; Middle Byzantine or later</desc>
+                    <desc type="function"><term>Monastic; holy water shrine(?)</term></desc>
+                    <desc type="context"><term>Rural</term></desc>
+                    <desc type="architectural">Single-aisled vaulted structure, with an entrance to the north and an apse carved into the rock to the west</desc>
+                    <desc type="mural">
+                        <desc type="layer" n="1"><date notBefore="1000" notAfter="1200" precision="medium" evidence="lettering">12th century(?)</date> (west conch)</desc><!-- this needs to be confirmed when we look at the inscription; I am just guessing here -->
+                    </desc>
+                    <desc type="conservation">Extremely poor; structure at risk of collapse</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence confirmed<bibl><ptr target="bibliography.xml#Hadjichristodoulou2006a"/><citedRange>191</citedRange></bibl></desc>
+                    <idno type="IBCC">Not listed</idno>
+                    <idno type="HGC">Not listed</idno>
+                    <idno type="geonames">https://www.geonames.org/146809/antifonitis.html</idno>
+                    <listBibl type="inscriptions">
+                        <bibl ana="unpublished"/>
+                    </listBibl>
+                    <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Hadjichristodoulou2006a"/><citedRange>190-91</citedRange></bibl>                        
+                    </listBibl>
+                </place>
+                
+                
                 <!--<place xml:id="Kivotos"> <!-\- excluded because there are no surviving inscriptions -\->
                     <placeName xml:lang="en">Agios Theodoros, Panagia Kivotos</placeName>
                     <placeName xml:lang="el">Άγιος Θεόδωρος, Παναγία Κιβωτός</placeName>
