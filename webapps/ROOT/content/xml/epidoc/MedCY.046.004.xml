@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Phylon">Phylon</rs></p>
+                            <p><rs type="iconography" ref="#Phylon">Phylon</rs>                
+                                  <rs type="iconography" ref="#martyr"></rs>
+                                  <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
