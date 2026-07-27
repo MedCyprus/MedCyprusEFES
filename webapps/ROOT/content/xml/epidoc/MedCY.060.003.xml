@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#unidentified">Prophet, unidentified</rs></p>
+                            <p><rs type="iconography" ref="#unidentified_figure">Prophet, unidentified</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
