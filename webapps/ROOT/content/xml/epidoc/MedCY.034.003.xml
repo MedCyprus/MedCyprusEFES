@@ -41,7 +41,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#unidentified_figure">Male martyr, unidentified</rs>
+                                <rs type="iconography" ref="#martyr"></rs>
+                                <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
