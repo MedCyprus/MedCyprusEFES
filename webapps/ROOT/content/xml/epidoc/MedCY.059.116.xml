@@ -76,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Damian"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <name nymRef ="#Δαμιανός" type="forename"><supplied reason="lost">Δαμιανός</supplied></name></persName>                   
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Damianos"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <name nymRef ="#Δαμιανός" type="forename"><supplied reason="lost">Δαμιανός</supplied></name></persName>                   
                  </ab>
             </div>
             <div type="apparatus">
