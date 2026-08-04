@@ -41,7 +41,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Prelate_037.001">Prelate, unidentified</rs></p>
+                            <p><rs type="iconography" ref="#unidentified_figure">Prelate, unidentified</rs>
+                                <rs type="iconography" ref="#prelate"></rs>
+                                <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
