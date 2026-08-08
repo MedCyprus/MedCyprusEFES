@@ -1161,6 +1161,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1255493</idno>                   
                 </person>
                 
+                <person xml:id="Polychronios">
+                    <persName xml:lang="grc">Πολυχρόνιος</persName>
+                    <persName xml:lang="en">Polychronios</persName> 
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q12872189</idno>                   
+                </person>
+                
                 <person xml:id="Polykarpos">
                     <persName xml:lang="grc">Πολύκαρπος</persName>
                     <persName xml:lang="en">Polykarpos</persName> 
