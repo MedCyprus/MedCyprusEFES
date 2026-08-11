@@ -87,6 +87,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43689</idno>                   
                 </person>
                 
+                <person xml:id="Amphilochios">
+                    <persName xml:lang="grc">Ἀμφιλόχιος</persName>
+                    <persName xml:lang="en">Amphilochios</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q474872</idno>                   
+                </person>
+                
                 <person xml:id="Amoun">
                     <persName xml:lang="grc">Ἀμοῦν</persName>
                     <persName xml:lang="en">Amoun</persName> 
