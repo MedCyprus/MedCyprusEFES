@@ -47,7 +47,7 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#AigialousaSakkas" n="1st">Aigialousa, Saint George Sakkas</origPlace>
+                            <origPlace ref="locations.xml#AigialousaSakkas" n="2nd">Aigialousa, Saint George Sakkas</origPlace>
                             <origDate notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style">Late 13th century</origDate>
                         </origin>
                         <provenance when="2022">
