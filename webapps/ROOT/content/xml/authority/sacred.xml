@@ -1305,6 +1305,13 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q16086357</idno>                   
                 </person>
                 
+                <person xml:id="Therissos">
+                    <persName xml:lang="grc">Θέρισσος</persName>
+                    <persName xml:lang="en">Therissos</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q12872134</idno>    
+                    <note>Also known as Thyrsos in the Cypriot dialect</note>
+                </person>
+                
                 <person xml:id="Thomas">
                     <persName xml:lang="grc">Θωμᾶς</persName>
                     <persName xml:lang="en">Thomas</persName>                   
