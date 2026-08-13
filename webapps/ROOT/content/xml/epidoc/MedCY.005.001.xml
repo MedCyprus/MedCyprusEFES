@@ -28,8 +28,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, south wall, east side</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved</rs>
+                                    <rs type="placement-building" ref="#naos">Nave, north wall, between the later iconostasis and the transverse arch</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -42,8 +42,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#unidentified_figure">Prelate, unidentified</rs>
-                                  
+                            <p><rs type="iconography" ref="#unidentified_figure">Prelate, unidentified</rs>                     
                                   <rs type="iconography" ref="#prelate"></rs>
                                   <rs type="iconography" ref="#male"></rs>                            
                             </p>
@@ -71,7 +70,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+        <graphic rend="primary" url="005-001-01.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -84,14 +83,15 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Saint [..?..]</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl><ptr target="#Chotzakoglou2010a"/>, <citedRange>444-45</citedRange></bibl>
+                <bibl><ptr target="#Panayotidi-Kesisiglou2015"/>, <citedRange>357</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
