@@ -27,13 +27,13 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#refectoryapse">Refectory apse, semicylindrical wall, south side, 1st figure from the left </rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>The inscription appears on the open scroll held in the left hand by the prelate.</layout>
+                                <layout>On the open scroll held in the left hand by the prelate.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -51,7 +51,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#SichariRefectory" n="single">Sichari, Monastery of Panagia Apsinthiotissa, refectory</origPlace>
-                            <origDate notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">early 12th century</origDate>
+                            <origDate notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">Early 12th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
@@ -66,11 +66,15 @@
                     <term type="textType" ref="text_types.xml#doc8">quotation, liturgical</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou)</creation>
+            <creation>transcription (Th. Petrou), publication, archival photos (The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC.)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+       <graphic rend="primary" url="054-001-01.JPG"><desc>(The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC.)</desc></graphic>
+       <graphic url="054-001-02.JPG"><desc>(The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC.)</desc></graphic>
+       <graphic url="054-001-03.JPG"><desc></desc></graphic>
+       <graphic url="054-001-04.JPG"><desc></desc></graphic>
+       <graphic url="054-001-05.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -86,11 +90,11 @@
                 <p>PENDING</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>Text: Basil the Great, quoted in John of Damascus, Sacra Parallela, PG 95:1336</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl><ptr target="#Papageorgiou2022"/>, <citedRange>143</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
