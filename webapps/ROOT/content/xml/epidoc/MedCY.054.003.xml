@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#refectoryapse">Refectory apse, semicylindrical wall, south side, 2nd figure from the right </rs>
+                                    <rs type="placement-building" ref="#refectoryapse">Refectory apse, semicylindrical wall, south side, second figure from the right </rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -63,7 +63,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc15">quotation, monastic</term>
+                    <term type="textType" ref="text_types.xml#doc24">TBC. quotation, source unknown</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publication, archival photos (The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC.)</creation>
