@@ -29,7 +29,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#refectoryapse">Refectory apse, semicylindrical wall, south side, second figure from the left </rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>53,5</height><width unit="cm">17,5</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>60</height><width unit="cm">20</width></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>Black majuscule letters against white background. Tau emerging from the centre of the omega, forming a ligature. Systematic use of triangular serifs. Accents and breathings systematic. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
