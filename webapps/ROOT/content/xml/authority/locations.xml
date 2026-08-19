@@ -1543,7 +1543,7 @@
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>306</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>311-12</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1955, 10; 1956, 12; 1957, 10; 1968, ; 1977, 14</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1955, 10; 1956, 12; 1957, 10; 1968, 8; 1977, 14</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>83-87</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1991, 19</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Nicolaïdès1996"/></bibl>
