@@ -1135,7 +1135,7 @@
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>193-94</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>261-62</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1977, 17; 1980, 18; 1981, 18; 1982, 20; 1983, 20; 1984, 21; 1985, 23; 1986, 19-20; 1987, 24;1988, 25</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1975, 17-18; 1978, 17; 1980, 18; 1981, 18; 1982, 20; 1983, 20; 1984, 21; 1985, 23; 1986, 19-20; 1987, 24; 1988, 25</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Wharton1988"/><citedRange>57-61</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1989, 28; 1990, 29; 1991, 25-26; 1992, 23; 1993, 21; 1994, 21; 1995, 19; 1996, 21; 1997, 21</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>433-37</citedRange></bibl>
