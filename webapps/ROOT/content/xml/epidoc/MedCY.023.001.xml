@@ -27,8 +27,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#bema">Bema, east wall, central recess</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, east wall, central niche</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. Character size varies. MHP and ΟΥ joined in ligature. Systematic use of triangular serifs. Wavy, horizontal abbreviation mark above the nomina sacra ΜΗΡ ΘΥ. Accents systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -67,17 +67,19 @@
                     <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publication</creation>
+            <creation>transcription (Th. Petrou), publication, archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+        <graphic rend="primary" url="023-001-01.JPG"><desc>(© Department of Antiquities, Cyprus)</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                    <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
+                    <milestone unit="column"/> <expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>       
+                    <lb n="2"/><choice><orig>Η</orig><reg>Ἡ</reg></choice> <addName type="epithet" key="Stazousa">Στά <milestone unit="column" n="right"/>ζ<hi rend="ligature">ου</hi>σα </addName>         
                  </ab>
             </div>
             <div type="apparatus">
@@ -87,11 +89,11 @@
                 <p>Mother of God, Stazousa</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl><ptr target="#Papageorgiou1999b"/>, <citedRange>55</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
