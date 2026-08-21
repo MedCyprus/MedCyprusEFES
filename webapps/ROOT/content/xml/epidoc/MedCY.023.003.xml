@@ -37,7 +37,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against grey (?) background. Character size varies. Systematic use of triangular serifs. Accents and breathings systematic.
+                            <handNote>Black majuscule letters against grey (?) background. Character size varies. Systematic use of triangular serifs. Accents and breathings with errors.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -74,23 +74,23 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING<lb n="1"/>Ἴδε ὁ ἀ
-                      <lb n="2" break="no"/>μνὸς τοῦ 
-                      <lb n="3"/><supplied reason="lost">Θεοῦ ὁ αἴ</supplied>
-                      <lb n="4" break="no"/><supplied reason="lost">ρων τὴν</supplied>
-                      <lb n="5"/><supplied reason="lost">ἁμαρτία</supplied>
-                      <lb n="6" break="no"/>ν <supplied reason="lost">τοῦ κό</supplied>
-                      <lb n="7" break="no"/><supplied reason="lost">σ</supplied><unclear>μ</unclear><supplied reason="lost">ου</supplied>
+              <ab><lb n="1"/><w lemma="ὁράω"><choice><orig>Ι</orig><reg>Ἴ</reg></choice>δε</w> ὁ <w lemma="ἀμνός"><choice><orig>ἁ</orig><reg>ἀ</reg></choice>
+                      <lb n="2" break="no"/>μν<choice><orig>ο</orig><reg>ὸ</reg></choice>ς</w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> 
+                      <lb n="3"/><w lemma="θεός"><supplied reason="lost">Θεοῦ</supplied></w> <supplied reason="lost">ὁ</supplied> <w lemma="αἴρω"><supplied reason="lost">αἴ</supplied>
+                      <lb n="4" break="no"/><supplied reason="lost">ρων</supplied></w> <supplied reason="lost">τὴν</supplied>
+                      <lb n="5"/><w lemma="ἁμαρτία"><supplied reason="lost">ἁμαρτία</supplied>
+                      <lb n="6" break="no"/>ν</w> <supplied reason="lost">τοῦ</supplied> <w lemma="κόσμος"><supplied reason="lost">κό</supplied>
+                      <lb n="7" break="no"/><supplied reason="lost">σ</supplied><unclear>μ</unclear><supplied reason="lost">ου</supplied></w>
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <app loc="1"><rdg source="#Papageorgiou1999b">ΗΔΕ</rdg></app>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Behold, the Lamb of God, [who takes away the sin of the world.]</p>
             </div>
             <div type="commentary">
-                <p>PENDING Text: Ιω. 1:29</p>
+                <p>Text: John 1:29</p>
             </div>
             <div type="bibliography">
                  <listBibl>
