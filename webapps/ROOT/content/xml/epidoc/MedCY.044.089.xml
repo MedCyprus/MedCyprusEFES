@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Antonios, scroll</title>
+                <title>Saint Anthony, scroll</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -43,7 +43,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Antonios">Antonios</rs>
+                            <p><rs type="iconography" ref="#Anthony">Anthony</rs>
                             <rs type="iconography" ref="#monastic"></rs>
                             <rs type="iconography" ref="#male"></rs>
                             <rs type="iconography" ref="#scroll"></rs>
@@ -73,9 +73,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-089-01.JPG"><desc>Saint Antonios' scroll, inscription detail</desc></graphic>
-        <graphic url="044-089-02.JPG"><desc>Saint Antonios' scroll, general view</desc></graphic>
-        <graphic url="044-089-03.JPG"><desc>Saint Antonios' scroll, general view</desc></graphic>
+         <graphic rend="primary" url="044-089-01.JPG"><desc></desc></graphic>
+        <graphic url="044-089-02.JPG"><desc></desc></graphic>
+        <graphic url="044-089-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -100,7 +100,7 @@
                 <p>I no longer fear God, but I love Him. For love casts out fear</p> 
             </div>
             <div type="commentary">
-                <p>The inscription is identified with a saying of Saint Antonios from the Apophegmata Patrum (PG 65, col. 85, lines 31-33 and <bibl><ptr target="#Guy1993"/>, <biblScope unit="chapter">ch. 17</biblScope>, <biblScope unit="section">§ 1</biblScope>, <biblScope unit="line">lines 1–2</biblScope></bibl>). The same text is proposed for the scroll of Saint Antonios in the Painter's Manual of Dionysios of Fourna (<bibl><ptr target="#PapadopoulosKerameus1909"/>, <citedRange>292, incipit 273</citedRange></bibl>, <bibl><ptr target="#Sacopoulo1966"/>,<citedRange>105, n.1</citedRange></bibl>).</p> 
+                <p>The inscription is identified with a saying of Saint Anthony from the Apophegmata Patrum (PG 65, col. 85, lines 31-33 and <bibl><ptr target="#Guy1993"/>, <biblScope unit="chapter">ch. 17</biblScope>, <biblScope unit="section">§ 1</biblScope>, <biblScope unit="line">lines 1–2</biblScope></bibl>). The same text is proposed for the scroll of Saint Anthony in the Painter's Manual of Dionysios of Fourna (<bibl><ptr target="#PapadopoulosKerameus1909"/>, <citedRange>292, incipit 273</citedRange></bibl>, <bibl><ptr target="#Sacopoulo1966"/>,<citedRange>105, n.1</citedRange></bibl>).</p> 
             </div>
             <div type="bibliography">
                 <listBibl> 

@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Antonios, scroll</title>
+                <title>Saint Anthony, scroll</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -43,7 +43,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#Antonios">Antonios</rs>
+                            <p><rs type="iconography" ref="#Anthony">Anthony</rs>
                             <rs type="iconography" ref="#monastic"></rs> 
                             <rs type="iconography" ref="#male"></rs>   
                             <rs type="iconography" ref="#scroll"></rs>
@@ -72,8 +72,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-090-01.JPG"><desc>Saint Antonios' scroll, inscription</desc></graphic>
-        <graphic url="059-090-02.JPG"><desc>Saint Antonios' scroll, general view</desc></graphic>
+         <graphic rend="primary" url="059-090-01.JPG"><desc></desc></graphic>
+        <graphic url="059-090-02.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>

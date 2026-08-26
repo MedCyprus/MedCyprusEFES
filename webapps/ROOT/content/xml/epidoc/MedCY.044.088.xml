@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Antonios</title>
+                <title>Saint Anthony</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Antonios">Antonios</rs>
+                            <p><rs type="iconography" ref="#Anthony">Anthony</rs>
                                   <rs type="iconography" ref="#ascetic"></rs>
                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
@@ -70,15 +70,15 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-088-01.JPG"><desc>Saint Antonios, inscription detail</desc></graphic>
-        <graphic url="044-088-02.JPG"><desc>Saint Antonios, general view</desc></graphic>
-        <graphic url="044-088-03.JPG"><desc>Saint Antonios, general view</desc></graphic>
+         <graphic rend="primary" url="044-088-01.JPG"><desc></desc></graphic>
+        <graphic url="044-088-02.JPG"><desc></desc></graphic>
+        <graphic url="044-088-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-              <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Antonios"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>ά</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
+              <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Anthony"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>ά</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
               <lb n="2"/><name type="forename" nymRef="#Ἀντώνιος"><choice><orig>A</orig><reg>Ἀ</reg></choice>ν
               <lb n="3" break="no"/><hi rend="ligature">τώ</hi> 
               <lb n="4" break="no"/>νι
@@ -89,7 +89,7 @@
                 <p>n/a</p>
                  </div>
             <div type="translation">
-                <p>Saint Antonios</p> 
+                <p>Saint Anthony</p> 
             </div>
             <div type="commentary">
                 <p>No comment</p>
