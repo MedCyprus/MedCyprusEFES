@@ -355,6 +355,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q310633</idno>                   
                 </person>
                 
+                <person xml:id="DiomedesTheCypriot">
+                    <persName xml:lang="grc">Διομήδης</persName>
+                    <persName xml:lang="en">Diomedes</persName>                   
+                    <idno type="wikidata">Not listed</idno>                   
+                </person>
+                
                 <person xml:id="DionysiosAreopagites">
                     <persName xml:lang="grc">Διονύσιος ὁ Ἀρεοπαγίτης</persName>
                     <persName xml:lang="en">Dionysios the Areopagite</persName>
