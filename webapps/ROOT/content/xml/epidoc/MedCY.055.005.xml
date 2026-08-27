@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Constantine of Ormideia(?)</title>
+                <title>Saint Constantine</title>
                 <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#ConstantineOrmideia">Constantine of Ormideia(?)</rs>
+                            <p><rs type="iconography" ref="#ConstantineYoungerOfOrmideia">Constantine the Younger of Ormideia(?)</rs>
                                   <rs type="iconography" ref="#militarysaint"></rs>
                                   <rs type="iconography" ref="#male"></rs>                                
                                   <rs type="iconography" ref="#dressmilitary"></rs>                                 
@@ -69,10 +69,10 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-005-002.JPG"><desc>Saint Constantine of Ormideia, inscription detail</desc></graphic>
-        <graphic rend="primary" url="055-005-001.JPG"><desc>Saint Constantine of Ormideia, inscription </desc></graphic>
-        <graphic rend="secondary" url="055-005-03.JPG"><desc>Saint Constantine of Ormideia, inscription detail</desc></graphic>
-        <graphic rend="tertiary" url="055-005-04.JPG"><desc>Saint Constantine of Ormideia, inscription detail</desc></graphic>
+         <graphic url="055-005-002.JPG"><desc></desc></graphic>
+        <graphic rend="primary" url="055-005-001.JPG"><desc></desc></graphic>
+        <graphic rend="secondary" url="055-005-03.JPG"><desc></desc></graphic>
+        <graphic rend="tertiary" url="055-005-04.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -80,7 +80,7 @@
                 <ab>
                   <cb n="a"/>
                     <lb n="1"/><supplied reason="lost">Ὁ</supplied>
-                    <lb n="2"/><persName type="sacred" key="Constantine_Ormideia"><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
+                    <lb n="2"/><persName type="sacred" key="ConstantineYoungerOfOrmideia"><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
                     <lb n="3" break="no" />γι
                     <lb n="4" break="no"/><supplied reason="lost">ος</supplied></w>
                   <cb n="b"/>
