@@ -60,6 +60,12 @@
                     <idno type="pleiades">not found</idno>
                 </place>-->
                 
+                <place xml:id="Kotyaion">
+                    <placeName xml:lang="grc">Κοτυάειον</placeName>
+                    <placeName xml:lang="en">Kotyaion</placeName>
+                    <idno type="cyprusgazetteer">https://pleiades.stoa.org/places/609444/</idno>
+                </place>
+                
                 <place xml:id="MonasteryOfPhorbiotissa">
                     <placeName xml:lang="grc">Μονὴ τῶν Φορβίων</placeName>
                     <placeName xml:lang="en">Monastery of Phorbiotissa</placeName>
