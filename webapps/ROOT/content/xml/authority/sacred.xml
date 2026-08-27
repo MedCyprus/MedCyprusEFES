@@ -982,15 +982,17 @@
                 
                 <person xml:id="Menas">
                     <persName xml:lang="grc">Μηνᾶς</persName>
-                    <persName xml:lang="en">Menas</persName>                   
+                    <persName xml:lang="en">Menas</persName>    
+                    <persName xml:lang="grc" type="epithet" subtype="MenasKotyryotes" key="Kotyryotes">ὁ ἐν τῷ Κοτυαείῳ</persName>
+                    <persName xml:lang="en" type="epithet" subtype="MenasKotyryotes" key="Kotyryotes">Kotyryotes</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q163432</idno>                   
                 </person>
                 
                 <person xml:id="MenasKallikelados">
-                    <persName xml:lang="grc">Μηνάς</persName>
+                    <persName xml:lang="grc">Μηνᾶς</persName>
                     <persName xml:lang="en">Menas</persName>  
                     <persName xml:lang="grc" type="epithet" subtype="Kallikelados">Καλλικέλαδος</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Kallikelados">Kallikelados</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Kallikelados">Kallikelados</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q12872168</idno>                   
                 </person>
                 
