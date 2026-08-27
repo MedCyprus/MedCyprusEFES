@@ -289,11 +289,11 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q42887</idno>                   
                 </person>
                
-                <person xml:id="Constantine_Ormideia">
-                    <persName xml:lang="grc">Κωνσταντῖνος τῆς Ὀρμήδειας</persName>
+                <person xml:id="ConstantineYoungerOfOrmideia">
+                    <persName xml:lang="grc">Κωνσταντῖνος ὁ Νέος τῆς Ὀρμήδειας</persName>
                     <persName xml:lang="en">Constantine of Ormideia</persName>     
-                    <persName xml:lang="grc" type="epithet" subtype="Constantine_Ormideia">τῆς Ὁρμήδειας</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Constantine_Ormideia">of Ormideia</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="ConstantineYoungerOfOrmideia" key="the Younger of Ormideia">ὁ Νέος τῆς Ὁρμήδειας</persName>
+                    <persName xml:lang="en" type="epithet" subtype="ConstantineYoungerOfOrmideia" key="the Younger of Ormideia">the Younger of Ormideia</persName>
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
