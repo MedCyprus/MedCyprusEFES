@@ -195,6 +195,13 @@
                         <idno type="PBW">...</idno>-->
                     </person>
                     
+                    <person xml:id="Malchos">
+                        <persName xml:lang="en"><forename>Malchos</forename></persName>
+                        <persName xml:lang="grc"><forename>Μάλχος</forename></persName>               
+                        <note>Servant of the High Priest Caiaphas, who took part in the arrest of Jesus in the Garden of Gethsemane and whose ear was cut off by Peter.</note>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q726674</idno>
+                    </person>
+                    
                     <person xml:id="Maria">
                         <persName xml:lang="en"><forename>Maria</forename></persName>
                         <persName xml:lang="grc"><forename>Μαρία</forename></persName>
