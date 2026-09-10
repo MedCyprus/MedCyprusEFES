@@ -20,7 +20,7 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository ref="locations.xml#KykkosMuseum">Museum of the Kykkos Monastery</repository>
+                        <repository ref="locations.xml#KykkosMuseum">Museum of the Kykkos Monastery(?)</repository>
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
@@ -33,7 +33,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the figure's head</layout>
+                                <layout>On the right of the Virgin’s throne</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -48,8 +48,10 @@
                         <origin>
                             <origPlace ref="locations.xml#Kellia" n="4th">Kellia, Saint Anthony</origPlace>
                             <origDate notBefore="1151" notAfter="1200" precision="medium" evidence="artistic-style">Second half of 12th century</origDate>
-                        </origin>                        
-                        <provenance type="not-observed"></provenance>
+                        </origin>         
+                        <provenance when="2022">
+                        </provenance>               
+                        <provenance type="observed" resp="#tp">04/05/2022</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -64,8 +66,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="027-021-01.jpg"><desc>(Perdiki 2014a, fig. 13, photo: Kykkos museum) </desc></graphic>
-         <graphic url="027-021-02.JPG"><desc></desc></graphic>
+         <graphic rend="primary" url="027-022-01.jpg"><desc>(Perdiki 2014a, fig. 13, photo: Kykkos museum) </desc></graphic>
+         <graphic url="027-022-02.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -75,7 +77,7 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>PENDING</p>
