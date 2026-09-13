@@ -46,7 +46,7 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Kellia" n="5th">Kellia, Saint Anthony</origPlace>
+                            <origPlace ref="locations.xml#Kellia" n="2nd">Kellia, Saint Anthony</origPlace>
                             <origDate notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style">11th century</origDate>
                         </origin>         
                         <provenance when="2022">
@@ -59,7 +59,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">caption</term>
+                    <term type="textType" ref="text_types.xml#doc6">quotation, biblical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
