@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, northwest pier, east face, lower register</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, northwest pier, east face, lower register, first figure on the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -66,7 +66,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="027-031-01.JPG"><desc>(© Department of Antiquities, Cyprus)</desc></graphic>
+         <graphic rend="primary" url="027-031-01.jpg"><desc>(© Department of Antiquities, Cyprus)</desc></graphic>
          <graphic url="027-031-02.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
