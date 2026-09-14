@@ -89,9 +89,8 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>Unpublished</bibl>
-                </listBibl>
-                <p><bibl><ptr target="#Perdiki2014a"/>, <citedRange>34</citedRange></bibl></p>
+                <bibl><ptr target="#Perdiki2014a"/>, <citedRange>34</citedRange></bibl>
+                </listBibl>            
             </div>
         </body>
     </text>
