@@ -7,7 +7,7 @@
                 <title>About</title>
             </titleStmt>
             <publicationStmt>
-                <p/>
+                <p></p>
             </publicationStmt>
             <sourceDesc>
                 <p/>
@@ -17,7 +17,18 @@
     <text>
         <body>
             <div type="text">
-                <p>...</p>
+                <head>This is a heading - Introducing the Project</head>
+                <p>Paragraph text here, for ex: </p>
+                <p>The "Digital Corpus of Painted Greek Inscriptions from Medieval Cyprus (10th – 13th centuries AD)" is an EpiDoc collection of the painted Greek inscriptions from Medieval Cyprus. The majority of the monuments included in the corpus come from the 12th and the 13th centuries, i.e. they fall on either side of the divide of AD 1191, when began the gradual transformation of Cyprus from a Byzantine province into a <hi rend="italic">Frankish</hi> kingdom. </p>
+               
+                <list>
+                    <item>first item of a list</item>
+                    <item>secong item of a list</item>
+                </list>
+            </div>
+            <div>
+                <head>another heading for a second section, for ex Copyright</head>
+                <p>the paragraph that lays out the MedCyprus copyright and reproduction permissions</p>
             </div>
         </body>
     </text>
