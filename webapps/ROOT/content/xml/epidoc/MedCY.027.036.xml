@@ -5,15 +5,14 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Hetoimasia, Archangel Gabriel</title>
+                <title>Saint Andronikos</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
-                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.039.011</idno>
+                <idno type="filename">MedCY.027.036</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
                 </availability>
@@ -21,15 +20,15 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository ref="locations.xml#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</repository>
+                        <repository ref="locations.xml#KykkosMuseum">Museum of the Kykkos Monastery</repository>                       
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
-                                    <rs type="placement-building" ref="#dome">Originally: Dome, cupola, zone around the crown, behind the Saint John the Forerunner</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Partially preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Originally: Naos, northeast pier, south face, lower register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -38,25 +37,21 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. Character size varies. ΑΡ joined in ligature. The word ὁ ἀρχάγγελος is rendered by an abbreviation. Accents and breathings non systematic.
+                            <handNote>PENDING. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#Gabriel">Archangel Gabriel</rs>
-                                <rs type="iconography" ref="#archangel"></rs>
-                                <rs type="iconography" ref="#genderless"></rs>
-                                <rs type="iconography" ref="#dressantique"></rs></p>
+                            <p>PENDING</p>
                         </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Lysi" n="single">Lysi, Saint Ephemianos or Theomonianos</origPlace>
-                            <origDate notBefore="1201" notAfter="1233" precision="medium" evidence="artistic-style">Early 13th century</origDate>
-                        </origin>          
+                            <origPlace ref="locations.xml#Kellia" n="4th">Kellia, Saint Anthony</origPlace>
+                            <origDate notBefore="1151" notAfter="1200" precision="medium" evidence="artistic-style">Second half of 12th century</origDate>
+                        </origin>                        
                         <provenance when="2022">
-                        </provenance>                  
-                        <provenance type="observed" resp="#tp">23/06/2022
-                        </provenance>
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">06/07/2022</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -67,25 +62,26 @@
                     <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou)</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="039-011-01.JPG"><desc>Hetoimasia, Archangel Gabriel, inscription</desc></graphic>
+         <graphic rend="primary" url="027-036-01.JPG"><desc></desc></graphic>
+         <graphic url="027-036-02.jpg"><desc>(© Department of Antiquities, Cyprus)</desc></graphic>
+         <graphic url="027-036-03.jpg"><desc>(© Department of Antiquities, Cyprus)</desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                  <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Gabriel"><name type="forename" nymRef="#Γαβριήλ"><w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><hi rend="ligature"><choice><orig>α</orig><reg>ἀ</reg></choice>ρ</hi>χ<am>&#x00A0;΄&#x00A0;</am></abbr><ex>άγγελος</ex></expan></w> Γαβρ<choice><orig>ϊ</orig><reg>ι</reg></choice><choice><orig>η</orig><reg>ή</reg></choice>λ</name></persName>
-                      
-                </ab>
+                   PENDING                    
+                 </ab>
             </div>
             <div type="apparatus">
                <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Archangel Gabriel</p>
+                <p>Saint Andronikos</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
@@ -94,7 +90,6 @@
                  <listBibl>
                 <bibl>Unpublished</bibl>
                 </listBibl>
-                <p>bibliography of previous editions, discussion, etc.</p>
             </div>
         </body>
     </text>

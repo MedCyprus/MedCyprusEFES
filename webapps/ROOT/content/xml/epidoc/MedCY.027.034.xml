@@ -5,15 +5,14 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Hetoimasia, Archangel Gabriel</title>
+                <title>Invocation</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
-                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.039.011</idno>
+                <idno type="filename">MedCY.027.034</idno>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
                 </availability>
@@ -21,42 +20,38 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository ref="locations.xml#ByzantineMuseum">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</repository>
+                        <repository>n/a</repository>                       
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
-                                    <rs type="placement-building" ref="#dome">Originally: Dome, cupola, zone around the crown, behind the Saint John the Forerunner</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, northeast pier, west face, upper register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the figure's head</layout>
+                                <layout>Below the scene of the Last Supper</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. Character size varies. ΑΡ joined in ligature. The word ὁ ἀρχάγγελος is rendered by an abbreviation. Accents and breathings non systematic.
+                            <handNote>PENDING. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#Gabriel">Archangel Gabriel</rs>
-                                <rs type="iconography" ref="#archangel"></rs>
-                                <rs type="iconography" ref="#genderless"></rs>
-                                <rs type="iconography" ref="#dressantique"></rs></p>
+                            <p>PENDING</p>
                         </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Lysi" n="single">Lysi, Saint Ephemianos or Theomonianos</origPlace>
-                            <origDate notBefore="1201" notAfter="1233" precision="medium" evidence="artistic-style">Early 13th century</origDate>
-                        </origin>          
+                            <origPlace ref="locations.xml#Kellia" n="5th">Kellia, Saint Anthony</origPlace>
+                            <origDate notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style">Late 12th - early 13th century</origDate>
+                        </origin>                        
                         <provenance when="2022">
-                        </provenance>                  
-                        <provenance type="observed" resp="#tp">23/06/2022
-                        </provenance>
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">04/05/2022</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -64,37 +59,38 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">caption</term>
+                    <term type="textType" ref="text_types.xml#doc11">invocation</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="039-011-01.JPG"><desc>Hetoimasia, Archangel Gabriel, inscription</desc></graphic>
+         <graphic rend="primary" url="027-034-01.JPG"><desc></desc></graphic>
+         <graphic url="027-034-02.JPG"><desc></desc></graphic>
+         <graphic url="027-034-03.JPG"><desc></desc></graphic>
+         <graphic url="027-034-04.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                  <lb n="1"/><choice><orig>Ὀ</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Gabriel"><name type="forename" nymRef="#Γαβριήλ"><w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><hi rend="ligature"><choice><orig>α</orig><reg>ἀ</reg></choice>ρ</hi>χ<am>&#x00A0;΄&#x00A0;</am></abbr><ex>άγγελος</ex></expan></w> Γαβρ<choice><orig>ϊ</orig><reg>ι</reg></choice><choice><orig>η</orig><reg>ή</reg></choice>λ</name></persName>
-                      
-                </ab>
+                   PENDING                    
+                 </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Archangel Gabriel</p>
+                <p>PENDING</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>Unpublished</bibl>
-                </listBibl>
-                <p>bibliography of previous editions, discussion, etc.</p>
+                <bibl><ptr target="#Perdiki2014a"/>, <citedRange>34</citedRange></bibl>
+                </listBibl>            
             </div>
         </body>
     </text>

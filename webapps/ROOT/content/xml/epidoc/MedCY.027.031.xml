@@ -5,23 +5,22 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Christ Emmanuel</title>
-                <editor xml:id="tp">Theocharis Petrou</editor>
-                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
+                <title>Saint Barbara</title>
+                 <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
-                <editor xml:id="mgp"> Maria G. Parani</editor>
+                <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.020.001</idno>
+                <idno type="filename">MedCY.027.031</idno>
                 <availability>
-                  <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <repository>n/a</repository>
+                        <repository ref="locations.xml#KykkosMuseum">Museum of the Kykkos Monastery</repository>                       
                     </msIdentifier>
                     <physDesc>
                         <objectDesc>
@@ -29,34 +28,30 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#bema">Bema, apse, semidome</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, northwest pier, east face, lower register, first figure on the left</rs>
                                     <dimensions><height>n/a</height></dimensions>
-                                </support> 
+                                </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of Christ's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against red background. Wavy, horizontal abbreviation mark above the sigla ΙC. Accents and breathings non systematic. 
+                            <handNote>PENDING. 
                             </handNote>
                         </handDesc>
-                         <decoDesc>
-                            <p><rs type="iconography" ref="#ChristEmmanuel">Christ Emmanuel, in a medallion before the chest of the Virgin Orans</rs>
-                                <rs type="iconography" ref="#VirginOrans"></rs>                        
-                                <rs type="iconography" ref="#divine"></rs>
-                                <rs type="iconography" ref="#male"></rs>                                
-                            </p>
+                        <decoDesc>
+                            <p>PENDING</p>
                         </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Kalograia" n="1st">Kalograia, Antiphonetes</origPlace>
-                            <origDate notBefore="1167" notAfter="1200" precision="medium" evidence="artistic-style">Late 12th century</origDate>
-                        </origin>
+                            <origPlace ref="locations.xml#Kellia" n="4th">Kellia, Saint Anthony</origPlace>
+                            <origDate notBefore="1151" notAfter="1200" precision="medium" evidence="artistic-style">Second half of 12th century</origDate>
+                        </origin>                        
                         <provenance when="2022">
                         </provenance>    
-                        <provenance type="observed" resp="#tp">15/07/2022</provenance>
+                        <provenance type="observed" resp="#tp">06/07/2022</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -64,28 +59,28 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc9">nomina sacra</term>
+                    <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou)</creation>
+            <creation>transcription (Th. Petrou), archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="020-001-01.JPG"><desc></desc></graphic>
+         <graphic rend="primary" url="027-031-01.jpg"><desc>(© Department of Antiquities, Cyprus)</desc></graphic>
+         <graphic url="027-031-02.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>
-                   <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"> <expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan>
-                    <milestone unit="column" n="right"/><supplied reason="lost"><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς<am>´</am></abbr></expan></addName></supplied></name></persName>          
+                <ab>
+                   PENDING                    
                  </ab>
             </div>
             <div type="apparatus">
                <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Jesus [Christ]</p>
+                <p>[Saint] Barbara</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
