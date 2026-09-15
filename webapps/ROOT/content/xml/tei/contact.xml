@@ -16,8 +16,12 @@
     </teiHeader>
     <text>
         <body>
-            <div type="text">
-                <p>...</p>
+            <div type="text">                              
+                <p>For questions, corrections, reports of problems, suggestions for improvement, or other feedback, please contact Maria Parani (parani.maria@ucy.ac.cy).</p>
+             </div>
+            <div>
+                <head>Use of MedCyprus Images</head>
+                <p>Images on this website are reproduced with permission for use within the MedCyprus project. This permission does not extend to third-party use. For permission to reproduce or otherwise use an image, please contact the <ref target="https://www.culture.gov.cy/dmculture/da/da.nsf/DMLindex_en/DMLindex_en?OpenDocument">Department of Antiquities of Cyprus</ref> AND the relevant Repository or Ecclesiastical Authority (listed under “Diocese” in individual entries in Locations)<!-- can we make Locations an active link? -->.</p>
             </div>
         </body>
     </text>
