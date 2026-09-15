@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. Wavy, horizontal mark above the abbreviation. 
+                            <handNote>White majuscule letters against blue background. Alpha with its apex terminating in a serif to the left. Wavy, horizontal mark above the abbreviation. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,7 +76,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                    <lb n="1"/>Ὁ                 
+                     <lb n="2"/><persName type="sacred" key="JohnMerciful"><w lemma="ἅγιος">ἅ
+                    <lb n="3" break="no"/><supplied reason="lost">γι
+                    <lb n="4" break="no"/>ος</supplied></w> 
+                      <cb n="b"/>
+                       <lb n="1"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>   
+                         <lb n="2"/>ὁ 
+                        <lb n="3"/><addName type="epithet" key="Merciful">Ἐ
+                         <lb n="4" break="no"/>λε
+                          <lb n="5" break="no"/><supplied reason="lost">ή</supplied>μ<supplied reason="lost">ων</supplied></addName></persName>  
                  </ab>
             </div>
             <div type="apparatus">

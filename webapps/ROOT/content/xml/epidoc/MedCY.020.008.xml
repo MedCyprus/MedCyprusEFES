@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. XPY joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,7 +76,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                  <cb n="a"/>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="JohnChrysostom"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
+                    <lb n="2"/><name type="forename" nymRef="#Ἰωάννης"><supplied reason="lost">Ἰωάννης</supplied></name>
+                     <cb n="b"/>
+                     <lb n="1"/><choice><orig>o</orig><reg>ὁ</reg></choice>
+                      <lb n="2"/><addName type="epithet" key="Chrysostom"><expan><abbr rend="supraline">Χρυ</abbr><ex>σόστο</ex><abbr rend="supraline">
+                    <lb n="3" break="no"/>μος</abbr></expan></addName></persName>  
                  </ab>
             </div>
             <div type="apparatus">
