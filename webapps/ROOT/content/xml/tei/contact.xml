@@ -17,7 +17,9 @@
     <text>
         <body>
             <div type="text">                              
-                <p>For questions, corrections, reports of problems, suggestions for improvement, or other feedback, please contact Maria Parani (parani.maria@ucy.ac.cy).</p>
+                <p>For questions, corrections, reports of problems, suggestions for improvement, or other feedback, please contact Maria Parani: <ref target="mailto:parani.maria@ucy.ac.cy">
+    <email>parani.maria@ucy.ac.cy</email>
+</ref>.</p>
              </div>
             <div>
                 <head>Use of MedCyprus Images</head>
