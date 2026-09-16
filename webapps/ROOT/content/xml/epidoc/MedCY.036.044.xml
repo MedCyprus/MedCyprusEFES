@@ -79,7 +79,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                     <cb n="a"/>
-                  <lb n="1"/>Ὁ <persName type="sacred" key="SymeonMiracleWorker"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>
+                  <lb n="1"/>Ὁ <persName type="sacred" key="SymeonMiracleWorkerYounger"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>
                   <lb n="2"/><name type="forename" nymRef="#Συμεών">Συ<supplied reason="lost">μεών</supplied></name>
                  <cb n="b"/>
                   <lb n="1"/>Ὁ <addName type="epithet" key="Miracle-Worker">Θαυ
