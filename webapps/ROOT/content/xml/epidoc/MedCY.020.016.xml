@@ -84,7 +84,7 @@
                    <lb n="3" break="no"/>φ
                     <lb n="4" break="no"/>α
                     <lb n="5" break="no"/>νος</name>
-                     <lb n="6"/>ὁ <addName type="epithet" key="Protomartyr">Πρωτομάρτυρας
+                     <lb n="6"/>ὁ <addName type="epithet" key="Protomartyr"><choice><sic><expan><abbr rend="supraline"><hi rend="ligature">Πρ</hi>οτω</abbr><ex>μάρτυρας</ex></expan></sic><corr>Πρωτομάρτυρας</corr></choice></addName></persName>
                  </ab>
             </div>
             <div type="apparatus">
