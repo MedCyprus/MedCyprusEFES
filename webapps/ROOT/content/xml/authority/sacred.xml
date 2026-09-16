@@ -394,6 +394,12 @@
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
+                <person xml:id="Endoxos">
+                    <persName xml:lang="grc">Ἔνδοξος</persName>
+                    <persName xml:lang="en">Endoxos</persName>               
+                    <idno type="wikidata">Not listed</idno>                   
+                </person>
+                
                 <person xml:id="Epaphras">
                     <persName xml:lang="grc">Ἐπαφρᾶς</persName>
                     <persName xml:lang="en">Epaphras</persName>                   
