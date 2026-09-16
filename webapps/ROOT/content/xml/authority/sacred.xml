@@ -259,6 +259,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44258</idno>                   
                 </person>
                 
+                <person xml:id="Blasios">
+                    <persName xml:lang="grc">Βλάσιος</persName>
+                    <persName xml:lang="en">Blasios</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q151967</idno>                   
+                </person>
+                
                 <person xml:id="BiblicalMagi">
                     <persName xml:lang="grc">Μάγοι</persName>
                     <persName xml:lang="en">Τhree Wise Men</persName>
