@@ -37,11 +37,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against red background. Final sigma in the form of a wavy line. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#athanasiospentaschoinites">Athanasios Pentaschoinites</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                             <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +75,19 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                    <lb n="1"/>Ὁ 
+                  <lb n="2"/><persName type="sacred" key="AthanasiosPentaschoinites"><w lemma="ἅγιος">ἅ
+                   <lb n="3" break="no"/><supplied reason="lost">γι
+                    <lb n="4" break="no"/>ος</supplied></w> 
+                    <cb n="b"/>    
+                   <lb n="1"/><name type="forename" nymRef="#Ἀθανάσιος"><unclear>Ἀ</unclear>θαν<choice><orig>α</orig><reg>ά</reg></choice>σιος</name> 
+                   <lb n="2"/>ὁ
+                     <lb n="3"/><addName type="epithet" key="Pentaschoinites"><unclear>Π</unclear><supplied reason="lost">εν
+                     <lb n="4" break="no"/>τασ
+                     <lb n="5" break="no"/>χοι
+                     <lb n="6" break="no"/>νίτης</supplied></addName></persName>
+                   
                  </ab>
             </div>
             <div type="apparatus">
