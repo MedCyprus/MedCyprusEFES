@@ -37,11 +37,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Horizontal abbreviation mark above the nomina sacra ΘΥ.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Ascension">Ascension, Virgin</rs>
+                                  <rs type="iconography" ref="#Virgin"></rs>                               
+                                  <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -72,7 +74,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                    <lb n="1"/><persName type="sacred" key="MeterTheou"><supplied reason="lost"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μή</abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w></supplied>
+                   <milestone unit="column" n="right"/><w lemma="θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><supplied reason="lost">ῦ</supplied></abbr></expan></w></persName>
                  </ab>
             </div>
             <div type="apparatus">
