@@ -70,15 +70,15 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-086-01.JPG"><desc>Saint Daniel the Stylite, inscription</desc></graphic>
-        <graphic url="059-086-02.JPG"><desc>Saint Daniel the Stylite, general view</desc></graphic>
+         <graphic rend="primary" url="059-086-01.JPG"><desc></desc></graphic>
+        <graphic url="059-086-02.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <cb n="a"/>
-                      <lb n="1"/>Ὁ <persName type="sacred" key="Daniel"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>    
+                      <lb n="1"/>Ὁ <persName type="sacred" key="DanielStylites"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>    
                     <cb n="b"/>
                       <lb n="1"/><name type="forename" nymRef="#Δανιήλ">Δα
                          <lb n="2" break="no"/>νι
