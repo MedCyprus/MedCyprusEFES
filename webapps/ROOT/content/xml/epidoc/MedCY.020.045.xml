@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, southern central pier, upper register, facing the bema</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
@@ -66,9 +66,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="020-044-01.jpg"><desc>(© Department of Antiquities, Cyprus)</desc></graphic>
-       <graphic url="020-045-02.JPG"><desc></desc></graphic>
-       <graphic url="020-045-03.jpg"><desc></desc></graphic>
+        <graphic rend="primary" url="020-044-01.JPG"><desc></desc></graphic>
+       <graphic url="020-045-02.jpg"><desc></desc></graphic>
+       <graphic url="020-045-03.jpg"><desc>(© Department of Antiquities, Cyprus)</desc></graphic>
     </facsimile>
     <text>
         <body>
