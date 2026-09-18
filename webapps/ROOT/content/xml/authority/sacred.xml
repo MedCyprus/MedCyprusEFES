@@ -341,6 +341,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q109826916</idno>                   
                 </person>
                 
+                <person xml:id="DanielStylites">
+                    <persName xml:lang="grc">Δανιήλ</persName>
+                    <persName xml:lang="en">Daniel</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="DanielStylites" key="Stylites">ὁ Στυλίτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="DanielStylites" key="Stylites">Stylites</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q768229</idno>                   
+                </person>
+                
                 <person xml:id="David">
                     <persName xml:lang="grc">Δαυΐδ</persName>
                     <persName xml:lang="en">David</persName>                   
