@@ -5,14 +5,14 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Baptism</title>
+                <title>Baptism, Christ</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.020.057</idno>
+                <idno type="filename">MedCY.020.058</idno>
                 <availability>
                   <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
                 </availability>
@@ -59,14 +59,14 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">caption</term>
+                    <term type="textType" ref="text_types.xml#doc9">nomina sacra</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="020-057-01.JPG"><desc></desc></graphic>
+        <graphic rend="primary" url="020-058-01.jpg"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -79,7 +79,7 @@
                <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Baptism</p>
+                <p>Jesus Christ</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
