@@ -811,7 +811,7 @@
                     <placeName xml:lang="en">Kalograia, Antiphonetes</placeName>
                     <placeName xml:lang="el">Καλογραία, Αντιφωνητής</placeName>
                     <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
-                    <placeName type="diocese" ref="diocese.xml#kyrenia">Bishopric of Kyreneia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#kyrenia">Bishopric of Kyrenia</placeName>
                     <location><geo>35.327372, 33.619145</geo></location>
                     <desc type="construction"><date notBefore="1167" notAfter="1200" precision="medium">late 12th century</date></desc>
                     <desc type="function"><term>Monastic</term></desc>
@@ -950,7 +950,7 @@
                     <placeName xml:lang="en">Karavas, Panagia Galaterousa</placeName>
                     <placeName xml:lang="el">Καραβάς, Παναγία Γαλατερούσα</placeName>
                     <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
-                    <placeName type="diocese" ref="diocese.xml#kyrenia">Bishopric of Kyreneia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#kyrenia">Bishopric of Kyrenia</placeName>
                     <location><geo>35.33701490, 33.19072294</geo></location>
                     <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium">12th century</date></desc>
                     <desc type="function"><term>Monastic</term></desc>
@@ -1564,7 +1564,7 @@
                 <place xml:id="Lampousa" n="37">
                     <placeName xml:lang="en">Lampousa, Panagia Acheiropoietos</placeName>
                     <placeName xml:lang="el">Λάμπουσα, Παναγία Αχειροποίητος</placeName>
-                    <placeName type="district" ref="district.xml#kyrenia">Kyreneia</placeName>
+                    <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
                     <placeName type="diocese" ref="diocese.xml#kyrenia">Bishopric of Kyrenia</placeName>
                     <location><geo>35.354, 33.202</geo></location>
                     <desc type="construction"><date notBefore="1067" notAfter="1133">late 11th - early 12th century, with later additions</date></desc>
@@ -2814,7 +2814,7 @@
                     <placeName xml:lang="en">Kalograia, Antiphonetes, hagiasma</placeName>
                     <placeName xml:lang="el">Καλογραία, Αντιφωνητής, αγίασμα</placeName>
                     <placeName type="district" ref="district.xml#kyrenia">Kyrenia</placeName>
-                    <placeName type="diocese" ref="diocese.xml#kyrenia">Bishopric of Kyreneia</placeName>
+                    <placeName type="diocese" ref="diocese.xml#kyrenia">Bishopric of Kyrenia</placeName>
                     <location><geo>35.32764530646646, 33.61898675841899</geo></location>
                     <desc type="construction"><date notBefore="1000" notAfter="1300" precision="medium"></date>uncertain; Middle Byzantine or later</desc>
                     <desc type="function"><term>Monastic; holy water shrine(?)</term></desc>
