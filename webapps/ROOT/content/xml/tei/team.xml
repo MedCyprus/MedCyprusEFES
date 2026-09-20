@@ -17,7 +17,37 @@
     <text>
         <body>
             <div type="text">
-                <p>...</p>
+                <head>Coordinator</head>
+                <p>Maria Parani, University of Cyprus</p></div>
+            
+             <div type="text">
+                <head>Advisor</head>
+                <p>Charlotte Roueché, Professor Emerita, King’s College London</p></div>
+            
+              <div type="text"> 
+                <head>The Team</head>
+                 <list>
+                    <item>Gabriel Bodard, University of London (2021-present)</item>
+                    <item>Elli Mylonas, Independent Consultant (2023-present)</item>
+                    <item>Theocharis Petrou, Independent Researcher  (2021-present)</item>
+                    <item>Deniz Sever, Inependent Researcher (2024-present)</item>
+                    <item>Irene Vagionakis, Independent Consultant (2021-2023) </item>
+                    <item>Maria Xenaki, Ministry of Culture, Greece (2021-present)</item>
+                 </list>
+                 <p><hi rend="italic">With the assistance of</hi></p>
+                 <list>
+                     <item>George Apeitos, University of Cyprus (2022)</item>                     
+                     <item>Theodora Konstantellou, Independent Researcher (2023-2024)</item>
+                     <item>Savvas Mavromatides, University of Cyprus (2022)</item>
+                 </list>
+              
+              <div type="text">
+                <head>IT support</head>
+                <p>Pavlos Antoniou, University of Cyprus (2023-present)</p></div>
+
+              <div type="text">
+                <head>Acknowledgments</head>
+                <p>We would like to express our sincere thanks to the following colleagues, who generously offered their assistance and shared their expertise at various stages of the project: Dr Christodoulos Chatzichristodoulou, Dr Martina Filosa, Aspasia Soula Georgiadou, Assoc. Prof. Antonia Giannouli, Prof. Martin Hinterberger, Dr Geoffrey Meyer-Fernandez, Prof. Emerita Anna Panagiotou, Dr Ourania Perdiki, Dr Stylianos Perdikis, Dr Andreas Rhoby, and Dr Ida Toth.</p></div>
             </div>
         </body>
     </text>
