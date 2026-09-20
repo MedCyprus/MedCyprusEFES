@@ -460,7 +460,7 @@
                     <placeName xml:lang="en">Choulou, Saint Theodore</placeName>
                     <placeName xml:lang="el">Χούλου, Άγιος Θεόδωρος</placeName>
                     <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
-                    <placeName type="diocese" ref="diocese.xml#paphos">Paphos</placeName>
+                    <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.869318678489584, 32.55778272706452</geo></location>
                     <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium">12th century</date></desc>
                     <desc type="function"><term>Parochial</term>(?)</desc>
@@ -1607,7 +1607,7 @@
                     <placeName xml:lang="el">Λετύμβου, Άγιοι Κήρυκος και Ιουλίττη</placeName>
                     <placeName xml:lang="el">Λετύμπου, Άγιοι Κήρυκος και Ιουλίττη</placeName>
                     <placeName type="district" ref="district.xml#paphos">Paphos</placeName>
-                    <placeName type="diocese" ref="diocese.xml#paphos">Paphos</placeName>
+                    <placeName type="diocese" ref="diocese.xml#paphos">Bishopric of Paphos</placeName>
                     <location><geo>34.85538148351664, 32.517262317783405</geo></location>
                     <desc type="construction"><date notBefore="1101" notAfter="1200" precision="medium">12th century; extensively rebuilt in the 14th century</date></desc>
                     <desc type="function"><term>Parochial</term>(?); <term>pilgrimage</term>(?)</desc>
