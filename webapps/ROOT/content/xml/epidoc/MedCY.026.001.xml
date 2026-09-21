@@ -28,9 +28,9 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>Poorly preserved.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, center</rs>
-                                    <dimensions unit="cm"><height> 2-14,5 cm (letters)</height></dimensions>
+                                    <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
@@ -69,7 +69,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="026-009-01.JPG"><desc></desc></graphic>
+        <graphic rend="primary" url="026-001-01.jpg"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
