@@ -17,19 +17,25 @@
     <text>
         <body>
             <div type="text">
-                <head>This is a heading - Introducing the Project</head>
-                <p>Paragraph text here, for ex: </p>
-                <p>The "Digital Corpus of Painted Greek Inscriptions from Medieval Cyprus (10th – 13th centuries AD)" is an EpiDoc collection of the painted Greek inscriptions from Medieval Cyprus. The majority of the monuments included in the corpus come from the 12th and the 13th centuries, i.e. they fall on either side of the divide of AD 1191, when began the gradual transformation of Cyprus from a Byzantine province into a <hi rend="italic">Frankish</hi> kingdom. </p>
-               
-                <list>
-                    <item>first item of a list</item>
-                    <item>secong item of a list</item>
-                </list>
+                <head>The Project</head>
+                <p>MedCyprus (Digital Corpus of Painted Greek Inscriptions from Medieval Cyprus) is a digital epigraphic project dedicated to the systematic recording, study, and publication of the Greek painted inscriptions preserved in Cypriot churches from the tenth to the thirteenth centuries. Its principal aim is to make this important body of epigraphic material widely accessible to the scholarly community and to provide a research tool for those working in Byzantine, Medieval, and Cypriot Studies.</p>
+                <p>Inscriptions are an integral part of monumental ensembles and can be approached from a variety of perspectives. They constitute an important source for the study of medieval Cyprus, but also of Byzantine monumental painting and epigraphy. In addition to their textual content, they preserve information relating to language, historical persons and places, iconography, and the forms, uses, and materiality of writing. By bringing this material together within a single digital environment, MedCyprus seeks to facilitate its study both as text and as a constitutive element of the painted religious image.</p>
+            </div>
+            
+            <div>
+                <head>The Corpus</head>
+                <p>The corpus brings together inscriptions preserved in the wall paintings of churches throughout Cyprus and includes a wide range of inscription types, from dedicatory inscriptions and texts written on scrolls and codices to the names and epithets of represented figures, as well as monograms and cryptograms.</p>
+                <p>The inscriptions are organised according to the monuments in which they are preserved. On the Locations page, individual entries for each monument provide basic information, bibliography, geographical location, and access to that monument’s inscriptions. Whenever possible, the documentation is based on direct examination and photography of the inscriptions. Where inscriptions are no longer preserved, are illegible, or cannot be accessed, their edition relies on earlier publications and archival photographic material.</p>
             </div>
             <div>
-                <head>another heading for a second section, for ex Copyright</head>
-                <p>the paragraph that lays out the MedCyprus copyright and reproduction permissions</p>
+                <head>The Digital Edition</head>
+                <p>Each inscription is presented through an individual digital record combining textual, visual, and contextual information. The edition includes a diplomatic transcription recording what is preserved on the painted surface and a philological edition of the text, accompanied by an English translation, basic commentary, bibliography, and photographic documentation. Information concerning the date, location, dimensions, physical and iconographic context of the inscription, as well as its lettering and state of preservation, is also recorded.</p>
+                <p>The editions are encoded according to EpiDoc, an international standard for the digital publication of epigraphic material, and published through EFES. The digital format allows a large body of information that would be difficult to accommodate in a conventional printed corpus to be recorded, interconnected, searched, and reused.</p>
             </div>
+            <div>
+                <head>Exploring MedCyprus</head>
+                <p>MedCyprus was conceived and designed as a research tool for users with different scholarly interests. The corpus can be searched using keywords and predefined criteria (‘facets’), while a series of indices provides access to Greek words, personal names, historical persons, sacred entities and saints, place names, abbreviations, ligatures, symbols, and iconography. These different points of access allow users to explore the material according to their own research interests, to ask new questions of it, and, not least, to develop it further through and for their own research.</p>
+                </div>
         </body>
     </text>
 </TEI>
