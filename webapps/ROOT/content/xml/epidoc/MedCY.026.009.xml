@@ -15,7 +15,8 @@
                 <authority>University of Cyprus - MedCyprus</authority>
                 <idno type="filename">MedCY.026.009</idno>
                 <availability>
-                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence></availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+             </availability>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -66,11 +67,11 @@
                     <term type="textType" ref="text_types.xml#doc10">apotropaic</term>
                 </keywords>
             </textClass>
-            <creation>...</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+        <graphic rend="primary" url="026-009-01.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -85,15 +86,18 @@
                 </ab>
             </div>
             <div type="apparatus">
-                <p>external apparatus criticus (if applicable)</p>
+                <p>n/a</p>
             </div>
             <div type="translation">
-                <p>translation(s)</p>
+                <p>PENDING</p>
             </div>
             <div type="commentary">
-                <p>commentary</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
+                <listBibl>
+                <bibl>Unpublished</bibl>
+                </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
         </body>
