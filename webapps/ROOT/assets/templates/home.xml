@@ -39,29 +39,13 @@
           <div class="large-12 columns">
             <div class="panel radius">
               <div>
-                <p>The "Digital Corpus of Painted Greek Inscriptions from Medieval Cyprus (10th –
-                  13th centuries AD)" is an EpiDoc collection of the painted Greek inscriptions from
-                  Medieval Cyprus. The majority of the monuments included in the corpus come from the 
-                  12th and the 13th centuries, i.e. they fall on either side of the divide of AD 1191, when began the 
-                  gradual transformation of Cyprus from a Byzantine province into a Frankish kingdom. The 
-                  proposed corpus was conceived thus in order to provide specialists with much-needed material to
-                  gauge the impact of this transition on epigraphic practices and on the evolution of (written
-                  and spoken) Greek on the island. Furthermore, epigraphic data can offer additional evidence
-                  for a more secure dating for a number of these ensembles, which are currently loosely
-                  ascribed to the late 12 th or the early 13 th century primarily on stylistic grounds. </p>
+                <head>Welcome to MedCyprus</head>
+                <p>MedCyprus is a digital corpus of the painted inscriptions of medieval Cyprus, bringing together inscriptions preserved in the murals of churches from the tenth to the thirteenth century. Through searchable editions, translations, images, and contextual information, the project makes this rich body of epigraphic material accessible for the study of the epigraphy, history, language, art, and culture of medieval Cyprus.</p>
+                  
+                 <p> MedCyprus is a dynamic and evolving resource. We welcome your comments, corrections, and suggestions as we continue to develop and enrich the corpus. </p>
               </div>
 
-              <div id="team">
-                <h4>Research Team</h4>
-                <ul>
-                  <li>Maria Parani (University of Cyprus) - Principal Investigator</li>
-                  <li>Maria Xenaki (Ministry of Culture, Greece)</li>
-                  <li>Theocharis Petrou (University of Cyprus)</li>
-                  <li>Charlotte Roueché (King’s College London)</li>
-                  <li>Gabriel Bodard (University of London)</li>
-                  <li>Irene Vagionakis (University of Bologna)</li>
-                </ul>
-              </div>
+              
             </div>
           </div>
         </div>
