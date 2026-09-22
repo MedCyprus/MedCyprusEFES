@@ -48,7 +48,7 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Solomone" n="1st-2nd (?)">Kato Pafos, Saint Solomoni catacomb</origPlace>
+                            <origPlace ref="locations.xml#Solomone" n="1st or 2nd">Kato Pafos, Saint Solomoni catacomb</origPlace>
                             <origDate notBefore="1167" notAfter="1400" precision="medium" evidence="artistic-style">14th century or earlier (?)</origDate><note>An in situ inspection is necessary to verify the painting layers.</note>
                         </origin>
                         <provenance when="2022">
