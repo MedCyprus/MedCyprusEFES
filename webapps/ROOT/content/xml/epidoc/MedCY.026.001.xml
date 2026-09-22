@@ -89,6 +89,8 @@
             </div>
             <div type="bibliography">
                 <listBibl>
+                <bibl><ptr target="#HatfieldYoung1978"/>, <citedRange>95</citedRange></bibl>
+                <bibl><ptr target="#Konstantinidi2008"/>, <citedRange>204</citedRange></bibl>
                 <bibl><ptr target="#FouliasHadjichristodoulou2022"/>, <citedRange>159</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
