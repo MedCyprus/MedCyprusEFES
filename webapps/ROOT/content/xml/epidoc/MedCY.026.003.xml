@@ -33,7 +33,7 @@
                                     </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the open scroll held in the left hand by Christ</layout>
+                                <layout>On either side of Christ's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -61,8 +61,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc8">quotation, liturgical</term>
-                    <term type="textType" ref="text_types.xml#doc6">quotation, biblical</term>
+                    <term type="textType" ref="text_types.xml#doc9">nomina sacra</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publications</creation>
@@ -82,15 +81,15 @@
                 <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Jesus Christ</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
             </div>
             <div type="bibliography">
                 <listBibl>
+                <bibl><ptr target="#HatfieldYoung1978"/>, <citedRange>95</citedRange></bibl>
                 <bibl><ptr target="#Konstantinidi2008"/>, <citedRange>204</citedRange></bibl>
-                <bibl><ptr target="#FouliasHadjichristodoulou2022"/>, <citedRange>159</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
