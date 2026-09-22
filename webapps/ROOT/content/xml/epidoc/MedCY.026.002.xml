@@ -7,7 +7,6 @@
             <titleStmt>
                 <title>Melismos (Fraction), Christ</title>
                 <author xml:id="tp">Theocharis Petrou</author> 
-                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -90,6 +89,7 @@
             <div type="bibliography">
                 <listBibl>
                 <bibl><ptr target="#HatfieldYoung1978"/>, <citedRange>95</citedRange></bibl>
+                <bibl><ptr target="#Konstantinidi2008"/>, <citedRange>204</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
