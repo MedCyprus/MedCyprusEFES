@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Invocation</title>
+                <author xml:id="tp">Theocharis Petrou</author> 
+                <author xml:id="mx">Maria Xenaki</author>
+                <editor xml:id="mgp">Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.026.015</idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+             </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved. Slightly faded.</rs>
+                                    <rs type="placement-building" ref="#prothesis">Prothesis, east wall, square niche</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                    </support>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>On either side and above and below the arms of processional cross.</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>Black letters against white background. The letters are scattered on each side and in-between the cross arms. Letters between the cross arms are written in majuscule and those on the lower level are both in majuscule and minuscule. Most of them are abbreviations having the line above them. The thickness of the letters in some points varies. The lower register combines Greek and Latin characters both in majuscule and minuscule. Letter height: <height unit="cm">2-14,5</height>
+                            </handNote>
+                        </handDesc>
+                        <decoDesc>
+                            <p><rs type="iconography" ref="#crossprocessional">Cross, processional</rs>
+                               <rs type="iconography" ref="#crosslatin"></rs>                                
+                            </p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Solomone" n="1st or 2nd">Kato Pafos, Saint Solomoni catacomb</origPlace>
+                            <origDate notBefore="1167" notAfter="1400" precision="medium" evidence="artistic-style">14th century or earlier (?)</origDate>
+                        </origin>
+                        <provenance when="2022">
+                        </provenance>
+                        <provenance type="observed" resp="#tp"> 17/06/2022
+                        </provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" ref="text_types.xml#doc2">cryptogram</term>
+                    <term type="textType" ref="text_types.xml#doc10">apotropaic</term>
+                </keywords>
+            </textClass>
+            <creation>transcription (Th. Petrou, G. Apeitos)</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic rend="primary" url="026-014-01.jpg"><desc></desc></graphic>
+       <graphic url="026-014-02.JPG"><desc></desc></graphic>
+       <graphic url="026-014-03.JPG"><desc></desc></graphic>
+       <graphic url="026-014-04.JPG"><desc></desc></graphic>
+       <graphic url="026-014-05.JPG"><desc></desc></graphic>
+       <graphic url="026-014-06.JPG"><desc></desc></graphic>
+       <graphic url="026-014-07.JPG"><desc></desc></graphic>
+       <graphic url="026-014-08.JPG"><desc></desc></graphic>
+       <graphic url="026-014-09.JPG"><desc></desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+                <ab>
+                    PENDING
+                </ab>
+            </div>
+            <div type="apparatus">
+                <p>PENDING</p>
+            </div>
+            <div type="translation">
+                <p>PENDING</p>
+            </div>
+            <div type="commentary">
+                <p>No comment</p>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                <bibl><ptr target="#FouliasHadjichristodoulou2022"/>, <citedRange>164-66</citedRange></bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
