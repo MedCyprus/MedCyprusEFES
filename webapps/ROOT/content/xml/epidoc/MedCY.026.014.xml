@@ -28,9 +28,9 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType>Well preserved. Slightly faded.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved. Slightly faded.</rs>
                                     <rs type="placement-building" ref="#prothesis">Prothesis, east wall, square niche</rs>
-                                    <dimensions unit="cm"><height> 2-14,5 cm (letters)</height></dimensions>
+                                    <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. The letters are scattered on each side and in-between the cross arms. Letters between the cross arms are written in majuscule and those on the lower level are both in majuscule and minuscule. Most of them are abbreviations having the line above them. The thickness of the letters in some points varies. The lower register combines Greek and Latin characters both in majuscule and minuscule. <height unit="cm">2-14,5 cm</height>
+                            <handNote>Black letters against white background. The letters are scattered on each side and in-between the cross arms. Letters between the cross arms are written in majuscule and those on the lower level are both in majuscule and minuscule. Most of them are abbreviations having the line above them. The thickness of the letters in some points varies. The lower register combines Greek and Latin characters both in majuscule and minuscule. Letter height: <height unit="cm">2-14,5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
