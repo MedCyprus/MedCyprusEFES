@@ -19,30 +19,30 @@
             <div type="text">
                 <p>University of Cyprus (under the funding scheme “Internal Research Projects” 2021-2023)</p></div>
             
-            <div>
+            <div type="text">
             <head>Institutions granting access and permissions</head>                
                 <p>We gratefully acknowledge the following institutions, ecclesiastical authorities, and archives for granting us permission to use their resources and/or to photograph and reproduce images free of charge: </p>    
-                <list rend="bulleted">
-                    <item>Department of Antiquities, Cyprus</item>
-                    <item>Holy Archbishopric of Cyprus</item>
-                    <item>Holy Bishopric of Arsinoe</item>
-                    <item>Holy Bishopric of Constantia and Famagusta</item>
-                    <item>Holy Bishopric of Karpasia</item>
-                    <item>Holy Bishopric of Kition</item>
-                    <item>Holy Bishopric of Kykkos and Tellyria</item>
-                    <item>Holy Bishopric of Kyrenia</item>
-                    <item>Holy Bishopric of Limassol</item>
-                    <item>Holy Bishopric of Morphou</item>
-                    <item>Holy Bishopric of Paphos</item>
-                    <item>Holy Bishopric of Tamasos and Oreine</item>
-                    <item>Holy Bishopric of Trimythous</item>
-                    <item>Holy Monastery of St Neophytos the Recluse, Tala</item>
-                    <item>Exarchate of the Holy Sepulchre in Cyprus</item>
-                    <item>Byzantine Museum of the Cultural Foundation Archbishop Makarios III</item>
-                    <item>Museum of the Holy Monastery of Kykkos</item>
-                    <item>Photographic Archive of Athanasios Papageorgiou, Holy Archbishopric of Cyprus</item>
-                    <item>The Byzantine Institute and Dumbarton Oaks Fieldwork Records and Papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC</item>
-                    <item>The Svetlana Tomeković Database of Byzantine Art, part of the Index of Medieval Art Digital Image Collections</item>
+                 <list>
+                    <item  rend="list-style: disc inside;">Department of Antiquities, Cyprus</item>
+                    <item  rend="list-style: disc inside;">Holy Archbishopric of Cyprus</item>
+                    <item  rend="list-style: disc inside;">Holy Bishopric of Arsinoe</item>
+                    <item  rend="list-style: disc inside;">Holy Bishopric of Constantia and Famagusta</item>
+                    <item  rend="list-style: disc inside;">Holy Bishopric of Karpasia</item>
+                    <item  rend="list-style: disc inside;">Holy Bishopric of Kition</item>
+                    <item  rend="list-style: disc inside;">Holy Bishopric of Kykkos and Tellyria</item>
+                    <item  rend="list-style: disc inside;">Holy Bishopric of Kyrenia</item>
+                    <item  rend="list-style: disc inside;">Holy Bishopric of Limassol</item>
+                    <item  rend="list-style: disc inside;">Holy Bishopric of Morphou</item>
+                    <item  rend="list-style: disc inside;">Holy Bishopric of Paphos</item>
+                    <item  rend="list-style: disc inside;">Holy Bishopric of Tamasos and Oreine</item>
+                    <item  rend="list-style: disc inside;">Holy Bishopric of Trimythous</item>
+                    <item  rend="list-style: disc inside;">Holy Monastery of St Neophytos the Recluse, Tala</item>
+                    <item  rend="list-style: disc inside;">Exarchate of the Holy Sepulchre in Cyprus</item>
+                    <item  rend="list-style: disc inside;">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</item>
+                    <item  rend="list-style: disc inside;">Museum of the Holy Monastery of Kykkos</item>
+                    <item  rend="list-style: disc inside;">Photographic Archive of Athanasios Papageorgiou, Holy Archbishopric of Cyprus</item>
+                    <item  rend="list-style: disc inside;">The Byzantine Institute and Dumbarton Oaks Fieldwork Records and Papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC</item>
+                    <item  rend="list-style: disc inside;">The Svetlana Tomeković Database of Byzantine Art, part of the Index of Medieval Art Digital Image Collections</item>
                 </list>
             </div>
         </body>
