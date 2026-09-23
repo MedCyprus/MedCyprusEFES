@@ -27,17 +27,17 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved. Slightly faded.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#prothesis">Prothesis, east wall, square niche</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side and above and below the arms of processional cross.</layout>
+                                <layout>On either side and below the arms of processional cross.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. The letters are scattered on each side and in-between the cross arms. Letters between the cross arms are written in majuscule and those on the lower level are both in majuscule and minuscule. Most of them are abbreviations having the line above them. The thickness of the letters in some points varies. The lower register combines Greek and Latin characters both in majuscule and minuscule. Letter height: <height unit="cm">2-14,5</height>
+                            <handNote>PENDING
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -70,15 +70,12 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="026-014-01.jpg"><desc></desc></graphic>
-       <graphic url="026-014-02.JPG"><desc></desc></graphic>
-       <graphic url="026-014-03.JPG"><desc></desc></graphic>
-       <graphic url="026-014-04.JPG"><desc></desc></graphic>
-       <graphic url="026-014-05.JPG"><desc></desc></graphic>
-       <graphic url="026-014-06.JPG"><desc></desc></graphic>
-       <graphic url="026-014-07.JPG"><desc></desc></graphic>
-       <graphic url="026-014-08.JPG"><desc></desc></graphic>
-       <graphic url="026-014-09.JPG"><desc></desc></graphic>
+        <graphic rend="primary" url="026-015-01.jpg"><desc></desc></graphic>
+       <graphic url="026-015-02.JPG"><desc></desc></graphic>
+       <graphic url="026-015-03.JPG"><desc></desc></graphic>
+       <graphic url="026-015-04.JPG"><desc></desc></graphic>
+       <graphic url="026-015-05.JPG"><desc></desc></graphic>
+       <graphic url="026-015-06.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
