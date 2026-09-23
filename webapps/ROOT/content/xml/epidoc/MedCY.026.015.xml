@@ -33,7 +33,7 @@
                                     </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side and below the arms of processional cross.</layout>
+                                <layout>On either side and below the arms of a processional cross.</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -62,8 +62,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc2">cryptogram</term>
-                    <term type="textType" ref="text_types.xml#doc10">apotropaic</term>
+                    <term type="textType" ref="text_types.xml#doc11">invocation</term>                 
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos)</creation>
