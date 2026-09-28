@@ -37,11 +37,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#unidentified_figure">Prelate, unidentified</rs>
+                                <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -72,7 +74,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                   <lb n="1"/><supplied reason="lost">Ὁ</supplied> 
+                  <lb n="1"/><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
+                  <cb n="b"/>
+                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
+                  <lb n="2" break="no"/>χι
+                   <lb n="2" break="no"/><gap reason="lost" extent="unknown" unit="character"/>
                  </ab>
             </div>
             <div type="apparatus">
