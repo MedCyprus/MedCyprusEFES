@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Cross</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Brown majuscule letters against white background. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -74,7 +75,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς" type="forename"><supplied reason="lost"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan></supplied> <milestone unit="column"/><supplied reason="lost"><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></supplied></name></persName>
+                   <lb n="2"/><w lemma="νικάω"><hi rend="supraline">Νι</hi> <milestone unit="column" break="no"/><supplied reason="lost">κᾷ</supplied></w>
+                   <lb n="3"/><w lemma="εὕρεμα"><expan><abbr rend="supraline">Ε</abbr><ex>ὕρεμα</ex></expan></w> <w lemma="δίδωμι"><supplied reason="lost"><expan><abbr rend="supraline">ἐ</abbr><ex>δόθη</ex></expan></supplied></w> PENDING
                  </ab>
             </div>
             <div type="apparatus">
