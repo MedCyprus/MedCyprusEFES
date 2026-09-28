@@ -38,11 +38,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Brown majuscule letters against white background. Mu with the central strokes reminiscent of an upsilon on a stem. Letter height: <height unit="cm">5,5-6,5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#crosspatriarchal">Cross, patriarchal</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -80,7 +80,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><persName type="divine" key="Christ"><name nymRef ="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς<am> &#x00A0;῀&#x00A0;</am></abbr></expan> <milestone unit="column"/><supplied reason="lost"><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></supplied></name></persName>
+                  <lb n="2"/><expan><abbr rend="supraline">Φ</abbr><ex>ῶς</ex></expan> <milestone unit="column"/><persName type="divine" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστοῦ</ex></expan></persName>
+                  <lb n="3"/><expan><abbr rend="supraline">Φ</abbr><ex>αίνει</ex></expan> <milestone unit="column"/><expan><abbr rend="supraline">Π</abbr><ex>ᾶσιν</ex></expan>
+                  <lb n="4"/><expan><abbr rend="supraline">Ξ</abbr><ex>ύλον</ex></expan><am>&#x00B4;</am> <expan><abbr rend="supraline">Ζ</abbr><ex>ωῆς</ex></expan> <milestone unit="column"/><expan><abbr rend="supraline">C</abbr><ex>ωτηρία</ex></expan> <expan><abbr rend="supraline">K</abbr><ex>όσμου</ex></expan>
+                  <lb n="5"/><expan><abbr rend="supraline">Τ</abbr><ex>όπος</ex></expan><am>&#x00B4;</am> <milestone unit="column"/><expan><abbr rend="supraline">M</abbr><ex>αρτυρίου</ex></expan><am>&#x00B4;</am> 
+                  <lb n="6"/><expan><abbr rend="supraline">Δ</abbr><ex>αιμόνος</ex></expan><am>&#x00B4;</am> <milestone unit="column"/><expan><abbr rend="supraline">Κ</abbr><ex>τόνος</ex></expan>
                  </ab>
             </div>
             <div type="apparatus">
