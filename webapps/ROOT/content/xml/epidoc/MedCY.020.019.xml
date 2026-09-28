@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Character size varies. OC joined in ligature. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Polychronios">Polychronios</rs>
+                                   <rs type="iconography" ref="#prelate"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +75,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                   <lb n="1"/>Ὁ <persName type="sacred" key="Polychronios"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>
+                    <cb n="b"/>
+                   <lb n="1"/><name nymRef ="#Πολυχρόνιος" type="forename"><choice><sic>Πολ<add place="inline">λ</add>ηχρόνι<hi rend="ligature">ος</hi></sic><corr>Πολυχρόνιος</corr></choice></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
