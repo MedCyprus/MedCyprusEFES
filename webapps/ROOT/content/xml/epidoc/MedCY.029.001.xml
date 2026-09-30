@@ -28,8 +28,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, south wall, middle register, east of the entrance</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, south wall, central recess, middle register, above the entrance</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -67,7 +67,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+        <graphic rend="primary" url="029-001-01.JPG"><desc></desc></graphic>
+        <graphic url="029-001-02.JPG"><desc></desc></graphic>
+        <graphic url="029-001-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -87,7 +89,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl><ptr target="#Perdiki2014b"/>, <citedRange>251-52</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
