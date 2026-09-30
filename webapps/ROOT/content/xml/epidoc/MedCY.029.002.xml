@@ -5,15 +5,14 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Dedicatory inscription</title>
+                <title>Saint Damianos</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
-                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.029.001</idno>
+                <idno type="filename">MedCY.029.002</idno>
                 <availability>
                   <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
                 </availability>
@@ -29,12 +28,12 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, south wall, central recess, middle register, above the entrance</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, south wall, central recess, soffit, west  half, upper register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>In a white frame</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -42,7 +41,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography">None</rs></p>
+                            <p><rs type="iconography">PENDING</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -60,16 +59,14 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc1">dedicatory</term>
+                    <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publication</creation>
+            <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="029-001-01.JPG"><desc></desc></graphic>
-        <graphic url="029-001-02.JPG"><desc></desc></graphic>
-        <graphic url="029-001-03.JPG"><desc></desc></graphic>
+        <graphic rend="primary" url="029-002-01.jpg"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -79,17 +76,17 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>[Saint] Damianos</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Perdiki2014b"/>, <citedRange>251-52</citedRange></bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
