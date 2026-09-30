@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Character size varies. Mu with the central strokes reminiscent of an upsilon on a stem. OC joined in ligature. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,7 +76,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                  <cb n="a"/>
+                   <lb n="1"/>Ὁ <persName type="sacred" key="Michael"> <w lemma="ἀρχάγγελος"><choice><orig>ἁ</orig><reg>ἀ</reg></choice>ρχάγγε
+                   <lb n="2" break="no"/>λ
+                   <lb n="2" break="no"/><hi rend="ligature">ος</hi></w>
+                   <cb n="b"/>    
+                   <lb n="1"/><name type="forename" nymRef ="#Μιχαήλ">Μιχα
+                  <lb n="2" break="no"/>ή
+                   <lb n="2" break="no"/>λ</name></persName>                 
                  </ab>
             </div>
             <div type="apparatus">
