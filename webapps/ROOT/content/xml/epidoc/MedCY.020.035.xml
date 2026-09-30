@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Endoxos</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>  
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -72,7 +73,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/>Ὁ <persName type="sacred" key="Endoxos"><w lemma="ἅγιος">ἅγιος</w> <name type="forename" nymRef="#Ἔνδοξος"><choice><orig>῝Ε</orig><reg>Ἔ</reg></choice>νδοξος</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
