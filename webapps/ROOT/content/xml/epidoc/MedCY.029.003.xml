@@ -62,12 +62,12 @@
                     <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou)</creation>
+            <creation>transcription (Th. Petrou), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="029-002-01.JPG"><desc></desc></graphic>
-        <graphic url="029-002-02.JPG"><desc></desc></graphic>
+        <graphic rend="primary" url="029-003-01.JPG"><desc></desc></graphic>
+        <graphic url="029-003-02.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
