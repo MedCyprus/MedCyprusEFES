@@ -69,8 +69,8 @@
     </teiHeader>
     <facsimile>
         <graphic rend="primary" url="045-001-01.jpg"><desc></desc></graphic>
-        <graphic url="045-002-02.JPG"><desc></desc></graphic>
-        <graphic url="045-002-03.JPG"><desc></desc></graphic>
+        <graphic url="045-001-02.JPG"><desc></desc></graphic>
+        <graphic url="045-001-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -90,7 +90,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
