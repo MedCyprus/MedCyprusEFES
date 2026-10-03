@@ -27,17 +27,17 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved. Slightly faded.</rs>
                                     <rs type="placement-building" ref="#narthex">Narthex, northwest pilaster, south face</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3,5-4</height>
+                            <handNote>PENDING. Letter height: <height unit="cm">3.5-4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -49,7 +49,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Ormideia" n="1st">Ormideia, Saint George of Agkona</origPlace>
-                            <origDate notBefore="1267" notAfter="1278" precision="medium" evidence="artistic-style">Late 13th century</origDate>
+                            <origDate notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style">Late 13th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
@@ -68,7 +68,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+        <graphic rend="primary" url="045-001-01.jpg"><desc></desc></graphic>
+        <graphic url="045-002-02.JPG"><desc></desc></graphic>
+        <graphic url="045-002-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -78,13 +80,13 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Saint Kyriake</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
