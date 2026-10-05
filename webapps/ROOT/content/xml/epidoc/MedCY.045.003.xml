@@ -27,7 +27,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved. Slightly faded.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#narthex">Narthex, northwest recess, lower register, west</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
@@ -47,7 +47,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Ormideia" n="1st">Ormideia, Saint George of Agkona</origPlace>
-                            <origDate notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style">Late 13th century</origDate>
+                            <origDate notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style">Late 13th century(?)</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
