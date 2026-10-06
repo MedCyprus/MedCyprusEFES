@@ -47,7 +47,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Kellia" n="4th">Kellia, Saint Anthony</origPlace>
-                            <origDate><date notBefore="1151" notAfter="1200" precision="medium" evidence="artistic-style" source="bibliography.xml#Perdiki2014a">Perdiki: second half of 12th century</date>; <date notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style material-context" source="bibliography.xml#Immerzeelforthcoming">Immerzeel: late 13th century</date></origDate>
+                            <origDate><date notBefore="1151" notAfter="1200" precision="medium" evidence="artistic-style" source="bibliography.xml#Perdiki2014a">second half of 12th century</date> or <date notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style material-context" source="bibliography.xml#Immerzeelforthcoming">late 13th century</date></origDate>
                         </origin>                        
                         <provenance when="2022">
                         </provenance>    
