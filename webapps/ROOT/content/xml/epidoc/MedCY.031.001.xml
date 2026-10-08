@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against brown background. Character size varies. Letter height: <height unit="cm">4-4.5</height>
+                            <handNote>White majuscule letters against blue background. Character size varies. Letter height: <height unit="cm">4-4.5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -74,11 +74,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><gap reason="lost" extent="unknown" unit="line"></gap>
+                   <lb n="2"/><gap reason="lost" extent="unknown" unit="character"></gap><unclear>η</unclear><gap reason="lost" extent="unknown" unit="character"></gap>
+                   <lb n="3"/><gap reason="lost" extent="unknown" unit="character"></gap><choice><orig>ι</orig><reg>ἱ</reg></choice>ερε<gap reason="lost" extent="unknown" unit="character"></gap>
+                   <lb n="4"/><gap reason="lost" extent="unknown" unit="line"></gap>
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <app loc="3"><rdg source="#Foulias2017">[<unclear>Ν</unclear>]ΙΕΡΕ</rdg></app>
             </div>
             <div type="translation">
                 <p>Not usefully translated</p>
