@@ -69,11 +69,11 @@
                     <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou)</creation>
+            <creation>transcription (Th. Petrou), archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="006-001-01.jpg"><desc></desc></graphic>
+        <graphic rend="primary" url="006-001-01.jpg"><desc>(© Department of Antiquities, Cyprus)</desc></graphic>
         <graphic url="006-001-02.jpg"><desc></desc></graphic>
     </facsimile>
     <text>
