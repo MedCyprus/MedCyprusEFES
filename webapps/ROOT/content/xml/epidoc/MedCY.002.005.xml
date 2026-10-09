@@ -28,8 +28,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved. Slightly exfoliated.</rs>
-                                    <rs type="placement-building" ref="#bema">Bema, carved apse, lower register, second figure on the left</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>rock-cut wall surface. </objectType>Well preserved. Slightly exfoliated.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, lower register, second figure on the left</rs>
                                    <dimensions unit="cm" scope="text"><height>25</height><width>9</width></dimensions> 
                                     <dimensions unit="cm" scope="scroll"><height>36</height><width>11</width></dimensions>  
                                 </support>
@@ -39,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against white background. Character size varies. Epsilon with a middle wavy arm. HM joined in ligature. Wavy, horizontal abbreviation mark above the characters KE and ΘC. Letter height: <height unit="cm">4</height>
+                            <handNote>Black majuscule letters against white background. Character size varies. Epsilon with a middle wavy arm. HM joined in ligature. Wavy, horizontal abbreviation mark above the characters KE and ΘC. <!-- there is a peculiar symbol above HM that requires comment --> Accents and breathings. Text between single ruled lines. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -79,17 +79,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   PENDING <!-- Δέσποτα Κύριε ὁ Θεὸς ἡμῶν, ὁ καταστήσας (ἐν οὐρανοῖς τάγματα καὶ στρατιὰς ἀγγέλων)  -->
                  </ab>
             </div>
             <div type="apparatus">
                <p>n/a</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Master, Lord our God, you who have established...</p>
             </div>
             <div type="commentary">
-                <p>No comment</p>
+                <p>Incipit of the prayer of the Little Entrance, Liturgy of John Chrysostom <!-- Add edition -->. For the occurrence of this text, albeit rarely, on the scrolls of prelates in Byzantine monuments outside Cyprus, see <ptr target="#BabićWalter1976"/>, 271 no. 5.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
