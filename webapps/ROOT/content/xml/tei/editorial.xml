@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Editorial Principles and Conventions</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text">
+                <head>Basis of the edition</head>
+                <p>Editions are based, whenever possible, on direct examination and photographic documentation. Where this is not possible, earlier photographs and/or published editions are used, and the source is identified in the individual record. Significant variant readings in previous editions are recorded in the apparatus. </p></div>
+            
+             <div type="text">
+                <head>Textual views</head>
+                <p>MedCyprus provides a <emph>diplomatic transcription</emph> and an <emph>interpretative edition</emph>, with an additional verse view where appropriate.</p>
+                 <p><hi rend="font-style: italic;">Diplomatic transcription</hi>. Represents the text as preserved on the painted surface, retaining its lineation, abbreviations, ligatures, and original diacritics. Standard Greek characters are used rather than typographical imitations of historical letterforms; the forms of the letters can be examined in the photographs.</p>
+                <p><hi rend="font-style: italic;">Interpretative edition</hi>. Expands abbreviations and regularises accents and breathings where necessary. Spelling is otherwise retained, including irregular or erroneous forms. Lineation follows the physical arrangement of the inscription.</p>
+                 <p><hi rend="font-style: italic;">Verse</hi>. For metrical inscriptions, this view presents the interpretative text according to its verse structure rather than its arrangement on the painted surface. 
+</p></div>
+            
+              <div type="text">
+                <head>Editorial intervention</head>
+                  
+                <p>Irregular forms are normally retained rather than silently corrected. Where a spelling or other form is regarded as erroneous or irregular, the form appearing in the inscription remains visible in the edition, while the editorial correction or regularised form is recorded separately. </p></div>
+            
+            <div>
+                <head>Editorial conventions</head>
+                <p>The inscriptions in MedCyprus are presented following the Leiden System, with some modifications.</p>
+                <list>
+                   <item>αβγ	Letters clear and comprehensible</item>
+                    <item>AB	Letters clear, but incomprehensible</item>
+                    <item>[αβ]	Letters lost and restored by the editor</item>
+                    <item>[ .. ca 4 .. ]	A number of characters lost</item>
+                    <item>[ .. ? .. ]	An unknown number of characters lost </item>
+                    <item>⟦αβ⟧	Letters deliberately erased but still legible</item>
+                    <item>⟦[αβ]⟧	Letters deliberately erased, subsequently lost, and restored by the editor</item>
+                    <item>{αβ}	Letters regarded as erroneous and superfluous by the editor</item>
+                    <item>&lt;αβ>	Letters omitted in the inscription and supplied by the editor</item>
+                    <item>α̣β̣	Letters preserved but uncertain or unclear</item>
+                    <item>αβ(γδ)	Abbreviation expanded by the editor</item>
+                    <item>αβ(γδ?)	Abbreviation for which the proposed expansion is uncertain</item>
+                    <item>αβ(---)	Abbreviation that cannot be resolved</item>
+                    <item>\αβ/	Text added above the line</item>
+                    <item>/αβ\	Text added below the line</item>
+
+                </list>
+            </div>
+             <div type="text">
+                <head>Dates</head>
+                  
+                <p>Dates reflect the precision permitted by the available evidence and may represent a precise year or a chronological range. The basis for dating is identified where possible (e.g. internal date, artistic style, lettering, prosopography, or written evidence). Alternative datings proposed in scholarship may also be recorded.</p>
+                 <p>The term “painting layer” is used to distinguish successive phases of painted decoration within a monument. Assignment to the same “layer” does not necessarily imply that all the paintings or inscriptions concerned were executed simultaneously, particularly where the dating of that phase is approximate.
+ </p></div>
+            <div>
+                <head>XML</head>
+                <p>The editions are encoded according to the <ref target="https://epidoc.stoa.org/gl/latest/">EpiDoc Guidelines</ref>. The XML records the editorial distinctions underlying the displayed texts and is available for download and reuse.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

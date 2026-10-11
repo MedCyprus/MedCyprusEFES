@@ -98,8 +98,7 @@ textarea {
     height: auto;
     min-height: 50px
 }
-
-select {
+	select {
     width: 100%
 }
 
@@ -1434,11 +1433,7 @@ p.lead {
     margin-top: 0.2em;
     margin-bottom: 0.5em
 }
-
-div,
-dl,
-dt,
-dd,
+	div,	dl,	dt,	dd,
 ul,
 ol,
 li,
@@ -1553,14 +1548,12 @@ i {
     font-style: italic;
     line-height: inherit
 }
-
-strong,
+	strong,
 b {
     font-weight: bold;
     line-height: inherit
 }
-
-small {
+	small {
     font-size: 60%;
     line-height: inherit
 }
@@ -1572,8 +1565,7 @@ code {
 }
 
 ul,
-ol,
-dl {
+ol,	dl {
     font-size: 1em;
     line-height: 1.6;
     margin-bottom: 1.25em;
@@ -1620,13 +1612,11 @@ ol li ol {
     margin-left: 1.25em;
     margin-bottom: 0
 }
-
-dl dt {
+	dl dt {
     margin-bottom: 0.3em;
     font-weight: bold
 }
-
-dl dd {
+	dl dd {
     margin-bottom: 0.75em
 }
 
@@ -2337,16 +2327,14 @@ label small {
     border-top-right-radius: 1000px;
     border-bottom-right-radius: 1000px
 }
-
-span.prefix,
+	span.prefix,
 label.prefix {
     background: #f2f2f2;
     border-color: #d9d9d9;
     border-right: none;
     color: #333
 }
-
-span.prefix.radius,
+	span.prefix.radius,
 label.prefix.radius {
     -webkit-border-radius: 0;
     border-radius: 0;
@@ -2357,16 +2345,14 @@ label.prefix.radius {
     border-bottom-left-radius: 3px;
     border-top-left-radius: 3px
 }
-
-span.postfix,
+	span.postfix,
 label.postfix {
     background: #f2f2f2;
     border-color: #ccc;
     border-left: none;
     color: #333
 }
-
-span.postfix.radius,
+	span.postfix.radius,
 label.postfix.radius {
     -webkit-border-radius: 0;
     border-radius: 0;
@@ -2510,8 +2496,7 @@ textarea[disabled] {
 
 input[type="file"],
 input[type="checkbox"],
-input[type="radio"],
-select {
+input[type="radio"],	select {
     margin: 0 0 1em 0
 }
 
@@ -2551,9 +2536,7 @@ fieldset legend {
 [data-abide] small.error {
     display: none
 }
-
-span.error,
-small.error {
+	span.error,	small.error {
     display: block;
     padding: 0.375em 0.25em;
     margin-top: -1.3125em;
