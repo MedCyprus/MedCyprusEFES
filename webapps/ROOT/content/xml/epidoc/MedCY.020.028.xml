@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Prelate, unidentified (Theodotos?)</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>  
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Final sigma in the form of a wavy line. OC joined in ligature. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Theodotos">Theodotos</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -72,7 +75,18 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                    <cb n="a"/>
+                   <lb n="1"/>Ὁ 
+                  <lb n="1"/><persName type="sacred" key="Theodotos"><w lemma="ἅγιος"><supplied reason="lost">ἅ
+                     <lb n="2" break="no"/>γι</supplied>
+                      <lb n="3" break="no"/>ο
+                     <lb n="4" break="no"/>ς</w>
+                      <cb n="b"/>
+                     <lb n="1"/><name type="forename" nymRef="#Θεόδοτος"><supplied reason="lost">Θε
+                      <lb n="2" break="no"/>ό
+                     <lb n="3" break="no"/>δὡ</supplied>
+                    <lb n="4" break="no"/>τ
+                     <lb n="5" break="no"/><hi rend="ligature">ος</hi></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">

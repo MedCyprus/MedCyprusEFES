@@ -45,6 +45,8 @@
                     
                     <bibl xml:id="Babić1979"><author><surname>Babić</surname> <forename>G.</forename></author>, <date>1979</date>, <title level="a">Les croix à cryptogrammes, peintes dans les églises serbes des XIIIe et XIVe siècles</title>, in <title level="m">Byzance et les Slaves. Études de Civilisation. Mélanges Ivan Dujčev</title>, <pubPlace>Paris</pubPlace>,<biblScope unit="page"> 1-13</biblScope>.</bibl>
                     
+                    <bibl xml:id="BabićWalter1976"><author><surname>Babić</surname> <forename>G.</forename></author>, <author><surname>Walter</surname> <forename>Ch.</forename></author> <date>1976</date>, <title>The Inscriptions upon Liturgical Rolls in Byzantine Apse Decoration</title>, <title level="j">Revue des études byzantines</title> <biblScope unit="volume">34</biblScope>, <biblScope unit="page">269-280</biblScope>, DOI: <ref>https://doi.org/10.3406/rebyz.1976.2054</ref>.</bibl>
+                    
                     <bibl xml:id="Bakirtzis2022"><author><surname>Bakirtzis</surname><forename> Ch.</forename></author>, <date>2022</date>, <title level="a">Ἀσύμμετρο ἢ σύμμετρο; Ὁ Ἅγιος Νικόλαος τῆς Στέγης στὴν Κακοπετρία</title>, in <title level="m">Πρακτικά συνεδρίου στη μνήμη  του Άγγελου Δεληβορριά</title>, ed. <editor><forename>S. </forename><surname>Vlizos</surname></editor>, <pubPlace>Athens</pubPlace>,<biblScope unit="page"> 171-81</biblScope>.</bibl>
                     
                     <bibl xml:id="Bakirtzis2019"><author><surname>Bakirtzis</surname><forename> N.</forename></author>, <date>2019</date>, <title level="a">Revisiting the Monastic Legacy of Saint Sozomenos near Potamia</title>, in <title level="m">The Art and Archaeology of Lusignan and Venetian Cyprus (1192-1571). Recent Research and New Discoveries</title>, ed. <editor><forename>M. </forename><surname>Olympios</surname></editor> and<editor><forename>M.</forename> <surname>Parani</surname></editor>, <pubPlace>Turnhout</pubPlace>,<biblScope unit="page"> 83-100</biblScope>.</bibl>
@@ -84,6 +86,8 @@
                     <bibl xml:id="Eliades2008"><author><surname>Eliades</surname> <forename>I. A.</forename></author>, <date>2008</date>, <title level="u">Η κυπροαναγεννησιακή ζωγραφική: το λατινικό παρεκκλήσιο της Μονής του Αγίου Ιωάννου του Λαμπαδιστού στον Καλοπαναγιώτη και τα παρεμφερή μνημεία, unpublished Ph.D. thesis</title>, 2 vols, University of Cyprus, available: <ref>https://gnosis.library.ucy.ac.cy/entities/publication/63a1f5af-181d-47f2-ba67-5cd9fa099cc1</ref></bibl>
                     
                     <bibl xml:id="Eliades2010"><author><surname>Eliades</surname> <forename>I.</forename></author>, <date>2010</date>, <title level="a">Η κυπροαναγεννησιακή ζωγραφική στη χερσόνησο της Καρπασίας</title>, in <title level="m">Καρπασία. Πρακτικά Α΄ Επιστημονικού συνεδρίου 4-5 Απριλίου 2009</title>, ed. <editor><forename>P.</forename> <surname>Papageorgiou</surname></editor>, <pubPlace>Limassol</pubPlace>, <biblScope unit="page">461-76</biblScope>.</bibl>
+                    
+                    <bibl xml:id="Eliades2022"><author><surname>Eliades</surname> <forename>I.</forename></author>, <date>2022</date>, <title level="a">Επαναπατρισθείσες τοιχογραφίες από την Παναγία Περγαμηνιώτισσα Ακανθούς</title>, in <title level="m">Πρακτικά ΙΑ΄ Επιστημονικού-Λαογραφικού συνεδρίου: Σπαράγματα Ακάνθιου πολιτισμού: αφιέρωμα στα 200 χρόνια εθνικής παλιγγενεσίας (16 Οκτωβρίου 2021)</title>, eds. <editor><forename>Μ.</forename> <surname>Loizou-Mintikke, </surname>et al.,</editor> <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">73-81</biblScope>.</bibl>
                     
                     <bibl xml:id="Emmanuel1997"><author><surname>Emmanuel</surname> <forename>M.</forename></author>, <date>1997</date>,<title> Ο ναός της Παναγίας του Μουτουλλά της Κύπρου: οι τοιχογραφίες της μεταβυζαντινής εποχής</title>, <title level="j">ΚΣ</title> <biblScope unit="volume">61</biblScope>, <biblScope unit="page">107-37</biblScope>.</bibl>
                     
@@ -142,6 +146,8 @@
                     <bibl xml:id="HatfieldYoung1978"><author><surname>Hatfield Young</surname> <forename>S.</forename></author> and <author><surname>Hatfield-Young</surname> <forename>N.</forename></author>, <date>1978</date>, <title level="a">The Iconography and Date of the Wall Paintings at Ayia Solomoni, Paphos, Cyprus</title>, <title level="j">Byzantion</title> <biblScope unit="volume">48</biblScope>, <biblScope unit="page">91-111</biblScope>.</bibl>
                     
                     <bibl xml:id="HatfieldYoung1983"><author><surname>Hatfield Young</surname> <forename>S.</forename></author>, <date>1983</date>, <title level="u">Byzantine Painting in Cyprus during the Early Lusignan Period</title>, <pubPlace>Pennsylvania State University</pubPlace></bibl>
+                    
+                    <bibl xml:id="Immerzeelforthcoming"><author><surname>Immerzeel</surname> <forename>M.</forename></author>, <date>forthcoming</date>, <title level="a">Sotera and the Christian Art of the Middle East</title>, in <title level="m">The Church of the Transfiguration at Sotera (Famagusta District) in Context: History – Architecture – Murals</title>, ed. <editor><forename>M.</forename><surname>Parani</surname></editor> and <editor><forename>G.</forename> <surname>Philotheou</surname></editor><!--, <pubPlace>TBA</pubPlace>, <biblScope unit="page">TBA</biblScope>-->.</bibl>
                     
                     <bibl xml:id="Ioannou2014"><author><surname>Ioannou</surname> <forename>C.</forename></author>, <date>2014</date>, <title level="a">Οι εργασίες συντήρησης των τοιχογραφιών στο ναό της Παναγίας Κοφίνου</title>, in <title level="m">Ευμάθιος Φιλοκάλης. Ανάδειξη βυζαντινών μνημείων Κρήτης και Κύπρου</title>, ed. <editor><forename>E.</forename><surname>Procopiou</surname></editor> and <editor><forename>N.</forename> <surname>Pyrrou</surname></editor>, <pubPlace>Rethymno</pubPlace>, <biblScope unit="page">278-99</biblScope>.</bibl>
                     
@@ -541,11 +547,15 @@
             <listBibl xml:id="textualsources">
                 <head>Textual Sources</head>
                 
+                <bibl xml:id="Brightman1896"><author><surname>Brightman</surname> <forename>F.E.</forename></author>, <date>1896</date>, <title level="m">Liturgies Eastern and Western</title>, <biblScope unit="volume">I</biblScope>, <pubPlace>Oxford</pubPlace>.</bibl>
+                
                 <bibl xml:id="Guy1993"><editor><surname>Guy</surname> <forename>J.-C.</forename></editor>, (ed.), <date>1993</date>, <title level="m">Les Apophtegmes des Pères</title>, <title level="s">Collection systématique, Chapitres I–IX (Sources chrétiennes 387), </title> <biblScope unit="volume">I</biblScope>, <pubPlace>Paris</pubPlace>.</bibl>
                 
                 <bibl xml:id="Lauxterman2003"><author><surname>Lauxterman</surname> <forename>M.</forename></author>, <date>2003</date>, <title level="m">Byzantine Poetry from Pisides to Geometres. Texts and Contexts</title>, <biblScope unit="volume">I</biblScope>, <pubPlace>Vienna</pubPlace>, available: <ref>https://austriaca.at/3150-Xebook</ref>.</bibl>
                 
                 <bibl xml:id="Rhoby2021"><author><surname>Rhoby</surname> <forename>A.</forename></author>, <date>2021</date>, <title level="a">Varia Lexicographica III. Neues Material zum byzantinischen und postbyzantinischen Wortschatz</title>, <title level="j">JÖB</title>, <biblScope unit="volume">71</biblScope>, <biblScope unit="page">303-93</biblScope>, DOI: <ref>doi: 10.1553/joeb71s303</ref>.</bibl>
+                
+                <bibl xml:id="Trempelas1935"><author><surname>Trempelas</surname> <forename>P.N.</forename></author>, <date>1935</date>, <title level="m">Αἱ τρεῖς λειτουργίαι κατὰ τοὺς ἐν Ἀθήναις κώδικας</title>, <title level="s">Texte und Forschungen zur byzantinisch-neugriechischen Philologie, </title> <biblScope unit="volume">15</biblScope>, <pubPlace>Athens</pubPlace>.</bibl>
                 
                 <bibl xml:id="Wortley2013"><editor><surname>Wortley</surname> <forename>J.</forename></editor> (ed. and trans.), <date>2013</date>, <title level="a">The Anonymous Sayings of the Desert Fathers. A Select Edition and Complete English Translation</title>, <pubPlace>New York</pubPlace>.</bibl>
                 

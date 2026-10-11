@@ -28,21 +28,21 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged. Fragmentary.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, south wall, middle register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the west</layout>
+                                <layout>Above the window</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">4-4,5</height>
+                            <handNote>White majuscule letters against blue background. Character size varies. Letter height: <height unit="cm">4-4.5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>n/a</p>
+                            <p>None</p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -63,31 +63,35 @@
                     <term type="textType" ref="text_types.xml#doc17">unknown</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publication</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+        <graphic rend="primary" url="031-001-01.JPG"><desc></desc></graphic>
+       <graphic url="031-001-02.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><gap reason="lost" extent="unknown" unit="line"></gap>
+                   <lb n="2"/><gap reason="lost" extent="unknown" unit="character"></gap><unclear>η</unclear><gap reason="lost" extent="unknown" unit="character"></gap>
+                   <lb n="3"/><gap reason="lost" extent="unknown" unit="character"></gap>ν <choice><orig>ι</orig><reg>ἱ</reg></choice>ερε<gap reason="lost" extent="unknown" unit="character"></gap>
+                   <lb n="4"/><gap reason="lost" extent="unknown" unit="line"></gap>
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <app loc="3"><rdg source="#Foulias2017">[<unclear>Ν</unclear>]ΙΕΡΕ</rdg></app>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Not usefully translated</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl><ptr target="#Foulias2017"/>, <citedRange>386</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

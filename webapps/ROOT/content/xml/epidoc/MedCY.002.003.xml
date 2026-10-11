@@ -28,8 +28,8 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
-                                    <rs type="placement-building" ref="#bema">Bema, carved apse, upper register, right</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>rock-cut wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, upper register, right</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Gabriel">Archangel Gabriel</rs>
+                            <p><rs type="iconography" ref="#Gabriel">Virgin Orans flanked by Archangels Michael and Gabriel, Archangel Gabriel</rs>
                                 <rs type="iconography" ref="#archangel"></rs>
                                 <rs type="iconography" ref="#genderless"></rs>
                                 <rs type="iconography" ref="#dressantique"></rs></p>
@@ -83,7 +83,7 @@
                <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Archangel Gabriel</p>
+                <p>The archangel Gabriel</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>

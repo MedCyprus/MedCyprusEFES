@@ -1415,6 +1415,12 @@
                     <note>See also: Mother of God, Virgin, Maria</note>
                 </person>
                 
+                <person xml:id="Timotheos">
+                    <persName xml:lang="grc">Τιμόθεος</persName>
+                    <persName xml:lang="en">Timotheos</persName>               
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q212647</idno>                   
+                </person>
+                
                 <person xml:id="Triphyllios">
                     <persName xml:lang="grc">Τριφύλλιος</persName>
                     <persName xml:lang="en">Triphyllios</persName>               

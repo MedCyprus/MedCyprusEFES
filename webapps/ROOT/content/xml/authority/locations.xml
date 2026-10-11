@@ -248,6 +248,7 @@
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>34-42</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>15: 338-41</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#WeylCarr2014"/><citedRange>167-85</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Eliades2022"/><citedRange>73-81</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -423,7 +424,7 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style">11th century</date> (bema)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style material-context">13th century</date> (naos: south central recess)</desc>
-                        <desc type="layer" n="3">3st layer: <date notBefore="1201" notAfter="1400" precision="medium" evidence="artistic-style">13th or 14th century</date> (naos: central bay)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1201" notAfter="1400" precision="medium" evidence="artistic-style">13th or 14th century</date> (naos: central bay)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1201" notAfter="1500" precision="medium" evidence="artistic-style">14th or 15th century</date> (naos: western bay)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1985-1986, 2002 (DAC)</desc>
@@ -1072,8 +1073,8 @@
                     <desc type="context"><term>Urban</term></desc>
                     <desc type="architectural">Chamber of a Hellenestic(?) rock-cut tomb, converted into a single-cell chapel</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium" evidence="artistic-style" source="bibliography.xml#Papageorgiou1996 bibliography.xml#Stylianou1997">Papageorgiou, Stylianou: late 12th century</date>; <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style" source="bibliography.xml#HatfieldYoung1978 bibliography.xml#Konstantinidi2008">Hatfield Young, Konstandinidi: 14th century</date> (bema)</desc><note>An in situ inspection is necessary to verify the painting layers.</note>                                                
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (naos)</desc><note>An in situ inspection is necessary to verify the painting layers.</note>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1200" precision="medium" evidence="artistic-style" source="bibliography.xml#Papageorgiou1996 bibliography.xml#Stylianou1997">Papageorgiou, Stylianou: late 12th century</date>; <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style" source="bibliography.xml#HatfieldYoung1978 bibliography.xml#Konstantinidi2008">Hatfield Young, Konstandinidi: 14th century</date> (bema)</desc><!--An in situ inspection is necessary to verify the painting layers.-->                                                
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (naos)</desc><!--An in situ inspection is necessary to verify the painting layers.-->
                     </desc>
                     <desc type="conservation">Poor condition; badly damaged. Conservation/cleaning: 1980, 2005 (DAC)</desc>
                     <desc type="donors">1st layer(?): a fragmentary inscription makes reference to a priest and caretaker of the church. Whether he was a donor remains unclear.</desc>
@@ -1118,11 +1119,11 @@
                         <desc type="layer" n="1">1st layer: <date notBefore="0867" notAfter="0933" precision="medium" evidence="artistic-style">late 9th or early 10th century</date> (naos: piers originally supporting the dome)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style">11th century</date> (naos: west wall)</desc>
                         <desc type="layer" n="3">3rd layer: <date notBefore="1101" notAfter="1133" precision="medium" evidence="artistic-style">early 12th century</date> (naos: soffits of arches connecting western piers with west wall)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1151" notAfter="1200" precision="medium" evidence="artistic-style">second half of 12th century</date> (naos: piers originally supporting the dome)</desc>
-                        <desc type="layer" n="5">5th layer: <date notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style">late 12th - early 13th century</date> (bema: wall between the prothesis apse and the central apse, southeast pier: north face<!--to be confirmed-->; naos: piers originally supporting the dome, vaults of north and south crossarms)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1151" notAfter="1200" precision="medium" evidence="artistic-style" source="bibliography.xml#Perdiki2014a">Perdiki: second half of 12th century</date>; <date notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style material-context" source="bibliography.xml#Immerzeelforthcoming">Immerzeel: two panels with St George on horseback ascribed to the late 13th century</date> (naos: piers originally supporting the dome)</desc>
+                        <desc type="layer" n="5">5th layer: <date notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style" source="bibliography.xml#Perdiki2014a">Perdiki: late 12th - early 13th century</date>; <date notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style material-context" source="bibliography.xml#Immerzeelforthcoming">Immerzeel: panel with St George on horseback ascribed to the late 13th century</date>  (bema: wall between the prothesis apse and the central apse, southeast pier: north face<!--to be confirmed-->; naos: piers originally supporting the dome, vaults of north and south crossarms)</desc>
                     </desc>
                     <desc type="conservation">Partially preserved. Some of the murals have been detached and are now on display at the <ref target="#KykkosMuseum">Museum of the Kykkos Monastery</ref>. Conservation/cleaning: 1977, 1980-2000, 2002-2005, 2007-2008 (DAC) </desc>
-                    <desc type="donors">A number of fragmentary inscriptions survive associated with votive panels of the 4th and 5th layers of painted decoration, see <!--<ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>, <ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref>, <ref target="MedCY.XXX.XXX.html">MedCY.XXX.XXX</ref> + --></desc>
+                    <desc type="donors">A number of fragmentary inscriptions survive associated with votive panels of the 4th and 5th layers of painted decoration, see <ref target="MedCY.027.005.html">MedCY.027.005</ref>, <ref target="MedCY.027.016.html">MedCY.027.016</ref>, <ref target="MedCY.027.019.html">MedCY.027.019</ref>, <ref target="MedCY.027.022.html">MedCY.027.022</ref>, <ref target="MedCY.027.030.html">MedCY.027.030</ref>, <ref target="MedCY.027.034.html">MedCY.027.034</ref>, <ref target="MedCY.027.037.html">MedCY.027.037</ref></desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>307</citedRange></bibl> <bibl><ptr target="bibliography.xml#Perdiki2014a"/><citedRange>26</citedRange></bibl> <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>354, 358, 376</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0009.html</idno>
@@ -1218,13 +1219,13 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Domed-hall church with elongated eastern and western bays, built on the remains of an Early Byzantine basilica (7th century?) </desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date notBefore="1151" notAfter="1200" precision="medium" evidence="artistic-style">second half of 12th century</date> (bema; naos: north and south walls)</desc>
+                        <desc type="layer" n="1">1st layer: <date notBefore="1167" notAfter="1300" precision="medium" evidence="artistic-style material-context">late 12th or 13th century</date></desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1367" notAfter="1400" precision="medium" evidence="artistic-style">late 14th century</date> (naos: north and south walls)</desc>
                         <desc type="layer" n="3">3rd layer: <date notBefore="1501" notAfter="1600" precision="medium" evidence="artistic-style">16th century</date> (naos: south central recess)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; poor state of preservation. Conservation/cleaning: 1950, 1975, 1999, 2011-2013 (DAC)</desc>
                     <desc type="donors">
-                        1st layer: a fragmentary inscription above the south door preserves a reference to a male donor.
+                        1st layer: a fragmentary inscription above the south door preserves a reference to a male donor (<ref target="MedCY.029.001.html">MedCY.029.001</ref>).
                         2nd layer: a fragmentary inscription identifies the male donor of the mural of an archangel in the north central recess of the naos as Sampson(?) (son) of Plounteas</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -1434,7 +1435,7 @@
                     <desc type="context"><term>Rural</term></desc>
                     <desc type="architectural">Domed-hall chapel (today, ruinous), attached to the north side of the <ref target="#KoutsoventisSaviour">chapel of the Saviour</ref></desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1167" notAfter="1233" precision="medium" evidence="artistic-style">late 12th or early 13th century</date> (naos: north wall, southwest recess)</desc>
+                        <desc type="layer" n="1"><date notBefore="1167" notAfter="1300" precision="medium" evidence="artistic-style">late 12th or 13th century</date> (naos: north wall, southwest recess)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary; prior to to 1974, fair condition. After 1974, the monument became inaccessible, so the condition of the murals cannot be evaluated. Conservation/cleaning: 1956 (DAC)</desc>
                     <desc type="donors">Unknown</desc>
