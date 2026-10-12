@@ -69,9 +69,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-084-01.JPG"><desc>Saint Helena, inscription</desc></graphic>
-        <graphic url="059-084-02.JPG"><desc>Saint Helena, general view</desc></graphic>
-        <graphic url="059-084-03.JPG"><desc>Saint Helena, general view</desc></graphic>
+         <graphic rend="primary" url="059-084-01.JPG"><desc></desc></graphic>
+        <graphic url="059-084-02.JPG"><desc></desc></graphic>
+        <graphic url="059-084-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -80,7 +80,7 @@
                  <cb n="a"/> 
                   <lb n="1"/>Ἡ <persName type="sacred" key="Helena"><w lemma="ἅγιος"><choice><orig>ἀ</orig><reg>ἁ</reg></choice>γ<choice><orig>ι</orig><reg>ί</reg></choice>α</w>
                    <cb n="b"/>   
-                   <lb n="1"/><name type="forename" nymRef="#Ἑλένη"><choice><orig>E</orig><reg>Ἑ</reg></choice><supplied reason="lost">λένη</supplied>  
+                   <lb n="1"/><name type="forename" nymRef="#Ἑλένη"><choice><orig>E</orig><reg>Ἑ</reg></choice><supplied reason="lost">λένη</supplied>  
                  </name></persName>               
                  </ab>
             </div>
