@@ -83,9 +83,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <w lemma="νόμος">νόμ<expan><ex>ος</ex></expan></w>
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <w lemma="νόμος"><expan><abbr>νόμ</abbr><ex>ος</ex></expan></w>
                   <lb n="2"/><w lemma="λέγω">λέγει</w>·
-                  <lb n="3"/><expan><abbr rend="supraline">τ</abbr><ex>οῖς</ex></expan><space extent="unknown" unit="character"></space> <choice><orig>ε</orig><reg>ἐ</reg></choice><expan><ex>ν</ex></expan>
+                  <lb n="3"/><expan><abbr rend="supraline">τ</abbr><ex>οῖς</ex></expan><space extent="unknown" unit="character"></space> <expan><abbr><choice><orig>ε</orig><reg>ἐ</reg></choice></abbr><ex>ν</ex></expan>
               </ab>
             </div>
             <div type="apparatus">
