@@ -248,7 +248,6 @@
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>34-42</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>15: 338-41</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#WeylCarr2014"/><citedRange>167-85</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Eliades2022"/><citedRange>73-81</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -423,15 +422,18 @@
                     <desc type="architectural">Domed-hall church, with twin apses inscribed into the eastern curved wall; narthex subsequently added to the west</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style">11th century</date> (bema)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style material-context">13th century</date> (naos: south central recess)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1201" notAfter="1400" precision="medium" evidence="artistic-style">13th or 14th century</date> (naos: central bay)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1201" notAfter="1500" precision="medium" evidence="artistic-style">14th or 15th century</date> (naos: western bay)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style material-context">13th century</date> (naos: south central recess, except panel with Christ)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1400" precision="medium" source="bibliography.xml#MeyerFernandez2025">Meyer-Fernandez: 14th century</date> (naos: central and western bays);</desc> 
+                        <desc type="layer" n="3a">Layer 3a: <date notBefore="1167" notAfter="1233" precision="medium" source="bibliography.xml#EcclesMon" evidence="artistic-style">Philotheou, Petrou: late 12th or early 13th century</date> (naos, central bay: panels of Sts Peter and Paul;</desc> 
+                        <desc type="layer" n="3b">Layer 3b: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (naos: central bay, north central recess, part of south central recess; western bay)</desc>
+                        <desc type="layer" n="3c">Layer 3c: <date notBefore="1401" notAfter="1500" precision="medium" source="bibliography.xml#EcclesMon" evidence="artistic-style">Philotheou, Petrou: 15th century </date>(naos: northwest recess)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1985-1986, 2002 (DAC)</desc>
                     <desc type="donors">Male and female donors, lay and ecclesiastic, donated votive panels: 
-                        2nd layer: the priest Georgios and Magdalene.
-                        3rd layer: Theodosia, the monk Leontios, and one other male donor.
-                        4th layer: female donor (portrait; no inscription surviving)</desc>                    
+                        Layer 2: the priest Georgios and Magdalene
+                        Layer 3a: Theodosia and the monk Leontios
+                        Layer 3b: male donor
+                        Layer 3c: female donor (portrait; no inscription surviving)</desc>                    
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0047.html</idno>
