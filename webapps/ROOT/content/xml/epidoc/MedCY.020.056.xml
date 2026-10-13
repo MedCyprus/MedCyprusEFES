@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Red and black majuscule letters against white background. Character size varies. Systematic use of triangular serifs. OY and APHN joined in ligature. Text between double, green-coloured ruled lines. Letter height: <height unit="cm">5</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Virgin">Virgin</rs>
+                                <rs type="iconography" ref="#female"></rs>
+                                <rs type="iconography" ref="#scroll"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
