@@ -423,17 +423,17 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style">11th century</date> (bema)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style material-context">13th century</date> (naos: south central recess, except panel with Christ)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1400" precision="medium" source="bibliography.xml#MeyerFernandez2025">Meyer-Fernandez: 14th century</date> (naos: central and western bays);</desc> 
-                        <desc type="layer" n="3a">Layer 3a: <date notBefore="1167" notAfter="1233" precision="medium" source="bibliography.xml#EcclesMon" evidence="artistic-style">Philotheou, Petrou: late 12th or early 13th century</date> (naos, central bay: panels of Sts Peter and Paul;</desc> 
-                        <desc type="layer" n="3b">Layer 3b: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (naos: central bay, north central recess, part of south central recess; western bay)</desc>
-                        <desc type="layer" n="3c">Layer 3c: <date notBefore="1401" notAfter="1500" precision="medium" source="bibliography.xml#EcclesMon" evidence="artistic-style">Philotheou, Petrou: 15th century </date>(naos: northwest recess)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1400" precision="medium" source="bibliography.xml#MeyerFernandez2025" evidence="artistic-style">Meyer-Fernandez: 14th century</date> (naos: central and western bays);</desc> 
+                        <desc type="layer" n="3a">layer 3a: <date notBefore="1167" notAfter="1233" precision="medium" source="bibliography.xml#EcclesMon" evidence="artistic-style">Philotheou, Petrou: late 12th or early 13th century</date>  (naos, central bay: panels of Sts Peter and Paul);</desc> 
+                        <desc type="layer" n="3b">layer 3b: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (naos: central bay, north central recess, part of south central recess; western bay);</desc>
+                        <desc type="layer" n="3c">layer 3c: <date notBefore="1401" notAfter="1500" precision="medium" source="bibliography.xml#EcclesMon" evidence="artistic-style">Philotheou, Petrou: 15th century </date>(naos: northwest recess)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1985-1986, 2002 (DAC)</desc>
                     <desc type="donors">Male and female donors, lay and ecclesiastic, donated votive panels: 
-                        Layer 2: the priest Georgios and Magdalene
-                        Layer 3a: Theodosia and the monk Leontios
-                        Layer 3b: male donor
-                        Layer 3c: female donor (portrait; no inscription surviving)</desc>                    
+                        layer 2: the priest Georgios and Magdalene;
+                        layer 3a: Theodosia and the monk Leontios;
+                        layer 3b: male donor;
+                        layer 3c: female donor (portrait; no inscription surviving)</desc>                    
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0047.html</idno>
