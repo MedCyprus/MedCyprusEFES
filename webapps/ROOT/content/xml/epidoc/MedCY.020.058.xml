@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Baptism, Christ</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                  <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against green background. Wavy, horizontal abbeviation mark above the sigla ΙC ΧC. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Baptism">Baptism, Christ</rs>
+                            <rs type="iconography" ref="#Christ"></rs>
+                            <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -72,7 +75,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline"><supplied reason="lost">Ἰ</supplied></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan></name>
+                    <milestone unit="column"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline"><supplied reason="lost">ς</supplied></abbr></expan></addName></persName>                       
                  </ab>
             </div>
             <div type="apparatus">
