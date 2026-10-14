@@ -1218,11 +1218,11 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2466161</idno>                   
                 </person>
                 
-                    <person xml:id="RomanosMelode">
+                    <person xml:id="RomanosMelodist">
                     <persName xml:lang="grc">Ρωμανός</persName>
-                    <persName xml:lang="en">Romanos the Melode</persName> 
-                        <persName xml:lang="grc" type="epithet" subtype="RomanosMelode" key="Melode">ὁ Μελωδός</persName>
-                        <persName xml:lang="en" type="epithet" subtype="RomanosMelode" key="Melode">the Melode</persName>
+                    <persName xml:lang="en">Romanos</persName> 
+                        <persName xml:lang="grc" type="epithet" subtype="RomanosMelodist" key="Melodist">ὁ Μελωδός</persName>
+                        <persName xml:lang="en" type="epithet" subtype="RomanosMelodist" key="Melodist">the Melodist</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q221059</idno>                   
                 </person>
                 
