@@ -1313,8 +1313,8 @@
                 <person xml:id="SymeonGodReceiver">
                     <persName xml:lang="grc">Συμεών</persName>
                     <persName xml:lang="en">Symeon</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="SymeonGodReceiver" key="GodReceiver">ὁ Θεοδόχος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="SymeonGodReceiver" key="GodReceiver">God-receiver</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="SymeonGodReceiver" key="God-receiver">ὁ Θεοδόχος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="SymeonGodReceiver" key="God-receiver">God-receiver</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q345205</idno>                   
                 </person>
                 
