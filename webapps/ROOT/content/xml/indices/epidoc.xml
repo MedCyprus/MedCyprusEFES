@@ -108,6 +108,21 @@
         </div>
       </div>
       
+      <div xml:id="locations">
+        <head>Locations</head>
+        <div type="headings">
+          <list>
+            <item>Name</item>
+            <item>Type</item>
+            <item>Info</item>
+            <item>References</item>
+          </list>
+        </div>
+        <div type="notes">
+          <p>Index of monuments and repositories of the inscriptions.</p>
+        </div>
+      </div>
+           
       <div xml:id="person_name">
         <head>Personal Names</head>
         
@@ -205,23 +220,7 @@
             <item></item>
           </list>
         </div>-\->
-      </div>-->
-      
-      <div xml:id="locations">
-        <head>Locations</head>
-        <div type="headings">
-          <list>
-            <item>Name</item>
-            <item>Type</item>
-            <item>Info</item>
-            <item>References</item>
-          </list>
-        </div>
-        <div type="notes">
-          <p>Index of monuments and repositories of the inscriptions.</p>
-        </div>
-      </div>
-      
+      </div>-->      
       
       <!--<div xml:id="offices">
         <head>Offices, Dignities, Honorifics and Occupations</head>
