@@ -19,11 +19,11 @@
                     <person xml:id="AlexiosKomnenos">
                         <persName xml:lang="en"><forename>Alexios I</forename> <surname>Komnenos</surname></persName>
                         <persName xml:lang="grc"><forename>Ἀλέξιος</forename> <surname>Κομνηνός</surname></persName>       
-                        <birth  notBefore="1050" notAfter="1057">Around 1057</birth>
+                        <birth  notBefore="1050" notAfter="1057">ca 1057</birth>
                         <death when="1118">1118</death>                       
                         <floruit from="1081" to="1118">reign 1081-1118</floruit>
                         <occupation type="office-secular">emperor</occupation>
-                        <note>The church of Panagia Phorbiotissa or Asinou, Niketari was constructed and first decorated with wall-paintings during his reign (acknowledged in the donor's inscription).</note>
+                        <note>The church of Panagia Phorbiotissa or Asinou, Niketari, was decorated with wall-paintings during his reign.</note>
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q41600</idno>
                         <idno type="PBW">http://pbw2016.kdl.kcl.ac.uk/person/Alexios/1/</idno>
                     </person>
@@ -32,7 +32,8 @@
                         <persName xml:lang="en"><forename>Anastasia</forename> <surname>Saramalyna</surname></persName>
                         <persName xml:lang="grc"><forename>Ἀναστασία</forename> <surname>Σαραμαλύνα</surname></persName>
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                
-                        <note>Donor of the mural panel of St Anastasia the Deliverer from Poisons in the narthex of Panagia Phorbiotissa or Asinou, Niketari</note>
+                        <note>Donor of the mural panel of St Anastasia the Poison-curer in the narthex of Panagia Phorbiotissa or Asinou, Niketari</note>
+                        <idno type="PLP">#24868 (Σαραμαλίνα Ἀναστασία)</idno>
                     </person>
                     
                     <person xml:id="ChristophorosΟmotes">
