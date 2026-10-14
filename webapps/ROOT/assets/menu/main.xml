@@ -22,7 +22,7 @@
     <item label="Ligatures" match="local-index-display-html" params="epidoc ligature"/> 
   <!--  <item label="Locations" match="local-index-display-html" params="epidoc locations"/>-->
     <item label="Numerals" match="local-index-display-html" params="epidoc numeral"/>
-    <item label="Offices, Dignities, Honorifics and Occupations" match="local-index-display-html" params="epidoc offices" />
+    <!--<item label="Offices, Dignities, Honorifics and Occupations" match="local-index-display-html" params="epidoc offices" />-->
     <item label="Personal Names" match="local-index-display-html" params="epidoc person_name"/>
     <item label="Persons Attested" match="local-index-display-html" params="epidoc persons"/> 
     <item label="Places Attested" match="local-index-display-html" params="epidoc mentioned_places"/> 

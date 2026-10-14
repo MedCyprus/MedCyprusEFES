@@ -15,25 +15,6 @@
   </teiHeader>
   <text>
     <body>
-      <div xml:id="lemma">
-        <head>Greek Words</head>
-        
-        <div type="headings">
-          <list>
-            <item>Lemma</item>
-            <!--<item>Language code</item>-->
-            <item>References</item>
-          </list>
-        </div>
-        
-        <div type="notes">
-          <list>
-            <item>
-              <p>List of Greek words (<hi rend="font-style: italic;">lemmata</hi>) occurring in the inscriptions, excluding articles and conjunctions. Words are lemmatized using normalized spelling. Nouns, pronouns, and adjectives are listed in the nominative singular (masculine for pronouns and adjectives), and verbs and participles under the first-person singular present indicative active, in their uncontracted form. Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
-            </item>
-          </list>
-        </div>
-      </div>
       
       <div xml:id="abbreviation">
         <head>Abbreviations</head>
@@ -50,6 +31,39 @@
           <list>
             <item>
               <p>List of words that appear in abbreviated form in the inscriptions, together with their expansions. The same abbreviation is recorded as a separate entry when it appears with different diacritics. Square brackets [ ] indicate that the word is partially or completely restored in this inscription.</p>
+            </item>
+          </list>
+        </div>
+      </div>
+
+      <div xml:id="epithets">
+        <head>Epithets</head>
+        <div type="headings">
+          <list>
+            <item>Epithet</item>
+            <item>References</item>
+          </list>
+        </div>
+        <div type="notes">
+          <p> List of epithets ascribed to saints and sacred entities in the captions accompanying their representations. Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
+        </div> 
+      </div>
+
+      <div xml:id="lemma">
+        <head>Greek Words</head>
+        
+        <div type="headings">
+          <list>
+            <item>Lemma</item>
+            <!--<item>Language code</item>-->
+            <item>References</item>
+          </list>
+        </div>
+        
+        <div type="notes">
+          <list>
+            <item>
+              <p>List of Greek words (<hi rend="font-style: italic;">lemmata</hi>) occurring in the inscriptions, excluding articles and conjunctions. Words are lemmatized using normalized spelling. Nouns, pronouns, and adjectives are listed in the nominative singular (masculine for pronouns and adjectives), and verbs and participles under the first-person singular present indicative active, in their uncontracted form. Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
             </item>
           </list>
         </div>
@@ -135,6 +149,20 @@
         </div>
       </div>
       
+      <div xml:id="mentioned_places">
+        <head>Places Attested</head>
+        <div type="headings">
+          <list>
+            <item>Name (Greek)</item>
+            <item>Name (English)</item>
+            <item>References</item>
+          </list>
+        </div>
+        <div type="notes">
+          <p>List of places mentioned in the inscriptions, including those appearing in toponymic epithets of saints. In the latter case, the place name is indexed rather than the toponymic epithet. Square brackets [ ] indicate that the place name is partially or completely restored in this inscription.</p>
+        </div>
+      </div>
+      
       <div xml:id="divine">
         <head>Sacred Entities and Saints</head>
         <div type="headings">
@@ -151,47 +179,6 @@
         </div> 
       </div>
       
-      <div xml:id="epithets">
-        <head>Epithets</head>
-        <div type="headings">
-          <list>
-            <item>Epithet</item>
-            <item>References</item>
-          </list>
-        </div>
-        <div type="notes">
-          <p> List of epithets ascribed to saints and sacred entities in the captions accompanying their representations. Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
-        </div> 
-      </div>
-      
-      <!--<div xml:id="offices">
-        <head>Offices, Dignities, Honorifics and Occupations</head>
-        <div type="headings">
-          <list>
-            <item>Name</item>
-            <item>Type</item>
-            <item>References</item>
-          </list>
-        </div> 
-        <div type="notes">
-          <p>Secular and ecclesiastical offices, dignities, honorifics and occupations. Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
-        </div> 
-      </div>-->
-      
-      <div xml:id="mentioned_places">
-        <head>Places Attested</head>
-        <div type="headings">
-          <list>
-            <item>Name (Greek)</item>
-            <item>Name (English)</item>
-            <item>References</item>
-          </list>
-        </div>
-        <div type="notes">
-          <p>List of places mentioned in the inscriptions, including those appearing in toponymic epithets of saints. In the latter case, the place name is indexed rather than the toponymic epithet. Square brackets [ ] indicate that the place name is partially or completely restored in this inscription.</p>
-        </div>
-      </div>
-      
       <div xml:id="symbol">
         <head>Symbols</head>
 
@@ -204,7 +191,7 @@
         </div>
       </div>
       
-      <div xml:id="iconography">
+<!--      <div xml:id="iconography">
         <head>Iconography</head>
         <div type="headings">
           <list>
@@ -213,12 +200,12 @@
             <item>References</item>
           </list>
         </div>
-        <!--<div type="notes">
+        <!-\-<div type="notes">
           <list>
             <item></item>
           </list>
-        </div>-->
-      </div>
+        </div>-\->
+      </div>-->
       
       <div xml:id="locations">
         <head>Locations</head>
@@ -234,6 +221,22 @@
           <p>Index of monuments and repositories of the inscriptions.</p>
         </div>
       </div>
+      
+      
+      <!--<div xml:id="offices">
+        <head>Offices, Dignities, Honorifics and Occupations</head>
+        <div type="headings">
+          <list>
+            <item>Name</item>
+            <item>Type</item>
+            <item>References</item>
+          </list>
+        </div> 
+        <div type="notes">
+          <p>Secular and ecclesiastical offices, dignities, honorifics and occupations. Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
+        </div> 
+      </div>-->
+      
       
     </body>
   </text>
