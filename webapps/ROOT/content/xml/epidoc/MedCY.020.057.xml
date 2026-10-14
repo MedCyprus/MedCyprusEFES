@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Baptism</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. ΠΤH joined in ligature. Accents and breathings non systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Baptism">Baptism</rs>
+                            <rs type="iconography" ref="#Christ"></rs>
+                            <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -72,7 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/><choice><orig>H</orig><reg>Ἡ</reg></choice><w lemma="βάπτισις"><choice><sic>β<choice><orig>α</orig><reg>ά</reg></choice><space quantity="2" unit="character"/><hi rend="ligature">πτη</hi>σι<supplied reason="lost">ς</supplied></sic><corr>βάπτισις</corr></choice></w>
                  </ab>
             </div>
             <div type="apparatus">

@@ -248,7 +248,6 @@
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>34-42</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>15: 338-41</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#WeylCarr2014"/><citedRange>167-85</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Eliades2022"/><citedRange>73-81</citedRange></bibl>
                     </listBibl>
                 </place>
                 
@@ -423,15 +422,18 @@
                     <desc type="architectural">Domed-hall church, with twin apses inscribed into the eastern curved wall; narthex subsequently added to the west</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date notBefore="1001" notAfter="1100" precision="medium" evidence="artistic-style">11th century</date> (bema)</desc>
-                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style material-context">13th century</date> (naos: south central recess)</desc>
-                        <desc type="layer" n="3">3rd layer: <date notBefore="1201" notAfter="1400" precision="medium" evidence="artistic-style">13th or 14th century</date> (naos: central bay)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1201" notAfter="1500" precision="medium" evidence="artistic-style">14th or 15th century</date> (naos: western bay)</desc>
+                        <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style material-context">13th century</date> (naos: south central recess, except panel with Christ)</desc>
+                        <desc type="layer" n="3">3rd layer: <date notBefore="1301" notAfter="1400" precision="medium" source="bibliography.xml#MeyerFernandez2025" evidence="artistic-style">Meyer-Fernandez: 14th century</date> (naos: central and western bays);</desc> 
+                        <desc type="layer" n="3a">layer 3a: <date notBefore="1167" notAfter="1233" precision="medium" source="bibliography.xml#EcclesMon" evidence="artistic-style">Philotheou, Petrou: late 12th or early 13th century</date>  (naos, central bay: panels of Sts Peter and Paul);</desc> 
+                        <desc type="layer" n="3b">layer 3b: <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style">14th century</date> (naos: central bay, north central recess, part of south central recess; western bay);</desc>
+                        <desc type="layer" n="3c">layer 3c: <date notBefore="1401" notAfter="1500" precision="medium" source="bibliography.xml#EcclesMon" evidence="artistic-style">Philotheou, Petrou: 15th century </date>(naos: northwest recess)</desc>
                     </desc>
                     <desc type="conservation">Fragmentary. Conservation/cleaning: 1985-1986, 2002 (DAC)</desc>
                     <desc type="donors">Male and female donors, lay and ecclesiastic, donated votive panels: 
-                        2nd layer: the priest Georgios and Magdalene.
-                        3rd layer: Theodosia, the monk Leontios, and one other male donor.
-                        4th layer: female donor (portrait; no inscription surviving)</desc>                    
+                        layer 2: the priest Georgios and Magdalene;
+                        layer 3a: Theodosia and the monk Leontios;
+                        layer 3b: male donor;
+                        layer 3c: female donor (portrait; no inscription surviving)</desc>                    
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0047.html</idno>
@@ -2114,7 +2116,7 @@
                     <desc type="context"><term>Village</term></desc>
                     <desc type="architectural">Form of original single-aisled church uncertain; currently, a domed-hall church, incororating the apse and lower parts of the naos walls of the 12th-century structure (late 13th/early 14th century), flanked by "chapels"/aisles to the south (late 13th/early 14th century) and the north (14th century) that were expanded to their present width in the 15th/16th century.</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1">1st layer: <date when="1178" evidence="internal-date">1178</date> (bema: apse)</desc>
+                        <desc type="layer" n="1">1st layer: <date when="1177" evidence="internal-date">1177/8</date> (bema: apse)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</date> (bema: east wall north and south of the apse; south aisle: north wall)</desc>
                         <desc type="layer" n="3">3rd layer: <date notBefore="1335" notAfter="1350" precision="medium" evidence="artistic-style" source="bibliography.xml#Zarras2010">Zarras: second quarter of 14th century</date>; <date notBefore="1351" notAfter="1375" precision="medium" evidence="artistic-style" source="bibliography.xml#Hadjichristodoulou2005">Hadjichristodoulou: third quarter of 14th century</date> (bema; dome; naos)</desc>
                         <desc type="layer" n="4">4th layer: <date notBefore="1351" notAfter="1375" precision="medium" evidence="artistic-style prosopography">3rd quarter of the 14th century</date> (north aisle)</desc>
@@ -2123,16 +2125,15 @@
                     </desc>
                     <desc type="conservation">Fragmentary; on the whole, good state of preservation; the murals of the 12th century bear extensive hammer marks to prepare the surface for a new painted layer; the 14th-century murals of the bema apse were detached by DAC and relocated to the east wall of the south aisle. Conservation/cleaning: 1972, 1982-1983, 1985-1994, 2002-2003, 2008 (DAC) </desc>
                     <desc type="donors">
-                        1st layer: the priest Georgios, along with the other priests of the village (<ref target="MedCY.048.001.html">MedCY.048.001</ref>)
+                        1st layer: the priest Georgios, along with the other priests of the village (<ref target="MedCY.048.005.html">MedCY.048.005</ref>)
                         3rd layer: no names survive in the fragmentary dedicatory inscription above the western entrance to the naos. Three funerary portraits of lay men and women, accompanied by inscriptions, on the walls of the naos and on the western facade (lunette above the door); whether they and/or their families contributed to the decoration of the church remains unclear.
                         4th layer: portrait of Latin donors(?), identified by modern scholars, on the basis of the coat-of-arms accompanying the portrait, as Jean de Lusignan (d. 1375) and his wife; funerary portrait of one Leon Skouleas, whose potential contribution to the decoration of the north aisle remains unclear.
                         6th layer: portrait of a family, consisting of the parents and at least one child, on the south wall of the naos, by the templon (no inscription survives)
                     </desc>
-                    <desc type="painter">1st layer: a painter surnamed Mon[o]machos; his first name no longer survives (<ref target="MedCY.048.001.html">MedCY.048.001</ref>)
+                    <desc type="painter">1st layer: a painter perhaps surnamed Monomachos, rather than a monk (ΜΟΝΟ(Ο)ΜΑΧΟΥ, rather than ΜΟΝ{Μ}ΑΧΟΥ); his first name no longer survives (<ref target="MedCY.048.005.html">MedCY.048.005</ref>)
                     </desc>
                     <desc type="graffiti">Presence confirmed <ptr target="https://historic-graffiti.cyi.ac.cy/place/3/"/></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0061.html</idno>
-                    <idno type="Frankika">https://frankika.efa.gr/en/node/9664</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146198/217/</idno>
                     <idno type="geonames">https://www.geonames.org/12522/timios-stavros.html</idno>
                     <listBibl type="inscriptions">

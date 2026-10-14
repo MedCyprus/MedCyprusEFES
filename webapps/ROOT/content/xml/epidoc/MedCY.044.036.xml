@@ -79,13 +79,13 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                    <cb n="a"/> 
-                    <lb n="1"/>Ὁ <persName type="sacred" key="RomanosMelode"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                    <lb n="2"/><name type="forename" nymRef="#Ρωμανός">Ρω
+                    <lb n="1"/>Ὁ <persName type="sacred" key="RomanosMelodist"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>                    <lb n="2"/><name type="forename" nymRef="#Ρωμανός">Ρω
                     <lb n="3" break="no"/>μα
                     <lb n="4" break="no"/>ν
                     <lb n="5" break="no"/><choice><orig>o</orig><reg>ό</reg></choice>
                      <lb n="6" break="no"/>ς</name>
                      <cb n="b"/> 
-                     <lb n="1"/><addName type="epithet" key="Melode">ὁ
+                     <lb n="1"/><addName type="epithet" key="Melodist">ὁ
                      <lb n="2"/>M
                      <lb n="3" break="no"/><unclear>ε</unclear>
                      <lb n="4" break="no"/><supplied reason="lost">λ</supplied>

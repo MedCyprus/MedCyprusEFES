@@ -254,8 +254,8 @@
                 <person xml:id="Basil">
                     <persName xml:lang="grc">Βασίλειος</persName>
                     <persName xml:lang="en">Basil</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Basil" key="theGreat">ὁ Μέγας</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Basil" key="theGreat">the Great</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Basil" key="the Great">ὁ Μέγας</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Basil" key="the Great">the Great</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44258</idno>                   
                 </person>
                 
@@ -601,7 +601,7 @@
                 </person>
                 
                 <person xml:id="Helena">
-                    <persName xml:lang="grc">Ἑλένη</persName>
+                    <persName xml:lang="grc">Ἑλένη</persName>
                     <persName xml:lang="en">Helena</persName>
                     <!--<persName xml:lang="en">Helena, saint or Saint Helena</persName>-->                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q170164</idno>                   
@@ -1218,11 +1218,11 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2466161</idno>                   
                 </person>
                 
-                    <person xml:id="RomanosMelode">
+                    <person xml:id="RomanosMelodist">
                     <persName xml:lang="grc">Ρωμανός</persName>
-                    <persName xml:lang="en">Romanos the Melode</persName> 
-                        <persName xml:lang="grc" type="epithet" subtype="RomanosMelode" key="Melode">ὁ Μελωδός</persName>
-                        <persName xml:lang="en" type="epithet" subtype="RomanosMelode" key="Melode">the Melode</persName>
+                    <persName xml:lang="en">Romanos</persName> 
+                        <persName xml:lang="grc" type="epithet" subtype="RomanosMelodist" key="Melodist">ὁ Μελωδός</persName>
+                        <persName xml:lang="en" type="epithet" subtype="RomanosMelodist" key="Melodist">the Melodist</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q221059</idno>                   
                 </person>
                 
@@ -1313,16 +1313,16 @@
                 <person xml:id="SymeonGodReceiver">
                     <persName xml:lang="grc">Συμεών</persName>
                     <persName xml:lang="en">Symeon</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="SymeonGodReceiver" key="GodReceiver">ὁ Θεοδόχος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="SymeonGodReceiver" key="GodReceiver">God-receiver</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="SymeonGodReceiver" key="God-receiver">ὁ Θεοδόχος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="SymeonGodReceiver" key="God-receiver">God-receiver</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q345205</idno>                   
                 </person>
                 
                 <person xml:id="SymeonMiracleWorkerYounger">
                     <persName xml:lang="grc">Συμεών Στυλίτης ὁ Θαυμαστορείτης / ὁ Νέος </persName>
-                    <persName xml:lang="en">Symeon Stylites the Miracle-Worker / the Younger</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="SymeonMiracleWorkerYounger" key="Miracle-Worker">ὁ Θαυματουργός</persName>
-                    <persName xml:lang="en" type="epithet" subtype="SymeonMiracleWorkerYounger" key="Miracle-Worker">Miracle-Worker</persName>
+                    <persName xml:lang="en">Symeon Stylites the Miracle-worker / the Younger</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="SymeonMiracleWorkerYounger" key="Miracle-worker">ὁ Θαυματουργός</persName>
+                    <persName xml:lang="en" type="epithet" subtype="SymeonMiracleWorkerYounger" key="Miracle-worker">Miracle-worker</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2742399</idno>                   
                 </person>
                 
@@ -1368,6 +1368,14 @@
                     <persName xml:lang="grc">Θεόδωρος</persName>
                     <persName xml:lang="en">Theodore</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2363350</idno>                   
+                </person>
+                
+                <person xml:id="TheodoreSanctified">
+                    <persName xml:lang="grc">Θεόδωρος</persName>
+                    <persName xml:lang="en">Theodore</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="TheodoreSanctified" key="the Sanctified">ὁ Ἡγιασμένος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="TheodoreSanctified" key="the Sanctified"> the Sanctified</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q770191</idno>                   
                 </person>
                 
                 <person xml:id="Theodosios">
