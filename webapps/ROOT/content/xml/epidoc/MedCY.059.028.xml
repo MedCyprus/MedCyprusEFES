@@ -78,7 +78,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <cb n="a"/>
-                  <lb n="1"/>Ὁ <persName type="sacred" key="Theodore"> <w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w> 
+                  <lb n="1"/>Ὁ <persName type="sacred" key="TheodoreSanctified"> <w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w> 
                      <lb n="2"/><name type="forename" nymRef="#Θεόδωρος">Θ
                      <lb n="3" break="no"/>ε
                      <lb n="4" break="no"/><choice><orig>o</orig><reg>ό</reg></choice>
@@ -87,7 +87,7 @@
                      <lb n="7" break="no"/>ρ<hi rend="ligature">ος</hi></name> 
                    <cb n="b"/>                   
                     <lb n="1"/>Ὁ
-                    <lb n="2"/><addName type="epithet" key="TheodoreSanctified"><w lemma="ἁγιάζω">Η
+                    <lb n="2"/><addName type="epithet" key="the Sanctified"><w lemma="ἁγιάζω">Η
                      <lb n="3" break="no"/>γι
                      <lb n="4" break="no"/>ασ
                      <lb n="5" break="no"/>μ<choice><orig>ε</orig><reg>έ</reg></choice>
