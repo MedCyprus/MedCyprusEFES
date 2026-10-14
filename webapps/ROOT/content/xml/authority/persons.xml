@@ -40,7 +40,8 @@
                         <persName xml:lang="en"><forename>Christophoros</forename> <surname>Οmotes</surname></persName>
                         <persName xml:lang="grc"><forename>Χριστοφόρος</forename> <surname>Ὀμότης</surname></persName>
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                
-                        <note>Donor of the mural panel of St Christopher in the naos of Panagia, Moutoullas</note>
+                        <note>Donor of the mural panel of St Christopher in the naos of Panagia, Moutoullas, along with his wife</note>
+                        <idno type="PLP">#21058</idno>
                     </person>
                     <relation active="#ChristophorosΟmotes" ref="snap:husbandOf" passive="#Maria">
                         <desc>husband of Maria</desc>
@@ -50,10 +51,10 @@
                         <persName xml:lang="en"><forename>Eirene</forename></persName>
                         <persName xml:lang="grc"><forename>Εἰρήνη</forename></persName>
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                     
-                        <note>Founder of the church of Panagia, Moutoullas, and donor of its 1280 murals</note>
+                        <note>Founder of the church of Panagia, Moutoullas, and donor of its 1280 murals, along with her husband</note>
                     </person>
                    <relation active="#Eirene" ref="snap:wifeOf" passive="#IoannesGerakiotes">
-                        <desc>wife of Ioannes Gerakiotes</desc>
+                        <desc>wife of Ioannes Gerakiotes or Moutoullas</desc>
                     </relation>
                     
                     <person xml:id="EumathiosPhilokales">
@@ -62,11 +63,11 @@
                         <birth  notBefore="1050" notAfter="1070">Around the middle of the 11th century</birth>
                         <death notBefore="1118" notAfter="1150">After 1118</death>                        
                         <floruit from="1092" to="1118">1092-1118</floruit>
-                        <occupation type="office-secular" xml:lang="en">doux (military governor) of Cyprus</occupation>
+                        <occupation type="office-secular" xml:lang="en">military governor of Cyprus</occupation>
                         <occupation type="office-secular" xml:lang="grc">δοὺξ Κύπρου</occupation>
                         <occupation type="dignity" xml:lang="en">protonobelissimos</occupation>
                         <occupation type="dignity" xml:lang="grc">πρώτιστος νωβελλισίμων</occupation>
-                        <note>Donor (construction and painted decoration) of the chapel of Holy Trinity, Monastery of St John Chrysostom, Koutsovendes</note>
+                        <note>Founder and donor of the wall-painted decoration of the Holy Trinity chapel, Monastery of St John Chrysostom, Koutsovendes</note>
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q928648</idno>
                         <idno type="PBW">http://pbw2016.kdl.kcl.ac.uk/person/Eumathios/102/</idno>
                     </person>
@@ -136,6 +137,7 @@
                         <persName xml:lang="grc"><forename>Ἰωάννης</forename> <surname>Γερακιώτης</surname> <surname>Μουτουλλᾶς</surname></persName>
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                     
                         <note>Founder of the church of Panagia, Moutoullas, and donor of its 1280 murals</note>
+                        <idno type="PLP">#21058</idno>
                     </person>
                     <relation active="#IoannesGerakiotes" ref="snap:husbandOf" passive="#Eirene">
                         <desc>husband of Eirene</desc>
