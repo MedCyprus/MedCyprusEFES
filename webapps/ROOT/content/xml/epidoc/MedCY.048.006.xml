@@ -82,13 +82,13 @@
                      <lb n="3" break="no"/>ο
                     <lb n="4" break="no"/>ς</w>
                     <cb n="b"/>
-                     <lb n="1"/><addName type="epithet" key="theGreat">κὲ <unclear>μέγας</unclear>
+                     <lb n="1"/>κὲ <addName type="epithet" key="theGreat"><unclear>μέγας</unclear></addName>
                       <lb n="2"/><name nymRef ="#Βασίλειος" type="forename"><choice><sic>Β
                      <lb n="3" break="no"/><unclear>α</unclear>
                      <lb n="4" break="no"/>σ<choice><orig>ı</orig><reg>ί</reg></choice> 
                       <lb n="5" break="no"/>λη
                       <lb n="6" break="no"/>ο<supplied reason="lost">ς</supplied></sic><corr>Βασίλειος</corr></choice>
-                     </name></addName></persName> 
+                     </name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
