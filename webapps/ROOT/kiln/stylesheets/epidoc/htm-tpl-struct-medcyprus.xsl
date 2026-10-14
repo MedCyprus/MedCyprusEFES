@@ -151,6 +151,8 @@
        <xsl:for-each select="//t:term[@type='textType']">
          <xsl:variable name="cur-term" select="normalize-space(lower-case(.))"/>
          <xsl:apply-templates/>
+         <!-- Reach into text_types and get the ref elements. Do the same as here, but can use @type 
+              to determine which vocabulary is being referred to. -->
          <xsl:if test="starts-with(@ref,'http')">
            <xsl:for-each select="tokenize(@ref,' ')">
              <xsl:choose>

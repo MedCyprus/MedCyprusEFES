@@ -29,7 +29,7 @@
         <div type="notes">
           <list>
             <item>
-              <p>Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
+              <p>List of Greek words (<hi rend="font-style: italic;">lemmata</hi>) occurring in the inscriptions, excluding articles and conjunctions. Words are lemmatized using normalized spelling. Nouns, pronouns, and adjectives are listed in the nominative singular (masculine for pronouns and adjectives), and verbs and participles under the first-person singular present indicative active, in their uncontracted form. Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
             </item>
           </list>
         </div>
@@ -49,7 +49,7 @@
         <div type="notes">
           <list>
             <item>
-              <p>Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
+              <p>List of words that appear in abbreviated form in the inscriptions, together with their expansions. The same abbreviation is recorded as a separate entry when it appears with different diacritics. Square brackets [ ] indicate that the word is partially or completely restored in this inscription.</p>
             </item>
           </list>
         </div>
@@ -68,7 +68,7 @@
         <div type="notes">
           <list>
             <item>
-              <p>Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
+              <p>List of combinations of two or more letters joined to form a single character, recorded by their constituent letters (rather than their ligatured forms). Square brackets [ ] indicate that the word is partially or completely restored in this inscription.</p>
             </item>
           </list>
         </div>
@@ -88,7 +88,7 @@
         <div type="notes">
           <list>
             <item>
-              <p>Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
+              <p>List of numbers occurring in the inscriptions, including those used to indicate years, dates, and the indiction. Square brackets [ ] indicate that the numeral is partially or completely restored in this inscription.</p>
             </item>
           </list>
         </div>
@@ -108,7 +108,7 @@
         <div type="notes">
           <list>
             <item>
-              <p>Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
+              <p>An onomasticon listing all personal names (forenames and surnames) occurring in the inscriptions, including those of saints. All names are indexed in Greek, in the nominative singular; family names are listed in the nominative plural. Square brackets [ ] indicate that the name is partially or completely restored in this inscription.</p>
             </item>
           </list>
         </div>
@@ -131,7 +131,7 @@
           </list>
         </div>
         <div type="notes">
-          <p>Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
+          <p>A prosopography of historical persons attested in the inscriptions, excluding biblical figures and saints, listed alphabetically by forename in English. Entries include, where applicable, surnames, honorifics, offices, dignities, occupation, and association with the monuments. Additional information includes names in Greek, floruit, and potential relationships with other persons in the corpus. Square brackets [ ] indicate that the name is partially or completely restored in this inscription.</p>
         </div>
       </div>
       
@@ -147,7 +147,7 @@
           </list>
         </div>
         <div type="notes">
-          <p>Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
+          <p>List of names of saints and sacred entities, such as Christ or angelic beings, occurring in the inscriptions; this is NOT an iconographic index. List of epithets ascribed to saints and sacred entities in the captions accompanying their representations. Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
         </div> 
       </div>
       
@@ -160,11 +160,11 @@
           </list>
         </div>
         <div type="notes">
-          <p>Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
+          <p> List of epithets ascribed to saints and sacred entities in the captions accompanying their representations. Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
         </div> 
       </div>
       
-      <div xml:id="offices">
+      <!--<div xml:id="offices">
         <head>Offices, Dignities, Honorifics and Occupations</head>
         <div type="headings">
           <list>
@@ -176,7 +176,7 @@
         <div type="notes">
           <p>Secular and ecclesiastical offices, dignities, honorifics and occupations. Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
         </div> 
-      </div>
+      </div>-->
       
       <div xml:id="mentioned_places">
         <head>Places Attested</head>
@@ -188,7 +188,7 @@
           </list>
         </div>
         <div type="notes">
-          <p>Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
+          <p>List of places mentioned in the inscriptions, including those appearing in toponymic epithets of saints. In the latter case, the place name is indexed rather than the toponymic epithet. Square brackets [ ] indicate that the place name is partially or completely restored in this inscription.</p>
         </div>
       </div>
       
@@ -198,7 +198,7 @@
         <div type="notes">
           <list>
             <item>
-              <p>Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
+              <p> Lists of symbols forming part of the inscriptions, including crosses, pseudo-Kufic ornament, and scribal marks, but excluding middle dots, double dots, and tripuncts. Square brackets [ ] indicate that the word is partially or completely restored in this inscription.</p>
             </item>
           </list>
         </div>
