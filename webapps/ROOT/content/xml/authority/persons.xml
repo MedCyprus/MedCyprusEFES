@@ -23,7 +23,7 @@
                         <death when="1118">1118</death>                       
                         <floruit from="1081" to="1118">reign 1081-1118</floruit>
                         <occupation type="office-secular">emperor</occupation>
-                        <note>The church of Panagia Phorbiotissa or Asinou, Niketari, was decorated with wall-paintings during his reign.</note>
+                        <note>The church of Panagia Phorbiotissa or Asinou, Niketari, was decorated with wall-paintings during his reign (1105/6).</note>
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q41600</idno>
                         <idno type="PBW">http://pbw2016.kdl.kcl.ac.uk/person/Alexios/1/</idno>
                     </person>
@@ -40,7 +40,7 @@
                         <persName xml:lang="en"><forename>Christophoros</forename> <surname>Οmotes</surname></persName>
                         <persName xml:lang="grc"><forename>Χριστοφόρος</forename> <surname>Ὀμότης</surname></persName>
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                
-                        <note>Donor of the mural panel of St Christopher in the naos of Panagia, Moutoullas, along with his wife</note>
+                        <note>Donor of the mural panel of St Christopher in the naos of Panagia, Moutoullas, along with his wife (1280)</note>
                         <idno type="PLP">#21058</idno>
                     </person>
                     <relation active="#ChristophorosΟmotes" ref="snap:husbandOf" passive="#Maria">
@@ -51,10 +51,20 @@
                         <persName xml:lang="en"><forename>Eirene</forename></persName>
                         <persName xml:lang="grc"><forename>Εἰρήνη</forename></persName>
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                     
-                        <note>Founder of the church of Panagia, Moutoullas, and donor of its 1280 murals, along with her husband</note>
+                        <note>Founder of the church of Panagia, Moutoullas, and donor of its 1280 murals, along with her husband (1280)</note>
                     </person>
                    <relation active="#Eirene" ref="snap:wifeOf" passive="#IoannesGerakiotes">
                         <desc>wife of Ioannes Gerakiotes or Moutoullas</desc>
+                    </relation>
+                    
+                    <person xml:id="EireneKompotes">
+                        <persName xml:lang="en"><forename>Eirene</forename></persName>
+                        <persName xml:lang="grc"><forename>Εἰρήνη</forename></persName>
+                        <floruit notBefore="1201" notAfter="1300">13th century</floruit>                     
+                        <note>Donor of the mural panel of Christ enthroned in the ambulatory of Panagia, Moutoullas, along with her husband (1280)</note>
+                    </person>
+                    <relation active="#EireneKompotes" ref="snap:wifeOf" passive="#GeorgiosKompotes">
+                        <desc>wife of Georgios Kompotes</desc>
                     </relation>
                     
                     <person xml:id="EumathiosPhilokales">
@@ -67,16 +77,24 @@
                         <occupation type="office-secular" xml:lang="grc">δοὺξ Κύπρου</occupation>
                         <occupation type="dignity" xml:lang="en">protonobelissimos</occupation>
                         <occupation type="dignity" xml:lang="grc">πρώτιστος νωβελλισίμων</occupation>
-                        <note>Founder and donor of the wall-painted decoration of the Holy Trinity chapel, Monastery of St John Chrysostom, Koutsovendes</note>
+                        <note>Founder and donor of the wall-painted decoration of the Holy Trinity chapel, Monastery of St John Chrysostom, Koutsovendes (ca 1100)</note>
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q928648</idno>
                         <idno type="PBW">http://pbw2016.kdl.kcl.ac.uk/person/Eumathios/102/</idno>
                     </person>
+                    
+                    <person xml:id="Georgios">
+                        <persName xml:lang="en"><forename>Georgios</forename></persName>
+                        <persName xml:lang="grc"><forename>Γεώργιος</forename></persName>
+                         <floruit notBefore="1100" notAfter="1200">12th century</floruit>
+                        <occupation type="occupation">priest</occupation>
+                        <note>Responsible for the restoration and decoration with wall-painting of the chuch of the Holy Cross, Pelendri, along with his fellow priests (1177/8)</note>
+                    </person>      
                     
                     <person xml:id="GeorgiosKompotes">
                         <persName xml:lang="en"><forename>Georgios</forename> <surname>Kompotes</surname></persName>
                         <persName xml:lang="grc"><forename>Γεώργιος</forename> <surname>Κομπότης</surname></persName>
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                
-                        <note>Donor of the mural panel of Christ enthroned in the naos of Panagia, Moutoullas</note>
+                        <note>Donor of the mural panel of Christ enthroned in the ambulatory of Panagia, Moutoullas, along with his wife (1280)</note>
                     </person>
                     <relation active="#GeorgiosKompotes" ref="snap:husbandOf" passive="#EireneKompotes">
                         <desc>husband of Eirene</desc>
@@ -100,28 +118,8 @@
                         <occupation type="occupation">hieromonk</occupation>
                         <!--<idno type="wikidata"></idno>
                         <idno type="PBW">...</idno>-->
-                    </person>
-                    
-                    <person xml:id="Georgios">
-                        <persName xml:lang="en"><forename>Georgios</forename></persName>
-                        <persName xml:lang="grc"><forename>Γεώργιος</forename></persName>
-                        <!--<note>...</note>
-                        <floruit notBefore="..." notAfter="...">...</floruit>-->
-                        <occupation type="occupation">priest</occupation>
-                        <!--<idno type="wikidata"></idno>
-                        <idno type="PBW">...</idno>-->
-                    </person>
-                    
-                    <person xml:id="EireneKompotes">
-                        <persName xml:lang="en"><forename>Eirene</forename></persName>
-                        <persName xml:lang="grc"><forename>Εἰρήνη</forename></persName>
-                        <floruit notBefore="1201" notAfter="1300">13th century</floruit>                     
-                        <note>Donor of the mural panel of Christ enthroned in the naos of Panagia, Moutoullas</note>
-                    </person>
-                    <relation active="#EireneKompotes" ref="snap:wifeOf" passive="#GeorgiosKompotes">
-                        <desc>wife of Georgios Kompotes</desc>
-                    </relation>
-                    
+                    </person>                                  
+                                        
                     <person xml:id="Ioannes_1">
                         <persName xml:lang="en"><forename>Ioannes</forename><surname>Kappadokas</surname></persName>
                         <persName xml:lang="grc"><forename>Ἰωάννης</forename> <surname>Καππάδοξ</surname></persName>
