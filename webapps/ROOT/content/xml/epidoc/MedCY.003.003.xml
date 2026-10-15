@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, south wall, upper register, west side, first figure</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, south wall, upper register, west side, first figure, left</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -87,7 +87,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Chotzakoglou2010a"/>,<citedRange>444</citedRange></bibl>
+                <bibl><ptr target="#Chotzakoglou2010a"/>, <citedRange>444</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
