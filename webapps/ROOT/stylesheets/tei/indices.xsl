@@ -376,8 +376,8 @@
   </xsl:template>
   
   <xsl:template match="arr[@name='index_inscriptions_bibl']|arr[@name='index_monument_bibl']">
-    <xsl:for-each select="str[.='unpublished']"><xsl:value-of select="."/></xsl:for-each>  
-    <xsl:for-each select="str[.!='unpublished']">
+    <xsl:for-each select="str[.='Unpublished']"><xsl:value-of select="."/></xsl:for-each>  
+    <xsl:for-each select="str[.!='Unpublished']">
         <xsl:variable name="bibl-id">
           <xsl:choose>
             <xsl:when test="contains(., ',')">
