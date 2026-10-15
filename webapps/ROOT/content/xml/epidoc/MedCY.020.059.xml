@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Character size varies. Mu with the central strokes reminiscent of an upsilon on a stem. ΠΡ joined in ligature. Ἰωάννης and Πρόδρομος are abbreviated as with a big line above the words. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Baptism">Baptism, John the Forerunner</rs>
+                             <rs type="iconography" ref="#JohnForerunner"></rs>
+                            <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <lb n="1"/>Ὁ <persName type="sacred" key="JohnForerunner"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w> <name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name> <supplied reason="lost">ὁ</supplied> <addName type="epithet" key="Forerunner"><hi rend="ligature">Πρ</hi>όδρ<supplied reason="lost">ο</supplied>μο<supplied reason="lost">ς</supplied></addName></persName> 
                  </ab>
             </div>
             <div type="apparatus">
