@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background. Character size varies. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -75,7 +75,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                  <cb n="a"/>
+                   <lb n="1"/><supplied reason="lost">Ὁ</supplied> 
+                  <lb n="2"/><persName type="sacred" key="Endoxos"><w lemma="ἅγιος"><supplied reason="lost">ἅ
+                   <lb n="3" break="no"/>γι
+                   <lb n="4" break="no"/>ος</supplied></w> 
+                    <cb n="b"/>
+                    <lb n="1"/><name type="forename" nymRef="#Ἔνδοξος">Ἔν
+                    <lb n="2" break="no"/>δο
+                     <lb n="3" break="no"/>ξο
+                     <lb n="4" break="no"/>ς</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
