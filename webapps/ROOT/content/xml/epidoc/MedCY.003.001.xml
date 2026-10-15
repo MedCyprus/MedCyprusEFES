@@ -28,13 +28,13 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, south wall, upper register, east side</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -42,8 +42,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#JohnChrysostom">John Chrysostom</rs>
-                                   
+                            <p><rs type="iconography" ref="#JohnChrysostom">John Chrysostom</rs>                                
                                    <rs type="iconography" ref="#prelate"></rs>
                                    <rs type="iconography" ref="#male"></rs>
                             </p>
@@ -67,11 +66,11 @@
                     <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publication</creation>
+            <creation>transcription (Th. Petrou), archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+        <graphic rend="primary" url="003-001-01.jpg"><desc>(© Department of Antiquities, Cyprus)</desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -81,17 +80,17 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>[Saint John] Chrysostom</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
