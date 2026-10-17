@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#mamas">Mamas</rs></p>
+                            <p><rs type="iconography" ref="iconography.xml#Mamas">Mamas</rs></p>
                             </decoDesc>
                     </physDesc>
                     <history>
@@ -74,7 +74,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <cb n="a"/>
-                    <lb n="1"/>Ὁ<persName type="sacred" key="Mamas"><w lemma="ἅγιος"><expan><abbr rend="supraline"> ἅ</abbr><ex>γιος</ex></expan></w>
+                    <lb n="1"/>Ὁ <persName type="sacred" key="Mamas"><w lemma="ἅγιος"><expan><abbr rend="supraline"> ἅ</abbr><ex>γιος</ex></expan></w>
                         <cb n="b"/>
                         <lb n="1"/><name type="forename" nymRef="#Μάμας"><supplied reason="lost">Μάμας</supplied></name>
                      </persName>
