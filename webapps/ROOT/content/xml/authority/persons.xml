@@ -23,7 +23,7 @@
                         <death when="1118">1118</death>                       
                         <floruit from="1081" to="1118">reign 1081-1118</floruit>
                         <occupation type="office-secular">emperor</occupation>
-                        <note>The church of Panagia Phorbiotissa or Asinou, Niketari, was decorated with wall-paintings during his reign (1105/6).</note>
+                        <note>The church of Panagia Phorbiotissa or Asinou, Niketari, was first decorated with murals during his reign (1105/6).</note>
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q41600</idno>
                         <idno type="PBW">http://pbw2016.kdl.kcl.ac.uk/person/Alexios/1/</idno>
                     </person>
@@ -47,23 +47,23 @@
                         <desc>husband of Maria</desc>
                     </relation>
                     
-                    <person xml:id="Eirene">
+                    <person xml:id="Eirene_1">
                         <persName xml:lang="en"><forename>Eirene</forename></persName>
                         <persName xml:lang="grc"><forename>Εἰρήνη</forename></persName>
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                     
-                        <note>Founder of the church of Panagia, Moutoullas, and donor of its 1280 murals, along with her husband (1280)</note>
+                        <note>Founder of the church of Panagia, Moutoullas, and donor of its 1280 murals, along with her husband</note>
                     </person>
-                   <relation active="#Eirene" ref="snap:wifeOf" passive="#IoannesGerakiotes">
+                   <relation active="#Eirene_1" ref="snap:wifeOf" passive="#IoannesGerakiotes">
                         <desc>wife of Ioannes Gerakiotes or Moutoullas</desc>
                     </relation>
                     
-                    <person xml:id="EireneKompotes">
+                    <person xml:id="Eirene_2">
                         <persName xml:lang="en"><forename>Eirene</forename></persName>
                         <persName xml:lang="grc"><forename>Εἰρήνη</forename></persName>
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                     
                         <note>Donor of the mural panel of Christ enthroned in the ambulatory of Panagia, Moutoullas, along with her husband (1280)</note>
                     </person>
-                    <relation active="#EireneKompotes" ref="snap:wifeOf" passive="#GeorgiosKompotes">
+                    <relation active="#Eirene_2" ref="snap:wifeOf" passive="#GeorgiosKompotes">
                         <desc>wife of Georgios Kompotes</desc>
                     </relation>
                     
@@ -82,12 +82,13 @@
                         <idno type="PBW">http://pbw2016.kdl.kcl.ac.uk/person/Eumathios/102/</idno>
                     </person>
                     
-                    <person xml:id="Georgios">
+                    <person xml:id="Georgios_1">
                         <persName xml:lang="en"><forename>Georgios</forename></persName>
                         <persName xml:lang="grc"><forename>Γεώργιος</forename></persName>
                          <floruit notBefore="1100" notAfter="1200">12th century</floruit>
-                        <occupation type="occupation">priest</occupation>
-                        <note>Responsible for the restoration and decoration with wall-painting of the chuch of the Holy Cross, Pelendri, along with his fellow priests (1177/8)</note>
+                        <occupation type="status_ecclesiastical" xml:lang="en">priest</occupation>
+                        <occupation type="status_ecclesiastical" xml:lang="grc">ἱερεύς</occupation>
+                        <note>Responsible for the restoration and decoration with wall-paintings of the church of the Holy Cross, Pelendri, along with his fellow priests (1177/8)</note>
                     </person>      
                     
                     <person xml:id="GeorgiosKompotes">
@@ -96,7 +97,7 @@
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                
                         <note>Donor of the mural panel of Christ enthroned in the ambulatory of Panagia, Moutoullas, along with his wife (1280)</note>
                     </person>
-                    <relation active="#GeorgiosKompotes" ref="snap:husbandOf" passive="#EireneKompotes">
+                    <relation active="#GeorgiosKompotes" ref="snap:husbandOf" passive="#Eirene_2">
                         <desc>husband of Eirene</desc>
                     </relation>
                     
@@ -137,7 +138,7 @@
                         <note>Founder of the church of Panagia, Moutoullas, and donor of its 1280 murals</note>
                         <idno type="PLP">#21058</idno>
                     </person>
-                    <relation active="#IoannesGerakiotes" ref="snap:husbandOf" passive="#Eirene">
+                    <relation active="#IoannesGerakiotes" ref="snap:husbandOf" passive="#Eirene_1">
                         <desc>husband of Eirene</desc>
                     </relation>
                     
@@ -145,7 +146,7 @@
                         <persName xml:lang="en"><forename>Ischyrioi</forename></persName>
                         <persName xml:lang="grc">Ἰσχύριοι</persName>
                         <floruit  notBefore="1001" notAfter="1100">11th - 12th century</floruit>                                    
-                        <note>A member of the Ischyrioi Family, Nikephoros, was the donor of the 1105/6 murals of the church of Panagia Phorbiotissa or Asinou, Niketari</note>
+                        <note>A member of the Ischyrioi family was the donor of the 1105/6 murals of the church of Panagia Phorbiotissa or Asinou, Niketari</note>
                     </person>
                     <relation active="#IschyrioiFamily" ref="snap:familyOf" passive="#NikephorosIschyrios">
                         <desc>family of Nikephoros Ischyrios</desc>
@@ -195,14 +196,7 @@
                        <!-- <idno type="wikidata"></idno>
                         <idno type="PBW">...</idno>-->
                     </person>
-                    
-                    <person xml:id="Malchos">
-                        <persName xml:lang="en"><forename>Malchos</forename></persName>
-                        <persName xml:lang="grc"><forename>Μάλχος</forename></persName>               
-                        <note>Servant of the High Priest Caiaphas, who took part in the arrest of Jesus in the Garden of Gethsemane and whose ear was cut off by Peter.</note>
-                        <idno type="wikidata">https://www.wikidata.org/wiki/Q726674</idno>
-                    </person>
-                    
+                                       
                     <person xml:id="Maria">
                         <persName xml:lang="en"><forename>Maria</forename></persName>
                         <persName xml:lang="grc"><forename>Μαρία</forename></persName>
@@ -257,6 +251,25 @@
                         <desc>member of the Ischyrioi Family</desc>
                     </relation>
                     
+                    <person xml:id="priests_anonymous">
+                        <persName xml:lang="en"><forename>Priests</forename></persName>
+                        <persName xml:lang="grc"><forename>ἱερεῖς</forename></persName>
+                        <floruit notBefore="1100" notAfter="1200">12th century</floruit>
+                        <occupation type="status_ecclesiastical" xml:lang="en">priest</occupation>
+                        <occupation type="status_ecclesiastical" xml:lang="grc">ἱερεύς</occupation>
+                        <note>Anonymous priests of the village of Pelendri, responsible for the restoration and decoration with murals of the local church of the Holy Cross, along with the priest George (1177/8)</note>
+                    </person>
+                    
+                    <person xml:id="PelendriPainter">
+                        <persName xml:lang="en"><forename>...os</forename> <surname>Monomachos(?)</surname></persName>
+                        <persName xml:lang="grc"><forename>...ος</forename> <surname>Μονομάχος(?)</surname></persName>
+                        <floruit notBefore="1100" notAfter="1200">12th century</floruit>                        
+                        <occupation type="occupation">painter</occupation>
+                        <occupation type="status_ecclesiastical" xml:lang="en">monk(?)</occupation>
+                        <occupation type="status_ecclesiastical" xml:lang="grc">μοναχός(?)</occupation>
+                        <note>Painter of the 1177/8 murals of the church of the Holy Cross, Pelendri. His personal name is not preserved, while the surviving designation that accompanieS it may be read either as 'Μον(ο)μάχος' (Monomachos) or as 'μον{μ}αχός' (monk)</note>                        
+                    </person>
+                    
                     <person xml:id="TheodoreApseudes">
                         <persName xml:lang="en"><forename>Theodore</forename> <surname>Apseudes</surname></persName>
                         <persName xml:lang="grc"><forename>Θεόδωρος</forename> <surname>Ἀψευδής</surname></persName>
@@ -266,15 +279,7 @@
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q108041020</idno>
                        </person>
                     
-                    <!--<person xml:id="wife_Ioannes_1">
-                        <persName xml:lang="en"><forename>unknown</forename></persName>
-                        <persName xml:lang="grc">unknown</persName>
-                        <note>wife of Ioannes,Kakopetria, Saint Nicholas of the Roof</note> How do we establish links between the two?
-                        <floruit notBefore="..." notAfter="...">...</floruit>
-                        <occupation type="occupation">...</occupation>
-                        <idno type="wikidata"></idno>
-                        <idno type="PBW">...</idno>
-                    </person>-->
+                    
                     
                 </listPerson>
             </div>
