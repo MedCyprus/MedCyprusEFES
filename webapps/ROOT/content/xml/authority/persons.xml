@@ -145,7 +145,7 @@
                         <persName xml:lang="en"><forename>Ischyrioi</forename></persName>
                         <persName xml:lang="grc">Ἰσχύριοι</persName>
                         <floruit  notBefore="1001" notAfter="1100">11th - 12th century</floruit>                                    
-                        <note>Nikephoros Ischyrios was the Founder of the church of Panagia Phorbiotissa or Asinou, Niketari, and donor of its 1105/6 murals</note>
+                        <note>A member of the Ischyrioi Family, Nikephoros, was the donor of the 1105/6 murals of the church of Panagia Phorbiotissa or Asinou, Niketari</note>
                     </person>
                     <relation active="#IschyrioiFamily" ref="snap:familyOf" passive="#NikephorosIschyrios">
                         <desc>family of Nikephoros Ischyrios</desc>
@@ -251,11 +251,10 @@
                         <death notBefore="1106" notAfter="1133">Early 12th century</death>                   
                         <occupation type="dignity" xml:lang="en">magistros</occupation>                        
                         <occupation type="dignity" xml:lang="grc">μάγιστρος</occupation>
-                        <note>Founder of the church of Panagia Phorbiotissa or Asinou, Niketari, and donor of its 1105/6 murals</note>
+                        <note>Donor of the 1105/6 murals of the church of Panagia Phorbiotissa or Asinou, Niketari</note>
                     </person>
-                    
                     <relation active="#NikephorosIschyrios" ref="snap:memberOf" passive="#IschyrioiFamily">
-                        <desc>member of Ischyrioi</desc>
+                        <desc>member of the Ischyrioi Family</desc>
                     </relation>
                     
                     <person xml:id="TheodoreApseudes">
