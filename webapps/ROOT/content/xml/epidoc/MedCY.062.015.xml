@@ -77,7 +77,7 @@
                 <ab>
                  <cb n="a"/>
                    <lb n="1"/>Ὁ <persName type="sacred" key="JohnForerunner"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>ἁ</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w> 
-                   <lb n="2"/><name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name> 
+                   <lb n="2"/><name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name> 
                  <cb n="b"/>
                  <lb n="1"/><choice><orig>ὀ</orig><reg>ὁ</reg></choice> <addName type="epithet" key="Forerunner"><expan><abbr rend="supraline">Πρ</abbr><ex>oδρο</ex><abbr rend="supraline">μ<hi rend="ligature">ος</hi></abbr></expan></addName></persName> 
                  </ab>

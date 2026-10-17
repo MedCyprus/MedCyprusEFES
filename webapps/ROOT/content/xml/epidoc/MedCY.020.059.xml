@@ -75,7 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/>Ὁ <persName type="sacred" key="JohnForerunner"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w> <name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name> <supplied reason="lost">ὁ</supplied> <addName type="epithet" key="Forerunner"><hi rend="ligature">Πρ</hi>όδρ<supplied reason="lost">ο</supplied>μο<supplied reason="lost">ς</supplied></addName></persName> 
+                   <lb n="1"/>Ὁ <persName type="sacred" key="JohnForerunner"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w> <name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name> <supplied reason="lost">ὁ</supplied> <addName type="epithet" key="Forerunner"><hi rend="ligature">Πρ</hi>όδρ<supplied reason="lost">ο</supplied>μο<supplied reason="lost">ς</supplied></addName></persName> 
                  </ab>
             </div>
             <div type="apparatus">
