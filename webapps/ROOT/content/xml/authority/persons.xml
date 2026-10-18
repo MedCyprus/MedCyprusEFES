@@ -22,7 +22,8 @@
                         <birth  notBefore="1050" notAfter="1057">ca 1057</birth>
                         <death when="1118">1118</death>                       
                         <floruit from="1081" to="1118">reign 1081-1118</floruit>
-                        <occupation type="office-secular">emperor</occupation>
+                        <occupation type="office-secular" xml:lang="en">emperor</occupation>
+                        <occupation type="office-secular" xml:lang="grc">βασιλεύς</occupation>
                         <note>The church of Panagia Phorbiotissa or Asinou, Niketari, was first decorated with murals during his reign (1105/6).</note>
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q41600</idno>
                         <idno type="PBW">http://pbw2016.kdl.kcl.ac.uk/person/Alexios/1/</idno>
@@ -99,7 +100,10 @@
                         <occupation type="status_ecclesiastical" xml:lang="en">priest</occupation>
                         <occupation type="status_ecclesiastical" xml:lang="grc">ἱερεύς</occupation>
                         <note>Responsible for the restoration and decoration with wall-paintings of the church of the Holy Cross, Pelendri, along with his fellow priests (1177/8)</note>
-                    </person>      
+                    </person>
+                    <relation active="#Georgios_1" ref="snap:coDonorWith" passive="#priests_anonymous">
+                        <desc>Co-donor with other priests</desc>
+                    </relation>
                     
                     <person xml:id="GeorgiosKompotes">
                         <persName xml:lang="en"><forename>Georgios</forename> <surname>Kompotes</surname></persName>
@@ -166,8 +170,10 @@
                         <persName xml:lang="en"><forename>Laurentios</forename></persName>
                         <persName xml:lang="grc"><forename>Λαυρέντιος</forename></persName>
                         <floruit notBefore="1167" notAfter="1233">late 12th centure - early 13th century</floruit>
-                        <occupation type="status-ecclesiastical">hieromonk</occupation>
-                        <occupation type="office-ecclesiastical">abbot</occupation>
+                        <occupation type="status-ecclesiastical" xml:lang="en">hieromonk</occupation>
+                        <occupation type="status-ecclesiastical" xml:lang="grc">ἱερομόναχος</occupation>
+                        <occupation type="office-ecclesiastical" xml:lang="en">abbot</occupation>
+                        <occupation type="office-ecclesiastical" xml:lang="grc">καθηγούμενος</occupation>
                         <note>Donor of the church of Saint Ephemianos, Lysi, though the nature of his involvment is unclear</note>
                     </person>
                     
@@ -193,36 +199,17 @@
                         <desc>wife of Christophoros Omotes</desc>
                     </relation>
                     
-                    <person xml:id="Neophytos">
-                        <persName xml:lang="en"><forename>Neophytos</forename></persName>
-                        <persName xml:lang="grc"><forename>Νεόφυτος</forename></persName>
-                        <note>hieromonk, ascetic and founder of the hermitage of Saint Neophytos at Tala</note>
-                        <!--<floruit notBefore="..." notAfter="...">...</floruit>
-                        <occupation type="occupation"></occupation>
-                        <idno type="wikidata"></idno>
-                        <idno type="PBW">...</idno>-->
-                    </person> 
-                    
-                    <person xml:id="Nikephoros">
-                        <persName xml:lang="en"><forename>Nikephoros</forename></persName>
-                        <persName xml:lang="grc"><forename>Νικηφόρος</forename></persName>
-                        <occupation type="occupation">veterinary doctor</occupation>
-                        <note>Donor of the late-twelfth century frecso of Saint George on horseback in the the narthex of Asinou</note>
-                        <!--<floruit notBefore="..." notAfter="...">...</floruit>
-                        <idno type="wikidata"></idno>
-                        <idno type="PBW">...</idno>-->
-                    </person> 
-                    
-                    <person xml:id="Nikephorosthefarrier">
-                        <persName xml:lang="en"><forename>Nikephoros</forename> <surname>Kallias</surname></persName>
-                        <persName xml:lang="grc"><forename>Νικηφόρος</forename> <surname>Καλλίας</surname></persName>
-                        <occupation type="occupation">farrier</occupation>
-                        <note>Devotee mentioned in the invocation written below the dedicatory epigram in the frecso of Saint George on horseback in the the narthex of Asinou</note>
-                        <!--<floruit notBefore="..." notAfter="...">...</floruit>
-                        <idno type="wikidata"></idno>
-                        <idno type="PBW">...</idno>-->
-                    </person> 
-                    
+                    <person xml:id="NeophytosRecluse">
+                        <persName xml:lang="en"><forename>Neophytos</forename> <surname>the Recluse</surname></persName>
+                        <persName xml:lang="grc"><forename>Νεόφυτος</forename> <surname>ὁ Ἔγκλειστος</surname></persName>
+                        <birth  when="1134">1134</birth>
+                        <death notBefore="1214" notAfter="1250">After 1214</death>  
+                        <floruit notBefore="1167" notAfter="1233">late 12th century - early 13th century</floruit>
+                        <occupation type="status-ecclesiastical" xml:lang="en">hieromonk, recluse</occupation>
+                        <occupation type="status-ecclesiastical" xml:lang="grc">ἱερομόναχος, ἔγκλειστος</occupation>
+                        <note>Founder of the Hermitage of Saint Neophytos, Tala, and donor of the first four layers of its painted decoration</note>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q6993672</idno>
+                    </person>
                     
                     <person xml:id="NikephorosIschyrios">
                         <persName xml:lang="en"><forename>Nikephoros</forename> <surname>Ischyrios</surname></persName>
@@ -236,21 +223,48 @@
                     <relation active="#NikephorosIschyrios" ref="snap:memberOf" passive="#IschyrioiFamily">
                         <desc>member of the Ischyrioi Family</desc>
                     </relation>
+
+                    <person xml:id="NikephorosKallias">
+                        <persName xml:lang="en"><forename>Nikephoros</forename> <surname>Kallias</surname></persName>
+                        <persName xml:lang="grc"><forename>Νικηφόρος</forename> <surname>Καλλίας or Καλλιάς</surname></persName>
+                        <floruit notBefore="1151" notAfter="1200">second half of 12th century</floruit>
+                        <occupation type="occupation" xml:lang="en">farrier(?)</occupation>
+                        <occupation type="occupation" xml:lang="grc">καλλιγάς(?)</occupation>
+                        <note>Supplicant associated with the mural of Saint George on horseback of Panagia Phorbiotissa or Asinou, Niketari</note>
+                    </person>
+                    <relation active="#NikephorosKallias" ref="snap:possiblySameAs" passive="#Nikephoros_1">
+                        <desc>Possibly the same as Nikephoros, the donor of the mural of Saint George on horseback in the the narthex of Panagia Phorbiotissa or Asinou, Niketari</desc>
+                    </relation>
                     
+                    <person xml:id="Nikephoros_1">
+                        <persName xml:lang="en"><forename>Nikephoros</forename></persName>
+                        <persName xml:lang="grc"><forename>Νικηφόρος</forename></persName>
+                        <floruit notBefore="1151" notAfter="1200">second half of 12th century</floruit>
+                        <occupation type="occupation" xml:lang="en">veterinary doctor</occupation>
+                        <occupation type="occupation" xml:lang="grc">ἵππων ἀκεστήρ</occupation>
+                        <note>Donor of the late-twelfth century mural of Saint George on horseback in the the narthex of Panagia Phorbiotissa or Asinou, Niketari</note> 
+                    </person>
+                    <relation active="#Nikephoros_1" ref="snap:possiblySameAs" passive="#NikephorosKallias">
+                        <desc>Possibly the same as the supplicant Nikephoros Kallias</desc>
+                    </relation>
+                                        
                     <person xml:id="priests_anonymous">
                         <persName xml:lang="en"><forename>Priests</forename></persName>
                         <persName xml:lang="grc"><forename>ἱερεῖς</forename></persName>
                         <floruit notBefore="1100" notAfter="1200">12th century</floruit>
                         <occupation type="status_ecclesiastical" xml:lang="en">priest</occupation>
                         <occupation type="status_ecclesiastical" xml:lang="grc">ἱερεύς</occupation>
-                        <note>Anonymous priests of the village of Pelendri, responsible for the restoration and decoration with murals of the local church of the Holy Cross, along with the priest George (1177/8)</note>
+                        <note>Anonymous priests of the village of Pelendri, responsible for the restoration and decoration with murals of the local church of the Holy Cross, along with the priest Georgios (1177/8)</note>
                     </person>
+                    <relation active="#priests_anonymous" ref="snap:coDonorWith" passive="#Georgios_1">
+                        <desc>Co-donors with the priest Georgios</desc>
+                    </relation>
                     
                     <person xml:id="PelendriPainter">
                         <persName xml:lang="en"><forename>...os</forename> <surname>Monomachos(?)</surname></persName>
                         <persName xml:lang="grc"><forename>...ος</forename> <surname>Μονομάχος(?)</surname></persName>
                         <floruit notBefore="1100" notAfter="1200">12th century</floruit>                        
-                        <occupation type="occupation">painter</occupation>
+                        <occupation type="occupation" xml:lang="en">painter</occupation>
                         <occupation type="status_ecclesiastical" xml:lang="en">monk(?)</occupation>
                         <occupation type="status_ecclesiastical" xml:lang="grc">μοναχός(?)</occupation>
                         <note>Painter of the 1177/8 murals of the church of the Holy Cross, Pelendri. His personal name is not preserved, while the surviving designation that accompanieS it may be read either as 'Μον(ο)μάχος' (Monomachos) or as 'μον{μ}αχός' (monk)</note>                        
@@ -259,13 +273,11 @@
                     <person xml:id="TheodoreApseudes">
                         <persName xml:lang="en"><forename>Theodore</forename> <surname>Apseudes</surname></persName>
                         <persName xml:lang="grc"><forename>Θεόδωρος</forename> <surname>Ἀψευδής</surname></persName>
-                        <floruit notBefore="1167" notAfter="1233">Late 12th-early 13th century</floruit>                        
-                        <occupation type="occupation">painter</occupation>
-                        <note>painter of the cell and bema (1183), Hermitage of Saint Neophytos, Tala</note>
+                        <floruit notBefore="1167" notAfter="1233">late 12th - early 13th century</floruit>                        
+                        <occupation type="occupation" xml:lang="en">painter</occupation>
+                        <note>Painter of the 1183 murals in the cell and the bema of the Hermitage of Saint Neophytos, Tala</note>
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q108041020</idno>
                        </person>
-                    
-                    
                     
                 </listPerson>
             </div>
