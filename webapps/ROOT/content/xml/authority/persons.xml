@@ -104,32 +104,22 @@
                     <person xml:id="Gephyra">
                         <persName xml:lang="en"><forename>Gephyra</forename></persName>
                         <persName xml:lang="grc"><forename>Γέφυρα</forename></persName>
-                        <!--> <floruit notAfter="1105">late 11th century-early 12th century</floruit>-->                     
-                       <!--> <note>Donor of the church of Panagia Phorbiotissa or Asinou, Niketari, and its 1105/6 murals</note>-->
+                       <floruit notAfter="1106">late 11th century - early 12th century</floruit>                     
+                        <note>Her death was commemorated with an inscription and a portrait originally as part of the 1105/6 murals of Panagia Phorbiotissa or Asinou, Niketari</note>
                     </person>
                     <relation active="#Gephyra" ref="snap:wifeOf" passive="#NikephorosIschyrios">
-                        <desc>Mother, daughter, sibling, or spouse of Nikephoros Ischyrios</desc>
+                        <desc>Nature of familial connection to Nikephoros Ischyrios uncertain (wife, daughter, or other)</desc>
                     </relation>
-                    
-                    <person xml:id="Germanos">
+                                     
+                    <!--<person xml:id="Germanos">
                         <persName xml:lang="en"><forename>Germanos</forename></persName>
                         <persName xml:lang="grc"><forename>Γερμανός</forename></persName>
                         <note>hieromonk of the monastery of Saint Nicholas the Roof at Kakopetria</note>
-                        <!--<floruit notBefore="..." notAfter="...">...</floruit>-->
+                        <floruit notBefore="..." notAfter="...">...</floruit>
                         <occupation type="occupation">hieromonk</occupation>
-                        <!--<idno type="wikidata"></idno>
-                        <idno type="PBW">...</idno>-->
-                    </person>                                  
-                                        
-                    <person xml:id="Ioannes_1">
-                        <persName xml:lang="en"><forename>Ioannes</forename><surname>Kappadokas</surname></persName>
-                        <persName xml:lang="grc"><forename>Ἰωάννης</forename> <surname>Καππάδοξ</surname></persName>
-                        <note>donor of the monastery of Saint Nicholas the Roof at Kakopetria</note>
-                        <!--<floruit notBefore="..." notAfter="...">...</floruit>
-                        <occupation type="occupation">...</occupation>
                         <idno type="wikidata"></idno>
-                        <idno type="PBW">...</idno>-->
-                    </person>
+                        <idno type="PBW">...</idno>
+                    </person>-->
                     
                     <person xml:id="IoannesGerakiotes">
                         <persName xml:lang="en"><forename>Ioannes</forename> <surname>Gerakiotes</surname> <surname>Moutoullas</surname></persName>
@@ -138,10 +128,20 @@
                         <note>Founder of the church of Panagia, Moutoullas, and donor of its 1280 murals</note>
                         <idno type="PLP">#21058</idno>
                     </person>
-                    <relation active="#IoannesGerakiotes" ref="snap:husbandOf" passive="#Eirene_1">
-                        <desc>husband of Eirene</desc>
-                    </relation>
-                    
+                        <relation active="#IoannesGerakiotes" ref="snap:husbandOf" passive="#Eirene_1">
+                            <desc>husband of Eirene</desc>
+                        </relation>
+                                        
+                    <!--<person xml:id="Ioannes_1">
+                        <persName xml:lang="en"><forename>Ioannes</forename><surname>Kappadokas</surname></persName>
+                        <persName xml:lang="grc"><forename>Ἰωάννης</forename> <surname>Καππάδοξ</surname></persName>
+                        <note>donor of the monastery of Saint Nicholas the Roof at Kakopetria</note>
+                        <floruit notBefore="..." notAfter="...">...</floruit>
+                        <occupation type="occupation">...</occupation>
+                        <idno type="wikidata"></idno>
+                        <idno type="PBW">...</idno>
+                    </person>-->                    
+                                     
                     <person xml:id="IschyrioiFamily">
                         <persName xml:lang="en"><forename>Ischyrioi</forename></persName>
                         <persName xml:lang="grc">Ἰσχύριοι</persName>
@@ -152,15 +152,14 @@
                         <desc>family of Nikephoros Ischyrios</desc>
                     </relation>
                     
-                    <!--<person xml:id="Kaane">
-                        <persName xml:lang="en"><forename>Kaane</forename></persName>
-                        <persName xml:lang="grc"><forename>Καανή</forename></persName>
-                        <occupation type="occupation"></occupation>
-                        <note>Unclear from the context whether the name refers to a person or to a locality.</note>
-                        <floruit notBefore="..." notAfter="...">...</floruit>
-                        <idno type="wikidata"></idno>
-                        <idno type="PBW">...</idno>
-                    </person>-->
+                    <person xml:id="Laurentios">
+                        <persName xml:lang="en"><forename>Laurentios</forename></persName>
+                        <persName xml:lang="grc"><forename>Λαυρέντιος</forename></persName>
+                        <floruit notBefore="1167" notAfter="1233">late 12th centure - early 13th century</floruit>
+                        <occupation type="status-ecclesiastical">hieromonk</occupation>
+                        <occupation type="office-ecclesiastical">abbot</occupation>
+                        <note>Donor of the church of Saint Ephemianos, Lysi, though the nature of his involvment is unclear</note>
+                    </person>
                     
                     <person xml:id="Leon">
                         <persName xml:lang="en"><forename>Leon</forename> <surname>Authentes</surname></persName>
@@ -186,17 +185,7 @@
                    <relation active="#Authentes" ref="snap:fatherOf" passive="#Leon">
                         <desc>father of Leon</desc>
                     </relation>
-                    
-                    <person xml:id="Laurentios">
-                        <persName xml:lang="en"><forename>Laurentios</forename></persName>
-                        <persName xml:lang="grc"><forename>Λαυρέντιος</forename></persName>
-                        <note>hieromonk and abbot</note>
-                        <!--<floruit notBefore="..." notAfter="...">...</floruit>-->
-                        <occupation type="occupation">hieromonk and abbot</occupation>
-                       <!-- <idno type="wikidata"></idno>
-                        <idno type="PBW">...</idno>-->
-                    </person>
-                                       
+                       
                     <person xml:id="Maria">
                         <persName xml:lang="en"><forename>Maria</forename></persName>
                         <persName xml:lang="grc"><forename>Μαρία</forename></persName>
