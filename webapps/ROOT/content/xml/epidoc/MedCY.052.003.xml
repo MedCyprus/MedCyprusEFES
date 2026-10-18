@@ -50,12 +50,12 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Rizokarpaso">Rizokarpaso, Saint Mavra</origPlace>
-                            <origDate notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</origDate>
+                            <origPlace ref="locations.xml#Rizokarpaso" n="1st">Rizokarpaso, Saint Mavra</origPlace>
+                            <origDate notBefore="1101" notAfter="1300" precision="medium" evidence="artistic-style">12th or 13th century</origDate>
                         </origin>
-                        <provenance when="2022">
-                        </provenance>    
-                        <provenance type="observed"></provenance>
+                        <provenance>n/a</provenance>    
+                        <provenance type="not-observed">
+                        </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -70,7 +70,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+         <graphic rend="primary" url="052-003-01.JPG"><desc></desc></graphic>  
+         <graphic url="052-003-02.JPG"><desc></desc></graphic>      
     </facsimile>
     <text>
         <body>
@@ -86,11 +87,11 @@
                 <p>Archangel Gabriel</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl><ptr target="#PENDING"/>, <citedRange>18: 499-500</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
