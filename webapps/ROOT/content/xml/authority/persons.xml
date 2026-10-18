@@ -81,8 +81,8 @@
                     <person xml:id="EumathiosPhilokales">
                         <persName xml:lang="en"><forename>Eumathios</forename> <surname>Philokales</surname></persName>
                         <persName xml:lang="grc"><forename>Εὐμάθιος</forename> <surname>Φιλοκάλης</surname></persName>
-                        <birth  notBefore="1050" notAfter="1070">Around the middle of the 11th century</birth>
-                        <death notBefore="1118" notAfter="1150">After 1118</death>                        
+                        <birth  notBefore="1050" notAfter="1070">around the middle of the 11th century</birth>
+                        <death notBefore="1118" notAfter="1150">after 1118</death>                        
                         <floruit from="1092" to="1118">1092-1118</floruit>
                         <occupation type="office-secular" xml:lang="en">military governor of Cyprus</occupation>
                         <occupation type="office-secular" xml:lang="grc">δοὺξ Κύπρου</occupation>
@@ -102,7 +102,7 @@
                         <note>Responsible for the restoration and decoration with wall-paintings of the church of the Holy Cross, Pelendri, along with his fellow priests (1177/8)</note>
                     </person>
                     <relation active="#Georgios_1" ref="snap:coDonorWith" passive="#priests_anonymous">
-                        <desc>Co-donor with other priests</desc>
+                        <desc>co-donor with other priests</desc>
                     </relation>
                     
                     <person xml:id="GeorgiosKompotes">
@@ -122,7 +122,7 @@
                         <note>Her death was commemorated with an inscription and a portrait originally as part of the 1105/6 murals of Panagia Phorbiotissa or Asinou, Niketari</note>
                     </person>
                     <relation active="#Gephyra" ref="snap:wifeOf" passive="#NikephorosIschyrios">
-                        <desc>Nature of familial connection to Nikephoros Ischyrios uncertain (wife, daughter, or other)</desc>
+                        <desc>familial connection to Nikephoros Ischyrios (wife, daughter, or other)</desc>
                     </relation>
                                      
                     <!--<person xml:id="Germanos">
@@ -139,7 +139,7 @@
                         <persName xml:lang="en"><forename>Ioannes</forename> <surname>Gerakiotes</surname> <surname>Moutoullas</surname></persName>
                         <persName xml:lang="grc"><forename>Ἰωάννης</forename> <surname>Γερακιώτης</surname> <surname>Μουτουλλᾶς</surname></persName>
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                     
-                        <note>Founder of the church of Panagia, Moutoullas, and donor of its 1280 murals</note>
+                        <note>Founder of the church of Panagia, Moutoullas, and donor of its 1280 murals, along with his wife Eirene</note>
                         <idno type="PLP">#21058</idno>
                     </person>
                         <relation active="#IoannesGerakiotes" ref="snap:husbandOf" passive="#Eirene_1">
@@ -166,7 +166,7 @@
                         <desc>family of Nikephoros Ischyrios</desc>
                     </relation>
                     
-                    <person xml:id="Laurentios">
+                    <person xml:id="Laurentios_1">
                         <persName xml:lang="en"><forename>Laurentios</forename></persName>
                         <persName xml:lang="grc"><forename>Λαυρέντιος</forename></persName>
                         <floruit notBefore="1167" notAfter="1233">late 12th centure - early 13th century</floruit>
@@ -183,7 +183,7 @@
                         <floruit notBefore="1134" notAfter="1233">mid-12th - early 13th century</floruit>
                         <occupation type="honorific" xml:lang="en">lord</occupation>                        
                         <occupation type="honorific" xml:lang="grc">κῦρ</occupation>
-                        <note>Donor of the 1192 murals of the naos of Panagia tou Araka or Arakiotissa, Lagoudera</note> 
+                        <note>Donor of the 1192 murals of Panagia tou Araka or Arakiotissa, Lagoudera</note> 
                     </person>
                    <relation active="#LeonAuthentes" ref="snap:sonOf" passive="#Authentes">
                         <desc>son of Authentes</desc>
@@ -203,7 +203,7 @@
                         <persName xml:lang="en"><forename>Neophytos</forename> <surname>the Recluse</surname></persName>
                         <persName xml:lang="grc"><forename>Νεόφυτος</forename> <surname>ὁ Ἔγκλειστος</surname></persName>
                         <birth  when="1134">1134</birth>
-                        <death notBefore="1214" notAfter="1250">After 1214</death>  
+                        <death notBefore="1214" notAfter="1250">after 1214</death>  
                         <floruit notBefore="1167" notAfter="1233">late 12th century - early 13th century</floruit>
                         <occupation type="status-ecclesiastical" xml:lang="en">hieromonk, recluse</occupation>
                         <occupation type="status-ecclesiastical" xml:lang="grc">ἱερομόναχος, ἔγκλειστος</occupation>
@@ -214,8 +214,8 @@
                     <person xml:id="NikephorosIschyrios">
                         <persName xml:lang="en"><forename>Nikephoros</forename> <surname>Ischyrios</surname></persName>
                         <persName xml:lang="grc"><forename>Νικηφόρος</forename> <surname>Ἰσχύριος</surname></persName>    
-                        <birth  notBefore="1034" notAfter="1067">Around the middle of the 11th century</birth>
-                        <death notBefore="1106" notAfter="1133">Early 12th century</death>                   
+                        <birth  notBefore="1034" notAfter="1067">around the middle of the 11th century</birth>
+                        <death notBefore="1106" notAfter="1133">early 12th century</death>                   
                         <occupation type="dignity" xml:lang="en">magistros</occupation>                        
                         <occupation type="dignity" xml:lang="grc">μάγιστρος</occupation>
                         <note>Donor of the 1105/6 murals of the church of Panagia Phorbiotissa or Asinou, Niketari</note>
@@ -230,7 +230,7 @@
                         <floruit notBefore="1151" notAfter="1200">second half of 12th century</floruit>
                         <occupation type="occupation" xml:lang="en">farrier(?)</occupation>
                         <occupation type="occupation" xml:lang="grc">καλλιγάς(?)</occupation>
-                        <note>Supplicant associated with the mural of Saint George on horseback of Panagia Phorbiotissa or Asinou, Niketari</note>
+                        <note>Supplicant associated with the mural of St George on horseback of Panagia Phorbiotissa or Asinou, Niketari</note>
                     </person>
                     <relation active="#NikephorosKallias" ref="snap:possiblySameAs" passive="#Nikephoros_1">
                         <desc>Possibly the same as Nikephoros, the donor of the mural of Saint George on horseback in the the narthex of Panagia Phorbiotissa or Asinou, Niketari</desc>
@@ -242,7 +242,7 @@
                         <floruit notBefore="1151" notAfter="1200">second half of 12th century</floruit>
                         <occupation type="occupation" xml:lang="en">veterinary doctor</occupation>
                         <occupation type="occupation" xml:lang="grc">ἵππων ἀκεστήρ</occupation>
-                        <note>Donor of the late-twelfth century mural of Saint George on horseback in the the narthex of Panagia Phorbiotissa or Asinou, Niketari</note> 
+                        <note>Donor of the late-twelfth century mural of St George on horseback in the the narthex of Panagia Phorbiotissa or Asinou, Niketari</note> 
                     </person>
                     <relation active="#Nikephoros_1" ref="snap:possiblySameAs" passive="#NikephorosKallias">
                         <desc>Possibly the same as the supplicant Nikephoros Kallias</desc>
@@ -257,7 +257,7 @@
                         <note>Anonymous priests of the village of Pelendri, responsible for the restoration and decoration with murals of the local church of the Holy Cross, along with the priest Georgios (1177/8)</note>
                     </person>
                     <relation active="#priests_anonymous" ref="snap:coDonorWith" passive="#Georgios_1">
-                        <desc>Co-donors with the priest Georgios</desc>
+                        <desc>co-donors with the priest Georgios</desc>
                     </relation>
                     
                     <person xml:id="PelendriPainter">
@@ -267,7 +267,7 @@
                         <occupation type="occupation" xml:lang="en">painter</occupation>
                         <occupation type="status_ecclesiastical" xml:lang="en">monk(?)</occupation>
                         <occupation type="status_ecclesiastical" xml:lang="grc">μοναχός(?)</occupation>
-                        <note>Painter of the 1177/8 murals of the church of the Holy Cross, Pelendri. His personal name is not preserved, while the surviving designation that accompanieS it may be read either as 'Μον(ο)μάχος' (Monomachos) or as 'μον{μ}αχός' (monk)</note>                        
+                        <note>Painter of the 1177/8 murals of the church of the Holy Cross, Pelendri. His personal name is not preserved, while the surviving designation that accompanies it may be read either as 'Μον(ο)μάχος' (Monomachos) or as 'μον{μ}αχός' (monk)</note>                        
                     </person>
                     
                     <person xml:id="TheodoreApseudes">
