@@ -36,6 +36,16 @@
                         <idno type="PLP">#24868 (Σαραμαλίνα Ἀναστασία)</idno>
                     </person>
                     
+                    <person xml:id="Authentes">
+                        <persName xml:lang="en"><forename>Authentes</forename></persName>
+                        <persName xml:lang="grc"><forename>Αὐθέντης</forename></persName>
+                        <floruit notBefore="1101" notAfter="1200">12th century</floruit>
+                        <note>Father of the donor of the 1192 murals of Panagia tou Araka or Arakiotissa, Lagoudera</note>
+                    </person>
+                    <relation active="#Authentes" ref="snap:fatherOf" passive="#LeonAuthentes">
+                        <desc>father of Leon Authentes</desc>
+                    </relation>
+                                        
                     <person xml:id="ChristophorosΟmotes">
                         <persName xml:lang="en"><forename>Christophoros</forename> <surname>Οmotes</surname></persName>
                         <persName xml:lang="grc"><forename>Χριστοφόρος</forename> <surname>Ὀμότης</surname></persName>
@@ -43,7 +53,7 @@
                         <note>Donor of the mural panel of St Christopher in the naos of Panagia, Moutoullas, along with his wife (1280)</note>
                         <idno type="PLP">#21058</idno>
                     </person>
-                    <relation active="#ChristophorosΟmotes" ref="snap:husbandOf" passive="#Maria">
+                    <relation active="#ChristophorosΟmotes" ref="snap:husbandOf" passive="#Maria_1">
                         <desc>husband of Maria</desc>
                     </relation>
                     
@@ -161,39 +171,26 @@
                         <note>Donor of the church of Saint Ephemianos, Lysi, though the nature of his involvment is unclear</note>
                     </person>
                     
-                    <person xml:id="Leon">
+                    <person xml:id="LeonAuthentes">
                         <persName xml:lang="en"><forename>Leon</forename> <surname>Authentes</surname></persName>
                         <persName xml:lang="grc"><forename>Λέων</forename> <surname>Αὐθέντης</surname></persName>                      
-                        <floruit notBefore="1134" notAfter="1233">Mid-12th to early 13th century</floruit>                     
-                        <note>Donor of the 1192 murals of the naos of Panagia tou Araka or Arakiotissa, Lagoudera</note>         
+                        <floruit notBefore="1134" notAfter="1233">mid-12th - early 13th century</floruit>
                         <occupation type="honorific" xml:lang="en">lord</occupation>                        
                         <occupation type="honorific" xml:lang="grc">κῦρ</occupation>
+                        <note>Donor of the 1192 murals of the naos of Panagia tou Araka or Arakiotissa, Lagoudera</note> 
                     </person>
-                   <relation active="#Leon" ref="snap:sonOf" passive="#Authentes">
+                   <relation active="#LeonAuthentes" ref="snap:sonOf" passive="#Authentes">
                         <desc>son of Authentes</desc>
-                    </relation>
-                    
-                    <person xml:id="Authentes">
-                        <persName xml:lang="en"><forename>Authentes</forename></persName>
-                        <persName xml:lang="grc"><forename>Αὐθέντης</forename></persName>
-                        <!--<note>...</note>
-                        <floruit notBefore="..." notAfter="...">...</floruit>
-                        <occupation type="occupation"></occupation>
-                        <idno type="wikidata"></idno>
-                        <idno type="PBW">...</idno>-->
-                    </person>
-                   <relation active="#Authentes" ref="snap:fatherOf" passive="#Leon">
-                        <desc>father of Leon</desc>
-                    </relation>
-                       
-                    <person xml:id="Maria">
+                    </relation>                    
+                   
+                    <person xml:id="Maria_1">
                         <persName xml:lang="en"><forename>Maria</forename></persName>
                         <persName xml:lang="grc"><forename>Μαρία</forename></persName>
                         <floruit notBefore="1201" notAfter="1300">13th century</floruit>                     
-                        <note>Donor of the mural panel of St Christopher in the naos of Panagia, Moutoullas</note>
+                        <note>Donor of the mural panel of St Christopher in the naos of Panagia, Moutoullas, along with her husband (1280)</note>
                     </person>
-                    <relation active="#Maria" ref="snap:wifeOf" passive="#ChristophorosΟmetes">
-                        <desc>wife of Christophoros Homotes</desc>
+                    <relation active="#Maria_1" ref="snap:wifeOf" passive="#ChristophorosΟmotes">
+                        <desc>wife of Christophoros Omotes</desc>
                     </relation>
                     
                     <person xml:id="Neophytos">
