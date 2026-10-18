@@ -73,7 +73,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+              <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><supplied reason="lost"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></supplied></w>
+                    <milestone unit="column"/> <expan><abbr rend="supraline">Θ</abbr><supplied reason="lost"><ex>εο</ex><abbr rend="supraline">ῦ</abbr></supplied></expan></persName>   
                  </ab>
             </div>
             <div type="apparatus">
