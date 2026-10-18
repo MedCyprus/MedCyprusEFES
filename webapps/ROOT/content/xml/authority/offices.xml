@@ -19,7 +19,7 @@
             
             <list type="office-ecclesiastical">
                 <head>Ecclesiastical offices</head>
-                <item xml:id="hegoumenos"> 
+                <item xml:id="abbot"> 
                     <term xml:lang="en">abbot</term>
                     <term xml:lang="grc">ἡγούμενος</term>
                 </item></list>
