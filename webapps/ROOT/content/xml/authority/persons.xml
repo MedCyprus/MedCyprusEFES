@@ -220,7 +220,7 @@
                         <occupation type="dignity" xml:lang="grc">μάγιστρος</occupation>
                         <note>Donor of the 1105/6 murals of the church of Panagia Phorbiotissa or Asinou, Niketari</note>
                     </person>
-                    <relation active="#NikephorosIschyrios" ref="snap:memberOf" passive="#IschyrioiFamily">
+                    <relation active="#NikephorosIschyrios" ref="snap:familyMemberOf" passive="#IschyrioiFamily">
                         <desc>member of the Ischyrioi Family</desc>
                     </relation>
 
