@@ -2307,8 +2307,8 @@
                         <desc type="layer" n="1">1st layer: <date notBefore="1101" notAfter="1300" precision="medium" evidence="artistic-style" >12th or 13th century</date>                
                             1st layer: <!--<date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style" source="bibliography.xml#Papageorgiou2010">Papageorgiou: 12th century</date>;
                             <date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style" source="bibliography.xml#Chotzakoglou2010a">Chotzakoglou: 13th century</date> (bema; naos)--></desc>
-                        <desc type="layer" n="1a">layer 1a: <date notBefore="1101" notAfter="1200" precision="medium" source="bibliography.xml#Papageorgiou2010" evidence="artistic-style">Papageorgiou: 12th century</date>  (bema; naos);</desc> 
-                        <desc type="layer" n="1b">layer 1b: <date notBefore="1201" notAfter="1300" precision="medium" source="bibliography.xml#Chotzakoglou2010a" evidence="artistic-style">Chotzakoglou: 13th century</date>  (bema; naos);</desc>
+                        <desc type="layer" n="1a">layer 1a: <date notBefore="1101" notAfter="1200" precision="medium" source="bibliography.xml#Papageorgiou2010" evidence="artistic-style">Papageorgiou: 12th century</date>  (bema; naos)</desc> 
+                        <desc type="layer" n="1b">layer 1b: <date notBefore="1201" notAfter="1300" precision="medium" source="bibliography.xml#Chotzakoglou2010a" evidence="artistic-style">Chotzakoglou: 13th century</date>  (bema; naos)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1201" notAfter="1500" precision="medium" evidence="artistic-style">13th century or later</date> (naos: north central recess; southwest recess)</desc> <!--need to see good photos of these to get a better idea about the dating -->
                     </desc>
                     <desc type="conservation">Fragmentary; poor state of preservation. Conservation/cleaning: 1967 (DAC)</desc>
