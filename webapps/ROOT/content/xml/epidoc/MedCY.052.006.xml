@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Nave, vault between the eastern and western reinforcing arches.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, vault between the eastern and western reinforcing arches, south half</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -76,7 +76,7 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>n/a</p>
+               <p>PENDING</p>
             </div>
             <div type="translation">
                 <p>The Dormition of the Virgin</p>
@@ -86,7 +86,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>Unpublished</bibl>
+                <bibl><ptr target="#Chotzakoglou2010a"/>, <citedRange>448</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
