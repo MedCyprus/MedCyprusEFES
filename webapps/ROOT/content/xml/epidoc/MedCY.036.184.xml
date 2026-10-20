@@ -29,7 +29,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, northwestern recess, lunette</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, northwest recess, lunette</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
@@ -38,14 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>White majuscule letters against green background. Character size varies. ΠΡΔΜ joined in ligature. Ἰωάννης and Πρόδρομος are abbreviated as  with a big, wavy line above the words. Accents and breathings non systematic. Letter height: <height unit="cm">3-4</height> 
+                             <handNote>White majuscule letters against green background. Character size varies. ΠΡΔΜ joined in ligature. Ἰωάννης and Πρόδρομος are abbreviated as with a big, wavy line above the words. Accents and breathings non systematic. Letter height: <height unit="cm">3-4</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Baptism">Baptism, John the Forerunner</rs>
-                             <rs type="iconography" ref="#angel"></rs>
-                                <rs type="iconography" ref="#Christ"></rs>
-                            <rs type="iconography" ref="#christological"></rs></p>
+                                  <rs type="iconography" ref="#angel"></rs>
+                                  <rs type="iconography" ref="#Christ"></rs>
+                                  <rs type="iconography" ref="#christological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
