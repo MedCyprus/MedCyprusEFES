@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Betrayal, Peter cutting off Malchos’ ear</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. Final sigma in the form of a wavy line. Tau with a top bar terminating in serifs at either end. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Betrayal">Betrayal, Peter cutting off Malchos’ ear</rs>
+                            <rs type="iconography" ref="#christological"></rs>
+                                <rs type="iconography" ref="#Peter"></rs>
+                                 <rs type="iconography" ref="#Malchos"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -73,7 +77,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/>
+                  <lb n="1"/><choice><orig>Ὁ</orig><reg>O</reg></choice>         
+                    <lb n="2"/><name type="forename" nymRef="#Πέτρος">Πέ
+                    <lb n="3" break="no"/>τρ
+                    <lb n="4" break="no"/>ος</name>
+                    <cb n="b"/>
+                    <lb n="1"/>PENDING
                  </ab>
             </div>
             <div type="apparatus">
