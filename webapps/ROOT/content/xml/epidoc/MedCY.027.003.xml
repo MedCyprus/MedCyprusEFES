@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. Character size varies. Accents and breathings non systematic. Letter height: <height unit="cm">3-4</height> 
+                            <handNote>White majuscule letters against blue background. Character size varies. Mu with the central strokes reminiscent of an upsilon on a crossed stem. Upsilon on a crossed stem. Tau with a top bar terminating in serifs at either end. Accents and breathings non systematic. Letter height: <height unit="cm">3-4</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#ConstantineYoungerOfOrmideia">Constantine the Younger Of Ormideia</rs>
+                            <rs type="iconography" ref="#ascetic"></rs>
+                                <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
