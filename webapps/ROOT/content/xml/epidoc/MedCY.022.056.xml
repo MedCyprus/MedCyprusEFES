@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against red and blue background. Letter height: <height unit="cm">1,5-2,5</height>
+                            <handNote>White majuscule letters against red and blue background. Letter height: <height unit="cm">1.5-2.5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -71,28 +71,31 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="022-056-01.JPG"><desc>Christ's invocation, inscription detail</desc></graphic>
-        <graphic url="022-056-02.JPG"><desc>Christ's invocation, inscription</desc></graphic>
-        <graphic url="022-056-03.JPG"><desc>Christ's invocation, general view</desc></graphic>
+        <graphic rend="primary" url="022-056-01.JPG"><desc></desc></graphic>
+        <graphic url="022-056-02.JPG"><desc></desc></graphic>
+        <graphic url="022-056-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING</ab>
+              PENDING<lb n="1"/> <g ref="#cross">+</g> <w lemma="δέησις"><expan><abbr rend="supraline">Δ<choice><orig>ε</orig><reg>έ</reg></choice></abbr><ex>ησις</ex></expan></w> <hi rend="ligature">τη</hi>ς <w lemma="δούλη"><expan><abbr rend="supraline">δο<choice><orig>υ</orig><reg>ύ</reg></choice>λ</abbr><ex>ης</ex></expan></w> τ<supplied reason="lost">οῦ</supplied>
+              <lb n="2"/><persName type="divine" key="God"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName> <persName type="attested" role="donor" ref="#Unspecified"><name nymRef="#Αδιευκρινιστο" type="forename"><unclear>Μ</unclear>α<gap reason="lost" unit="character" quantity="1"></gap>τρ<gap reason="lost" unit="character" quantity="2"></gap></name></persName>
+              <lb n="3" break="no"/>χ
+</ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Invocation of the servant of God [..?..]</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
