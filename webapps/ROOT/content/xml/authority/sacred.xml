@@ -1188,6 +1188,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2333926</idno>                   
                 </person>
                 
+                <person xml:id="Phokas">
+                    <persName xml:lang="grc">Φωκᾶς</persName>
+                    <persName xml:lang="en">Phokas</persName>   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q943937</idno>                   
+                </person>
+                
                 <person xml:id="Photios">
                     <persName xml:lang="grc">Φώτιος</persName>
                     <persName xml:lang="en">Photios</persName>                   

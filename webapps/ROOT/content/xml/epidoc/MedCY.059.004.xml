@@ -78,7 +78,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <lb n="1"/>Ὁ <persName type="sacred" key="JohnChrysostom"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>            
-                    <lb n="2"/><name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name>      
+                    <lb n="2"/><name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name>      
                     <lb n="2"/><choice><orig>o</orig><reg>ὁ</reg></choice> <addName type="epithet" key="Chrysostom"> <expan><abbr rend="supraline">Χρυ</abbr><ex>σόστομος</ex></expan></addName></persName>
                  </ab>
             </div>
