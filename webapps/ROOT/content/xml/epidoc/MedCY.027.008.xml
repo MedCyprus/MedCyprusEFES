@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Crucifixion</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>  
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>Black majuscule letters against green background. Eta with its crossbar crossed. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Crucifixion">Crucifixion</rs>
+                                  <rs type="iconography" ref="#christological"></rs>
+                                 <rs type="iconography" ref="#Christ"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +78,11 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/>
+                   <lb n="1"/><supplied reason="omitted">Ἠ</supplied> <w lemma="σταύρωσις"><choice><sic>Σταβρο
+                  <lb n="2" break="no"/>
+                  <cb n="b"/>
+                  <lb n="1" />σης</sic><corr>Σταύρωσις</corr></choice></w>                      
                  </ab>
             </div>
             <div type="apparatus">
