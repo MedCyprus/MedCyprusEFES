@@ -38,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING John Chrysostom and Basil blessed by Christ
+                            <p>PENDING<rs type="iconography" ref="#JohnChrysostom">John Chrysostom, Basil, Christ</rs>
+                                <rs type="iconography" ref="#Basil"></rs>
+                                 <rs type="iconography" ref="#Christ"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
