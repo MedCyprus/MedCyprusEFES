@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#Betrayal">Betrayal, Peter cutting off Malchos’ ear</rs>
+                            <p><rs type="iconography" ref="#BetrayalPeterMalchos">Betrayal, Peter cutting off Malchos’ ear</rs>
                             <rs type="iconography" ref="#christological"></rs>
                                 <rs type="iconography" ref="#Peter"></rs>
                                  <rs type="iconography" ref="#Malchos"></rs>
@@ -78,7 +78,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                     <cb n="a"/>
-                  <lb n="1"/><choice><orig>Ὁ</orig><reg>O</reg></choice>         
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice>         
                     <lb n="2"/><name type="forename" nymRef="#Πέτρος">Πέ
                     <lb n="3" break="no"/>τρ
                     <lb n="4" break="no"/>ος</name>
