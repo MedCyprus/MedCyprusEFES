@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Constantine the Younger of Ormideia</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -76,7 +77,18 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                       <cb n="a"/>
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Constantine"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
+                  <lb n="2"/><name type="forename" nymRef="#Κωνσταντῖνος"><supplied reason="lost">Κων 
+                  <lb n="3" break="no"/>σταν
+                  <lb n="4" break="no"/>τῆ
+                  <lb n="5" break="no"/>νος</supplied></name> 
+                      <cb n="b"/>
+                    <lb n="1"/>ό
+                    <lb n="2"/><addName type="epithet" key="the Younger of Ormideia"><w lemma="νέος">νέος</w>
+                    <lb n="3"/><choice><sic><choice><orig>O</orig><reg>Ὁ</reg></choice>
+                    <lb n="4" break="no"/>ρμ<choice><orig>υ</orig><reg>ύ</reg></choice>
+                    <lb n="5" break="no"/>τ<choice><orig>ί</orig><reg>ı</reg></choice>ας</sic><corr>Ὁρμήδειας</corr></choice></addName></persName>    
                  </ab>
             </div>
             <div type="apparatus">
