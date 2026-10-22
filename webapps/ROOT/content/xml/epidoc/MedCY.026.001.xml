@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. White majuscule letters against blue background.
+                            <handNote>White majuscule letters against blue background.
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -75,7 +75,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
+                   <lb n="1"/><supplied reason="lost">Ἡ</supplied> <w lemma="ἀναίμακτος"><supplied reason="lost">ἀναί</supplied>μακτος</w> 
+                   <lb n="2"/><w lemma="θυσία"><supplied reason="lost">θυσία</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">
