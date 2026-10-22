@@ -41,7 +41,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Marina">Marina</rs></p>
+                            <p><rs type="iconography" ref="#Marina">Marina</rs>
+                            <rs type="iconography" ref="#female"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
