@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. Character size varies. Mu with the central strokes reminiscent of an upsilon on a stem. Accents and breathings non systematic. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -76,7 +76,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING                    
+                   <cb n="a"/>
+                   <lb n="1"/><supplied reason="lost">Ὁ</supplied>
+                   <lb n="2"/><persName type="sacred" key="Panteleimon"><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἅ</reg></choice>
+                   <lb n="3" break="no"/>γı
+                   <lb n="4" break="no"/><supplied reason="lost">ο</supplied>
+                   <lb n="5" break="no"/><supplied reason="lost">ς</supplied></w>
+                   <cb n="b"/>
+                    <lb n="1"/><name nymRef ="#Παντελεήμων" type="forename">Παν
+                     <lb n="2" break="no"/>τελε
+                     <lb n="3" break="no"/><choice><orig>η</orig><reg>ή</reg></choice>μων</name></persName>                   
                  </ab>
             </div>
             <div type="apparatus">
