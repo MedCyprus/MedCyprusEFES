@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Barbara</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background.  
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Barbara">Barbara</rs>
+                                <rs type="iconography" ref="#female"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +75,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING                    
+                   <cb n="a"/>
+                    <lb n="1"/><supplied reason="lost">Ἡ</supplied>
+                    <lb n="2"/><persName type="sacred" key="Barbara"><w lemma="ἅγιος"><supplied reason="lost">ἁγία</supplied></w>
+                    <cb n="b"/>
+                    <lb n="1"/><name type="forename" nymRef="#Βαρβάρα">Β
+                    <lb n="2" break="no"/>α
+                    <lb n="3" break="no"/>ρ
+                     <lb n="4" break="no"/><supplied reason="lost">β
+                      <lb n="5" break="no"/>ά
+                     <lb n="6" break="no"/>ρ
+                      <lb n="7" break="no"/>α</supplied></name></persName>                   
                  </ab>
             </div>
             <div type="apparatus">
