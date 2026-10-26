@@ -28,7 +28,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#diakonikon">Diakonikon, south wall, first figure on the right</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, east vault, south half, lower register, first figure on the right</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
@@ -59,7 +59,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">caption</term>
+                    <term type="textType" ref="text_types.xml#doc24">PENDING: quotation, source unknown</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos)</creation>
