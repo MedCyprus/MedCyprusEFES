@@ -227,16 +227,16 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q140013</idno>                   
                 </person>
                 
-                <person xml:id="Barbara">
-                    <persName xml:lang="grc">Βαρβάρα</persName>
-                    <persName xml:lang="en">Barbara</persName>        
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q192816</idno>                   
-                </person>
-                
                 <person xml:id="Balaam">
                     <persName xml:lang="grc">Βαλαάμ</persName>
                     <persName xml:lang="en">Balaam</persName>               
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q574641</idno>                   
+                </person>
+                
+                <person xml:id="Barbara">
+                    <persName xml:lang="grc">Βαρβάρα</persName>
+                    <persName xml:lang="en">Barbara</persName>        
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q192816</idno>                   
                 </person>
                 
                 <person xml:id="Barnabas">
