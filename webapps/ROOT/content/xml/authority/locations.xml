@@ -360,7 +360,7 @@
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>349-50</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>263-68</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Soteriou1937"/><citedRange> 42-43, fig. 32, pl. 36b</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Soteriou1935"/><citedRange> 42-43, fig. 32, pl. 36b</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Enlart1987"/><citedRange> 336-37</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1998, 26</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 50</citedRange></bibl> 
