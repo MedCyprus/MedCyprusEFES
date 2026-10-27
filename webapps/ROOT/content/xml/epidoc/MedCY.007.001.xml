@@ -28,32 +28,30 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, west cross-arm, south wall, first figure on the east</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, west cross-arm, south wall, first figure, east</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">4-6,5</height>
+                            <handNote>PENDING. Letter height: <height unit="cm">4-6.5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Kyriake">Kyriake</rs>
-                                                                    
+                            <p><rs type="iconography" ref="#Kyriake">Kyriake</rs>                                                              
                                   <rs type="iconography" ref="#martyr"></rs>
                                   <rs type="iconography" ref="#female"></rs>
-
                             </p>
                         </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#ChlorakasPanagia" n="1st">Chlorakas, Panagia Chrysoaimatousa</origPlace>
-                            <origDate notBefore="1167" notAfter="1300" precision="medium" evidence="artistic-style"> Late 12th century or 13th century</origDate>
+                            <origDate notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century(?)</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
@@ -68,14 +66,14 @@
                     <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou)</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="007-001-01.JPG"><desc>Naos, west cross-arm, south wall, first figure on the east, inscription</desc></graphic>
-        <graphic url="007-001-02.JPG"><desc>Naos, west cross-arm, south wall, first figure on the east, inscription detail</desc></graphic>
-        <graphic url="007-001-03.JPG"><desc>Naos, west cross-arm, south wall, first figure on the east, inscription detail</desc></graphic>
-        <graphic url="007-001-04.JPG"><desc>Naos, west cross-arm, south wall, first figure on the east, general view</desc></graphic>
+        <graphic rend="primary" url="007-001-01.JPG"><desc></desc></graphic>
+        <graphic url="007-001-02.JPG"><desc></desc></graphic>
+        <graphic url="007-001-03.JPG"><desc></desc></graphic>
+        <graphic url="007-001-04.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -85,17 +83,17 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Saint Kyriake</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
