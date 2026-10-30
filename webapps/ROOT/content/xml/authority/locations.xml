@@ -2840,6 +2840,46 @@
                     </listBibl>
                 </place>
                 
+                <place xml:id="Livadia" n="65">
+                    <placeName xml:lang="en">Livadia, Panagia Kyra</placeName>
+                    <placeName xml:lang="el">Λιβάδια, Παναγία Κυρά</placeName>
+                    <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
+                    <placeName type="diocese" ref="diocese.xml#karpasia">Bishopric of Karpasia</placeName>
+                    <location><geo>35.40534, 34.02995</geo></location>
+                    <desc type="construction"><date notBefore="1001" notAfter="1200" precision="medium">11th or 12th century(?)</date></desc>
+                    <desc type="function"><term>Pilgrimage</term>(?)</desc>
+                    <desc type="context"><term>Village fringe</term></desc>
+                    <desc type="architectural">Free cross-plan church, incorporating the bema apse of an Early Byzantine basilica; western extension and south porch added in early modern times</desc>
+                    <desc type="mural">
+                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</date> (bema; dome)</desc>
+                    </desc>
+                    <desc type="conservation">Fragmentary; poor state of preservation; apse mural and mosaic destroyed after 1974. Conservation/cleaning: 1961 (DAC); 2026 (TCCH)</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0073.html</idno>
+                    <idno type="HGC">https://cyprusgazetteer.org/146370/200/</idno>
+                    <idno type="geonames">https://www.geonames.org/19598/panagia-tis-kyras.html</idno>
+                    <listBibl type="inscriptions">
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>425</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Foulias2016-17"/><citedRange>838, 839</citedRange></bibl>
+                    </listBibl>
+                    <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>250</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Soteriou1935"/><citedRange></citedRange></bibl>
+                        <bibl>34 fig. 23, pls 34, 35a<ptr target="bibliography.xml#Gunnis1936"/><citedRange>328</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1961, 13</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MegawHawkins1971"/><citedRange>363-66</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>52</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 53</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Korol2000"/><citedRange>193-97</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>424-25</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>255-62</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>8: 113-14</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Foulias2016-17"/><citedRange>831-42</citedRange></bibl>
+                    </listBibl>
+                </place>
+                
                 
                 <!--<place xml:id="Kivotos"> <!-\- excluded because there are no surviving inscriptions -\->
                     <placeName xml:lang="en">Agios Theodoros, Panagia Kivotos</placeName>
