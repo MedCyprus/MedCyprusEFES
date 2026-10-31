@@ -2866,8 +2866,8 @@
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>250</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Soteriou1935"/><citedRange></citedRange></bibl>
-                        <bibl>34 fig. 23, pls 34, 35a<ptr target="bibliography.xml#Gunnis1936"/><citedRange>328</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Soteriou1935"/><citedRange>>34 fig. 23, pls 34, 35a</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>328</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1961, 13</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MegawHawkins1971"/><citedRange>363-66</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>52</citedRange></bibl>
@@ -2875,7 +2875,7 @@
                         <bibl><ptr target="bibliography.xml#Korol2000"/><citedRange>193-97</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>424-25</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>222-29</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>8: 113-14</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>10: 225-26</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Foulias2019"/><citedRange>831-42</citedRange></bibl>
                     </listBibl>
                 </place>
