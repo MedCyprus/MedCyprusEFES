@@ -42,7 +42,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING                                
+                            <p><rs type="iconography" ref="#Melismos">Melismos</rs>           
+                                <rs type="iconography" ref="#Christ"></rs>   
                             </p>
                         </decoDesc>
                     </physDesc>
