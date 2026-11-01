@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Gregory the Theologian, scroll</title>
                 <author xml:id="tp">Theocharis Petrou</author> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black majuscule letters against green background. Text between single ruled lines. Letter height: <height unit="cm">2</height>      
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING                                
+                            <p><rs type="iconography" ref="#GregoryNazianzenos">Gregory the Theologian</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs>       
+                           <rs type="iconography" ref="#scroll"></rs>                            
                             </p>
                         </decoDesc>
                     </physDesc>
