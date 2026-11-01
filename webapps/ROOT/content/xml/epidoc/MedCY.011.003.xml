@@ -38,11 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Gabriel">Archangel Gabriel</rs>
+                                <rs type="iconography" ref="#archangel"></rs>
+                                <rs type="iconography" ref="#genderless"></rs>
+                                <rs type="iconography" ref="#dressantique"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,7 +78,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                   <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Gabriel"><name type="forename" nymRef ="#Γαβριήλ"><w lemma="ἀρχάγγελος"><supplied reason="lost">ἀρχάγγελος</supplied></w>
+                    <cb n="b"/>   
+                    <lb n="1"/>Γαβριήλ</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
