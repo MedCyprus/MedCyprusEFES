@@ -858,6 +858,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q743246</idno>                   
                 </person>
                 
+                <person xml:id="Kyriake">
+                    <persName xml:lang="grc">Κυριακή</persName>
+                    <persName xml:lang="en">Kyriake</persName>     
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q451143</idno>                   
+                </person>
+                
                 <person xml:id="Kyros">
                     <persName xml:lang="grc">Κῦρος</persName>
                     <persName xml:lang="en">Kyros</persName>
