@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>TBC: Virgin</title>
                 <author xml:id="tp">Theocharis Petrou</author> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against red background. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING                                
+                            <p><rs type="iconography" ref="#Melismos">Melismos</rs>           
+                                <rs type="iconography" ref="#Virgin"></rs>                                   
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
+                    <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><supplied reason="lost"><hi rend="ligature"><expan><abbr rend="supraline">Μ</abbr><ex>ήτη</ex><abbr rend="supraline">ρ</abbr></expan></hi></supplied></w>
+                    <milestone unit="column"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>    
                 </ab>
             </div>
             <div type="apparatus">
