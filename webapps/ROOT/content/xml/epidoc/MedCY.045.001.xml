@@ -8,6 +8,7 @@
                 <title>Saint Kyriake</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor> 
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
             <publicationStmt>
@@ -76,7 +77,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   
+                    <lb n="1"/><choice><orig>H</orig><reg>Ἡ</reg></choice>
+                    <lb n="2"/><persName type="sacred" key="Kyriake"><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἁ</reg></choice>
+                     <lb n="3" break="no"/>γ<choice><orig>ı</orig><reg>ί</reg></choice>
+                     <lb n="4" break="no"/>α</w>
+                   <cb n="a"/>
+                        <lb n="1"/><name type="forename" nymRef="#Κυριακή">Κυρι
+                          <lb n="2" break="no"/>
+                        <cb n="b"/>
+                        <lb n="1"/><hi rend="ligature">ακ</hi><choice><orig>η</orig><reg>ή</reg></choice></name></persName>  
+                  
                  </ab>
             </div>
             <div type="apparatus">
