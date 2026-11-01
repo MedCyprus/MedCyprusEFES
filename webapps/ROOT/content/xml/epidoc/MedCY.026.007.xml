@@ -38,11 +38,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. White majuscule letters against blue background.
+                            <handNote>White majuscule letters against blue background. AP joined in ligature. Letter height: <height unit="cm">3-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING                                
+                            <p><rs type="iconography" ref="#Melismos">Melismos</rs>           
+                                <rs type="iconography" ref="#archangel"></rs>                                  
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -76,7 +77,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><hi rend="ligature"><choice><orig>α</orig><reg>ἀ</reg></choice>ρ</hi>χ</abbr><ex>άγγελος</ex></expan></w> 
                 </ab>
             </div>
             <div type="apparatus">
