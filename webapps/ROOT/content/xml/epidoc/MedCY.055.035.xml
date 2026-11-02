@@ -64,12 +64,12 @@
                     <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publication, archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>
+            <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-035-02.jpg"><desc>(© Department of Antiquities, Cyprus)</desc></graphic>
-        <graphic rend="primary" url="055-035-01.JPG"><desc>(© Department of Antiquities, Cyprus)</desc></graphic>
+         <graphic url="055-035-02.jpg"><desc>(© G. Philotheou, 2026)</desc></graphic>
+        <graphic rend="primary" url="055-035-01.JPG"><desc>(© G. Philotheou, 2026)</desc></graphic>
     </facsimile>
     <text>
         <body>
