@@ -75,7 +75,9 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+              <lb n="1"/> <g ref="#cross">+</g> <w lemma="δέησις"><expan><abbr rend="supraline">Δ<choice><orig>ε</orig><reg>έ</reg></choice></abbr><ex>ησις</ex></expan></w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <w lemma="δοῦλος">δούλου</w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <persName type="divine" key="God"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName><choice><reg>,</reg><orig>·</orig></choice> 
+              <lb n="2"/><persName type="attested" role="donor" ref="#NikephorosIschyrios"><name nymRef="#Νικηφόρος" type="forename">Νικηφόρου</name></persName>
+       
                  </ab>
             </div>
             <div type="apparatus">
