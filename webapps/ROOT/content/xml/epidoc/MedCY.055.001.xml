@@ -31,17 +31,18 @@
                                     </support>
                             </supportDesc>
                              <layoutDesc>
-                                <layout>On the left side of the Evangelist's head</layout>
+                                <layout>On the left of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Accents and breathings non systematic. <height unit="cm"></height>
+                            <handNote>White majuscule letters against red background. Character size varies. Superscript tau. ΛΗ joined in ligature. Systematic use of triangular serifs. Accents and breathings non systematic. <height unit="cm"></height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Matthew">Matthew the Evangelist</rs>
                             <rs type="iconography" ref="#male"></rs>
-                             <rs type="iconography" ref="#evangelist"></rs></p>
+                            <rs type="iconography" ref="#apostle"></rs>
+                            <rs type="iconography" ref="#evangelist"></rs></p>
                             </decoDesc>
                     </physDesc>
                     <history>
@@ -63,12 +64,12 @@
                     <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou)</creation>
+            <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-001-02.JPG"><desc>Matthew the Evangelist, inscription</desc></graphic>
-        <graphic rend="primary" url="055-001-01.JPG"><desc>Matthew the Evangelist, inscription detail</desc></graphic>
+           <graphic rend="primary" url="055-001-01.JPG"><desc></desc></graphic>         
+           <graphic url="055-001-02.JPG"><desc></desc></graphic>    
     </facsimile>
     <text>
         <body>
@@ -91,10 +92,11 @@
                 <p>Matthew the Evangelist</p>
             </div>
             <div type="commentary">
-                <p>The inscription ὁ ἅγιος to the right of the evangelist has been lost. Based on the examples of Paul and Mark we reconstructed the word. </p>
+                <p>The word ὁ ἅγιος was reconstructed on the basis of the examples of Paul and Mark.</p>
             </div>
             <div type="bibliography">
-                <listBibl> <bibl>Unpublished</bibl>
+                <listBibl>
+                   <bibl><ptr target="#Xenakiforthcoming"/><!--<citedRange>TBA</citedRange>--></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
