@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>TBC: Virgin</title>
+                <title>TBC: Virgin and the Christ Child (?) flanked by archangels, Virgin</title>
                 <author xml:id="tp">Theocharis Petrou</author> 
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <author xml:id="mx">Maria Xenaki</author>
@@ -38,12 +38,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against red background. 
+                            <handNote>White majuscule letters against red background. V-shaped upsilon. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#Melismos">Melismos</rs>           
-                                <rs type="iconography" ref="#Virgin"></rs>                                   
+                            <p><rs type="iconography" ref="#Virgin">Virgin with the Christ Child (?) flanked by a pair of archangels, Virgin. The presence of the Child cannot be confirmed, due to the condition of the mural.</rs>
+                                <rs type="iconography" ref="#female"></rs>
+                                <rs type="iconography" ref="#ChristChild"></rs>
+                                <rs type="iconography" ref="#archangel"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
