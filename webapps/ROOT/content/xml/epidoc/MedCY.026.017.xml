@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>TBC: Melismos (Fraction), Virgin </title>
+                <title>TBC: Melismos (Fraction), liturgical veil, Virgin </title>
                 <author xml:id="tp">Theocharis Petrou</author> 
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <author xml:id="mx">Maria Xenaki</author>
@@ -42,8 +42,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#Melismos">Melismos</rs>           
-                                <rs type="iconography" ref="#Virgin"></rs>                                  
+                            <p><rs type="iconography" ref="#Melismos">Melismos, liturgical veil adorned with the face of the Virgin held by two angels</rs>           
+                                <rs type="iconography" ref="#Virgin"></rs>
+                                <rs type="iconography" ref="#liturgical"></rs>
+                                <rs type="iconography" ref="#veil_liturgical"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
