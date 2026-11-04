@@ -29,7 +29,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, first figure on the left</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, first figure from the left</rs>
                                      <dimensions unit="cm" scope="scroll"><height>41</height><width>14</width></dimensions>
                                     </support>
                             </supportDesc>
@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against green background. Text between single ruled lines. Letter height: <height unit="cm">2</height>
+                            <handNote>Black majuscule letters against green background. Text between double-ruled white lines. Letter height: <height unit="cm">2</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -65,7 +65,8 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc">quotation, liturgical</term>
+                    <term type="textType" ref="text_types.xml#doc24">quotation, source unknown</term>
+                    <term type="textType" ref="text_types.xml#doc8">quotation, liturgical (?)</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos)</creation>
