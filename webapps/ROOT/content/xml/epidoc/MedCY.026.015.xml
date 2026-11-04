@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Invocation</title>
+                <title>Dedicatory inscription (?)</title>
                 <author xml:id="tp">Theocharis Petrou</author> 
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <author xml:id="mx">Maria Xenaki</author>
@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against white background. Letter height: <height unit="cm">1.5-4.5</height>      
+                            <handNote>Black majuscule and miniscule letters against white background. Elongated, rounded sigma, with upper and lower terminals curving outwards to the right. Elongated, rounded epsilon, with upper and lower terminals curving outwards to the right and a horizontal arm. V-shaped upsilon with outward curving diagonal stems and a curvilinear bar at the base. Tau with a stem thickening gradually towards the base and a crossbar. ΠΡ joined in ligature. Letter height: <height unit="cm">1.5-4.5</height>  <!-- needs to be revisited and checked, pending the edition -->    
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -63,7 +63,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc11">invocation</term>                 
+                    <term type="textType" ref="text_types.xml#doc1">dedicatory(?)</term> <!-- needs to be revisited, pending the edition -->                
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos)</creation>
