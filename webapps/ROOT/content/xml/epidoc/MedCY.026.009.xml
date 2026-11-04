@@ -29,7 +29,7 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, first figure on the left</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, first figure from the left</rs>
                                     <dimensions unit="cm" scope="text"><width>13</width></dimensions>
                                       <dimensions unit="cm" scope="scroll"><height>36.5</height><width>13.5</width></dimensions>
                                     </support>
@@ -39,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against green background. Systematic use of triangular serifs.Text between single ruled lines. Letter height: <height unit="cm">2.5-3.5</height>
+                            <handNote>Black majuscule letters against green background. Systematic use of triangular serifs.Text between double-ruled white lines. Letter height: <height unit="cm">2.5-3.5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -66,7 +66,8 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc24">PENDING. quotation, source unknown</term>
+                    <term type="textType" ref="text_types.xml#doc24">quotation, source unknown</term>
+                    <term type="textType" ref="text_types.xml#doc8">quotation, liturgical (?)</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
