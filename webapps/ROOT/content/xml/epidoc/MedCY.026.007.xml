@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Melismos (Fraction), deacon archangel</title>
+                <title>Melismos (Fraction), archangel(?) as deacon</title>
                 <author xml:id="tp">Theocharis Petrou</author> 
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <author xml:id="mx">Maria Xenaki</author>
@@ -42,7 +42,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#Melismos">Melismos, deacon archangel</rs>           
+                            <p><rs type="iconography" ref="#Melismos">Melismos, archangel as deacon</rs>           
                                 <rs type="iconography" ref="#archangel"></rs>
                                 <rs type="iconography" ref="#liturgical"></rs>
                             </p>
