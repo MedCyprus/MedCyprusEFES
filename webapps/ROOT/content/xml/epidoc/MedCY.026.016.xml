@@ -44,7 +44,8 @@
                         <decoDesc>
                             <p><rs type="iconography" ref="#Stephen">Stephen</rs>
                             <rs type="iconography" ref="#male"></rs>
-                                <rs type="iconography" ref="#martyr"></rs>                                
+                            <rs type="iconography" ref="#martyr"></rs>
+                            <rs type="iconography" ref="#deacon"></rs>     
                             </p>
                         </decoDesc>
                     </physDesc>
