@@ -86,12 +86,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><milestone unit="column" n="left"/><expan><abbr>Φ</abbr><ex>ῶς</ex></expan> <persName type="divine" key="Christ"><expan><abbr>Χ</abbr><ex>ριστού</ex></expan></persName> <persName type="divine" key="JesusChrist"><expan><abbr>Ι</abbr><ex>ησοῦ</ex></expan>ς</persName>
-                    <lb n="2"/><milestone unit="column" n="right"/><expan><abbr>Χ</abbr><ex>ριστὸ</ex>ς </expan><expan><abbr>Φ</abbr><ex>αίνει</ex> </expan><expan><abbr>Π</abbr><ex>άσι</ex></expan>
-                    <lb n="3"/><milestone unit="column" n="left"/><supplied reason="lost"><expan><abbr rend="supraline">Ε</abbr><ex>λένη</ex></expan></supplied> <expan><abbr rend="supraline">Ε</abbr><ex>ὕρεν</ex> </expan>
-                    <lb n="4"/><milestone unit="column" n="right"/><expan><abbr rend="supraline">Ε</abbr><ex>λέους</ex></expan><expan> <abbr rend="supraline">Ε</abbr><ex>ρεισμα</ex></expan>
-                    <lb n="5"/><milestone unit="column" n="left"/> <expan><abbr>Ν</abbr><ex>ι</ex></expan>
-                    <lb n="6" break="no"/><milestone unit="column" n="right"/>Κᾶ 
+                    <lb n="1"/><expan><abbr>Φ</abbr><ex>ῶς</ex></expan> <persName type="divine" key="Christ"><expan><abbr>Χ</abbr><ex>ριστού</ex></expan></persName> <persName type="divine" key="JesusChrist"><expan><abbr>Ι</abbr><ex>ησοῦ</ex></expan>ς</persName> <milestone unit="column" n="right"/><expan><abbr>Χ</abbr><ex>ριστὸ</ex>ς </expan><expan><abbr>Φ</abbr><ex>αίνει</ex> </expan><expan><abbr>Π</abbr><ex>άσι</ex></expan>
+                    <lb n="2"/><supplied reason="lost"><expan><abbr rend="supraline">Ε</abbr><ex>λένη</ex></expan></supplied> <expan><abbr rend="supraline">Ε</abbr><ex>ὕρεν</ex> </expan> <expan><abbr rend="supraline">Ε</abbr><ex>λέους</ex></expan><expan> <abbr rend="supraline">Ε</abbr><ex>ρεισμα</ex></expan> 
+                    <milestone unit="column" n="right"/><persName type="divine" key="SonOfGod"><expan><abbr rend="supraline">Υ</abbr><ex>ἱὸ</ex><abbr rend="supraline"><supplied reason="lost">ς</supplied></abbr></expan> <expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>
+                    <lb n="3"/><expan><abbr>Ν</abbr><ex>ι</ex></expan> <milestone unit="column" n="right"/>Κᾶ 
                 </ab>
             </div>
             <div type="apparatus">
