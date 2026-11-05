@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. Letter height: <height unit="cm">2</height>
+                            <handNote>White majuscule letters against blue background. CT and ΠΡ joined in ligature. Letter height: <height unit="cm">2</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -83,9 +83,9 @@
                     <lb n="1"/><supplied reason="lost">Ὁ</supplied> 
                    <lb n="2"/><persName type="sacred" key="Stephen"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
                     <cb n="b"/>
-                     <lb n="1"/><name type="forename" nymRef="#Στέφανος">Στ<supplied reason="lost">έ</supplied>
+                     <lb n="1"/><name type="forename" nymRef="#Στέφανος"><hi rend="ligature">Στ</hi><supplied reason="lost">έ</supplied>
                      <lb n="2" break="no"/>φα<supplied reason="lost">νος</supplied></name>
-                      <lb n="3"/><supplied reason="lost">ὁ</supplied> <addName type="epithet" key="Protomartyr"><choice><sic>Προτο<supplied reason="lost">μάρτυρας</supplied></sic><corr>Πρωτομάρτυρας</corr></choice></addName></persName>
+                      <lb n="3"/><supplied reason="lost">ὁ</supplied> <addName type="epithet" key="Protomartyr"><choice><sic><hi rend="ligature">Πρ</hi>οτο<supplied reason="lost">μάρτυρας</supplied></sic><corr>Πρωτομάρτυρας</corr></choice></addName></persName>
                 </ab>
             </div>
             <div type="apparatus">
