@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Mamas</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,15 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography">PENDING</rs></p>
+                            <p><rs type="iconography" ref="#Mamas">Mamas</rs>
+                             <rs type="iconography" ref="#martyr"></rs>
+                            <rs type="iconography" ref="#militarysaint"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#dressmilitary"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +78,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                    <lb n="1"/>Ὁ 
+                  <lb n="1"/><persName type="sacred" key="Mamas"><w lemma="ἅγιος"><supplied reason="lost">ἅ
+                    <lb n="2" break="no"/>γι</supplied>
+                   <lb n="3" break="no"/>ο<supplied reason="lost">ς</supplied></w>
+                     <cb n="b"/>
+                      <lb n="1"/><name nymRef="#Μάμας" type="forename" ><supplied reason="lost">Μά
+                      <lb n="2" break="no"/>μα
+                      <lb n="3" break="no"/>ς</supplied></name>
+                     </persName>
                  </ab>
             </div>
             <div type="apparatus">
