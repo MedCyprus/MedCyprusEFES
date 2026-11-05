@@ -42,7 +42,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography">PENDING</rs></p>
+                            <p><rs type="iconography" ref="#TheodoreStratelates">Theodore Stratelates</rs>
+                            <rs type="iconography" ref="#martyr"></rs>
+                                  <rs type="iconography" ref="#male"></rs> </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +75,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Theodore"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <name type="forename" nymRef="#Θεόδωρος">Θεό
+                  <lb n="2" break="no"/>δωρος</name> ό η 
+                  <lb n="3"/>γραηνιοτης
+                  </persName>
                  </ab>
             </div>
             <div type="apparatus">
