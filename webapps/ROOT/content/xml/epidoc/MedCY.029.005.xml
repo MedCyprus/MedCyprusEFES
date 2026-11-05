@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Kyriake</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                  <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. Letter height: <height unit="cm">4.5</height> 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography">PENDING</rs></p>
+                            <p><rs type="iconography" ref="#Kyriake">Kyriake</rs>                
+                                  <rs type="iconography" ref="#martyr"></rs>
+                                  <rs type="iconography" ref="#female"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -75,7 +78,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                  <cb n="a"/>
+                  <lb n="1"/>Ἡ
+                    <lb n="2"/><persName type="sacred" key="Kyriake"><w lemma="ἅγιος">ἁ
+                     <lb n="3" break="no"/>γί
+                     <lb n="4" break="no"/>α</w>
+                   <cb n="b"/>
+                        <lb n="1"/><name type="forename" nymRef="#Κυριακή"><supplied reason="lost">Κυ
+                          <lb n="2" break="no"/>ρι
+                        <lb n="3" break="no"/>α 
+                        <lb n="4" break="no"/>κ
+                        <lb n="5" break="no"/>ή</supplied></name></persName>  
                  </ab>
             </div>
             <div type="apparatus">
