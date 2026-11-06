@@ -28,22 +28,21 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, south wall, west of the entrance</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, southwest pilaster, west of the entrance</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3-3,5</height>
+                            <handNote>PENDING. Letter height: <height unit="cm">3-3.5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Paraskeve">Paraskeve</rs>
-                                        
+                            <p><rs type="iconography" ref="#Paraskeve">Paraskeve</rs>                                     
                                   <rs type="iconography" ref="#martyr"></rs>
                                   <rs type="iconography" ref="#female"></rs>
                             </p>                             
@@ -71,7 +70,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+        <graphic rend="primary" url="009-001-01.JPG"><desc></desc></graphic>
+        <graphic url="009-001-02.JPG"><desc></desc></graphic>
+        <graphic url="009-001-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -81,17 +82,17 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Saint Paraskeve</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

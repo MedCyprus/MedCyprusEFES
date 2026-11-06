@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Melismos (Fraction), angel of the Lord</title>
+                <title>Melismos (Fraction), angel</title>
                 <author xml:id="tp">Theocharis Petrou</author> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -33,15 +34,17 @@
                                     </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>To the right of the southern flying angel</layout>
+                                <layout>To the left of the head of the southern flying angel</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. White majuscule letters against blue background.
+                            <handNote>White majuscule letters against blue background. <!--XP joined in ligature.   I DO NOT SEE THIS. PLEASE CHECK AND CORRECT EDITION ACCORDINGLY-->
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING                                
+                            <p><rs type="iconography" ref="#Melismos">Melismos, flying angel</rs>           
+                                <rs type="iconography" ref="#angel"></rs>
+                                <rs type="iconography" ref="#liturgical"></rs> 
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,14 +78,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
+                   <lb n="1"/><w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἀ</reg></choice><hi rend="ligature">ρχ</hi></abbr><ex>άγγελος</ex></expan></w> <persName type="divine" key="Lord"><w lemma="κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">υ</abbr></expan></w></persName>
                 </ab>
             </div>
             <div type="apparatus">
                 <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Ruler angel of the Lord</p>
+                <p><!--Arcangel or Archon--> of the Lord</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>

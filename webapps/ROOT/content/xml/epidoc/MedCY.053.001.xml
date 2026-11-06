@@ -5,9 +5,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Ignatios</title>
+                <title>Saint Gregory the Theologian</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
-                   <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -28,29 +27,29 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, southeast pier, north side <!-- Εδώ θα βάλουμε την αρχική θέση της τοιχογραφίας πριν αποτοιχιστεί από βορειοανατολικό πεσσό και μεταφερθεί στον νοτιοδυτικό πεσσό; Βέβαια σήμερα δεν υπάρχει τίποτα από την τοιχογραφία--></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, first figure on the right </rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Character size varies.
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#IgnatiosTheophoros">Ignatios</rs>
-                                   <rs type="iconography" ref="#prelate"></rs>
-                                   <rs type="iconography" ref="#male"></rs></p>
+                            <p><rs type="iconography" ref="#GregoryNazianzenos">Gregory the Theologian</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#SichariKatholikon" n="1st">Sichari, Monastery of Panagia Apsinthiotissa, katholikon</origPlace>
-                            <origDate notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style">12th century</origDate>
+                            <origDate notBefore="1090" notAfter="1110" precision="medium" evidence="artistic-style">ca 1100</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
@@ -65,11 +64,14 @@
                     <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou)</creation>
+            <creation>transcription (Th. Petrou), archival photos (The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC; Archbishopric of Cyprus, Athanasios Papageorgiou Photographic Archive)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+       <graphic rend="primary" url="053-001-01.jpg"><desc>(© The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC)</desc></graphic>
+       <graphic url="053-001-02.jpg"><desc>(© Archbishopric of Cyprus, Athanasios Papageorgiou Photographic Archive)</desc></graphic>
+       <graphic url="053-001-03.JPG"><desc></desc></graphic>
+       <graphic url="053-001-04.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -79,17 +81,17 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Saint Ignatios the God-bearing</p>
+                <p>[Saint Gregory] the Theologian</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

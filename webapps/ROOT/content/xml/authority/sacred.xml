@@ -227,16 +227,16 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q140013</idno>                   
                 </person>
                 
-                <person xml:id="Barbara">
-                    <persName xml:lang="grc">Βαρβάρα</persName>
-                    <persName xml:lang="en">Barbara</persName>        
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q192816</idno>                   
-                </person>
-                
                 <person xml:id="Balaam">
                     <persName xml:lang="grc">Βαλαάμ</persName>
                     <persName xml:lang="en">Balaam</persName>               
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q574641</idno>                   
+                </person>
+                
+                <person xml:id="Barbara">
+                    <persName xml:lang="grc">Βαρβάρα</persName>
+                    <persName xml:lang="en">Barbara</persName>        
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q192816</idno>                   
                 </person>
                 
                 <person xml:id="Barnabas">
@@ -858,6 +858,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q743246</idno>                   
                 </person>
                 
+                <person xml:id="Kyriake">
+                    <persName xml:lang="grc">Κυριακή</persName>
+                    <persName xml:lang="en">Kyriake</persName>     
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q451143</idno>                   
+                </person>
+                
                 <person xml:id="Kyros">
                     <persName xml:lang="grc">Κῦρος</persName>
                     <persName xml:lang="en">Kyros</persName>
@@ -1186,6 +1192,12 @@
                     <persName xml:lang="grc">Φλῶρος</persName>
                     <persName xml:lang="en">Phloros</persName> 
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2333926</idno>                   
+                </person>
+                
+                <person xml:id="Phokas">
+                    <persName xml:lang="grc">Φωκᾶς</persName>
+                    <persName xml:lang="en">Phokas</persName>   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q943937</idno>                   
                 </person>
                 
                 <person xml:id="Photios">

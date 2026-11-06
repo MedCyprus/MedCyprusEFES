@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Prelate, unidentified, scroll</title>
                 <author xml:id="tp">Theocharis Petrou</author> 
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -28,8 +29,9 @@
                                 <support>
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
-                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, first figure on the left</rs>
-                                    <dimensions><height>n/a</height></dimensions>
+                                    <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, first figure from the left</rs>
+                                    <dimensions unit="cm" scope="text"><width>13</width></dimensions>
+                                      <dimensions unit="cm" scope="scroll"><height>36.5</height><width>13.5</width></dimensions>
                                     </support>
                             </supportDesc>
                             <layoutDesc>
@@ -37,11 +39,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black majuscule letters against green background. Systematic use of triangular serifs.Text between double-ruled white lines. Letter height: <height unit="cm">2.5-3.5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING                                
+                            <p><rs type="iconography" ref="#unidentified_figure">Prelate, unidentified</rs>                     
+                                  <rs type="iconography" ref="#prelate"></rs>
+                                  <rs type="iconography" ref="#male"></rs>       
+                                <rs type="iconography" ref="#scroll"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -61,7 +66,8 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc24">PENDING. quotation, source unknown</term>
+                    <term type="textType" ref="text_types.xml#doc24">quotation, source unknown</term>
+                    <term type="textType" ref="text_types.xml#doc8">quotation, liturgical (?)</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>

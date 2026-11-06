@@ -49,7 +49,7 @@
                     
                     <bibl xml:id="Bakirtzis2022"><author><surname>Bakirtzis</surname><forename> Ch.</forename></author>, <date>2022</date>, <title level="a">Ἀσύμμετρο ἢ σύμμετρο; Ὁ Ἅγιος Νικόλαος τῆς Στέγης στὴν Κακοπετρία</title>, in <title level="m">Πρακτικά συνεδρίου στη μνήμη  του Άγγελου Δεληβορριά</title>, ed. <editor><forename>S. </forename><surname>Vlizos</surname></editor>, <pubPlace>Athens</pubPlace>,<biblScope unit="page"> 171-81</biblScope>.</bibl>
                     
-                    <bibl xml:id="Bakirtzis2019"><author><surname>Bakirtzis</surname><forename> N.</forename></author>, <date>2019</date>, <title level="a">Revisiting the Monastic Legacy of Saint Sozomenos near Potamia</title>, in <title level="m">The Art and Archaeology of Lusignan and Venetian Cyprus (1192-1571). Recent Research and New Discoveries</title>, ed. <editor><forename>M. </forename><surname>Olympios</surname></editor> and<editor><forename>M.</forename> <surname>Parani</surname></editor>, <pubPlace>Turnhout</pubPlace>,<biblScope unit="page"> 83-100</biblScope>.</bibl>
+                    <bibl xml:id="Bakirtzis2019"><author><surname>Bakirtzis</surname><forename> N.</forename></author>, <date>2019</date>, <title level="a">Revisiting the Monastic Legacy of Saint Sozomenos near Potamia</title>, in <title level="m">The Art and Archaeology of Lusignan and Venetian Cyprus (1192-1571). Recent Research and New Discoveries</title>, ed. <editor><forename>M. </forename><surname>Olympios</surname></editor> and <editor><forename>M.</forename> <surname>Parani</surname></editor>, <pubPlace>Turnhout</pubPlace>,<biblScope unit="page"> 83-100</biblScope>.</bibl>
                     
                     <bibl xml:id="Bardswell1938-1939"><author><surname>Bardswell</surname> <forename>M.</forename></author>, <date>1938-1939</date>, <title level="a">A Visit to Some of the Maronite Villages of Cyprus</title>, <title level="j">Eastern Churches Quarterly</title> <biblScope unit="volume">3</biblScope>, <biblScope unit="page">304-08</biblScope>.</bibl>
                     
@@ -104,6 +104,8 @@
                     <bibl xml:id="Foulias2008"><author><surname>Foulias</surname> <forename>A.</forename></author>, <date>2008</date>, <title level="a">Ο ναός της Αγίας Παρασκευής. Αρχιτεκτονική και πρώιμη διακόσμηση</title>, in <title level="m">Γεροσκήπου. Από την αρχαιότητα μέχρι σήμερα</title>, ed. <editor><forename>Ch. </forename><surname>Andreou</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">61-72</biblScope>.</bibl>
                     
                     <bibl xml:id="Foulias2010"><author><surname>Foulias</surname> <forename>A.</forename></author>, <date>2010</date>, <title level="a">Ανεικονικός διάκοσμος και μια πρώιμη βυζαντινή επιγραφή από τον ναό της Αγίας Αθανασίας στο Ριζοκάρπασο</title>, <title level="j">Βυζαντινά</title> <biblScope unit="volume">30</biblScope>, <biblScope unit="page">203-29</biblScope>.</bibl>
+                    
+                    <bibl xml:id="Foulias2019"><author><surname>Foulias</surname> <forename>A.</forename></author>, <date>2016-2017</date>, <title level="a">Νέα στοιχεία για τον ναό της Παναγίας της Κυράς στα Λειβάδια Αμμοχώστου</title>, <title level="j">ΚΣ</title> <biblScope unit="volume">78-79</biblScope>, <biblScope unit="page">831-42</biblScope>.</bibl>
                     
                     <bibl xml:id="Foulias2017"><author><surname>Foulias</surname> <forename>A.</forename></author>, <date>2017</date>, <title level="a">Μνημειακή εντοίχια ζωγραφική στην Καρπασία κατά τον 8ο-10ο αιώνα</title>, in <title level="m">Karpasia. Πρακτικά Β' Επιστημονικού Συνεδρίου 19 Ιουνίου 2011</title>, ed. <editor><forename>P. </forename><surname>Papageorgiou</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">369-92</biblScope>.</bibl>
                     
@@ -165,8 +167,6 @@
                     
                     <bibl xml:id="Kappas2009"><author><surname>Kappas</surname><forename> M.</forename></author>, <date>2009</date>, <title level="u">Η εφαρμογή του σταυροειδούς εγγεγραμμένου στη Μέση και την Ύστερη Βυζαντινή Περίοδο: το παράδειγμα του απλού τετρακιόνιου / τετράστυλου</title>, 2 vols,  <pubPlace>Thessalonike</pubPlace>, available: <ref>https://www.didaktorika.gr/eadd/handle/10442/28554</ref>.</bibl>
                     
-                    <bibl xml:id="Karouzes1982"><author><surname>Karouzes</surname> <forename>G.</forename></author>, <date>1982</date>, <title level="m">Θεμοκρήνη (ένας οικισμός που δεν υπάρχει πια) και Κατακόμβη της Παναγίας της Χρυσοσπηλιώτισσας</title>, <pubPlace>Pano Arodes</pubPlace>. </bibl>
-                    
                     <bibl xml:id="Klerides2015"><author><surname>Klerides</surname> <forename>N.</forename></author>, <date>2015</date>, <title level="m">Μοναστήρια στην Κύπρο. Θρύλοι και παραδόσεις</title>, 3rd ed., <pubPlace>Nicosia</pubPlace>.</bibl>   
                     
                     <bibl xml:id="Kokkinoftas2000"><author><surname>Kokkinoftas</surname> <forename>K.</forename></author>, <date>2000</date>, <title level="a">Τα μοναστήρια της Ιεράς Μητροπόλεως Μόρφου</title>, in <title level="m">Ιερά Μητρόπολις Μόρφου. 2000 Χρόνια Τέχνης και Αγιότητος</title>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">179-92</biblScope>.</bibl>
@@ -176,6 +176,8 @@
                     <bibl xml:id="Konstantinidi2008"><author><surname>Konstantinidi</surname> <forename>Ch.</forename></author>, <date>2008</date>, <title>O μελισμός. Οι συλλειτουργούντες ιεράρχες και οι άγγελοι-διάκονοι μπροστά στην Αγία Τράπεζα με τα Τίμια Δώρα ή τον Ευχαριστιακό Χριστό</title>, <pubPlace>Thessalonike</pubPlace>.</bibl>
                     
                     <bibl xml:id="Konstantinidi2018"><author><surname>Konstantinidi</surname> <forename>Ch.</forename></author>, <date>2018</date>, <title level="a">Byzantine Painting in the Church of the Panagia tou Arakos</title>, in <title level="m">The Church of Panagia tou Arakos</title>, ed. <editor><forename>A.</forename> <surname>Papageorgiou</surname></editor>, <editor><forename>Ch.</forename> <surname>Bakirtzis</surname></editor>, and <editor><forename>Ch.</forename> <surname>Hadjichristodoulou</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">49-88</biblScope>.</bibl>
+                    
+                    <bibl xml:id="Korol2000"><author><surname>Korol</surname> <forename>D.</forename></author>, <date>2000</date>, <title level="a">Die spätantik-christlichen Wand- und Gewölbemosaiken Zyperns (5.-7. Jh.) und ihre neuere Geschichte</title>, in <title level="m">TZypern. Insel im Brennpunkt der Kulturen</title>, ed. <editor><forename>S.</forename> <surname>Rogge</surname></editor>, <pubPlace>Münster</pubPlace>, <biblScope unit="page">159-201</biblScope>.</bibl>
                     
                     <bibl xml:id="Kotoula2007"><author><surname>Kotoula</surname> <forename>D.</forename></author>, <date>2007</date>, <title level="a">The Decoration of the Burial Chapel of the Founder in the Byzantine Monastery. Charity and the Quest for Posthumous Salvation: The Case of the Koutsovendis and the Pammakaristos Chapels</title>, in <title level="m">The Kindness of Strangers. Charity in the Pre-Modern Mediterranean</title>, ed. <editor><forename>D.</forename> <surname>Stathakopoulos</surname></editor>, <pubPlace>London</pubPlace>, <biblScope unit="page">49-69</biblScope>.</bibl>
                    
@@ -200,6 +202,8 @@
                     <bibl xml:id="MangoHawkinsBoyd1990"><author><surname>Mango</surname> <forename>C.</forename></author>, <author><surname>Hawkins</surname> <forename>E. J. W.</forename></author>, and <author><surname>Boyd</surname> <forename>S.</forename></author>, <date>1990</date>, <title level="a">The Μonastery of St. Chrysostomos at Koutsovendis (Cyprus) and Its Wall Paintings. Part I: Description</title>, <title level="j">DOP</title> <biblScope unit="volume">44</biblScope>, <biblScope unit="page">63-94</biblScope>, DOI: <ref>https://doi.org/10.2307/1291618</ref>.</bibl>
                     
                     <bibl xml:id="MegawHawkins1962"><author><surname>Megaw</surname> <forename>A. H. S.</forename></author>and <author><surname>Hawkins</surname> <forename>E. J. W.</forename></author>, <date>1962</date>, <title level="a">The Church of the Holy Apostles at Perachorio, Cyprus, and Its Frescoes</title>, <title level="j">DOP</title> <biblScope unit="volume">16</biblScope>, <biblScope unit="page">277-348</biblScope>, DOI: <ref>https://doi.org/10.2307/1291165</ref>.</bibl>
+                    
+                    <bibl xml:id="MegawHawkins1971"><author><surname>Megaw</surname> <forename>A. H. S.</forename></author> and <author><surname>Hawkins</surname> <forename>E. J. W.</forename></author>, <date>1971</date>, <title level="a">A Fragmentary Mosaic of Cyprus</title>, in <title level="m">Actes du XIVe Congrès International des Études Byzantines, Bucharest 1971</title>, <pubPlace>Bucharest</pubPlace>, <biblScope unit="volume">III</biblScope>, <biblScope>363-66</biblScope>. Published 1976.</bibl>
                     
                     <bibl xml:id="MegawHawkins1977"><author><surname>Megaw</surname> <forename>A. H. S.</forename></author> and <author><surname>Hawkins</surname> <forename>E. J. W.</forename></author>, <date>1977</date>, <title level="a">The Church of the Panagia Kanakaria at Lythrankomi in Cyprus. Its Mosaics and Frescoes</title>, <pubPlace>Washington, DC</pubPlace>.</bibl>
                     
@@ -308,11 +312,11 @@
                     
                     <bibl xml:id="Philotheou2010"><author><surname>Philotheou</surname> <forename>G.</forename></author>, <date>2010</date>, <title level="a">Η εκκλησία της Παναγίας της Γαλόκτιστης στον Πύργο Τηλλυρίας</title>, in <title level="m">Τηλλυρία: Μνήμες, Ιστορία και Αρχαιολογία (Πρακτικά Συνεδρίου)</title>, ed.<editor> <forename>S.</forename> <surname>Perdikis</surname></editor>, <pubPlace>Nicosia</pubPlace>, <biblScope unit="page">97-120</biblScope>.</bibl>             
                     
-                    <bibl xml:id="Philotheou2021"><author><surname>Philotheou</surname> <forename>G.</forename></author>, <date>2021</date>, <title level="a">Σπάραγμα τοιχογραφίας με τον Άγιο Θεοσέβιο Αρσινοΐτη</title>, in <author><forename>A.</forename> <surname>Foulias</surname></author> and<author><forename>C. </forename><surname>Hadjichristodoulou</surname></author>, <title level="m">Εκκλησιαστικά μνημεία της Πόλης Χρυσοχούς</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
+                    <bibl xml:id="Philotheou2021"><author><surname>Philotheou</surname> <forename>G.</forename></author>, <date>2021</date>, <title level="a">Σπάραγμα τοιχογραφίας με τον Άγιο Θεοσέβιο Αρσινοΐτη</title>, in <author><forename>A.</forename> <surname>Foulias</surname></author> and <author><forename>C. </forename><surname>Hadjichristodoulou</surname></author>, <title level="m">Εκκλησιαστικά μνημεία της Πόλης Χρυσοχούς</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
                     
                     <bibl xml:id="Procopiou2007"><author><surname>Procopiou</surname> <forename>E.</forename></author>, <date>2007</date>, <title level="m">O συνεπτυγμένος σταυροειδής εγγεγραμμένος ναός στην Κύπρο (9ος-12ος αιώνας)</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
                     
-                    <bibl xml:id="Procopiou2014"><author><surname>Procopiou</surname> <forename>E.</forename></author>, <date>2014</date>, <title level="a">Η αρχιτεκτονική του ναού της Παναγίας Κοφίνου</title>, in <title level="m">Ευμάθιος Φιλοκάλης. Ανάδειξη βυζαντινών μνημείων Κρήτης και Κύπρου</title>, ed. <editor><forename>E. </forename><surname>Procopiou</surname></editor>and <editor><forename>N.</forename> <surname>Pyrrou</surname></editor> <pubPlace>Rethymno</pubPlace>, <biblScope unit="page">220-39</biblScope>.</bibl>
+                    <bibl xml:id="Procopiou2014"><author><surname>Procopiou</surname> <forename>E.</forename></author>, <date>2014</date>, <title level="a">Η αρχιτεκτονική του ναού της Παναγίας Κοφίνου</title>, in <title level="m">Ευμάθιος Φιλοκάλης. Ανάδειξη βυζαντινών μνημείων Κρήτης και Κύπρου</title>, ed. <editor><forename>E. </forename><surname>Procopiou</surname></editor>and  <editor><forename>N.</forename> <surname>Pyrrou</surname></editor>, <pubPlace>Rethymno</pubPlace>, <biblScope unit="page">220-39</biblScope>.</bibl>
                     
                     <bibl xml:id="Procopiou2017"><author><surname>Procopiou</surname> <forename>E.</forename></author>, <date>2017</date>, <title level="a">Η νεότερη έρευνα σε βυζαντινά μνημεία της Ιεράς Μητρόπολης Τριμμυθούντας 2009-2010</title>, in <title level="m">Κτίτωρ. Αφιέρωμα στον δάσκαλο Γεώργιο Βελένη</title>, eds. <editor><forename>Y.</forename> <surname>Varalis</surname></editor> and <editor><forename>F.</forename> <surname>Karagianni</surname></editor>, <pubPlace>Thessaloniki</pubPlace>, <biblScope unit="page">277-87</biblScope>.</bibl>
                     
@@ -423,6 +427,8 @@
                     
                     <bibl xml:id="WinfieldWinfield2003"><author><surname>Winfield</surname> <forename>D.</forename></author>and <author><surname>Winfield</surname> <forename>J.</forename></author>, <date>2003</date>, <title level="m">The Church of the Panaghia tou Arakos at Lagoudhera, Cyprus: The Paintings and Their Painterly Significance</title>, <pubPlace>Washington, DC</pubPlace>. </bibl>
                     
+                    <bibl xml:id="Xenakiforthcoming"><author><surname>Xenaki</surname> <forename>M.</forename></author>, <date>forthcoming</date>, <title level="a">The Painted Inscriptions of the late 13th-century phase of the Church of the Transfiguration at Sotera (Famagusta District)</title>, in <title level="m">The Church of the Transfiguration at Sotera (Famagusta District) in Context: History – Architecture – Murals</title>, ed. <editor><forename>M.</forename><surname>Parani</surname></editor> and <editor><forename>G.</forename> <surname>Philotheou</surname></editor><!--, <pubPlace>TBA</pubPlace>, <biblScope unit="page">TBA</biblScope>-->.</bibl>
+                    
                     <bibl xml:id="Zarras2010"><author><surname>Zarras</surname> <forename>N.</forename></author>, <date>2010</date>, <title level="m">The Church of the Holy Cross at Pelendri</title>, <pubPlace>Nicosia</pubPlace>.</bibl>
                     
                 </listBibl>  
@@ -441,6 +447,8 @@
             <bibl copyOf="#Chotzakoglou2010a"></bibl>
             
             <bibl copyOf="#Foulias2010"></bibl>
+            
+            <bibl copyOf="#Foulias2019"></bibl>
             
             <bibl copyOf="#FouliasHadjichristodoulou2019"></bibl>
             

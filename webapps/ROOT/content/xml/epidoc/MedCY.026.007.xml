@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Melismos (Fraction), deacon angel</title>
+                <title>Melismos (Fraction), archangel(?) as deacon</title>
                 <author xml:id="tp">Theocharis Petrou</author> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -33,15 +34,17 @@
                                     </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Between the wing of the southern flying angel and the head of the deacon</layout>
+                                <layout>To the left of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. White majuscule letters against blue background.
+                            <handNote>White majuscule letters against blue background. AP joined in ligature. Letter height: <height unit="cm">3-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING                                
+                            <p><rs type="iconography" ref="#Melismos">Melismos, archangel as deacon</rs>           
+                                <rs type="iconography" ref="#archangel"></rs>
+                                <rs type="iconography" ref="#liturgical"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -75,14 +78,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><hi rend="ligature"><choice><orig>α</orig><reg>ἀ</reg></choice>ρ</hi>χ</abbr><ex>άγγελος</ex></expan></w> 
                 </ab>
             </div>
             <div type="apparatus">
                 <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Ruler angel of the Lord</p>
+                <p>The archangel</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>

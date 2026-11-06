@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Melismos (Fraction), Christ Child lying on the Diskarion</title>
+                <title>Melismos (Fraction), Christ Child lying on the paten</title>
                 <author xml:id="tp">Theocharis Petrou</author> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Black majuscule letters against white background.
+                            <handNote>Black majuscule letters against white background.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING                                
+                            <p><rs type="iconography" ref="#Melismos">Melismos, Christ Child lying on the paten</rs>      
+                              <rs type="iconography" ref="#ChristChild"></rs>
+                               <rs type="iconography" ref="#liturgical"></rs> 
                             </p>
                         </decoDesc>
                     </physDesc>

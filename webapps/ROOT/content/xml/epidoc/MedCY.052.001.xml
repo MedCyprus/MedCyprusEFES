@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Archangel Gabriel</title>
+                <title>Virgin</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -27,35 +27,32 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semidome</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Above the archangel's head, on the south</layout>
+                                <layout>On either side of the Virgin's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Gabriel">Archangel Gabriel</rs>
-                                   <rs type="iconography" ref="#archangel"></rs>
-                                   <rs type="iconography" ref="#genderless"></rs>
-                                <rs type="iconography" ref="#dressantique"></rs>
-                            </p>
+                            <p><rs type="iconography" ref="#VirginBlachernitissa">Virgin Blachernitissa</rs>
+                                   <rs type="iconography" ref="#female"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Rizokarpaso">Rizokarpaso, Saint Mavra</origPlace>
-                            <origDate notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</origDate>
+                            <origPlace ref="locations.xml#Rizokarpaso" n="1st">Rizokarpaso, Saint Mavra</origPlace>
+                            <origDate notBefore="1101" notAfter="1300" precision="medium" evidence="artistic-style">12th or 13th century</origDate>
                         </origin>
-                        <provenance when="2022">
-                        </provenance>    
-                        <provenance type="observed"></provenance>
+                        <provenance>n/a</provenance>    
+                        <provenance type="not-observed">
+                        </provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -63,34 +60,35 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">caption</term>
+                    <term type="textType" ref="text_types.xml#doc9">nomina sacra</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou), publication</creation>
+            <creation>transcription (Th. Petrou), archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+         <graphic rend="primary" url="052-001-01.jpg"><desc>(© Department of Antiquities, Cyprus)</desc></graphic>        
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+              <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><supplied reason="lost"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></supplied></w>
+                    <milestone unit="column"/> <expan><abbr rend="supraline">Θ</abbr><supplied reason="lost"><ex>εο</ex><abbr rend="supraline">ῦ</abbr></supplied></expan></persName>   
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Archangel Gabriel</p>
+                <p>[Mother] of God</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

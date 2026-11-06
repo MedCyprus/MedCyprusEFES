@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint John Chrysostom</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. Wavy, horizontal mark above the abbreviation.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#JohnChrysostom">John Chrysostom</rs>
+                            <rs type="iconography" ref="#prelate"></rs>
+                            <rs type="iconography" ref="#male"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -78,7 +81,15 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <cb n="a"/>
+                   <lb n="1"/><supplied reason="lost">Ὁ </supplied>
+                   <lb n="2"/><persName type="sacred" key="JohnChrysostom"><w lemma="ἅγιος"><supplied reason="lost">ἅ
+                    <lb n="3" break="no"/>γι
+                     <lb n="4" break="no"/>ο
+                     <lb n="5" break="no"/>ς</supplied></w>                
+                       <cb n="a"/>
+                       <lb n="1"/><name type="forename" nymRef="#Ἰωάννης"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>  
+                       <lb n="2"/><addName type="epithet" key="Chrysostom"><supplied reason="lost">Χρυσόστομος</supplied></addName></persName>
                  </ab>
             </div>
             <div type="apparatus">

@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. The letters are scattered on each side and in-between the cross arms. Letters between the cross arms are written in majuscule and those on the lower level are both in majuscule and minuscule. Most of them are abbreviations having the line above them. The thickness of the letters in some points varies. The lower register combines Greek and Latin characters both in majuscule and minuscule. Letter height: <height unit="cm">4-14.5</height>
+                            <handNote>Black letters against white background. Majuscule characters. The thickness and size of the letters varies. Phi with a round bowl and a stem that becomes thick at the base. Elongated, rounded sigma, with upper and lower terminals curving outwards to the right. Elongated, rounded epsilon, with upper and lower terminals curving outwards to the right and a hook-shaped bar attached to the upper curve. Wavy lines above most abbreviations; straight lines above ΦΧ|ΦΠ. Letter height: <height unit="cm">4-14.5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -86,12 +86,10 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><milestone unit="column" n="left"/><expan><abbr>Φ</abbr><ex>ῶς</ex></expan> <persName type="divine" key="Christ"><expan><abbr>Χ</abbr><ex>ριστού</ex></expan></persName> <persName type="divine" key="JesusChrist"><expan><abbr>Ι</abbr><ex>ησοῦ</ex>ς </expan> </persName>
-                    <lb n="2"/><milestone unit="column" n="right"/><expan><abbr>Χ</abbr><ex>ριστὸ</ex>ς </expan><expan><abbr>Φ</abbr><ex>αίνει</ex> </expan><expan><abbr>Π</abbr><ex>άσι</ex></expan>
-                    <lb n="3"/><milestone unit="column" n="left"/><supplied reason="lost"><expan><abbr>Ē</abbr><ex>λένη</ex></expan></supplied> <expan><abbr>Ē</abbr><ex>ὕρεν</ex> </expan>
-                    <lb n="4"/><milestone unit="column" n="right"/><expan><abbr>Ē</abbr><ex>λέους</ex></expan><expan> <abbr>Ē</abbr><ex>ρεισμα</ex></expan>
-                    <lb n="5"/><milestone unit="column" n="left"/> <expan><abbr>Ν</abbr><ex>ι</ex></expan>
-                    <lb n="6" break="no"/><milestone unit="column" n="right"/>Κᾶ 
+                    <lb n="1"/><expan><abbr>Φ</abbr><ex>ῶς</ex></expan> <persName type="divine" key="Christ"><expan><abbr>Χ</abbr><ex>ριστού</ex></expan></persName> <persName type="divine" key="JesusChrist"><expan><abbr>Ι</abbr><ex>ησοῦ</ex></expan>ς</persName> <milestone unit="column" n="right"/><expan><abbr>Χ</abbr><ex>ριστὸ</ex>ς </expan><expan><abbr>Φ</abbr><ex>αίνει</ex> </expan><expan><abbr>Π</abbr><ex>άσι</ex></expan>
+                    <lb n="2"/><supplied reason="lost"><expan><abbr rend="supraline">Ε</abbr><ex>λένη</ex></expan></supplied> <expan><abbr rend="supraline">Ε</abbr><ex>ὕρεν</ex> </expan> <expan><abbr rend="supraline">Ε</abbr><ex>λέους</ex></expan><expan> <abbr rend="supraline">Ε</abbr><ex>ρεισμα</ex></expan> 
+                    <milestone unit="column" n="right"/><persName type="divine" key="SonOfGod"><expan><abbr rend="supraline">Υ</abbr><ex>ἱὸ</ex><abbr rend="supraline"><supplied reason="lost">ς</supplied></abbr></expan> <expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>
+                    <lb n="3"/><expan><abbr>Ν</abbr><ex>ι</ex></expan> <milestone unit="column" n="right"/>Κᾶ 
                 </ab>
             </div>
             <div type="apparatus">

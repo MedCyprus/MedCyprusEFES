@@ -360,7 +360,7 @@
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>349-50</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>263-68</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Soteriou1937"/><citedRange> 42-43, fig. 32, pl. 36b</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Soteriou1935"/><citedRange> 42-43, fig. 32, pl. 36b</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Enlart1987"/><citedRange> 336-37</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1998, 26</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 50</citedRange></bibl> 
@@ -649,8 +649,8 @@
                         <desc type="layer" n="2">2nd layer: <date notBefore="1101" notAfter="1150" precision="medium" evidence="artistic-style">first half of 12th century</date> (western porch)</desc>                    </desc>
                     <desc type="conservation">Very fragmentary; poorly preserved. Fragments of painted plaster revealed during excavations are kept in the <ref target="#ArsinoeMuseum">Archaeological Museum of Marion-Arsinoe</ref>. Conservation/cleaning:  2011, 2013, 2015 (DAC?)</desc>
                     <desc type="donors">Unknown</desc>
-                    <desc type="painter">Unknwon</desc>
-                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Gagoshidze2014a"/><citedRange>90-93</citedRange></bibl></desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence confirmed<bibl><ptr target="bibliography.xml#Gagoshidze2014a"/><citedRange>90-93</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0052.html</idno>
                     <idno type="HGC">https://cyprusgazetteer.org/hu/749/</idno>
                     <idno type="geonames">https://www.geonames.org/maps/google_35.0895_32.555.html</idno>
@@ -1575,9 +1575,9 @@
                     <desc type="context"><term>Village fringe</term></desc>
                     <desc type="architectural">Domed pier cross-in-square church, built over the nave of an Early Byzantine basilica and incorporating its eastern central apse; domed narthex added during the 12th century to the west; exonarthex and western porch added subsequently (15th/16th century)</desc>
                     <desc type="mural">
-                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1150" precision="medium" evidence="artistic-style">first half of 12th century</date> (bema)</desc>
+                        <desc type="layer" n="1"><date notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style" source="bibliography.xml#Chotzakoglou2005">12th century</date>, or <date notBefore="1301" notAfter="1400" precision="medium" evidence="artistic-style" source="bibliography.xml#Foulias2006">14th century</date> (bema)</desc>
                     </desc>
-                    <desc type="conservation">Fragmentary; poor state of preservation. Conservation/cleaning: - </desc>
+                    <desc type="conservation">Fragmentary; present state unknown as the monument remains inaccessible. Conservation/cleaning: - </desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -1925,7 +1925,7 @@
                     <desc type="construction"><date notBefore="1095" notAfter="1106" precision="low"> ca 1105/6, with subsequent additions</date></desc>
                     <desc type="function"><term>Monastic</term></desc>
                     <desc type="context"><term>Rural</term></desc>
-                    <desc type="architectural">Single-aisled, barrel-vaulted church, with a second, timber gable roof; an apsidal narthex with a domical vault was subseqently added to the west (mid- to late 12th century)</desc>
+                    <desc type="architectural">Single-aisled, barrel-vaulted church, with a second, timber gable roof; an apsidal narthex with a domical vault was subsequently added to the west (mid- to late 12th century)</desc>
                     <desc type="mural">
                         <desc type="layer" n="1">1st layer: <date when="1105" evidence="internal-date">1105/6</date> (bema; naos: west bay; narthex: above entrance into the naos, originally exterior of west wall; exterior of north wall)</desc>
                         <desc type="layer" n="2">2nd layer: <date notBefore="1175" notAfter="1200" precision="medium" evidence="artistic-style">last quarter of 12th century</date> (narthex: south apse; east wall on either side of door into naos)</desc>
@@ -1939,7 +1939,7 @@
                     <desc type="conservation">Fragmentary; very good state of preservation. Conservation/cleaning: 1954-1955 (DAC), 1965-1967 (Dumbarton Oaks), 1995-1996 (DAC)</desc>
                     <desc type="donors">
                         1st layer: the magistros Nikephoros Ischyrios (<ref target="MedCY.044.004.html">MedCY.044.004</ref>, <ref target="MedCY.044.053.html">MedCY.044.053</ref>, <ref target="MedCY.044.061.html">MedCY.044.061</ref>). The association of a female relation of the donor named Gefyra, mentioned in a funerary inscription (<ref target="MedCY.044.054.html">MedCY.044.054</ref>), to the foundation and decoration of the church remains unclear. 
-                        2nd layer: Nikephoros (son) of Kalleas <ref target="MedCY.044.104.html">MedCY.044.104</ref>, <ref target="MedCY.044.105.html">MedCY.044.105</ref>). 
+                        2nd layer: Nikephoros (son) of Kallias <ref target="MedCY.044.104.html">MedCY.044.104</ref>, <ref target="MedCY.044.105.html">MedCY.044.105</ref>). 
                         4th layer: Anastasia Saramalyna (<ref target="MedCY.044.107.html">MedCY.044.107</ref>); a Latin family, comprising of a woman and her two sons, funded the mural of the Virgin of Mercy in the conch of the south apse of the narthex (portrait; no inscription survives).
                         5th layer: the monk Theophilos and "the common people"; at least ten portraits of monks, including Theophilos, and lay men and women survive in the narthex, with their accompanying inscriptions.                    
                     </desc>
@@ -2461,6 +2461,7 @@
                         <bibl><ptr target="bibliography.xml#Kaffenberger2020"/><citedRange> 2: 422-24</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#EcclesMon"/><citedRange> 2: 628-39</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#MeyerFernandez2025"/><citedRange>180-83, 295-97, 303-11, cat.40 </citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Xenakiforthcoming"/></bibl>
                     </listBibl>
                 </place>
                 
@@ -2593,7 +2594,7 @@
                     <desc type="mural">
                         <desc type="layer" n="1">1st and 2nd layers, in quick succession: <date notBefore="1159" notAfter="1183" precision="medium" evidence="material-context written-evidence">1159/60 - 1183</date> (cell; on either side of the wall separating the cell from the bema)</desc>
                         <desc type="layer" n="3">3rd layer: <date when="1183" evidence="internal-date">1183</date> (bema; cell; tomb)</desc>
-                        <desc type="layer" n="4">4th layer: <date notBefore="1195" notAfter="1214" precision="low" evidence="written-evidence">ca 1195 (certainly prior to the death of Neophytos the Recluse in 1214)</date> (naos)</desc>
+                        <desc type="layer" n="4">4th layer: <date notBefore="1195" notAfter="1214" precision="low" evidence="written-evidence">ca 1195 (certainly prior to the death of Neophytos the Recluse around 1214)</date> (naos)</desc>
                         <desc type="layer" n="5">5th layer: <date notBefore="1495" notAfter="1505" precision="low" evidence="artistic-style">ca 1500</date> (narthex)</desc>
                         <desc type="layer" n="6">6th layer: <date when="1503" evidence="internal-date">1503 </date> (bema; naos)</desc>
                     </desc>
@@ -2840,6 +2841,46 @@
                     </listBibl>
                 </place>
                 
+                <place xml:id="Livadia" n="65">
+                    <placeName xml:lang="en">Livadia, Panagia Kyra</placeName>
+                    <placeName xml:lang="el">Λιβάδια, Παναγία Κυρά</placeName>
+                    <placeName type="district" ref="district.xml#famagusta">Famagusta</placeName>
+                    <placeName type="diocese" ref="diocese.xml#karpasia">Bishopric of Karpasia</placeName>
+                    <location><geo>35.40534, 34.02995</geo></location>
+                    <desc type="construction"><date notBefore="1001" notAfter="1200" precision="medium">11th or 12th century(?)</date></desc>
+                    <desc type="function"><term>Pilgrimage</term>(?)</desc>
+                    <desc type="context"><term>Village fringe</term></desc>
+                    <desc type="architectural">Free cross-plan church, incorporating the bema apse of an Early Byzantine basilica; western extension and south porch added in early modern times</desc>
+                    <desc type="mural">
+                        <desc type="layer" n="1"><date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</date> (bema; dome)</desc>
+                    </desc>
+                    <desc type="conservation">Fragmentary; poor state of preservation; apse mural and mosaic destroyed after 1974. Conservation/cleaning: 1961 (DAC); 2026 (TCCH)</desc>
+                    <desc type="donors">Unknown</desc>
+                    <desc type="painter">Unknown</desc>
+                    <desc type="graffiti">Presence not verified</desc>
+                    <idno type="IBCC">https://ibcc.dighum.kcl.ac.uk/entries/b0073.html</idno>
+                    <idno type="HGC">https://cyprusgazetteer.org/146370/200/</idno>
+                    <idno type="geonames">https://www.geonames.org/19598/panagia-tis-kyras.html</idno>
+                    <listBibl type="inscriptions">
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>425</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Foulias2016-17"/><citedRange>838, 839</citedRange></bibl>
+                    </listBibl>
+                    <listBibl type="monument">
+                        <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>250</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Soteriou1935"/><citedRange>>34 fig. 23, pls 34, 35a</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>328</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1961, 13</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MegawHawkins1971"/><citedRange>363-66</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Stylianou1997"/><citedRange>52</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 53</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Korol2000"/><citedRange>193-97</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>424-25</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou2010"/><citedRange>222-29</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#MKE"/><citedRange>10: 225-26</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Foulias2019"/><citedRange>831-42</citedRange></bibl>
+                    </listBibl>
+                </place>
+                
                 
                 <!--<place xml:id="Kivotos"> <!-\- excluded because there are no surviving inscriptions -\->
                     <placeName xml:lang="en">Agios Theodoros, Panagia Kivotos</placeName>
@@ -2921,6 +2962,15 @@
                     <location><geo>34.9837943030975, 32.74120505183693</geo></location>
                     <!-- <idno type="wikidata"></idno> -->
                     <bibl><ref type="website">https://kykkos-museum.org.cy/</ref></bibl>
+                </place>
+                
+                <place xml:id="LarnacaMuseum" n="R6">
+                    <placeName xml:lang="en">Larnaca District Archaeological Museum</placeName>
+                    <placeName xml:lang="el">Αρχαιολογικό Μουσείο Επαρχίας Λάρνακας</placeName>
+                    <location><placeName>Larnaca</placeName></location>
+                    <location><geo>34.919144,33.633499</geo></location>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q6489690</idno>
+                    <bibl><ref type="website">https://www.culture.gov.cy/dmculture/DA/DA.nsf/DMLmuseums_en/DMLmuseums_en?OpenDocument</ref></bibl>
                 </place>
 
             </listPlace>

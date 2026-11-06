@@ -756,6 +756,9 @@
                 <item xml:id="Phloros">
                     <term xml:lang="en">Phloros</term>
                 </item>
+                <item xml:id="Phokas">
+                    <term xml:lang="en">Phokas</term>
+                </item>
                 <item xml:id="Photios">
                     <term xml:lang="en">Photios</term>
                 </item>
@@ -915,6 +918,9 @@
                 </item>
                 <item xml:id="VirginOrans">
                     <term xml:lang="en">Virgin Orans</term>
+                </item>
+                <item xml:id="VirginParaklesis">
+                    <term xml:lang="en">Virgin Paraklesis</term>
                 </item>
                 <item xml:id="Wife_Ioannes_1">
                     <term xml:lang="en">Wife of Ioannes, Kakopetria, St Nicholas of the Roof</term>
@@ -1124,6 +1130,9 @@
                 </item>
                 <item xml:id="sphere">
                     <term xml:lang="en">Sphere</term>
+                </item>
+                <item xml:id="veil_liturgical">
+                    <term xml:lang="en">Veil, liturgical</term>
                 </item>
             </list>
 

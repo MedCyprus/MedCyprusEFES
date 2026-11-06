@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint Paul, scroll</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -29,7 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwest pilaster, north face, lower register</rs>
-                                    <dimensions><height>PENDING</height></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>41</height><width>15</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>52</height><width>18.5</width></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
@@ -37,11 +39,15 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>Black majuscule letters against ochre background. Character size varies. Systematic use of triangular serifs. Mu with the central strokes reminiscent of an upsilon on a crossed stem. OY, HM, ΠΗ, ΠΡ, and ΗΝ joined in ligature. Horizontal abbreviation mark above KY, IY, XC, ΘΥ, ΠΡC, and ΠΝΟ. Text between single ruled lines. Letter height: <height unit="cm">3.5-4.5</height>    
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING</p>
+                            <p><rs type="iconography" ref="#Paul">Paul</rs>
+                            <rs type="iconography" ref="#apostle"></rs>
+                            <rs type="iconography" ref="#male"></rs>
+                            <rs type="iconography" ref="#martyr"></rs>
+                            <rs type="iconography" ref="#scroll"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

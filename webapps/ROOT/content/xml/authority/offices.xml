@@ -17,39 +17,46 @@
     <text>
         <body>
             
-            <list type="ecclesiastical_offices">
-                <head>Ecclesiastical Offices</head>
+            <list type="office-ecclesiastical">
+                <head>Ecclesiastical offices</head>
                 <item xml:id="hegoumenos"> 
                     <term xml:lang="en">abbot</term>
                     <term xml:lang="grc">ἡγούμενος</term>
-                </item>
+                </item></list>
+            
+            <list type="status-ecclesiastical">
+                <head>Ecclesiastical rank/status</head>
                 <item xml:id="hieromonachos"> 
                     <term xml:lang="en">hieromonk</term>
                     <term xml:lang="grc">ἱερομόναχος</term>
                 </item>
             </list>
             
-            <list type="secular_offices">
-                <head>Secular Offices</head>
+            <list type="office-secular">
+                <head>Secular offices</head>
                 <item xml:id="doux_Kyprou"> 
-                    <term xml:lang="en">dux of Cyprus</term>
+                    <term xml:lang="en">military governor of Cyprus</term>
                     <term xml:lang="grc">δούξ Κύπρου</term>
+                </item>
+                <item xml:id="emperor"> 
+                    <term xml:lang="en">emperor</term>
+                    <term xml:lang="grc">βασιλεύς</term>
                 </item>
             </list>
             
-            <list type="dignities">
+            <list type="dignity">
                 <head>Dignities</head>
                 <item xml:id="protistos_nobelisimon"> 
                     <term xml:lang="en">protonobelissimos</term>
                     <term xml:lang="grc">πρώτιστος νωβελλισίμων</term>
-                </item>
+                </item>            
                 <item xml:id="magistros"> 
                     <term xml:lang="en">magistros</term>
                     <term xml:lang="grc">μάγιστρος</term>
                 </item>
             </list>
             
-            <list type="honorifics">
+            <list type="honorific">
                 <head>Honorifics</head>
                 <item xml:id="something_else..."> 
                     <term xml:lang="en">...</term>
@@ -57,9 +64,8 @@
                 </item>
             </list>
             
-            <list type="occupations">
-                <head>Occupations</head>
-               
+            <list type="occupation">
+                <head>Occupations</head>               
                 <item xml:id="something_different..."> 
                     <term xml:lang="en">...</term>
                     <term xml:lang="grc">...</term>

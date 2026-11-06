@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Melismos (Fraction)</title>
                 <author xml:id="tp">Theocharis Petrou</author> 
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <author xml:id="mx">Maria Xenaki</author>
                 <editor xml:id="mgp">Maria G. Parani</editor>
             </titleStmt>
@@ -33,15 +34,16 @@
                                     </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>Between the two deacon angels, above the Holy Chalice</layout>
+                                <layout>Between the two deacon angels, above the chalice</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. White majuscule letters against blue background.
+                            <handNote>White majuscule letters against blue background.
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING                                
+                            <p><rs type="iconography" ref="#Melismos">Melismos</rs>      
+                              <rs type="iconography" ref="#liturgical"></rs>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +76,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   PENDING
+                   <lb n="1"/><supplied reason="lost">Ἡ</supplied> <w lemma="ἀναίμακτος"><supplied reason="lost">ἀναί</supplied>μακτος</w> 
+                   <lb n="2"/><w lemma="θυσία"><supplied reason="lost">θυσία</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">
