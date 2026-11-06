@@ -30,8 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, first figure on the right</rs>
-                                  <dimensions unit="cm" scope="text"><height>36</height><width>10,5</width></dimensions> 
-                                    <dimensions unit="cm" scope="scroll"><height>48</height><width>13,5</width></dimensions>  
+                                  <dimensions unit="cm" scope="text"><height>36</height><width>10.5</width></dimensions> 
+                                    <dimensions unit="cm" scope="scroll"><height>48</height><width>13.5</width></dimensions>  
                                 </support> 
                             </supportDesc>
                             <layoutDesc>

@@ -30,7 +30,7 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, middle register, right of the Virgin</rs>
-                                    <dimensions unit="cm" scope="text"><height>?</height><width>6,5</width></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>?</height><width>6.5</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>24</height><width>8</width></dimensions>
                                 </support>
                             </supportDesc>
@@ -39,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against white backgound. Letter height: <height unit="cm">1,5</height> 
+                            <handNote>Black majuscule letters against white backgound. Letter height: <height unit="cm">1.5</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>

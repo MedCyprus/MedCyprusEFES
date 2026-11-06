@@ -30,8 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, north half, lower register, first figure on the right</rs>
-                                    <dimensions unit="cm" scope="text"><height>46,5</height><width>12</width></dimensions>
-                                    <dimensions unit="cm" scope="scroll"><height>49,5</height><width>21</width></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>46.5</height><width>12</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>49.5</height><width>21</width></dimensions>
                                
                                 </support>
                             </supportDesc>
@@ -40,7 +40,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against white background. Delta is formed with a lambda on a bottom bar, with a serif to the left of its top bar. Omega with its apex surmounted by a crosslet. Mu with the central strokes reminiscent of an upsilon on a stem. OY and AP joined in ligature. Letter height: <height unit="cm">3,5</height>
+                            <handNote>Black majuscule letters against white background. Delta is formed with a lambda on a bottom bar, with a serif to the left of its top bar. Omega with its apex surmounted by a crosslet. Mu with the central strokes reminiscent of an upsilon on a stem. OY and AP joined in ligature. Letter height: <height unit="cm">3.5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>

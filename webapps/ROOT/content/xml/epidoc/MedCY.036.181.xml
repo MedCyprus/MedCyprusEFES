@@ -30,8 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, southwestern recess' soffit, west side, lower register</rs>
-                                    <dimensions unit="cm" scope="text"><height>29</height><width>13,5</width></dimensions>
-                                    <dimensions unit="cm" scope="scroll"><height>44</height><width>18,5</width></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>29</height><width>13.5</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>44</height><width>18.5</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -39,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                             <handNote>Black majuscule letters against white background. Character size varies. Systematic use of triangular serifs. Delta with a serif to the left of its top bar and a tail extending outward to the right. AN joined in ligature. Horizontal abbreviation mark above ΘC. Letter height: <height unit="cm">2-3,5</height>   
+                             <handNote>Black majuscule letters against white background. Character size varies. Systematic use of triangular serifs. Delta with a serif to the left of its top bar and a tail extending outward to the right. AN joined in ligature. Horizontal abbreviation mark above ΘC. Letter height: <height unit="cm">2-3.5</height>   
                             </handNote>
                         </handDesc>
                         <decoDesc>

@@ -30,8 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, first figure on the right</rs>
-                                  <dimensions unit="cm" scope="text"><height>30</height><width>11,5</width></dimensions> 
-                                    <dimensions unit="cm" scope="scroll"><height>41</height><width>13,5</width></dimensions>  
+                                  <dimensions unit="cm" scope="text"><height>30</height><width>11.5</width></dimensions> 
+                                    <dimensions unit="cm" scope="scroll"><height>41</height><width>13.5</width></dimensions>  
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
@@ -39,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against white background. HM, THN, and NN joined in ligature. Letter height: <height unit="cm">2,5-3</height>
+                            <handNote>Black majuscule letters against white background. HM, THN, and NN joined in ligature. Letter height: <height unit="cm">2.5-3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>

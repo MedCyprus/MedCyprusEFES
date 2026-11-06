@@ -30,7 +30,7 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#bema">Bema, west bay, curving wall, next to St. Pachomios</rs>
-                                    <dimensions unit="cm" scope="text"><height>30</height><width>9,5</width></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>30</height><width>9.5</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>?</height><width>11</width></dimensions>
                                 </support>
                             </supportDesc>
@@ -39,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against white backgound. Character size varies. Letter height: <height unit="cm">1,5-2</height>
+                            <handNote>Black majuscule letters against white backgound. Character size varies. Letter height: <height unit="cm">1.5-2</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>

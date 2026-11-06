@@ -30,7 +30,7 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#cell">Cell, north wall, beneath the Deesis</rs>
-                                     <dimensions unit="cm" scope="text"><height>35</height><width>15,5</width></dimensions>
+                                     <dimensions unit="cm" scope="text"><height>35</height><width>15.5</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>40</height><width>16</width></dimensions>
                                 </support>
                             </supportDesc>
@@ -39,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against grey background. Letter height: <height unit="cm">2,5-3</height>
+                            <handNote>Black majuscule letters against grey background. Letter height: <height unit="cm">2.5-3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>

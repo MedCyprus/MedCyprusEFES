@@ -31,7 +31,7 @@
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, north half, lower register, first figure from the right</rs>
                                     <dimensions unit="cm" scope="text"><height>42</height><width unit="cm">14</width></dimensions>
-                                    <dimensions unit="cm" scope="scroll"><height>47</height><width unit="cm">18,5</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>47</height><width unit="cm">18.5</width></dimensions>
                             </support>
                             </supportDesc>
                             <layoutDesc>

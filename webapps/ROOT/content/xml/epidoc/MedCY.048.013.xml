@@ -30,8 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#bema">Bema, apse, semicylindrical wall, south half, first figure on the left</rs>
-                                    <dimensions unit="cm" scope="text"><height>32,5</height><width>10,5</width></dimensions> 
-                                    <dimensions unit="cm" scope="scroll"><height>40</height><width>13,5</width></dimensions>  
+                                    <dimensions unit="cm" scope="text"><height>32.5</height><width>10.5</width></dimensions> 
+                                    <dimensions unit="cm" scope="scroll"><height>40</height><width>13.5</width></dimensions>  
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
@@ -39,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Balck and red majuscule letters against white background. Character size varies. OY, NH, and THN joined in ligature. Wavy, horizontal abbreviation mark above the characters ΘC. Letter height: <height unit="cm">2,5 – 3,5</height>
+                            <handNote>Balck and red majuscule letters against white background. Character size varies. OY, NH, and THN joined in ligature. Wavy, horizontal abbreviation mark above the characters ΘC. Letter height: <height unit="cm">2.5 – 3.5</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>

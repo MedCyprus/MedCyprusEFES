@@ -31,7 +31,7 @@
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#naos">Naos, west wall, lower register, next to St. Makarios, on the right</rs>
                                     <dimensions unit="cm" scope="text"><height>29</height><width>12</width></dimensions>
-                                    <dimensions unit="cm" scope="scroll"><height>35</height><width>14,5</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>35</height><width>14.5</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>
@@ -39,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against white background. Character size varies. Delta with a serif to the left of its top bar and a tail extending outward to the right. OY joined in ligature. Letter height: <height unit="cm">2,5</height>
+                            <handNote>Black majuscule letters against white background. Character size varies. Delta with a serif to the left of its top bar and a tail extending outward to the right. OY joined in ligature. Letter height: <height unit="cm">2.5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>

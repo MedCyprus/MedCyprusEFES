@@ -31,7 +31,7 @@
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
                                     <rs type="placement-building" ref="#bema">Bema, north recess, lunette, upper register</rs>
                                     <dimensions unit="cm" scope="text"><height>44</height><width unit="cm">12</width></dimensions>
-                                    <dimensions unit="cm" scope="scroll"><height>52</height><width unit="cm">15,5</width></dimensions>
+                                    <dimensions unit="cm" scope="scroll"><height>52</height><width unit="cm">15.5</width></dimensions>
                                 </support>
                             </supportDesc>
                             <layoutDesc>

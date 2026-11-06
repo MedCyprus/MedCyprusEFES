@@ -29,7 +29,7 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly damaged. Very fragmentary.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, iconostasis jamb, southeastern panel, west face</rs>
-                                    <dimensions unit="cm" scope="text"><height>10</height><width>5,5</width></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>10</height><width>5.5</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>12</height><width>12</width></dimensions>
                                 </support>
                             </supportDesc>

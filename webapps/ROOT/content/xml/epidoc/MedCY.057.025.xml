@@ -30,8 +30,8 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, east wall of the south conch of the original triconch, right</rs>
-                                    <dimensions unit="cm" scope="text"><height>13,5</height><width>8</width></dimensions> 
-                                    <dimensions unit="cm" scope="scroll"><height>17</height><width>11,5</width></dimensions>  
+                                    <dimensions unit="cm" scope="text"><height>13.5</height><width>8</width></dimensions> 
+                                    <dimensions unit="cm" scope="scroll"><height>17</height><width>11.5</width></dimensions>  
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
@@ -39,7 +39,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against white background. Character size varies. Omega formed of two linked oval bowls. Mu with the central strokes reminiscent of an upsilon on a crossed stem. TH, MH, and THN joined in ligature. Letter height: <height unit="cm">2,5-3</height>
+                            <handNote>Black majuscule letters against white background. Character size varies. Omega formed of two linked oval bowls. Mu with the central strokes reminiscent of an upsilon on a crossed stem. TH, MH, and THN joined in ligature. Letter height: <height unit="cm">2.5-3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>

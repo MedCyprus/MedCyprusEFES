@@ -29,7 +29,7 @@
                                     <rs type="inscription-support">
                                         <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#refectoryapse">Refectory apse, semicylindrical wall, south side, second figure from the left </rs>
-                                    <dimensions unit="cm" scope="text"><height>53,5</height><width unit="cm">17,5</width></dimensions>
+                                    <dimensions unit="cm" scope="text"><height>53.5</height><width unit="cm">17.5</width></dimensions>
                                     <dimensions unit="cm" scope="scroll"><height>60</height><width unit="cm">20</width></dimensions>
                                 </support> 
                             </supportDesc>
