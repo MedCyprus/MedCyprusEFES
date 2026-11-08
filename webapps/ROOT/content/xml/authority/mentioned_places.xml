@@ -54,6 +54,12 @@
                     <idno type="pleiades">https://pleiades.stoa.org/places/678106</idno>
                 </place>
                 
+                <place xml:id="LandoftheHomerites">
+                    <placeName xml:lang="grc">Χώρα τῶν Ὁμηριτῶν</placeName>
+                    <placeName xml:lang="en">LandoftheHomerites</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/39350</idno>
+                </place>
+                
                 <!--<place xml:id="Kaane">
                     <placeName xml:lang="grc">Καανή(;)</placeName>
                     <placeName xml:lang="en">Kaane(?)</placeName>
