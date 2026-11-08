@@ -115,6 +115,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43399</idno>                   
                 </person>
                 
+                <person xml:id="AndrewSalos">
+                    <persName xml:lang="grc">Ἀνδρέας</persName>
+                    <persName xml:lang="en">Andrew</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="AndrewSalos" key="Salos">ὁ Σαλός</persName>
+                    <persName xml:lang="en" type="epithet" subtype="AndrewSalos" key="Salos">the Fool (Salos)</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1094337</idno>                   
+                </person>
+                
                 <person xml:id="Andronikos">
                     <persName xml:lang="grc">Ἀνδρόνικος</persName>
                     <persName xml:lang="en">Andronikos</persName>
