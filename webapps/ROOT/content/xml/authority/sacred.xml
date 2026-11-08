@@ -104,6 +104,8 @@
                 <person xml:id="AnastasiaPharmakolytria">
                     <persName xml:lang="grc">Ἀναστασία</persName>
                     <persName xml:lang="en">Anastasia</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="AnastasiaPharmakolytria" key="Poison-curer">Φαρμακολύτρια</persName>
+                    <persName xml:lang="en" type="epithet" subtype="AnastasiaPharmakolytria" key="Poison-curer">Poison-curer (Pharmakolytria)</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q232975</idno>                   
                 </person>
                 
