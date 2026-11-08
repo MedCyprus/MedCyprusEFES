@@ -1389,6 +1389,8 @@
                 <person xml:id="Theodore"><!--Stratelates-->
                     <persName xml:lang="grc">Θεόδωρος</persName>
                     <persName xml:lang="en">Theodore</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theodore" key="Stratelates">ὁ Στρατηλάτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Theodore" key="Stratelates">Stratelates</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2363350</idno>                   
                 </person>
                 
