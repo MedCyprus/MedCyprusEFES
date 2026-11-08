@@ -45,7 +45,12 @@
                  <p> MedCyprus is a dynamic and evolving resource. We welcome your comments, corrections, and suggestions as we continue to develop and enrich the corpus. </p>
               </div>
 
-              
+              <p class="text-center">
+                <a href="https://www.ucy.ac.cy/hisarch/?lang=en">
+                  <img alt="Logo of University of Cyprus" style="width:30%;"
+                    src="{$kiln:assets-path}/images/UCyHistLogo.jpg"/>
+                </a>
+              </p>
             </div>
           </div>
         </div>
