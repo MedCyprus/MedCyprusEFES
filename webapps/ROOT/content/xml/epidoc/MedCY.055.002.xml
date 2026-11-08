@@ -25,17 +25,17 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved. Damaged. Exfoliated.</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, southeastern pilaster below the dome, north face, upper register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
                              <layoutDesc>
-                                <layout>The inscription appears on the open codex held in the left hand by the evangelist</layout>
+                                <layout>Οn the open codex held in the left hand by the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Text between two ochre-colored ruled lines. Majuscule letters. Iota with a star; round omicron. The abbreviation of the word Γένεσις is faded and exfoliated. Accents and breathings non systematic.   <height unit="cm"></height>
+                            <handNote>Black majuscule letters against white background. Character size varies. Iota with a cross-like element; round omicron; a cross with dots marks the beginning of the text. Systematic use of triangular serifs. Accents and breathings non systematic. Text between double, ochre-colored ruled lines. <height unit="cm"></height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -50,7 +50,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Sotira" n="4th">Sotira (Ammochostou), Transfiguration</origPlace>
-                            <origDate notBefore="1269" notAfter="1300" precision="medium" evidence="artistic-style material-context">Last third 13th century</origDate>
+                            <origDate notBefore="1269" notAfter="1300" precision="medium" evidence="artistic-style material-context">Last third of 13th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
@@ -66,11 +66,11 @@
                     <term type="textType" ref="text_types.xml#doc6">quotation, biblical</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou)</creation>
+            <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="055-002-01.JPG"><desc>Matthew' s gospel, inscription detail</desc></graphic>
+        <graphic rend="primary" url="055-002-01.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -78,20 +78,21 @@
                 <ab>
                     <lb n="1"/><g ref="#cross">+</g> <w lemma="βίβλος">Β<choice><orig>ι</orig><reg>ί</reg></choice>
                     <lb n="2" break="no"/>βλος</w>
-                    <lb n="3"/><w lemma="γένεσις"><expan><abbr>Γεν</abbr><ex>έσεως</ex></expan></w>
+                    <lb n="3"/><w lemma="γένεσις">Γεν<unclear>έ</unclear>
+                    <lb n="4" break="no"/><supplied reason="lost">σεως</supplied></w>
                 </ab>
             </div>
             <div type="apparatus">
                 <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Book of the birth of Jesus Christ</p>
+                <p>The book of the genealogy of [Jesus Christ]</p>
             </div>
             <div type="commentary">
-                <p>The verse is taken from the Matthew's gospel (Matt. 1:1). </p>
+                <p>Matt. 1:1 </p>
             </div>
             <div type="bibliography">
-                <listBibl> <bibl>Unpublished</bibl>
+                <listBibl><bibl><ptr target="#Xenakiforthcoming"/><!--<citedRange>TBA</citedRange>--></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
