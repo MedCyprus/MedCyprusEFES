@@ -191,6 +191,10 @@
    <!-- User index fields. -->
    <field name="index_item_name" stored="true" indexed="true"
           multiValued="false" required="false" type="string" />
+   <field name="index_item_namegrc" stored="true" indexed="true"
+     multiValued="false" required="false" type="string" />
+   <field name="index_item_namewd" stored="true" indexed="true"
+     multiValued="false" required="false" type="string" />
    <field name="index_instance_location" stored="true" indexed="false"
           multiValued="true" required="false" type="string" />
    <field name="index_abbreviation_expansion" stored="true"

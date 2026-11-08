@@ -168,6 +168,8 @@
       <xsl:apply-templates select="str[@name='index_item_name']" />
       <xsl:apply-templates select="str[@name='index_surname']" />
       <xsl:apply-templates select="str[@name='index_abbreviation_expansion']"/>
+      <xsl:apply-templates select="str[@name='index_item_namegrc']"/>
+      <xsl:apply-templates select="str[@name='index_item_namewd']"/>
       <xsl:apply-templates select="str[@name='index_numeral_value']"/>
       <xsl:apply-templates select="arr[@name='language_code']"/>
       <xsl:if test="arr[@name='index_epithet']"> <!-- i.e. displayed only in sacred index -->
@@ -309,6 +311,31 @@
         </span>
       </xsl:if>
     </th>
+  </xsl:template>
+  
+  <xsl:template match="str[@name='index_item_namegrc']">
+    <td>
+      <xsl:value-of select="." />
+    </td>
+  </xsl:template>
+  
+  <xsl:template match="str[@name='index_item_namewd']">
+    <td>
+      <xsl:choose>
+        <xsl:when test="starts-with(.,'http')">
+          <xsl:element name="a">
+            <xsl:attribute name="href"><xsl:value-of select="."/></xsl:attribute>
+            <xsl:attribute name="target">
+              <xsl:text>_blank</xsl:text>
+            </xsl:attribute>
+             <xsl:text>[WD]︎︎</xsl:text>
+          </xsl:element>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:value-of select="." />
+        </xsl:otherwise>
+      </xsl:choose>
+    </td>
   </xsl:template>
   
   <xsl:template match="str[@name='index_item_type']">

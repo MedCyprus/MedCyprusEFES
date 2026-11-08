@@ -17,6 +17,7 @@
   <xsl:template match="/">
     <add>
       <xsl:for-each-group select="//tei:addName" group-by="concat(@ref, '-', @key, '-', @nymRef)">
+        <!-- MedCyprus only uses @key -->
         <xsl:variable name="self" select="."/>
         <xsl:variable name="id">
           <xsl:choose>
@@ -35,7 +36,7 @@
           </xsl:choose>
         </xsl:variable>
         <xsl:variable name="divineAL" select="'../../content/xml/authority/sacred.xml'"/>
-        <xsl:variable name="idno" select="document($divineAL)//tei:person[@xml:id=$id]"/>
+        <xsl:variable name="idno" select="document($divineAL)//tei:person[child::tei:persName[@key=$id]]"/>
         <doc>
           <field name="document_type">
             <xsl:value-of select="$subdirectory" />
@@ -44,20 +45,40 @@
             <xsl:text>_index</xsl:text>
           </field>
           <xsl:call-template name="field_file_path" />
-          <field name="index_item_name">
+          
+          <field name="index_item_name"> <!-- epithet in English -->
             <xsl:choose>
-              <xsl:when test="doc-available($divineAL) = fn:true() and $idno">
-                <xsl:value-of select="$idno/tei:persName[1]" />
-                <xsl:if test="$idno/tei:persName[2]">
-                  <xsl:text> / </xsl:text>
-                  <xsl:value-of select="$idno/tei:persName[2]" />
-                </xsl:if>
+              <xsl:when test="$idno">
+                <xsl:value-of select="distinct-values($idno/tei:persName[@type='epithet'][@key=$id][@xml:lang='en'])" /> 
               </xsl:when>
               <xsl:otherwise>
                 <xsl:value-of select="$id" />
               </xsl:otherwise>
             </xsl:choose>
           </field>
+          
+          <field name="index_item_namegrc"> <!-- epithet in Greek -->
+            <xsl:choose>
+              <xsl:when test="$idno">
+                <xsl:value-of select="distinct-values($idno/tei:persName[@type='epithet'][@key=$id][@xml:lang='grc'])" />
+              </xsl:when>
+              <xsl:otherwise>
+                <xsl:value-of select="$id" />
+              </xsl:otherwise>
+            </xsl:choose>
+          </field>
+          
+          <field name="index_item_namewd"> <!-- epithet in Greek -->
+            <xsl:choose>
+              <xsl:when test="$idno/tei:idno">
+                <xsl:value-of select="$idno/tei:idno" />
+              </xsl:when>
+              <xsl:otherwise>
+                <xsl:text>n/a</xsl:text>
+              </xsl:otherwise>
+            </xsl:choose>
+          </field>
+          
           <xsl:apply-templates select="current-group()" />
         </doc>
       </xsl:for-each-group>
