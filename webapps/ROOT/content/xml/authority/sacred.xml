@@ -96,8 +96,8 @@
                 <person xml:id="Amoun">
                     <persName xml:lang="grc">Ἀμοῦν</persName>
                     <persName xml:lang="en">Amoun</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="Amoun" key="Nitria">ὁ Νιτριώτης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Amoun" key="Nitria">of Nitria</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Amoun" key="Nitriotes">ὁ Νιτριώτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Amoun" key="Nitriotes">of Nitria</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q473349</idno>                   
                 </person>
                 
@@ -336,8 +336,8 @@
                 <person xml:id="DanielSketis">
                     <persName xml:lang="grc">Δανιήλ</persName>
                     <persName xml:lang="en">Daniel</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="DanielSketis" key="Nitria">ὁ Σκητιώτης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="DanielSketis" key="Nitria">of Sketis</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="DanielSketis" key="Sketiotes">ὁ Σκητιώτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="DanielSketis" key="Sketiotes">of Sketis</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q109826916</idno>                   
                 </person>
                 
@@ -702,10 +702,10 @@
                     <persName xml:lang="en">Jesus</persName>
                     <persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="Christ">Χριστός</persName>
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="Christ">Christ</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Antiphonetes">Ἀντιφωνητής</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Antiphonetes">Antiphonetes</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Evergetes">Εὐεργέτις</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Evergetes">Evergetes</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="Antiphonetes">Ἀντιφωνητής</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="Antiphonetes">Antiphonetes</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="Evergetes">Εὐεργέτις</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="Evergetes">Evergetes</persName>
                     <!--><persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="SonofGod">Υἱὸς Θεοῦ</persName>
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="SonofGod">Son of God</persName>-->
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q302</idno>
@@ -1023,8 +1023,8 @@
                 <person xml:id="MenasKallikelados">
                     <persName xml:lang="grc">Μηνᾶς</persName>
                     <persName xml:lang="en">Menas</persName>  
-                    <persName xml:lang="grc" type="epithet" subtype="Kallikelados">Καλλικέλαδος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Kallikelados">Kallikelados</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="MenasKallikelados" key="">Καλλικέλαδος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="MenasKallikelados" key="">Kallikelados</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q12872168</idno>                   
                 </person>
                 
@@ -1082,8 +1082,8 @@
                     <persName xml:lang="en">Nicholas</persName>
                     <persName xml:lang="grc" type="epithet" subtype="Nicholas">τῆς Στέγης</persName>
                     <persName xml:lang="en" type="epithet" subtype="Nicholas">of the Roof</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Nicholas">Μύρων</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Nicholas">of Myra</persName>
+                    <!--<persName xml:lang="grc" type="epithet" subtype="Nicholas">Μύρων</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Nicholas">of Myra</persName>-->
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44269</idno>                   
                 </person>
                 
