@@ -96,14 +96,16 @@
                 <person xml:id="Amoun">
                     <persName xml:lang="grc">Ἀμοῦν</persName>
                     <persName xml:lang="en">Amoun</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="Amoun" key="Nitria">ὁ Νιτριώτης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Amoun" key="Nitria">of Nitria</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Amoun" key="Nitriotes">ὁ Νιτριώτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Amoun" key="Nitriotes">of Nitria</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q473349</idno>                   
                 </person>
                 
                 <person xml:id="AnastasiaPharmakolytria">
                     <persName xml:lang="grc">Ἀναστασία</persName>
                     <persName xml:lang="en">Anastasia</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="AnastasiaPharmakolytria" key="Poison-curer">Φαρμακολύτρια</persName>
+                    <persName xml:lang="en" type="epithet" subtype="AnastasiaPharmakolytria" key="Poison-curer">Poison-curer (Pharmakolytria)</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q232975</idno>                   
                 </person>
                 
@@ -111,6 +113,14 @@
                     <persName xml:lang="grc">Ἀνδρέας</persName>
                     <persName xml:lang="en">Andrew</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43399</idno>                   
+                </person>
+                
+                <person xml:id="AndrewSalos">
+                    <persName xml:lang="grc">Ἀνδρέας</persName>
+                    <persName xml:lang="en">Andrew</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="AndrewSalos" key="Salos">ὁ Σαλός</persName>
+                    <persName xml:lang="en" type="epithet" subtype="AndrewSalos" key="Salos">the Fool (Salos)</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1094337</idno>                   
                 </person>
                 
                 <person xml:id="Andronikos">
@@ -204,8 +214,8 @@
                 <person xml:id="AthanasiosPentaschoinites">
                     <persName xml:lang="grc">Ἀθανάσιος Πεντασχοινίτης</persName>
                     <persName xml:lang="en">Athanasios Pentaschoinites</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="AthanasiosPentaschoinites">Πεντασχοινίτης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="AthanasiosPentaschoinites">from Pentaschoino</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="AthanasiosPentaschoinites" key="Pentaschoinites">Πεντασχοινίτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="AthanasiosPentaschoinites" key="Pentaschoinites">from Pentaschoino</persName>
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
@@ -336,8 +346,8 @@
                 <person xml:id="DanielSketis">
                     <persName xml:lang="grc">Δανιήλ</persName>
                     <persName xml:lang="en">Daniel</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="DanielSketis" key="Nitria">ὁ Σκητιώτης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="DanielSketis" key="Nitria">of Sketis</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="DanielSketis" key="Sketiotes">ὁ Σκητιώτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="DanielSketis" key="Sketiotes">of Sketis</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q109826916</idno>                   
                 </person>
                 
@@ -559,8 +569,8 @@
                 <person xml:id="GregoryOfAgrigento">
                     <persName xml:lang="grc">Γρηγόριος</persName>
                     <persName xml:lang="en">Gregory of Agrigento</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="GregoryOfAgrigento" key="of Agrigento">ὁ Ἀκραγαντίνος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="GregoryOfAgrigento" key="of Agrigento">of Agrigento</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="GregoryOfAgrigento" key="Agragantinos">ὁ Ἀκραγαντίνος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="GregoryOfAgrigento" key="Agragantinos">of Agrigento</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9282211</idno>                   
                 </person>
                 
@@ -702,10 +712,10 @@
                     <persName xml:lang="en">Jesus</persName>
                     <persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="Christ">Χριστός</persName>
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="Christ">Christ</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Antiphonetes">Ἀντιφωνητής</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Antiphonetes">Antiphonetes</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Evergetes">Εὐεργέτις</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Evergetes">Evergetes</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="Antiphonetes">Ἀντιφωνητής</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="Antiphonetes">Antiphonetes</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="Evergetes">Εὐεργέτις</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="Evergetes">Evergetes</persName>
                     <!--><persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="SonofGod">Υἱὸς Θεοῦ</persName>
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="SonofGod">Son of God</persName>-->
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q302</idno>
@@ -1023,8 +1033,8 @@
                 <person xml:id="MenasKallikelados">
                     <persName xml:lang="grc">Μηνᾶς</persName>
                     <persName xml:lang="en">Menas</persName>  
-                    <persName xml:lang="grc" type="epithet" subtype="Kallikelados">Καλλικέλαδος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Kallikelados">Kallikelados</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="MenasKallikelados" key="">Καλλικέλαδος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="MenasKallikelados" key="">Kallikelados</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q12872168</idno>                   
                 </person>
                 
@@ -1082,8 +1092,8 @@
                     <persName xml:lang="en">Nicholas</persName>
                     <persName xml:lang="grc" type="epithet" subtype="Nicholas">τῆς Στέγης</persName>
                     <persName xml:lang="en" type="epithet" subtype="Nicholas">of the Roof</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Nicholas">Μύρων</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Nicholas">of Myra</persName>
+                    <!--<persName xml:lang="grc" type="epithet" subtype="Nicholas">Μύρων</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Nicholas">of Myra</persName>-->
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44269</idno>                   
                 </person>
                 
@@ -1379,6 +1389,8 @@
                 <person xml:id="Theodore"><!--Stratelates-->
                     <persName xml:lang="grc">Θεόδωρος</persName>
                     <persName xml:lang="en">Theodore</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theodore" key="Stratelates">ὁ Στρατηλάτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Theodore" key="Stratelates">Stratelates</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2363350</idno>                   
                 </person>
                 

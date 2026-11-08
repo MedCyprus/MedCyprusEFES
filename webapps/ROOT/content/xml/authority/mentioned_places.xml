@@ -18,11 +18,11 @@
         <body>
             <listPlace>
                 
-                <place xml:id="AgiosNicholaostisStegis">
+                <!--<place xml:id="AgiosNicholaostisStegis">
                     <placeName xml:lang="grc">Ἅγιος Νικόλαος τῆς Στέγης</placeName>
                     <placeName xml:lang="en">Saint Nicholas of the Roof</placeName>
                     <idno type="cyprusgazetteer">https://cyprusgazetteer.org/146711/252/</idno>
-                </place>
+                </place>-->
                 
                 <place xml:id="Agrigento">
                     <placeName xml:lang="grc">Ἀκράγας</placeName>
@@ -54,6 +54,12 @@
                     <idno type="pleiades">https://pleiades.stoa.org/places/678106</idno>
                 </place>
                 
+                <place xml:id="LandoftheHomerites">
+                    <placeName xml:lang="grc">Χώρα τῶν Ὁμηριτῶν</placeName>
+                    <placeName xml:lang="en">Land of the Homerites</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/39350</idno>
+                </place>
+                
                 <!--<place xml:id="Kaane">
                     <placeName xml:lang="grc">Καανή(;)</placeName>
                     <placeName xml:lang="en">Kaane(?)</placeName>
@@ -70,6 +76,18 @@
                     <placeName xml:lang="grc">Μονὴ τῶν Φορβίων</placeName>
                     <placeName xml:lang="en">Monastery of Phorbiotissa</placeName>
                     <idno type="cyprusgazetteer">https://cyprusgazetteer.org/16467/310/</idno>
+                </place>
+                
+                <place xml:id="Myra">
+                    <placeName xml:lang="grc">Μύρα</placeName>
+                    <placeName xml:lang="en">Myra</placeName>
+                    <idno type="cyprusgazetteer">https://pleiades.stoa.org/places/639005/</idno>
+                </place>
+                
+                <place xml:id="Nitria">
+                    <placeName xml:lang="grc">Νιτρία/Σκῆτις</placeName>
+                    <placeName xml:lang="en">Nitria/Sketis</placeName>
+                    <idno type="cyprusgazetteer">https://pleiades.stoa.org/places/727176/</idno>
                 </place>
                 
                 <place xml:id="Pelendri">
