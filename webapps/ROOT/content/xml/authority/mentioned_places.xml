@@ -66,16 +66,22 @@
                     <idno type="cyprusgazetteer">https://pleiades.stoa.org/places/609444/</idno>
                 </place>
                 
-                <place xml:id="Nitria">
-                    <placeName xml:lang="grc">Νιτρία/Σκῆτις</placeName>
-                    <placeName xml:lang="en">Nitria/Sketis</placeName>
-                    <idno type="cyprusgazetteer">https://pleiades.stoa.org/places/727176/</idno>
-                </place>
-                
                 <place xml:id="MonasteryOfPhorbiotissa">
                     <placeName xml:lang="grc">Μονὴ τῶν Φορβίων</placeName>
                     <placeName xml:lang="en">Monastery of Phorbiotissa</placeName>
                     <idno type="cyprusgazetteer">https://cyprusgazetteer.org/16467/310/</idno>
+                </place>
+                
+                <place xml:id="Myra">
+                    <placeName xml:lang="grc">Μύρα</placeName>
+                    <placeName xml:lang="en">Myra</placeName>
+                    <idno type="cyprusgazetteer">https://pleiades.stoa.org/places/639005/</idno>
+                </place>
+                
+                <place xml:id="Nitria">
+                    <placeName xml:lang="grc">Νιτρία/Σκῆτις</placeName>
+                    <placeName xml:lang="en">Nitria/Sketis</placeName>
+                    <idno type="cyprusgazetteer">https://pleiades.stoa.org/places/727176/</idno>
                 </place>
                 
                 <place xml:id="Pelendri">
