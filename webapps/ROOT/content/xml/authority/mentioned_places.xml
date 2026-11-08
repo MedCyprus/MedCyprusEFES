@@ -18,11 +18,11 @@
         <body>
             <listPlace>
                 
-                <place xml:id="AgiosNicholaostisStegis">
+                <!--<place xml:id="AgiosNicholaostisStegis">
                     <placeName xml:lang="grc">Ἅγιος Νικόλαος τῆς Στέγης</placeName>
                     <placeName xml:lang="en">Saint Nicholas of the Roof</placeName>
                     <idno type="cyprusgazetteer">https://cyprusgazetteer.org/146711/252/</idno>
-                </place>
+                </place>-->
                 
                 <place xml:id="Agrigento">
                     <placeName xml:lang="grc">Ἀκράγας</placeName>
@@ -64,6 +64,12 @@
                     <placeName xml:lang="grc">Κοτυάειον</placeName>
                     <placeName xml:lang="en">Kotyaion</placeName>
                     <idno type="cyprusgazetteer">https://pleiades.stoa.org/places/609444/</idno>
+                </place>
+                
+                <place xml:id="Nitria">
+                    <placeName xml:lang="grc">Νιτρία</placeName>
+                    <placeName xml:lang="en">Nitria</placeName>
+                    <idno type="cyprusgazetteer">https://pleiades.stoa.org/places/727176/</idno>
                 </place>
                 
                 <place xml:id="MonasteryOfPhorbiotissa">
