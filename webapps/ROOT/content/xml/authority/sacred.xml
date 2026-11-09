@@ -1360,6 +1360,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q16086357</idno>                   
                 </person>
                 
+                <person xml:id="Therapon">
+                    <persName xml:lang="grc">Θεράπων</persName>
+                    <persName xml:lang="en">Therapon</persName>               
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q29461452</idno>                   
+                </person>
+                
                 <person xml:id="Therissos">
                     <persName xml:lang="grc">Θέρισσος</persName>
                     <persName xml:lang="en">Therissos</persName>

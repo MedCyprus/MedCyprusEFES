@@ -7,6 +7,7 @@
             <titleStmt>
                 <title>Saint John the Forerunner</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -37,11 +38,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. Character size varies. ΠΡΔΜ joined in ligature. Ἰωάννης and Πρόδρομος are abbreviated. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography">PENDING</rs></p>
+                            <p><rs type="iconography" ref="#JohnForerunner">John the Forerunner</rs>
+                                   <rs type="iconography" ref="#prophet"></rs>
+                                   <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -73,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                    <lb n="1"/>Ὁ <persName type="sacred" key="JohnForerunner"><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἅ</reg></choice>γιος</w> <name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name> <choice><orig>o</orig><reg>ὁ</reg></choice> <addName type="epithet" key="Forerunner"><expan><abbr rend="supraline">Πρ</abbr><ex>όδρο</ex><abbr rend="supraline">μ</abbr><ex>ος</ex></expan></addName></persName>
                  </ab>
             </div>
             <div type="apparatus">
