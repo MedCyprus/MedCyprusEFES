@@ -36,24 +36,24 @@
             <div>
                 <head>Editorial conventions</head>
                 <p>The inscriptions in MedCyprus are presented following the Leiden System, with some modifications.</p>
-                <list>
-                   <item>αβγ	Letters clear and comprehensible</item>
-                    <item>AB	Letters clear, but incomprehensible</item>
-                    <item>[αβ]	Letters lost and restored by the editor</item>
-                    <item>[ .. ca 4 .. ]	A number of characters lost</item>
-                    <item>[ .. ? .. ]	An unknown number of characters lost </item>
-                    <item>⟦αβ⟧	Letters deliberately erased but still legible</item>
-                    <item>⟦[αβ]⟧	Letters deliberately erased, subsequently lost, and restored by the editor</item>
-                    <item>{αβ}	Letters regarded as erroneous and superfluous by the editor</item>
-                    <item>&lt;αβ>	Letters omitted in the inscription and supplied by the editor</item>
-                    <item>α̣β̣	Letters preserved but uncertain or unclear</item>
-                    <item>αβ(γδ)	Abbreviation expanded by the editor</item>
-                    <item>αβ(γδ?)	Abbreviation for which the proposed expansion is uncertain</item>
-                    <item>αβ(---)	Abbreviation that cannot be resolved</item>
-                    <item>\αβ/	Text added above the line</item>
-                    <item>/αβ\	Text added below the line</item>
+                <table>
+                   <row><cell>αβγ</cell><cell>Letters clear and comprehensible</cell></row>
+                    <row><cell>AB</cell><cell>Letters clear, but incomprehensible</cell></row>
+                    <row><cell>[αβ]</cell><cell>Letters lost and restored by the editor</cell></row>
+                    <row><cell>[ .. ca 4 .. ]</cell><cell>A number of characters lost</cell></row>
+                    <row><cell>[ .. ? .. ]</cell><cell>An unknown number of characters lost</cell> </row>
+                    <row><cell>⟦αβ⟧</cell><cell>Letters deliberately erased but still legible</cell></row>
+                    <row><cell>⟦[αβ]⟧</cell><cell>Letters deliberately erased, subsequently lost, and restored by the editor</cell></row>
+                    <row><cell>{αβ}</cell><cell>Letters regarded as erroneous and superfluous by the editor</cell></row>
+                    <row><cell>&lt;αβ></cell><cell>Letters omitted in the inscription and supplied by the editor</cell></row>
+                    <row><cell>α̣β̣</cell><cell>Letters preserved but uncertain or unclear</cell></row>
+                    <row><cell>αβ(γδ)</cell><cell>Abbreviation expanded by the editor</cell></row>
+                    <row><cell>αβ(γδ?)</cell><cell>Abbreviation for which the proposed expansion is uncertain</cell></row>
+                    <row><cell>αβ(---)</cell>	<cell>Abbreviation that cannot be resolved</cell></row>
+                    <row><cell>\αβ/</cell>	<cell>Text added above the line</cell></row>
+                    <row><cell>/αβ\</cell>	<cell>Text added below the line</cell></row>
 
-                </list>
+                </table>
             </div>
              <div type="text">
                 <head>Dates</head>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Searching MedCyprus</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="text">
+               
+                <p>The <emph>Search</emph> function allows users to explore the <emph>inscription records</emph> in the corpus through free-text and faceted searches.</p>
+
+                <p><emph>Free-text search</emph> allows users to search the contents of the inscription records using Greek or English terms. <hi rend="font-style: italic;">>[Add list of fields that are searched how to use diacritics]</hi></p>
+                
+            <p rend="margin-left: 5%;"><emph>Search lemmatised text:</emph> Allows users to search for Greek words by their dictionary form (lemma), retrieving inscriptions containing different inflected forms of the same word. This search requires use of diacritics. Alternatively, the user may consult the Greek Words Index.</p>
+                
+                <p>The <emph>time bar</emph> allows users to restrict their searches to a specific period within the chronological range of the corpus (AD 900–1350)..</p>
+                
+                <p><emph>Faceted search</emph> allows users to refine their searches by selecting predefined terms from a range of categories. Users may select individual terms or combine terms from different categories to conduct more targeted searches.</p>
+          
+                <p rend="margin-left: 5%"><emph>Text Categories:</emph> an inscription may belong to more than one category in terms of type of text. The classification of texts reflects both art-historical and epigraphic considerations, taking into account the particular nature of the corpus. Correspondences with other epigraphic vocabularies / ontologies, where applicable, are provided in the relevant field of individual inscription records.</p>
+                
+                <p rend="margin-left: 5%"><emph>Iconography:</emph> the relevant six facets allow users to search for inscriptions according to their associated iconographic contexts. <emph>Only figures, scenes, and objects associated with inscriptions are recorded in the corpus and are therefore searchable.</emph> Representations without inscriptions are not included. Please note: MedCyprus does not provide an iconographic commentary or analysis of the murals.</p>
+                
+                <p rend="margin-left: 5%"><emph>Narrative Scenes:</emph> Major scenes and their constituent episodes are recorded separately, but a search for a major scene also retrieves inscriptions associated with its individual episodes.</p>
+                
+                <p rend="margin-left: 5%"><emph>Individual Figures:</emph> Searches for inscriptions associated with individual figures, including figures appearing within narrative scenes whose names or spoken words are inscribed.</p>
+
+                <p rend="margin-left: 5%"><emph>Individual Figure Categories:</emph> This category also includes portraits of individuals contemporary or approximately contemporary with the murals, classified as Supplicant, donor; Supplicant, deceased; or Supplicant, other (e.g. family members of donors or figures whose role is uncertain). Controlled vocabulary relating to dress allows users to distinguish between different iconographic types of angelic powers and military saints.</p>
+
+                <p rend="margin-left: 5%">The categories <hi rend="font-style: italic;">Individual Figure Categories</hi> and <hi rend="font-style: italic;">Individual Figure Gender</hi> apply only to individual figures represented independently, not to figures appearing within narrative scenes.</p>
+
+
+    <p>At any point, users may select <emph>Reset Search</emph> to clear their selections and begin a new search.</p>
+</div>
+        </body>
+    </text>
+</TEI>

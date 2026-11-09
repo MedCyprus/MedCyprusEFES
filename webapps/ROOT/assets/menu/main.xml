@@ -5,6 +5,7 @@
   <menu label="About" match="local-tei-display-html" params="about">
     <item label="About" match="local-tei-display-html" params="about"/>
     <item label="Editorial Conventions" match="local-tei-display-html" params="editorial"/>
+    <item label="Search Help" match="local-tei-display-html" params="search"/>
     <item label="People" match="local-tei-display-html" params="team"/>
     <item label="Sponsors" match="local-tei-display-html" params="sponsors"/>
     <item label="Contact" match="local-tei-display-html" params="contact"/>
