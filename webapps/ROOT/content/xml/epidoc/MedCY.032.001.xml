@@ -28,27 +28,30 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#naos">Naos, southeastern pilaster, conch, west face</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, southeast pilaster, conch, west face</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">2-6.5</height>
+                            <handNote>White majuscule letters against blue background. Character size varies. Accents and breathings systematic. Letter height: <height unit="cm">2-6</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>n/a</p>
+                            <p><rs type="iconography" ref="#Therapon">Therapon</rs>
+                                  <rs type="iconography" ref="#prelate"></rs>
+                                  <rs type="iconography" ref="#male"></rs>                                
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Kouklia" n="1st">Kouklia, Panagia Katholike</origPlace>
-                            <origDate notBefore="1101" notAfter="1200" evidence="artistic-style">12th century(?)</origDate>
+                            <origDate notBefore="1101" notAfter="1400" evidence="artistic-style">12th/14th century (repainted)</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
@@ -63,11 +66,13 @@
                     <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou)</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+         <graphic rend="primary" url="032-001-01.jpg"><desc></desc></graphic>
+        <graphic url="032-001-02.JPG"><desc></desc></graphic>
+        <graphic url="032-001-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -77,18 +82,16 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
                 <p>Saint Therapon</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
-                 <listBibl>
-                <bibl>PENDING</bibl>
-                </listBibl>
+                 <listBibl><bibl>Unpublished</bibl></listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
         </body>
