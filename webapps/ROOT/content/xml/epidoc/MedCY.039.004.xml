@@ -79,7 +79,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Gabriel"><w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἀ</reg></choice>ρχ<am>&#x00A0;΄&#x00A0;</am></abbr><ex>άγγελος</ex></expan></w> <name type="forename" nymRef ="#Γαβριήλ">Γαβρ<choice><orig>ί</orig><reg>ι</reg></choice><choice><orig>η</orig><reg>ή</reg></choice>λ</name></persName>                      
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Gabriel"><w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἀ</reg></choice>ρχ<am>&#x00A0;΄&#x00A0;</am></abbr><ex>άγγελος</ex></expan></w> <milestone unit="figure"/><name type="forename" nymRef ="#Γαβριήλ">Γαβρ<choice><orig>ί</orig><reg>ι</reg></choice><choice><orig>η</orig><reg>ή</reg></choice>λ</name></persName>                      
                  </ab>
             </div>
             <div type="apparatus">
