@@ -27,22 +27,21 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#narthex">narthex, southeastern pilaster, north face</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                    <rs type="placement-building" ref="#narthex">Narthex, southeast pilaster, north face</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the saint's head.</layout>
+                                <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. Character size varies. Letter height: <height unit="cm">2-3</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#unidentified_figure">Prelate, unidentified</rs>
-                                
+                            <p><rs type="iconography" ref="#unidentified_figure">Prelate, unidentified</rs>                     
                                 <rs type="iconography" ref="#prelate"></rs>
                                 <rs type="iconography" ref="#male"></rs>
                             </p>
@@ -51,7 +50,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#GialiaChapel" n="single">Gialia, Monastery of Panagia Chrysogialiotissa, Saint George chapel</origPlace>
-                            <origDate notBefore="1101" notAfter="1150" precision="medium" evidence="artistic-style">First half of 12th century</origDate>
+                            <origDate notBefore="1101" notAfter="1150" precision="medium" evidence="artistic-style">First half of the 12th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
@@ -66,31 +65,38 @@
                     <term type="textType" ref="text_types.xml#doc5">caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou, G. Apeitos), publication</creation>
+            <creation>transcription (Th. Petrou, G. Apeitos)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+         <graphic rend="primary" url="017-001-01.JPG"><desc></desc></graphic>
+        <graphic url="017-001-02.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                    <cb n="a"/>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied><w lemma="ἅγιος">
+                    <lb n="2"/><supplied reason="lost">ἅ</supplied>
+                    <lb n="3" break="no" />γι
+                    <lb n="4" break="no"/>ος</w>
+             <cb n="b"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"></gap>  
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>Saint [..?..]</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
