@@ -79,7 +79,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                     <lb n="1"/>Ἡ <persName type="sacred" key="Εve"><name nymRef="#Εὔα" type="forename"><choice><sic><choice><orig>Έ</orig><reg>Ε</reg></choice>βα</sic><corr>Εὔα</corr></choice></name></persName> 
+                     <lb n="1"/>Ἡ <persName type="sacred" key="Eve"><name nymRef="#Εὔα" type="forename"><choice><sic><choice><orig>Έ</orig><reg>Ε</reg></choice>βα</sic><corr>Εὔα</corr></choice></name></persName> 
                 </ab>
             </div>
             <div type="apparatus">
