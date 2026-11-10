@@ -50,7 +50,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Sotira" n="4th">Sotira (Ammochostou), Transfiguration</origPlace>
-                            <origDate notBefore="1269" notAfter="1300" precision="medium" evidence="artistic-style material-context">Last third of 13th century</origDate>
+                            <origDate notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style material-context">Last third of 13th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
@@ -89,7 +89,7 @@
                 <p>The book of the genealogy of [Jesus Christ]</p>
             </div>
             <div type="commentary">
-                <p>Matt. 1:1 </p>
+                <p>Text: Matt. 1:1</p>
             </div>
             <div type="bibliography">
                 <listBibl><bibl><ptr target="#Xenakiforthcoming"/><!--<citedRange>TBA</citedRange>--></bibl>
