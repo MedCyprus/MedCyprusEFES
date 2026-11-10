@@ -25,17 +25,17 @@
                            <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Badly preserved.</rs>
-                                    <rs type="placement-building" ref="#naos">Naos, northeastern pilaster, below the dome, south face, upper register</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, northeastern pilaster below the dome, south face, upper register</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                     </support>
                             </supportDesc>
                              <layoutDesc>
-                                <layout>On the open codex held in both hands by the evangelist</layout>
+                                <layout>Οn the open codex held in the left hand by the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against white background. Character size varies.  Text between two ochre-colored ruled lines. Accents and breathings non systematic. 
+                            <handNote>Black majuscule letters against white background. Character size varies. Accents and breathings non systematic. Text between double, ochre-colored ruled lines. 
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -50,7 +50,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#Sotira" n="4th">Sotira (Ammochostou), Transfiguration</origPlace>
-                            <origDate notBefore="1269" notAfter="1300" precision="medium" evidence="artistic-style material-context">Last third 13th century</origDate>
+                            <origDate notBefore="1267" notAfter="1300" precision="medium" evidence="artistic-style material-context">Last third of 13th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>
@@ -66,12 +66,11 @@
                     <term type="textType" ref="text_types.xml#doc6">quotation, biblical</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou)</creation>
+            <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic url="055-004-01.JPG"><desc>Mark' s gospel, inscription</desc></graphic>
-        <graphic rend="primary" url="055-004-02.JPG"><desc>Mark' s gospel, inscription detail</desc></graphic>
+         <graphic rend="primary" url="055-004-01.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -91,13 +90,13 @@
                 <p>n/a</p>
             </div>
             <div type="translation">
-                <p>This is the beginning of the gospel of Jesus Christ, the Son of God.</p>
+                <p>The beginning of the gospel of [Jesus Christ]</p>
             </div>
             <div type="commentary">
-                <p>The inscription is from the Mark's gospel (Mark 1:1). </p>
+                <p>Text: Mark 1:1</p>
             </div>
             <div type="bibliography">
-                <listBibl> <bibl>Unpublished</bibl>
+                <listBibl><bibl><ptr target="#Xenakiforthcoming"/><!--<citedRange>TBA</citedRange>--></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
