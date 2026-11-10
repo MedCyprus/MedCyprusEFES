@@ -19,6 +19,14 @@
                     <mapping type="glyph-display">&#x2020;</mapping>
                     <mapping type="text-display">crux</mapping>
                 </glyph> 
+                <glyph xml:id="pseudo-Kufic">
+                    <mapping type="glyph-display">&#x2020;</mapping>
+                    <mapping type="text-display">pseudo-Kufic</mapping>
+                </glyph>
+                <glyph xml:id="scribal-mark">
+                    <mapping type="glyph-display">&#x2020;</mapping>
+                    <mapping type="text-display">scribal mark</mapping>
+                </glyph> 
             </charDecl>
         </encodingDesc>
     </teiHeader>

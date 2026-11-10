@@ -60,7 +60,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc11">invocation</term>
+                    <term type="textType" key="text_types.xml#doc11">invocation</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>

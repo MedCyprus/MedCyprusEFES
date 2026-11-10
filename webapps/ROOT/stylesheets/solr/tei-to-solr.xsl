@@ -24,12 +24,14 @@
   </xsl:template>
   
   <xsl:template match="//tei:term[@type='textType']" mode="facet_inscription_type">
-    <xsl:variable name="id" select="substring-after(@ref, '#')"/>
+    <xsl:variable name="id" select="substring-after(@key, '#')"/>
     <xsl:variable name="text_typesAL" select="'../../content/xml/authority/text_types.xml'"/>
     <field name="inscription_type">
       <xsl:choose>
         <xsl:when test="doc-available($text_typesAL) = fn:true() and document($text_typesAL)//tei:item[@xml:id=$id]">
-          <xsl:value-of select="normalize-space(translate(translate(translate(document($text_typesAL)//tei:item[@xml:id=$id][1]/tei:term[@xml:lang='en'][1], '/', '／'), '_', ' '), '(?)', ''))"/>
+          <xsl:for-each select="document($text_typesAL)//tei:item[@xml:id=$id]/tei:term[@xml:lang='en']">
+            <xsl:value-of select="normalize-space(translate(translate(translate(., '/', '／'), '_', ' '), '(?)', ''))"/>
+          </xsl:for-each>
         </xsl:when>
         <xsl:otherwise>
           <xsl:value-of select="." />

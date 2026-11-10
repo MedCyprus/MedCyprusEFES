@@ -65,8 +65,8 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                   <term type="textType" ref="text_types.xml#doc24">quotation, source unknown</term>
-                    <term type="textType" ref="text_types.xml#doc8">quotation, liturgical (?)</term>
+                   <term type="textType" key="text_types.xml#doc24">quotation, source unknown</term>
+                    <term type="textType" key="text_types.xml#doc8">quotation, liturgical (?)</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
