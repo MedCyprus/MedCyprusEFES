@@ -117,9 +117,9 @@
                 
                 <person xml:id="AndrewSalos">
                     <persName xml:lang="grc">Ἀνδρέας</persName>
-                    <persName xml:lang="en">Andrew</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="AndrewSalos" key="Salos">Σαλός</persName>
-                    <persName xml:lang="en" type="epithet" subtype="AndrewSalos" key="Salos">Salos / Fool</persName>
+                    <persName xml:lang="en">Andrew, salos</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="AndrewSalos" key="Salos">διὰ Χριστὸν σαλός</persName>
+                    <persName xml:lang="en" type="epithet" subtype="AndrewSalos" key="Salos">Salos / Fool for Christ</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1094337</idno>                   
                 </person>
                 
@@ -215,7 +215,7 @@
                     <persName xml:lang="grc">Ἀθανάσιος Πεντασχοινίτης</persName>
                     <persName xml:lang="en">Athanasios Pentaschoinites</persName>
                     <persName xml:lang="grc" type="epithet" subtype="AthanasiosPentaschoinites" key="Pentaschoinites">Πεντασχοινίτης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="AthanasiosPentaschoinites" key="Pentaschoinites">from Pentaschoino</persName>
+                    <persName xml:lang="en" type="epithet" subtype="AthanasiosPentaschoinites" key="Pentaschoinites">Pentaschoinites / of Pentaschoino</persName>
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
@@ -264,8 +264,8 @@
                 <person xml:id="Basil">
                     <persName xml:lang="grc">Βασίλειος</persName>
                     <persName xml:lang="en">Basil</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Basil" key="the Great">ὁ Μέγας</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Basil" key="the Great">the Great</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Basil" key="the Great">Μέγας</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Basil" key="the Great">Great</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44258</idno>                   
                 </person>
                 
