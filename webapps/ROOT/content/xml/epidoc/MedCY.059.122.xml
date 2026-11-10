@@ -86,9 +86,9 @@
                     <lb n="1"/><name type="forename" nymRef="#Ἀνδρέας"><supplied reason="lost">Ἀνδρέ
                     <lb n="2" break="no"/>ας</supplied></name>
                     <lb n="3"/><choice><orig>o</orig><reg>ὁ</reg></choice>
-                    <lb n="4"/>δι<choice><orig>α</orig><reg>ὰ</reg></choice>    
-                    <lb n="5"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ν</abbr></expan></addName>                   
-                    <lb n="6"/><addName type="epithet" key="Salos">σ
+                    <lb n="4"/><addName type="epithet" key="Salos">δι<choice><orig>α</orig><reg>ὰ</reg></choice>    
+                    <lb n="5"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ν</abbr></expan>                   
+                    <lb n="6"/>σ
                      <lb n="7" break="no"/><supplied reason="lost">α</supplied>
                        <lb n="8" break="no"/>λ
                      <lb n="9" break="no"/>ος</addName></persName>
