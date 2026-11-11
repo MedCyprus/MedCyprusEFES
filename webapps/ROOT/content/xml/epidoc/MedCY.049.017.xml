@@ -72,8 +72,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="049-017-01.JPG"><desc>Saint Spyridon, inscription</desc></graphic>
-        <graphic url="049-017-02.JPG"><desc>Saint Spyridon, general view</desc></graphic>
+        <graphic rend="primary" url="049-017-01.JPG"><desc></desc></graphic>
+        <graphic url="049-017-02.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -83,8 +83,8 @@
                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Spyridon"> <w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w> 
                    <cb n="b"/> 
                       <lb n="1"/><name type="forename" nymRef="#Σπυρίδων"><expan><abbr>Σ<lb/>
-                      <lb n="2" break="no"/>πυ<lb/>
-                      <lb n="3" break="no"/>ρίδω</abbr><ex>ν</ex></expan></name></persName>
+                      <lb n="2" break="no"/>πυ<lb
+                              n="3" break="no"/>ρίδω</abbr><ex>ν</ex></expan></name></persName>
                </ab>
             </div>
             <div type="apparatus">
