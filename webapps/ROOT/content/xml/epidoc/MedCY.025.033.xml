@@ -59,8 +59,8 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="text_types.xml#doc9">nomina sacra</term>
-                    <term type="textType" key="text_types.xml#doc2">cryptogram</term>
+                    <term type="textType" key="doc9">nomina sacra</term>
+                    <term type="textType" key="doc2">cryptogram</term>
                     
                 </keywords>
             </textClass>

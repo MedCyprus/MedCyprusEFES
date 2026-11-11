@@ -60,8 +60,8 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="text_types.xml#doc5">caption</term>
-                    <term type="textType" key="text_types.xml#doc6">quotation, biblical</term>
+                    <term type="textType" key="doc5">caption</term>
+                    <term type="textType" key="doc6">quotation, biblical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publication, DOA Photographic Archive</creation>

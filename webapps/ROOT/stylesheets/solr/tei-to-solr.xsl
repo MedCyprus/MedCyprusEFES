@@ -24,7 +24,8 @@
   </xsl:template>
   
   <xsl:template match="//tei:term[@type='textType']" mode="facet_inscription_type">
-    <xsl:variable name="id" select="substring-after(@key, '#')"/>
+    <!--<xsl:variable name="id" select="substring-after(@key, '#')"/>-->
+    <xsl:variable name="id" select="@key"/>
     <xsl:variable name="text_typesAL" select="'../../content/xml/authority/text_types.xml'"/>
     <field name="inscription_type">
       <xsl:choose>

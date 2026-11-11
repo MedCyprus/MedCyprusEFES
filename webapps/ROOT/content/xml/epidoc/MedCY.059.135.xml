@@ -64,9 +64,9 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                     <term type="textType" key="text_types.xml#doc24">quotation(?)</term>
-                    <term type="textType" key="text_types.xml#doc21">hortatory</term>
-                    <term type="textType" key="text_types.xml#doc12">metrical</term>
+                     <term type="textType" key="doc24">quotation(?)</term>
+                    <term type="textType" key="doc21">hortatory</term>
+                    <term type="textType" key="doc12">metrical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publication</creation>
