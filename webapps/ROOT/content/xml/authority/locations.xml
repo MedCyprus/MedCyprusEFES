@@ -1127,7 +1127,7 @@
                     <desc type="conservation">Partially preserved. Some of the murals have been detached and are now on display at the <ref target="#KykkosMuseum">Museum of the Kykkos Monastery</ref>. Conservation/cleaning: 1977, 1980-2000, 2002-2005, 2007-2008 (DAC) </desc>
                     <desc type="donors">A number of fragmentary inscriptions survive associated with votive panels of the 4th and 5th layers of painted decoration, see <ref target="MedCY.027.005.html">MedCY.027.005</ref>, <ref target="MedCY.027.016.html">MedCY.027.016</ref>, <ref target="MedCY.027.019.html">MedCY.027.019</ref>, <ref target="MedCY.027.022.html">MedCY.027.022</ref>, <ref target="MedCY.027.030.html">MedCY.027.030</ref>, <ref target="MedCY.027.034.html">MedCY.027.034</ref>, <ref target="MedCY.027.037.html">MedCY.027.037</ref></desc>
                     <desc type="painter">Unknown</desc>
-                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>307</citedRange></bibl> <bibl><ptr target="bibliography.xml#Perdiki2014a"/><citedRange>26</citedRange></bibl> <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>354, 358, 376</citedRange></bibl></desc>
+                    <desc type="graffiti">Presence confirmed <bibl><ptr target="bibliography.xml#Trentin2010"/><citedRange>307</citedRange></bibl> <bibl><ptr target="bibliography.xml#Perdiki2013-14"/><citedRange>26</citedRange></bibl> <bibl><ptr target="bibliography.xml#Demestichaetal2017"/><citedRange>354, 358, 376</citedRange></bibl></desc>
                     <idno type="IBCC">http://ibcc.dighum.kcl.ac.uk/entries/b0009.html</idno>
                     <idno type="Frankika">https://frankika.efa.gr/en/node/9584</idno>
                     <idno type="HGC">http://www.cyprusgazetteer.org/146506/176/</idno>
@@ -1323,7 +1323,7 @@
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>250-51</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>281</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ARDAC"/><citedRange>1967, 11</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Papageorgiou1970"/><citedRange>38-46</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Papageorgiou1969"/><citedRange>38-46</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Papacostas1999"/><citedRange>2: 72</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2005"/><citedRange>490, 495/220, 520-21, 540</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Chotzakoglou2010a"/><citedRange>431-33</citedRange></bibl>
