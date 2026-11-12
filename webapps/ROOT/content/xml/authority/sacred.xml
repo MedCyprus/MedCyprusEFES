@@ -531,7 +531,7 @@
                 <person xml:id="George">
                     <persName xml:lang="grc">Γεώργιος</persName>
                     <persName xml:lang="en">George</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="George" key="Cappadocian">ὁ Καππαδόκης</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="George" key="Cappadocian">Καππαδόκης</persName>
                     <persName xml:lang="en" type="epithet" subtype="George" key="Cappadocian">Cappadocian</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q48438</idno>                   
                 </person>
@@ -714,7 +714,7 @@
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="Christ">Christ</persName>
                     <persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="Antiphonetes">Ἀντιφωνητής</persName>
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="Antiphonetes">Antiphonetes</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="Evergetes">Εὐεργέτις</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="Evergetes">Εὐεργέτης</persName>
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="Evergetes">Evergetes</persName>
                     <!--><persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="SonofGod">Υἱὸς Θεοῦ</persName>
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="SonofGod">Son of God</persName>-->
@@ -1439,13 +1439,13 @@
                 <person xml:id="Theotokos">
                     <persName xml:lang="grc">Θεοτόκος</persName>
                     <persName xml:lang="en">Theotokos</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Arakiotissa">τοῦ Ἄρακος</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Arakiotissa">Ἀρακιώτισσα / τοῦ Ἄρακος</persName>
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Arakiotissa">Arakiotissa / of Arakas</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Despoina">δέσποινα </persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Despoina">Δέσποινα </persName>
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Despoina">Despoina / Our Lady</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Kecharitomene">κεχαριτωμένη</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Kecharitomene">Κεχαριτωμένη</persName>
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Kecharitomene">Kecharitomene / Full of grace</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Hyperagia">ὑπεραγία</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Hyperagia">Ὑπεραγία</persName>
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Hyperagia">Hyperagia / Most holy</persName>
                     <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Theotokos">Θεοτόκος</persName>
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Theotokos">Theotokos</persName>
