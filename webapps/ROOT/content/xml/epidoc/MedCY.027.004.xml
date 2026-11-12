@@ -81,8 +81,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                      <cb n="a"/>
-                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Constantine"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>    
-                   <lb n="2"/><name type="forename" nymRef="#Μηνᾶς">Μηνᾶς</name>
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Menas"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>    
+                   <lb n="2"/><name type="forename" nymRef="#Μηνᾶς"><gap reason="lost" extent="unknown" unit="character"></gap></name>
                       <cb n="b"/>
                      <lb n="1"/>ὁ
                     <lb n="2"/><addName type="epithet" key="Kotyryotes"><choice><sic>Κ
