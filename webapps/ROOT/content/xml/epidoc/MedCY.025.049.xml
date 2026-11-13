@@ -62,16 +62,16 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">caption</term>
+                    <term type="textType" key="doc5">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="025-049-01.JPG"><desc>Baptism, John the Forerunner, inscription</desc></graphic>
-         <graphic url="025-049-02.JPG"><desc>Baptism, John the Forerunner, general view</desc></graphic>
-         <graphic url="025-049-03.JPG"><desc>Baptism, John the Forerunner, general view</desc></graphic>
+         <graphic rend="primary" url="025-049-01.JPG"><desc></desc></graphic>
+         <graphic url="025-049-02.JPG"><desc></desc></graphic>
+         <graphic url="025-049-03.JPG"><desc></desc></graphic>
              </facsimile>
     <text>
         <body>
@@ -79,9 +79,9 @@
                 <ab>
                     <lb n="1"/>Ὁ <persName type="sacred" key="JohnForerunner"><w lemma="ἅγιος">ἅγιος</w> <name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline">Ἰω</abbr><ex>άννης</ex></expan></name>
                      <lb n="2"/>ὁ
-                     <lb n="3"/><addName type="epithet" key="Forerunner"><expan><abbr rend="supraline">Πρ</abbr><ex>ό</ex><abbr rend="supraline">δ</abbr><ex>ρο</ex><abbr rend="supraline">μ   
-                       <lb n="4" break="no"/>ο
-                       <lb n="5" break="no"/>ς</abbr></expan></addName></persName>
+                     <lb n="3"/><addName type="epithet" key="Forerunner"><expan><abbr rend="supraline">Πρ</abbr><ex>ό</ex><abbr rend="supraline">δ</abbr><ex>ρο</ex><abbr rend="supraline">μ<lb  
+                       n="4" break="no"/>ο<lb
+                         n="5" break="no"/>ς</abbr></expan></addName></persName>
                  </ab>
             </div>
             <div type="apparatus">

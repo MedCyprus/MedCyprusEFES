@@ -62,7 +62,7 @@ Double point after Κ(υρίο)υ. Accents and breathings non systematic. Letter
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc6">quotation, biblical</term>
+                    <term type="textType" key="doc6">quotation, biblical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>

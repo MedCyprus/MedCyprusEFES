@@ -16,7 +16,7 @@
   
   <xsl:template match="/">
     <add>
-      <xsl:for-each-group select="//tei:persName[@type='divine' or @type='sacred']" group-by="concat(@ref, '-', @key, '-', string-join(descendant::tei:addName/@nymRef, ' '), '-', string-join(descendant::tei:addName/@key, ' '))">
+      <xsl:for-each-group select="//tei:persName[@type='divine' or @type='sacred']" group-by="concat(@ref, '-', @key, '-', string-join(descendant::tei:addName/@nymRef, ' '))"> <!-- , '-', string-join(descendant::tei:addName/@key, ' ') -->
         <xsl:variable name="self" select="."/>
         <xsl:variable name="id">
           <xsl:choose>
@@ -81,17 +81,11 @@
             </xsl:if>
           </field>
           <field name="index_epithet">
-            <xsl:for-each select="descendant::tei:addName[@nymRef or @key][not(ancestor::tei:persName[ancestor::tei:persName=$self])]">
-              <xsl:choose>
-                <xsl:when test="@nymRef">
-                  <xsl:value-of select="normalize-unicode(translate(translate(@nymRef, '_', '-'), '#', ''))" />
-                </xsl:when>
-                <xsl:when test="@key">
-                  <xsl:value-of select="normalize-unicode(translate(translate(@key, '_', '-'), '#', ''))" />
-                </xsl:when>
-              </xsl:choose>  
-              <xsl:if test="position()!=last()">, </xsl:if>
-            </xsl:for-each>
+            <xsl:if test="doc-available($divineAL) = fn:true() and $idno/tei:persName[@type='epithet'][@xml:lang='en']">
+              <xsl:value-of select="$idno/tei:persName[@type='epithet'][@xml:lang='en']" separator="; "/>
+            </xsl:if>
+           
+            
           </field>
           <field name="index_item_type">
             <xsl:value-of select="@type"/>

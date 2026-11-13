@@ -62,7 +62,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">caption</term>
+                    <term type="textType" key="doc5">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publication</creation>
@@ -86,10 +86,9 @@
                         <cb n="b"/>
                          <lb n="1"/><name type="forename" nymRef="#Ἀνδρέας">Ἀνδρ<choice><orig>ε</orig><reg>έ</reg></choice>
                           <lb n="2" break="no"/>ας</name>
-                         <lb n="3"/>ὁ δι<choice><orig>α</orig><reg>ὰ</reg></choice>  
-                         <lb n="4"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ν</abbr></expan></addName> <addName type="epithet" key="Salos"><choice><sic>σσα
+                         <lb n="3"/>ὁ <addName type="epithet" key="Salos">δι<choice><orig>α</orig><reg>ὰ</reg></choice>  
+                         <lb n="4"/><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ν</abbr></expan> <choice><sic>σσα
                           <lb n="5" break="no"/>λος</sic><corr>σαλός</corr></choice></addName></persName>
-                    
                  </ab>
             </div>
             <div type="apparatus">

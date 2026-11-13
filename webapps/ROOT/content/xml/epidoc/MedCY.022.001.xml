@@ -64,7 +64,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc9">nomina sacra</term>
+                    <term type="textType" key="doc9">nomina sacra</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos)</creation>
@@ -78,7 +78,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><g ref="#tripunct"></g><persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan><!--<g ref="#tripunct"></g>--> <milestone unit="column"/><!--<g ref="#tripunct"></g>--><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan><!--<g ref="#tripunct"></g>--></addName></name></persName>
+                   <lb n="1"/><!--<g ref="#tripunct"></g>--><persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan><!--<g ref="#tripunct"></g>--> <milestone unit="column"/><!--<g ref="#tripunct"></g>--><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan><!--<g ref="#tripunct"></g>--></addName></name></persName>
                  </ab>
             </div>
             <div type="apparatus">

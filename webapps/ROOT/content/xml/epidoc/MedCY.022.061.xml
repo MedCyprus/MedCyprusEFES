@@ -64,7 +64,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc5">caption</term>
+                    <term type="textType" key="doc5">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
@@ -82,10 +82,10 @@
                   <cb n="a"/><lb n="1"/><name nymRef ="#Ἰωάννης" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννης</ex></expan></name>
                    <cb n="b"/>
                 <lb n="1"/><persName type="sacred" key="JohnForerunner"> <supplied reason="lost">Ὁ</supplied> <w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w></persName> 
-                   <lb n="2"/><addName type="epithet" key="Forerunner"><expan><abbr rend="supraline">Πρ</abbr><ex>όδρο</ex><abbr rend="supraline">
-                  <lb n="3" break="no"/>μ
-                  <lb n="4" break="no"/><hi rend="ligature">ο
-                  <lb n="5" break="no"/>ς</hi></abbr></expan></addName>
+                   <lb n="2"/><addName type="epithet" key="Forerunner"><expan><abbr rend="supraline">Πρ</abbr><ex>όδρο</ex><abbr rend="supraline"><lb
+                     n="3" break="no"/>μ<lb
+                       n="4" break="no"/><hi rend="ligature">ο<lb
+                          n="5" break="no"/>ς</hi></abbr></expan></addName>
               </ab>
             </div>
             <div type="apparatus">

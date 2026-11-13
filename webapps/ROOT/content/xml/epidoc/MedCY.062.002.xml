@@ -61,8 +61,8 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc23">acclamation</term>
-                    <term type="textType" ref="text_types.xml#doc24">quotation(?)</term>
+                    <term type="textType" key="doc23">acclamation</term>
+                    <term type="textType" key="doc24">quotation(?)</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publications, archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>

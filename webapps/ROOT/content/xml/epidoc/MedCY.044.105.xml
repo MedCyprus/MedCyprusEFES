@@ -61,7 +61,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" ref="text_types.xml#doc12">metrical</term>
+                    <term type="textType" key="doc12">metrical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publications</creation>

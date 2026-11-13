@@ -29,7 +29,7 @@
                 <person xml:id="Abraham">
                     <persName xml:lang="grc">Ἀβραάμ</persName>
                     <persName xml:lang="en">Abraham</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="Abraham" key="Righteous">ὁ Δίκαιος</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Abraham" key="Righteous">Δίκαιος</persName>
                     <persName xml:lang="en" type="epithet" subtype="Abraham" key="Righteous">Righteous</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9181</idno>                   
                 </person>
@@ -96,8 +96,8 @@
                 <person xml:id="Amoun">
                     <persName xml:lang="grc">Ἀμοῦν</persName>
                     <persName xml:lang="en">Amoun</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="Amoun" key="Nitriotes">ὁ Νιτριώτης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Amoun" key="Nitriotes">of Nitria</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Amoun" key="Nitriotes">Νιτριώτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Amoun" key="Nitriotes">Nitriotes / of Nitria</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q473349</idno>                   
                 </person>
                 
@@ -105,7 +105,7 @@
                     <persName xml:lang="grc">Ἀναστασία</persName>
                     <persName xml:lang="en">Anastasia</persName>
                     <persName xml:lang="grc" type="epithet" subtype="AnastasiaPharmakolytria" key="Poison-curer">Φαρμακολύτρια</persName>
-                    <persName xml:lang="en" type="epithet" subtype="AnastasiaPharmakolytria" key="Poison-curer">Poison-curer (Pharmakolytria)</persName>
+                    <persName xml:lang="en" type="epithet" subtype="AnastasiaPharmakolytria" key="Poison-curer">Pharmakolytria / Poison-curer</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q232975</idno>                   
                 </person>
                 
@@ -117,9 +117,9 @@
                 
                 <person xml:id="AndrewSalos">
                     <persName xml:lang="grc">Ἀνδρέας</persName>
-                    <persName xml:lang="en">Andrew</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="AndrewSalos" key="Salos">ὁ Σαλός</persName>
-                    <persName xml:lang="en" type="epithet" subtype="AndrewSalos" key="Salos">the Fool (Salos)</persName>
+                    <persName xml:lang="en">Andrew, salos</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="AndrewSalos" key="Salos">διὰ Χριστὸν σαλός</persName>
+                    <persName xml:lang="en" type="epithet" subtype="AndrewSalos" key="Salos">Salos / Fool for Christ</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1094337</idno>                   
                 </person>
                 
@@ -153,7 +153,7 @@
                 
                 <person xml:id="AnnaProphetess">
                     <persName xml:lang="grc">Ἄννα</persName>
-                    <persName xml:lang="en">Anna</persName>
+                    <persName xml:lang="en">Anna, prophetess</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1774668</idno>                   
                 </person>
                 
@@ -215,7 +215,7 @@
                     <persName xml:lang="grc">Ἀθανάσιος Πεντασχοινίτης</persName>
                     <persName xml:lang="en">Athanasios Pentaschoinites</persName>
                     <persName xml:lang="grc" type="epithet" subtype="AthanasiosPentaschoinites" key="Pentaschoinites">Πεντασχοινίτης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="AthanasiosPentaschoinites" key="Pentaschoinites">from Pentaschoino</persName>
+                    <persName xml:lang="en" type="epithet" subtype="AthanasiosPentaschoinites" key="Pentaschoinites">Pentaschoinites / of Pentaschoino</persName>
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
@@ -264,8 +264,8 @@
                 <person xml:id="Basil">
                     <persName xml:lang="grc">Βασίλειος</persName>
                     <persName xml:lang="en">Basil</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Basil" key="the Great">ὁ Μέγας</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Basil" key="the Great">the Great</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Basil" key="the Great">Μέγας</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Basil" key="the Great">Great</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44258</idno>                   
                 </person>
                 
@@ -277,7 +277,7 @@
                 
                 <person xml:id="BiblicalMagi">
                     <persName xml:lang="grc">Μάγοι</persName>
-                    <persName xml:lang="en">Τhree Wise Men</persName>
+                    <persName xml:lang="en">Three Wise Men</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q51671</idno>                   
                 </person>
                 
@@ -308,8 +308,8 @@
                 <person xml:id="ConstantineYoungerOfOrmideia">
                     <persName xml:lang="grc">Κωνσταντῖνος ὁ Νέος τῆς Ὀρμήδειας</persName>
                     <persName xml:lang="en">Constantine of Ormideia</persName>     
-                    <persName xml:lang="grc" type="epithet" subtype="ConstantineYoungerOfOrmideia" key="the Younger of Ormideia">ὁ Νέος τῆς Ὁρμήδειας</persName>
-                    <persName xml:lang="en" type="epithet" subtype="ConstantineYoungerOfOrmideia" key="the Younger of Ormideia">the Younger of Ormideia</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="ConstantineYoungerOfOrmideia" key="the Younger of Ormideia">Νέος τῆς Ὁρμήδειας</persName>
+                    <persName xml:lang="en" type="epithet" subtype="ConstantineYoungerOfOrmideia" key="the Younger of Ormideia">Younger of Ormideia</persName>
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
@@ -345,16 +345,16 @@
                 
                 <person xml:id="DanielSketis">
                     <persName xml:lang="grc">Δανιήλ</persName>
-                    <persName xml:lang="en">Daniel</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="DanielSketis" key="Sketiotes">ὁ Σκητιώτης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="DanielSketis" key="Sketiotes">of Sketis</persName>
+                    <persName xml:lang="en">Daniel of Sketis</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="DanielSketis" key="Sketiotes">Σκητιώτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="DanielSketis" key="Sketiotes">Sketiotes / of Sketis</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q109826916</idno>                   
                 </person>
                 
                 <person xml:id="DanielStylites">
-                    <persName xml:lang="grc">Δανιήλ</persName>
+                    <persName xml:lang="grc">Δανιήλ, stylite</persName>
                     <persName xml:lang="en">Daniel</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="DanielStylites" key="Stylites">ὁ Στυλίτης</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="DanielStylites" key="Stylites">Στυλίτης</persName>
                     <persName xml:lang="en" type="epithet" subtype="DanielStylites" key="Stylites">Stylites</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q768229</idno>                   
                 </person>
@@ -433,7 +433,7 @@
                 <person xml:id="EphraimSyrian">
                     <persName xml:lang="grc">Ἐφραίμ</persName>
                     <persName xml:lang="en">Ephraim</persName>     
-                    <persName xml:lang="grc" type="epithet" subtype="EphraimSyrian" key="Syrian">ὁ Σύρος</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="EphraimSyrian" key="Syrian">Σύρος</persName>
                     <persName xml:lang="en" type="epithet" subtype="EphraimSyrian" key="Syrian">Syrian</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q200608</idno>                   
                 </person>
@@ -498,11 +498,11 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q194064</idno>                   
                 </person>
                 
-                <person xml:id="Fathers">
+               <!--<person xml:id="Fathers">
                     <persName xml:lang="grc"> <seg>οἱ</seg> τριακόσιοι δεκαοκτὼ θεοφόροι Πατέρες</persName>
                     <persName xml:lang="en">318 Godbearing Fathers (of the First Ecumenical Council) </persName>
-                    <!--<idno type="wikidata">Not listed</idno>-->
-                </person>
+                    <idno type="wikidata">Not listed</idno>
+                </person>-->
                 
                 <person xml:id="FortyMartyrs">
                     <persName xml:lang="grc"><seg>οἱ ἅγιοι</seg> Τεσσαράκοντα</persName>
@@ -531,7 +531,7 @@
                 <person xml:id="George">
                     <persName xml:lang="grc">Γεώργιος</persName>
                     <persName xml:lang="en">George</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="George" key="Cappadocian">ὁ Καππαδόκης</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="George" key="Cappadocian">Καππαδόκης</persName>
                     <persName xml:lang="en" type="epithet" subtype="George" key="Cappadocian">Cappadocian</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q48438</idno>                   
                 </person>
@@ -569,8 +569,8 @@
                 <person xml:id="GregoryOfAgrigento">
                     <persName xml:lang="grc">Γρηγόριος</persName>
                     <persName xml:lang="en">Gregory of Agrigento</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="GregoryOfAgrigento" key="Agragantinos">ὁ Ἀκραγαντίνος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="GregoryOfAgrigento" key="Agragantinos">of Agrigento</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="GregoryOfAgrigento" key="Akragantinos">Ἀκραγαντίνος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="GregoryOfAgrigento" key="Akragantinos">Akragantinos / of Agrigento</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9282211</idno>                   
                 </person>
                 
@@ -583,7 +583,7 @@
                 <person xml:id="GregoryNazianzenos">
                     <persName xml:lang="grc">Γρηγόριος</persName>
                     <persName xml:lang="en">Gregory the Theologian / Nazianzenos</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="GregoryNazianzenos" key="Theologian">ὁ Θεολόγος</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="GregoryNazianzenos" key="Theologian">Θεολόγος</persName>
                     <persName xml:lang="en" type="epithet" subtype="GregoryNazianzenos" key="Theologian">Theologian</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44011</idno>                   
                 </person>
@@ -591,16 +591,16 @@
                 <person xml:id="GregoryOfNyssa">
                     <persName xml:lang="grc">Γρηγόριος</persName>
                     <persName xml:lang="en">Gregory of Nyssa</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="GregoryOfNyssa" key="of Nyssa">ὁ Νύσσης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="GregoryOfNyssa" key="of Nyssa">of Nyssa</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="GregoryOfNyssa" key="of Nyssa">Νύσσης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="GregoryOfNyssa" key="of Nyssa">Nyssa, of </persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q191734</idno>                   
                 </person>
                 
                 <person xml:id="GregoryThaumatourgos">
                     <persName xml:lang="grc">Γρηγόριος</persName>
                     <persName xml:lang="en">Gregory Thaumatourgos</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="GregoryThaumatourgos" key="Thaumatourgos">ὁ Θαυματουργός</persName>
-                    <persName xml:lang="en" type="epithet" subtype="GregoryThaumatourgos" key="Thaumatourgos">Thaumatourgos</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="GregoryThaumatourgos" key="Thaumatourgos">Θαυματουργός</persName>
+                    <persName xml:lang="en" type="epithet" subtype="GregoryThaumatourgos" key="Thaumatourgos">Thaumatourgos / Wonderworker</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q337537</idno>                   
                 </person>
                 
@@ -662,10 +662,10 @@
                 <person xml:id="IgnatiosTheophoros">
                     <persName xml:lang="grc">Ἰγνάτιος ὁ Θεοφόρος</persName>
                     <persName xml:lang="en">Ignatios Theophoros</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="IgnatiosTheophoros" key="Theophoros">ὁ Θεοφόρος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="IgnatiosTheophoros" key="Theophoros">the God-bearing</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="IgnatiosTheophoros" key="of Antioch">ὁ Ἀντιοχείας</persName>
-                    <persName xml:lang="en" type="epithet" subtype="IgnatiosTheophoros" key="of Antioch">of Antioch</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="IgnatiosTheophoros" key="Theophoros">Θεοφόρος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="IgnatiosTheophoros" key="Theophoros">God-bearing</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="IgnatiosTheophoros" key="of Antioch">Ἀντιοχείας</persName>
+                    <persName xml:lang="en" type="epithet" subtype="IgnatiosTheophoros" key="of Antioch">Antioch, of</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44170</idno>                   
                 </person>
                 
@@ -684,8 +684,8 @@
                 <person xml:id="JamesLordBrother">
                     <persName xml:lang="grc">Ἰάκωβος</persName>
                     <persName xml:lang="en">James the Lord's Brother</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="JamesLordBrother" key="Lord's Brother">ὁ Ἀδελφόθεος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="JamesLordBrother" key="Lord's Brother">the Lord's Brother</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JamesLordBrother" key="Lord's Brother">Ἀδελφόθεος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JamesLordBrother" key="Lord's Brother">Lord's Brother</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q26925</idno>                   
                 </person>
                 
@@ -714,7 +714,7 @@
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="Christ">Christ</persName>
                     <persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="Antiphonetes">Ἀντιφωνητής</persName>
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="Antiphonetes">Antiphonetes</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="Evergetes">Εὐεργέτις</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="Evergetes">Εὐεργέτης</persName>
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="Evergetes">Evergetes</persName>
                     <!--><persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="SonofGod">Υἱὸς Θεοῦ</persName>
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="SonofGod">Son of God</persName>-->
@@ -726,7 +726,7 @@
                 <person xml:id="Joachim">
                     <persName xml:lang="grc">Ἰωακείμ</persName>
                     <persName xml:lang="en">Joachim</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Joachim" key="Righteous">ὁ Δίκαιος</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Joachim" key="Righteous">Δίκαιος</persName>
                     <persName xml:lang="en" type="epithet" subtype="Joachim" key="Righteous">Righteous</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q314700</idno>                   
                 </person>
@@ -734,8 +734,8 @@
                 <person xml:id="JohnOfDamascus">
                     <persName xml:lang="grc">Ἰωάννης ὁ Δαμασκηνός</persName>
                     <persName xml:lang="en">John of Damascus</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="JohnOfDamascus" key="of Damascus">ὁ Δαμασκηνός</persName>
-                    <persName xml:lang="en" type="epithet" subtype="JohnOfDamascus" key="of Damascus">Of Damascus</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JohnOfDamascus" key="of Damascus">Δαμασκηνός</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JohnOfDamascus" key="of Damascus">Damaskenos / of Damascus</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q51884</idno>                   
                 </person>
                 
@@ -748,7 +748,7 @@
                 <person xml:id="JohnChrysostom">
                     <persName xml:lang="grc">Ἰωάννης ὁ Χρυσόστομος</persName>
                     <persName xml:lang="en">John Chrysostom</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="JohnChrysostom" key="Chrysostom">ὁ Χρυσόστομος</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JohnChrysostom" key="Chrysostom">Χρυσόστομος</persName>
                     <persName xml:lang="en" type="epithet" subtype="JohnChrysostom" key="Chrysostom">Chrysostom</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43706</idno>                   
                 </person>
@@ -756,7 +756,7 @@
                 <person xml:id="JohnForerunner">
                     <persName xml:lang="grc">Ἰωάννης ὁ Πρόδρομος</persName>
                     <persName xml:lang="en">John the Forerunner</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="JohnForerunner" key="Forerunner">ὁ Πρόδρομος</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JohnForerunner" key="Forerunner">Πρόδρομος</persName>
                     <persName xml:lang="en" type="epithet" subtype="JohnForerunner" key="Forerunner">Forerunner</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q40662</idno>                   
                 </person>
@@ -764,7 +764,7 @@
                 <person xml:id="JohnKalybites">
                     <persName xml:lang="grc"> Ἰωάννης ὁ Καλυβίτης</persName>
                     <persName xml:lang="en">John Kalybites</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="JohnKalybites" key="Kalybites">ὁ Καλυβίτης</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JohnKalybites" key="Kalybites">Καλυβίτης</persName>
                     <persName xml:lang="en" type="epithet" subtype="JohnKalybites" key="Kalybites">Kalybites</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1959875</idno>                   
                 </person>
@@ -772,7 +772,7 @@
                 <person xml:id="JohnMerciful">
                     <persName xml:lang="grc"> Ἰωάννης ὁ Ἐλεήμων</persName>
                     <persName xml:lang="en">John the Merciful</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="JohnMerciful" key="Merciful">ὁ Ἐλεήμων</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JohnMerciful" key="Merciful">Ἐλεήμων</persName>
                     <persName xml:lang="en" type="epithet" subtype="JohnMerciful" key="Merciful">Merciful</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q372668</idno>                   
                 </person>
@@ -786,9 +786,9 @@
                 <person xml:id="JohnTheologian">
                     <persName xml:lang="grc">Ἰωάννης ὁ Εὐαγγελιστῆς / ὁ Θεολόγος</persName>
                     <persName xml:lang="en">John the Evangelist / Theologian</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="JohnTheologian" key="Theologian">ὁ Θεολόγος</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JohnTheologian" key="Theologian">Θεολόγος</persName>
                     <persName xml:lang="en" type="epithet" subtype="JohnTheologian" key="Theologian">Theologian</persName>
-                    <persName xml:lang="grc" type="epither" subtype="JohnTheologian" key="Evangelist">ὁ Εὐαγγελιστῆς</persName>
+                    <persName xml:lang="grc" type="epither" subtype="JohnTheologian" key="Evangelist">Εὐαγγελιστῆς</persName>
                     <persName xml:lang="grc" type="epither" subtype="JohnTheologian" key="Evangelist">Evangelist</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q328804</idno>                   
                 </person>
@@ -814,7 +814,7 @@
                 <person xml:id="JosephMnestor">
                     <persName xml:lang="grc">Ἰωσήφ</persName>
                     <persName xml:lang="en">Joseph</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="JosephMnestor" key="Dikaios">ὁ Δίκαιος</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JosephMnestor" key="Dikaios">Δίκαιος</persName>
                     <persName xml:lang="en" type="epithet" subtype="JosephMnestor" key="Dikaios">Righteous</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q128267</idno>                   
                 </person>
@@ -822,7 +822,7 @@
                 <person xml:id="JosephPoet">
                     <persName xml:lang="grc">Ἰωσήφ ὁ Ποιητής</persName>
                     <persName xml:lang="en">Joseph the Poet</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="JosephPoet" key="Poet">ὁ Ποιτητής</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JosephPoet" key="Poet">Ποιτητής</persName>
                     <persName xml:lang="en" type="epithet" subtype="JosephPoet" key="Poet">Poet</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2282958</idno>                   
                 </person>
@@ -849,7 +849,7 @@
                 <person xml:id="KosmasPoet">
                     <persName xml:lang="grc">Κοσμᾶς ὁ Ποιητής</persName>
                     <persName xml:lang="en">Kosmas the Poet</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="KosmasPoet" key="Poet">ὁ Ποιητής</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="KosmasPoet" key="Poet">Ποιητής</persName>
                     <persName xml:lang="en" type="epithet" subtype="KosmasPoet" key="Poet">Poet</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2496948</idno>                   
                 </person>
@@ -863,7 +863,7 @@
                 <person xml:id="Kyriakos">
                     <persName xml:lang="grc">Κυριακός</persName>
                     <persName xml:lang="en">Kyriakos</persName>     
-                    <persName xml:lang="grc" type="epithet" subtype="Kyriakos" key="Anchorite">ὁ Ἀναχωρητής</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Kyriakos" key="Anchorite">Ἀναχωρητής</persName>
                     <persName xml:lang="en" type="epithet" subtype="Kyriakos" key="Anchorite">Anchorite</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q743246</idno>                   
                 </person>
@@ -883,8 +883,8 @@
                 <person xml:id="Lord">
                     <persName xml:lang="grc">Κύριος</persName>
                     <persName xml:lang="en">Lord</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Lord" key="Lord of Hosts">Ὁ Κύριος τῶν οὐρανίων δυνάμεων</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Lord" key="Lord of Hosts">The Lord of Hosts</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Lord" key="Lord of Hosts">Κύριος τῶν οὐρανίων δυνάμεων</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Lord" key="Lord of Hosts">Lord of Hosts</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q12826225</idno>              
                     <note>See also: Christ, God, Jesus Christ, King of Glory, Trinity, Word, Master<!--not sure about Sabaoth.Could we consider it as an epithet of God?--></note>
                 </person>
@@ -925,15 +925,15 @@
                 <person xml:id="LoukasOfSteiris">
                     <persName xml:lang="grc">Λουκᾶς</persName>
                     <persName xml:lang="en">Loukas</persName>        
-                    <persName xml:lang="grc" type="epithet" subtype="Loukas" key="Steiris">ὁ Στειριώτης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Loukas" key="Steiris">of Steiris</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Loukas" key="Steiris">Στειριώτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Loukas" key="Steiris">Steiriotes / of Steiris</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2497353</idno>                   
                 </person>
                 
                 <person xml:id="Luke">
                     <persName xml:lang="grc">Λουκᾶς</persName>
                     <persName xml:lang="en">Luke</persName>        
-                    <persName xml:lang="grc" type="epithet" subtype="Luke" key="Evangelist">ὁ Εὐαγγελιστῆς</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Luke" key="Evangelist">Εὐαγγελιστῆς</persName>
                     <persName xml:lang="en" type="epithet" subtype="Luke" key="Evangelist">Evangelist</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q128538</idno>                   
                 </person>
@@ -980,7 +980,7 @@
                 <person xml:id="Mark">
                     <persName xml:lang="grc">Μᾶρκος</persName>
                     <persName xml:lang="en">Mark</persName>        
-                    <persName xml:lang="grc" type="epithet" subtype="Mark" key="Evangelist">ὁ Εὐαγγελιστῆς</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Mark" key="Evangelist">Εὐαγγελιστῆς</persName>
                     <persName xml:lang="en" type="epithet" subtype="Mark" key="Evangelist">Evangelist</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q31966</idno>                   
                 </person>
@@ -988,7 +988,7 @@
                 <person xml:id="MaryOfEgypt">
                     <persName xml:lang="grc">Μαρία</persName>
                     <persName xml:lang="en">Mary</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="MaryOfEgypt" key="Egyptian">ἡ Αἰγυπτία</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="MaryOfEgypt" key="Egyptian">Αἰγυπτία</persName>
                     <persName xml:lang="en" type="epithet" subtype="MaryOfEgypt" key="Egyptian">Egyptian</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q237583</idno>                   
                 </person>
@@ -1003,7 +1003,7 @@
                 <person xml:id="Matthew">
                     <persName xml:lang="grc">Ματθαῖος</persName>
                     <persName xml:lang="en">Matthew</persName>        
-                    <persName xml:lang="grc" type="epithet" subtype="Matthew" key="Evangelist">ὁ Εὐαγγελιστῆς</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Matthew" key="Evangelist">Εὐαγγελιστῆς</persName>
                     <persName xml:lang="en" type="epithet" subtype="Matthew" key="Evangelist">Evangelist</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43600</idno>                   
                 </person>
@@ -1025,8 +1025,8 @@
                 <person xml:id="Menas">
                     <persName xml:lang="grc">Μηνᾶς</persName>
                     <persName xml:lang="en">Menas</persName>    
-                    <persName xml:lang="grc" type="epithet" subtype="MenasKotyryotes" key="Kotyryotes">ὁ ἐν τῷ Κοτυαείῳ</persName>
-                    <persName xml:lang="en" type="epithet" subtype="MenasKotyryotes" key="Kotyryotes">Kotyryotes</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Menas" key="Kotyryotes">ὁ ἐν τῷ Κοτυαείῳ</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Menas" key="Kotyryotes">Kotyryotes</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q163432</idno>                   
                 </person>
                 
@@ -1091,7 +1091,7 @@
                     <persName xml:lang="grc">Νικόλαος</persName>
                     <persName xml:lang="en">Nicholas</persName>
                     <persName xml:lang="grc" type="epithet" subtype="Nicholas">τῆς Στέγης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Nicholas">of the Roof</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Nicholas">Roof, of the </persName>
                     <!--<persName xml:lang="grc" type="epithet" subtype="Nicholas">Μύρων</persName>
                     <persName xml:lang="en" type="epithet" subtype="Nicholas">of Myra</persName>-->
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44269</idno>                   
@@ -1155,16 +1155,16 @@
                 <person xml:id="PaulOfThebes">
                     <persName xml:lang="grc">Παῦλος ὁ Θηβαῖος</persName>
                     <persName xml:lang="en">Paul of Thebes</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="PaulOfThebes" key="Thebes">ὁ Θηβαῖος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="PaulOfThebes" key="Thebes">of Thebes</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="PaulOfThebes" key="Thebes">Θηβαῖος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="PaulOfThebes" key="Thebes">Thebaios / of Thebes</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q313798</idno>                   
                 </person>
                 
                 <person xml:id="PaulTheSimple">
                     <persName xml:lang="grc">Παῦλος ὁ Ἁπλοῦς</persName>
                     <persName xml:lang="en">Paul the Simple</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="PaulTheSimple" key="Simple">ὁ Ἁπλοῦς</persName>
-                    <persName xml:lang="en" type="epithet" subtype="PaulTheSimple" key="Simple">the Simple</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="PaulTheSimple" key="Simple">Ἁπλοῦς</persName>
+                    <persName xml:lang="en" type="epithet" subtype="PaulTheSimple" key="Simple">Simple</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q3773019</idno>                   
                 </person>
                 
@@ -1243,8 +1243,8 @@
                     <person xml:id="RomanosMelodist">
                     <persName xml:lang="grc">Ρωμανός</persName>
                     <persName xml:lang="en">Romanos</persName> 
-                        <persName xml:lang="grc" type="epithet" subtype="RomanosMelodist" key="Melodist">ὁ Μελωδός</persName>
-                        <persName xml:lang="en" type="epithet" subtype="RomanosMelodist" key="Melodist">the Melodist</persName>
+                        <persName xml:lang="grc" type="epithet" subtype="RomanosMelodist" key="Melodist">Μελωδός</persName>
+                        <persName xml:lang="en" type="epithet" subtype="RomanosMelodist" key="Melodist">Melodist</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q221059</idno>                   
                 </person>
                 
@@ -1305,7 +1305,7 @@
                 <person xml:id="Stephen">
                     <persName xml:lang="grc">Στέφανος</persName>
                     <persName xml:lang="en">Stephen</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="Stephen" key="Protomartyr">ὁ Πρωτομάρτυρας</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Stephen" key="Protomartyr">Πρωτομάρτυρας</persName>
                     <persName xml:lang="en" type="epithet" subtype="Stephen" key="Protomartyr">Protomartyr</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q161775</idno>                   
                 </person>
@@ -1313,7 +1313,7 @@
                 <person xml:id="StephenYounger">
                     <persName xml:lang="grc">Στέφανος</persName>
                     <persName xml:lang="en">Stephen</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="StephenYounger" key="Younger">ὁ Νέος</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="StephenYounger" key="Younger">Νέος</persName>
                     <persName xml:lang="en" type="epithet" subtype="StephenYounger" key="Younger">Younger</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q3592445</idno>                   
                 </person>
@@ -1327,7 +1327,7 @@
                 <person xml:id="SymeonArchimandrite">
                     <persName xml:lang="grc">Συμεών ὁ Ἀρχιμανδρίτης</persName>
                     <persName xml:lang="en">Symeon the Archimandrite</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="SymeonArchimandrite" key="Archimandrite">ὁ Ἀρχιμανδρίτης</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="SymeonArchimandrite" key="Archimandrite">Ἀρχιμανδρίτης</persName>
                     <persName xml:lang="en" type="epithet" subtype="SymeonArchimandrite" key="Archimandrite">Archimandrite</persName>
                     <idno type="wikidata">PENDING</idno>                   
                 </person>
@@ -1335,7 +1335,7 @@
                 <person xml:id="SymeonGodReceiver">
                     <persName xml:lang="grc">Συμεών</persName>
                     <persName xml:lang="en">Symeon</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="SymeonGodReceiver" key="God-receiver">ὁ Θεοδόχος</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="SymeonGodReceiver" key="God-receiver">Θεοδόχος</persName>
                     <persName xml:lang="en" type="epithet" subtype="SymeonGodReceiver" key="God-receiver">God-receiver</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q345205</idno>                   
                 </person>
@@ -1343,7 +1343,7 @@
                 <person xml:id="SymeonMiracleWorkerYounger">
                     <persName xml:lang="grc">Συμεών Στυλίτης ὁ Θαυμαστορείτης / ὁ Νέος </persName>
                     <persName xml:lang="en">Symeon Stylites the Miracle-worker / the Younger</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="SymeonMiracleWorkerYounger" key="Miracle-worker">ὁ Θαυματουργός</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="SymeonMiracleWorkerYounger" key="Miracle-worker">Θαυματουργός</persName>
                     <persName xml:lang="en" type="epithet" subtype="SymeonMiracleWorkerYounger" key="Miracle-worker">Miracle-worker</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2742399</idno>                   
                 </person>
@@ -1395,7 +1395,7 @@
                 <person xml:id="Theodore"><!--Stratelates-->
                     <persName xml:lang="grc">Θεόδωρος</persName>
                     <persName xml:lang="en">Theodore</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theodore" key="Stratelates">ὁ Στρατηλάτης</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theodore" key="Stratelates">Στρατηλάτης</persName>
                     <persName xml:lang="en" type="epithet" subtype="Theodore" key="Stratelates">Stratelates</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2363350</idno>                   
                 </person>
@@ -1403,15 +1403,15 @@
                 <person xml:id="TheodoreSanctified">
                     <persName xml:lang="grc">Θεόδωρος</persName>
                     <persName xml:lang="en">Theodore</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="TheodoreSanctified" key="the Sanctified">ὁ Ἡγιασμένος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="TheodoreSanctified" key="the Sanctified">the Sanctified</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="TheodoreSanctified" key="the Sanctified">Ἡγιασμένος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="TheodoreSanctified" key="the Sanctified">Sanctified</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q770191</idno>                   
                 </person>
                 
                 <person xml:id="Theodosios">
                     <persName xml:lang="grc">Θεοδόσιος</persName>
                     <persName xml:lang="en">Theodosios</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theodosios" key="Cenobiarch">ὁ Κοινοβιάρχης</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theodosios" key="Cenobiarch">Κοινοβιάρχης</persName>
                     <persName xml:lang="en" type="epithet" subtype="Theodosios" key="Cenobiarch">Cenobiarch</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1885832</idno>                   
                 </person>
@@ -1431,7 +1431,7 @@
                 <person xml:id="TheophanesPoet">
                     <persName xml:lang="grc">Θεοφάνης ὁ Ποιητής</persName>
                     <persName xml:lang="en">Theophanes the Poet</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="TheophanesPoet" key="Poet">ὁ Ποιητής</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="TheophanesPoet" key="Poet">Ποιητής</persName>
                     <persName xml:lang="en" type="epithet" subtype="TheophanesPoet" key="Poet">Poet</persName>
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
@@ -1439,13 +1439,13 @@
                 <person xml:id="Theotokos">
                     <persName xml:lang="grc">Θεοτόκος</persName>
                     <persName xml:lang="en">Theotokos</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Arakiotissa">τοῦ Ἄρακος</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Arakiotissa">Ἀρακιώτισσα / τοῦ Ἄρακος</persName>
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Arakiotissa">Arakiotissa / of Arakas</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Despoina">δέσποινα </persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Despoina">Δέσποινα </persName>
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Despoina">Despoina / Our Lady</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Kecharitomene">κεχαριτωμένη</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Kecharitomene">Κεχαριτωμένη</persName>
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Kecharitomene">Kecharitomene / Full of grace</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Hyperagia">ὑπεραγία</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Hyperagia">Ὑπεραγία</persName>
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Hyperagia">Hyperagia / Most holy</persName>
                     <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Theotokos">Θεοτόκος</persName>
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Theotokos">Theotokos</persName>
@@ -1540,7 +1540,7 @@
                 </person>-->
                 
                 <person xml:id="Virgin">
-                    <persName xml:lang="grc">ἡ Παρθένος</persName>
+                    <persName xml:lang="grc">Παρθένος</persName>
                     <persName xml:lang="en">Virgin</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q345</idno>
                     <note>See also: Mother of God, Theotokos, Maria</note>
