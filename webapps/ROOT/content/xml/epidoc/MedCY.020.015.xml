@@ -84,10 +84,10 @@
                     <cb n="b"/>    
                    <lb n="1"/><name type="forename" nymRef="#Ἀθανάσιος"><unclear>Ἀ</unclear>θαν<choice><orig>α</orig><reg>ά</reg></choice>σιος</name> 
                    <lb n="2"/>ὁ
-                     <lb n="3"/><addName type="epithet" key="Pentaschoinites"><unclear>Π</unclear><supplied reason="lost">εν
+                     <lb n="3"/><placeName ref="mentioned_places.xml#Pentaschoino"><addName type="epithet" key="Pentaschoinites"><unclear>Π</unclear><supplied reason="lost">εν
                      <lb n="4" break="no"/>τασ
                      <lb n="5" break="no"/>χοι
-                     <lb n="6" break="no"/>νίτης</supplied></addName></persName>
+                     <lb n="6" break="no"/>νίτης</supplied></addName></placeName></persName>
                    
                  </ab>
             </div>

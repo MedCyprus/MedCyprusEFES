@@ -96,6 +96,12 @@
                     <idno type="cyprusgazetteer">https://cyprusgazetteer.org/hu/64/</idno>
                 </place>
                 
+                <place xml:id="Pentaschoino">
+                    <placeName xml:lang="grc">Πεντάσχοινο</placeName>
+                    <placeName xml:lang="en">Pentaschoino</placeName>
+                    <idno type="cyprusgazetteer">https://cyprusgazetteer.org/hu/306/</idno>
+                </place>
+                
                 <place xml:id="Rome">
                     <placeName xml:lang="grc">Ῥώμη</placeName>
                     <placeName xml:lang="en">Rome</placeName>
