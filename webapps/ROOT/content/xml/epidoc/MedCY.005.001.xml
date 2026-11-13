@@ -38,7 +38,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background. Iota crossed in the middle. Final sigma in the form of a wavy line. Letter height: <height unit="cm">3-4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -76,7 +76,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                   <lb n="1"/><unclear>Ὁ</unclear> 
+                  <lb n="2"/><w lemma="ἅγιος">ἅ
+                    <lb n="3" break="no"/>γι
+                    <lb n="4" break="no"/>o
+                    <lb n="5" break="no"/>ς</w>
+                  <cb n="b"/>
+                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
                  </ab>
             </div>
             <div type="apparatus">
