@@ -1133,7 +1133,7 @@
                     <idno type="HGC">http://www.cyprusgazetteer.org/146506/176/</idno>
                     <idno type="geonames">https://www.geonames.org/15933/agios-antonios.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl><ptr target="bibliography.xml#Perdiki2014a"/><citedRange>19-34</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Perdiki2013-14"/><citedRange>19-34</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Jeffery1918"/><citedRange>193-94</citedRange></bibl>
