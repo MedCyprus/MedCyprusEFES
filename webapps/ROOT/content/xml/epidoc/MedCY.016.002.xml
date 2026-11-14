@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Prelate, unidentified</title>
+                <title>Invocation(?)</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -65,7 +65,7 @@
                     <term type="textType" key="doc17">unknown</term>
                 </keywords>
             </textClass>
-            <creation>transcription (G. Apeitos, Th. Petrou )</creation>
+            <creation>transcription (G. Apeitos, Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -78,10 +78,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"></gap>Ν
-                    <lb n="2"/>ΦΡΧ
-                    <lb n="3"/>Ν<gap reason="lost" unit="character" quantity="2"></gap>Χ                  
-                    <lb n="4"/>ΒΗ
-                    <lb n="5"/>Υ<hi rend="ligature">ΤΗ</hi>Σ
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"></gap>ΦΡΧ
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"></gap>Ν<gap reason="lost" unit="character" quantity="2"></gap>Χ                  
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"></gap>ΒΗ
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"></gap>Υ<hi rend="ligature">ΤΗ</hi>Σ
                  </ab>
             </div>
             <div type="apparatus">
