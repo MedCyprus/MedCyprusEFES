@@ -1237,7 +1237,7 @@
                     <idno type="geonames">https://www.geonames.org/4855/panagia.html</idno>
                     <listBibl type="inscriptions">
                         <bibl><ptr target="bibliography.xml#Gabelić1984"/></bibl>
-                        <bibl><ptr target="bibliography.xml#Perdiki2014b"/><citedRange>250-65</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Perdiki2014"/><citedRange>250-65</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>282</citedRange></bibl>
@@ -1250,7 +1250,7 @@
                         <bibl><ptr target="bibliography.xml#MKE"/><citedRange>14: 375-76</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Ioannou2014"/><citedRange>278-99</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Myriantheus2014"/><citedRange>266-77</citedRange></bibl>
-                        <bibl><ptr target="bibliography.xml#Perdiki2014b"/><citedRange>250-65</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Perdiki2014"/><citedRange>250-65</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Procopiou2014"/><citedRange>220-39</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#ProcopiouDemetriou2014"/><citedRange>240-49</citedRange></bibl>
                         <bibl><ptr target="bibliography.xml#Procopiou2018"/><citedRange>76-79, 81, 83</citedRange></bibl>
