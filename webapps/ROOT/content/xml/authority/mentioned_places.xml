@@ -85,8 +85,8 @@
                 </place>
                 
                 <place xml:id="Nitria">
-                    <placeName xml:lang="grc">Νιτρία/Σκῆτις</placeName>
-                    <placeName xml:lang="en">Nitria/Sketis</placeName>
+                    <placeName xml:lang="grc">Νιτρία</placeName>
+                    <placeName xml:lang="en">Nitria</placeName>
                     <idno type="cyprusgazetteer">https://pleiades.stoa.org/places/727176/</idno>
                 </place>
                 
@@ -116,7 +116,7 @@
                 </place>
                 
                 <place xml:id="Sketis">
-                    <placeName xml:lang="grc">Σκήτις</placeName>
+                    <placeName xml:lang="grc">Σκῆτις</placeName>
                     <placeName xml:lang="en">Sketis</placeName>
                     <idno type="pleiades">https://pleiades.stoa.org/places/727232</idno>
                 </place>
