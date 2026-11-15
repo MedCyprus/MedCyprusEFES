@@ -120,6 +120,12 @@
                     <placeName xml:lang="en">Skopelos</placeName>
                     <idno type="pleiades">https://pleiades.stoa.org/places/658584</idno>
                 </place>
+                
+                <place xml:id="Syria">
+                    <placeName xml:lang="grc">Συρία</placeName>
+                    <placeName xml:lang="en">Syria</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/981550</idno>
+                </place>
                
             </listPlace>
         </body>
