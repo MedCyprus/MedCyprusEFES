@@ -84,9 +84,9 @@
                <lb n="3" break="no"/>μ</name>
                <cb n="a"/>   
                 <lb n="1"/>ὁ
-                <lb n="2"/><addName type="epithet" key="Syrian">Σύ
+                <lb n="2"/><addName type="epithet" key="Syrian"><placeName ref="mentioned_places.xml#Syria">Σύ
                 <lb n="3" break="no"/>ρο
-                <lb n="4" break="no"/><supplied reason="lost">ς</supplied></addName></persName>
+                <lb n="4" break="no"/><supplied reason="lost">ς</supplied></placeName></addName></persName>
               </ab>
             </div>
             <div type="apparatus">
