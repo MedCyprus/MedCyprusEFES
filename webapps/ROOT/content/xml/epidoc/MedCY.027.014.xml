@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Diomedes</title>
+                <title>Saint Diomedios</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -42,8 +42,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#Diomedes">Diomedes</rs>
-                                   <rs type="iconography" ref="#martyr"></rs>
+                            <p><rs type="iconography" ref="#Diomedios">Diomedios</rs>
+                                   <rs type="iconography" ref="#deacon"></rs>
                                    <rs type="iconography" ref="#male"></rs></p>
                         </decoDesc>
                     </physDesc>
@@ -78,12 +78,12 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                    <cb n="a"/>
-                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Diomedes"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> 
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Diomedios"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> 
                    <cb n="b"/>      
-                    <lb n="1"/><name type="forename" nymRef="#Διομήδης"><choice><sic>Δη
+                    <lb n="1"/><name type="forename" nymRef="#Διομήδιος"><choice><sic>Δη
                    <lb n="2" break="no"/>μ<choice><orig>η</orig><reg>ή</reg></choice>
                      <lb n="3" break="no"/>δη
-                    <lb n="1" break="no"/>oς</sic><corr>Διομήδης</corr></choice></name></persName>                   
+                    <lb n="1" break="no"/>oς</sic><corr>Διομήδιος</corr></choice></name></persName>                   
                  </ab>
             </div>
             <div type="apparatus">
