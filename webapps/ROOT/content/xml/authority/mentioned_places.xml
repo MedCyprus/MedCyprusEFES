@@ -115,6 +115,12 @@
                     <idno type="pleiades">https://pleiades.stoa.org/places/609521</idno>
                 </place>
                 
+                <place xml:id="Sketis">
+                    <placeName xml:lang="grc">Σκήτις</placeName>
+                    <placeName xml:lang="en">Sketis</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/727232</idno>
+                </place>
+                
                 <place xml:id="Skopelos">
                     <placeName xml:lang="grc">Σκόπελος</placeName>
                     <placeName xml:lang="en">Skopelos</placeName>
