@@ -354,10 +354,10 @@
                 </person>
                 
                 <person xml:id="DanielStylites">
-                    <persName xml:lang="grc">Δανιήλ</persName>
+                    <persName xml:lang="grc">Δανιήλ ὁ στυλίτης</persName>
                     <persName xml:lang="en">Daniel the Stylite</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="DanielStylites" key="Stylites">Στυλίτης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="DanielStylites" key="Stylites">Stylites</persName>
+                    <persName xml:lang="en" type="epithet" subtype="DanielStylites" key="Stylites">Stylite</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q768229</idno>                   
                 </person>
                 
@@ -381,9 +381,9 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q310633</idno>                   
                 </person>
                 
-                <person xml:id="DiomedesTheCypriot">
-                    <persName xml:lang="grc">Διομήδης</persName>
-                    <persName xml:lang="en">Diomedes</persName>                   
+                <person xml:id="Diomedios">
+                    <persName xml:lang="grc">Διομήδιος</persName>
+                    <persName xml:lang="en">Diomedios</persName>                   
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
