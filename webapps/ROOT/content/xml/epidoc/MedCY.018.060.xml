@@ -79,7 +79,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <cb n="a"/>
-                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Cosmas"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="KosmasDamascus"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
                 <lb n="2"/><name nymRef ="#Κοσμᾶς" type="forename">Κ
                 <lb n="3" break="no"/><supplied reason="lost">ο</supplied>
                 <lb n="4" break="no"/><supplied reason="lost">σ</supplied>
@@ -87,7 +87,7 @@
                    <lb n="6" break="no"/><choice><orig>α</orig><reg>ᾶ</reg></choice>
                    <lb n="7" break="no"/>ς</name>
                     <cb n="b"/>
-                    <lb n="1"/><placeName ref="mentioned_places.xml#Damascus">ὁ
+                    <lb n="1"/><addName type="epithet" key="Damaskenos"><placeName ref="mentioned_places.xml#Damascus">ὁ
                       <lb n="2"/><choice><sic>Δ
                        <lb n="3" break="no"/>α
                       <lb n="4" break="no"/>μ
@@ -95,7 +95,7 @@
                         <lb n="6" break="no"/>σ
                         <lb n="7" break="no"/>κı
                        <lb n="8" break="no"/>ν
-                        <lb n="9" break="no"/><hi rend="ligature">ός</hi></sic><corr>Δαμασκηνός</corr></choice></placeName></persName>
+                        <lb n="9" break="no"/><hi rend="ligature">ός</hi></sic><corr>Δαμασκηνός</corr></choice></placeName></addName></persName>
                  </ab>
             </div>
             <div type="apparatus">
