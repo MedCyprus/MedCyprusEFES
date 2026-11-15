@@ -12,7 +12,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>University of Cyprus - MedCyprus</authority>
-                <idno type="filename">MedCY.050.001</idno>
+                <idno type="filename">MedCY.050.003</idno>
                 <availability>
                   <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
                 </availability>
@@ -27,21 +27,24 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
-                                    <rs type="placement-building" ref="#nave">Nave, southwestern pier, east face</rs>
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                    <rs type="placement-building" ref="#nave">Nave, northwest pier supporting the eastern dome, west face</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the Virgin</layout>
+                                <layout>On either side of the Virgin's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. Letter height: <height unit="cm">3</height>
+                            <handNote>White majuscule letters against blue background. Character size varies. Eta with its crossbar crossed. ΜΗΡ joined in ligature. Letter height: <height unit="cm">2-7</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#VirginHodegetria">Virgin Hodegetria</rs></p>
+                            <p><rs type="iconography" ref="#VirginHodegetria">Virgin Hodegetria</rs>
+                                  <rs type="iconography" ref="#ChristChild"></rs>
+                                  <rs type="iconography" ref="#female"></rs>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -66,27 +69,39 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+         <graphic rend="primary" url="050-003-01.jpg"><desc>(© Department of Antiquities, Cyprus, 2004)</desc></graphic>
+        <graphic url="050-003-02.JPG"><desc></desc></graphic>
+        <graphic url="050-003-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                  <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline"><supplied reason="lost">Μ</supplied><choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
+                    <milestone unit="column"/><w lemma="θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><unclear>ῦ</unclear></abbr></expan></w></persName> 
+                  <cb n="a"/>
+                  <lb n="1"/><addName type="epithet" key="Hodegetria"><unclear>Ἡ</unclear>
+                  <lb n="2"/><supplied reason="lost">Ὁ</supplied>
+                  <lb n="3" break="no"/>δη
+                  <lb n="4" break="no"/>
+                   <cb n="b"/>
+                   <lb n="1"/><supplied reason="lost">γή</supplied>
+                   <lb n="2" break="no"/><supplied reason="lost">τρι</supplied>
+                   <lb n="3" break="no"/>α</addName>
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Mother of God, [Hodegetria?]</p>
+                <p>Mother of God, Hodegetria</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
