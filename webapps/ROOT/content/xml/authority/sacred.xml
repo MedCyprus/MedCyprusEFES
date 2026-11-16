@@ -503,10 +503,10 @@
                 <person xml:id="FortyMartyrs">
                     <persName xml:lang="grc"><seg>οἱ ἅγιοι</seg> Τεσσαράκοντα</persName>
                     <persName xml:lang="en">Forty Martyrs of Sebasteia</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="FortyMartyrs" key="kallinikos">καλλίνικοι</persName>
-                    <persName xml:lang="en" type="epithet" subtype="FortyMartyrs" key="kallinikos">gloriously triumphant</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="FortyMartyrs" key="kallinikos">Καλλίνικος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="FortyMartyrs" key="kallinikos">Gloriously triumphant</persName>
                     <persName xml:lang="grc" type="epithet" subtype="FortyMartyrs" key="ofSebasteia">Σεβαστείας</persName>
-                    <persName xml:lang="en" type="epithet" subtype="FortyMartyrs" key="ofSebasteia">of Sebasteia</persName>
+                    <persName xml:lang="en" type="epithet" subtype="FortyMartyrs" key="ofSebasteia">Sebasteia, of</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q931446</idno>
                 </person>
                 
@@ -583,22 +583,24 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9282211</idno>                   
                 </person>
                 
-                <person xml:id="GregoryOfCrete">
-                    <persName xml:lang="grc">Γρηγόριος ὁ ἐν τῷ Ἀκρίτα</persName>
-                    <persName xml:lang="en">Gregory of cape Akritas</persName>                   
+                <person xml:id="GregoryOfAkritas">
+                    <persName xml:lang="grc">Γρηγόριος ὁ ἐν τῷ Ἀκρίτᾳ</persName>
+                    <persName xml:lang="en">Gregory of Cape Akritas</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="GregoryOfAkritas" key="ofCapeAkritas">ἐν τῷ Ἀκρίτᾳ</persName>
+                    <persName xml:lang="en" type="epithet" subtype="GregoryOfAkritas" key="ofCapeAkritas">Cape Akritas, of</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q12750535</idno>                   
                 </person>
                            
                 <person xml:id="GregoryNazianzenos">
-                    <persName xml:lang="grc">Γρηγόριος</persName>
-                    <persName xml:lang="en">Gregory the Theologian / Nazianzenos</persName> 
+                    <persName xml:lang="grc">Γρηγόριος Ναζιανζηνός</persName>
+                    <persName xml:lang="en">Gregory of Nazianzos</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="GregoryNazianzenos" key="Theologian">Θεολόγος</persName>
                     <persName xml:lang="en" type="epithet" subtype="GregoryNazianzenos" key="Theologian">Theologian</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44011</idno>                   
                 </person>
                 
                 <person xml:id="GregoryOfNyssa">
-                    <persName xml:lang="grc">Γρηγόριος</persName>
+                    <persName xml:lang="grc">Γρηγόριος Νύσσης</persName>
                     <persName xml:lang="en">Gregory of Nyssa</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="GregoryOfNyssa" key="of Nyssa">Νύσσης</persName>
                     <persName xml:lang="en" type="epithet" subtype="GregoryOfNyssa" key="of Nyssa">Nyssa, of </persName>
@@ -606,8 +608,8 @@
                 </person>
                 
                 <person xml:id="GregoryThaumatourgos">
-                    <persName xml:lang="grc">Γρηγόριος</persName>
-                    <persName xml:lang="en">Gregory Thaumatourgos</persName> 
+                    <persName xml:lang="grc">Γρηγόριος ὁ Θαυματουργός</persName>
+                    <persName xml:lang="en">Gregory the Wonderworker</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="GregoryThaumatourgos" key="Thaumatourgos">Θαυματουργός</persName>
                     <persName xml:lang="en" type="epithet" subtype="GregoryThaumatourgos" key="Thaumatourgos">Thaumatourgos / Wonderworker</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q337537</idno>                   
