@@ -303,15 +303,15 @@
                 
                 <person xml:id="ClementRome">
                     <persName xml:lang="grc">Κλήμης</persName>
-                    <persName xml:lang="en">Clement, of Rome(?)</persName>
+                    <persName xml:lang="en">Clement of Rome(?)</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q42887</idno>                   
                 </person>
                
                 <person xml:id="ConstantineYoungerOfOrmideia">
                     <persName xml:lang="grc">Κωνσταντῖνος ὁ Νέος τῆς Ὀρμήδειας</persName>
-                    <persName xml:lang="en">Constantine the Younger, of Ormideia</persName>     
+                    <persName xml:lang="en">Constantine the Younger of Ormideia</persName>     
                     <persName xml:lang="grc" type="epithet" subtype="ConstantineYoungerOfOrmideia" key="the Younger of Ormideia">Νέος τῆς Ὁρμήδειας</persName>
-                    <persName xml:lang="en" type="epithet" subtype="ConstantineYoungerOfOrmideia" key="the Younger of Ormideia">Younger of Ormideia</persName>
+                    <persName xml:lang="en" type="epithet" subtype="ConstantineYoungerOfOrmideia" key="the Younger of Ormideia">Younger, of Ormideia</persName>
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
@@ -670,13 +670,13 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q188794</idno>                   
                 </person>
                 
-                <person xml:id="IgnatiosTheophoros">
-                    <persName xml:lang="grc">Ἰγνάτιος ὁ Θεοφόρος</persName>
-                    <persName xml:lang="en">Ignatios Theophoros</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="IgnatiosTheophoros" key="Theophoros">Θεοφόρος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="IgnatiosTheophoros" key="Theophoros">God-bearing</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="IgnatiosTheophoros" key="of Antioch">Ἀντιοχείας</persName>
-                    <persName xml:lang="en" type="epithet" subtype="IgnatiosTheophoros" key="of Antioch">Antioch, of</persName>
+                <person xml:id="IgnatiosOfAntioch">
+                    <persName xml:lang="grc">Ἰγνάτιος Ἀντιοχείας</persName>
+                    <persName xml:lang="en">Ignatios of Antioch</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="IgnatiosOfAntioch" key="Theophoros">Θεοφόρος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="IgnatiosOfAntioch" key="Theophoros">God-bearing</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="IgnatiosOfAntioch" key="of Antioch">Ἀντιοχείας</persName>
+                    <persName xml:lang="en" type="epithet" subtype="IgnatiosOfAntioch" key="of Antioch">Antioch, of</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44170</idno>                   
                 </person>
                 
