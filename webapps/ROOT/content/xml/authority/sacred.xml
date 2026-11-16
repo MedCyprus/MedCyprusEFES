@@ -745,8 +745,8 @@
                 <person xml:id="JohnOfDamascus">
                     <persName xml:lang="grc">Ἰωάννης ὁ Δαμασκηνός</persName>
                     <persName xml:lang="en">John of Damascus</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="JohnOfDamascus" key="of Damascus">Δαμασκηνός</persName>
-                    <persName xml:lang="en" type="epithet" subtype="JohnOfDamascus" key="of Damascus">Damaskenos / of Damascus</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JohnOfDamascus" key="Damaskenos">Δαμασκηνός</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JohnOfDamascus" key="Damaskenos">Damaskenos / of Damascus</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q51884</idno>                   
                 </person>
                 
