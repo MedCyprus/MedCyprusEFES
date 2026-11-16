@@ -531,9 +531,17 @@
                 <person xml:id="George">
                     <persName xml:lang="grc">Γεώργιος</persName>
                     <persName xml:lang="en">George</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="George" key="Cappadocian">Καππαδόκης</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="George" key="Cappadocian">Καππαδόξ</persName>
                     <persName xml:lang="en" type="epithet" subtype="George" key="Cappadocian">Cappadocian</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="George" key="kosmopothetos">κοσμοπόθητος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="George" key="kosmopothetos">kosmopothetos / beloved by the world</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q48438</idno>                   
+                </person>
+                
+                <person xml:id="Gerasimos">
+                    <persName xml:lang="grc">Γεράσιμος</persName>
+                    <persName xml:lang="en">Gerasimos</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1358575</idno>                   
                 </person>
                 
                 <person xml:id="Germanos">
@@ -547,10 +555,11 @@
                     <persName xml:lang="en">God</persName>
                     <persName xml:lang="grc" type="epithet" subtype="God" key="Lord">Κύριος</persName>
                     <persName xml:lang="en" type="epithet" subtype="God" key="Lord">Lord</persName>
-                    <persName xml:lang="grc">Παντοκράτωρ</persName>
-                    <persName xml:lang="en">Almighty</persName>
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q825</idno>                   
-                    <!--What do we do with Lord? It also occurs on its own, but it also occurs as Lord God - Kyrios o Theos-->
+                    <persName xml:lang="grc" type="epithet" subtype="God" key="Almighty">Παντοκράτωρ</persName>
+                    <persName xml:lang="en" type="epithet" subtype="God" key="Almighty">Pantokrator / Almighty</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="God" key="onlyHoly">μόνος ἅγιος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="God" key="onlyHoly">only Holy One</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q825</idno>
                     <note>See also: Christ, Jesus Christ, King of Glory, Lord, Trinity, Word, Master</note>
                 </person>
                 
@@ -560,16 +569,16 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q59550534</idno>                   
                 </person>
                 
-                <person xml:id="GregentiosArchbishopHomerites">
+                <person xml:id="GregentiosOfTaphar">
                     <persName xml:lang="grc">Γρηγέντιος, ἀρχιεπίσκοπος Ὁμηριτῶν</persName>
-                    <persName xml:lang="en">Gregentios, archbishop of the Homerites</persName>                   
+                    <persName xml:lang="en">Gregentios, archbishop of the Himyarites</persName>                    
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1545017</idno>                   
                 </person>
                 
                 <person xml:id="GregoryOfAgrigento">
-                    <persName xml:lang="grc">Γρηγόριος</persName>
+                    <persName xml:lang="grc">Γρηγόριος ὁ Ἀκραγαντῖνος</persName>
                     <persName xml:lang="en">Gregory of Agrigento</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="GregoryOfAgrigento" key="Akragantinos">Ἀκραγαντίνος</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="GregoryOfAgrigento" key="Akragantinos">Ἀκραγαντῖνος</persName>
                     <persName xml:lang="en" type="epithet" subtype="GregoryOfAgrigento" key="Akragantinos">Akragantinos / of Agrigento</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9282211</idno>                   
                 </person>
