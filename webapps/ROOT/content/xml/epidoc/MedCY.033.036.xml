@@ -39,9 +39,11 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#JamesPersian">James Persian</rs>
+                            <p><rs type="iconography" ref="#JamesPersian">James the Persian</rs>
                                    <rs type="iconography" ref="#martyr"/>
+                                <rs type="iconography" ref="#militarysaint"/>
                                    <rs type="iconography" ref="#male"/>
+                                <rs type="iconography" ref="#dresscivilian"/>
                             </p>
                         </decoDesc>
                     </physDesc>

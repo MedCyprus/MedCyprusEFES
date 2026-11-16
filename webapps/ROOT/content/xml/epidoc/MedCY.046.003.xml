@@ -47,7 +47,7 @@
                     <history>
                         <origin>
                             <origPlace ref="locations.xml#PanoLefkara" n="single">Pano Lefkara, Holy Cross</origPlace>
-                            <origDate notBefore="1201" notAfter="1250" precision="medium" evidence="artistic-style">first half of 13th century</origDate>
+                            <origDate notBefore="1201" notAfter="1250" precision="medium" evidence="artistic-style">first half of the 13th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
@@ -76,8 +76,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                    <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Eulalios"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>ά</orig><reg>ἅ</reg></choice>γ</abbr><ex>ιος</ex></expan></w>
-                   <lb n="2"/><name type="forename" nymRef="#Εὑλάλιος"><choice><sic><choice><orig>Υ</orig><reg>Ὑ</reg></choice>λ<choice><orig>α</orig><reg>ά</reg></choice>λη
-                  <lb n="3" break="no"/><hi rend="ligature">ος</hi></sic><corr>Εὑλάλιος</corr></choice></name></persName>
+                   <lb n="2"/><name type="forename" nymRef="#Εὐλάλιος"><choice><sic><choice><orig>Υ</orig><reg>Ὑ</reg></choice>λ<choice><orig>α</orig><reg>ά</reg></choice>λη
+                  <lb n="3" break="no"/><hi rend="ligature">ος</hi></sic><corr>Εὐλάλιος</corr></choice></name></persName>
                  </ab>
             </div>
             <div type="apparatus">

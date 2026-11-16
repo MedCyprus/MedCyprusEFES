@@ -303,15 +303,15 @@
                 
                 <person xml:id="ClementRome">
                     <persName xml:lang="grc">Κλήμης</persName>
-                    <persName xml:lang="en">Clement, of Rome(?)</persName>
+                    <persName xml:lang="en">Clement of Rome(?)</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q42887</idno>                   
                 </person>
                
                 <person xml:id="ConstantineYoungerOfOrmideia">
                     <persName xml:lang="grc">Κωνσταντῖνος ὁ Νέος τῆς Ὀρμήδειας</persName>
-                    <persName xml:lang="en">Constantine the Younger, of Ormideia</persName>     
+                    <persName xml:lang="en">Constantine the Younger of Ormideia</persName>     
                     <persName xml:lang="grc" type="epithet" subtype="ConstantineYoungerOfOrmideia" key="the Younger of Ormideia">Νέος τῆς Ὁρμήδειας</persName>
-                    <persName xml:lang="en" type="epithet" subtype="ConstantineYoungerOfOrmideia" key="the Younger of Ormideia">Younger of Ormideia</persName>
+                    <persName xml:lang="en" type="epithet" subtype="ConstantineYoungerOfOrmideia" key="the Younger of Ormideia">Younger, of Ormideia</persName>
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
@@ -433,8 +433,8 @@
                 </person>
                 
                 <person xml:id="EphraimSyrian">
-                    <persName xml:lang="grc">Ἐφραίμ</persName>
-                    <persName xml:lang="en">Ephraim</persName>     
+                    <persName xml:lang="grc">Ἐφραίμ ὁ Σύρος</persName>
+                    <persName xml:lang="en">Ephraim the Syrian</persName>     
                     <persName xml:lang="grc" type="epithet" subtype="EphraimSyrian" key="Syrian">Σύρος</persName>
                     <persName xml:lang="en" type="epithet" subtype="EphraimSyrian" key="Syrian">Syrian</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q200608</idno>                   
@@ -465,7 +465,7 @@
                 </person>
   
                 <person xml:id="Eulalios">
-                    <persName xml:lang="grc">Εὑλάλιος</persName>
+                    <persName xml:lang="grc">Εὐλάλιος</persName>
                     <persName xml:lang="en">Eulalios</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q5408742</idno>                   
                 </person>
@@ -499,16 +499,14 @@
                     <persName xml:lang="en">Ezekiel</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q194064</idno>                   
                 </person>
-                
-               <!--<person xml:id="Fathers">
-                    <persName xml:lang="grc"> <seg>οἱ</seg> τριακόσιοι δεκαοκτὼ θεοφόροι Πατέρες</persName>
-                    <persName xml:lang="en">318 Godbearing Fathers (of the First Ecumenical Council) </persName>
-                    <idno type="wikidata">Not listed</idno>
-                </person>-->
-                
+              
                 <person xml:id="FortyMartyrs">
                     <persName xml:lang="grc"><seg>οἱ ἅγιοι</seg> Τεσσαράκοντα</persName>
-                    <persName xml:lang="en">Forty Martyrs of Sebaste</persName>
+                    <persName xml:lang="en">Forty Martyrs of Sebasteia</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="FortyMartyrs" key="kallinikos">Καλλίνικος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="FortyMartyrs" key="kallinikos">Gloriously triumphant</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="FortyMartyrs" key="ofSebasteia">Σεβαστείας</persName>
+                    <persName xml:lang="en" type="epithet" subtype="FortyMartyrs" key="ofSebasteia">Sebasteia, of</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q931446</idno>
                 </person>
                 
@@ -533,9 +531,17 @@
                 <person xml:id="George">
                     <persName xml:lang="grc">Γεώργιος</persName>
                     <persName xml:lang="en">George</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="George" key="Cappadocian">Καππαδόκης</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="George" key="Cappadocian">Καππαδόξ</persName>
                     <persName xml:lang="en" type="epithet" subtype="George" key="Cappadocian">Cappadocian</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="George" key="kosmopothetos">κοσμοπόθητος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="George" key="kosmopothetos">kosmopothetos / beloved by the world</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q48438</idno>                   
+                </person>
+                
+                <person xml:id="Gerasimos">
+                    <persName xml:lang="grc">Γεράσιμος</persName>
+                    <persName xml:lang="en">Gerasimos</persName>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1358575</idno>                   
                 </person>
                 
                 <person xml:id="Germanos">
@@ -549,10 +555,11 @@
                     <persName xml:lang="en">God</persName>
                     <persName xml:lang="grc" type="epithet" subtype="God" key="Lord">Κύριος</persName>
                     <persName xml:lang="en" type="epithet" subtype="God" key="Lord">Lord</persName>
-                    <persName xml:lang="grc">Παντοκράτωρ</persName>
-                    <persName xml:lang="en">Almighty</persName>
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q825</idno>                   
-                    <!--What do we do with Lord? It also occurs on its own, but it also occurs as Lord God - Kyrios o Theos-->
+                    <persName xml:lang="grc" type="epithet" subtype="God" key="Almighty">Παντοκράτωρ</persName>
+                    <persName xml:lang="en" type="epithet" subtype="God" key="Almighty">Pantokrator / Almighty</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="God" key="onlyHoly">μόνος ἅγιος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="God" key="onlyHoly">only Holy One</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q825</idno>
                     <note>See also: Christ, Jesus Christ, King of Glory, Lord, Trinity, Word, Master</note>
                 </person>
                 
@@ -562,36 +569,38 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q59550534</idno>                   
                 </person>
                 
-                <person xml:id="GregentiosArchbishopHomerites">
+                <person xml:id="GregentiosOfTaphar">
                     <persName xml:lang="grc">Γρηγέντιος, ἀρχιεπίσκοπος Ὁμηριτῶν</persName>
-                    <persName xml:lang="en">Gregentios, archbishop of the Homerites</persName>                   
+                    <persName xml:lang="en">Gregentios, archbishop of the Himyarites</persName>                    
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1545017</idno>                   
                 </person>
                 
                 <person xml:id="GregoryOfAgrigento">
-                    <persName xml:lang="grc">Γρηγόριος</persName>
+                    <persName xml:lang="grc">Γρηγόριος ὁ Ἀκραγαντῖνος</persName>
                     <persName xml:lang="en">Gregory of Agrigento</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="GregoryOfAgrigento" key="Akragantinos">Ἀκραγαντίνος</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="GregoryOfAgrigento" key="Akragantinos">Ἀκραγαντῖνος</persName>
                     <persName xml:lang="en" type="epithet" subtype="GregoryOfAgrigento" key="Akragantinos">Akragantinos / of Agrigento</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9282211</idno>                   
                 </person>
                 
-                <person xml:id="GregoryOfCrete">
-                    <persName xml:lang="grc">Γρηγόριος ὁ ἐν τῷ Ἀκρίτα</persName>
-                    <persName xml:lang="en">Gregory of cape Akritas</persName>                   
+                <person xml:id="GregoryOfAkritas">
+                    <persName xml:lang="grc">Γρηγόριος ὁ ἐν τῷ Ἀκρίτᾳ</persName>
+                    <persName xml:lang="en">Gregory of Cape Akritas</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="GregoryOfAkritas" key="ofCapeAkritas">ἐν τῷ Ἀκρίτᾳ</persName>
+                    <persName xml:lang="en" type="epithet" subtype="GregoryOfAkritas" key="ofCapeAkritas">Cape Akritas, of</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q12750535</idno>                   
                 </person>
                            
                 <person xml:id="GregoryNazianzenos">
-                    <persName xml:lang="grc">Γρηγόριος</persName>
-                    <persName xml:lang="en">Gregory the Theologian / Nazianzenos</persName> 
+                    <persName xml:lang="grc">Γρηγόριος Ναζιανζηνός</persName>
+                    <persName xml:lang="en">Gregory of Nazianzos</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="GregoryNazianzenos" key="Theologian">Θεολόγος</persName>
                     <persName xml:lang="en" type="epithet" subtype="GregoryNazianzenos" key="Theologian">Theologian</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44011</idno>                   
                 </person>
                 
                 <person xml:id="GregoryOfNyssa">
-                    <persName xml:lang="grc">Γρηγόριος</persName>
+                    <persName xml:lang="grc">Γρηγόριος Νύσσης</persName>
                     <persName xml:lang="en">Gregory of Nyssa</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="GregoryOfNyssa" key="of Nyssa">Νύσσης</persName>
                     <persName xml:lang="en" type="epithet" subtype="GregoryOfNyssa" key="of Nyssa">Nyssa, of </persName>
@@ -599,8 +608,8 @@
                 </person>
                 
                 <person xml:id="GregoryThaumatourgos">
-                    <persName xml:lang="grc">Γρηγόριος</persName>
-                    <persName xml:lang="en">Gregory Thaumatourgos</persName> 
+                    <persName xml:lang="grc">Γρηγόριος ὁ Θαυματουργός</persName>
+                    <persName xml:lang="en">Gregory the Wonderworker</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="GregoryThaumatourgos" key="Thaumatourgos">Θαυματουργός</persName>
                     <persName xml:lang="en" type="epithet" subtype="GregoryThaumatourgos" key="Thaumatourgos">Thaumatourgos / Wonderworker</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q337537</idno>                   
@@ -661,13 +670,13 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q188794</idno>                   
                 </person>
                 
-                <person xml:id="IgnatiosTheophoros">
-                    <persName xml:lang="grc">Ἰγνάτιος ὁ Θεοφόρος</persName>
-                    <persName xml:lang="en">Ignatios Theophoros</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="IgnatiosTheophoros" key="Theophoros">Θεοφόρος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="IgnatiosTheophoros" key="Theophoros">God-bearing</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="IgnatiosTheophoros" key="of Antioch">Ἀντιοχείας</persName>
-                    <persName xml:lang="en" type="epithet" subtype="IgnatiosTheophoros" key="of Antioch">Antioch, of</persName>
+                <person xml:id="IgnatiosOfAntioch">
+                    <persName xml:lang="grc">Ἰγνάτιος Ἀντιοχείας</persName>
+                    <persName xml:lang="en">Ignatios of Antioch</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="IgnatiosOfAntioch" key="Theophoros">Θεοφόρος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="IgnatiosOfAntioch" key="Theophoros">God-bearing</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="IgnatiosOfAntioch" key="of Antioch">Ἀντιοχείας</persName>
+                    <persName xml:lang="en" type="epithet" subtype="IgnatiosOfAntioch" key="of Antioch">Antioch, of</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44170</idno>                   
                 </person>
                 
@@ -684,7 +693,7 @@
                 </person>
                 
                 <person xml:id="JamesLordBrother">
-                    <persName xml:lang="grc">Ἰάκωβος</persName>
+                    <persName xml:lang="grc">Ἰάκωβος ὁ Ἀδελφόθεος</persName>
                     <persName xml:lang="en">James the Lord's Brother</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="JamesLordBrother" key="Lord's Brother">Ἀδελφόθεος</persName>
                     <persName xml:lang="en" type="epithet" subtype="JamesLordBrother" key="Lord's Brother">Lord's Brother</persName>

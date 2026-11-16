@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Ignatios Theophoros</title>
+                <title>Saint Ignatios of Antioch</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -38,7 +38,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#IgnatiosTheophoros">Ignatios</rs>
+                            <p><rs type="iconography" ref="#IgnatiosOfAntioch">Ignatios of Antioch</rs>
                                    <rs type="iconography" ref="#prelate"/>
                                    <rs type="iconography" ref="#male"/></p>
                         </decoDesc>
@@ -76,10 +76,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                   <cb n="a"/>
-                    <lb n="1"/>Ὁ <persName type="sacred" key="IgnatiosTheophoros"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
-                    <lb n="2"/><name type="forename" nymRef="#Ἰγνάτιος"><choice><sic><choice><orig>Ι</orig><reg>Ἰ</reg></choice><lb n="3" break="no"/>γν<lb n="4" break="no"/>ά<lb n="5" break="no"/>τ<supplied reason="omitted">ι</supplied><lb n="6" break="no"/>ος</sic></choice></name> 
+                    <lb n="1"/>Ὁ <persName type="sacred" key="IgnatiosOfAntioch"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                    <lb n="2"/><name type="forename" nymRef="#Ἰγνάτιος"><choice><sic><choice><orig>Ι</orig><reg>Ἰ</reg></choice><lb n="3" break="no"/>γν<lb n="4" break="no"/>ά<lb n="5" break="no"/>τ<supplied reason="omitted">ι</supplied><lb n="6" break="no"/>ος</sic><corr>Ἰγνάτιος</corr></choice></name> 
                   <cb n="b"/>
-                  <lb n="1"/>ὁ <addName type="epithet" subtype="IgnatiosTheophoros" key="Theophoros"><choice><sic>Θεο
+                  <lb n="1"/>ὁ <addName type="epithet" key="Theophoros"><choice><sic>Θεο
                   <lb n="2" break="no"/>φώ
                   <lb n="3" break="no"/>ρο
                   <lb n="4" break="no"/>ς</sic><corr>Θεοφόρος</corr></choice></addName></persName>
