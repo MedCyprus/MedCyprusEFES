@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#IgnatiosTheophoros">Ignatios</rs>
+                            <p><rs type="iconography" ref="#IgnatiosOfAntioch">Ignatios of Antioch</rs>
                                    <rs type="iconography" ref="#prelate"/>
                                    <rs type="iconography" ref="#male"/>
                             </p>
@@ -78,10 +78,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                    <cb n="a"/>
-                   <lb n="1"/>Ὁ <persName type="sacred" key="IgnatiosTheophoros"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
-                      <lb n="2"/><name nymRef="#Ἰγνάτιος" type="forename">Ἰ<lb n="3" break="no"/>γνά<lb n="4" break="no"/>τι<lb n="5" break="no"/>ος</name></persName>  
+                   <lb n="1"/>Ὁ <persName type="sacred" key="IgnatiosOfAntioch"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                      <lb n="2"/><name nymRef="#Ἰγνάτιος" type="forename">Ἰ<lb n="3" break="no"/>γνά<lb n="4" break="no"/>τι<lb n="5" break="no"/>ος</name> 
                     <cb n="b"/>
-                       <lb n="1"/><placeName ref="mentioned_places.xml#Antioch"><expan><abbr>Ἀ<lb n="2" break="no"/>ν<lb n="3" break="no"/><hi rend="ligature">τη</hi><lb n="4" break="no"/><supplied reason="lost">ο</supplied><lb n="5" break="no"/>χ</abbr><ex>εία</ex><abbr>ς</abbr></expan></placeName>
+                       <lb n="1"/><addName type="epithet" key="of Antioch"><placeName ref="mentioned_places.xml#Antioch"><expan><abbr>Ἀ<lb n="2" break="no"/>ν<lb n="3" break="no"/><hi rend="ligature">τη</hi><lb n="4" break="no"/><supplied reason="lost">ο</supplied><lb n="5" break="no"/>χ</abbr><ex>εία</ex><abbr>ς</abbr></expan></placeName></addName></persName> 
                  </ab>
             </div>
             <div type="apparatus">
