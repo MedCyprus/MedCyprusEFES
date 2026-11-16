@@ -75,17 +75,17 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <cb n="a"/>
-                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="GregoryOfCrete"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="GregoryOfAkritas"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
                   <lb n="2"/><name type="forename" nymRef="#Γρηγόριος">Γρη
                     <lb n="3" break="no"/>γό
                     <lb n="4" break="no"/><supplied reason="lost">ριος</supplied></name>
                     <cb n="b"/>
-                    <lb n="1"/>ὁ
+                    <lb n="1"/><addName type="epithet" key="ofCapeAkritas">ὁ
                   <lb n="2"/>ἐν
                   <lb n="3"/>τω
                     <lb n="4"/><placeName ref="mentioned_places.xml#AkritasPromontory">Ἀ
                      <lb n="5" break="no"/><supplied reason="lost">κ</supplied>ρ<supplied reason="lost">ί</supplied>
-                     <lb n="6" break="no"/>τ<supplied reason="lost">α</supplied></placeName></persName>
+                     <lb n="6" break="no"/>τ<supplied reason="lost">α</supplied></placeName></addName></persName>
                  </ab>
             </div>
             <div type="apparatus">
