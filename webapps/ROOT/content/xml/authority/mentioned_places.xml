@@ -42,6 +42,12 @@
                     <idno type="pleiades">https://pleiades.stoa.org/places/658381</idno>
                 </place>
                 
+                <place xml:id="Cappadocia">
+                    <placeName xml:lang="grc">Καππαδοκία</placeName>
+                    <placeName xml:lang="en">Cappadodia</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/991402</idno>
+                </place>
+                
                 <place xml:id="Cyprus">
                     <placeName xml:lang="grc">Κύπρος</placeName>
                     <placeName xml:lang="en">Cyprus</placeName>
