@@ -20,7 +20,7 @@
                
                 <p>The <emph>Search</emph> function allows users to explore the <emph>inscription records</emph> in the corpus through free-text and faceted searches.</p>
 
-                <p><emph>Free-text search</emph> allows users to search the contents of the inscription records using Greek or English terms. <hi rend="font-style: italic;">>[Add list of fields that are searched how to use diacritics]</hi></p>
+                <p><emph>Free-text search</emph> currently allows users to search within all text in the Interpretative Edition, Apparatus Criticus, Commentary, and Translation, using English or Greek terms. For Greek terms, diacritics are required for the search to return results.</p>
                 
             <p rend="margin-left: 5%;"><emph>Search lemmatised text:</emph> Allows users to search for Greek words by their dictionary form (lemma), retrieving inscriptions containing different inflected forms of the same word. This search requires use of diacritics. Alternatively, the user may consult the Greek Words Index.</p>
                 
