@@ -159,6 +159,7 @@
                <xsl:when test="starts-with(.,'https://ontology.inscriptiones.org')">
                  <xsl:text> (</xsl:text>
                  <xsl:element name="a">
+                   <xsl:attribute name="target">_blank</xsl:attribute>
                    <xsl:attribute name="href" select="."/>
                    <xsl:attribute name="title">
                      <xsl:text>Definition of '</xsl:text>
