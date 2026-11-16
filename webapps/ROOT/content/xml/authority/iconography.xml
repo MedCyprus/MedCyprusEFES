@@ -481,7 +481,7 @@
                     <term xml:lang="en">Gregory of Cape Akritas</term>
                 </item>
                 <item xml:id="GregoryNazianzenos">
-                    <term xml:lang="en">Gregory the Theologian</term>
+                    <term xml:lang="en">Gregory of Nazianzos</term>
                 </item>
                 <item xml:id="GregoryOfNyssa">
                     <term xml:lang="en">Gregory of Nyssa</term>
@@ -510,9 +510,8 @@
                 <item xml:id="Hypatios">
                     <term xml:lang="en">Hypatios</term>
                 </item>
-                <item xml:id="IgnatiosTheophoros">
-                    <term xml:lang="en">Ignatios</term>
-                    <note>same as Ignatios of Antioch</note>
+                <item xml:id="IgnatiosOfAntioch">
+                    <term xml:lang="en">Ignatios of Antioch</term>
                 </item>
                 <item xml:id="Ioannes_1">
                     <term xml:lang="en">Ioannes, donor, Kakopetria, Saint Nicholas of the
