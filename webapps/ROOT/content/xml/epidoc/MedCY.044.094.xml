@@ -78,8 +78,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                <lb n="1"/><supplied reason="lost">Οἱ</supplied> <supplied reason="lost"><w lemma="ἅγιος">ἅγιοι</w></supplied> <persName type="sacred" key="FortyMartyrs"><w lemma="τεσσαράκοντα"><supplied reason="lost">τεσσαράκοντα</supplied></w></persName> <w lemma="μάρτυρ">μ<supplied reason="lost">άρτυρες</supplied></w> <w lemma="καλλίνικος">καλλίνικοι</w>
-               <lb n="1"/><space quantity="15" unit="character"/><placeName ref="mentioned_places.xml#Sebaste">Σεβ<supplied reason="lost">αστείας</supplied></placeName>
+                <lb n="1"/><supplied reason="lost">Οἱ</supplied> <supplied reason="lost"><w lemma="ἅγιος">ἅγιοι</w></supplied> <persName type="sacred" key="FortyMartyrs"><w lemma="τεσσαράκοντα"><supplied reason="lost">τεσσαράκοντα</supplied></w></persName> <w lemma="μάρτυρ">μ<supplied reason="lost">άρτυρες</supplied></w> <addName type="epithet" key="kallinikos"><w lemma="καλλίνικος">καλλίνικοι</w></addName>
+               <lb n="1"/><space quantity="15" unit="character"/><addName type="epithet" key="ofSebasteia"><placeName ref="mentioned_places.xml#Sebaste">Σεβ<supplied reason="lost">αστείας</supplied></placeName></addName>
               </ab>
             </div>
             <div type="apparatus">
