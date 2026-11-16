@@ -433,8 +433,8 @@
                 </person>
                 
                 <person xml:id="EphraimSyrian">
-                    <persName xml:lang="grc">Ἐφραίμ</persName>
-                    <persName xml:lang="en">Ephraim</persName>     
+                    <persName xml:lang="grc">Ἐφραίμ ὁ Σύρος</persName>
+                    <persName xml:lang="en">Ephraim the Syrian</persName>     
                     <persName xml:lang="grc" type="epithet" subtype="EphraimSyrian" key="Syrian">Σύρος</persName>
                     <persName xml:lang="en" type="epithet" subtype="EphraimSyrian" key="Syrian">Syrian</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q200608</idno>                   
@@ -465,7 +465,7 @@
                 </person>
   
                 <person xml:id="Eulalios">
-                    <persName xml:lang="grc">Εὑλάλιος</persName>
+                    <persName xml:lang="grc">Εὐλάλιος</persName>
                     <persName xml:lang="en">Eulalios</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q5408742</idno>                   
                 </person>
@@ -499,16 +499,14 @@
                     <persName xml:lang="en">Ezekiel</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q194064</idno>                   
                 </person>
-                
-               <!--<person xml:id="Fathers">
-                    <persName xml:lang="grc"> <seg>οἱ</seg> τριακόσιοι δεκαοκτὼ θεοφόροι Πατέρες</persName>
-                    <persName xml:lang="en">318 Godbearing Fathers (of the First Ecumenical Council) </persName>
-                    <idno type="wikidata">Not listed</idno>
-                </person>-->
-                
+              
                 <person xml:id="FortyMartyrs">
                     <persName xml:lang="grc"><seg>οἱ ἅγιοι</seg> Τεσσαράκοντα</persName>
-                    <persName xml:lang="en">Forty Martyrs of Sebaste</persName>
+                    <persName xml:lang="en">Forty Martyrs of Sebasteia</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="FortyMartyrs" key="kallinikos">καλλίνικοι</persName>
+                    <persName xml:lang="en" type="epithet" subtype="FortyMartyrs" key="kallinikos">gloriously triumphant</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="FortyMartyrs" key="ofSebasteia">Σεβαστείας</persName>
+                    <persName xml:lang="en" type="epithet" subtype="FortyMartyrs" key="ofSebasteia">of Sebasteia</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q931446</idno>
                 </person>
                 
