@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,9 +40,9 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Gabriel">Archangel Gabriel</rs>
-                            <rs type="iconography" ref="#archangel"></rs>
-                            <rs type="iconography" ref="#genderless"></rs>
-                            <rs type="iconography" ref="#dressimperial"></rs></p>
+                            <rs type="iconography" ref="#archangel"/>
+                            <rs type="iconography" ref="#genderless"/>
+                            <rs type="iconography" ref="#dressimperial"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -64,7 +61,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc5">caption</term>
+                    <term type="textType" key="doc5" ref="https://ontology.inscriptiones.org/type_of_inscription/Description">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
@@ -79,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Gabriel"><w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἀ</reg></choice>ρχ<am>&#x00A0;΄&#x00A0;</am></abbr><ex>άγγελος</ex></expan></w> <milestone unit="figure"/><name type="forename" nymRef ="#Γαβριήλ">Γαβρ<choice><orig>ί</orig><reg>ι</reg></choice><choice><orig>η</orig><reg>ή</reg></choice>λ</name></persName>                      
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Gabriel"><w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἀ</reg></choice>ρχ<am> ΄ </am></abbr><ex>άγγελος</ex></expan></w> <milestone unit="figure"/><name type="forename" nymRef="#Γαβριήλ">Γαβρ<choice><orig>ί</orig><reg>ι</reg></choice><choice><orig>η</orig><reg>ή</reg></choice>λ</name></persName>                      
                  </ab>
             </div>
             <div type="apparatus">

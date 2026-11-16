@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,9 +40,9 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Andronikos">Andronikos</rs>
-                            <rs type="iconography" ref="#monastic"></rs>
-                                   <rs type="iconography" ref="#ascetic"></rs>
-                                   <rs type="iconography" ref="#male"></rs></p>
+                            <rs type="iconography" ref="#monastic"/>
+                                   <rs type="iconography" ref="#ascetic"/>
+                                   <rs type="iconography" ref="#male"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -63,14 +60,14 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc5">caption</term>
+                    <term type="textType" key="doc5" ref="https://ontology.inscriptiones.org/type_of_inscription/Description">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="027-036-01.JPG"><desc></desc></graphic>
+         <graphic rend="primary" url="027-036-01.JPG"><desc/></graphic>
          <graphic url="027-036-02.jpg"><desc>(© Department of Antiquities, Cyprus)</desc></graphic>
          <graphic url="027-036-03.jpg"><desc>(© Department of Antiquities, Cyprus)</desc></graphic>
     </facsimile>
@@ -85,7 +82,7 @@
                    <lb n="4" break="no"/>ο
                     <lb n="5" break="no"/>ς</w>
                    <cb n="b"/>
-                    <lb n="1"/><name nymRef ="#Ἀνδρόνικος" type="forename"><supplied reason="lost">Ἀ
+                    <lb n="1"/><name nymRef="#Ἀνδρόνικος" type="forename"><supplied reason="lost">Ἀ
                      <lb n="2" break="no"/>ν
                     <lb n="3" break="no"/>δ</supplied>
                      <lb n="4" break="no"/>ρ

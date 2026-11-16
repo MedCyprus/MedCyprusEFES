@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,8 +40,8 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Panteleimon">Panteleimon</rs>
-                            <rs type="iconography" ref="#male"></rs>
-                            <rs type="iconography" ref="#martyr"></rs></p>
+                            <rs type="iconography" ref="#male"/>
+                            <rs type="iconography" ref="#martyr"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -62,15 +59,15 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc5">caption</term>
+                    <term type="textType" key="doc5" ref="https://ontology.inscriptiones.org/type_of_inscription/Description">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="027-027-01.JPG"><desc></desc></graphic>
-         <graphic url="027-027-02.JPG"><desc></desc></graphic>
+         <graphic rend="primary" url="027-027-01.JPG"><desc/></graphic>
+         <graphic url="027-027-02.JPG"><desc/></graphic>
     </facsimile>
     <text>
         <body>
@@ -83,7 +80,7 @@
                    <lb n="4" break="no"/><supplied reason="lost">ο</supplied>
                    <lb n="5" break="no"/><supplied reason="lost">ς</supplied></w>
                    <cb n="b"/>
-                    <lb n="1"/><name nymRef ="#Παντελεήμων" type="forename">Παν
+                    <lb n="1"/><name nymRef="#Παντελεήμων" type="forename">Παν
                      <lb n="2" break="no"/>τελε
                      <lb n="3" break="no"/><choice><orig>η</orig><reg>ή</reg></choice>μων</name></persName>                   
                  </ab>

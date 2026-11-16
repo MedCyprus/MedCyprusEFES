@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,8 +40,8 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Crucifixion">Crucifixion</rs>
-                                  <rs type="iconography" ref="#christological"></rs>
-                                 <rs type="iconography" ref="#Christ"></rs>
+                                  <rs type="iconography" ref="#christological"/>
+                                 <rs type="iconography" ref="#Christ"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -63,16 +60,16 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc5">caption</term>
+                    <term type="textType" key="doc5" ref="https://ontology.inscriptiones.org/type_of_inscription/Description">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="027-008-01.JPG"><desc></desc></graphic>
-         <graphic url="027-008-02.JPG"><desc></desc></graphic>
-         <graphic url="027-008-03.JPG"><desc></desc></graphic>
+         <graphic rend="primary" url="027-008-01.JPG"><desc/></graphic>
+         <graphic url="027-008-02.JPG"><desc/></graphic>
+         <graphic url="027-008-03.JPG"><desc/></graphic>
     </facsimile>
     <text>
         <body>
@@ -82,7 +79,7 @@
                    <lb n="1"/><supplied reason="omitted">Ἠ</supplied> <w lemma="σταύρωσις"><choice><sic>Σταβρο
                   <lb n="2" break="no"/>
                   <cb n="b"/>
-                  <lb n="1" />σης</sic><corr>Σταύρωσις</corr></choice></w>                      
+                  <lb n="1"/>σης</sic><corr>Σταύρωσις</corr></choice></w>                      
                  </ab>
             </div>
             <div type="apparatus">

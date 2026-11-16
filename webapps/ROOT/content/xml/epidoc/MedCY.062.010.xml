@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -45,8 +42,8 @@ Tau with a top bar terminating in serifs at either end and with its stem crossed
                         <decoDesc>
                             <p><rs type="iconography" ref="#ChristPantokrator">Christ Pantokrator</rs>
                              
-                             <rs type="iconography" ref="#divine"></rs>
-                             <rs type="iconography" ref="#male"></rs></p>
+                             <rs type="iconography" ref="#divine"/>
+                             <rs type="iconography" ref="#male"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -64,8 +61,8 @@ Tau with a top bar terminating in serifs at either end and with its stem crossed
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc21">hortatory</term>
-                    <term type="textType" key="doc12">metrical</term>
+                    <term type="textType" key="doc21" ref="https://ontology.inscriptiones.org/type_of_inscription/Exhortation">hortatory</term>
+                    <term type="textType" key="doc12" ref="https://www.eagle-network.eu/voc/typeins/lod/368.html">metrical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publications, archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>

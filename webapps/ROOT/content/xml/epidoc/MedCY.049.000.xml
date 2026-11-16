@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -61,7 +58,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc12">Metrical inscription</term>
+                    <term type="textType" key="doc12" ref="https://www.eagle-network.eu/voc/typeins/lod/368.html">Metrical inscription</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publication</creation>
@@ -73,18 +70,18 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab><gap reason="lost" extent="unknown"></gap>
-                  <lb n= "1"/>ε<choice><orig>ὑ</orig><reg>ὐ</reg></choice>ξάμε<unclear>ν</unclear><supplied reason="lost">ος</supplied> 
-                  <lb n= "2"/><w lemma="κατασκευάζω">κατεσκεύασεν</w>
-                  <lb n= "3"/><choice><orig>ε</orig><reg>ἐ</reg></choice>κ τ<choice><orig>ὼ</orig><reg>ῶ</reg></choice>ν ἰδίων τό<unclear>ν</unclear> 
-                  <lb n= "4"/><w lemma="βωμός">βωμ<choice><orig>ό</orig><reg>ὸ</reg></choice>ν</w> σὺν τ<choice><orig>ω</orig><reg>ῷ</reg></choice> να<supplied reason="lost"><choice><orig>ω</orig><reg>ῷ</reg></choice></supplied>
-                  <lb n= "5"/>ἐπιτυχὼν παρ<choice><orig>α</orig><reg>ὰ</reg></choice> τοῦ
-                  <lb n= "6"/>θεο<choice><orig>ὺ</orig><reg>ῦ</reg></choice>, ὧν εὐξάμην
-                  <lb n= "7" break="no"/><choice><orig>ἑ</orig><reg>ἐ</reg></choice>π<choice><orig>ι</orig><reg>ὶ</reg></choice> ὑπάτῳ <expan><abbr>Λ</abbr><ex>ουκίῳ</ex></expan> Κορ
-                  <lb n= "8" break="no"/>νηλίῳ <choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>νυλλεί
-                  <lb n= "9"/>νῳ τὸ βʹ κα<choice><orig>ι</orig><reg>ὶ</reg></choice><expan><abbr>Μ</abbr><ex>άρκῳ</ex></expan> Αὐφειδί<supplied reason="lost">ῳ</supplied>
-                  <lb n= "10"/>Φρόντωνι ὑπάτοις ΑΔ
-                  <lb n= "11"/>[․1-2․]ΙΕΓΙΑΝΟΥ Κοτυο<unclear>ς</unclear>. 
+              <ab><gap reason="lost" extent="unknown"/>
+                  <lb n="1"/>ε<choice><orig>ὑ</orig><reg>ὐ</reg></choice>ξάμε<unclear>ν</unclear><supplied reason="lost">ος</supplied> 
+                  <lb n="2"/><w lemma="κατασκευάζω">κατεσκεύασεν</w>
+                  <lb n="3"/><choice><orig>ε</orig><reg>ἐ</reg></choice>κ τ<choice><orig>ὼ</orig><reg>ῶ</reg></choice>ν ἰδίων τό<unclear>ν</unclear> 
+                  <lb n="4"/><w lemma="βωμός">βωμ<choice><orig>ό</orig><reg>ὸ</reg></choice>ν</w> σὺν τ<choice><orig>ω</orig><reg>ῷ</reg></choice> να<supplied reason="lost"><choice><orig>ω</orig><reg>ῷ</reg></choice></supplied>
+                  <lb n="5"/>ἐπιτυχὼν παρ<choice><orig>α</orig><reg>ὰ</reg></choice> τοῦ
+                  <lb n="6"/>θεο<choice><orig>ὺ</orig><reg>ῦ</reg></choice>, ὧν εὐξάμην
+                  <lb n="7" break="no"/><choice><orig>ἑ</orig><reg>ἐ</reg></choice>π<choice><orig>ι</orig><reg>ὶ</reg></choice> ὑπάτῳ <expan><abbr>Λ</abbr><ex>ουκίῳ</ex></expan> Κορ
+                  <lb n="8" break="no"/>νηλίῳ <choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>νυλλεί
+                  <lb n="9"/>νῳ τὸ βʹ κα<choice><orig>ι</orig><reg>ὶ</reg></choice><expan><abbr>Μ</abbr><ex>άρκῳ</ex></expan> Αὐφειδί<supplied reason="lost">ῳ</supplied>
+                  <lb n="10"/>Φρόντωνι ὑπάτοις ΑΔ
+                  <lb n="11"/>[․1-2․]ΙΕΓΙΑΝΟΥ Κοτυο<unclear>ς</unclear>. 
                </ab>
             </div>
             <div type="apparatus">

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,10 +40,10 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#George">George, on horseback</rs>
-                                  <rs type="iconography" ref="#martyr"></rs>
-                                  <rs type="iconography" ref="#militarysaint"></rs>
-                                  <rs type="iconography" ref="#male"></rs>                                                         
-                                  <rs type="iconography" ref="#dressmilitary"></rs>
+                                  <rs type="iconography" ref="#martyr"/>
+                                  <rs type="iconography" ref="#militarysaint"/>
+                                  <rs type="iconography" ref="#male"/>                                                         
+                                  <rs type="iconography" ref="#dressmilitary"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -66,7 +63,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc11">invocation</term>
+                    <term type="textType" key="doc11" ref="https://ontology.inscriptiones.org/type_of_inscription/Invocation">invocation</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
@@ -84,15 +81,15 @@
             </ab></div>
             <div type="apparatus">
                 <listApp>
-                    <app loc="1"><rdg source="#Papageorgiou2003">Δέησις</rdg><rdg source="#VisCult"></rdg></app>
-                    <app loc="2"><rdg source="#HadjichristodoulouMyrianthefs2009">Καλλή[α]</rdg><rdg source="#Rhoby2009">ΚΑΛΛΗΑ, Καλλία</rdg><rdg source="#Ševčenko2012">Καλληά</rdg><rdg source="#VisCult"></rdg></app>
+                    <app loc="1"><rdg source="#Papageorgiou2003">Δέησις</rdg><rdg source="#VisCult"/></app>
+                    <app loc="2"><rdg source="#HadjichristodoulouMyrianthefs2009">Καλλή[α]</rdg><rdg source="#Rhoby2009">ΚΑΛΛΗΑ, Καλλία</rdg><rdg source="#Ševčenko2012">Καλληά</rdg><rdg source="#VisCult"/></app>
                 </listApp>
                  </div>
             <div type="translation"> 
                 <p>Invocation of Nikephoros the farrier(?) (<bibl><ptr target="#Ševčenko2012"/>,<citedRange>82</citedRange></bibl>)</p> 
             </div>
             <div type="commentary">
-                <p>The inscription, written in a different colour from the dedicatory epigram above (see <ref target="MedCY.044.104.html">MedCY.044.104</ref>), may have been added when both it and the fresco of Saint George on horseback were completed. According to Weyl Carr in <ptr target="#VisCult"/>, if Καλληάς is understood as καλλιγᾶς, the term should be interpreted as ‘farrier’. However, following <ptr target="#Rhoby2009"></ptr>, 342–43, Nikephoros Kallias should rather be understood as a personal name in which Kallias functions as a byname. On this reading, Nikephoros the farrier is to be identified with a single individual, not distinct from the Nikephoros mentioned in the dedicatory epigram.
+                <p>The inscription, written in a different colour from the dedicatory epigram above (see <ref target="MedCY.044.104.html">MedCY.044.104</ref>), may have been added when both it and the fresco of Saint George on horseback were completed. According to Weyl Carr in <ptr target="#VisCult"/>, if Καλληάς is understood as καλλιγᾶς, the term should be interpreted as ‘farrier’. However, following <ptr target="#Rhoby2009"/>, 342–43, Nikephoros Kallias should rather be understood as a personal name in which Kallias functions as a byname. On this reading, Nikephoros the farrier is to be identified with a single individual, not distinct from the Nikephoros mentioned in the dedicatory epigram.
 
 <!--The inscription, written in a different colour from the dedicatory epigram above (see <ref target="MedCY.044.104.html">MedCY.044.104</ref>), may have been added when this and the fresco of Saint George on horseback were completed. Consequently, Nikephoros the farrier is probably a different person from the veterinarian Nikephoros, mentioned in the dedicatory epigram (<bibl><ptr target="#Ševčenko2012"/>,<citedRange>83</citedRange></bibl>; <bibl><ptr target="#VisCult"/>,<citedRange>189</citedRange></bibl>).--></p>
             </div>

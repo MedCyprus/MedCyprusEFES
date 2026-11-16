@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,10 +40,10 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Michael">Archangel Michael</rs>
-                            <rs type="iconography" ref="#archangel"></rs> 
-                            <rs type="iconography" ref="#genderless"></rs>
-                            <rs type="iconography" ref="#dressimperial"></rs>
-                            <rs type="iconography" ref="#labarum"></rs></p>
+                            <rs type="iconography" ref="#archangel"/> 
+                            <rs type="iconography" ref="#genderless"/>
+                            <rs type="iconography" ref="#dressimperial"/>
+                            <rs type="iconography" ref="#labarum"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -64,8 +61,8 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc8">quotation, liturgical</term>
-                    <term type="textType" key="doc6">quotation, biblical</term>
+                    <term type="textType" key="doc8" ref="https://ontology.inscriptiones.org/type_of_inscription/Quotation">quotation, liturgical</term>
+                    <term type="textType" key="doc6" ref="https://ontology.inscriptiones.org/type_of_inscription/Quotation">quotation, biblical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publication</creation>
@@ -79,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><w lemma="ἅγιος"><expan><abbr><choice><orig>ά</orig><reg>Ἅ</reg></choice>γ</abbr><ex>ιος</ex></expan></w>, <w lemma="ἅγιος"><expan><abbr><choice><orig>ά</orig><reg>ἅ</reg></choice>γ</abbr><ex>ιος</ex></expan></w>, <w lemma="ἅγιος"><expan><abbr><choice><orig>ά</orig><reg>ἅ</reg></choice>γ</abbr><ex>ιος</ex></expan></w> <addName type="epithet" key="Lord of Hosts"><supplied reason="lost">Κύριος<w lemma="κύριος"></w> <w lemma="Σαβαώθ">Σαβαώθ</w></supplied></addName>                      
+                    <lb n="1"/><w lemma="ἅγιος"><expan><abbr><choice><orig>ά</orig><reg>Ἅ</reg></choice>γ</abbr><ex>ιος</ex></expan></w>, <w lemma="ἅγιος"><expan><abbr><choice><orig>ά</orig><reg>ἅ</reg></choice>γ</abbr><ex>ιος</ex></expan></w>, <w lemma="ἅγιος"><expan><abbr><choice><orig>ά</orig><reg>ἅ</reg></choice>γ</abbr><ex>ιος</ex></expan></w> <addName type="epithet" key="Lord of Hosts"><supplied reason="lost">Κύριος<w lemma="κύριος"/> <w lemma="Σαβαώθ">Σαβαώθ</w></supplied></addName>                      
                  </ab>
             </div>
             <div type="apparatus">

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -44,9 +41,9 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#Ephraim">Ephraim</rs>
-                            <rs type="iconography" ref="#monastic"></rs>
-                            <rs type="iconography" ref="#male"></rs>
-                            <rs type="iconography" ref="#scroll"></rs>
+                            <rs type="iconography" ref="#monastic"/>
+                            <rs type="iconography" ref="#male"/>
+                            <rs type="iconography" ref="#scroll"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -66,15 +63,15 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc22">quotation, patristic</term>
+                    <term type="textType" key="doc22" ref="https://ontology.inscriptiones.org/type_of_inscription/Quotation">quotation, patristic</term>
                 </keywords>
             </textClass>
             <creation>transcription (G. Apeitos, Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-069-01.JPG"><desc></desc></graphic>
-        <graphic url="044-069-02.JPG"><desc></desc></graphic>
+         <graphic rend="primary" url="044-069-01.JPG"><desc/></graphic>
+        <graphic url="044-069-02.JPG"><desc/></graphic>
    </facsimile>
     <text>
         <body>
@@ -85,8 +82,7 @@
                   <lb n="3" break="no"/>θῶς</w> <expan><abbr>κ</abbr><ex>αὶ</ex></expan><am>‵</am> <w lemma="τρισμακάριος"><hi rend="ligature">τρ</hi>ισ
                   <lb n="4" break="no"/>μακάρισ
                   <lb n="5" break="no"/><hi rend="ligature">το</hi>ς</w> ὁ <w lemma="ἐγκράτεια">ἐγκρά
-                  <lb n="6" break="no"/>τειαν </w><expan><abbr>κ</abbr><ex>αὶ</ex></expan><am>‵</am> <w lemma="ταπείνωσις"><expan><abbr>τα<lb
-                      n="7" break="no"/>πείνωσ<choice><orig>ῖ</orig><reg>ι</reg></choice></abbr><ex>ν</ex></expan></w>
+                  <lb n="6" break="no"/>τειαν </w><expan><abbr>κ</abbr><ex>αὶ</ex></expan><am>‵</am> <w lemma="ταπείνωσις"><expan><abbr>τα<lb n="7" break="no"/>πείνωσ<choice><orig>ῖ</orig><reg>ι</reg></choice></abbr><ex>ν</ex></expan></w>
                   <lb n="8"/><expan><abbr>κ</abbr><ex>αὶ</ex></expan><am>‵</am> <w lemma="ἀγάπη">ἀγά<hi rend="ligature">πην</hi></w> <w lemma="κτάομαι"><choice><sic>ἐ 
                   <lb n="9" break="no"/><supplied reason="lost">κ</supplied>τήσατ<choice><orig>ῶ</orig><reg>ω</reg></choice></sic><corr>ἐκτήσατο</corr></choice></w>
               </ab>

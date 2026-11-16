@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,9 +40,9 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#Michael">Archangel Michael</rs>
-                                  <rs type="iconography" ref="#archangel"></rs>
-                                  <rs type="iconography" ref="#genderless"></rs>
-                                <rs type="iconography" ref="#dressimperial"></rs>
+                                  <rs type="iconography" ref="#archangel"/>
+                                  <rs type="iconography" ref="#genderless"/>
+                                <rs type="iconography" ref="#dressimperial"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -64,7 +61,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc5">caption</term>
+                    <term type="textType" key="doc5" ref="https://ontology.inscriptiones.org/type_of_inscription/Description">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos)</creation>
@@ -81,7 +78,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
           
-                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice><persName type="sacred" key="Michael"><name type="forename" nymRef ="#Μιχαήλ"> <w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><hi rend="ligature"><choice><orig>ἁ</orig><reg>ἀ</reg></choice>ρ</hi>χ</abbr><ex>άγγελος</ex></expan></w> <choice><sic><expan><abbr rend="supraline">Μηχ</abbr><ex>αήλ</ex></expan></sic><corr>Μιχαήλ</corr></choice></name></persName>           
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice><persName type="sacred" key="Michael"><name type="forename" nymRef="#Μιχαήλ"> <w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><hi rend="ligature"><choice><orig>ἁ</orig><reg>ἀ</reg></choice>ρ</hi>χ</abbr><ex>άγγελος</ex></expan></w> <choice><sic><expan><abbr rend="supraline">Μηχ</abbr><ex>αήλ</ex></expan></sic><corr>Μιχαήλ</corr></choice></name></persName>           
                  
                  </ab>
             </div>

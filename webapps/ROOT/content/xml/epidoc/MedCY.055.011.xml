@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -40,10 +37,10 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Paul">Paul</rs>
-                            <rs type="iconography" ref="#apostle"></rs>
-                            <rs type="iconography" ref="#male"></rs>   
-                            <rs type="iconography" ref="#martyr"></rs>    
-                            <rs type="iconography" ref="#scroll"></rs>
+                            <rs type="iconography" ref="#apostle"/>
+                            <rs type="iconography" ref="#male"/>   
+                            <rs type="iconography" ref="#martyr"/>    
+                            <rs type="iconography" ref="#scroll"/>
                             </p>
                             </decoDesc>
                     </physDesc>
@@ -63,7 +60,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc6">quotation, biblical</term>
+                    <term type="textType" key="doc6" ref="https://ontology.inscriptiones.org/type_of_inscription/Quotation">quotation, biblical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
@@ -90,7 +87,7 @@
                     <lb n="7" break="no"/>μέν<choice><orig>ο</orig><reg>οͅ</reg></choice></sic><corr>τῷ ἐργαζο<lb n="7" break="no"/>μένῳ</corr></choice></w>-->
                     <lb n="6"/><w><choice><sic>τ<choice><orig>ο</orig><reg>ο̃ͅ</reg></choice></sic><corr>τῷ</corr></choice></w> <w lemma="ἐργάζομαι"><choice><sic>ἐργαζο<lb n="7" break="no"/>μέν<choice><orig>ο</orig><reg>οͅ</reg></choice></sic><corr>ἐργαζο<lb n="7" break="no"/>μένῳ</corr></choice></w>
                     <lb n="8"/><hi rend="ligature">τ<choice><orig>ο</orig><reg>ὸ</reg></choice></hi> <w lemma="ἀγαθός"><choice><sic><choice><orig>ἁ</orig><reg>ἀ</reg></choice>γα<lb n="9" break="no"/>θ<choice><orig>ὼ</orig><reg>ώ</reg></choice>ν</sic><corr>ἀγα<lb n="9" break="no"/>θόν</corr></choice></w>.
-                    <lb n="10"/><g ref="#scribal-mark"></g><g ref="#scribal-mark"></g>
+                    <lb n="10"/><g ref="#scribal-mark"/><g ref="#scribal-mark"/>
                 </ab>
             </div>
             <div type="apparatus">

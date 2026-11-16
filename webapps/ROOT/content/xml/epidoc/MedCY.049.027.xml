@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,12 +40,12 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Angels_VirginOrans">Adoring angels converging on the Virgin Orans</rs>
-                               <rs type="iconography" ref="#vision"></rs>
-                               <rs type="iconography" ref="#angelicpower"></rs>
-                               <rs type="iconography" ref="#genderless"></rs>
-                               <rs type="iconography" ref="#dressimperial"></rs>
-                               <rs type="iconography" ref="#dresscivilian"></rs>
-                               <rs type="iconography" ref="#dressantique"></rs>
+                               <rs type="iconography" ref="#vision"/>
+                               <rs type="iconography" ref="#angelicpower"/>
+                               <rs type="iconography" ref="#genderless"/>
+                               <rs type="iconography" ref="#dressimperial"/>
+                               <rs type="iconography" ref="#dresscivilian"/>
+                               <rs type="iconography" ref="#dressantique"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -68,7 +65,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc6">quotation, biblical</term>
+                    <term type="textType" key="doc6" ref="https://ontology.inscriptiones.org/type_of_inscription/Quotation">quotation, biblical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publication</creation>
@@ -88,7 +85,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/>κ<unclear>α</unclear><unclear>ὶ</unclear><space quantity="6" unit="character"></space> <w lemma="προσκυνέω">προ<space quantity="6" unit="character"></space>σκυ<space quantity="6" unit="character"></space>νη<space quantity="6" unit="character"></space> σ<supplied reason="lost">άτ<space quantity="6" unit="character"></space>ωσαν</supplied></w><space quantity="6" unit="character"></space><w lemma="αὐτός"><supplied reason="lost">αὐτ<space quantity="6" unit="character"></space> </supplied><unclear>ῷ</unclear></w><space quantity="6" unit="character"></space><w lemma="πᾶς">πάν<space quantity="6" unit="character"></space> τες</w><space quantity="6" unit="character"></space><w lemma="ἄγγελος">ἄ<space quantity="6" unit="character"></space> γγε <space quantity="6" unit="character"></space> λοι</w><space quantity="6" unit="character"></space><persName type="divine" key="God"><w lemma="θεός"><expan><abbr>Θ</abbr><ex>εο</ex>ῦ</expan></w></persName>        
+                    <lb n="1"/>κ<unclear>α</unclear><unclear>ὶ</unclear><space quantity="6" unit="character"/> <w lemma="προσκυνέω">προ<space quantity="6" unit="character"/>σκυ<space quantity="6" unit="character"/>νη<space quantity="6" unit="character"/> σ<supplied reason="lost">άτ<space quantity="6" unit="character"/>ωσαν</supplied></w><space quantity="6" unit="character"/><w lemma="αὐτός"><supplied reason="lost">αὐτ<space quantity="6" unit="character"/> </supplied><unclear>ῷ</unclear></w><space quantity="6" unit="character"/><w lemma="πᾶς">πάν<space quantity="6" unit="character"/> τες</w><space quantity="6" unit="character"/><w lemma="ἄγγελος">ἄ<space quantity="6" unit="character"/> γγε <space quantity="6" unit="character"/> λοι</w><space quantity="6" unit="character"/><persName type="divine" key="God"><w lemma="θεός"><expan><abbr>Θ</abbr><ex>εο</ex>ῦ</expan></w></persName>        
               </ab>
             </div>
             <div type="apparatus">

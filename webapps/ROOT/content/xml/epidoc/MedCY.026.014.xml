@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,7 +40,7 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#crossprocessional">Cross, processional</rs>
-                               <rs type="iconography" ref="#crosslatin"></rs>                                
+                               <rs type="iconography" ref="#crosslatin"/>                                
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -64,23 +61,23 @@
             <textClass>
                 <keywords>
                     <term type="textType" key="doc2">cryptogram</term>
-                    <term type="textType" key="doc10">apotropaic</term>
+                    <term type="textType" key="doc10" ref="https://ontology.inscriptiones.org/type_of_inscription/Apotropaic_text">apotropaic</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="026-014-01.JPG"><desc></desc></graphic>
-       <graphic url="026-014-02.JPG"><desc></desc></graphic>
-       <graphic url="026-014-03.JPG"><desc></desc></graphic>
-       <graphic url="026-014-04.JPG"><desc></desc></graphic>
-       <graphic url="026-014-05.JPG"><desc></desc></graphic>
-       <graphic url="026-014-06.JPG"><desc></desc></graphic>
-       <graphic url="026-014-07.JPG"><desc></desc></graphic>
-       <graphic url="026-014-08.JPG"><desc></desc></graphic>
-       <graphic url="026-014-09.JPG"><desc></desc></graphic>
-       <graphic url="026-014-010.JPG"><desc></desc></graphic>
+        <graphic rend="primary" url="026-014-01.JPG"><desc/></graphic>
+       <graphic url="026-014-02.JPG"><desc/></graphic>
+       <graphic url="026-014-03.JPG"><desc/></graphic>
+       <graphic url="026-014-04.JPG"><desc/></graphic>
+       <graphic url="026-014-05.JPG"><desc/></graphic>
+       <graphic url="026-014-06.JPG"><desc/></graphic>
+       <graphic url="026-014-07.JPG"><desc/></graphic>
+       <graphic url="026-014-08.JPG"><desc/></graphic>
+       <graphic url="026-014-09.JPG"><desc/></graphic>
+       <graphic url="026-014-010.JPG"><desc/></graphic>
     </facsimile>
     <text>
         <body>

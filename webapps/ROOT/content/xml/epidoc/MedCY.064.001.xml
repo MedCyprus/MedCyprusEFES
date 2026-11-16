@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -59,20 +56,20 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc1">Dedicatory</term>
+                    <term type="textType" key="doc1" ref="https://ontology.inscriptiones.org/type_of_inscription/Building_inscription https://ontology.inscriptiones.org/type_of_inscription/Dedication">Dedicatory</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-       <graphic rend="primary" url="064-001-01.JPG"><desc></desc></graphic>
-       <graphic url="064-001-02.JPG"><desc></desc></graphic>
-       <graphic url="064-001-03.JPG"><desc></desc></graphic>
-       <graphic url="064-001-04.JPG"><desc></desc></graphic>
-       <graphic url="064-001-05.JPG"><desc></desc></graphic>
-       <graphic url="064-001-06.JPG"><desc></desc></graphic>
-       <graphic url="064-001-07.JPG"><desc></desc></graphic>
+       <graphic rend="primary" url="064-001-01.JPG"><desc/></graphic>
+       <graphic url="064-001-02.JPG"><desc/></graphic>
+       <graphic url="064-001-03.JPG"><desc/></graphic>
+       <graphic url="064-001-04.JPG"><desc/></graphic>
+       <graphic url="064-001-05.JPG"><desc/></graphic>
+       <graphic url="064-001-06.JPG"><desc/></graphic>
+       <graphic url="064-001-07.JPG"><desc/></graphic>
     </facsimile>
     <text>
         <body>

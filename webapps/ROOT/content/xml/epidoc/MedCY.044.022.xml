@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -42,7 +39,7 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#Ascension">Ascension</rs>
-                                   <rs type="iconography" ref="#christological"></rs></p>
+                                   <rs type="iconography" ref="#christological"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -61,8 +58,8 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc24">quotation(?)</term>
-                    <term type="textType" key="doc12">metrical</term>
+                    <term type="textType" key="doc24" ref="https://ontology.inscriptiones.org/type_of_inscription/Quotation">quotation(?)</term>
+                    <term type="textType" key="doc12" ref="https://www.eagle-network.eu/voc/typeins/lod/368.html">metrical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publication</creation>
@@ -77,12 +74,12 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <lg met="Dodecasyllable">
-               <l n="1"><lb n="1"/><gap reason="lost" extent="unknown"></gap>στων 
-                   <lb n="2"/><g ref="#cross">+</g> μα<gap reason="lost" unit="character" quantity="3"></gap>οστόδο
+               <l n="1"><lb n="1"/><gap reason="lost" extent="unknown"/>στων 
+                   <lb n="2"/><g ref="#cross">+</g> μα<gap reason="lost" unit="character" quantity="3"/>οστόδο
                    <lb n="3" break="no"/>τησελας<choice><reg/><orig>:</orig></choice> ταυ
                    <lb n="4" break="no"/>γισεκοτ<choice><orig>ά</orig><reg>α</reg></choice>
                    <lb n="5" break="no"/> μενοι</l> 
-               <l n="2">τ<gap reason="lost" unit="character" quantity="1"></gap>ν α
+               <l n="2">τ<gap reason="lost" unit="character" quantity="1"/>ν α
                    <lb n="6" break="no"/>νο πρ<choice><orig>ο</orig><reg>ὸ</reg></choice>ς τ<choice><orig>ο</orig><reg>ὸ</reg></choice><unclear>ν</unclear></l>
                 <l n="3"><lb n="7"/><expan><abbr rend="supraline">κ</abbr><ex>αὶ</ex></expan><am>`</am> <w lemma="νῦν">ν<choice><orig>ὺ</orig><reg>ῦ</reg></choice>ν</w> <w lemma="βλέπω">βλ<choice><orig>ε</orig><reg>έ</reg></choice>
                     <lb n="8" break="no"/>π<hi rend="ligature">ου</hi>σ<choice><orig>ί</orig><reg>ι</reg></choice>ν</w> <w lemma="αἴρω"><choice><sic>ἐρρό

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,9 +40,9 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#Nativity">Nativity, angel addresses the shepherd</rs>
-                                  <rs type="iconography" ref="#AngelAddressesShepherd"></rs>
-                                  <rs type="iconography" ref="#angel"></rs>         
-                                  <rs type="iconography" ref="#christological"></rs></p>
+                                  <rs type="iconography" ref="#AngelAddressesShepherd"/>
+                                  <rs type="iconography" ref="#angel"/>         
+                                  <rs type="iconography" ref="#christological"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -63,14 +60,14 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc7">quotation, hymnographical</term>
+                    <term type="textType" key="doc7" ref="https://ontology.inscriptiones.org/type_of_inscription/Quotation">quotation, hymnographical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="020-050-01.JPG"><desc></desc></graphic>
+        <graphic rend="primary" url="020-050-01.JPG"><desc/></graphic>
     </facsimile>
     <text>
         <body>

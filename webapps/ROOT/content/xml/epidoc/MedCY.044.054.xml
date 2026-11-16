@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,8 +40,8 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#Gephyra">Gephyra (14th-c. portrait)</rs>
-                               <rs type="iconography" ref="#Supplicant_Deceased"></rs>
-                               <rs type="iconography" ref="#female"></rs>
+                               <rs type="iconography" ref="#Supplicant_Deceased"/>
+                               <rs type="iconography" ref="#female"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -64,7 +61,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc14">funerary</term>
+                    <term type="textType" key="doc14" ref="https://ontology.inscriptiones.org/type_of_inscription/Funerary">funerary</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publications</creation>
@@ -78,17 +75,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                 <lb n="1"/><w lemma="μήν"><hi rend="ligature">Μην</hi><choice><orig>ῖ</orig><reg>ὶ</reg></choice></w> <w lemma="Δεκέμβριος"><choice><sic><expan><abbr rend="supraline"><hi rend="ligature">Δη</hi>κ</abbr><ex>ε</ex><supplied reason="omitted">μ</supplied><abbr rend="supraline">βρί</abbr><abbr rend="supraline"><choice><orig>ο</orig><reg>ο&#x0345;</reg></choice></abbr></expan></sic><corr>Δεκεμβρίῳ</corr></choice></w> <num value="17">ιζ</num>
-                 <lb n="2"/><w lemma="ἰνδικτιών"><expan><abbr rend="supraline"><choice><orig>ι</orig><reg>ἰ</reg></choice>ν</abbr><ex>δικτιῶνος</ex></expan></w> <num value="15">ιε</num> <w lemma="ἔτος">ἔ<hi rend="ligature">του</hi>ς</w> <num value="6608"><hi rend="ligature">&#x03DB;</hi>χη</num> <w lemma="κοιμάω"><choice><sic><choice><orig>ἑ</orig><reg>ἐ</reg></choice>κυ
+                 <lb n="1"/><w lemma="μήν"><hi rend="ligature">Μην</hi><choice><orig>ῖ</orig><reg>ὶ</reg></choice></w> <w lemma="Δεκέμβριος"><choice><sic><expan><abbr rend="supraline"><hi rend="ligature">Δη</hi>κ</abbr><ex>ε</ex><supplied reason="omitted">μ</supplied><abbr rend="supraline">βρί</abbr><abbr rend="supraline"><choice><orig>ο</orig><reg>οͅ</reg></choice></abbr></expan></sic><corr>Δεκεμβρίῳ</corr></choice></w> <num value="17">ιζ</num>
+                 <lb n="2"/><w lemma="ἰνδικτιών"><expan><abbr rend="supraline"><choice><orig>ι</orig><reg>ἰ</reg></choice>ν</abbr><ex>δικτιῶνος</ex></expan></w> <num value="15">ιε</num> <w lemma="ἔτος">ἔ<hi rend="ligature">του</hi>ς</w> <num value="6608"><hi rend="ligature">ϛ</hi>χη</num> <w lemma="κοιμάω"><choice><sic><choice><orig>ἑ</orig><reg>ἐ</reg></choice>κυ
                  <lb n="3" break="no"/><hi rend="ligature">μή</hi>θη</sic><corr>ἐκοιμήθη</corr></choice></w> ἡ <w lemma="δούλη"><choice><sic>δ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ύ</reg></choice></hi>λι</sic><corr>δούλη</corr></choice></w> τ<hi rend="ligature">ο<choice><orig>υ</orig><reg>ῦ</reg></choice></hi> <persName type="divine" key="God"><w lemma="θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></w></persName> <persName type="attested" role="commemorated" ref="#Gephyra"><name nymRef="#Γέφυρα" type="forename">Γέφυ
                  <lb n="4" break="no"/>ρα</name></persName>
               </ab>
             </div>
             <div type="apparatus">
                 <listApp>
-                    <app loc="1"><rdg source="#Buckler1933">Δηκεμβρίο</rdg><rdg source="#Papageorgiou1965a">ΔΗΚΕΒΡΙΟ</rdg><rdg source="#Sacopoulo1966">Δηκεβρίο</rdg><rdg source="#HatfieldYoung1983">Δηκεβρίου</rdg><rdg source="#Buckler1933">ἰ(νδικτίωνος) ζ</rdg><rdg source="#Sacopoulo1966"></rdg><rdg source="#HatfieldYoung1983"></rdg><rdg source="#Stylianou1973">ΗΝ(ΔΙΚΤΙΩΝΟC)</rdg></app>
+                    <app loc="1"><rdg source="#Buckler1933">Δηκεμβρίο</rdg><rdg source="#Papageorgiou1965a">ΔΗΚΕΒΡΙΟ</rdg><rdg source="#Sacopoulo1966">Δηκεβρίο</rdg><rdg source="#HatfieldYoung1983">Δηκεβρίου</rdg><rdg source="#Buckler1933">ἰ(νδικτίωνος) ζ</rdg><rdg source="#Sacopoulo1966"/><rdg source="#HatfieldYoung1983"/><rdg source="#Stylianou1973">ΗΝ(ΔΙΚΤΙΩΝΟC)</rdg></app>
                     <app loc="2"><rdg source="#Buckler1933">ἡ(μέρα)</rdg><rdg source="#Stylianou1960">ΗΜ(ΕΡΑ)</rdg><rdg source="#Sacopoulo1966">ἡμ(έρᾳ)</rdg><rdg source="#HatfieldYoung1983">ιδ' ἡμ(έρα)</rdg><rdg source="#HatfieldYoung1983">ιζ' ἔτους</rdg><rdg source="#HatfieldYoung1983">͵ϛχιδ´</rdg></app>
-                    <app loc="3"><rdg source="#Papageorgiou1965a">ΘΕΟΥ</rdg><rdg source="#Stylianou1973"></rdg></app>
+                    <app loc="3"><rdg source="#Papageorgiou1965a">ΘΕΟΥ</rdg><rdg source="#Stylianou1973"/></app>
                 </listApp>
                  </div>
             <div type="translation">

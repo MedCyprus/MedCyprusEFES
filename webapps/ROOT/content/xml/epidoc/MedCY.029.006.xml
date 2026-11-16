@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,9 +40,9 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#PresentationVirgin">Presentation of the Virgin to the Temple</rs>
-                             <rs type="iconography" ref="#mariological"></rs>
-                            <rs type="iconography" ref="#VirginFedbyAngel"></rs>
-                            <rs type="iconography" ref="#Virgin"></rs></p>
+                             <rs type="iconography" ref="#mariological"/>
+                            <rs type="iconography" ref="#VirginFedbyAngel"/>
+                            <rs type="iconography" ref="#Virgin"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -63,20 +60,20 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc9">nomina sacra</term>
+                    <term type="textType" key="doc9" ref=" https://ark.mom.fr/ark:/76609/epvfdd7hpzkzp">nomina sacra</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="029-006-01.jpg"><desc></desc></graphic>
+        <graphic rend="primary" url="029-006-01.jpg"><desc/></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w> <milestone unit="column" n="right"/><w lemma="θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice><am>&#x00A0;῀&#x00A0;</am></abbr></expan></w></persName> 
+                   <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w> <milestone unit="column" n="right"/><w lemma="θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice><am> ῀ </am></abbr></expan></w></persName> 
                  </ab>
             </div>
             <div type="apparatus">

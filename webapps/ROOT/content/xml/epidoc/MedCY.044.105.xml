@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -42,7 +39,7 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#Dormition">Dormition</rs>
-                                   <rs type="iconography" ref="#mariological"></rs></p>
+                                   <rs type="iconography" ref="#mariological"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -61,28 +58,28 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc12">metrical</term>
+                    <term type="textType" key="doc12" ref="https://www.eagle-network.eu/voc/typeins/lod/368.html">metrical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-105-01.JPG"><desc></desc></graphic>
-        <graphic url="044-105-02.JPG"><desc></desc></graphic>
-        <graphic url="044-105-03.JPG"><desc></desc></graphic>
-        <graphic url="044-105-04.JPG"><desc></desc></graphic>
-        <graphic url="044-105-05.JPG"><desc></desc></graphic>
+         <graphic rend="primary" url="044-105-01.JPG"><desc/></graphic>
+        <graphic url="044-105-02.JPG"><desc/></graphic>
+        <graphic url="044-105-03.JPG"><desc/></graphic>
+        <graphic url="044-105-04.JPG"><desc/></graphic>
+        <graphic url="044-105-05.JPG"><desc/></graphic>
                     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab><gap reason="lost" extent="unknown" unit="character"></gap>ν<unclear>α</unclear><gap reason="lost" extent="unknown" unit="character"></gap>ντρο<gap reason="lost" quantity="1" unit="character"></gap>αμ<gap reason="lost" extent="unknown" unit="character"></gap>     
+              <ab><gap reason="lost" extent="unknown" unit="character"/>ν<unclear>α</unclear><gap reason="lost" extent="unknown" unit="character"/>ντρο<gap reason="lost" quantity="1" unit="character"/>αμ<gap reason="lost" extent="unknown" unit="character"/>     
              </ab> 
             </div>
             <div type="apparatus">
                     <listApp>
-                        <app loc="1"><rdg source="#Buckler1933"><gap reason="lost" quantity="5" unit="character"></gap>ν π<gap reason="lost" quantity="18" unit="character"></gap><supplied reason="lost">κέ</supplied>ντρον ἀμβ<supplied reason="lost">λῦνον ἁ</supplied></rdg><rdg source="#Ševčenko2012"><gap reason="lost" extent="unknown"></gap>ήτρ<gap reason="lost" quantity="2" unit="character"></gap> αμ<supplied reason="lost">αρτίας</supplied></rdg></app>
+                        <app loc="1"><rdg source="#Buckler1933"><gap reason="lost" quantity="5" unit="character"/>ν π<gap reason="lost" quantity="18" unit="character"/><supplied reason="lost">κέ</supplied>ντρον ἀμβ<supplied reason="lost">λῦνον ἁ</supplied></rdg><rdg source="#Ševčenko2012"><gap reason="lost" extent="unknown"/>ήτρ<gap reason="lost" quantity="2" unit="character"/> αμ<supplied reason="lost">αρτίας</supplied></rdg></app>
 </listApp>
                  </div>
             <div type="translation">

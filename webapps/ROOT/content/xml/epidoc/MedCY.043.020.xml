@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,10 +40,10 @@
                          </handDesc>
                         <decoDesc>
                               <p><rs type="iconography" ref="#IoannesGerakiotes">Ioannes and Eirene Gerakiotes</rs>                            
-                             <rs type="iconography" ref="#EireneGerakiotes"></rs>
-                             <rs type="iconography" ref="#Supplicant_Donor"></rs>
-                             <rs type="iconography" ref="#male"></rs>
-                             <rs type="iconography" ref="#female"></rs>
+                             <rs type="iconography" ref="#EireneGerakiotes"/>
+                             <rs type="iconography" ref="#Supplicant_Donor"/>
+                             <rs type="iconography" ref="#male"/>
+                             <rs type="iconography" ref="#female"/>
                               </p>
                         </decoDesc>
                     </physDesc>
@@ -65,7 +62,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc1">dedicatory</term>
+                    <term type="textType" key="doc1" ref="https://ontology.inscriptiones.org/type_of_inscription/Building_inscription https://ontology.inscriptiones.org/type_of_inscription/Dedication">dedicatory</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
@@ -82,24 +79,23 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><g ref="#cross">+</g><w lemma="ἀνοικοδομέω"><unclear>Ἀ</unclear><supplied reason="lost">νοικο</supplied>δο<unclear>μ̣</unclear><supplied reason="lost">ήθη</supplied></w> <supplied reason="lost">ὁ</supplied> <gap reason="lost" extent="unknown"></gap> <w lemma="πάνσεπτος"><supplied reason="lost">πάν</supplied>
+                    <lb n="1"/><g ref="#cross">+</g><w lemma="ἀνοικοδομέω"><unclear>Ἀ</unclear><supplied reason="lost">νοικο</supplied>δο<unclear>μ̣</unclear><supplied reason="lost">ήθη</supplied></w> <supplied reason="lost">ὁ</supplied> <gap reason="lost" extent="unknown"/> <w lemma="πάνσεπτος"><supplied reason="lost">πάν</supplied>
                    <lb n="2" break="no"/><surplus>σ</surplus>σε<hi rend="ligature">πτ</hi>ος</w> <w lemma="ναός"><choice><sic>να<choice><orig>ω</orig><reg>ὼ</reg></choice><supplied reason="lost">ς</supplied></sic><corr>ναὸς</corr></choice></w> <supplied reason="lost">τῆ<addName type="epithet" subtype="Theotokos" key="Hyperagia">ς <w lemma="ὑπεράγιος">ὑπεραγίας</w></addName></supplied>
-                   <lb n="3"></lb><addName type="epithet" key="Despoina"><name nymRef="#Δέσποινα"><choice><sic>Δεσπίνης</sic><corr>δεσποίνης</corr></choice></name></addName> <w lemma="ἐγώ"><choice><orig>η</orig><reg>ἡ</reg></choice><unclear>μ</unclear><supplied reason="lost">ῶν</supplied></w> <supplied reason="lost"><persName type="sacred" key="Theotokos"><w lemma="Θεοτόκος">Θεοτόκου</w></persName> διὰ</supplied>
-                   <lb n="4"/><w lemma="συνδρομή"><choice><sic>ση<supplied reason="omitted">ν</supplied>δρομ<choice><orig>η</orig><reg>ῆ</reg></choice>ς</sic><corr>συνδρομῆς</corr></choice></w><choice><reg/><orig>:</orig></choice> κα<choice><orig>ι</orig><reg>ὶ</reg></choice> <w lemma="πολύς">πο<unclear>λ</unclear><supplied reason="lost">λο</supplied><unclear>ῦ</unclear></w> <w lemma="πόθος"><choice><sic>πω<lb n="5" break="no"/>θου</sic><corr>πό<lb 
-                       n="5" break="no"/>θου</corr></choice></w> <persName type="attested" role="founder" ref="#IoannesGerakiotes"><name nymRef="#Ἰωάννης" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννου</ex></expan></name><choice><reg/><orig>:</orig></choice> το<choice><orig>υ</orig><reg>ῦ</reg></choice> <name nymRef="#Γερακιώτης" type="surname">
+                   <lb n="3"/><addName type="epithet" key="Despoina"><name nymRef="#Δέσποινα"><choice><sic>Δεσπίνης</sic><corr>δεσποίνης</corr></choice></name></addName> <w lemma="ἐγώ"><choice><orig>η</orig><reg>ἡ</reg></choice><unclear>μ</unclear><supplied reason="lost">ῶν</supplied></w> <supplied reason="lost"><persName type="sacred" key="Theotokos"><w lemma="Θεοτόκος">Θεοτόκου</w></persName> διὰ</supplied>
+                   <lb n="4"/><w lemma="συνδρομή"><choice><sic>ση<supplied reason="omitted">ν</supplied>δρομ<choice><orig>η</orig><reg>ῆ</reg></choice>ς</sic><corr>συνδρομῆς</corr></choice></w><choice><reg/><orig>:</orig></choice> κα<choice><orig>ι</orig><reg>ὶ</reg></choice> <w lemma="πολύς">πο<unclear>λ</unclear><supplied reason="lost">λο</supplied><unclear>ῦ</unclear></w> <w lemma="πόθος"><choice><sic>πω<lb n="5" break="no"/>θου</sic><corr>πό<lb n="5" break="no"/>θου</corr></choice></w> <persName type="attested" role="founder" ref="#IoannesGerakiotes"><name nymRef="#Ἰωάννης" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice>ω</abbr><ex>άννου</ex></expan></name><choice><reg/><orig>:</orig></choice> το<choice><orig>υ</orig><reg>ῦ</reg></choice> <name nymRef="#Γερακιώτης" type="surname">
 Γερακ<supplied reason="lost"><del rend="erasure">ιώτη</del></supplied></name> <name nymRef="#Μουτουλλᾶς" type="surname"><add><supplied reason="lost">Μουτ</supplied>ουλλ<choice><orig>α</orig><reg>ᾶ</reg></choice><choice><reg/><orig>:</orig></choice></add></name></persName> <w><choice><sic>κ<choice><orig>ε</orig><reg>ὲ</reg></choice></sic><corr>καὶ</corr></choice></w>                   
                     <lb n="6"/>τ<choice><orig>η</orig><reg>ῆ</reg></choice><supplied reason="omitted">ς</supplied> <w lemma="συμβία"><choice><sic>σ<hi rend="ligature">ην</hi>βίου</sic><corr>συμβίου</corr></choice></w> <w lemma="αὐτός">α<choice><orig>ὑ</orig><reg>ὐ</reg></choice>το<choice><orig>υ</orig><reg>ῦ</reg></choice></w><choice><reg/><orig>:</orig></choice> <persName type="attested" role="founder" ref="#Eirene_1"><name nymRef="#Εἰρήνη" type="forename"><choice><sic><choice><orig>Ϊ</orig><reg>Ἰ</reg></choice>ρίνης</sic><corr>Εἰρήνης</corr></choice></name></persName> 
-                   <lb n="7"/><del rend="erasure">ς</del> <w lemma="μήν"><choice><sic>μινὶ</sic><corr>μηνὶ</corr></choice></w> <w lemma="Ἰούλιος"><choice><orig>Ϊ</orig><reg>Ἰ</reg></choice>ουλί<choice><orig>ω</orig><reg>ῳ</reg></choice></w> ε<choice><orig>ι</orig><reg>ἰ</reg></choice>ς τ(ὰς) <num value="30">λ</num> <w lemma="ἔτος">ἔτ<hi rend="ligature">ου</hi>ς</w> <num value="6788"><hi rend="ligature">&#x03DB;</hi>ψ<unclear>πη</unclear></num>
+                   <lb n="7"/><del rend="erasure">ς</del> <w lemma="μήν"><choice><sic>μινὶ</sic><corr>μηνὶ</corr></choice></w> <w lemma="Ἰούλιος"><choice><orig>Ϊ</orig><reg>Ἰ</reg></choice>ουλί<choice><orig>ω</orig><reg>ῳ</reg></choice></w> ε<choice><orig>ι</orig><reg>ἰ</reg></choice>ς τ(ὰς) <num value="30">λ</num> <w lemma="ἔτος">ἔτ<hi rend="ligature">ου</hi>ς</w> <num value="6788"><hi rend="ligature">ϛ</hi>ψ<unclear>πη</unclear></num>
                 </ab>
             </div>
             <div type="apparatus">
                <listApp>
                    <app loc="1"><rdg source="#Soteriou1935">[Ἀνηγέρθη ἐκ βάθρων καὶ ἀνιστορήθη ὁ πάν]</rdg><rdg source="#Stylianou1960">[ΑΝΟΙΚΟ]ΔΟ[ΜΗΘΗ Ο ΘΕΙΟC ΚΑΙ ΠΑΝ]</rdg><rdg source="#Papageorgiou1975">[Ἀνοικο]ΔΟΜ[ήθη ὁ θεῖος καὶ πά]</rdg><rdg source="#Mouriki1984">[† ΑΝΟΙΚΟ]ΔΟΜ̣[ΗΘΗ Ο ΘΕΙΟC ΚΑΙ ΠΑ] </rdg><rdg source="#PerdikisMyrianthefs2009">[ΑΝΟΙΚΟ]ΔΟΜ[ΗΘΗ Ο ΘΕΙΟC ΚΑΙ ΠΑ]</rdg><rdg source="#VisCult">[Ἀνοικο]δομ[ήθη ὁ θεῖος καὶ πάν]</rdg></app>
-                   <app loc="2"><rdg source="#Soteriou1935">ναὸς</rdg><rdg source="#Stylianou1960">ΝΑΟC</rdg><rdg source="#Papageorgiou1975">ΝΑΟ[C]</rdg><rdg source="#PerdikisMyrianthefs2009"></rdg><rdg source="#Mouriki1984">ΝΑΟ̣[C]</rdg><rdg source="#VisCult">ναὸ[ς]</rdg></app>
-                   <app loc="3"><rdg source="#Soteriou1935">Δεσποίνης</rdg><rdg source="#Soteriou1935">ἡμ[ῶν]</rdg><rdg source="#VisCult"></rdg><rdg source="#Stylianou1960">Η[ΜΩΝ]</rdg><rdg source="#Papageorgiou1975">ΗΜ[ΩΝ]</rdg><rdg source="#PerdikisMyrianthefs2009"></rdg></app>
-                   <app loc="4"><rdg source="#Papageorgiou1975">CΗΔΡΟΜΗC</rdg><rdg source="#PerdikisMyrianthefs2009"></rdg><rdg source="#Mouriki1984">CΗΔΡΟΜΗC</rdg><rdg source="#Soteriou1935">πόν[ου καὶ πολλοῦ πό]</rdg><rdg source="#Stylianou1960">ΠΟΛ[ΛΟΥ Π]Ω</rdg><rdg source="#Papageorgiou1975">ΠΟΛΛΟΥ ΠΩ</rdg><rdg source="#PerdikisMyrianthefs2009"></rdg><rdg source="#Mouriki1984">ΠΟΛ̣[ΛΟΥ Π]Ω̣</rdg><rdg source="#VisCult">πολ[λοῦ] πό</rdg></app>
+                   <app loc="2"><rdg source="#Soteriou1935">ναὸς</rdg><rdg source="#Stylianou1960">ΝΑΟC</rdg><rdg source="#Papageorgiou1975">ΝΑΟ[C]</rdg><rdg source="#PerdikisMyrianthefs2009"/><rdg source="#Mouriki1984">ΝΑΟ̣[C]</rdg><rdg source="#VisCult">ναὸ[ς]</rdg></app>
+                   <app loc="3"><rdg source="#Soteriou1935">Δεσποίνης</rdg><rdg source="#Soteriou1935">ἡμ[ῶν]</rdg><rdg source="#VisCult"/><rdg source="#Stylianou1960">Η[ΜΩΝ]</rdg><rdg source="#Papageorgiou1975">ΗΜ[ΩΝ]</rdg><rdg source="#PerdikisMyrianthefs2009"/></app>
+                   <app loc="4"><rdg source="#Papageorgiou1975">CΗΔΡΟΜΗC</rdg><rdg source="#PerdikisMyrianthefs2009"/><rdg source="#Mouriki1984">CΗΔΡΟΜΗC</rdg><rdg source="#Soteriou1935">πόν[ου καὶ πολλοῦ πό]</rdg><rdg source="#Stylianou1960">ΠΟΛ[ΛΟΥ Π]Ω</rdg><rdg source="#Papageorgiou1975">ΠΟΛΛΟΥ ΠΩ</rdg><rdg source="#PerdikisMyrianthefs2009"/><rdg source="#Mouriki1984">ΠΟΛ̣[ΛΟΥ Π]Ω̣</rdg><rdg source="#VisCult">πολ[λοῦ] πό</rdg></app>
                    <app loc="5"><rdg source="#Soteriou1935">Μουτουλλᾶ</rdg><rdg source="#Stylianou1960">[ΜΟΥΤΟΥ]ΛΛΑ</rdg><rdg source="#Papageorgiou1975">ΓΕΡΑΚ[ΙΩ]ΤΗ</rdg><rdg source="#Mouriki1984">ΓΕΡΑΚΟΥΛΛΑ</rdg><rdg source="#PerdikisMyrianthefs2009">ΓΕΡΑΚΙΩΤΗ</rdg><rdg source="#VisCult">Γερακούλλα</rdg></app>
-                   <app loc="6"><rdg source="#Soteriou1935">τῆς σηνβίου</rdg><rdg source="#Stylianou1960">ΤΗC <supplied reason="omitted">C</supplied>ΗΝΒΙΟΥ</rdg><rdg source="#Papageorgiou1975">ΤΗ CΗΝΒΙΟΥ</rdg><rdg source="#PerdikisMyrianthefs2009"></rdg><rdg source="#Mouriki1984">ΤΗ CΗΝΒΙΟΥ</rdg><rdg source="#VisCult">>τῆς συνβίου</rdg></app>
+                   <app loc="6"><rdg source="#Soteriou1935">τῆς σηνβίου</rdg><rdg source="#Stylianou1960">ΤΗC <supplied reason="omitted">C</supplied>ΗΝΒΙΟΥ</rdg><rdg source="#Papageorgiou1975">ΤΗ CΗΝΒΙΟΥ</rdg><rdg source="#PerdikisMyrianthefs2009"/><rdg source="#Mouriki1984">ΤΗ CΗΝΒΙΟΥ</rdg><rdg source="#VisCult">&gt;τῆς συνβίου</rdg></app>
                    <app loc="7"><rdg source="#Soteriou1935">ἐπὶ ἔτους</rdg><rdg source="#Stylianou1960">ΕΙC Τ<supplied reason="omitted">ΑC</supplied> Δ´ </rdg><rdg source="#Mouriki1984">ΕΙC Τ(άς) Λ̣´</rdg><rdg source="#PerdikisMyrianthefs2009">:  ΕΙΣ Λ</rdg><rdg source="#VisCult">τ(ά) Λ</rdg><rdg source="#PerdikisMyrianthefs2009">ΥΨΠΗ</rdg><rdg source="#VisCult">υψπη</rdg></app>
                </listApp>
               
@@ -108,7 +104,7 @@
                 <p>The most venerable church of our Lady was erected by the contribution and the great desire of Ioannes Gerakiotes/Moutoullas and his wife Eirene, on the thirtieth of July of the year 6788 (1280).</p>
             </div>
             <div type="commentary">
-                <p>The surname of the founder Ioannes became a subject of much debate between the scholars. Ιt is clear that the surname "Gerakiotes" was written first and then the surname "Moutoullas" was added above it. Only the first six letters of the surname "Gerakiotes" are clearly visible while the others have been overwritten with the last letters of the surname "Moutoullas". According to <bibl><ptr target="#Papageorgiou1975"></ptr></bibl>, the name "Gerakiοtes" refers to the place of origin of the donor, the "Gerakies", while the name "Moutoullas" is his surname. Gradually, it seems that the name of "Moutoullas" was also given to the village, which is why there was an attempt to erase "Gerakiotes" and replace it with "Moutoullas". Based on the greek manuscript 1129 (paris. gr. 1129) of the National Library of Paris (see <bibl><ptr target="#Darrouzès1950"></ptr>, <citedRange>184</citedRange></bibl>, <bibl><ptr target="#PerdikisMyrianthefs2009"></ptr>, <citedRange>49-51</citedRange></bibl>), it appears that for many years, until 1387, the church was known as the Church of Panagia of "Gerakiotes".
+                <p>The surname of the founder Ioannes became a subject of much debate between the scholars. Ιt is clear that the surname "Gerakiotes" was written first and then the surname "Moutoullas" was added above it. Only the first six letters of the surname "Gerakiotes" are clearly visible while the others have been overwritten with the last letters of the surname "Moutoullas". According to <bibl><ptr target="#Papageorgiou1975"/></bibl>, the name "Gerakiοtes" refers to the place of origin of the donor, the "Gerakies", while the name "Moutoullas" is his surname. Gradually, it seems that the name of "Moutoullas" was also given to the village, which is why there was an attempt to erase "Gerakiotes" and replace it with "Moutoullas". Based on the greek manuscript 1129 (paris. gr. 1129) of the National Library of Paris (see <bibl><ptr target="#Darrouzès1950"/>, <citedRange>184</citedRange></bibl>, <bibl><ptr target="#PerdikisMyrianthefs2009"/>, <citedRange>49-51</citedRange></bibl>), it appears that for many years, until 1387, the church was known as the Church of Panagia of "Gerakiotes".
 
 </p>
             </div>

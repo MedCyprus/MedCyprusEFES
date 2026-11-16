@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -67,25 +64,25 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="020-024-01.JPG"><desc></desc></graphic>
-        <graphic url="020-024-02.JPG"><desc></desc></graphic>
-        <graphic url="020-024-03.JPG"><desc></desc></graphic>
-        <graphic url="020-024-04.JPG"><desc></desc></graphic>
-        <graphic url="020-024-05.JPG"><desc></desc></graphic>
-        <graphic url="020-024-06.JPG"><desc></desc></graphic>
-        <graphic url="020-024-07.JPG"><desc></desc></graphic>
-        <graphic url="020-024-08.JPG"><desc></desc></graphic>
+        <graphic rend="primary" url="020-024-01.JPG"><desc/></graphic>
+        <graphic url="020-024-02.JPG"><desc/></graphic>
+        <graphic url="020-024-03.JPG"><desc/></graphic>
+        <graphic url="020-024-04.JPG"><desc/></graphic>
+        <graphic url="020-024-05.JPG"><desc/></graphic>
+        <graphic url="020-024-06.JPG"><desc/></graphic>
+        <graphic url="020-024-07.JPG"><desc/></graphic>
+        <graphic url="020-024-08.JPG"><desc/></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς<am> &#x00A0;῀&#x00A0;</am></abbr></expan> <milestone unit="figure"/><supplied reason="lost"><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></supplied></name></persName>
+                   <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline">Ἰ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς<am>  ῀ </am></abbr></expan> <milestone unit="figure"/><supplied reason="lost"><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸ</ex><abbr rend="supraline">ς</abbr></expan></supplied></name></persName>
                   <lb n="2"/><expan><abbr rend="supraline">Φ</abbr><ex>ῶς</ex></expan> <milestone unit="figure"/><persName type="divine" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστοῦ</ex></expan></persName>
                   <lb n="3"/><expan><abbr rend="supraline">Φ</abbr><ex>αίνει</ex></expan> <milestone unit="figure"/><expan><abbr rend="supraline">Π</abbr><ex>ᾶσιν</ex></expan>
-                  <lb n="4"/><expan><abbr rend="supraline">Ξ</abbr><ex>ύλον</ex></expan><am>&#x00B4;</am> <expan><abbr rend="supraline">Ζ</abbr><ex>ωῆς</ex></expan> <milestone unit="figure"/><expan><abbr rend="supraline">Σ</abbr><ex>ωτηρία</ex></expan> <expan><abbr rend="supraline">Κ</abbr><ex>όσμου</ex></expan>
-                  <lb n="5"/><expan><abbr rend="supraline">Τ</abbr><ex>όπος</ex></expan><am>&#x00B4;</am> <milestone unit="figure"/><expan><abbr rend="supraline">Μ</abbr><ex>αρτυρίου</ex></expan><am>&#x00B4;</am> 
-                  <lb n="6"/><expan><abbr rend="supraline">Δ</abbr><ex>αιμόνος</ex></expan><am>&#x00B4;</am> <milestone unit="figure"/><expan><abbr rend="supraline">Κ</abbr><ex>τόνος</ex></expan>
+                  <lb n="4"/><expan><abbr rend="supraline">Ξ</abbr><ex>ύλον</ex></expan><am>´</am> <expan><abbr rend="supraline">Ζ</abbr><ex>ωῆς</ex></expan> <milestone unit="figure"/><expan><abbr rend="supraline">Σ</abbr><ex>ωτηρία</ex></expan> <expan><abbr rend="supraline">Κ</abbr><ex>όσμου</ex></expan>
+                  <lb n="5"/><expan><abbr rend="supraline">Τ</abbr><ex>όπος</ex></expan><am>´</am> <milestone unit="figure"/><expan><abbr rend="supraline">Μ</abbr><ex>αρτυρίου</ex></expan><am>´</am> 
+                  <lb n="6"/><expan><abbr rend="supraline">Δ</abbr><ex>αιμόνος</ex></expan><am>´</am> <milestone unit="figure"/><expan><abbr rend="supraline">Κ</abbr><ex>τόνος</ex></expan>
                  </ab>
             </div>
             <div type="apparatus">

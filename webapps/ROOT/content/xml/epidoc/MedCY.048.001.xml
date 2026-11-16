@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,9 +40,9 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#Deesis">Deesis</rs>
-                                <rs type="iconography" ref="#Christ"></rs>
-                                <rs type="iconography" ref="#divine"></rs> 
-                            <rs type="iconography" ref="#male"></rs></p>
+                                <rs type="iconography" ref="#Christ"/>
+                                <rs type="iconography" ref="#divine"/> 
+                            <rs type="iconography" ref="#male"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -63,7 +60,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc9">nomina sacra</term>
+                    <term type="textType" key="doc9" ref=" https://ark.mom.fr/ark:/76609/epvfdd7hpzkzp">nomina sacra</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
@@ -79,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                 <lb n="1"/><persName type="divine" key="JesusChrist"><supplied reason="lost"><name nymRef ="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς<am> &#x00A0;῀&#x00A0;</am></abbr></expan></name></supplied>
+                 <lb n="1"/><persName type="divine" key="JesusChrist"><supplied reason="lost"><name nymRef="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς<am>  ῀ </am></abbr></expan></name></supplied>
                     <milestone unit="column"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline"><supplied reason="lost">Χ</supplied></abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></persName>         
                  </ab>
             </div>

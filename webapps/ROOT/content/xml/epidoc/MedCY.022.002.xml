@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,10 +40,10 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#Angels_Hetoimasia">Eight angels adoring the Hetoimasia</rs>
-                                <rs type="iconography" ref="#Hetoimasia"></rs>
-                                <rs type="iconography" ref="#angel"></rs>                             
-                                <rs type="iconography" ref="#dressantique"></rs>
-                                <rs type="iconography" ref="#vision"></rs>
+                                <rs type="iconography" ref="#Hetoimasia"/>
+                                <rs type="iconography" ref="#angel"/>                             
+                                <rs type="iconography" ref="#dressantique"/>
+                                <rs type="iconography" ref="#vision"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -65,7 +62,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc6">quotation, biblical</term>
+                    <term type="textType" key="doc6" ref="https://ontology.inscriptiones.org/type_of_inscription/Quotation">quotation, biblical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos)</creation>
@@ -88,8 +85,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><g ref="#cross">+</g><choice><sic>Kε</sic><corr>καὶ</corr></choice><space quantity="6" unit="character"></space> <w lemma="προσκυνέω"><choice><sic><hi rend="ligature">πρ</hi>ς<space quantity="6" unit="character"></space>σκη<space quantity="6" unit="character"></space><hi rend="ligature">ν<choice><orig>ὴ</orig><reg>η</reg></choice></hi><space quantity="6" unit="character"></space>σ<choice><orig>α</orig><reg>ά</reg></choice><space quantity="6" unit="character"></space>τ<choice><orig>ὸ</orig><reg>ο</reg></choice><space quantity="6" unit="character"></space>σ<hi rend="ligature"><choice><orig>ᾶ</orig><reg>α</reg></choice>ν</hi></sic><corr>προσκυνησάτωσαν</corr></choice></w> 
-<space quantity="6" unit="character"></space><w lemma="αὐτός"><choice><sic>α<choice><orig>υ</orig><reg>ὐ</reg></choice><space quantity="6" unit="character"></space>τον</sic><corr>αὐτῷ</corr></choice><space quantity="6" unit="character"></space></w> <space quantity="6" unit="character"></space><w lemma="πᾶς"><choice><sic>π<hi rend="ligature"><choice><orig>α</orig><reg>ά</reg></choice>ν</hi><space quantity="6" unit="character"></space><hi rend="ligature">τη</hi>ς</sic><corr>πάντες</corr></choice></w><space quantity="6" unit="character"></space>η<space quantity="6" unit="character"></space> <w lemma="ἄγγελος"><choice><sic><hi rend="ligature"><choice><orig>α</orig><reg>ἄ</reg></choice>κ</hi>κε<hi rend="ligature">λη</hi></sic><corr>ἄγγελοι</corr></choice><space quantity="6" unit="character"></space></w> <persName type="divine" key="God"><w lemma="θεός"><expan><abbr>Θ</abbr><ex>εο</ex><choice><orig>υ</orig><reg>ῦ</reg></choice></expan></w></persName>        
+                  <lb n="1"/><g ref="#cross">+</g><choice><sic>Kε</sic><corr>καὶ</corr></choice><space quantity="6" unit="character"/> <w lemma="προσκυνέω"><choice><sic><hi rend="ligature">πρ</hi>ς<space quantity="6" unit="character"/>σκη<space quantity="6" unit="character"/><hi rend="ligature">ν<choice><orig>ὴ</orig><reg>η</reg></choice></hi><space quantity="6" unit="character"/>σ<choice><orig>α</orig><reg>ά</reg></choice><space quantity="6" unit="character"/>τ<choice><orig>ὸ</orig><reg>ο</reg></choice><space quantity="6" unit="character"/>σ<hi rend="ligature"><choice><orig>ᾶ</orig><reg>α</reg></choice>ν</hi></sic><corr>προσκυνησάτωσαν</corr></choice></w> 
+<space quantity="6" unit="character"/><w lemma="αὐτός"><choice><sic>α<choice><orig>υ</orig><reg>ὐ</reg></choice><space quantity="6" unit="character"/>τον</sic><corr>αὐτῷ</corr></choice><space quantity="6" unit="character"/></w> <space quantity="6" unit="character"/><w lemma="πᾶς"><choice><sic>π<hi rend="ligature"><choice><orig>α</orig><reg>ά</reg></choice>ν</hi><space quantity="6" unit="character"/><hi rend="ligature">τη</hi>ς</sic><corr>πάντες</corr></choice></w><space quantity="6" unit="character"/>η<space quantity="6" unit="character"/> <w lemma="ἄγγελος"><choice><sic><hi rend="ligature"><choice><orig>α</orig><reg>ἄ</reg></choice>κ</hi>κε<hi rend="ligature">λη</hi></sic><corr>ἄγγελοι</corr></choice><space quantity="6" unit="character"/></w> <persName type="divine" key="God"><w lemma="θεός"><expan><abbr>Θ</abbr><ex>εο</ex><choice><orig>υ</orig><reg>ῦ</reg></choice></expan></w></persName>        
                  </ab>
             </div>
             <div type="apparatus">

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,8 +40,8 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#Jonah">Jonah</rs>                                
-                                <rs type="iconography" ref="#prophet"></rs>
-                                <rs type="iconography" ref="#male"></rs>
+                                <rs type="iconography" ref="#prophet"/>
+                                <rs type="iconography" ref="#male"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -63,7 +60,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc5">caption</term>
+                    <term type="textType" key="doc5" ref="https://ontology.inscriptiones.org/type_of_inscription/Description">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos)</creation>
@@ -78,7 +75,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                    <cb n="a"/>
-                    <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Jonah"><w lemma="προφήτης"><expan><abbr rend="supraline">πρ</abbr><ex>ο</ex><abbr rend="supraline">φ</abbr><ex>ή</ex><abbr rend="supraline">τ</abbr><ex>η</ex><abbr rend="supraline">ς</abbr></expan><am>&#x00A0;΄&#x00A0;</am></w>
+                    <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Jonah"><w lemma="προφήτης"><expan><abbr rend="supraline">πρ</abbr><ex>ο</ex><abbr rend="supraline">φ</abbr><ex>ή</ex><abbr rend="supraline">τ</abbr><ex>η</ex><abbr rend="supraline">ς</abbr></expan><am> ΄ </am></w>
                         <cb n="b"/>
                         <lb n="1"/><name type="forename" nymRef="#Ἰωνάς"><choice><sic><choice><orig>H</orig><reg>᾿H</reg></choice>
                              <lb n="2" break="no"/>o

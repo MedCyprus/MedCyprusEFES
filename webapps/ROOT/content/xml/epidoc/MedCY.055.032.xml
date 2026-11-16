@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -40,11 +37,11 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Constantine">Constantine's sphere</rs>
-                            <rs type="iconography" ref="#male"></rs>
-                            <rs type="iconography" ref="#imperial"></rs>
-                            <rs type="iconography" ref="#sphere"></rs>
-                            <rs type="iconography" ref="#crosspatriarchal"></rs>
-                            <rs type="iconography" ref="#crossstepped"></rs>
+                            <rs type="iconography" ref="#male"/>
+                            <rs type="iconography" ref="#imperial"/>
+                            <rs type="iconography" ref="#sphere"/>
+                            <rs type="iconography" ref="#crosspatriarchal"/>
+                            <rs type="iconography" ref="#crossstepped"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -65,7 +62,7 @@
             <textClass>
                 <keywords>
                     <term type="textType" key="doc2">cryptogram</term>
-                    <term type="textType" key="doc10">apotropaic</term>
+                    <term type="textType" key="doc10" ref="https://ontology.inscriptiones.org/type_of_inscription/Apotropaic_text">apotropaic</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
@@ -83,7 +80,7 @@
                        <lb n="2"/><persName type="divine" key="SonOfGod"><expan><abbr rend="supraline"><hi rend="ligature">Υ<choice><orig>ι</orig><reg>ἱ</reg></choice></hi></abbr><ex>ὸ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column"/><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName></persName>
                     <lb n="3"/><w lemma="νικάω"><hi rend="supraline">Νι</hi> <milestone unit="column" break="no"/><hi rend="supraline">κ<choice><orig>α</orig><reg>ᾷ</reg></choice></hi></w>
                     <lb n="4"/><w lemma="εὕρεμα"><expan><abbr rend="supraline">Ε</abbr><ex>ὕρεμα</ex></expan></w> <w lemma="δίδωμι"><expan><abbr rend="supraline"><choice><orig>ε</orig><reg>ἐ</reg></choice></abbr><ex>δόθη</ex></expan></w>
-      <milestone unit="column"/> <expan><abbr rend="supraline"><choice><orig>ε</orig><reg>ἐ</reg></choice></abbr><ex>κ Θεοῦ <!--<persName type="divine" key="God"><name nymRef="#Θεός">Θεοῦ</name></persName>--></ex></expan> <persName type="sacred" key="Helena"><name type="forename" nymRef="#Ἑλένη"></name><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἑ</reg></choice></abbr><ex>λένῃ/ης</ex></expan></persName>                  
+      <milestone unit="column"/> <expan><abbr rend="supraline"><choice><orig>ε</orig><reg>ἐ</reg></choice></abbr><ex>κ Θεοῦ <!--<persName type="divine" key="God"><name nymRef="#Θεός">Θεοῦ</name></persName>--></ex></expan> <persName type="sacred" key="Helena"><name type="forename" nymRef="#Ἑλένη"/><expan><abbr rend="supraline"><choice><orig>Ε</orig><reg>Ἑ</reg></choice></abbr><ex>λένῃ/ης</ex></expan></persName>                  
                 </ab>
             </div>
             <div type="apparatus">

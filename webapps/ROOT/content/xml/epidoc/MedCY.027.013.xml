@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,9 +40,9 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#PresentationChristTemple">Presentation of Christ to the Temple, Anna</rs>
-                                <rs type="iconography" ref="#AnnaProphetess"></rs>
-                                <rs type="iconography" ref="#scroll"></rs>
-                            <rs type="iconography" ref="#christological"></rs></p>
+                                <rs type="iconography" ref="#AnnaProphetess"/>
+                                <rs type="iconography" ref="#scroll"/>
+                            <rs type="iconography" ref="#christological"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -63,15 +60,15 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc24">quotation, source unknown</term>
+                    <term type="textType" key="doc24" ref="https://ontology.inscriptiones.org/type_of_inscription/Quotation">quotation, source unknown</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="027-013-01.JPG"><desc></desc></graphic>
-         <graphic url="027-013-02.JPG"><desc></desc></graphic>
+         <graphic rend="primary" url="027-013-01.JPG"><desc/></graphic>
+         <graphic url="027-013-02.JPG"><desc/></graphic>
     </facsimile>
     <text>
         <body>

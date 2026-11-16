@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,9 +40,9 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#ChristAntiphonetes">Christ Antiphonetes</rs>
-                                <rs type="iconography" ref="#Christ"></rs>
-                                <rs type="iconography" ref="#divine"></rs> 
-                            <rs type="iconography" ref="#male"></rs>
+                                <rs type="iconography" ref="#Christ"/>
+                                <rs type="iconography" ref="#divine"/> 
+                            <rs type="iconography" ref="#male"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -64,23 +61,23 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc11">invocation</term>
+                    <term type="textType" key="doc11" ref="https://ontology.inscriptiones.org/type_of_inscription/Invocation">invocation</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="022-056-01.JPG"><desc></desc></graphic>
-        <graphic url="022-056-02.JPG"><desc></desc></graphic>
-        <graphic url="022-056-03.JPG"><desc></desc></graphic>
+        <graphic rend="primary" url="022-056-01.JPG"><desc/></graphic>
+        <graphic url="022-056-02.JPG"><desc/></graphic>
+        <graphic url="022-056-03.JPG"><desc/></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
               PENDING<lb n="1"/> <g ref="#cross">+</g> <w lemma="δέησις"><expan><abbr rend="supraline">Δ<choice><orig>ε</orig><reg>έ</reg></choice></abbr><ex>ησις</ex></expan></w> <hi rend="ligature">τη</hi>ς <w lemma="δούλη"><expan><abbr rend="supraline">δο<choice><orig>υ</orig><reg>ύ</reg></choice>λ</abbr><ex>ης</ex></expan></w> τ<supplied reason="lost">οῦ</supplied>
-              <lb n="2"/><persName type="divine" key="God"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName> <persName type="attested" role="donor" ref="#Unspecified"><name nymRef="#Αδιευκρινιστο" type="forename"><unclear>Μ</unclear>α<gap reason="lost" unit="character" quantity="1"></gap>τρ<gap reason="lost" unit="character" quantity="2"></gap></name></persName>
+              <lb n="2"/><persName type="divine" key="God"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName> <persName type="attested" role="donor" ref="#Unspecified"><name nymRef="#Αδιευκρινιστο" type="forename"><unclear>Μ</unclear>α<gap reason="lost" unit="character" quantity="1"/>τρ<gap reason="lost" unit="character" quantity="2"/></name></persName>
               <lb n="3" break="no"/>χ
 </ab>
             </div>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,7 +40,7 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#FortyMartyrs_martyrdom">Martyrdom of the Forty Martyrs of Sebasteia</rs>
-                                  <rs type="iconography" ref="#FortyMartyrs"></rs>            
+                                  <rs type="iconography" ref="#FortyMartyrs"/>            
                                   <rs type="iconography" ref="#hagiographic">hagiographic</rs>                               
                             </p>
                         </decoDesc>
@@ -64,7 +61,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc5">caption</term>
+                    <term type="textType" key="doc5" ref="https://ontology.inscriptiones.org/type_of_inscription/Description">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (G. Apeitos, Th. Petrou)</creation>
@@ -81,8 +78,8 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                <lb n="1"/><supplied reason="lost">Οἱ</supplied> <supplied reason="lost"><w lemma="ἅγιος">ἅγιοι</w></supplied> <persName type="sacred" key="FortyMartyrs"><w lemma= "τεσσαράκοντα"><supplied reason="lost">τεσσαράκοντα</supplied></w></persName> <w lemma= "μάρτυρ">μ<supplied reason="lost">άρτυρες</supplied></w> <w lemma="καλλίνικος">καλλίνικοι</w>
-               <lb n="1"/><space quantity="15" unit="character"></space><placeName ref="mentioned_places.xml#Sebaste">Σεβ<supplied reason="lost">αστείας</supplied></placeName>
+                <lb n="1"/><supplied reason="lost">Οἱ</supplied> <supplied reason="lost"><w lemma="ἅγιος">ἅγιοι</w></supplied> <persName type="sacred" key="FortyMartyrs"><w lemma="τεσσαράκοντα"><supplied reason="lost">τεσσαράκοντα</supplied></w></persName> <w lemma="μάρτυρ">μ<supplied reason="lost">άρτυρες</supplied></w> <w lemma="καλλίνικος">καλλίνικοι</w>
+               <lb n="1"/><space quantity="15" unit="character"/><placeName ref="mentioned_places.xml#Sebaste">Σεβ<supplied reason="lost">αστείας</supplied></placeName>
               </ab>
             </div>
             <div type="apparatus">

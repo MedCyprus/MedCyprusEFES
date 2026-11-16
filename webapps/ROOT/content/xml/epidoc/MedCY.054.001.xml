@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -42,9 +39,9 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#unidentified_figure">Prelate, unidentified</rs>
-                                <rs type="iconography" ref="#prelate"></rs>
-                                <rs type="iconography" ref="#male"></rs>
-                                <rs type="iconography" ref="#scroll"></rs>
+                                <rs type="iconography" ref="#prelate"/>
+                                <rs type="iconography" ref="#male"/>
+                                <rs type="iconography" ref="#scroll"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -63,7 +60,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc15">quotation, monastic</term>
+                    <term type="textType" key="doc15" ref="https://ontology.inscriptiones.org/type_of_inscription/Quotation">quotation, monastic</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publication, archival photos (The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC.)</creation>
@@ -72,9 +69,9 @@
     <facsimile>
        <graphic rend="primary" url="054-001-01.jpg"><desc>(The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC.)</desc></graphic>
        <graphic url="054-001-02.jpg"><desc>(The Byzantine Institute and Dumbarton Oaks fieldwork records and papers, Dumbarton Oaks, Trustees for Harvard University, Washington, DC.)</desc></graphic>
-       <graphic url="054-001-03.JPG"><desc></desc></graphic>
-       <graphic url="054-001-04.JPG"><desc></desc></graphic>
-       <graphic url="054-001-05.JPG"><desc></desc></graphic>
+       <graphic url="054-001-03.JPG"><desc/></graphic>
+       <graphic url="054-001-04.JPG"><desc/></graphic>
+       <graphic url="054-001-05.JPG"><desc/></graphic>
     </facsimile>
     <text>
         <body>

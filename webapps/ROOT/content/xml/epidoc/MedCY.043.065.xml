@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -44,10 +41,10 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#George">George, on horseback</rs>
-                            <rs type="iconography" ref="#martyr"></rs>
-                            <rs type="iconography" ref="#militarysaint"></rs>
-                            <rs type="iconography" ref="#male"></rs>
-                            <rs type="iconography" ref="#dressmilitary"></rs>
+                            <rs type="iconography" ref="#martyr"/>
+                            <rs type="iconography" ref="#militarysaint"/>
+                            <rs type="iconography" ref="#male"/>
+                            <rs type="iconography" ref="#dressmilitary"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -66,7 +63,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc5">caption</term>
+                    <term type="textType" key="doc5" ref="https://ontology.inscriptiones.org/type_of_inscription/Description">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
@@ -83,11 +80,11 @@
                     <cb n="a"/>
                     <lb n="1"/>Ὁ
                     <lb n="2"/><persName type="sacred" key="George"><w lemma="ἅγιος">ἅ
-                    <lb n="3" break="no" />γι
+                    <lb n="3" break="no"/>γι
                     <lb n="4" break="no"/>ος</w>
              <cb n="b"/>
                     <lb n="1"/><name type="forename" nymRef="#Γεώργιος">Γε<choice><orig>ω</orig><reg>ώ</reg></choice>ργιος</name>
-                    <lb n="2" /><choice><orig>ο</orig><reg>ὁ</reg></choice> <addName type="epithet" key="Cappadocian"><w>Κ<hi rend="ligature">αππ</hi><choice><orig>α</orig><reg>ά</reg></choice>δ<choice><orig>ο̃</orig><reg>ο</reg></choice>ξ</w></addName></persName> 
+                    <lb n="2"/><choice><orig>ο</orig><reg>ὁ</reg></choice> <addName type="epithet" key="Cappadocian"><w>Κ<hi rend="ligature">αππ</hi><choice><orig>α</orig><reg>ά</reg></choice>δ<choice><orig>ο̃</orig><reg>ο</reg></choice>ξ</w></addName></persName> 
                  </ab>
             </div>
             <div type="apparatus">

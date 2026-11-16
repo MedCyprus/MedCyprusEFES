@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,9 +40,9 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Kyriakos">Kyriakos</rs>
-                            <rs type="iconography" ref="#monastic"></rs> 
-                            <rs type="iconography" ref="#male"></rs>   
-                            <rs type="iconography" ref="#scroll"></rs>
+                            <rs type="iconography" ref="#monastic"/> 
+                            <rs type="iconography" ref="#male"/>   
+                            <rs type="iconography" ref="#scroll"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -64,7 +61,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc15">quotation, monastic</term>
+                    <term type="textType" key="doc15" ref="https://ontology.inscriptiones.org/type_of_inscription/Quotation">quotation, monastic</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>

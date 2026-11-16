@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,8 +40,8 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#AnastasiaPharmakolytria">Anastasia the Poison-curer (Pharmakolytria)</rs>
-                                  <rs type="iconography" ref="#female"></rs>  
-                                  <rs type="iconography" ref="#martyr"></rs></p>
+                                  <rs type="iconography" ref="#female"/>  
+                                  <rs type="iconography" ref="#martyr"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -63,7 +60,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc5">caption</term>
+                    <term type="textType" key="doc5" ref="https://ontology.inscriptiones.org/type_of_inscription/Description">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (G. Apeitos, Th. Petrou), publications</creation>
@@ -84,13 +81,13 @@
                   <lb n="3*"/> <name type="forename" nymRef="#Ἀναστασία"><hi rend="ligature"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>ν</hi>αστασία</name>
                    <cb n="b"/>   
                    <lb n="1"/><choice><orig>ἠ</orig><reg>ἡ</reg></choice> 
-                   <lb n ="2" break="no"/><addName type="epithet" key="Poison-curer"><w lemma="φαρμακολύτρια">Φ
-                   <lb n ="3" break="no"/><hi rend="ligature">αρ</hi>
-                   <lb n ="4" break="no"/>μα
-                   <lb n ="5" break="no"/>κο
-                   <lb n ="6" break="no"/>λ<choice><orig>υ</orig><reg>ύ</reg></choice> 
-                   <lb n ="7" break="no"/><hi rend="ligature">τρ</hi><choice><orig>ί</orig><reg>ι</reg></choice> 
-                   <lb n ="8" break="no"/>α</w></addName></persName>
+                   <lb n="2" break="no"/><addName type="epithet" key="Poison-curer"><w lemma="φαρμακολύτρια">Φ
+                   <lb n="3" break="no"/><hi rend="ligature">αρ</hi>
+                   <lb n="4" break="no"/>μα
+                   <lb n="5" break="no"/>κο
+                   <lb n="6" break="no"/>λ<choice><orig>υ</orig><reg>ύ</reg></choice> 
+                   <lb n="7" break="no"/><hi rend="ligature">τρ</hi><choice><orig>ί</orig><reg>ι</reg></choice> 
+                   <lb n="8" break="no"/>α</w></addName></persName>
                </ab> 
             </div>
             <div type="apparatus">

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -44,9 +41,9 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#Hilarion">Hilarion</rs>
-                            <rs type="iconography" ref="#monastic"></rs>
-                            <rs type="iconography" ref="#male"></rs>
-                            <rs type="iconography" ref="#scroll"></rs>
+                            <rs type="iconography" ref="#monastic"/>
+                            <rs type="iconography" ref="#male"/>
+                            <rs type="iconography" ref="#scroll"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -66,7 +63,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc15">quotation, monastic</term>
+                    <term type="textType" key="doc15" ref="https://ontology.inscriptiones.org/type_of_inscription/Quotation">quotation, monastic</term>
                 </keywords>
             </textClass>
             <creation>transcription (G. Apeitos, Th. Petrou), publication</creation>
@@ -86,9 +83,9 @@
                   <lb n="3" break="no"/><gap reason="lost" extent="unknown" unit="character"/>
                   <lb n="4"/><gap reason="lost" unit="character" quantity="1"/><unclear>ε</unclear>δο<unclear>υ</unclear>
                   <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="divine" key="God"><expan><abbr rend="supraline"><unclear>Θ</unclear></abbr><ex>εό</ex><abbr rend="supraline"><unclear>ς</unclear></abbr></expan></persName>   
-                  <lb n="6"/><gap reason="lost" extent="unknown" unit="character"></gap>
-                  <lb n="7"/><gap reason="lost" extent="unknown" unit="character"></gap>
-                  <lb n="8"/><gap reason="lost" extent="unknown" unit="character"></gap>
+                  <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/>
+                  <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/>
+                  <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/>
               </ab>
             </div>
             <div type="apparatus">

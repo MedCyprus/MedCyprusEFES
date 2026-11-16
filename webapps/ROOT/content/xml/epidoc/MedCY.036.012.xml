@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -44,9 +41,9 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#JohnChrysostom">John Chrysostom</rs>
-                               <rs type="iconography" ref="#prelate"></rs>
-                                <rs type="iconography" ref="#male"></rs>
-                                <rs type="iconography" ref="#scroll"></rs>
+                               <rs type="iconography" ref="#prelate"/>
+                                <rs type="iconography" ref="#male"/>
+                                <rs type="iconography" ref="#scroll"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -66,7 +63,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc8">quotation, liturgical</term>
+                    <term type="textType" key="doc8" ref="https://ontology.inscriptiones.org/type_of_inscription/Quotation">quotation, liturgical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
@@ -92,7 +89,7 @@
                     <lb n="6" break="no"/>τὸς</w> <w lemma="κόσμος">κόσμ<hi rend="ligature">ου</hi></w>
                   <lb n="7"/><w>τὸν</w> <persName type="divine" key="Lord"><w lemma="κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύριο</ex><abbr rend="supraline">ν</abbr></expan></w></persName> <w lemma="ἐγώ">ἡ
                  <lb n="8" break="no"/>μῶ<hi rend="ligature">ν κ</hi>αὶ</w> <persName type="divine" key="God"><w lemma="θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><abbr rend="supraline"><supplied reason="lost">ν</supplied></abbr></expan></w></persName>
-                  <lb n="9"/><persName type="divine" key="JesusChrist"><name nymRef ="#Ἰησοῦς" type="forename"> <expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ν</abbr></expan> <supplied reason="omitted"><addName type="epithet" subtype="JesusChrist" key="Christ">Χριστόν</addName></supplied></name></persName> <w lemma="ἐξαποστέλλω">ἐξαπο
+                  <lb n="9"/><persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς" type="forename"> <expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ν</abbr></expan> <supplied reason="omitted"><addName type="epithet" subtype="JesusChrist" key="Christ">Χριστόν</addName></supplied></name></persName> <w lemma="ἐξαποστέλλω">ἐξαπο
                 <lb n="10" break="no"/>στε<choice><orig>ı</orig><reg>ἰ</reg></choice>λας</w>.<w lemma="σωτηρία"><expan><abbr rend="supraline">σ</abbr><ex>ωτη</ex><abbr rend="supraline">ρα</abbr></expan></w> <expan><abbr rend="supraline">κ</abbr><ex>αὶ</ex></expan>
                   <lb n="11"/><w lemma="λυτρωτής">λυτρ<choice><orig>ο</orig><reg>ω</reg></choice><hi rend="ligature">τὴν</hi></w>
                </ab>

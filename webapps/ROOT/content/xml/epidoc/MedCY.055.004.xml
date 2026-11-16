@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -40,10 +37,10 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Mark">Mark</rs>
-                            <rs type="iconography" ref="#evangelist"></rs>
-                            <rs type="iconography" ref="#apostle"></rs>    
-                            <rs type="iconography" ref="#male"></rs>   
-                            <rs type="iconography" ref="#codex"></rs>
+                            <rs type="iconography" ref="#evangelist"/>
+                            <rs type="iconography" ref="#apostle"/>    
+                            <rs type="iconography" ref="#male"/>   
+                            <rs type="iconography" ref="#codex"/>
                             </p>
                             </decoDesc>
                     </physDesc>
@@ -63,14 +60,14 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc6">quotation, biblical</term>
+                    <term type="textType" key="doc6" ref="https://ontology.inscriptiones.org/type_of_inscription/Quotation">quotation, biblical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publication</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="055-004-01.JPG"><desc></desc></graphic>
+         <graphic rend="primary" url="055-004-01.JPG"><desc/></graphic>
     </facsimile>
     <text>
         <body>
@@ -83,7 +80,7 @@
                     <cb n="b"/>
                     <lb n="1"/>γγελ<supplied reason="lost">ί</supplied>
                     <lb n="2" break="no"/>ου</w> <persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς" type="forename"><expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><supplied reason="lost"><ex>ησο</ex><abbr rend="supraline">ῦ</abbr></supplied></expan>
-                    <lb  n="3"/><addName type="epithet" subtype="JesusChrist" key="Christ"><supplied reason="lost"><expan><abbr rend="supraline">Χ</abbr><ex>ριστο</ex><abbr rend="supraline">ῦ</abbr></expan></supplied></addName></name></persName>
+                    <lb n="3"/><addName type="epithet" subtype="JesusChrist" key="Christ"><supplied reason="lost"><expan><abbr rend="supraline">Χ</abbr><ex>ριστο</ex><abbr rend="supraline">ῦ</abbr></expan></supplied></addName></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,9 +40,9 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#Gabriel">Archangel Gabriel</rs>
-                            <rs type="iconography" ref="#archangel"></rs>
-                            <rs type="iconography" ref="#genderless"></rs>
-                            <rs type="iconography" ref="#dressantique"></rs></p>
+                            <rs type="iconography" ref="#archangel"/>
+                            <rs type="iconography" ref="#genderless"/>
+                            <rs type="iconography" ref="#dressantique"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -63,14 +60,14 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc5">caption</term>
+                    <term type="textType" key="doc5" ref="https://ontology.inscriptiones.org/type_of_inscription/Description">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="020-038-01.JPG"><desc></desc></graphic>
+        <graphic rend="primary" url="020-038-01.JPG"><desc/></graphic>
     </facsimile>
     <text>
         <body>
@@ -79,7 +76,7 @@
                    <cb n="a"/>
                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Michael"><w lemma="ἀρχάγγελος"><unclear>ἀ</unclear>ρχ<unclear>ά</unclear><supplied reason="lost">γγελος</supplied></w> 
                      <cb n="b"/>  
-                     <lb n="1"/><name type="forename" nymRef ="#Μιχαήλ"><supplied reason="lost">Μιχαήλ</supplied></name></persName>  
+                     <lb n="1"/><name type="forename" nymRef="#Μιχαήλ"><supplied reason="lost">Μιχαήλ</supplied></name></persName>  
                  </ab>
             </div>
             <div type="apparatus">

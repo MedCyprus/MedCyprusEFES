@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -42,7 +39,7 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#Ascension">Ascension</rs>
-                                   <rs type="iconography" ref="#christological"></rs></p>
+                                   <rs type="iconography" ref="#christological"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -61,8 +58,8 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc24">quotation(?)</term>
-                    <term type="textType" key="doc12">metrical</term>
+                    <term type="textType" key="doc24" ref="https://ontology.inscriptiones.org/type_of_inscription/Quotation">quotation(?)</term>
+                    <term type="textType" key="doc12" ref="https://www.eagle-network.eu/voc/typeins/lod/368.html">metrical</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou), publication</creation>
@@ -76,16 +73,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <lg met="Dodecasyllable">
-               <l n="1"><lb n="1"/><gap reason="lost" extent="unknown" unit="character"></gap> <w lemma="δεξιόθεν"><choice><sic>δεξηόθεν</sic><corr>δεξιόθεν</corr></choice></w><choice><reg/><orig>:</orig></choice></l>
-               <l n="2"><lb n="2"/>ηξι<unclear>τ</unclear><gap reason="lost" extent="unknown" unit="character"></gap> με
+               <l n="1"><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="δεξιόθεν"><choice><sic>δεξηόθεν</sic><corr>δεξιόθεν</corr></choice></w><choice><reg/><orig>:</orig></choice></l>
+               <l n="2"><lb n="2"/>ηξι<unclear>τ</unclear><gap reason="lost" extent="unknown" unit="character"/> με
                <lb n="3" break="no"/>τ<choice><orig>α</orig><reg>ὰ</reg></choice> <w lemma="δόξα"><choice><sic>δ<choice><orig>ο</orig><reg>ό</reg></choice>ξις</sic><corr>δόξης</corr></choice></w> του
                <lb n="4"/><persName type="divine" key="Lord"><w lemma="κύριος"><choice><sic>Κ<choice><orig>η</orig><reg>ή</reg></choice>ριε</sic><corr>Κύριε</corr></choice></w></persName><choice><reg/><orig>:</orig></choice></l>
                <l n="3">καὶ ἀπ<choice><orig>ο</orig><reg>ὸ</reg></choice>
-               <lb n="5"/>ση <gap reason="lost" extent="unknown"></gap> <w lemma="σκιά">σκιά</w> στου
-               <lb n="6"/><gap reason="lost" extent="unknown"></gap> ξ <unclear>λ</unclear></l>
-               <l n="4"><lb n="7"/><choice><orig>ε</orig><reg>ἐ</reg></choice><choice><sic>ν τ<choice><orig>ο&#x0342;</orig><reg>ο̃ͅ</reg></choice></sic><corr>τῷ</corr></choice> <w lemma="μέσος"><choice><sic>μ<choice><orig>ε</orig><reg>έ</reg></choice>σ<choice><orig>ῶ</orig><reg>ῳ</reg></choice></sic><corr>μέσῳ</corr></choice></w> τ<supplied reason="lost">ῶν</supplied> 
+               <lb n="5"/>ση <gap reason="lost" extent="unknown"/> <w lemma="σκιά">σκιά</w> στου
+               <lb n="6"/><gap reason="lost" extent="unknown"/> ξ <unclear>λ</unclear></l>
+               <l n="4"><lb n="7"/><choice><orig>ε</orig><reg>ἐ</reg></choice><choice><sic>ν τ<choice><orig>ο͂</orig><reg>ο̃ͅ</reg></choice></sic><corr>τῷ</corr></choice> <w lemma="μέσος"><choice><sic>μ<choice><orig>ε</orig><reg>έ</reg></choice>σ<choice><orig>ῶ</orig><reg>ῳ</reg></choice></sic><corr>μέσῳ</corr></choice></w> τ<supplied reason="lost">ῶν</supplied> 
                <lb n="8"/><choice><orig>ε</orig><reg>ἐ</reg></choice>ν τ<choice><orig>η</orig><reg>ῇ</reg></choice> <w lemma="κρίσις"><choice><sic>κρ<choice><orig>ι</orig><reg>ί</reg></choice>σ</sic><corr>κρίσει</corr></choice>η</w>
-                <lb n="9"/>μ<choice><orig>η</orig><reg>ὴ</reg></choice> <w lemma="κρίνω"><choice><sic>κ<hi rend="ligature">ρή</hi>ν<choice><orig>η</orig><reg>ῃ</reg></choice>ς</sic><corr>κρίνῃς</corr></choice></w><lb n="10"/><space extent="unknown" unit="character"></space><g ref="#cross">+</g></l>
+                <lb n="9"/>μ<choice><orig>η</orig><reg>ὴ</reg></choice> <w lemma="κρίνω"><choice><sic>κ<hi rend="ligature">ρή</hi>ν<choice><orig>η</orig><reg>ῃ</reg></choice>ς</sic><corr>κρίνῃς</corr></choice></w><lb n="10"/><space extent="unknown" unit="character"/><g ref="#cross">+</g></l>
                 </lg>
             </div>
             <div type="apparatus">

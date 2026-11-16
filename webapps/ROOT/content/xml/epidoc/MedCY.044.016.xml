@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -42,8 +39,8 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#AbrahamSacrifice">Abraham's sacrifice, Abraham</rs>
-                                  <rs type="iconography" ref="#Abraham"></rs>
-                                  <rs type="iconography" ref="#Oldtestament"></rs></p>
+                                  <rs type="iconography" ref="#Abraham"/>
+                                  <rs type="iconography" ref="#Oldtestament"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -62,7 +59,7 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc5">caption</term>
+                    <term type="textType" key="doc5" ref="https://ontology.inscriptiones.org/type_of_inscription/Description">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
@@ -77,7 +74,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   <lb n="1"/> <choice><orig>Ὀ</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Abraham" ><w lemma="προφήτης"><expan><abbr rend="supraline"><hi rend="ligature" xml:id="lig1">πρ</hi></abbr><ex>ο</ex><abbr rend="supraline"><hi rend="ligature" xml:id="lig2">φ</hi><join target="#lig1 #lig2"/></abbr><ex>ή</ex><abbr rend="supraline">τ</abbr><ex>η</ex><abbr rend="supraline">ς</abbr></expan><am>´</am></w> <name type="forename" nymRef="#Ἀβραάμ"><hi rend="ligature"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>β</hi>ρα<hi rend="ligature"><choice><orig>ὰ</orig><reg>ά</reg></choice>μ</hi></name></persName>
+                   <lb n="1"/> <choice><orig>Ὀ</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Abraham"><w lemma="προφήτης"><expan><abbr rend="supraline"><hi rend="ligature" xml:id="lig1">πρ</hi></abbr><ex>ο</ex><abbr rend="supraline"><hi rend="ligature" xml:id="lig2">φ</hi><join target="#lig1 #lig2"/></abbr><ex>ή</ex><abbr rend="supraline">τ</abbr><ex>η</ex><abbr rend="supraline">ς</abbr></expan><am>´</am></w> <name type="forename" nymRef="#Ἀβραάμ"><hi rend="ligature"><choice><orig>Ἁ</orig><reg>Ἀ</reg></choice>β</hi>ρα<hi rend="ligature"><choice><orig>ὰ</orig><reg>ά</reg></choice>μ</hi></name></persName>
                 </ab>
             </div>
             <div type="apparatus">

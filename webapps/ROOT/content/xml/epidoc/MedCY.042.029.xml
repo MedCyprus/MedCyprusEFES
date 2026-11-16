@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -43,11 +40,11 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#archangel">Archangel, holding a sphere</rs>
-                                  <rs type="iconography" ref="#angelicpower"></rs>
-                                <rs type="iconography" ref="#dressimperial"></rs>
-                                  <rs type="iconography" ref="#genderless"></rs>
-                                <rs type="iconography" ref="#sphere"></rs>
-                                  <rs type="iconography" ref="#crosspatriarchal"></rs></p>
+                                  <rs type="iconography" ref="#angelicpower"/>
+                                <rs type="iconography" ref="#dressimperial"/>
+                                  <rs type="iconography" ref="#genderless"/>
+                                <rs type="iconography" ref="#sphere"/>
+                                  <rs type="iconography" ref="#crosspatriarchal"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
