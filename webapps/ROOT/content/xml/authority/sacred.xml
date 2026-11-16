@@ -693,7 +693,7 @@
                 </person>
                 
                 <person xml:id="JamesLordBrother">
-                    <persName xml:lang="grc">Ἰάκωβος</persName>
+                    <persName xml:lang="grc">Ἰάκωβος ὁ Ἀδελφόθεος</persName>
                     <persName xml:lang="en">James the Lord's Brother</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="JamesLordBrother" key="Lord's Brother">Ἀδελφόθεος</persName>
                     <persName xml:lang="en" type="epithet" subtype="JamesLordBrother" key="Lord's Brother">Lord's Brother</persName>
