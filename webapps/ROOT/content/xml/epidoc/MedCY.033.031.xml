@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Gregory (recte Gregentios), archbishop of the Homerites</title>
+                <title>Saint Gregory (recte Gregentios), archbishop of the Himyarites</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#GregentiosArchbishopHomerites">Gregentios Archbishop Homerites</rs>
+                            <p><rs type="iconography" ref="#GregentiosOfTaphar">Gregentios of Taphar</rs>
                                    <rs type="iconography" ref="#prelate"/>
                                    <rs type="iconography" ref="#male"/>
                             </p>
@@ -75,7 +75,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <cb n="a"/>
-                   <lb n="1"/>Ὁ <persName type="sacred" key="GregentiosArchbishopHomerites"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
+                   <lb n="1"/>Ὁ <persName type="sacred" key="GregentiosOfTaphar"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></w>
                    <lb n="2"/><name type="forename" nymRef="#Γρηγόριος"><hi rend="ligature">Γρ</hi>η
                     <lb n="3" break="no"/>γό
                     <lb n="4" break="no"/>ρι
@@ -95,10 +95,10 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Saint Gregory, archbishop of the Homerites</p>
+                <p>Saint Gregory (recte Gregentios), archbishop of the Himyarites</p>
             </div>
             <div type="commentary">
-                <p>PENDING.The painter chooses to write Gregory instead of Gregentios in the inscription, in accordance with the three other depictions of saints named Gregory.</p>
+                <p>The substitution of Gregory for Gregentios may have been intentional, intended to integrate the saint into a group of three other saints named Gregory portrayed in the same space.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
