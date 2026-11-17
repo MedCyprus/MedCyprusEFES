@@ -38,7 +38,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Christopher">Christopher, on horseback</rs>
+                            <p><rs type="iconography" ref="#Christopher">Christopher, on horseback</rs>
                             <rs type="iconography" ref="#martyr"/>
                                   <rs type="iconography" ref="#militarysaint"/>
                                   <rs type="iconography" ref="#male"/>                                
