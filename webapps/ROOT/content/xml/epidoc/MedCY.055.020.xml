@@ -36,9 +36,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Crucifixion">Crucifixion</rs>
-                                  <rs type="iconography" ref="iconography.xml#JohnTheologian">John the Theologian</rs></p>
-                            </decoDesc>
+                            <p><rs type="iconography" ref="#Crucifixion">Crucifixion, John the Theologian</rs>
+                                  <rs type="iconography" ref="#JohnTheologian"/>
+                                  <rs type="iconography" ref="#christological"/>
+                            </p>
+                        </decoDesc>
                     </physDesc>
                     <history>
                         <origin>

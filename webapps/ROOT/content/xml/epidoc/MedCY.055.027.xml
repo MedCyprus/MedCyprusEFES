@@ -36,10 +36,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#LastJudgment">Last Judgment, the falsifier of weights</rs>
-                                <rs type="iconography" ref="iconography.xml#LastJudgmentSinnersInHell"/>
-                                <rs type="iconography" ref="iconography.xml#Falsifier"/>
-                                <rs type="iconography" ref="iconography.xml#eschatological"/>
+                            <p><rs type="iconography" ref="#LastJudgment">Last Judgment, the falsifier of weights</rs>
+                                <rs type="iconography" ref="#LastJudgmentSinnersInHell"/>
+                                <rs type="iconography" ref="#Falsifier"/>
+                                <rs type="iconography" ref="#eschatological"/>
                             </p>
                             </decoDesc>
                     </physDesc>

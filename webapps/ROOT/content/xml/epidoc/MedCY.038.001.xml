@@ -38,7 +38,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#VirginKykkotissa">Virgin Kykkotissa</rs></p>
+                            <p>... <rs type="iconography" ref="#VirginKykkotissa">Virgin Kykkotissa</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

@@ -36,8 +36,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Mardarios">Mardarios</rs></p>
-                            </decoDesc>
+                            <p><rs type="iconography" ref="#Mardarios">Mardarios</rs>
+                            <rs type="iconography" ref="#male"/>
+                            <rs type="iconography" ref="#martyr"/></p>
+                        </decoDesc>
                     </physDesc>
                     <history>
                         <origin>

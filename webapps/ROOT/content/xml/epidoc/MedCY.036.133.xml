@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#DescentIntoHell">Descent into Hell, Solomon</rs></p>
+                            <p>... <rs type="iconography" ref="#DescentIntoHell">Descent into Hell, Solomon</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

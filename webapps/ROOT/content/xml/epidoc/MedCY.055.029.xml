@@ -36,8 +36,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Nikon">Nikon</rs></p>
-                            </decoDesc>
+                            <p><rs type="iconography" ref="#Nikon">Nikon</rs>
+                                   <rs type="iconography" ref="#prelate"/>
+                                   <rs type="iconography" ref="#male"/></p>
+                        </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
