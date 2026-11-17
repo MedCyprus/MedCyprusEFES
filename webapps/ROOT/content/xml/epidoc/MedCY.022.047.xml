@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ascension, James, son of Zebedee(?)</title>
+                <title>Ascension, James the Elder(?)</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -39,9 +39,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Ascension">Ascension, possibly James son of Zebedee; less likely alternatives: James son of Alphaeus or Judas Thaddeus</rs>
-                                  <rs type="iconography" ref="#JamesZebedee"/>
-                                  <rs type="iconography" ref="#JamesAlphaeus"/>
+                            <p><rs type="iconography" ref="#Ascension">Ascension, possibly James the Elder; less likely alternatives: James the Less or Judas Thaddeus</rs>
+                                  <rs type="iconography" ref="#JamesElder"/>
+                                  <rs type="iconography" ref="#JamesLess"/>
                                   <rs type="iconography" ref="#JudasThaddeus"/>
                                   <rs type="iconography" ref="#christological"/>
                             </p>
