@@ -38,7 +38,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#GregoryNazianzenos">Gregory of Nazianzos</rs></p>
+                            <p><rs type="iconography" ref="#GregoryNazianzenos">Gregory of Nazianzos</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

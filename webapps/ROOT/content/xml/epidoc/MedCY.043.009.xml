@@ -38,7 +38,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Nicholas">Nicholas</rs></p>
+                            <p><rs type="iconography" ref="#Nicholas">Nicholas</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

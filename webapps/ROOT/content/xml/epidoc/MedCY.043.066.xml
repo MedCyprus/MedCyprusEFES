@@ -38,7 +38,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#JohnForerunner">John the Forerunner</rs></p>
+                            <p><rs type="iconography" ref="#JohnForerunner">John the Forerunner</rs>
+                                   <rs type="iconography" ref="#prophet"/>
+                                   <rs type="iconography" ref="#male"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>

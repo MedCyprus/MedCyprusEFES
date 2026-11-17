@@ -38,7 +38,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Crucifixion">Crucifixion</rs></p>
+                            <p><rs type="iconography" ref="#Crucifixion">Crucifixion</rs>
+                                  <rs type="iconography" ref="#christological"/>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>

@@ -38,7 +38,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Kosmas">Kosmas</rs></p>
+                            <p><rs type="iconography" ref="#Kosmas">Kosmas</rs>
+                                  <rs type="iconography" ref="#doctor"/>
+                                  <rs type="iconography" ref="#male"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>

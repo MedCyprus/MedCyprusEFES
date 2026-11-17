@@ -38,8 +38,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Dormition">Dormition</rs>
-                            <rs type="iconography" ref="iconography.xml#JohnTheologian">John the Theologian</rs></p>
+                            <p><rs type="iconography" ref="#Dormition">Dormition, John the Theologian</rs>
+                            <rs type="iconography" ref="#JohnTheologian"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

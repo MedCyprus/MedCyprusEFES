@@ -38,7 +38,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#LazarosRaising">Raising of Lazaros</rs></p>
+                            <p><rs type="iconography" ref="#LazarosRaising">Raising of Lazaros</rs>
+                                  <rs type="iconography" ref="#christological"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>

@@ -38,7 +38,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Auxibios"> Auxibios</rs></p>
+                            <p><rs type="iconography" ref="#Auxibios">Auxibios</rs>
+                                  <rs type="iconography" ref="#prelate"/>
+                                  <rs type="iconography" ref="#male"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
