@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Female male, unidentified (PENDING: inscription remains to be confirmed)</title>
+                <title>Female male, unidentified</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -80,7 +80,7 @@
                     <lb n="3" break="no"/><supplied reason="lost">γί</supplied>
                     <lb n="4" break="no"/><supplied reason="lost">α</supplied></w>
                     <cb n="b"/>
-                    <lb n="1"/>PENDING
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"></gap>
                  </ab>
             </div>
             <div type="apparatus">
