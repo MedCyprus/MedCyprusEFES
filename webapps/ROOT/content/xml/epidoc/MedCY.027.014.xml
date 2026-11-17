@@ -75,12 +75,18 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                    <cb n="a"/>
-                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Diomedios"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> 
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> 
+                    <lb n="2" break="no"/><persName type="sacred" key="Diomedios"><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
+                    <lb n="3" break="no"/><supplied reason="lost">γ</supplied>
+                    <lb n="4" break="no"/><supplied reason="lost">ι</supplied>
+                    <lb n="5" break="no"/><supplied reason="lost">ος</supplied></w> 
                    <cb n="b"/>      
-                    <lb n="1"/><name type="forename" nymRef="#Διομήδιος"><choice><sic>Δη
-                   <lb n="2" break="no"/>μ<choice><orig>η</orig><reg>ή</reg></choice>
-                     <lb n="3" break="no"/>δη
-                    <lb n="1" break="no"/>oς</sic><corr>Διομήδιος</corr></choice></name></persName>                   
+                    <lb n="1"/><name type="forename" nymRef="#Διομήδιος"><choice><sic>Δ
+                    <lb n="2" break="no"/>η<supplied reason="omitted">ο</supplied>
+                    <lb n="4" break="no"/>μ
+                    <lb n="5" break="no"/><choice><orig>η</orig><reg>ή</reg></choice>
+                    <lb n="6" break="no"/>δη
+                    <lb n="7" break="no"/>oς</sic><corr>Διομήδιος</corr></choice></name></persName>                   
                  </ab>
             </div>
             <div type="apparatus">
