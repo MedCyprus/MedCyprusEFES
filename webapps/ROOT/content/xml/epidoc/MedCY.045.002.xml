@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Kyriake">PENDING</rs>                
+                            <p><rs type="iconography" ref="#Kyriake">Kyriake</rs>                
                                   <rs type="iconography" ref="#martyr"/>
                                   <rs type="iconography" ref="#female"/></p>
                         </decoDesc>
@@ -75,7 +75,8 @@
               
                    <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς" type="forename"> <expan><abbr rend="supraline"><choice><orig>Ι</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan>
                     <milestone unit="column" n="right"/><addName type="epithet" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></name></persName>  
-                  <lb n="2"/>PENDING
+                  <lb n="2"/><name type="forename" nymRef="#Μαριὰμ"><expan><abbr rend="supraline">Μ</abbr><ex>αριὰμ</ex></expan></name> <w lemma="γεννάω"><expan><abbr rend="supraline">Γ</abbr><ex>εννήσασα</ex></expan></w> 
+                  <milestone unit="column" n="right"/><name type="forename" nymRef="#Χριστός"><expan><abbr rend="supraline">Χ</abbr><ex>ριστὸν</ex></expan></name> <w lemma="βασιλεύς"><supplied reason="lost"><expan><abbr rend="supraline">Β</abbr><ex>ασιλέα</ex></expan></supplied></w>
                  </ab>
             </div>
             <div type="apparatus">
