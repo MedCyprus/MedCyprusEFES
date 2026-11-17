@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography">None</rs>
+                            <p><rs type="iconography" ref="#MenasKotyryotes">Menas Kotyryotes</rs>     
                                 <rs type="iconography" ref="#MenasKotyryotes"/>            
                                   <rs type="iconography" ref="#martyr"/>
                                   <rs type="iconography" ref="#militarysaint"/>

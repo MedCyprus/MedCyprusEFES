@@ -39,8 +39,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography">None</rs>
-                            <rs type="iconography" ref="#Andronikos"/>
+                            <p><rs type="iconography" ref="#Andronikos">Andronikos</rs>
                             <rs type="iconography" ref="#monastic"/>
                                    <rs type="iconography" ref="#ascetic"/>
                                    <rs type="iconography" ref="#male"/></p>
