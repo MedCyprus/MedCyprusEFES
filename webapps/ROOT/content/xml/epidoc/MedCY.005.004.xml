@@ -74,7 +74,13 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                  <cb n="a"/>
+                    <lb n="1"/><supplied reason="lost">Ἡ</supplied>
+                    <lb n="2"/><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἁ</reg></choice>
+                    <lb n="3" break="no"/><supplied reason="lost">γί</supplied>
+                    <lb n="4" break="no"/><supplied reason="lost">α</supplied></w>
+                    <cb n="b"/>
+                    <lb n="1"/>PENDING
                  </ab>
             </div>
             <div type="apparatus">
