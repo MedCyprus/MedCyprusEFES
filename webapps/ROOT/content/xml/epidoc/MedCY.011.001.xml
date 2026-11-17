@@ -80,8 +80,9 @@
                       <cb n="a"/>
                     <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="George"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
                   <cb n="b"/>
-                    <lb n="1"/><name type="forename" nymRef="#Γεώργιος">Γε<choice><orig>ω</orig><reg>ώ</reg></choice>ργιος</name></persName>       
-                  PENDING
+                    <lb n="1"/><name type="forename" nymRef="#Γεώργιος">Γε<choice><orig>ω</orig><reg>ώ</reg></choice>ργιος</name>     
+                  <lb n="2"/><choice><orig>o</orig><reg>ὁ</reg></choice> <addName type="epithet" subtype="kosmopothetos">Κοσμοπ<choice><orig>o</orig><reg>ό</reg></choice>θη
+                   <lb n="3" break="no"/>τος</addName></persName>  
                  </ab>
             </div>
             <div type="apparatus">
