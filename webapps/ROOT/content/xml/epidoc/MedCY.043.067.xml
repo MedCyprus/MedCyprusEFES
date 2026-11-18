@@ -31,11 +31,11 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the open scroll held in the left hand by the saint</layout>
+                                <layout>On the open scroll held in the left hand by the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Majuscule letters. Characters' size varies. Beta with two squared bowls attached to its stem. In line 5, extremely big omega with crosslet; tau in superscript. Double point after μετανοεῖτε. Middle dot after γάρ. Accents and breathings with errors. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">3.5-4.5</height>
+                            <handNote>Black majuscule letters against white background. Character size varies. Beta with two squared bowls attached to its stem. In line 5, extremely big omega with crosslet; tau in superscript. Double point after μετανοεῖτε. Middle dot after γάρ. Accents and breathings with errors. Text between double, ochre-coloured ruled lines. Letter height: <height unit="cm">3.5-4.5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -68,8 +68,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-067-01.JPG"><desc>Saint John the Forerunner, scroll</desc></graphic>
-         <graphic url="043-067-02.JPG"><desc>Saint John the Forerunner's scroll, general view </desc></graphic>        
+         <graphic rend="primary" url="043-067-01.JPG"><desc></desc></graphic>        
     </facsimile>
     <text>
         <body>
@@ -97,8 +96,8 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Mouriki1984"/>,<citedRange>191</citedRange></bibl>
-                <bibl><ptr target="#PerdikisMyrianthefs2009"/>,<citedRange>46</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>, <citedRange>191</citedRange></bibl>
+                <bibl><ptr target="#PerdikisMyrianthefs2009"/>, <citedRange>46</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

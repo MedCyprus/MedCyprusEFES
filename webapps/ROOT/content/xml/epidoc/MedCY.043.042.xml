@@ -34,11 +34,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. Zeta with a serif on the top bar and a diagonal lower bar; delta is formed with a lambda on a horizontal bar, with a serif to the left; xi with superscript zeta and wavy diagonal sigma. ΤΟΥ in ligature with the tau emerging from the upsilon. Double point after Λάζαρε. Accents and breathings non systematic. Letter height: <height unit="cm">3</height>
+                            <handNote>White letters against red background. Majuscule letters. Character size varies. Zeta with a serif on the top bar and a diagonal lower bar; delta is formed with a lambda on a horizontal bar, with a serif to the left; xi with superscript zeta and wavy diagonal sigma. ΤΟΥ in ligature with the tau emerging from the upsilon. Double point after Λάζαρε. Accents and breathings non systematic. Letter height: <height unit="cm">3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#LazarosRaising">Raising of Lazaros</rs>
+                                  <rs type="iconography" ref="#Christ"/>
                                   <rs type="iconography" ref="#christological"/></p>
                         </decoDesc>
                     </physDesc>
@@ -64,8 +65,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-042-01.JPG"><desc>Raising of Lazaros, Christ addresses to Lazaros, inscription</desc></graphic>
-         <graphic url="043-042-02.JPG"><desc>Raising of Lazaros, Christ addresses to Lazaros, general view</desc></graphic>
+         <graphic rend="primary" url="043-042-01.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -86,8 +86,8 @@
             <div type="bibliography">
                  <listBibl>
 
-                <bibl><ptr target="#Mouriki1984"/>,<citedRange>185</citedRange></bibl>
-                <bibl><ptr target="#PerdikisMyrianthefs2009"/>,<citedRange>28</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>, <citedRange>185</citedRange></bibl>
+                <bibl><ptr target="#PerdikisMyrianthefs2009"/>, <citedRange>28</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
