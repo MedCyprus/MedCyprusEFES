@@ -571,13 +571,13 @@
                 <item xml:id="JohnTheologian">
                     <term xml:lang="en">John the Theologian</term>
                 </item>
-                <item xml:id="JohntheWonderworkingUnmercenary">
-                    <term xml:lang="en">John the Wonderworking Unmercenary</term>
+                <item xml:id="JohnUnmercenary">
+                    <term xml:lang="en">John the Unmercenary</term>
                 </item>
                 <!--<item xml:id="JohnEvangelist">
                     <term xml:lang="en">John the Evangelist</term>
                 </item>-->
-                <!-- Κυρία Παρανή σ'αυτή την περίπτωση τί κάνουμε; Eίναι ξεχωριστός εικονογραφικός τύπος. Θα μπει John the Theologian και μετά subtype evangelist;-->
+                <!-- Κυρία Παρανή σ'αυτή την περίπτωση τί κάνουμε; Eίναι ξεχωριστός εικονογραφικός τύπος. Θα μπει John the Theologian και μετά subtype evangelist; Όχι, δεν χρειάζεται άλλο λήμμα.-->
                 <item xml:id="Jonah">
                     <term xml:lang="en">Jonah</term>
                 </item>
