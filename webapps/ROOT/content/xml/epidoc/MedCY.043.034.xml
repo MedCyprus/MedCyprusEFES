@@ -34,13 +34,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against green background. Character size varies. Wavy, horizontal abbreviation mark above the sigla ΙC ΧC. Accents and breathings non systematic. Letter height: <height unit="cm">2-2.3</height>
+                            <handNote>White majuscule letters against green background. Character size varies. Wavy, horizontal abbreviation mark above the nomina sacra ΙC ΧC. Accents and breathings non systematic. Letter height: <height unit="cm">2-2.3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Nativity">Nativity, Bath of the Child, Christ</rs>
                             <rs type="iconography" ref="#BathChild"/>
                             <rs type="iconography" ref="#Christ"/>
+                            <!--<rs type="iconography" ref="#ChristChild"/>-->
                             <rs type="iconography" ref="#christological"/>
                             </p>
                         </decoDesc>
@@ -67,9 +68,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-034-01.JPG"><desc>Nativity, Bath of the child, Christ, inscription detail</desc></graphic>
-        <graphic url="043-034-02.JPG"><desc>Nativity, Bath of the child, Christ, inscription</desc></graphic>
-        <graphic url="043-034-03.JPG"><desc>Nativity, Bath of the child, Christ, general view</desc></graphic>
+         <graphic rend="primary" url="043-034-01.JPG"><desc></desc></graphic>
+        <graphic url="043-034-02.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
