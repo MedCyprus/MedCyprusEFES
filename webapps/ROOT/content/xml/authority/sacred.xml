@@ -808,15 +808,15 @@
                 </person>
                 
                 <person xml:id="Jonah">
-                    <persName xml:lang="grc">Ἰωνάς</persName>
+                    <persName xml:lang="grc">Ἰωνᾶς</persName>
                     <persName xml:lang="en">Jonah</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2468262</idno>                   
                 </person>
                 
-                <person xml:id="JosephMartyr">
+                <person xml:id="JosephPresbyter">
                     <persName xml:lang="grc">Ἰωσήφ</persName>
-                    <persName xml:lang="en">Joseph</persName>
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q108114654</idno>                   
+                    <persName xml:lang="en">Joseph the Presbyter</persName>
+                    <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
                 <person xml:id="JosephMnestor">
