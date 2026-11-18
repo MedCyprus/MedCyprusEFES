@@ -31,11 +31,11 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On the open scroll held in both hands by the figure.</layout>
+                                <layout>On the open scroll held in both hands by the figure</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against white background. Character size varies. Superscript nu in line 3. Mu in line 2 with its middle bar forms an upsilon with dot at the top of its vertical line. HM, ΤO  joined in ligature. Wavy, horizontal abbreviation mark above the abbreviations of ΚΕ and ΘC. The letters' size in the last line is smaller and varies than the rest of the letters of the inscription due to lack of space. Accents and breathings non systematic.  Letter height: <height unit="cm">3.5-4.5</height>
+                            <handNote>Black majuscule letters against white background. Character size varies. Superscript nu in line 3. Mu in line 2 with its middle bar forms an upsilon with dot at the top of its vertical line. HM, ΤO  joined in ligature. Wavy, horizontal abbreviation mark above the abbreviations of ΚΕ and ΘC. The letters' size in the last line is smaller and varies than the rest of the letters of the inscription due to lack of space. Accents and breathings non systematic.Text between double, ochre-coloured ruled lines. Letter height: <height unit="cm">3.5-4.5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -68,9 +68,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-010-01.JPG"><desc>Saint Nicholas' scroll, inscription</desc></graphic>
-        <graphic url="043-010-02.JPG"><desc>Saint Nicholas' scroll, inscription detail</desc></graphic>
-        <graphic url="043-010-03.JPG"><desc>Saint Nicholas' scroll, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-010-01.JPG"><desc></desc></graphic>
+        <graphic url="043-010-02.JPG"><desc></desc></graphic>
+        <graphic url="043-010-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>

@@ -38,7 +38,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#Nicholas">Nicholas</rs></p>
+                            <p><rs type="iconography" ref="#Nicholas">Nicholas</rs>
+                            <rs type="iconography" ref="#prelate"/>
+                            <rs type="iconography" ref="#male"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -63,10 +65,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-009-01.JPG"><desc>Saint Nicholas, inscription</desc></graphic>
-        <graphic url="043-009-02.JPG"><desc>Saint Nicholas, inscription detail</desc></graphic>
-        <graphic url="043-009-03.JPG"><desc>Saint Nicholas, inscription detail</desc></graphic>
-        <graphic url="043-009-04.JPG"><desc>Saint Nicholas, general view</desc></graphic>
+         <graphic rend="primary" url="043-009-01.JPG"><desc></desc></graphic>
+        <graphic url="043-009-02.JPG"><desc></desc></graphic>
+        <graphic url="043-009-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
