@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint John (the Wonderworking Unmercenary)</title>
+                <title>Saint John the Unmercenary</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -38,7 +38,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#JohntheWonderworkingUnmercenary">John (the Wonderworking Unmercenary)</rs>
+                            <p><rs type="iconography" ref="#JohnUnmercenary">John the Unmercenary, identified on the basis of iconographic context</rs>
                                   <rs type="iconography" ref="#martyr"/>
                                   <rs type="iconography" ref="#doctor"/>
                                   <rs type="iconography" ref="#male"/>                                
@@ -75,7 +75,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                   <cb n="a"/>
-                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="JohntheWonderworkingUnmercenary"><w lemma="ἅγιος"><supplied reason="lost"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></supplied></w>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="JohnUnmercenary"><w lemma="ἅγιος"><supplied reason="lost"><expan><abbr rend="supraline">ἅ</abbr><ex>γιος</ex></expan></supplied></w>
                      <cb n="b"/>
                   <lb n="1"/><name type="forename" nymRef="#Ἰωάννης"><choice><orig>Ἱ</orig><reg>Ἰ</reg></choice><choice><orig>ὠ</orig><reg>ω</reg></choice>
                   <lb n="2" break="no"/>ά
