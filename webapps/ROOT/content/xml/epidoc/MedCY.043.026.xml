@@ -31,7 +31,7 @@
                                 </support>
                             </supportDesc>
                             <layoutDesc>
-                                <layout>On either side of the figure's head</layout>
+                                <layout>On either side of the Virgin's head</layout>
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
@@ -65,9 +65,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-026-01.JPG"><desc>Virgin Eleousa, inscription </desc></graphic>
-        <graphic url="043-026-02.JPG"><desc>Virgin Eleousa, inscription detail</desc></graphic>
-        <graphic url="043-026-03.JPG"><desc>Virgin Eleousa, general view</desc></graphic>
+         <graphic rend="primary" url="043-026-01.JPG"><desc></desc></graphic>
+        <graphic url="043-026-02.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
