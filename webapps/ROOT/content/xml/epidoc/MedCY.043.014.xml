@@ -34,7 +34,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against white background. Pi with short line attached the horizontal bar. In line 3, final sigma is written outside the text frame due to lack of space. Accents and breathings systematic. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">4</height>
+                            <handNote>Black majuscule letters against white background. Pi with short line attached the horizontal bar. In line 3, final sigma is written outside the text frame due to lack of space. Accents and breathings systematic. Text between double, ochre-coloured ruled lines. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -67,8 +67,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-014-01.JPG"><desc>Saint Epiphanios' scroll, inscription</desc></graphic>
-        <graphic url="043-014-02.JPG"><desc>Saint Epiphanios' scroll, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-014-01.JPG"><desc></desc></graphic>
+        <graphic url="043-014-02.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
