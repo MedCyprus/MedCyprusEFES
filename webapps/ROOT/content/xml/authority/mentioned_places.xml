@@ -60,6 +60,12 @@
                     <idno type="pleiades">https://pleiades.stoa.org/places/678106</idno>
                 </place>
                 
+                <place xml:id="Egypt">
+                    <placeName xml:lang="grc">Αἴγυπτος</placeName>
+                    <placeName xml:lang="en">Egypt</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/981503?searchterm=Egypt</idno>
+                </place>
+                
                 <place xml:id="LandoftheHomerites">
                     <placeName xml:lang="grc">Ὁμηρίται, χώρα τῶν</placeName>
                     <placeName xml:lang="en">Himyarites, land of / Himyar</placeName>
