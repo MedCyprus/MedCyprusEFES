@@ -75,7 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                   <lb n="1"/><w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἀ</reg></choice><hi rend="ligature">ρχ</hi></abbr><ex>άγγελος</ex></expan></w> <persName type="divine" key="Lord"><w lemma="κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">υ</abbr></expan></w></persName>
+                   <lb n="1"/><persName type="sacred" key="ArchangelOfLord"><w lemma="ἀρχάγγελος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἀ</reg></choice><hi rend="ligature">ρχ</hi></abbr><ex>άγγελος</ex></expan></w> <w lemma="κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">υ</abbr></expan></w></persName>
                 </ab>
             </div>
             <div type="apparatus">
