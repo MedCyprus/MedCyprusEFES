@@ -40,7 +40,7 @@
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#Melismos">Melismos, flying angel</rs>           
-                                <rs type="iconography" ref="#angel"/>\
+                                <rs type="iconography" ref="#angel"/>
                                 <rs type="iconography" ref="#liturgical"/> 
                             </p>
                         </decoDesc>
@@ -74,14 +74,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                  <lb n="1"/><persName type="divine" key="Lord"><w lemma="κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">υ</abbr></expan></w></persName>
+                  <lb n="1"/><persName type="sacred" key="AngelOfLord"><w lemma="κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>υρίο</ex><abbr rend="supraline">υ</abbr></expan></w></persName>
                 </ab>
             </div>
             <div type="apparatus">
                 <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>[?] of the Lord</p>
+                <p>[Angel?] of the Lord</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
