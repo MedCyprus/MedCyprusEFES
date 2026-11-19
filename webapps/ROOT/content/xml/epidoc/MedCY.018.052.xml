@@ -67,8 +67,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="018-052-01.JPG"><desc>Saint Kerykos?, inscription</desc></graphic>
-        <graphic url="018-052-02.JPG"><desc>Saint Kerykos?, general view</desc></graphic>
+         <graphic rend="primary" url="018-052-01.JPG"><desc></desc></graphic>
+        <graphic url="018-052-02.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -83,9 +83,9 @@
                      <lb n="6" break="no"/>ς</w>
                     <cb n="b"/>
                     <lb n="1"/><name type="forename" nymRef="#Κήρυκος"><choice><sic><supplied reason="lost">Κ</supplied>
-                      <lb n="2" break="no"/><choice><orig>ύ</orig><reg>ή</reg></choice>
+                      <lb n="2" break="no"/><choice><orig>υ</orig><reg>ύ</reg></choice>
                         <lb n="3" break="no"/>ρ
-                        <lb n="4" break="no"/><choice><orig>ι</orig><reg>υ</reg></choice>
+                        <lb n="4" break="no"/>ι
                         <lb n="5" break="no"/>κ
                       <lb n="6" break="no"/>o
                         <lb n="7" break="no"/>ς</sic><corr>Κήρυκος</corr></choice></name></persName> 
