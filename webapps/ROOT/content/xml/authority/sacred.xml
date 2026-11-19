@@ -794,7 +794,7 @@
                 </person>
                 
                 <person xml:id="JohnTheologian">
-                    <persName xml:lang="grc">Ἰωάννης ὁ Εὐαγγελιστῆς / ὁ Θεολόγος</persName>
+                    <persName xml:lang="grc">Ἰωάννης ὁ Εὐαγγελιστής / ὁ Θεολόγος</persName>
                     <persName xml:lang="en">John the Evangelist / Theologian</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="JohnTheologian" key="Theologian">Θεολόγος</persName>
                     <persName xml:lang="en" type="epithet" subtype="JohnTheologian" key="Theologian">Theologian</persName>
@@ -901,8 +901,6 @@
                 <person xml:id="LordOfHosts">
                     <persName xml:lang="grc">Κύριος Σαβαώθ</persName>
                     <persName xml:lang="en">Lord of Hosts</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="LordOfHosts" key="Holy">ἅγιος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="LordOfHosts" key="Holy">holy</persName>
                     <idno type="wikidata">Not listed</idno>              
                     <note>See also: Christ, God, Jesus Christ, King of Glory, Trinity, Word, Master. Note: not sure about Sabaoth.Could we consider it as an epithet of God?-</note>
                 </person>
@@ -940,18 +938,24 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43954</idno>                   
                 </person>
                 
-                <person xml:id="LoukasOfSteiris">
-                    <persName xml:lang="grc">Λουκᾶς</persName>
-                    <persName xml:lang="en">Loukas</persName>        
+                <!--<person xml:id="LoukasOfSteiris">
+                    <persName xml:lang="grc">Λουκᾶς Στειριώτης</persName>
+                    <persName xml:lang="en">Loukas of Steiris</persName>        
                     <persName xml:lang="grc" type="epithet" subtype="Loukas" key="Steiris">Στειριώτης</persName>
                     <persName xml:lang="en" type="epithet" subtype="Loukas" key="Steiris">Steiriotes / of Steiris</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2497353</idno>                   
-                </person>
+                </person>-->
                 
                 <person xml:id="Luke">
-                    <persName xml:lang="grc">Λουκᾶς ὁ Εὐαγγελιστῆς</persName>
+                    <persName xml:lang="grc">Λουκᾶς ὁ Εὐαγγελιστής</persName>
                     <persName xml:lang="en">Luke the Evangelist</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q128538</idno>                   
+                </person>
+                
+                <person xml:id="Makarios">
+                    <persName xml:lang="grc">Μακάριος</persName>
+                    <persName xml:lang="en">Makarios</persName> 
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q43920</idno>                   
                 </person>
                 
                 <person xml:id="Makedonios">
@@ -980,8 +984,8 @@
                 
                 <person xml:id="Maria">
                     <persName xml:lang="grc">Μαρία</persName>
-                    <persName xml:lang="en">Maria, Virgin Mary</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Maria" key="kecharitomene">κεχαριτωμένη</persName>
+                    <persName xml:lang="en">Maria / Virgin Mary</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Maria" key="kecharitomene">Κεχαριτωμένη</persName>
                     <persName xml:lang="en" type="epithet" subtype="Maria" key="kecharitomene">Kecharitomene / Full of grace</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q345</idno>
                     <note>See also: Mother of God, Theotokos, Virgin </note>
@@ -994,10 +998,8 @@
                 </person>
                 
                 <person xml:id="Mark">
-                    <persName xml:lang="grc">Μᾶρκος</persName>
-                    <persName xml:lang="en">Mark</persName>        
-                    <persName xml:lang="grc" type="epithet" subtype="Mark" key="Evangelist">Εὐαγγελιστῆς</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Mark" key="Evangelist">Evangelist</persName>
+                    <persName xml:lang="grc">Μᾶρκος ὁ Εὐαγγελιστής</persName>
+                    <persName xml:lang="en">Mark the Evangelist</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q31966</idno>                   
                 </person>
                 
@@ -1017,10 +1019,9 @@
                 </person>
                 
                 <person xml:id="Matthew">
-                    <persName xml:lang="grc">Ματθαῖος</persName>
-                    <persName xml:lang="en">Matthew</persName>        
-                    <persName xml:lang="grc" type="epithet" subtype="Matthew" key="Evangelist">Εὐαγγελιστῆς</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Matthew" key="Evangelist">Evangelist</persName>
+                    <persName xml:lang="grc">Ματθαῖος ὁ Εὐαγγελιστής</persName>
+                    <persName xml:lang="en">Matthew the Evangelist</persName>       
+                    
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43600</idno>                   
                 </person>
                 
