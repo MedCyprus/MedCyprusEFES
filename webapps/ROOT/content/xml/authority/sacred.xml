@@ -1004,8 +1004,8 @@
                 </person>
                 
                 <person xml:id="MaryOfEgypt">
-                    <persName xml:lang="grc">Μαρία</persName>
-                    <persName xml:lang="en">Mary</persName> 
+                    <persName xml:lang="grc">Μαρία ἡ Αἰγυπτία</persName>
+                    <persName xml:lang="en">Mary of Egypt</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="MaryOfEgypt" key="Egyptian">Αἰγυπτία</persName>
                     <persName xml:lang="en" type="epithet" subtype="MaryOfEgypt" key="Egyptian">Egyptian</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q237583</idno>                   
