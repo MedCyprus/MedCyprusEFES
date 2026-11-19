@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Menas(?) Kotyryotes</title>
+                <title>Male martyr, unidentified, the Kotyryotes</title>
                  <editor xml:id="tp">Theocharis Petrou</editor> 
                   <editor xml:id="ds">Deniz Sever Georgousakis</editor>  
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -39,10 +39,8 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#MenasKotyryotes">Menas Kotyryotes</rs>               
+                            <p><rs type="iconography" ref="#unidentified_figure">Unidentified male martyr</rs>               
                                   <rs type="iconography" ref="#martyr"/>
-                                  <rs type="iconography" ref="#militarysaint"/>
-                                <rs type="iconography" ref="#dresscivilian"/>
                                   <rs type="iconography" ref="#male"/>                                                               
                             </p>
                         </decoDesc>
@@ -79,8 +77,8 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
                      <cb n="a"/>
-                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Menas"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>    
-                   <lb n="2"/><name type="forename" nymRef="#Μηνᾶς"><gap reason="lost" extent="unknown" unit="character"/></name>
+                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="UnidentifiedMartyr"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>    
+                   <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>
                       <cb n="b"/>
                      <lb n="1"/>ὁ
                     <lb n="2"/><addName type="epithet" key="Kotyryotes"><choice><sic>Κ
@@ -99,10 +97,10 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>[Saint] [Menas(?)] Kotyryotes</p>
+                <p>[Saint ..?..] the Kotyryotes</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>The ending -υώτης suggests that ὁ Κοτυρυώτης is probably a toponymic epithet. The suggestion by <ptr target="#Perdiki2013-14"/> that it represents a variant of ὁ ἐν τῷ Κοτυαείῳ (referring to Cotyaeum, modern Kütahya), thus identifying the martyr as St Menas, is unlikely on both linguistic and iconographic grounds. The epithet may instead refer to an as yet unidentified locality, possibly in Cyprus itself.</p>
             </div>
             <div type="bibliography">
                  <listBibl>
