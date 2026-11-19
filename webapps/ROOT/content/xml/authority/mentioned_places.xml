@@ -138,6 +138,12 @@
                     <placeName xml:lang="en">Syria</placeName>
                     <idno type="pleiades">https://pleiades.stoa.org/places/981550</idno>
                 </place>
+                
+                <place xml:id="Thebes">
+                    <placeName xml:lang="grc">Θῆβαι</placeName>
+                    <placeName xml:lang="en">Thebes, Egypt</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/786017</idno>
+                </place>
                
             </listPlace>
         </body>
