@@ -1011,17 +1011,16 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q237583</idno>                   
                 </person>
                 
-                <person xml:id="Master">
+                <!--<person xml:id="Master">
                     <persName xml:lang="grc">Δεσπότης</persName>
                     <persName xml:lang="en">Master</persName>
                     <idno type="wikidata">Not listed</idno>                   
                     <note>See also: Christ, Jesus Christ, King of Glory, Lord, Trinity, Word</note>
-                </person>
+                </person>-->
                 
                 <person xml:id="Matthew">
                     <persName xml:lang="grc">Ματθαῖος ὁ Εὐαγγελιστής</persName>
-                    <persName xml:lang="en">Matthew the Evangelist</persName>       
-                    
+                    <persName xml:lang="en">Matthew the Evangelist</persName> 
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q43600</idno>                   
                 </person>
                 
@@ -1034,22 +1033,20 @@
                 <person xml:id="MeletiosAntioch">
                     <persName xml:lang="grc">Μελέτιος Ἀντιοχείας</persName>
                     <persName xml:lang="en">Meletios of Antioch</persName> 
-                    <!--<persName xml:lang="grc" type="epithet" subtype="MeletiosAntioch" key="of Antioch">ὁ Ἀντιοχείας</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="MeletiosAntioch" key="of Antioch">of Antioch</persName>-->
+                    <persName xml:lang="grc" type="epithet" subtype="MeletiosAntioch" key="of Antioch">Ἀντιοχείας</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="MeletiosAntioch" key="of Antioch">Antioch, of</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q433452</idno>                   
                 </person>
                 
                 <person xml:id="Menas">
                     <persName xml:lang="grc">Μηνᾶς</persName>
-                    <persName xml:lang="en">Menas</persName>    
-                    <persName xml:lang="grc" type="epithet" subtype="Menas" key="Kotyryotes">ὁ ἐν τῷ Κοτυαείῳ</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Menas" key="Kotyryotes">Kotyryotes</persName>
+                    <persName xml:lang="en">Menas</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q163432</idno>                   
                 </person>
                 
                 <person xml:id="MenasKallikelados">
-                    <persName xml:lang="grc">Μηνᾶς</persName>
-                    <persName xml:lang="en">Menas</persName>  
+                    <persName xml:lang="grc">Μηνᾶς ὁ Καλλικέλαδος</persName>
+                    <persName xml:lang="en">Menas the Kallikelados</persName>  
                     <persName xml:lang="grc" type="epithet" subtype="MenasKallikelados" key="Kallikelados">Καλλικέλαδος</persName>
                     <persName xml:lang="en" type="epithet" subtype="MenasKallikelados" key="Kallikelados">Kallikelados / Eloquent</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q12872168</idno>                   
@@ -1518,6 +1515,14 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q109859523</idno>                   
                 </person>
                 
+                <person xml:id="UnidentifiedMartyr">
+                    <persName xml:lang="grc">n/a</persName>
+                    <persName xml:lang="en">Unidentified male martyr</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="UnidentifiedMartyr" key="Kotyryotes">Κοτυρυώτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="UnidentifiedMartyr" key="Kotyryotes">Kotyryotes</persName>
+                    <idno type="wikidata">Not listed</idno>                   
+                </person>
+                
                 <person xml:id="Victor">
                     <persName xml:lang="grc">Βίκτωρ</persName>
                     <persName xml:lang="en">Victor</persName>                   
@@ -1533,28 +1538,8 @@
                 <person xml:id="Zenon">
                     <persName xml:lang="grc">Ζήνων</persName>
                     <persName xml:lang="en">Zenon</persName>   
-                    <idno type="wikidata">n/a</idno>                   
-                </person>
-                
-                <!--<person xml:id="Prelate_044.032">                    
-                    <persName xml:lang="en">Prelate, unidentified (MedCY.044.032)</persName>                                      
-                </person>-->
-                
-                <!--<person xml:id="Prelate_44.033">                   
-                    <persName xml:lang="en">Prelate, unidentified (MedCY.044.033)</persName>                                  
-                </person>
-                
-                <person xml:id="MaleSaintUnidentified_MedCY044.037">
-                    <persName xml:lang="grc"></persName>
-                    <persName xml:lang="en">Male saint, unidentified</persName>
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
-                
-                <person xml:id="MaleSaintUnidentified_MedCY055.024">
-                    <persName xml:lang="grc"></persName>
-                    <persName xml:lang="en">Male saint, unidentified</persName>
-                    <idno type="wikidata">Not listed</idno>                   
-                </person>-->
                 
                 <person xml:id="Virgin">
                     <persName xml:lang="grc">Παρθένος</persName>
@@ -1595,13 +1580,13 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2993862</idno>                   
                 </person>
                 
-                <person xml:id="Holy318FathersofNicaea">
+                <!--<person xml:id="Holy318FathersofNicaea">
                     <persName xml:lang="grc">318 Πατέρες της Νίκαιας</persName>
                     <persName xml:lang="en">318 God-bearing Fathers of the First Ecumenical Council in Nicaea</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="Holy318FathersofNicaea" key="God-bearing">Θεοφόροι</persName>
                     <persName xml:lang="en" type="epithet" subtype="Holy318FathersofNicaea" key="God-bearing">God-bearing</persName>
                     <idno type="wikidata">Not listed</idno>                   
-                </person>
+                </person>-->
                 
             </listPerson>
         </body>
