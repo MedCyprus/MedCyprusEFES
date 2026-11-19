@@ -76,7 +76,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><lb n="1"/><addName type="epithet" key="Holy"><choice><orig>A</orig><reg>Ἅ</reg></choice><supplied reason="lost">γιος,</supplied></addName> <supplied reason="lost"><w lemma="ἅγιος">Ἅγιος</w>, <w lemma="ἅγιος">Ἅγιος</w>, <persName type="sacred" key="LordOfHosts">Κύριος<w lemma="κύριος"/> <w lemma="Σαβαώθ">Σαβαώθ</w></persName></supplied>
+                  <lb n="1"/><lb n="1"/><choice><orig>A</orig><reg>Ἅ</reg></choice><supplied reason="lost">γιος,</supplied> <supplied reason="lost"><w lemma="ἅγιος">Ἅγιος</w>, <w lemma="ἅγιος">Ἅγιος</w>, <persName type="sacred" key="LordOfHosts">Κύριος<w lemma="κύριος"/> <w lemma="Σαβαώθ">Σαβαώθ</w></persName></supplied>
               </ab>
             </div>
             <div type="apparatus">
