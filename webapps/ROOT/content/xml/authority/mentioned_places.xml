@@ -37,7 +37,7 @@
                 </place>
                 
                 <place xml:id="Antioch">
-                    <placeName xml:lang="grc">Ἀντιοχεία</placeName>
+                    <placeName xml:lang="grc">Ἀντιόχεια</placeName>
                     <placeName xml:lang="en">Antioch</placeName>
                     <idno type="pleiades">https://pleiades.stoa.org/places/658381</idno>
                 </place>
@@ -72,11 +72,11 @@
                     <idno type="pleiades">https://pleiades.stoa.org/places/39350</idno>
                 </place>
                                
-                <place xml:id="Kotyaion">
+                <!--<place xml:id="Kotyaion">
                     <placeName xml:lang="grc">Κοτυάειον</placeName>
                     <placeName xml:lang="en">Kotyaion</placeName>
-                    <idno type="cyprusgazetteer">https://pleiades.stoa.org/places/609444/</idno>
-                </place>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/609444/</idno>
+                </place>-->
                 
                 <place xml:id="MonasteryOfPhorbiotissa">
                     <placeName xml:lang="grc">Μονὴ τῶν Φορβίων</placeName>
