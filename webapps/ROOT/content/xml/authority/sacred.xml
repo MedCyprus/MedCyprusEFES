@@ -1107,10 +1107,10 @@
                 <person xml:id="Nicholas">
                     <persName xml:lang="grc">Νικόλαος</persName>
                     <persName xml:lang="en">Nicholas</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Nicholas">τῆς Στέγης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Nicholas">Roof, of the </persName>
-                    <!--<persName xml:lang="grc" type="epithet" subtype="Nicholas">Μύρων</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Nicholas">of Myra</persName>-->
+                    <!--<persName xml:lang="grc" type="epithet" subtype="Nicholas">τῆς Στέγης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Nicholas">Roof, of the </persName>-->
+                    <persName xml:lang="grc" type="epithet" subtype="Nicholas" key="Myra">ὁ ἐν τοῖς Μύροις</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Nicholas" key="Myra">Myra, of </persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44269</idno>                   
                 </person>
                 
@@ -1144,11 +1144,28 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q7101660</idno>                   
                 </person>
                 
+                <person xml:id="Pachomios">
+                    <persName xml:lang="grc">Παχώμιος</persName>
+                    <persName xml:lang="en">Pachomios</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q298698</idno> 
+                </person>
+                
+                <person xml:id="Paisios">
+                    <persName xml:lang="grc">Παΐσιος</persName>
+                    <persName xml:lang="en">Paisios</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q2696973</idno> 
+                </person>
+                
                 <person xml:id="Panagia">
                     <persName xml:lang="grc">Παναγία</persName>
-                    <persName xml:lang="en">Panagia</persName>
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1485229</idno> 
-                    <note>See also: Maria, Mother of God, Theotokos, Virgin </note>
+                    <persName xml:lang="en">Panagia / All-Holy</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q1485229</idno>                   
+                </person>
+                
+                <person xml:id="Panegyrios">
+                    <persName xml:lang="grc">Πανηγύριος</persName>
+                    <persName xml:lang="en">Panegyrios</persName>
+                    <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
                 <person xml:id="Panteleimon">
