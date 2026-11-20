@@ -79,11 +79,7 @@
                     <lb n="2"/><persName type="sacred" key="Kyriake"><w lemma="ἅγιος"><choice><orig>α</orig><reg>ἁ</reg></choice>
                      <lb n="3" break="no"/>γ<choice><orig>ı</orig><reg>ί</reg></choice>
                      <lb n="4" break="no"/>α</w>
-                   <cb n="a"/>
-                        <lb n="1"/><name type="forename" nymRef="#Κυριακή">Κυρι
-                          <lb n="2" break="no"/>
-                        <cb n="b"/>
-                        <lb n="1"/><hi rend="ligature">ακ</hi><choice><orig>η</orig><reg>ή</reg></choice></name></persName>  
+                        <lb n="5"/><name type="forename" nymRef="#Κυριακή">Κυρι<milestone unit="figure"/><hi rend="ligature">ακ</hi><choice><orig>η</orig><reg>ή</reg></choice></name></persName>  
                   
                  </ab>
             </div>
