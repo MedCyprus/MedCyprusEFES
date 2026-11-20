@@ -4,6 +4,7 @@
             <titleStmt>
                 <title>Dormition, Christ</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -34,11 +35,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against ochre background. Character size varies.
+                            <handNote>White majuscule letters against ochre background. Character size varies. Wavy, horizontal abbreviation mark above ΙC ΧC. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Dormition">Dormition, Christ</rs>
+                                  <rs type="iconography" ref="#Christ">Christ</rs>
+                                  <rs type="iconography" ref="#mariological"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -69,7 +72,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING                    
+              <ab>
+                     <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς" type="forename"> <expan><abbr rend="supraline"><choice><orig>I</orig><reg>Ἰ</reg></choice></abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan> <milestone unit="column"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan></addName></name></persName>
                  </ab>
             </div>
             <div type="apparatus">
