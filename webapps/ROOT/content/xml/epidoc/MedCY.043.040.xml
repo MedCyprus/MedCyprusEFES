@@ -38,7 +38,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Kosmas">Kosmas</rs></p>
+                            <p><rs type="iconography" ref="#Kosmas">Kosmas</rs>
+                                  <rs type="iconography" ref="#doctor"/>
+                                  <rs type="iconography" ref="#male"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -63,8 +65,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-040-01.JPG"><desc>Saint Kosmas, inscription</desc></graphic>
-         <graphic url="043-040-02.JPG"><desc>Saint Kosmas, general view</desc></graphic>
+         <graphic rend="primary" url="043-040-01.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -94,7 +95,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Mouriki1984"/>,<citedRange>196</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>, <citedRange>196</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

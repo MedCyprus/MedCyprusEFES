@@ -35,12 +35,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against red background. Mu with the central strokes reminiscent of an upsilon on a crossed stem. Eta with its crossbar crossed. Upsilon on a stem surmounted by a dot. MHP joined in ligature. Wavy, horizontal abbreviation mark above the sigla ΜΗΡ ΘΥ. Accents and breathings systematic.
+                            <handNote>White majuscule letters against red background. Mu with the central strokes reminiscent of an upsilon on a crossed stem. Eta with its crossbar crossed. Upsilon on a stem surmounted by a dot. MHP joined in ligature. Wavy, horizontal abbreviation mark above ΜΗΡ ΘΥ. Accents and breathings systematic.
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#VirginBlachernitissa">Virgin Blachernitissa</rs>
-                                   <rs type="iconography" ref="#female"/></p>
+                                   <rs type="iconography" ref="#female"/>
+                                   <rs type="iconography" ref="#ChristChild"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>

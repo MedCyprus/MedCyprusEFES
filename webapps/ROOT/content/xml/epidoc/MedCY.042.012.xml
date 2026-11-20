@@ -39,10 +39,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Pentecost">Pentecost, James</rs>
-                                   <rs type="iconography" ref="#James"/>
-                                   <rs type="iconography" ref="#apostle"/>
-                                  <rs type="iconography" ref="#male"/>
+                            <p><rs type="iconography" ref="#Pentecost">Pentecost, James, either the Less or the Elder</rs>
+                                  <rs type="iconography" ref="#JamesLess"/>
+                                <rs type="iconography" ref="#JamesElder"/>
                                    <rs type="iconography" ref="#christological"/></p>
                         </decoDesc>
                     </physDesc>

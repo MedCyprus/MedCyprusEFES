@@ -34,11 +34,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. Wavy, horizontal abbreviation mark above the sigla ΙC ΧC. Accents and breathings non systematic. Letter height: <height unit="cm">3.5</height>
+                            <handNote>White majuscule letters against blue background. Wavy, horizontal abbreviation mark above the nomina sacra ΙC ΧC. Accents and breathings non systematic. Letter height: <height unit="cm">3.5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#ChristChild">Christ child</rs>
+                                   <rs type="iconography" ref="#male"></rs>
+                                   <rs type="iconography" ref="#divine"></rs>        
                                    <rs type="iconography" ref="#VirginHodegetria"/></p>
                         </decoDesc>
                     </physDesc>
@@ -64,9 +66,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-029-01.JPG"><desc>Christ, inscription detail</desc></graphic>
-        <graphic url="043-029-02.JPG"><desc>Christ, inscription</desc></graphic>
-        <graphic url="043-029-03.JPG"><desc>Christ, general view</desc></graphic>
+         <graphic rend="primary" url="043-029-01.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>

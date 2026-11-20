@@ -39,7 +39,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Barbara">Barbara</rs></p>
+                            <p><rs type="iconography" ref="#Barbara">Barbara</rs>                               
+                                   <rs type="iconography" ref="#female"/>
+                                   <rs type="iconography" ref="#martyr"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>

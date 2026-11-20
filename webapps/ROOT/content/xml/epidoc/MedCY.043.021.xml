@@ -38,7 +38,7 @@
                             </handNote>
                          </handDesc>
                         <decoDesc>
-                              <p><rs type="iconography" ref="#IoannesGerakiotes">Ioannes and Eirene Gerakiotes</rs>                            
+                              <p><rs type="iconography" ref="#IoannesGerakiotes">Ioannes and Eirene Gerakiotes</rs>  
                              <rs type="iconography" ref="#EireneGerakiotes"/>
                              <rs type="iconography" ref="#Supplicant-Donor"/>
                              <rs type="iconography" ref="#male"/>
@@ -64,13 +64,12 @@
                     <term type="textType" key="doc11" ref="https://ontology.inscriptiones.org/type_of_inscription/Invocation">invocation</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
+            <creation>transcription (Th. Petrou), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-021-01.JPG"><desc>Invocation of Ioannes Moutoullas and Eirene, inscription</desc></graphic>
-        <graphic url="043-021-02.JPG"><desc>Invocation of Ioannes Moutoullas and Eirene, inscription</desc></graphic>
-        <graphic url="043-021-03.JPG"><desc>Invocation of Ioannes Moutoullas and Eirene, general view</desc></graphic>
+         <graphic rend="primary" url="043-021-01.JPG"><desc></desc></graphic>
+        <graphic url="043-021-02.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -99,13 +98,13 @@
             <div type="bibliography">
                  <listBibl>
                  <bibl><ptr target="#Soteriou1935"/>,<citedRange>pl. 90 (transcription in normalized Greek, without critical signs)</citedRange></bibl>
-                <bibl><ptr target="#Stylianou1960"/>,<citedRange>103</citedRange></bibl>
-                <bibl><ptr target="#Papageorgiou1965a"/>,<citedRange>28</citedRange></bibl>
-                <bibl><ptr target="#Papageorgiou1975"/>,<citedRange>50-51</citedRange></bibl>
-                <bibl><ptr target="#Mouriki1984"/>,<citedRange>172-73</citedRange></bibl>
-                <bibl><ptr target="#Papageorgiou2003"/>,<citedRange>113</citedRange></bibl>
-                <bibl><ptr target="#PerdikisMyrianthefs2009"/>,<citedRange>49-51</citedRange></bibl>
-                <bibl><author>Carr</author> in <ptr target="#VisCult"/><citedRange>2, 1485-86</citedRange></bibl>
+                <bibl><ptr target="#Stylianou1960"/>, <citedRange>103</citedRange></bibl>
+                <bibl><ptr target="#Papageorgiou1965a"/>, <citedRange>28</citedRange></bibl>
+                <bibl><ptr target="#Papageorgiou1975"/>, <citedRange>50-51</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>, <citedRange>172-73</citedRange></bibl>
+                <bibl><ptr target="#Papageorgiou2003"/>, <citedRange>113</citedRange></bibl>
+                <bibl><ptr target="#PerdikisMyrianthefs2009"/>, <citedRange>49-51</citedRange></bibl>
+                <bibl><author>Carr</author> in <ptr target="#VisCult"/> <citedRange>2, 1485-86</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

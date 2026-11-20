@@ -34,11 +34,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. Beta is formed by two squares attached on its vertical bar. ΑΡ in ligature. Accents and breathings systematic. Letter height: <height unit="cm">3-4</height>
+                            <handNote>White majuscule letters against red background. Character size varies. Beta is formed by two squares attached on its vertical bar. ΑΡ in ligature. Accents and breathings systematic. Letter height: <height unit="cm">3-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Barbara">Barbara</rs></p>
+                            <p><rs type="iconography" ref="#Barbara">Barbara</rs>                               
+                                   <rs type="iconography" ref="#female"/>
+                                   <rs type="iconography" ref="#martyr"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -63,8 +65,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-052-01.JPG"><desc>Saint Barbara, inscription</desc></graphic>
-         <graphic url="043-052-02.JPG"><desc>Saint Barbara, general view</desc></graphic>
+         <graphic rend="primary" url="043-052-01.JPG"><desc></desc></graphic>
              </facsimile>
     <text>
         <body>
@@ -93,7 +94,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Mouriki1984"/>,<citedRange>197</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>, <citedRange>197</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

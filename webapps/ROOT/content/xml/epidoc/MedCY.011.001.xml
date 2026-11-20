@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. Character size varies. Accents and breathings non systematic. 
+                            <handNote>White majuscule letters against blue background. Character size varies. Mu with the central strokes reminiscent of a tau. Accents and breathings non systematic. 
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -78,17 +78,21 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                       <cb n="a"/>
-                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="George"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> 
+                    <lb n="2"/><persName type="sacred" key="George"><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
+                   <lb n="3" break="no"/>γι
+                   <lb n="4" break="no"/>ο<supplied reason="lost">ς</supplied></w>
                   <cb n="b"/>
-                    <lb n="1"/><name type="forename" nymRef="#Γεώργιος">Γε<choice><orig>ω</orig><reg>ώ</reg></choice>ργιος</name></persName>       
-                  PENDING
+                    <lb n="1"/><name type="forename" nymRef="#Γεώργιος">Γεώργιος</name>     
+                  <lb n="2"/><choice><orig>o</orig><reg>ὁ</reg></choice> <addName type="epithet" subtype="kosmopothetos">Κοσμοπ<choice><orig>o</orig><reg>ό</reg></choice>θη
+                   <lb n="3" break="no"/><space quantity="12" unit="character"/>τος</addName></persName>  
                  </ab>
             </div>
             <div type="apparatus">
                <p>n/a</p>
             </div>
             <div type="translation">
-                <p>PENDING. Saint George</p>
+                <p>Saint George, beloved by the world</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>

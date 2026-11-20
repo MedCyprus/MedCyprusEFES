@@ -67,9 +67,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-038-01.JPG"><desc>Saint Paul, inscription</desc></graphic>
-         <graphic url="043-038-02.JPG"><desc>Saint Paul, inscription</desc></graphic>
-         <graphic url="043-038-03.JPG"><desc>Saint Paul, general view</desc></graphic>
+         <graphic rend="primary" url="043-038-01.JPG"><desc></desc></graphic>
+         <graphic url="043-038-02.JPG"><desc></desc></graphic>
 
     </facsimile>
     <text>
@@ -97,7 +96,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Mouriki1984"/>,<citedRange>195</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>, <citedRange>195</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

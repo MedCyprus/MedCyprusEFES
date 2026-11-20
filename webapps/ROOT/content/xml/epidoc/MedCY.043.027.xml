@@ -35,11 +35,11 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against white background. Character size varies. Delta is formed with a lambda on a horizontal bar, which at its ends has a vertical point. Mu with its middle bar forms an upsilon with a dot on its antennas and at the top of its vertical bar. Pi with short line attached the horizontal bar; ΤΗ, ΜΡ, ΟΥ, ΜΗΡ in ligatures. The words δέησιν, μητρός, μῆτερ are rendered by an abbreviation with a wavy line above each word. In line 17, the abbreviation of the word εὐχαριστῶ is rendered by two irregular lines. Double point after λόγε, αἰτεῖς, σωτηρίαν, ἐπιστρέφουσι. Middle dot after λόγε. Accents and breathings non systematic. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">2.5-4</height>
+                            <handNote>Black majuscule letters against white background. Character size varies. Delta is formed with a lambda on a horizontal bar, which at its ends has a vertical point. Mu with its middle bar forms an upsilon with a dot on its antennas and at the top of its vertical bar. Pi with short line attached the horizontal bar; ΤΗ, ΜΡ, ΟΥ, ΜΗΡ  joined in ligature. The words δέησιν, μητρός, μῆτερ are rendered by an abbreviation with a wavy line above each word. In line 17, the abbreviation of the word εὐχαριστῶ is rendered by two irregular lines. Double point after λόγε, αἰτεῖς, σωτηρίαν, ἐπιστρέφουσι. Middle dot after λόγε. Accents and breathings non systematic. Text between double, ochre-coloured ruled lines. Letter height: <height unit="cm">2.5-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#VirginEleousa">Virgin Eleousa</rs>
+                            <p><rs type="iconography" ref="#VirginEleousa">Virgin Eleousa</rs>
                             <rs type="iconography" ref="#Virgin"/>
                             <rs type="iconography" ref="#female"/>
                             <rs type="iconography" ref="#scroll"/>
@@ -65,7 +65,7 @@
                     <term type="textType" key="doc12" ref="https://www.eagle-network.eu/voc/typeins/lod/368.html">metrical</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou, G. Apeitos), publications</creation>
+            <creation>transcription (Th. Petrou), publications</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
@@ -115,10 +115,10 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Mouriki1984"/>,<citedRange>190</citedRange></bibl>
-                <bibl><ptr target="#Rhoby2009"/>,<citedRange>334, 341</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>, <citedRange>190</citedRange></bibl>
+                <bibl><ptr target="#Rhoby2009"/>, <citedRange>334, 341</citedRange></bibl>
                 <bibl><ptr target="#PerdikisMyrianthefs2009"/>, <citedRange>20</citedRange></bibl>
-                <bibl><author>Carr </author>in <ptr target="#VisCult"/><citedRange>2, 1480-87</citedRange></bibl>
+                <bibl><author>Carr </author>in <ptr target="#VisCult"/> <citedRange>2, 1480-87</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

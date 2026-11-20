@@ -4,6 +4,7 @@
             <titleStmt>
                 <title>Dormition</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
+                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -38,7 +39,8 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Dormition">Dormition</rs>
+                            <rs type="iconography" ref="#mariological"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -69,7 +71,8 @@
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
-              <ab>PENDING                    
+              <ab>
+                  <lb n="1"/><choice><orig>H</orig><reg>Ἡ</reg></choice> <w lemma="κοίμησις"><choice><sic>κ<choice><orig>υ</orig><reg>ύ</reg></choice>μεισης</sic><corr>κοίμησις</corr></choice></w> τ<choice><orig>η</orig><reg>ῆ</reg></choice>ς <persName type="sacred" key="Theotokos">Θεοτ<choice><orig>o</orig><reg>ό</reg></choice>κου</persName>
                  </ab>
             </div>
             <div type="apparatus">

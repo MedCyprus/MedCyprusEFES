@@ -34,7 +34,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. Diagonal final sigma. ΤΡ in ligature. Accents and breathings systematic. Letter height: <height unit="cm">3-5</height>
+                            <handNote>White majuscule letters against red background. Character size varies. Diagonal final sigma. ΤΡ in ligature. Accents and breathings systematic. Letter height: <height unit="cm">3-5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -66,10 +66,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-063-01.JPG"><desc>Saint Peter, inscription</desc></graphic>
-         <graphic url="043-063-02.JPG"><desc>Saint Peter, inscription detail </desc></graphic>
-         <graphic url="043-063-03.JPG"><desc>Saint Peter, inscription detail</desc></graphic>
-         <graphic url="043-063-04.JPG"><desc>Saint Peter, general view </desc></graphic>
+         <graphic rend="primary" url="043-063-01.JPG"><desc></desc></graphic>
+         <graphic url="043-063-02.JPG"><desc></desc></graphic>
+         <graphic url="043-063-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -96,7 +95,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Mouriki1984"/>,<citedRange>195</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>, <citedRange>195</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

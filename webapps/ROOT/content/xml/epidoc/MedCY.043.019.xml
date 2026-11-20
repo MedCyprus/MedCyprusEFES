@@ -66,8 +66,7 @@ Double point after Κ(υρίο)υ. Accents and breathings non systematic. Letter
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-019-01.JPG"><desc>Annunciation, the Virgin's response to Gabriel, inscription</desc></graphic>
-        <graphic url="043-019-02.JPG"><desc>Annunciation, the Virgin's response to Gabriel, general view</desc></graphic>
+         <graphic rend="primary" url="043-019-01.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -92,8 +91,8 @@ Double point after Κ(υρίο)υ. Accents and breathings non systematic. Letter
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Mouriki1984"/>,<citedRange>180</citedRange></bibl>
-                <bibl><ptr target="#PerdikisMyrianthefs2009"/>,<citedRange>18</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>, <citedRange>180</citedRange></bibl>
+                <bibl><ptr target="#PerdikisMyrianthefs2009"/>, <citedRange>18</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against white background. Character size varies. Superscript nu in line 3. Mu with its middle bar forms an upsilon with dots on its antennas and at the top of its vertical line. Middle dot after δέσποτα. HM, ΤΗ joined in ligature. Wavy, horizontal abbreviation mark above ΘC. The letters' size in the last line is smaller than the rest of the letters of the inscription due to lack of space. Accents and breathings non systematic. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">3-4.5</height>
+                            <handNote>Black majuscule letters against white background. Character size varies. Superscript nu in line 3. Mu with its middle bar forms an upsilon with dots on its antennas and at the top of its vertical line. Middle dot after δέσποτα. HM, ΤΗ joined in ligature. Wavy, horizontal abbreviation mark above ΘC. The letters' size in the last line is smaller than the rest of the letters of the inscription due to lack of space. Accents and breathings non systematic.Text between double, ochre-coloured ruled lines. Letter height: <height unit="cm">3-4.5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -68,17 +68,16 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-008-01.JPG"><desc>Saint Gregory's scroll, inscription</desc></graphic>
-        <graphic url="043-008-02.JPG"><desc>Saint Gregory's scroll, inscription</desc></graphic>
-        <graphic url="043-008-03.JPG"><desc>Saint Gregory's scroll, inscription detail</desc></graphic>
-        <graphic url="043-008-04.JPG"><desc>Saint Gregory's scroll, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-008-01.JPG"><desc></desc></graphic>
+        <graphic url="043-008-02.JPG"><desc></desc></graphic>
+        <graphic url="043-008-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="divine" key="Master"><w lemma="δεσπότης">Δ<choice><orig>ὲ</orig><reg>έ</reg></choice>σπο
-                    <lb n="2" break="no"/>τα<choice><orig><choice><reg>,</reg><orig>·</orig></choice></orig><reg>,</reg></choice></w></persName> <persName type="divine" key="Lord"><w lemma="κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύρι</ex><abbr rend="supraline">ε</abbr></expan></w></persName> ὁ 
+                    <lb n="1"/><w lemma="δεσπότης">Δ<choice><orig>ὲ</orig><reg>έ</reg></choice>σπο
+                    <lb n="2" break="no"/>τα<choice><orig><choice><reg>,</reg><orig>·</orig></choice></orig><reg>,</reg></choice></w> <w lemma="κύριος"><expan><abbr rend="supraline">Κ</abbr><ex>ύρι</ex><abbr rend="supraline">ε</abbr></expan></w> ὁ 
                     <lb n="3"/><persName type="divine" key="God"><w lemma="θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εὸ</ex><abbr rend="supraline">ς</abbr></expan></w></persName> <w lemma="ἐγώ"><hi rend="ligature">ἡμ</hi><choice><orig>ὼ</orig><reg>ῶ</reg></choice>ν</w>
                     <lb n="4"/> ὁ <w lemma="καθίστημι">κατα
                     <lb n="5" break="no"/>σ<hi rend="ligature">τή</hi>σας </w>
@@ -100,8 +99,8 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Mouriki1984"/>,<citedRange>178</citedRange></bibl>
-                <bibl><ptr target="#PerdikisMyrianthefs2009"/>,<citedRange>14</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>, <citedRange>178</citedRange></bibl>
+                <bibl><ptr target="#PerdikisMyrianthefs2009"/>, <citedRange>14</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

@@ -66,9 +66,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-017-01.JPG"><desc>Annunciation, Virgin, inscription</desc></graphic>
-        <graphic url="043-017-02.JPG"><desc>Annunciation, Virgin, inscription detail</desc></graphic>
-        <graphic url="043-017-03.JPG"><desc>Annunciation, Virgin, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-017-01.JPG"><desc></desc></graphic>
+        <graphic url="043-017-02.JPG"><desc></desc></graphic>
+        <graphic url="043-017-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -89,7 +89,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Mouriki1984"/>,<citedRange>179-80</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>, <citedRange>179-80</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

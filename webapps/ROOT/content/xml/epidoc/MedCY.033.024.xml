@@ -40,8 +40,10 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#Eusignios">Eusignios</rs>
-                            <rs type="iconography" ref="#martyr"/>
-                            <rs type="iconography" ref="#male"/>
+                              <rs type="iconography" ref="#martyr"/>
+                                <rs type="iconography" ref="#militarysaint"/>
+                                   <rs type="iconography" ref="#male"/>
+                                <rs type="iconography" ref="#dresscivilian"/>
                             </p>
                         </decoDesc>
                     </physDesc>

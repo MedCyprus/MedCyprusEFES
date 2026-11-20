@@ -41,8 +41,6 @@
                          <decoDesc>
                             <p><rs type="iconography" ref="#Pentecost">Pentecost, Luke</rs>
                                    <rs type="iconography" ref="#Luke"/>
-                                   <rs type="iconography" ref="#apostle"/>
-                                  <rs type="iconography" ref="#male"/>
                                    <rs type="iconography" ref="#christological"/></p>
                         </decoDesc>
                     </physDesc>
@@ -74,7 +72,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><persName type="sacred" key="Matthew"><name type="forename" nymRef="#Λουκᾶς"><expan><abbr rend="supraline">Λ</abbr><ex>ουκᾶς</ex></expan></name></persName>                            
+                    <lb n="1"/><persName type="sacred" key="Luke"><name type="forename" nymRef="#Λουκᾶς"><expan><abbr rend="supraline">Λ</abbr><ex>ουκᾶς</ex></expan></name></persName>                            
                  </ab>
             </div>
             <div type="apparatus">

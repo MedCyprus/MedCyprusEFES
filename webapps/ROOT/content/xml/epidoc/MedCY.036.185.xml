@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#Baptism">Baptism</rs></p>
+                            <p>... <rs type="iconography" ref="#Baptism">Baptism</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

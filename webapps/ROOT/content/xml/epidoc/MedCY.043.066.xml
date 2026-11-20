@@ -34,11 +34,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against green background. Majuscule letters. Characters' size varies. Wavy diagonal final sigma. John is abbreviated as Ἰω(άννης) with a big, wavy line above  Ἰω. Letter height: <height unit="cm">2-3.5</height>
+                            <handNote>White majsucule letters against green background. Character size varies. Wavy diagonal final sigma. John is abbreviated as Ἰω(άννης) with a big, wavy line above Ἰω. Letter height: <height unit="cm">2-3.5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#JohnForerunner">John the Forerunner</rs></p>
+                            <p><rs type="iconography" ref="#JohnForerunner">John the Forerunner</rs>
+                                   <rs type="iconography" ref="#prophet"/>
+                                   <rs type="iconography" ref="#male"/></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -63,8 +65,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-066-01.JPG"><desc>Saint John the Forerunner, inscription</desc></graphic>
-         <graphic url="043-066-02.JPG"><desc>Saint John the Forerunner, general view </desc></graphic>
+         <graphic rend="primary" url="043-066-01.JPG"><desc></desc></graphic>
              </facsimile>
     <text>
         <body>
@@ -97,7 +98,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Mouriki1984"/>,<citedRange>191</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>, <citedRange>191</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

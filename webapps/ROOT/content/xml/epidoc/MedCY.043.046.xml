@@ -34,11 +34,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Characters' size varies. Upsilon like a V on a horizontal bar with triangular serifs. Letter height: <height unit="cm">4</height>
+                            <handNote>White letters against red background. Majuscule letters. Character size varies. Upsilon like a V on a horizontal bar with triangular serifs. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Crucifixion">Crucifixion</rs></p>
+                            <p><rs type="iconography" ref="#Crucifixion">Crucifixion</rs>
+                                  <rs type="iconography" ref="#Christ"/>
+                                  <rs type="iconography" ref="#christological"/>
+                            </p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -63,8 +66,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-046-01.JPG"><desc>Crucifixion, inscription</desc></graphic>
-         <graphic url="043-046-02.JPG"><desc>Crucifixion, general view</desc></graphic>
+         <graphic rend="primary" url="043-046-01.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -84,7 +86,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Mouriki1984"/>,<citedRange>188</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>, <citedRange>188</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

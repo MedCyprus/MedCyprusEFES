@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Hilarion">Hilarion</rs>
+                            <p><rs type="iconography" ref="#Hilarion">Hilarion</rs>
                             <rs type="iconography" ref="#male"/>
                             <rs type="iconography" ref="#ascetic"/></p>
                         </decoDesc>

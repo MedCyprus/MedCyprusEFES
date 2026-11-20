@@ -35,11 +35,12 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against blue background. MHP  joined in ligature. Wavy, horizontal abbreviation mark above the sigla ΜΗΡ. Accents and breathings non systematic. Letter height: <height unit="cm">5</height> 
+                            <handNote>White majuscule letters against blue background. MHP  joined in ligature. Wavy, horizontal abbreviation mark above ΜΗΡ. Accents and breathings non systematic. Letter height: <height unit="cm">5</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
                             <p><rs type="iconography" ref="#VirginBlachernitissa">Virgin Blachernitissa</rs>
+                                   <rs type="iconography" ref="#ChristChild"/>
                                    <rs type="iconography" ref="#female"/></p>
                         </decoDesc>
                     </physDesc>
@@ -66,9 +67,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="039-001-01.JPG"><desc>Virgin, inscription</desc></graphic>
-        <graphic url="039-001-02.JPG"><desc>Virgin, inscription detail</desc></graphic>
-        <graphic url="039-001-03.JPG"><desc>Virgin, inscription detail</desc></graphic>
+         <graphic rend="primary" url="039-001-01.JPG"><desc></desc></graphic>
+        <graphic url="039-001-02.JPG"><desc></desc></graphic>
+        <graphic url="039-001-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>

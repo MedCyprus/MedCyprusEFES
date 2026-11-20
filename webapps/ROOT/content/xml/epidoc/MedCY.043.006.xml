@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black majuscule letters against white background. Character size varies. Superscripts letters. In line 1, round omicron with four semicircular dots stuck on its walls forming an abstract cross; theta with crosslet attached to nearly round sigma; omega with crosslet. HM, ΗΝ joined in ligature. Mu with its middle bar forms an upsilon with a dot at the top of its vertical line. Wavy, horizontal abbreviation mark ΘC. Accents and breathings non systematic. Letter height: <height unit="cm">3-4</height>
+                            <handNote>Black majuscule letters against white background. Character size varies. Superscripts letters. In line 1, round omicron with four semicircular dots stuck on its walls forming an abstract cross; theta with crosslet attached to nearly round sigma; omega with crosslet. HM, ΗΝ joined in ligature. Mu with its middle bar forms an upsilon with a dot at the top of its vertical line. Wavy, horizontal abbreviation mark ΘC. Accents and breathings non systematic.Text between double, ochre-coloured ruled lines. Letter height: <height unit="cm">3-4</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -68,11 +68,11 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-006-1.JPG"><desc>Saint John Chrysostom's scroll, inscription</desc></graphic>
-        <graphic url="043-006-02.JPG"><desc>Saint John Chrysostom's scroll, inscription</desc></graphic>
-        <graphic url="043-006-03.JPG"><desc>Saint John Chrysostom's scroll, inscription detail</desc></graphic>
-        <graphic url="043-006-04.JPG"><desc>Saint John Chrysostom's scroll, inscription detail</desc></graphic>
-        <graphic url="043-006-05.JPG"><desc>Saint John Chrysostom's scroll, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-006-1.JPG"><desc></desc></graphic>
+        <graphic url="043-006-02.JPG"><desc></desc></graphic>
+        <graphic url="043-006-03.JPG"><desc></desc></graphic>
+        <graphic url="043-006-04.JPG"><desc></desc></graphic>
+        <graphic url="043-006-05.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -100,8 +100,8 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Mouriki1984"/>,<citedRange>178</citedRange></bibl>
-                <bibl><ptr target="#PerdikisMyrianthefs2009"/>,<citedRange>14</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>, <citedRange>178</citedRange></bibl>
+                <bibl><ptr target="#PerdikisMyrianthefs2009"/>, <citedRange>14</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

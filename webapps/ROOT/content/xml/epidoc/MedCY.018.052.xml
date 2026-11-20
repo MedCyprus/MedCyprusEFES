@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Kyriakos">Lauros</rs>
+                            <p><rs type="iconography" ref="#Kerykos">Kerykos</rs>
                                    <rs type="iconography" ref="#martyr"/>
                                    <rs type="iconography" ref="#male"/>
                             </p>
@@ -67,8 +67,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="018-052-01.JPG"><desc>Saint Kerykos?, inscription</desc></graphic>
-        <graphic url="018-052-02.JPG"><desc>Saint Kerykos?, general view</desc></graphic>
+         <graphic rend="primary" url="018-052-01.JPG"><desc></desc></graphic>
+        <graphic url="018-052-02.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -76,19 +76,19 @@
               <ab>
                    <cb n="a"/>
                 <lb n="1"/>Ὁ 
-                  <lb n="2"/><persName type="sacred" key="Kyriakos"><w lemma="ἅγιος">ἅ
+                  <lb n="2"/><persName type="sacred" key="Kerykos"><w lemma="ἅγιος">ἅ
                   <lb n="3" break="no"/>γ
                    <lb n="4" break="no"/>ι
                      <lb n="5" break="no"/>ο
                      <lb n="6" break="no"/>ς</w>
                     <cb n="b"/>
-                    <lb n="1"/><name type="forename" nymRef="#Κυριακός"><supplied reason="lost">Κ</supplied>
-                      <lb n="2" break="no"/>υ
+                    <lb n="1"/><name type="forename" nymRef="#Κήρυκος"><choice><sic><supplied reason="lost">Κ</supplied>
+                      <lb n="2" break="no"/><choice><orig>υ</orig><reg>ύ</reg></choice>
                         <lb n="3" break="no"/>ρ
-                        <lb n="4" break="no"/>ι<supplied reason="omitted">α</supplied>
+                        <lb n="4" break="no"/>ι
                         <lb n="5" break="no"/>κ
-                      <lb n="6" break="no"/><choice><orig>o</orig><reg>ό</reg></choice>
-                        <lb n="7" break="no"/>ς</name></persName> 
+                      <lb n="6" break="no"/>o
+                        <lb n="7" break="no"/>ς</sic><corr>Κήρυκος</corr></choice></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">

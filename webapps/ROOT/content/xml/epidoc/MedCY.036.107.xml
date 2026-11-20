@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>... <rs type="iconography" ref="iconography.xml#VirginOfThePassion">Virgin of the Passion</rs></p>
+                            <p>... <rs type="iconography" ref="#VirginOfThePassion">Virgin of the Passion</rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>

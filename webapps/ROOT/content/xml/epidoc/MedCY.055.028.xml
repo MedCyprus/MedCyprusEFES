@@ -36,8 +36,12 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Hermolaos">Hermolaos</rs></p>
-                            </decoDesc>
+                            <p><rs type="iconography" ref="#Hermolaos">Hermolaos</rs>
+                            <rs type="iconography" ref="#male"/>
+                            <rs type="iconography" ref="#doctor"/>
+                            <rs type="iconography" ref="#priest"/>
+                            <rs type="iconography" ref="#martyr"/></p>
+                        </decoDesc>
                     </physDesc>
                     <history>
                         <origin>

@@ -65,10 +65,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-013-01.JPG"><desc>Saint Epiphanios, inscription</desc></graphic>
-        <graphic url="043-013-02.JPG"><desc>Saint Epiphanios, inscription detail</desc></graphic>
-        <graphic url="043-013-03.JPG"><desc>Saint Epiphanios, inscription detail</desc></graphic>
-        <graphic url="043-013-04.JPG"><desc>Saint Epiphanios, general view</desc></graphic>
+         <graphic rend="primary" url="043-013-01.JPG"><desc></desc></graphic>
+        <graphic url="043-013-02.JPG"><desc></desc></graphic>
+        <graphic url="043-013-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -99,7 +98,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Mouriki1984"/>,<citedRange>178</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>, <citedRange>178</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

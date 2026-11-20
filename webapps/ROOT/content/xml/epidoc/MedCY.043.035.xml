@@ -38,7 +38,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Christopher">Christopher, on horseback</rs>
+                            <p><rs type="iconography" ref="#Christopher">Christopher, on horseback</rs>
                             <rs type="iconography" ref="#martyr"/>
                                   <rs type="iconography" ref="#militarysaint"/>
                                   <rs type="iconography" ref="#male"/>                                
@@ -68,10 +68,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-035-01.JPG"><desc>Saint Christopher, inscription</desc></graphic>
-        <graphic url="043-035-02.JPG"><desc>Saint Christopher, inscription detail</desc></graphic>
-        <graphic url="043-035-03.JPG"><desc>Saint Christopher, inscription detail</desc></graphic>
-        <graphic url="043-035-04.JPG"><desc>Saint Christopher, general view</desc></graphic>
+         <graphic rend="primary" url="043-035-01.JPG"><desc></desc></graphic>
+        <graphic url="043-035-02.JPG"><desc></desc></graphic>
+        <graphic url="043-035-03.JPG"><desc></desc></graphic>
             </facsimile>
     <text>
         <body>
@@ -97,7 +96,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Mouriki1984"/>,<citedRange>193</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>, <citedRange>193</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

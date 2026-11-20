@@ -37,7 +37,7 @@
                 </place>
                 
                 <place xml:id="Antioch">
-                    <placeName xml:lang="grc">Ἀντιοχεία</placeName>
+                    <placeName xml:lang="grc">Ἀντιόχεια</placeName>
                     <placeName xml:lang="en">Antioch</placeName>
                     <idno type="pleiades">https://pleiades.stoa.org/places/658381</idno>
                 </place>
@@ -60,17 +60,23 @@
                     <idno type="pleiades">https://pleiades.stoa.org/places/678106</idno>
                 </place>
                 
+                <place xml:id="Egypt">
+                    <placeName xml:lang="grc">Αἴγυπτος</placeName>
+                    <placeName xml:lang="en">Egypt</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/981503?searchterm=Egypt</idno>
+                </place>
+                
                 <place xml:id="LandoftheHomerites">
                     <placeName xml:lang="grc">Ὁμηρίται, χώρα τῶν</placeName>
                     <placeName xml:lang="en">Himyarites, land of / Himyar</placeName>
                     <idno type="pleiades">https://pleiades.stoa.org/places/39350</idno>
                 </place>
                                
-                <place xml:id="Kotyaion">
+                <!--<place xml:id="Kotyaion">
                     <placeName xml:lang="grc">Κοτυάειον</placeName>
                     <placeName xml:lang="en">Kotyaion</placeName>
-                    <idno type="cyprusgazetteer">https://pleiades.stoa.org/places/609444/</idno>
-                </place>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/609444/</idno>
+                </place>-->
                 
                 <place xml:id="MonasteryOfPhorbiotissa">
                     <placeName xml:lang="grc">Μονὴ τῶν Φορβίων</placeName>
@@ -131,6 +137,12 @@
                     <placeName xml:lang="grc">Συρία</placeName>
                     <placeName xml:lang="en">Syria</placeName>
                     <idno type="pleiades">https://pleiades.stoa.org/places/981550</idno>
+                </place>
+                
+                <place xml:id="Thebes">
+                    <placeName xml:lang="grc">Θῆβαι</placeName>
+                    <placeName xml:lang="en">Thebes, Egypt</placeName>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/786017</idno>
                 </place>
                
             </listPlace>

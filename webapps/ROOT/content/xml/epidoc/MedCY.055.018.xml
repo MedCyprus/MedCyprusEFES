@@ -36,8 +36,10 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#athanasiospentaschoinites">Athanasios Pentaschoinites(?)</rs></p>
-                            </decoDesc>
+                            <p><rs type="iconography" ref="#AthanasiosPentaschoinites">Athanasios Pentaschoinites</rs>
+                            <rs type="iconography" ref="#deacon"/>
+                             <rs type="iconography" ref="#male"/></p>
+                        </decoDesc>
                     </physDesc>
                     <history>
                         <origin>

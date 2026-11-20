@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Christophoros</title>
+                <title>Saint Christopher</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
@@ -38,7 +38,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Christopher">Christopher</rs>
+                            <p><rs type="iconography" ref="#Christopher">Christopher</rs>
                                   <rs type="iconography" ref="#martyr"/>
                                   <rs type="iconography" ref="#militarysaint"/>
                                   <rs type="iconography" ref="#male"/>                                

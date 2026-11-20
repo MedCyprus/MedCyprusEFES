@@ -74,7 +74,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/>Ὁ <persName type="sacred" key="Joseph"><addName type="epithet" key="Righteous"><w lemma="δίκαιος">Δίκ<hi rend="ligature"><choice><orig>ὰ</orig><reg>α</reg></choice>ι</hi>ος</w></addName>
+                    <lb n="1"/>Ὁ <persName type="sacred" key="JosephMnestor"><addName type="epithet" key="Righteous"><w lemma="δίκαιος">Δίκ<hi rend="ligature"><choice><orig>ὰ</orig><reg>α</reg></choice>ι</hi>ος</w></addName>
                   <lb n="2"/><name type="forename" nymRef="#Ἰωσήφ">Ἰ<choice><orig>ῶ</orig><reg>ω</reg></choice>
                   <lb n="3" break="no"/>σή
                   <lb n="4" break="no"/>φ</name></persName>

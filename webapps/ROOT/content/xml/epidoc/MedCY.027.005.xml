@@ -39,7 +39,11 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Menas">Menas</rs>                 
+                                  <rs type="iconography" ref="#martyr"/>
+                                  <rs type="iconography" ref="#militarysaint"/>
+                                <rs type="iconography" ref="#dresscivilian"/>
+                                  <rs type="iconography" ref="#male"/>             
                             </p>
                         </decoDesc>
                     </physDesc>

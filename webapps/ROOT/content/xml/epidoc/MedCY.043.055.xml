@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>Black letters against white background. Majuscule letters. Characters' size varies. Delta is formed with a lambda on a horizontal bar, with a serif to the left; omega with crosslet and sketch strokes. ΗΜΗΝ in ligature. Accents and breathings with errors. Text between two ochre-coloured ruled lines. Letter height: <height unit="cm">2-3</height>
+                            <handNote>Black majuscule letters against white background. Character size varies. Delta is formed with a lambda on a horizontal bar, with a serif to the left; omega with crosslet and sketch strokes. ΗΜΗΝ in ligature. Accents and breathings with errors. Text between double, ochre-coloured ruled lines. Letter height: <height unit="cm">2-3</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
@@ -68,9 +68,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-055-01.JPG"><desc>Descent Into Hell, Jonh the Forerunner's scroll, inscription</desc></graphic>
-         <graphic url="043-055-02.JPG"><desc>Descent Into Hell, Jonh the Forerunner's scroll, inscription, general view</desc></graphic>
-         <graphic url="043-055-03.JPG"><desc>Descent Into Hell, Jonh the Forerunner's scroll, inscription, general view</desc></graphic>
+         <graphic rend="primary" url="043-055-01.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -91,8 +89,8 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Mouriki1984"/>,<citedRange>188</citedRange></bibl>
-                <bibl><ptr target="#PerdikisMyrianthefs2009"/>,<citedRange>34</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>, <citedRange>188</citedRange></bibl>
+                <bibl><ptr target="#PerdikisMyrianthefs2009"/>, <citedRange>34</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

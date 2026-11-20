@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Last Judgment, James, son of Alphaeus(?)</title>
+                <title>Last Judgment, James the Less(?)</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -39,9 +39,9 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#LastJudgment">Last Judgment, the apostle James</rs>
-                                  <rs type="iconography" ref="#JamesAlphaeus"/>
-                                 <rs type="iconography" ref="#JamesZebedee"/>
+                            <p><rs type="iconography" ref="#LastJudgment">Last Judgment, the apostle James, possibly the Less because of his position within the composition.</rs>
+                                  <rs type="iconography" ref="#JamesLess"/>
+                                 <rs type="iconography" ref="#JamesElder"/>
                                   <rs type="iconography" ref="#eschatological"/>
                             </p>
                         </decoDesc>
@@ -75,7 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><persName type="sacred" key="JamesAlphaeus"><name type="forename" nymRef="#Ἰάκωβος"><choice><orig>Ϊ</orig><reg>Ἰ</reg></choice>
+                  <lb n="1"/><persName type="sacred" key="James"><name type="forename" nymRef="#Ἰάκωβος"><choice><orig>Ϊ</orig><reg>Ἰ</reg></choice>
                       <lb n="2" break="no"/>ά
                       <lb n="3" break="no"/>κ
                       <lb n="4" break="no"/>ω

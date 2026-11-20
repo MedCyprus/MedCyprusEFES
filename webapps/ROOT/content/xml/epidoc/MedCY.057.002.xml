@@ -74,14 +74,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-              <lb n="1"/><w lemma="ἅγιος"><choice><orig>A</orig><reg>Ἅ</reg></choice>γιος</w>, <w lemma="ἅγιος"><choice><orig>A</orig><reg>Ἅ</reg></choice>γιος</w>, <w lemma="ἅγιος"><choice><orig>A</orig><reg>Ἅ</reg></choice>γιος</w> <supplied reason="omitted"><addName type="epithet" key="Lord of Hosts">Κύριος<w lemma="κύριος"/> <w lemma="Σαβαώθ">Σαβαώθ</w></addName></supplied>
+              <lb n="1"/><w lemma="ἅγιος"><choice><orig>A</orig><reg>Ἅ</reg></choice>γιος</w>, <w lemma="ἅγιος"><choice><orig>A</orig><reg>Ἅ</reg></choice>γιος</w>, <w lemma="ἅγιος"><choice><orig>A</orig><reg>Ἅ</reg></choice>γιος</w>
                  </ab>
             </div>
             <div type="apparatus">
                <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Holy, Holy, Holy (Lord God of hosts)</p>
+                <p>Holy, Holy, Holy</p>
             </div>
             <div type="commentary">
                 <p>Text: Part of the Sanctus hymn</p>

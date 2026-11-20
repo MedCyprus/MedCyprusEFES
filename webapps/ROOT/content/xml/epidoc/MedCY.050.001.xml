@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Virgin Eleousa</title>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
+                <editor xml:id="mgp"> Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.050.001</idno>
+                <availability>
+                  <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Poorly preserved.</rs>
+                                    <rs type="placement-building" ref="#nave">Nave, southwest recess, central pier, east face</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                </support> 
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>On either side of the Virgin's head</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>White and red majuscule letters against blue background. ΘΥ joined in ligature. Letter height: <height unit="cm">3</height>
+                            </handNote>
+                        </handDesc>
+                         <decoDesc>
+                            <p><rs type="iconography" ref="#VirginEleousa">Virgin Eleousa</rs>
+                                  <rs type="iconography" ref="#ChristChild"/>
+                                  <rs type="iconography" ref="#female"/>
+                            </p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Peristerona" n="1st">Peristerona (Lefkosias), Saints Barnabas and Hilarion</origPlace>
+                            <origDate notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</origDate>
+                        </origin>
+                        <provenance when="2022">
+                        </provenance>    
+                        <provenance type="observed" resp="#tp">31/08/2022</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" key="doc5">caption</term>
+                </keywords>
+            </textClass>
+            <creation>transcription (G. Apeitos, Th. Petrou)</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+         <graphic rend="primary" url="050-001-01.jpg"><desc></desc></graphic>
+        <graphic url="050-001-02.jpg"><desc/></graphic>
+        <graphic url="050-001-03.JPG"><desc/></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+              <ab>
+                  <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><supplied reason="lost"><hi rend="ligature"><expan><abbr rend="supraline"><supplied reason="lost">Μ</supplied><choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></supplied></w>
+                    <milestone unit="figure"/><w lemma="θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><unclear>ῦ</unclear></abbr></expan></w></persName> 
+                  <cb n="a"/>
+                  <lb n="1"/><addName type="epithet" key="Eleousa"><supplied reason="lost">Ἡ</supplied> <supplied reason="lost">Ἐλε</supplied>
+                  <lb n="3" break="no"/>                
+                   <cb n="b"/>
+                   <lb n="1"/>ο<choice><orig>υ</orig><reg>ῦ</reg></choice>
+                   <lb n="2" break="no"/><supplied reason="lost">σ</supplied>α</addName>
+                 </ab>
+            </div>
+            <div type="apparatus">
+               <p>n/a</p>
+            </div>
+            <div type="translation">
+                <p>[Mother] of God, Eleousa</p>
+            </div>
+            <div type="commentary">
+                <p>No comment</p>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                <bibl>Unpublished</bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

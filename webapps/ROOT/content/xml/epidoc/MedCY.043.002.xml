@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Christ Emmanuel</title>
+                <title>Christ</title>
                  <editor xml:id="tp">Theocharis Petrou </editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -34,13 +34,14 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White majuscule letters against red background. Character size varies. Wavy, horizontal abbreviation mark above the sigla ΙC XC. Above the abbreviation line of the name of Ἰ(ησοῦ)ς there is the upper half circle symbol and above Χ(ριστό)ς the angle up symbol which specifically on the monument of Moutoullas symbolize the perispomene and the grave accent-βαρεῖα (diacritic) respectively. Letter height: <height unit="cm">5-5.5</height>
+                            <handNote>White majuscule letters against red background. Character size varies. Wavy, horizontal abbreviation mark above the nomina sacra ΙC XC. Above the abbreviation line of the name of Ἰ(ησοῦ)ς there is the upper half circle symbol and above Χ(ριστό)ς the angle up symbol which specifically on the monument of Moutoullas symbolize the perispomene and the grave accent-βαρεῖα (diacritic) respectively. Letter height: <height unit="cm">5-5.5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#ChristEmmanuel">Christ Emmanuel</rs>
+                            <p><rs type="iconography" ref="#ChristChild">Christ Child</rs>
                                    <rs type="iconography" ref="#male"/>
-                                   <rs type="iconography" ref="#divine"/></p>
+                                   <rs type="iconography" ref="#divine"/>
+                                   <rs type="iconography" ref="#VirginBlachernitissa"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -65,9 +66,9 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-002-01.JPG"><desc>Christ Emmanuel, inscription </desc></graphic>
-        <graphic url="043-002-02.JPG"><desc>Christ Emmanuel, inscription detail</desc></graphic>
-        <graphic url="043-002-03.JPG"><desc>Christ Emmanuel, inscription detail</desc></graphic>
+         <graphic rend="primary" url="043-002-01.JPG"><desc></desc></graphic>
+        <graphic url="043-002-02.JPG"><desc></desc></graphic>
+        <graphic url="043-002-03.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -88,7 +89,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#Mouriki1984"/>,<citedRange>175</citedRange></bibl>
+                <bibl><ptr target="#Mouriki1984"/>, <citedRange>175</citedRange></bibl>
                </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

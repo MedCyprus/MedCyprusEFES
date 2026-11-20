@@ -34,12 +34,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>White letters against red background. Majuscule letters. Omega with crosslet. John is abbreviated as Ἰω(άννης) with a big, wavy line above Ἰω. Letter height: <height unit="cm">3.5</height>
+                            <handNote>White majuscule letters against red background. Omega with crosslet. John is abbreviated as Ἰω(άννης) with a big, wavy line above Ἰω. Letter height: <height unit="cm">3.5</height>
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="iconography.xml#Dormition">Dormition</rs>
-                            <rs type="iconography" ref="iconography.xml#JohnTheologian">John the Theologian</rs></p>
+                            <p><rs type="iconography" ref="#Dormition">Dormition, John the Theologian</rs>
+                            <rs type="iconography" ref="#JohnTheologian"></rs>
+                            <rs type="iconography" ref="#mariological"></rs></p>
                         </decoDesc>
                     </physDesc>
                     <history>
@@ -64,7 +65,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="043-058-01.JPG"><desc>Dormition, John the Theologian, inscription</desc></graphic>
+         <graphic rend="primary" url="043-058-01.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -84,7 +85,7 @@
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl><ptr target="#PerdikisMyrianthefs2009"/>,<citedRange>35</citedRange></bibl>
+                <bibl><ptr target="#PerdikisMyrianthefs2009"/>, <citedRange>35</citedRange></bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
