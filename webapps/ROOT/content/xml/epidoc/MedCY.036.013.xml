@@ -80,9 +80,9 @@
                   
                    <cb n="b"/>
                   <lb n="1"/><name nymRef="#Μελέτιος" type="forename">Μελέτιος</name></persName> 
-                  <lb n="2"/><placeName ref="mentioned_places.xml#Antioch"><choice><sic>Ἀντιοχή
+                  <lb n="2"/><addName type="epithet" key="of Antioch"><placeName ref="mentioned_places.xml#Antioch"><choice><sic>Ἀντιοχή
                   <lb n="3" break="no"/>α
-                  <lb n="4" break="no"/>ς</sic><corr>Ἀντιοχείας</corr></choice></placeName>
+                  <lb n="4" break="no"/>ς</sic><corr>Ἀντιοχείας</corr></choice></placeName></addName>
                </ab>
             </div>
             <div type="apparatus">
