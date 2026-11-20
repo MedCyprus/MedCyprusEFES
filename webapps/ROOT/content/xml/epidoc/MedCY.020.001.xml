@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Christ Emmanuel</title>
+                <title>Christ</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -39,7 +39,8 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#ChristEmmanuel">Christ Emmanuel, in a medallion before the chest of the Virgin Orans</rs>
+                            <p><rs type="iconography" ref="#ChristChild">Christ Child, in a medallion before the chest of the Virgin Orans</rs>
+                                <rs type="iconography" ref="#Christ"/>
                                 <rs type="iconography" ref="#VirginOrans"/>                        
                                 <rs type="iconography" ref="#divine"/>
                                 <rs type="iconography" ref="#male"/>                                

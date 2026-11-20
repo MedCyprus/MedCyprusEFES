@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Christ Emmanuel</title>
+                <title>Christ</title>
                  <editor xml:id="tp">Theocharis Petrou </editor> 
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp">Maria G. Parani</editor>
@@ -38,7 +38,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#ChristEmmanuel">Christ Emmanuel</rs>
+                            <p><rs type="iconography" ref="#ChristChild">Christ Child</rs>
                                    <rs type="iconography" ref="#male"/>
                                    <rs type="iconography" ref="#divine"/>
                                    <rs type="iconography" ref="#VirginBlachernitissa"></rs></p>
