@@ -42,7 +42,6 @@
                             <p><rs type="iconography" ref="#PaulTheSimple">Possibly Paul the Simple; other alternatives Paul the Younger of Latros, Paul of Xeropotamou</rs>
                                   <rs type="iconography" ref="#PaulTheYoungerLatros"/>
                                   <rs type="iconography" ref="#PaulOfXeropotamou"/>
-                                  <rs type="iconography" ref="#ascetic"/>
                                   <rs type="iconography" ref="#monastic"/>
                                   <rs type="iconography" ref="#male"/>
                             </p>
@@ -78,7 +77,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                    <cb n="a"/>
-                   <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Paul"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
+                   <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="PaulMonk"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w>
                   <cb n="b"/>
                   <lb n="1"/><name type="forename" nymRef="#Παῦλος">Π<hi rend="ligature">αῦ</hi>     
                    <lb n="2" break="no"/>λ<hi rend="ligature">ος</hi></name></persName> 
