@@ -74,7 +74,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                    <lb n="1"/><persName type="divine" key="JesusChrist"><name nymRef="#Ἰησοῦς" type="forename"> <expan><abbr rend="supraline">Ἱ</abbr><ex>ησοῦ</ex><abbr rend="supraline">ς</abbr></expan><am> ῀ </am><milestone unit="column"/><addName type="epithet" subtype="JesusChrist" key="Christ"><expan><abbr rend="supraline">Χ</abbr><ex>ριστό</ex><abbr rend="supraline">ς</abbr></expan><am>´</am></addName></name></persName> 
-                  <lb n="2"/><persName type="divine" key="SonOfGod"><expan><abbr rend="supraline">Υ</abbr><ex>ἱὸ</ex><abbr rend="supraline">ς</abbr></expan><am> ῀ </am> ΞC <milestone unit="column"/> ΕΘ <expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></persName>
+                  <lb n="2"/><addName type="epithet" key="SonOfGod"><expan><abbr rend="supraline">Υ</abbr><ex>ἱὸ</ex><abbr rend="supraline">ς</abbr></expan><am> ῀ </am> ΞC <milestone unit="column"/> ΕΘ <expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline">ῦ</abbr></expan></addName>
 
                </ab>
             </div>
