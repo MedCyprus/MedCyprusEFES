@@ -824,8 +824,8 @@
                 <person xml:id="JosephMnestor">
                     <persName xml:lang="grc">Ἰωσήφ</persName>
                     <persName xml:lang="en">Joseph</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="JosephMnestor" key="Dikaios">Δίκαιος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="JosephMnestor" key="Dikaios">Dikaios / Righteous</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="JosephMnestor" key="Righteous">Δίκαιος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JosephMnestor" key="Righteous">Dikaios / Righteous</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q128267</idno>                   
                 </person>
                 
@@ -927,8 +927,8 @@
                 <person xml:id="Lazaros">
                     <persName xml:lang="grc">Λάζαρος</persName>
                     <persName xml:lang="en">Lazaros</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Lazaros" key="Dikaios">Δίκαιος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Lazaros" key="Dikaios">Dikaios / Righteous</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Lazaros" key="Righteous">Δίκαιος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Lazaros" key="Righteous">Dikaios / Righteous</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q539890</idno>                   
                 </person>
                 
@@ -1055,20 +1055,23 @@
                 <person xml:id="MeterTheou">
                     <persName xml:lang="grc">Μήτηρ Θεοῦ</persName>
                     <persName xml:lang="en">Mother of God</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="MeterTheou" key="Arakiotissa">Ἀρακιώτισσα / τοῦ Ἄρακος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="MeterTheou" key="Arakiotissa">Arakiotissa / of Arakas</persName>
                     <persName xml:lang="grc" type="epithet" subtype="MeterTheou" key="Eleousa">Ἐλεοῦσα</persName>
-                    <persName xml:lang="en" type="epithet" subtype="MeterTheou" key="Eleousa">Eleousa</persName>
+                    <persName xml:lang="en" type="epithet" subtype="MeterTheou" key="Eleousa">Eleousa / Compassionate</persName>
                     <persName xml:lang="grc" type="epithet" subtype="MeterTheou" key="Gorgoepikoos">Γοργοεπήκοος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="MeterTheou" key="Gorgoepikoos">Gorgoepikoos</persName>
+                    <persName xml:lang="en" type="epithet" subtype="MeterTheou" key="Gorgoepikoos">Gorgoepekoos / Quick to listen</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="MeterTheou" key="kecharitomene">Κεχαριτωμένη</persName>
+                    <persName xml:lang="en" type="epithet" subtype="MeterTheou" key="kecharitomene">Kecharitomene / Full of grace</persName>
                     <persName xml:lang="grc" type="epithet" subtype="MeterTheou" key="Pantanassa">Παντάνασσα</persName>
-                    <persName xml:lang="en" type="epithet" subtype="MeterTheou" key="Pantanassa">Queen of all</persName>
+                    <persName xml:lang="en" type="epithet" subtype="MeterTheou" key="Pantanassa">Pantanassa / Queen of all</persName>
                     <persName xml:lang="grc" type="epithet" subtype="MeterTheou" key="Phorbiotissa">Φορβιώτισσα</persName>
                     <persName xml:lang="en" type="epithet" subtype="MeterTheou" key="Phorbiotissa">Phorbiotissa</persName>
                     <persName xml:lang="grc" type="epithet" subtype="MeterTheou" key="Stazousa">Στάζουσα</persName>
                     <persName xml:lang="en" type="epithet" subtype="MeterTheou" key="Stazousa">Stazousa</persName>
                     <persName xml:lang="grc" type="epithet" subtype="MeterTheou" key="Hodegetria">Ὁδηγήτρια</persName>
                     <persName xml:lang="en" type="epithet" subtype="MeterTheou" key="Hodegetria">Hodegetria</persName>
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q345</idno>
-                    <note>See also: Theotokos, Virgin, Maria</note>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q345</idno>                    
                 </person>
                 
                 <person xml:id="Micah">
