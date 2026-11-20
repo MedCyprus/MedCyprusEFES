@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Phylon</title>
+                <title>Saint Philon</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>   
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -39,7 +39,7 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Phylon">Phylon</rs>                
+                            <p><rs type="iconography" ref="#Philon">Philon</rs>                
                                   <rs type="iconography" ref="#martyr"/>
                                   <rs type="iconography" ref="#male"/></p>
                         </decoDesc>
@@ -66,11 +66,11 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic rend="primary" url="046-004-01.JPG"><desc>Saint Phylon, inscription</desc></graphic>
-        <graphic url="046-004-02.JPG"><desc>Saint Phylon, inscription detail</desc></graphic>
-        <graphic url="046-004-03.JPG"><desc>Saint Phylon, incription detail</desc></graphic>
-        <graphic url="046-004-04.JPG"><desc>Saint Phylon, general view</desc></graphic>
-        <graphic url="046-004-05.JPG"><desc>Saint Phylon, general view</desc></graphic>
+        <graphic rend="primary" url="046-004-01.JPG"><desc></desc></graphic>
+        <graphic url="046-004-02.JPG"><desc></desc></graphic>
+        <graphic url="046-004-03.JPG"><desc></desc></graphic>
+        <graphic url="046-004-04.JPG"><desc></desc></graphic>
+        <graphic url="046-004-05.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -83,7 +83,7 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Saint Phylon</p>
+                <p>Saint Philon</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
