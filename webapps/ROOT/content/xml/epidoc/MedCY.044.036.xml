@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Romanos</title>
+                <title>Saint Romanos the Melodist</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -39,7 +39,8 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#Romanos">Romanos</rs>
+                            <p><rs type="iconography" ref="#Romanos">Romanos the Melodist</rs>
+                             <rs type="iconography" ref="#deacon"/>
                                   <rs type="iconography" ref="#hymnographer"/>
                                   <rs type="iconography" ref="#male"/></p>
                         </decoDesc>
@@ -95,7 +96,7 @@
                <p>n/a</p>
             </div>
             <div type="translation">
-                <p>Saint Romanos the Me[lode]</p>
+                <p>Saint Romanos the Melodist</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
