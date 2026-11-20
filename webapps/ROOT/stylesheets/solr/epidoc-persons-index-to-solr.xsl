@@ -112,6 +112,14 @@
                     <xsl:if test="position() != last()">; </xsl:if>
                   </xsl:for-each>
           </field>
+          
+          <field name="index_ecclesiastical_status">
+            <xsl:for-each select="$idno//tei:occupation[@type = 'status-ecclesiastical']">
+              <xsl:value-of select="."/>
+              <xsl:if test="position() != last()">; </xsl:if>
+            </xsl:for-each>
+          </field>
+          
               
                 <field name="index_occupation">
                   <xsl:for-each select="$idno//tei:occupation[@type = 'occupation']">

@@ -182,6 +182,8 @@
       <xsl:apply-templates select="str[@name='index_secular_office']" />
       <xsl:apply-templates select="str[@name='index_dignity']" />
       <xsl:apply-templates select="str[@name='index_ecclesiastical_office']" />
+      <xsl:apply-templates select="str[@name='index_ecclesiastical_status']" />
+      
       <xsl:apply-templates select="str[@name='index_occupation']" />
       <xsl:apply-templates select="str[@name='index_relation']" />
       <!--<xsl:apply-templates select="str[@name='index_inscription_date']" />-->
@@ -362,7 +364,7 @@
     </td>
   </xsl:template>
   
-  <xsl:template match="str[@name=('index_surname', 'index_honorific', 'index_secular_office', 'index_dignity', 'index_ecclesiastical_office', 'index_occupation', 'index_relation', 'index_inscription_date', 'index_item_role', 'index_numeral_value', 'index_id')]"> <!-- removed index_item_type -->
+  <xsl:template match="str[@name=('index_surname', 'index_honorific', 'index_secular_office', 'index_dignity', 'index_ecclesiastical_office', 'index_ecclesiastical_status', 'index_occupation', 'index_relation', 'index_inscription_date', 'index_item_role', 'index_numeral_value', 'index_id')]"> <!-- removed index_item_type -->
     <td>
       <xsl:value-of select="."/>
     </td>

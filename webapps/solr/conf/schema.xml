@@ -223,6 +223,8 @@
      multiValued="false" required="false" type="string" />
    <field name="index_ecclesiastical_office" stored="true" indexed="true"
      multiValued="false" required="false" type="string" />
+   <field name="index_ecclesiastical_status" stored="true" indexed="true"
+     multiValued="false" required="false" type="string" />
    <field name="index_occupation" stored="true" indexed="true"
      multiValued="false" required="false" type="string" />
    <field name="index_relation" stored="true" indexed="true"
