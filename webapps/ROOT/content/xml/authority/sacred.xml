@@ -300,7 +300,6 @@
                     <!--This is very tricky. Jesus and Christ, together or separately? Or, together AND separately, depending on the content of the inscriptions. How about Son of God? Name or epithet?-->
                     <note>See also: Jesus Christ, King of Glory, Word, Master</note>
                 </person>
-                
                 <person sameAs="#JesusChrist"><persName>Christ</persName></person>
                 
                 <person xml:id="ClementRome">
@@ -724,11 +723,9 @@
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="Antiphonetes">Antiphonetes / Guarantor</persName>
                     <persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="Evergetes">Εὐεργέτης</persName>
                     <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="Evergetes">Evergetes / Benefactor</persName>
-                    <!--><persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="SonofGod">Υἱὸς Θεοῦ</persName>
-                    <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="SonofGod">Son of God</persName>-->
+                    <persName xml:lang="grc" type="epithet" subtype="JesusChrist" key="SonofGod">Υἱὸς Θεοῦ</persName>
+                    <persName xml:lang="en" type="epithet" subtype="JesusChrist" key="SonofGod">Son of God</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q302</idno>
-                    <!--This is very tricky. Jesus and Christ, together or separately? Or, together AND separately, depending on the content of the inscriptions. How about Son of God? Name or epithet?-->
-                    <note>See also: Christ, King of Glory, Son of God, Word, Master</note>
                 </person>
                 
                 <person xml:id="Joachim">
@@ -1184,6 +1181,12 @@
                     <persName xml:lang="grc">Παῦλος</persName>
                     <persName xml:lang="en">Paul</persName> 
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q9200</idno>                   
+                </person>
+                
+                <person xml:id="PaulMonk">
+                    <persName xml:lang="grc">Παῦλος</persName>
+                    <persName xml:lang="en">Paul, monk (unidentified)</persName> 
+                    <idno type="wikidata">n/a</idno>                   
                 </person>
                 
                 <person xml:id="PaulOfThebes">
