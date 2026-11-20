@@ -75,8 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                  <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="Misael"><supplied reason="lost"><w lemma="ἅγιος">ἅγιος</w></supplied>
-                  <lb n="2"/><name type="forename" nymRef="#Μισαήλ">Μ<supplied reason="lost">ισαήλ</supplied></name></persName>
+                  <lb n="1"/><gap reason="lost" extent="unknown" unit="character"></gap> <persName type="sacred" key="Misael"><name type="forename" nymRef="#Μισαήλ">Μ<supplied reason="lost">ισαήλ</supplied></name></persName>
                   
                  </ab>
             </div>
