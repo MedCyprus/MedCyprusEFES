@@ -525,8 +525,8 @@
                     <persName xml:lang="en">George</persName>
                     <persName xml:lang="grc" type="epithet" subtype="George" key="Cappadocian">Καππαδόξ</persName>
                     <persName xml:lang="en" type="epithet" subtype="George" key="Cappadocian">Cappadocian</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="George" key="kosmopothetos">κοσμοπόθητος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="George" key="kosmopothetos">kosmopothetos / beloved by the world</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="George" key="kosmopothetos">Kοσμοπόθητος</persName>
+                    <persName xml:lang="en" type="epithet" subtype="George" key="kosmopothetos">Kosmopothetos / beloved by the world</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q48438</idno>                   
                 </person>
                 
@@ -1377,7 +1377,7 @@
                 <person xml:id="Thallelaios">
                     <persName xml:lang="grc">Θαλλέλαιος</persName>
                     <persName xml:lang="en">Thallelaios</persName>               
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q16086357</idno>                   
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q3947991</idno>                   
                 </person>
                 
                 <person xml:id="Therapon">
@@ -1412,33 +1412,48 @@
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
-                <person xml:id="Theodore"><!--Stratelates-->
+                <person xml:id="TheodoreMilitary">
                     <persName xml:lang="grc">Θεόδωρος</persName>
-                    <persName xml:lang="en">Theodore</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theodore" key="Stratelates">Στρατηλάτης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Theodore" key="Stratelates">Stratelates</persName>
+                    <persName xml:lang="en">Theodore, military saint (unidentified)</persName>
+                </person>
+                
+                <person xml:id="TheodoreStratelates">
+                    <persName xml:lang="grc">Θεόδωρος ὁ Στρατηλάτης</persName>
+                    <persName xml:lang="en">Theodore Stratelates</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="TheodoreStratelates" key="Stratelates">Στρατηλάτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="TheodoreStratelates" key="Stratelates">Stratelates / General</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="TheodoreStratelates" key="Egraeniotes">Ἠγραηνιότης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="TheodoreStratelates" key="Egraeniotes">Egraeniotes</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2363350</idno>                   
                 </person>
                 
                 <person xml:id="TheodoreSanctified">
-                    <persName xml:lang="grc">Θεόδωρος</persName>
-                    <persName xml:lang="en">Theodore</persName>
+                    <persName xml:lang="grc">Θεόδωρος ὁ Ἡγιασμένος</persName>
+                    <persName xml:lang="en">Theodore the Sanctified</persName>
                     <persName xml:lang="grc" type="epithet" subtype="TheodoreSanctified" key="the Sanctified">Ἡγιασμένος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="TheodoreSanctified" key="the Sanctified">Sanctified</persName>
+                    <persName xml:lang="en" type="epithet" subtype="TheodoreSanctified" key="the Sanctified">Hegiasmenons / Sanctified</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q770191</idno>                   
                 </person>
                 
-                <person xml:id="Theodosios">
+                <person xml:id="TheodosiosMonk">
                     <persName xml:lang="grc">Θεοδόσιος</persName>
-                    <persName xml:lang="en">Theodosios</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theodosios" key="Cenobiarch">Κοινοβιάρχης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Theodosios" key="Cenobiarch">Cenobiarch</persName>
+                    <persName xml:lang="en">Theodosios, monk (unidentified)</persName> 
+                    <idno type="wikidata">n/a</idno>                   
+                </person>
+                
+                <person xml:id="TheodosiosCenobiarch">
+                    <persName xml:lang="grc">Θεοδόσιος ὁ Κοινοβιάρχης</persName>
+                    <persName xml:lang="en">Theodosios the Cenobiarch</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="TheodosiosCenobiarch" key="Cenobiarch">Κοινοβιάρχης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="TheodosiosCenobiarch" key="Cenobiarch">Cenobiarch</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q1885832</idno>                   
                 </person>
                 
                 <person xml:id="TheodosiosOfSkopelos">
                     <persName xml:lang="grc">Θεoδόσιος ὁ ἐν τῷ Σκοπέλῳ</persName>
                     <persName xml:lang="en">Theodosios of Skopelos</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="TheodosiosOfSkopelos" key="ofSkopelos">ἐν τῷ Σκοπέλῳ</persName>
+                    <persName xml:lang="en" type="epithet" subtype="TheodosiosOfSkopelos" key="ofSkopelos">Skopelos, of</persName>
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
