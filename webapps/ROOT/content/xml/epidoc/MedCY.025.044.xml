@@ -74,7 +74,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="SymeonArchimandrite"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <name type="forename" nymRef="#Συμεών"><supplied reason="lost">Συμε</supplied><choice><orig>ω</orig><reg>ώ</reg></choice>ν</name></persName>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied> <persName type="sacred" key="SymeonGodReceiver"><w lemma="ἅγιος"><supplied reason="lost">ἅγιος</supplied></w> <name type="forename" nymRef="#Συμεών"><supplied reason="lost">Συμε</supplied><choice><orig>ω</orig><reg>ώ</reg></choice>ν</name></persName>
                  </ab>
             </div>
             <div type="apparatus">
