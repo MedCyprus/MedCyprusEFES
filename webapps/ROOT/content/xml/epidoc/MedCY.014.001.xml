@@ -24,7 +24,7 @@
                             <supportDesc>
                                 <support>
                                     <rs type="inscription-support">
-                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface</objectType></rs>
+                                        <rs type="execution">Painted </rs>on a <material>plastered </material><objectType>wall surface. </objectType>Poorly Preserved.</rs>
                                     <rs type="placement-building" ref="#naos">Naos, south crossarm, east side</rs>
                                     <dimensions><height>n/a</height></dimensions>
                                 </support> 
@@ -38,16 +38,16 @@
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p><rs type="iconography" ref="#VirginEnthroned">Virgin enthroned with the Christ Child</rs>
-                                                            
+                            <p><rs type="iconography" ref="#VirginEnthroned">Virgin enthroned with the Christ Child</rs>                                          
                                 <rs type="iconography" ref="#female"/>
+                                <rs type="iconography" ref="#ChristChild"/>
                             </p>
                         </decoDesc>
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Empa">Empa, Panagia Chryseleousa</origPlace>
-                            <origDate notBefore="1201" notAfter="1300" precision="medium">13th century</origDate>
+                            <origPlace ref="locations.xml#Empa" n="1st">Empa, Panagia Chryseleousa</origPlace>
+                            <origDate notBefore="1001" notAfter="1300" precision="medium" evidence="artistic-style">11th or 13th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
@@ -59,14 +59,15 @@
         <profileDesc>
             <textClass>
                 <keywords>
-                    <term type="textType" key="doc9" ref=" https://ark.mom.fr/ark:/76609/epvfdd7hpzkzp">nomina sacra</term>
+                    <term type="textType" key="doc5">caption</term>
                 </keywords>
             </textClass>
             <creation>transcription (Th. Petrou)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
+         <graphic rend="primary" url="014-001-01.jpg"><desc></desc></graphic>
+        <graphic url="014-001-02.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
@@ -76,17 +77,17 @@
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>[Mother] of God, Hodegetria</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>
