@@ -353,7 +353,7 @@
                 </person>
                 
                 <person xml:id="DanielStylites">
-                    <persName xml:lang="grc">Δανιήλ ὁ στυλίτης</persName>
+                    <persName xml:lang="grc">Δανιήλ ὁ Στυλίτης</persName>
                     <persName xml:lang="en">Daniel the Stylite</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="DanielStylites" key="Stylites">Στυλίτης</persName>
                     <persName xml:lang="en" type="epithet" subtype="DanielStylites" key="Stylites">Stylite</persName>
@@ -1336,28 +1336,36 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q36786</idno>                   
                 </person>
                 
-                <person xml:id="SymeonArchimandrite">
-                    <persName xml:lang="grc">Συμεών ὁ Ἀρχιμανδρίτης</persName>
-                    <persName xml:lang="en">Symeon the Archimandrite</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="SymeonArchimandrite" key="Archimandrite">Ἀρχιμανδρίτης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="SymeonArchimandrite" key="Archimandrite">Archimandrite</persName>
-                    <idno type="wikidata">PENDING</idno>                   
-                </person>
-                
                 <person xml:id="SymeonGodReceiver">
                     <persName xml:lang="grc">Συμεών</persName>
                     <persName xml:lang="en">Symeon</persName>
                     <persName xml:lang="grc" type="epithet" subtype="SymeonGodReceiver" key="God-receiver">Θεοδόχος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="SymeonGodReceiver" key="God-receiver">God-receiver</persName>
+                    <persName xml:lang="en" type="epithet" subtype="SymeonGodReceiver" key="God-receiver">Theodochos / God-receiver</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q345205</idno>                   
                 </person>
                 
-                <person xml:id="SymeonMiracleWorkerYounger">
-                    <persName xml:lang="grc">Συμεών Στυλίτης ὁ Θαυμαστορείτης / ὁ Νέος </persName>
-                    <persName xml:lang="en">Symeon Stylites the Miracle-worker / the Younger</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="SymeonMiracleWorkerYounger" key="Miracle-worker">Θαυματουργός</persName>
-                    <persName xml:lang="en" type="epithet" subtype="SymeonMiracleWorkerYounger" key="Miracle-worker">Miracle-worker</persName>
+                <person xml:id="SymeonStylite">
+                    <persName xml:lang="grc">Συμεών ὁ Στυλίτης</persName>
+                    <persName xml:lang="en">Symeon the Stylite (unidentified)</persName>
+                    <idno type="wikidata">n/a</idno>                   
+                </person>
+                
+                <person xml:id="SymeonStyliteYounger">
+                    <persName xml:lang="grc">Συμεών ὁ Στυλίτης ὁ Νέος </persName>
+                    <persName xml:lang="en">Symeon the Stylite the Younger</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="SymeonStyliteYounger" key="Thaumatourgos">Θαυματουργός</persName>
+                    <persName xml:lang="en" type="epithet" subtype="SymeonStyliteYounger" key="Thaumatourgos">Thaumatourgos / Wonderworker</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="SymeonStyliteYounger" key="Stylites">Στυλίτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="SymeonStyliteYounger" key="Stylites">Stylite</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2742399</idno>                   
+                </person>
+                
+                <person xml:id="SymeonStyliteElder">
+                    <persName xml:lang="grc">Συμεών ὁ Στυλίτης</persName>
+                    <persName xml:lang="en">Symeon the Stylite the Elder</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="SymeonStyliteElder" key="Archimandrite">Ἀρχιμανδρίτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="SymeonStyliteElder" key="Archimandrite">Archimandrite</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q119931691</idno>                   
                 </person>
                 
                 <person xml:id="Terentios">
