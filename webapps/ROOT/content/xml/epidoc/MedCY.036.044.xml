@@ -35,12 +35,12 @@
                                 <layout>On either side of the figure's head</layout>
                             </layoutDesc>
                         </objectDesc>
-                        <handDesc>
+                        <handDesc>0
                              <handNote>White majuscule letters against green background. Character size varies. Mu with its middle bar forming a tau. Omicron with a round bowl, attached to a sigma with a tail. OY and OC joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">4</height> 
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#SymeonStylitesYounger">Symeon the Stylites Younger</rs>
+                            <p><rs type="iconography" ref="#SymeonStylitesYounger">Symeon the Stylite the Younger</rs>
                             <rs type="iconography" ref="#stylite"/>
                             <rs type="iconography" ref="#male"/></p>
                         </decoDesc>
