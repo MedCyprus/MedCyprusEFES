@@ -1355,8 +1355,6 @@
                     <persName xml:lang="en">Symeon the Stylite the Younger</persName>
                     <persName xml:lang="grc" type="epithet" subtype="SymeonStyliteYounger" key="Thaumatourgos">Θαυματουργός</persName>
                     <persName xml:lang="en" type="epithet" subtype="SymeonStyliteYounger" key="Thaumatourgos">Thaumatourgos / Wonderworker</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="SymeonStyliteYounger" key="Stylites">Στυλίτης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="SymeonStyliteYounger" key="Stylites">Stylite</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2742399</idno>                   
                 </person>
                 
@@ -1365,6 +1363,8 @@
                     <persName xml:lang="en">Symeon the Stylite the Elder</persName>
                     <persName xml:lang="grc" type="epithet" subtype="SymeonStyliteElder" key="Archimandrite">Ἀρχιμανδρίτης</persName>
                     <persName xml:lang="en" type="epithet" subtype="SymeonStyliteElder" key="Archimandrite">Archimandrite</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="SymeonStyliteElder" key="Stylites">Στυλίτης</persName>
+                    <persName xml:lang="en" type="epithet" subtype="SymeonStyliteElder" key="Stylites">Stylite</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q119931691</idno>                   
                 </person>
                 
