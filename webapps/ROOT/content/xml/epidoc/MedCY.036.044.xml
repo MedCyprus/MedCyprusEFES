@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Symeon Stylites the Younger</title>
+                <title>Saint Symeon the Stylite the Younger</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="dk">Dora Konstantellou</editor>
@@ -40,7 +40,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#SymeonStylitesYounger">Symeon Stylites the Younger</rs>
+                            <p><rs type="iconography" ref="#SymeonStylitesYounger">Symeon the Stylites Younger</rs>
                             <rs type="iconography" ref="#stylite"/>
                             <rs type="iconography" ref="#male"/></p>
                         </decoDesc>
@@ -76,10 +76,10 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                     <cb n="a"/>
-                  <lb n="1"/>Ὁ <persName type="sacred" key="SymeonMiracleWorkerYounger"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>
+                  <lb n="1"/>Ὁ <persName type="sacred" key="SymeonStyliteYounger"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>
                   <lb n="2"/><name type="forename" nymRef="#Συμεών">Συ<supplied reason="lost">μεών</supplied></name>
                  <cb n="b"/>
-                  <lb n="1"/>Ὁ <addName type="epithet" key="Miracle-worker">Θαυ
+                  <lb n="1"/>Ὁ <addName type="epithet" key="Thaumatourgos">Θαυ
                   <lb n="2" break="no"/>μα
                   <lb n="3" break="no"/>τ<hi rend="ligature">ο<choice><orig>ῦ</orig><reg>υ</reg></choice></hi>ρ
                   <lb n="4" break="no"/>γ<hi rend="ligature"><choice><orig>o</orig><reg>ό</reg></choice>ς</hi></addName></persName>
@@ -89,10 +89,10 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Saint Symeon the Miracle-Worker</p>
+                <p>Saint Symeon the Wonderworker</p>
             </div>
             <div type="commentary">
-                <p>PENDING. Note: A special reference should be made to the epithets Θαυματουργός and Αρχιμανδρίτης in this church throught the publication of Nicolaides</p>
+                <p>For the epithet Θαυματουργός assigned to the younger Saint Symeon, see <ptr target="#Nicolaïdès1996"/>, 26</p>
             </div>
             <div type="bibliography">
                  <listBibl>
