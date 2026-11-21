@@ -853,9 +853,12 @@
                 </item>
                 <item xml:id="TheodoreSanctified">
                     <term xml:lang="en">Theodore the Sanctified</term>
-                </item>
+                </item>                
                 <item xml:id="TheodoreStratelates">
                     <term xml:lang="en">Theodore Stratelates</term>
+                </item>
+                <item xml:id="TheodoreTiro">
+                    <term xml:lang="en">Theodore Tiro</term>
                 </item>
                 <item xml:id="Theodosios">
                     <term xml:lang="en">Theodosios</term>
