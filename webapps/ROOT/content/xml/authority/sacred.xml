@@ -1431,7 +1431,7 @@
                     <persName xml:lang="grc">Θεόδωρος ὁ Ἡγιασμένος</persName>
                     <persName xml:lang="en">Theodore the Sanctified</persName>
                     <persName xml:lang="grc" type="epithet" subtype="TheodoreSanctified" key="the Sanctified">Ἡγιασμένος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="TheodoreSanctified" key="the Sanctified">Hegiasmenons / Sanctified</persName>
+                    <persName xml:lang="en" type="epithet" subtype="TheodoreSanctified" key="the Sanctified">Hegiasmenos / Sanctified</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q770191</idno>                   
                 </person>
                 
@@ -1478,14 +1478,9 @@
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Arakiotissa">Arakiotissa / of Arakas</persName>
                     <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Despoina">Δέσποινα </persName>
                     <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Despoina">Despoina / Our Lady</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Kecharitomene">Κεχαριτωμένη</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Kecharitomene">Kecharitomene / Full of grace</persName>
                     <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Hyperagia">Ὑπεραγία</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Hyperagia">Hyperagia / Most holy</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Theotokos" key="Theotokos">Θεοτόκος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Theotokos">Theotokos</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Theotokos" key="Hyperagia">Hyperagia / Most Holy</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q208542</idno>
-                    <note>See also: Mother of God, Virgin, Maria</note>
                 </person>
                 
                 <person xml:id="Timotheos">
@@ -1512,7 +1507,7 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q3991188</idno>                   
                 </person>
                 
-                <person xml:id="TrueCross">
+                <!--<person xml:id="TrueCross">
                     <persName xml:lang="grc">Τίμιος Σταυρός</persName>
                     <persName xml:lang="en">True Cross</persName>
                     <persName xml:lang="grc" type="epithet" subtype="TrueCross" key="worshipful">προσκυνητός</persName>
@@ -1525,10 +1520,9 @@
                     <persName xml:lang="en">Holy Trinity</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q37090</idno>
                 </person>
-                
                 <person sameAs="#JesusChrist"><persName xml:lang="grc">Λόγος</persName>
                     <persName xml:lang="en">Word of God</persName>
-                </person>
+                </person>-->
                 
                 <person xml:id="Tryphon">
                     <persName xml:lang="grc">Τρύφων</persName>
@@ -1564,7 +1558,7 @@
                 
                 <person xml:id="Virgin">
                     <persName xml:lang="grc">Παρθένος</persName>
-                    <persName xml:lang="en">Virgin</persName>
+                    <persName xml:lang="en">Virgin, the</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q345</idno>
                     <note>See also: Mother of God, Theotokos, Maria</note>
                 </person>
@@ -1577,7 +1571,7 @@
                 
                 <person xml:id="Zacharias">
                     <persName xml:lang="grc">Ζαχαρίας</persName>
-                    <persName xml:lang="en">Zacharias</persName>                   
+                    <persName xml:lang="en">Zacharias, high priest</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q139464</idno>
                     <note>for the priest/prophet/father of John the Forurunner</note>                
                 </person>
