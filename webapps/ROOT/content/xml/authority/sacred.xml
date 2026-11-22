@@ -496,7 +496,7 @@
                     <persName xml:lang="grc"><seg>οἱ ἅγιοι</seg> Τεσσαράκοντα</persName>
                     <persName xml:lang="en">Forty Martyrs of Sebasteia</persName>
                     <persName xml:lang="grc" type="epithet" subtype="FortyMartyrs" key="kallinikos">Καλλίνικος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="FortyMartyrs" key="kallinikos">Kallinikos / gloriously triumphant</persName>
+                    <persName xml:lang="en" type="epithet" subtype="FortyMartyrs" key="kallinikos">Kallinikos / Gloriously triumphant</persName>
                     <persName xml:lang="grc" type="epithet" subtype="FortyMartyrs" key="ofSebasteia">Σεβαστείας</persName>
                     <persName xml:lang="en" type="epithet" subtype="FortyMartyrs" key="ofSebasteia">Sebasteia, of</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q931446</idno>
@@ -526,7 +526,7 @@
                     <persName xml:lang="grc" type="epithet" subtype="George" key="Cappadocian">Καππαδόξ</persName>
                     <persName xml:lang="en" type="epithet" subtype="George" key="Cappadocian">Cappadocian</persName>
                     <persName xml:lang="grc" type="epithet" subtype="George" key="kosmopothetos">Kοσμοπόθητος</persName>
-                    <persName xml:lang="en" type="epithet" subtype="George" key="kosmopothetos">Kosmopothetos / beloved by the world</persName>
+                    <persName xml:lang="en" type="epithet" subtype="George" key="kosmopothetos">Kosmopothetos / Beloved by the world</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q48438</idno>                   
                 </person>
                 
