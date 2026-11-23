@@ -11,7 +11,7 @@
   <!-- XSLT to convert index metadata and index Solr results into
        HTML. This is the common functionality for both TEI and EpiDoc
        indices. It should be imported by the specific XSLT for the
-       document type (eg, indices-epidoc.xsl). -->
+       document type (eg, indices-epidoc.xsl). change to trigger update-->
 
   <xsl:import href="to-html.xsl" />
 
@@ -362,7 +362,7 @@
         </xsl:if>
 
     </td>
-  </xsl:template>
+  </xsl:template>    
   
   <xsl:template match="str[@name=('index_surname', 'index_honorific', 'index_secular_office', 'index_dignity', 'index_ecclesiastical_office', 'index_ecclesiastical_status', 'index_occupation', 'index_relation', 'index_inscription_date', 'index_item_role', 'index_numeral_value', 'index_id')]"> <!-- removed index_item_type -->
     <td>

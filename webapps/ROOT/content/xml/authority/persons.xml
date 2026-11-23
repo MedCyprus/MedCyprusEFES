@@ -97,8 +97,8 @@
                         <persName xml:lang="en"><forename>Georgios</forename></persName>
                         <persName xml:lang="grc"><forename>Γεώργιος</forename></persName>
                          <floruit notBefore="1100" notAfter="1200">12th century</floruit>
-                        <occupation type="status_ecclesiastical" xml:lang="en">priest</occupation>
-                        <occupation type="status_ecclesiastical" xml:lang="grc">ἱερεύς</occupation>
+                        <occupation type="status-ecclesiastical" xml:lang="en">priest</occupation>
+                        <occupation type="status-ecclesiastical" xml:lang="grc">ἱερεύς</occupation>
                         <note>Responsible for the restoration and decoration with wall-paintings of the church of the Holy Cross, Pelendri, along with his fellow priests (1177/8)</note>
                     </person>
                     <relation active="#Georgios_1" ref="snap:coDonorWith" passive="#priests_anonymous">
@@ -252,8 +252,8 @@
                         <persName xml:lang="en"><forename>Priests</forename></persName>
                         <persName xml:lang="grc"><forename>ἱερεῖς</forename></persName>
                         <floruit notBefore="1100" notAfter="1200">12th century</floruit>
-                        <occupation type="status_ecclesiastical" xml:lang="en">priest</occupation>
-                        <occupation type="status_ecclesiastical" xml:lang="grc">ἱερεύς</occupation>
+                        <occupation type="status-ecclesiastical" xml:lang="en">priest</occupation>
+                        <occupation type="status-ecclesiastical" xml:lang="grc">ἱερεύς</occupation>
                         <note>Anonymous priests of the village of Pelendri, responsible for the restoration and decoration with murals of the local church of the Holy Cross, along with the priest Georgios (1177/8)</note>
                     </person>
                     <relation active="#priests_anonymous" ref="snap:coDonorWith" passive="#Georgios_1">
@@ -265,8 +265,8 @@
                         <persName xml:lang="grc"><forename>...ος</forename> <surname>Μονομάχος(?)</surname></persName>
                         <floruit notBefore="1100" notAfter="1200">12th century</floruit>                        
                         <occupation type="occupation" xml:lang="en">painter</occupation>
-                        <occupation type="status_ecclesiastical" xml:lang="en">monk(?)</occupation>
-                        <occupation type="status_ecclesiastical" xml:lang="grc">μοναχός(?)</occupation>
+                        <occupation type="status-ecclesiastical" xml:lang="en">monk(?)</occupation>
+                        <occupation type="status-ecclesiastical" xml:lang="grc">μοναχός(?)</occupation>
                         <note>Painter of the 1177/8 murals of the church of the Holy Cross, Pelendri. His personal name is not preserved, while the surviving designation that accompanies it may be read either as 'Μον(ο)μάχος' (Monomachos) or as 'μον{μ}αχός' (monk)</note>                        
                     </person>
                     
