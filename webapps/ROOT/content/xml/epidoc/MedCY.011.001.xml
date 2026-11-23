@@ -84,7 +84,7 @@
                    <lb n="4" break="no"/>ο<supplied reason="lost">ς</supplied></w>
                   <cb n="b"/>
                     <lb n="1"/><name type="forename" nymRef="#Γεώργιος">Γεώργιος</name>     
-                  <lb n="2"/><choice><orig>o</orig><reg>ὁ</reg></choice> <addName type="epithet" subtype="kosmopothetos">Κοσμοπ<choice><orig>o</orig><reg>ό</reg></choice>θη
+                  <lb n="2"/><choice><orig>o</orig><reg>ὁ</reg></choice> <addName type="epithet" key="kosmopothetos">Κοσμοπ<choice><orig>o</orig><reg>ό</reg></choice>θη
                    <lb n="3" break="no"/><space quantity="12" unit="character"/>τος</addName></persName>  
                  </ab>
             </div>

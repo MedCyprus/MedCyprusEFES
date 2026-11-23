@@ -831,11 +831,10 @@
                     <term xml:lang="en">Supplicant(MedCY047)</term>
                 </item>-->
                 <item xml:id="SymeonStylitesElder">
-                    <term xml:lang="en">Symeon Stylites the Elder</term>
+                    <term xml:lang="en">Symeon the Stylite the Elder</term>
                 </item>
                 <item xml:id="SymeonStylitesYounger">
-                    <term xml:lang="en">Symeon Stylites the Younger</term>
-                    <note>the Miracle-Worker</note>
+                    <term xml:lang="en">Symeon the Stylite the Younger</term>
                 </item>
                 <item xml:id="SymeonTheodochos">
                     <term xml:lang="en">Symeon Theodochos</term>
@@ -854,9 +853,12 @@
                 </item>
                 <item xml:id="TheodoreSanctified">
                     <term xml:lang="en">Theodore the Sanctified</term>
-                </item>
+                </item>                
                 <item xml:id="TheodoreStratelates">
                     <term xml:lang="en">Theodore Stratelates</term>
+                </item>
+                <item xml:id="TheodoreTiro">
+                    <term xml:lang="en">Theodore Tiro</term>
                 </item>
                 <item xml:id="Theodosios">
                     <term xml:lang="en">Theodosios</term>
@@ -864,11 +866,17 @@
                 <item xml:id="TheodosiosCenobiarch">
                     <term xml:lang="en">Theodosios the Cenobiarch</term>
                 </item>
+                <item xml:id="TheodosiosOfSkopelos">
+                    <term xml:lang="en">Theodosios of Skopelos</term>
+                </item>
                 <item xml:id="Theodotos">
                     <term xml:lang="en">Theodotos</term>
                 </item>
                 <item xml:id="TheophanesPoet">
                     <term xml:lang="en">Theophanes the Poet</term>
+                </item> 
+                <item xml:id="TheosebiosArsinoites">
+                    <term xml:lang="en">Theosebios Arsinoites</term>
                 </item>
                 <item xml:id="Therapon">
                     <term xml:lang="en">Therapon</term>

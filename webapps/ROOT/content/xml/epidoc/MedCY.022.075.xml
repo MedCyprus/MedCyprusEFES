@@ -77,7 +77,7 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                     <cb n="a"/>
-                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Herakleidios"><w lemma="ἅγιος"><choice><orig>Α</orig><reg>ἅ</reg></choice>γιος</w> <name nymRef="#Ἡρακλείδιος" type="forename"><choice><sic><hi rend="ligature"><choice><orig>H</orig><reg>Ἡ</reg></choice>ρ</hi>α 
+                  <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Herakleidios"><w lemma="ἅγιος"><choice><orig>Α</orig><reg>ἅ</reg></choice>γιος</w> <name nymRef="#Ἡρακλείδιος" type="forename"><choice><sic><hi rend="ligature"><choice><orig>Η</orig><reg>Ἡ</reg></choice>ρ</hi>α 
                       <lb n="2" break="no"/>
                       <cb n="b"/>
                       <lb n="1"/>κλ<choice><orig>ı</orig><reg>ί</reg></choice>δηος</sic><corr>Ἡρακλείδιος</corr></choice></name></persName></ab>

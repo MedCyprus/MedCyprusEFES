@@ -72,7 +72,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><persName type="sacred" key="SymeonArchimandrite"><name type="forename" nymRef="#Συμεών">Σ<supplied reason="lost">υμεών</supplied></name></persName>
+                   <lb n="1"/><persName type="sacred" key="SymeonGodReceiver"><name type="forename" nymRef="#Συμεών">Σ<supplied reason="lost">υμεών</supplied></name></persName>
                  </ab>
             </div>
             <div type="apparatus">

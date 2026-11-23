@@ -75,18 +75,18 @@
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
                    <cb n="a"/> 
-               <lb n="1"/>Ὁ <persName type="sacred" key="Theodosios"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
+               <lb n="1"/>Ὁ <persName type="sacred" key="TheodosiosOfSkopelos"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
                <lb n="2"/><name type="forename" nymRef="#Θεοδόσιος">Θε
                <lb n="3" break="no"/>ο
                 <lb n="4" break="no"/>δό
                 <lb n="5" break="no"/>σι
                 <lb n="6" break="no"/>ος</name>
                 <cb n="b"/>   
-                  <lb n="1"/><choice><orig>ο</orig><reg>ὁ</reg></choice>
+                  <lb n="1"/><addName type="epithet" key="ofSkopelos"><choice><orig>ο</orig><reg>ὁ</reg></choice>
                    <lb n="2"/>ἐν
                   <lb n="3"/>τῶ
                    <lb n="4"/><placeName ref="mentioned_places.xml#Skopelos">Σκο
-                   <lb n="5" break="no"/><supplied reason="lost">πέλῳ</supplied></placeName></persName>
+                   <lb n="5" break="no"/><supplied reason="lost">πέλῳ</supplied></placeName></addName></persName>
                  </ab>
             </div>
             <div type="apparatus">

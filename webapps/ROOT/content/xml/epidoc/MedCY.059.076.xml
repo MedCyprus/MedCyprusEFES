@@ -71,14 +71,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
                 <ab>
-                    PENDING                      
+                    <num value="10"><hi rend="supraline">Ι</hi></num>                      
                  </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Iota</p>
+                <p>Ten</p>
             </div>
             <div type="commentary">
                 <p>PENDING</p>

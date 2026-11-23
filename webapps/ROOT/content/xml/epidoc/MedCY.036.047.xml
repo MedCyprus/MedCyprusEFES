@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Saint Symeon Stylites the Elder</title>
+                <title>Saint Symeon the Stylite the Elder</title>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
@@ -40,7 +40,7 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#SymeonStylitesElder">Symeon Stylites the Elder</rs>
+                            <p><rs type="iconography" ref="#SymeonStylitesElder">Symeon the Stylite the Elder</rs>
                             <rs type="iconography" ref="#stylite"/>
                             <rs type="iconography" ref="#male"/></p>
                         </decoDesc>
@@ -75,7 +75,7 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                    <lb n="1"/>Ὁ <persName type="sacred" key="SymeonArchimandrite"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>
+                    <lb n="1"/>Ὁ <persName type="sacred" key="SymeonStyliteElder"><w lemma="ἅγιος"><expan><abbr rend="supraline">ἅγ</abbr><ex>ιος</ex></expan></w>
                   <lb n="2"/><name type="forename" nymRef="#Συμεών">Συμε  
                   <lb n="3" break="no"/><choice><orig>ῶ</orig><reg>ώ</reg></choice>ν</name>
                   <lb n="4"/>Ὁ
@@ -86,10 +86,10 @@
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Symeon the Archimandrite</p>
+                <p>Saint Symeon the Archimandrite</p>
             </div>
             <div type="commentary">
-                <p>PENDING. Note: A special reference should be made to the epithets Θαυματουργός and Αρχιμανδρίτης in this church throught the publication of Nicolaides</p>
+                <p>For the epithet Άρχιμανδρίτης assigned to the elder Saint Symeon, see <ptr target="#Nicolaïdès1996"/>, 25-26.</p>
             </div>
             <div type="bibliography">
                  <listBibl>

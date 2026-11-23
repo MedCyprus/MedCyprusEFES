@@ -74,14 +74,14 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   <lb n="1"/><g ref="#cross">+</g>Ἡ <persName type="sacred" key="BiblicalMagi"><w lemma="μάγος">Μάγοι</w></persName>
+                   <lb n="1"/><g ref="#cross">+</g><choice><sic>Ἡ</sic><corr>Οἱ</corr></choice> <persName type="sacred" key="BiblicalMagi"><w lemma="μάγος">Μάγοι</w></persName>
                 </ab>
             </div>
             <div type="apparatus">
                <p>PENDING</p>
             </div>
             <div type="translation">
-                <p>Magi</p>
+                <p>The Magi</p>
             </div>
             <div type="commentary">
                 <p>No comment</p>
