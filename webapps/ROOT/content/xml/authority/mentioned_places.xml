@@ -87,13 +87,13 @@
                 <place xml:id="Myra">
                     <placeName xml:lang="grc">Μύρα</placeName>
                     <placeName xml:lang="en">Myra</placeName>
-                    <idno type="cyprusgazetteer">https://pleiades.stoa.org/places/639005/</idno>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/639005/</idno>
                 </place>
                 
                 <place xml:id="Nitria">
                     <placeName xml:lang="grc">Νιτρία</placeName>
                     <placeName xml:lang="en">Nitria</placeName>
-                    <idno type="cyprusgazetteer">https://pleiades.stoa.org/places/727176/</idno>
+                    <idno type="pleiades">https://pleiades.stoa.org/places/727176/</idno>
                 </place>
                 
                 <place xml:id="Pelendri">
