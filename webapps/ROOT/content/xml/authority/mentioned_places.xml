@@ -42,11 +42,11 @@
                     <idno type="pleiades">https://pleiades.stoa.org/places/658381</idno>
                 </place>
                 
-                <place xml:id="Arsinoe">
+               <!--<place xml:id="Arsinoe">
                     <placeName xml:lang="grc">Ἀρσινόη</placeName>
                     <placeName xml:lang="en">Arsinoe</placeName>
                     <idno type="pleiades">https://pleiades.stoa.org/places/707483</idno>
-                </place>
+                </place>-->
                 
                 <place xml:id="Cappadocia">
                     <placeName xml:lang="grc">Καππαδοκία</placeName>
