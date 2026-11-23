@@ -1383,8 +1383,6 @@
                 <person xml:id="TheosebiosArsinoites">
                     <persName xml:lang="grc">Θεοσέβιος</persName>
                     <persName xml:lang="en">Theosebios</persName> 
-                    <persName xml:lang="grc" type="epithet" subtype="TheosebiosArsinoites" key="Arsinoites">Ἀρσινοΐτης</persName>
-                    <persName xml:lang="en" type="epithet" subtype="TheosebiosArsinoites" key="Arsinoites">Arsinoites / of Arsinoe</persName>
                     <idno type="wikidata">Not listed</idno>                   
                 </person>
                 
