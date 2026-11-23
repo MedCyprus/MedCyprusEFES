@@ -4,7 +4,7 @@
             <titleStmt>
                 <title>Saint John the Forerunner</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
-                 <editor xml:id="ds">Deniz Sever Georgousakis</editor>
+                <editor xml:id="ds">Deniz Sever Georgousakis</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
                 <editor xml:id="mgp"> Maria G. Parani</editor>
             </titleStmt>
@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING.
+                            <handNote>White majuscule letters against blue background.
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -46,12 +46,12 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace ref="locations.xml#Steni" n="1st">Steni, Panagia Chrysolakourna</origPlace>
-                            <origDate notBefore="1101" notAfter="1200" precision="medium" evidence="artistic-style">12th century</origDate>
+                            <origPlace ref="locations.xml#Steni" n="2nd">Steni, Panagia Chrysolakourna</origPlace>
+                            <origDate notBefore="1101" notAfter="1300" precision="medium" evidence="artistic-style"> 12th or 13th century</origDate>
                         </origin>
                         <provenance when="2022">
                         </provenance>    
-                        <provenance type="observed" resp="#tp">26/08/2022</provenance>
+                        <provenance type="observed" resp="#tp">24/08/2022</provenance>
                     </history>
                 </msDesc>
             </sourceDesc>
@@ -62,31 +62,43 @@
                     <term type="textType" key="doc5" ref="https://ontology.inscriptiones.org/type_of_inscription/Description">caption</term>
                 </keywords>
             </textClass>
-            <creation>transcription (Th. Petrou)</creation>
+            <creation>transcription (Th. Petrou), archival photos (Archbishopric of Cyprus, Athanasios Papageorgiou Photographic Archive)</creation>
         </profileDesc>
     </teiHeader>
     <facsimile>
-        <graphic url="..."/>
-    </facsimile>
+         <graphic rend="primary" url="056-001-01.jpg"><desc>(© Archbishopric of Cyprus, Athanasios Papageorgiou Photographic Archive)</desc></graphic>
+         <graphic url="056-001-02.jpg"><desc>(© Archbishopric of Cyprus, Athanasios Papageorgiou Photographic Archive)</desc></graphic>
+         <graphic url="056-001-03.jpg"><desc>(© Archbishopric of Cyprus, Athanasios Papageorgiou Photographic Archive)</desc></graphic> 
+   </facsimile>
     <text>
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                    <cb n="a"/>
+                    <lb n="1"/><supplied reason="lost">Ὁ</supplied>         
+                     <lb n="2"/><persName type="sacred" key="JohnForerunner"><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
+                    <lb n="3" break="no"/><supplied reason="lost">γι</supplied>
+                    <lb n="4" break="no"/><supplied reason="lost">ο</supplied>
+                    <lb n="5" break="no"/><supplied reason="lost">ς</supplied></w> 
+                    <lb n="6"/>
+                    <lb n="7"/><supplied reason="lost"><name type="forename" nymRef="#Ἰωάννης"><expan><abbr>Ἰω</abbr><ex>άννης</ex></expan></name></supplied>
+                     <cb n="b"/>
+                      <lb n="1"/><addName type="epithet" key="Forerunner"><supplied reason="lost">ὁ</supplied> Πρ<supplied reason="lost">όδρομος</supplied>
+                      </addName></persName> 
                  </ab>
             </div>
             <div type="apparatus">
-               <p>PENDING</p>
+               <p>n/a</p>
             </div>
             <div type="translation">
-                <p>PENDING</p>
+                <p>[Saint John] the Forerunner</p>
             </div>
             <div type="commentary">
-                <p>PENDING</p>
+                <p>No comment</p>
             </div>
             <div type="bibliography">
                  <listBibl>
-                <bibl>PENDING</bibl>
+                <bibl>Unpublished</bibl>
                 </listBibl>
                 <p>bibliography of previous editions, discussion, etc.</p>
             </div>

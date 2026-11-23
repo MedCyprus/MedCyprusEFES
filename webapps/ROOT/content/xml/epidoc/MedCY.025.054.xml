@@ -66,11 +66,11 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="025-054-01.JPG"><desc>Saint John the Forerunner, inscription</desc></graphic>
-         <graphic url="025-054-02.JPG"><desc>Saint John the Forerunner, inscription detail</desc></graphic>
-         <graphic url="025-054-03.JPG"><desc>Saint John the Forerunner, inscription detail</desc></graphic>
-         <graphic url="025-054-04.JPG"><desc>Saint John the Forerunner</desc></graphic>
-         <graphic url="025-054-05.JPG"><desc>Saint John the Forerunner, general view</desc></graphic>
+         <graphic rend="primary" url="025-054-01.JPG"><desc></desc></graphic>
+         <graphic url="025-054-02.JPG"><desc></desc></graphic>
+         <graphic url="025-054-03.JPG"><desc></desc></graphic>
+         <graphic url="025-054-04.JPG"><desc></desc></graphic>
+         <graphic url="025-054-05.JPG"><desc></desc></graphic>
              </facsimile>
     <text>
         <body>
@@ -84,7 +84,7 @@
                     <lb n="5" break="no"/>ς</w> 
                      <cb n="b"/>
                       <lb n="1"/><supplied reason="lost"><name type="forename" nymRef="#Ἰωάννης">Ἰωάννης</name></supplied>
-                      <lb n="2"/><addName type="epithet" key="Forerunner">Π<supplied reason="lost">ρόδρομος</supplied>
+                      <lb n="2"/><supplied reason="lost">ὁ </supplied><addName type="epithet" key="Forerunner">Π<supplied reason="lost">ρόδρομος</supplied>
                       </addName></persName> 
                  </ab>
             </div>
