@@ -2491,7 +2491,7 @@
 			'c' : '\u00e7\u0107\u010d', // çćč
 			'C' : '\u00c7\u0106\u010c', // ÇĆČ
 			'e' : '\u00e9\u00e8\u00ea\u00eb\u011b\u0119', // éèêëěę
-			'E' : '\u00c9\u00c8\u00ca\u00cb\u011a\u0118', // ÉÈÊËĚĘ
+			'E' : '\u00c9\u00c8\u00ca\u00cb\u011a\u0118\u0386\u1f08\u1F09\u1f0c\u0391\u0313', // ÉÈÊËĚĘ
 			'i' : '\u00ed\u00ec\u0130\u00ee\u00ef\u0131', // íìİîïı
 			'I' : '\u00cd\u00cc\u0130\u00ce\u00cf', // ÍÌİÎÏ
 			'o' : '\u00f3\u00f2\u00f4\u00f5\u00f6\u014d', // óòôõöō
@@ -2499,9 +2499,9 @@
 			'ss': '\u00df', // ß (s sharp)
 			'SS': '\u1e9e', // ẞ (Capital sharp s)
 			'u' : '\u00fa\u00f9\u00fb\u00fc\u016f', // úùûüů
-			'U' : '\u00da\u00d9\u00db\u00dc\u016e', // ÚÙÛÜŮ 
-			'Α' : '\u1f08\u1F09\u1f0c' //  Ἀ
+			'U' : '\u00da\u00d9\u00db\u00dc\u016e' // ÚÙÛÜŮ 
 		},
+// \u0386\u1f08\u1F09\u1f0c\u0391\u0313 //
 
 		replaceAccents : function( str ) {
 			var chr,

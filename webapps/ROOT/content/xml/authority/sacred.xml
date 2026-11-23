@@ -22,7 +22,7 @@
                 
                <person xml:id="Abibos">
                     <persName xml:lang="grc">Ἄβιβος</persName>
-                    <persName xml:lang="en">Abibos</persName>                   
+                   <persName xml:lang="en">Abibos</persName>                   
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q3125328</idno>                   
                 </person>
                 
@@ -220,7 +220,7 @@
                     <persName xml:lang="en" type="epithet" subtype="AthanasiosPentaschoinites" key="Pentaschoinites">Pentaschoinites / of Pentaschoino</persName>
                     <persName xml:lang="grc" type="epithet" subtype="AthanasiosPentaschoinites" key="Pentaschoinos">Πεντάσχοινος</persName>
                     <persName xml:lang="en" type="epithet" subtype="AthanasiosPentaschoinites" key="Pentaschoinos">Pentaschoinos / of Pentaschoino</persName>
-                    <idno type="wikidata">Not listed</idno>                   
+                    <idno type="wikidata">Not listed</idno>  
                 </person>
                 
                 <person xml:id="Auxentios">
