@@ -80,11 +80,11 @@
                     <lb n="4" break="no"/><hi rend="ligature">ος</hi></w> 
                     <cb n="b"/>
                     <lb n="1"/><name type="forename" nymRef="#Θεοσέβιος"><choice><sic><supplied reason="lost">Θ</supplied>
-                    <lb n="2"/>Ε
-                    <lb n="3"/>Ο 
-                    <lb n="4"/>Σ
-                    <lb n="4"/>Ε <supplied reason="lost"><del rend="erasure">Φ</del></supplied>
-                    <lb n="4"/>ΒΗΟ<supplied reason="lost">Σ</supplied></sic><corr>Θεοσέβιος</corr></choice></name></persName> 
+                    <lb n="2"/>ε
+                    <lb n="3"/>ο 
+                    <lb n="4"/>σ<del rend="overwritten"><unclear>έ</unclear></del>
+                    <lb n="4"/><del rend="erasure"><unclear>ο</unclear></del><supplied reason="lost"><del rend="erasure">φ</del></supplied>
+                    <lb n="4"/>βηο<supplied reason="lost">ς</supplied></sic><corr>Θεοσέβιος</corr></choice></name></persName> 
                  </ab>
             </div>
             <div type="apparatus">
