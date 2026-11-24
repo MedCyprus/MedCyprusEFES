@@ -890,6 +890,18 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q378732</idno>                   
                 </person>
                 
+                <person xml:id="Lord">
+                    <persName xml:lang="grc">Κύριος</persName>
+                    <persName xml:lang="en">Lord, the (God)</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q190</idno> 
+                </person>
+                
+                <person xml:id="LordChrist">
+                    <persName xml:lang="grc">Κύριος</persName>
+                    <persName xml:lang="en">Lord, Christ the</persName>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q302</idno> 
+                </person>
+                
                 <person xml:id="LordOfHosts">
                     <persName xml:lang="grc">Κύριος Σαβαώθ</persName>
                     <persName xml:lang="en">Lord of Hosts</persName>
