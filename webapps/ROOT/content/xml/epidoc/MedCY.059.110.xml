@@ -44,6 +44,8 @@
                                 <rs type="iconography" ref="#male"/>
                                 <rs type="iconography" ref="#VirginGlykophilousa">Virgin Glykophilousa</rs>
                                 <rs type="iconography" ref="#Virgin"/> 
+                                <rs type="iconography" ref="#ChristChild"/>
+                                <rs type="iconography" ref="#Christ"/>
                                 <rs type="iconography" ref="#icon"/>
                             </p>
                         </decoDesc>
@@ -70,9 +72,8 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="059-110-01.JPG"><desc>Saint Stephen the Younger's icon, Virgin, inscription detail</desc></graphic>
-        <graphic url="059-110-02.JPG"><desc>Saint Stephen the Younger's icon, Virgin, inscription</desc></graphic>
-        <graphic url="059-110-03.JPG"><desc>Saint Stephen the Younger's icon, Virgin, general view</desc></graphic>
+         <graphic rend="primary" url="059-110-01.JPG"><desc></desc></graphic>
+        <graphic url="059-110-02.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>

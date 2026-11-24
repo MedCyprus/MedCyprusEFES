@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Christ Emmanuel</title>
+                <title>Christ</title>
                 <editor xml:id="tp">Theocharis Petrou</editor>
                 <editor xml:id="dk">Dora Konstantellou</editor>
                 <editor xml:id="mx">Maria Xenaki</editor>
@@ -40,7 +40,8 @@
                         </handDesc>
                          <decoDesc>
                             <p><rs type="iconography" ref="#ChristChild">Christ Child</rs>
-                                <rs type="iconography" ref="#VirginBlachernitissa"/>   
+                                <rs type="iconography" ref="#VirginBlachernitissa"/>  
+                                <rs type="iconography" ref="#Christ"/> 
                                 <rs type="iconography" ref="#male"/>
                                 <rs type="iconography" ref="#divine"/></p>
                         </decoDesc>
@@ -68,7 +69,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="044-107-01.JPG"><desc>Christ Emmanuel, inscription</desc></graphic>        
+         <graphic rend="primary" url="044-107-01.JPG"><desc></desc></graphic>        
     </facsimile>
     <text>
         <body>

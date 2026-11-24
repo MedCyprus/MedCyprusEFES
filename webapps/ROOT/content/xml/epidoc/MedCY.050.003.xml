@@ -40,6 +40,7 @@
                          <decoDesc>
                             <p><rs type="iconography" ref="#VirginHodegetria">Virgin Hodegetria</rs>
                                   <rs type="iconography" ref="#ChristChild"/>
+                                  <rs type="iconography" ref="#Christ"/>
                                   <rs type="iconography" ref="#female"/>
                             </p>
                         </decoDesc>
@@ -77,7 +78,7 @@
                   <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline"><supplied reason="lost">Μ</supplied><choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
                     <milestone unit="column"/><w lemma="θεός"><expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><unclear>ῦ</unclear></abbr></expan></w></persName> 
                   <cb n="a"/>
-                  <lb n="1"/><addName type="epithet" key="Hodegetria"><unclear>Ἡ</unclear>
+                  <lb n="1"/><addName type="epithet" key="Hodegetria"><unclear>ἡ</unclear>
                   <lb n="2"/><supplied reason="lost">Ὁ</supplied>
                   <lb n="3" break="no"/>δη
                   <lb n="4" break="no"/>

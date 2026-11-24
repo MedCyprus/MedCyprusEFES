@@ -41,8 +41,7 @@
                             <p><rs type="iconography" ref="#VirginOrans">Virgin Orans, with the Christ Child before her chest.</rs>
                                 <rs type="iconography" ref="#ChristChild"/>                                
                                 <rs type="iconography" ref="#female"/>
-                                <rs type="iconography" ref="#divine"/>
-                                <rs type="iconography" ref="#male"/>
+                                <rs type="iconography" ref="#Christ"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -76,7 +75,7 @@
               <ab>
                     <lb n="1"/><persName type="sacred" key="MeterTheou"><w lemma="μήτηρ"><hi rend="ligature"><expan><abbr rend="supraline">Μ<choice><orig>η</orig><reg>ή</reg></choice></abbr><ex>τη</ex><abbr rend="supraline">ρ</abbr></expan></hi></w>
                     <milestone unit="column"/> <expan><abbr rend="supraline">Θ</abbr><ex>εο</ex><abbr rend="supraline"><choice><orig>υ</orig><reg>ῦ</reg></choice></abbr></expan></persName>       
-                    <lb n="2"/><choice><orig>Η</orig><reg>Ἡ</reg></choice> <addName type="epithet" key="Stazousa">Στά <milestone unit="column" n="right"/>ζ<hi rend="ligature">ου</hi>σα </addName>         
+                    <lb n="2"/><choice><orig>η</orig><reg>ἡ</reg></choice> <addName type="epithet" key="Stazousa">Στά <milestone unit="column" n="right"/>ζ<hi rend="ligature">ου</hi>σα </addName>         
                  </ab>
             </div>
             <div type="apparatus">

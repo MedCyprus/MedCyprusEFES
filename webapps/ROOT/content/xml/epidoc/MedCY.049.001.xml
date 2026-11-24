@@ -39,8 +39,9 @@
                             </handNote>
                         </handDesc>
                         <decoDesc>
-                            <p><rs type="iconography" ref="#VirginBlachernitissa">Virgin Blachernitissa</rs>                 
+                            <p><rs type="iconography" ref="#VirginBlachernitissa">Virgin Blachernitissa</rs>                
                                 <rs type="iconography" ref="#female"/>
+                                <rs type="iconography" ref="#Christ"/>
                                 <rs type="iconography" ref="#ChristChild"/>
                             </p>
                         </decoDesc>
@@ -68,8 +69,7 @@
         </profileDesc>
     </teiHeader>
     <facsimile>
-         <graphic rend="primary" url="049-001-01.JPG"><desc>Virgin, inscription</desc></graphic>
-        <graphic url="049-001-02.JPG"><desc>Virgin, general view</desc></graphic>
+         <graphic rend="primary" url="049-001-01.JPG"><desc></desc></graphic>
     </facsimile>
     <text>
         <body>
