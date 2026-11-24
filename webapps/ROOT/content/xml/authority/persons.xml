@@ -282,8 +282,7 @@
                     <person xml:id="UnidentifiedFemale_1">
                         <persName xml:lang="en"><forename>Unidentified female</forename></persName>
                         <persName xml:lang="grc"><forename>Μ̣α[.]τρ[..]</forename></persName>
-                        <floruit notBefore="1251" notAfter="1300">second half of the 13th century</floruit>                        
-                        <occupation type="occupation" xml:lang="en">supplicant</occupation>
+                        <floruit notBefore="1251" notAfter="1300">second half of the 13th century</floruit> 
                         <note>Supplicant associated with the mural of Christ Evergetes at the church of Saint Herakleidios, Monastery of Saint John Lampadistes, Kalopanagiotes </note>
                     </person>
                     
