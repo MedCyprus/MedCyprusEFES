@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING
+                            <handNote>White majuscule letters against blue background.  
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -87,7 +87,8 @@
                      <lb n="4" break="no"/>β
                       <lb n="5" break="no"/><choice><orig>α</orig><reg>ά</reg></choice>
                      <lb n="6" break="no"/>ρ
-                      <lb n="7" break="no"/>α</name></persName>                
+                      <lb n="7" break="no"/>α</name></persName>    
+                      <lb n="8"/><g ref="#cross">+</g>
                  </ab>
             </div>
             <div type="apparatus">
