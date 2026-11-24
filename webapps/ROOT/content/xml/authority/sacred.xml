@@ -672,6 +672,12 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q44170</idno>                   
                 </person>
                 
+                <person xml:id="IgnatiosYounger">
+                    <persName xml:lang="grc">Ἰγνάτιος ὁ Νέος</persName>
+                    <persName xml:lang="en">Ignatios the Younger</persName>                     
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q359824</idno>                   
+                </person>
+                
                 <person xml:id="Jason">
                     <persName xml:lang="grc">Ἰάσων</persName>
                     <persName xml:lang="en">Jason</persName>                   
