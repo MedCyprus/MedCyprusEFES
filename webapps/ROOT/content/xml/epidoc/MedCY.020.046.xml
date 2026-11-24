@@ -75,14 +75,18 @@
               <ab>
                    <cb n="a"/>
                    <lb n="1"/><supplied reason="lost">Ὁ</supplied>
-                   <lb n="2"/><persName type="sacred" key="SymeonStyliteElder"><w lemma="ἅγιος">&gt;<supplied reason="lost">ἅ</supplied>
+                   <lb n="2"/><persName type="sacred" key="SymeonStyliteElder"><w lemma="ἅγιος"><supplied reason="lost">ἅ</supplied>
                    <lb n="3" break="no"/>γı
-                   <lb n="4" break="no"/>ο
-                   <lb n="5" break="no"/>ς</w>
-                    <cb n="b"/></persName>
-                  
-                  PENDING cannot read it
-                       
+                   <lb n="4" break="no"/>ος</w>
+                   <lb n="5"/><name type="forename" nymRef="#Συμεών">Συμε<supplied reason="lost">ών</supplied></name>
+                    <cb n="b"/>
+                   <lb n="1"/>ὁ
+                  <lb n="2"/><addName type="epithet" key="Stylites"><choice><sic>Σ
+                  <lb n="3" break="no"/><hi rend="ligature">τη</hi>
+                 <lb n="4" break="no"/>λλύ
+                 <lb n="5" break="no"/>τ
+                  <lb n="6" break="no"/>η<supplied reason="lost">ς</supplied></sic><corr>Στυλίτης</corr></choice>
+                  </addName></persName>
                  </ab>
             </div>
             <div type="apparatus">
