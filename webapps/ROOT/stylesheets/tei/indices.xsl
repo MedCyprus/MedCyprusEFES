@@ -169,7 +169,6 @@
       <xsl:apply-templates select="str[@name='index_surname']" />
       <xsl:apply-templates select="str[@name='index_abbreviation_expansion']"/>
       <xsl:apply-templates select="str[@name='index_item_namegrc']"/>
-      <xsl:apply-templates select="str[@name='index_item_namewd']"/>
       <xsl:apply-templates select="str[@name='index_numeral_value']"/>
       <xsl:apply-templates select="arr[@name='language_code']"/>
       <xsl:if test="arr[@name='index_epithet']"> <!-- i.e. displayed only in sacred index -->
@@ -183,6 +182,7 @@
       <xsl:apply-templates select="str[@name='index_dignity']" />
       <xsl:apply-templates select="str[@name='index_ecclesiastical_office']" />
       <xsl:apply-templates select="str[@name='index_ecclesiastical_status']" />
+      <xsl:apply-templates select="str[@name='index_item_namewd']"/>
       
       <xsl:apply-templates select="str[@name='index_occupation']" />
       <xsl:apply-templates select="str[@name='index_relation']" />
@@ -325,15 +325,33 @@
     <td>
       <xsl:choose>
         <xsl:when test="starts-with(.,'http')">
-          <xsl:element name="a">
-            <xsl:attribute name="href"><xsl:value-of select="."/></xsl:attribute>
-            <xsl:attribute name="target">
-              <xsl:text>_blank</xsl:text>
-            </xsl:attribute>
-             <xsl:text>[WD]︎︎</xsl:text>
-          </xsl:element>
+          <xsl:choose>
+            <xsl:when  test="contains(.,';')">
+            <xsl:for-each select="tokenize(.,';')">
+              <xsl:element name="a">
+                <xsl:attribute name="href"><xsl:value-of select="."/></xsl:attribute>
+                <xsl:attribute name="target">
+                  <xsl:text>_blank</xsl:text>
+                </xsl:attribute>
+                <xsl:text>[WD]</xsl:text>
+              </xsl:element>
+              <xsl:if test="position()!=last()">
+                <xsl:text>; </xsl:text>
+              </xsl:if>
+            </xsl:for-each>
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:element name="a">
+                <xsl:attribute name="href"><xsl:value-of select="."/></xsl:attribute>
+                <xsl:attribute name="target">
+                  <xsl:text>_blank</xsl:text>
+                </xsl:attribute>
+                <xsl:text>[WD]</xsl:text>
+              </xsl:element>
+            </xsl:otherwise>
+          </xsl:choose>
         </xsl:when>
-        <xsl:otherwise>
+          <xsl:otherwise>
           <xsl:value-of select="." />
         </xsl:otherwise>
       </xsl:choose>

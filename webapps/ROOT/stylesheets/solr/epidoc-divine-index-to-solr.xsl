@@ -84,9 +84,23 @@
             <xsl:if test="doc-available($divineAL) = fn:true() and $idno/tei:persName[@type='epithet'][@xml:lang='en']">
               <xsl:value-of select="$idno/tei:persName[@type='epithet'][@xml:lang='en']" separator="; "/>
             </xsl:if>
-           
-            
           </field>
+          
+          <field name="index_item_namewd">
+            <xsl:choose>
+              <xsl:when test="$idno/tei:idno">
+                <xsl:for-each select="$idno/tei:idno">
+                  <xsl:value-of select="." />
+                  <xsl:if test="position()!=last()">;</xsl:if>
+                </xsl:for-each>
+              </xsl:when>
+              <xsl:otherwise>
+                <xsl:text>n/a</xsl:text>
+              </xsl:otherwise>
+            </xsl:choose>
+          </field>
+          
+          
           <field name="index_item_type">
             <xsl:value-of select="@type"/>
           </field>

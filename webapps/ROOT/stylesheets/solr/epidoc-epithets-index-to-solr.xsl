@@ -68,16 +68,6 @@
             </xsl:choose>
           </field>
           
-          <field name="index_item_namewd"> <!-- epithet in Greek -->
-            <xsl:choose>
-              <xsl:when test="$idno/tei:idno">
-                <xsl:value-of select="$idno/tei:idno" />
-              </xsl:when>
-              <xsl:otherwise>
-                <xsl:text>n/a</xsl:text>
-              </xsl:otherwise>
-            </xsl:choose>
-          </field>
           
           <xsl:apply-templates select="current-group()" />
         </doc>

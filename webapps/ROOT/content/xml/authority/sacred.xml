@@ -525,7 +525,7 @@
                     <persName xml:lang="en">George</persName>
                     <persName xml:lang="grc" type="epithet" subtype="George" key="Cappadocian">Καππαδόξ</persName>
                     <persName xml:lang="en" type="epithet" subtype="George" key="Cappadocian">Cappadocian</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="George" key="kosmopothetos">Kοσμοπόθητος</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="George" key="kosmopothetos">Κοσμοπόθητος</persName>
                     <persName xml:lang="en" type="epithet" subtype="George" key="kosmopothetos">Kosmopothetos / Beloved by the world</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q48438</idno>                   
                 </person>
@@ -961,8 +961,8 @@
                 <person xml:id="Maria">
                     <persName xml:lang="grc">Μαρία</persName>
                     <persName xml:lang="en">Maria / Virgin Mary</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="Maria" key="kecharitomene">Κεχαριτωμένη</persName>
-                    <persName xml:lang="en" type="epithet" subtype="Maria" key="kecharitomene">Kecharitomene / Full of grace</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="Maria" key="Kecharitomene">Κεχαριτωμένη</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Maria" key="Kecharitomene">Kecharitomene / Full of grace</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q345</idno>
                 </person>
                 
@@ -1008,7 +1008,7 @@
                     <persName xml:lang="grc">Μελέτιος Ἀντιοχείας</persName>
                     <persName xml:lang="en">Meletios of Antioch</persName> 
                     <persName xml:lang="grc" type="epithet" subtype="MeletiosAntioch" key="of Antioch">Ἀντιοχείας</persName>
-                    <persName xml:lang="grc" type="epithet" subtype="MeletiosAntioch" key="of Antioch">Antioch, of</persName>
+                    <persName xml:lang="grc" type="epithet" subtype="MeletiosAntioch" key="of Antioch">Ἀντιοχείας</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q433452</idno>                   
                 </person>
                 
