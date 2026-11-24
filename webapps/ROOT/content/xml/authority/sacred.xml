@@ -645,6 +645,8 @@
                 <person xml:id="Hypatios">
                     <persName xml:lang="grc">Ὑπάτιος</persName>
                     <persName xml:lang="en">Hypatios</persName> 
+                    <persName xml:lang="grc" type="epithet" subtype="Hypatios" key="Thaumatourgos">Θαυματουργός</persName>
+                    <persName xml:lang="en" type="epithet" subtype="Hypatios" key="Thaumatourgos">Thaumatourgos / Wonderworker</persName>
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q2667621</idno>                   
                 </person>
                 
