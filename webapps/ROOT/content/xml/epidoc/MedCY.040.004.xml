@@ -76,14 +76,14 @@
               <ab>
                    <cb n="a"/>
                     <lb n="1"/><supplied reason="lost">Ἡ</supplied>
-                    <lb n="2"/><persName type="sacred" key="Barbara"><w lemma="ἅγιος"><supplied reason="lost">ἁ
-                     <lb n="3" break="no"/>γ
-                    <lb n="4" break="no"/>ί
-                     <lb n="5" break="no"/>α</supplied></w>
+                    <lb n="2"/><persName type="sacred" key="Barbara"><w lemma="ἅγιος"><supplied reason="lost">ἁ</supplied>
+                     <lb n="3" break="no"/><supplied reason="lost">γ</supplied>
+                    <lb n="4" break="no"/><supplied reason="lost">ί</supplied>
+                     <lb n="5" break="no"/><supplied reason="lost">α</supplied></w>
                     <cb n="b"/>
-                    <lb n="1"/><name type="forename" nymRef="#Βαρβάρα"><supplied reason="lost">Β
-                    <lb n="2" break="no"/>α
-                    <lb n="3" break="no"/>ρ</supplied>
+                    <lb n="1"/><name type="forename" nymRef="#Βαρβάρα"><supplied reason="lost">Β</supplied>
+                    <lb n="2" break="no"/><supplied reason="lost">α</supplied>
+                    <lb n="3" break="no"/><supplied reason="lost">ρ</supplied>
                      <lb n="4" break="no"/>β
                       <lb n="5" break="no"/><choice><orig>α</orig><reg>ά</reg></choice>
                      <lb n="6" break="no"/>ρ
