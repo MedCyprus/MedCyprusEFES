@@ -2694,11 +2694,11 @@
                     <desc type="construction"><date notBefore="1167" notAfter="1300" precision="medium">late 12th - 13th century</date></desc>
                     <desc type="function"><term>Monastic</term>(?)</desc>
                     <desc type="context"><term>Rural</term></desc>
-                    <desc type="architectural">In ruins, original form uncertain; single-aisled vaulted structure.</desc>
+                    <desc type="architectural">In ruins, original form uncertain; vaulted structure.</desc>
                     <desc type="mural">
                         <desc type="layer" n="1"><date notBefore="1201" notAfter="1300" precision="medium" evidence="artistic-style">13th century</date> (naos)</desc>
                     </desc>
-                    <desc type="conservation">Very fragmentary; poor state of preservation. Conservation/cleaning: 2004 (DAC). The surviving murals were detached and transferred to the conservation workshops of DAC in Paphos.</desc>
+                    <desc type="conservation">Very fragmentary; poor state of preservation. Conservation/cleaning: 2004 (DAC). The surviving murals were detached and transferred to the <ref target="#PaphosLaboratory">Wall Painting and Woodcarving Conservation Laboratory</ref> of DAC in Paphos.</desc>
                     <desc type="donors">Unknown</desc>
                     <desc type="painter">Unknown</desc>
                     <desc type="graffiti">Presence not verified</desc>
@@ -2918,46 +2918,19 @@
                 </place>-->
                 
             </listPlace>
-            
+                        
             <listPlace type="repositories">
-                <place xml:id="ByzantineMuseum" n="R1">
-                    <placeName xml:lang="en">Byzantine Museum of the Cultural Foundation Archbishop Makarios III</placeName>
-                    <placeName xml:lang="el">Βυζαντινό Μουσείο Πολιτιστικού Ιδρύματος Αρχιεπισκόπου Μακαρίου Γ'</placeName>
-                    <location><placeName>Nicosia</placeName></location>
-                    <location><geo>35.17355, 33.36714</geo></location>
-                    <idno type="wikidata">https://www.wikidata.org/wiki/Q42883662</idno>
-                    <bibl><ref type="website">http://www.makariosfoundation.org.cy/</ref></bibl>
-                </place>
-                
-                <place xml:id="PaphosMuseum" n="R2">
-                    <placeName xml:lang="en">Ecclesiastical Museum of the Holy Bishopric of Paphos</placeName>
-                    <placeName xml:lang="el"> Εκκλησιαστικό Μουσείο Ιεράς Μητροπόλεως Πάφου</placeName>
+                <place xml:id="PaphosMuseum" n="R1">
+                    <placeName xml:lang="en">Geroskepou, Ecclesiastical Museum of the Holy Bishopric of Paphos</placeName>
+                    <placeName xml:lang="el">Γεροσκήπου, Εκκλησιαστικό Μουσείο Ιεράς Μητροπόλεως Πάφου</placeName>
                     <location><placeName>Geroskepou</placeName></location>
                     <location><geo>34.76053083044009, 32.451620875481666</geo></location>
-                   <!--<idno type="wikidata"></idno>-->
+                    <!--<idno type="wikidata"></idno>-->
                     <bibl><ref type="website">https://www.impaphou.org/mouseio_impafou.aspx</ref></bibl>
                 </place>
                 
-                <place xml:id="SoteraMuseum" n="R3">
-                    <placeName xml:lang="en">Ecclesiastical Museum of Sotera</placeName>
-                    <placeName xml:lang="el"> Εκκλησιαστικό Μουσείο Σωτήρας</placeName>
-                    <location><placeName>Sotera (Famagusta District)</placeName></location>
-                    <location><geo>35.02813, 33.95288</geo></location>
-                    <!--<idno type="wikidata"></idno>-->
-                    <bibl><ref type="website">https://www.sotira.org.cy/en/visitors/tourist-guide?cat=10</ref></bibl>
-                </place>
-                
-                <place xml:id="ArsinoeMuseum" n="R4">
-                    <placeName xml:lang="en">Local Archaeological Museum of Marion-Arsinoe</placeName>
-                    <placeName xml:lang="el"> Τοπικό Αρχαιολογικό Moυσείο Μαρίου-Αρσινόης</placeName>
-                    <location><placeName>Polis Chrysochous</placeName></location>
-                    <location><geo>35.035545475635594, 32.42710403499873</geo></location>
-                    <!-- <idno type="wikidata"></idno> -->
-                    <bibl><ref type="website">http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/CAF4EC728ABCA91CC225719900208766?OpenDocument</ref></bibl>
-                </place>
-                
-                <place xml:id="KykkosMuseum" n="R5">
-                    <placeName xml:lang="en">Museum of the Kykkos Monastery</placeName>
+                <place xml:id="KykkosMuseum" n="R2">
+                    <placeName xml:lang="en">Kykkos Monastery, Museum</placeName>
                     <placeName xml:lang="el">Μουσείο Ιεράς Μονής Κύκκου</placeName>
                     <location><placeName>Kykkos Monastery</placeName></location>
                     <location><geo>34.9837943030975, 32.74120505183693</geo></location>
@@ -2965,7 +2938,7 @@
                     <bibl><ref type="website">https://kykkos-museum.org.cy/</ref></bibl>
                 </place>
                 
-                <place xml:id="LarnacaMuseum" n="R6">
+                <place xml:id="LarnacaMuseum" n="R3">
                     <placeName xml:lang="en">Larnaca District Archaeological Museum</placeName>
                     <placeName xml:lang="el">Αρχαιολογικό Μουσείο Επαρχίας Λάρνακας</placeName>
                     <location><placeName>Larnaca</placeName></location>
@@ -2973,6 +2946,46 @@
                     <idno type="wikidata">https://www.wikidata.org/wiki/Q6489690</idno>
                     <bibl><ref type="website">https://www.culture.gov.cy/dmculture/DA/DA.nsf/DMLmuseums_en/DMLmuseums_en?OpenDocument</ref></bibl>
                 </place>
+                
+                <place xml:id="ByzantineMuseum" n="R4">
+                    <placeName xml:lang="en">Nicosia, Cultural Foundation Archbishop Makarios III, Byzantine Museum</placeName>
+                    <placeName xml:lang="el">Λευκωσία, Βυζαντινό Μουσείο Πολιτιστικού Ιδρύματος Αρχιεπισκόπου Μακαρίου Γ'</placeName>
+                    <location><placeName>Nicosia</placeName></location>
+                    <location><geo>35.17355, 33.36714</geo></location>
+                    <idno type="wikidata">https://www.wikidata.org/wiki/Q42883662</idno>
+                    <bibl><ref type="website">http://www.makariosfoundation.org.cy/</ref></bibl>
+                </place>
+                
+                <place xml:id="PaphosLaboratory" n="R5">
+                    <placeName xml:lang="en">Paphos, Department of Antiquities, Cyprus, Wall Painting and Woodcarving Conservation Laboratory</placeName>
+                    <placeName xml:lang="el">Πάφος, Τμήμα Αρχαιοτήτων Κύπρου, Εργαστήριο συντήρησης τοιχογραφιών και ξυλογλύπτων</placeName>
+                    <location><placeName>Paphos</placeName></location>
+                    <location><geo>34.76024, 32.41133</geo></location>
+                    <!--<idno type="wikidata"></idno>
+                    <bibl><ref type="website"></ref></bibl>-->
+                </place>
+                
+                <place xml:id="ArsinoeMuseum" n="R6">
+                    <placeName xml:lang="en">Polis Chrysochous, Local Archaeological Museum of Marion-Arsinoe</placeName>
+                    <placeName xml:lang="el">Πόλη Χρυσοχούς, Τοπικό Αρχαιολογικό Moυσείο Μαρίου-Αρσινόης</placeName>
+                    <location><placeName>Polis Chrysochous</placeName></location>
+                    <location><geo>35.035545475635594, 32.42710403499873</geo></location>
+                    <!-- <idno type="wikidata"></idno> -->
+                    <bibl><ref type="website">http://www.culture.gov.cy/dmculture/DA/DA.nsf/All/CAF4EC728ABCA91CC225719900208766?OpenDocument</ref></bibl>
+                </place>
+                                
+                <place xml:id="SoteraMuseum" n="R7">
+                    <placeName xml:lang="en">Sotera, Ecclesiastical Museum</placeName>
+                    <placeName xml:lang="el">Σωτήρα, Εκκλησιαστικό Μουσείο</placeName>
+                    <location><placeName>Sotera (Famagusta District)</placeName></location>
+                    <location><geo>35.02813, 33.95288</geo></location>
+                    <!--<idno type="wikidata"></idno>-->
+                    <bibl><ref type="website">https://www.sotira.org.cy/en/visitors/tourist-guide?cat=10</ref></bibl>
+                </place>
+                
+                
+                
+                
 
             </listPlace>
         </body>
