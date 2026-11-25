@@ -35,11 +35,13 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against green background. Character size varies. Mu with the central strokes reminiscent of a tau. TOY joined in ligature. Accents and breathings non systematic. Letter height: <height unit="cm">3-4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
-                            <p>PENDING
+                            <p><rs type="iconography" ref="#Hypatios">Hypatios</rs>
+                            <rs type="iconography" ref="#prelate"/>
+                            <rs type="iconography" ref="#male"/>
                             </p>
                         </decoDesc>
                     </physDesc>
@@ -71,7 +73,17 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                   <lb n="1"/><choice><orig>O</orig><reg>Ὁ</reg></choice> <persName type="sacred" key="Hypatios"><w lemma="ἅγιος"><expan><abbr rend="supraline"><choice><orig>α</orig><reg>ἅ</reg></choice></abbr><ex>γιος</ex></expan></w>
+                  <lb n="2"/><name type="forename" nymRef="#Ὑπάτιος"><choice><sic>Ἡ
+                  <lb n="3" break="no"/>πά
+                  <lb n="4" break="no"/>τη
+                  <lb n="5" break="no"/>ος</sic><corr>Ὑπάτιος</corr></choice></name>
+                    <cb n="b"/>
+                      <lb n="1"/><supplied reason="lost">ὁ</supplied>
+                      <lb n="2"/><addName type="epithet" key="Thaumatourgos">Θαυ
+                      <lb n="3" break="no"/>μα<hi rend="ligature">του</hi>ρ
+                      <lb n="4" break="no"/>γός</addName></persName>
                  </ab>
             </div>
             <div type="apparatus">
