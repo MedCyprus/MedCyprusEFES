@@ -35,7 +35,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>PENDING. 
+                            <handNote>White majuscule letters against blue background. Character size varies. Systematic use of triangular serifs. Letter height: <height unit="cm">4</height>
                             </handNote>
                         </handDesc>
                          <decoDesc>
@@ -73,7 +73,16 @@
         <body>
             <div type="edition" xml:space="preserve" xml:lang="grc">
               <ab>
-                   PENDING
+                   <cb n="a"/>
+                    <lb n="1"/><supplied reason="lost">Ἡ</supplied>
+                    <lb n="2"/><persName type="sacred" key="Marina"><w lemma="ἅγιος"><supplied reason="lost">ἁ
+                    <lb n="3" break="no"/>γί
+                    <lb n="4" break="no"/>α</supplied></w>
+                    <cb n="b"/>
+                    <lb n="1"/><name type="forename" nymRef="#Μαρίνα"><choice><sic><supplied reason="lost">Μα
+                     <lb n="2" break="no"/>ρ<choice><orig>η</orig><reg>ή</reg></choice>
+                     <lb n="3" break="no"/>να</supplied></sic><corr>Μαρίνα</corr></choice></name>                     
+                    </persName>                   
                  </ab>
             </div>
             <div type="apparatus">
