@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ascension, the angel's words to the apostles</title>
+                <editor xml:id="tp">Theocharis Petrou</editor>
+                <editor xml:id="mx">Maria Xenaki</editor>
+                <editor xml:id="mgp"> Maria G. Parani</editor>
+            </titleStmt>
+            <publicationStmt>
+                <authority>University of Cyprus - MedCyprus</authority>
+                <idno type="filename">MedCY.013.002</idno>
+                <availability>
+                  <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>    
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>n/a</repository>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>
+                                    <rs type="inscription-support">
+                                        <rs type="execution">Painted</rs> on a <material>plastered</material> <objectType>wall surface. </objectType>Well preserved.</rs>
+                                    <rs type="placement-building" ref="#naos">Naos, ceiling, south side</rs>
+                                    <dimensions><height>n/a</height></dimensions>
+                                </support> 
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout>Above the apostles' heads</layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote>White majuscule letters against blue background. Character size varies. ΟΥ, ΝΗ, ΑΝ joined in ligature. Accents and breathing non systematic.
+                            </handNote>
+                        </handDesc>
+                         <decoDesc>
+                            <p><rs type="iconography" ref="#Ascension">Ascension</rs>                             
+                               <rs type="iconography" ref="#christological"/>
+                            </p>
+                        </decoDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace ref="locations.xml#Chrysokava" n="single">Chrysokava, Saint Mavra</origPlace>
+                            <origDate notBefore="0901" notAfter="1000" precision="medium" evidence="artistic-style">10th century</origDate>
+                        </origin>
+                        <provenance when="2022">
+                        </provenance>    
+                        <provenance type="not-observed">n/a</provenance>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <textClass>
+                <keywords>
+                    <term type="textType" key="doc6" ref="https://ontology.inscriptiones.org/type_of_inscription/Quotation">quotation, biblical</term>
+                </keywords>
+            </textClass>
+            <creation>transcription (Th. Petrou), publication, archival photos (Department of Antiquities, Cyprus, Photographic Archive)</creation>
+        </profileDesc>
+    </teiHeader>
+    <facsimile>
+       <graphic rend="primary" url="013-002-01.jpg"><desc>(© Department of Antiquities, Cyprus)</desc></graphic>
+       <graphic url="013-002-02.jpg"><desc>(© Department of Antiquities, Cyprus)</desc></graphic>
+    </facsimile>
+    <text>
+        <body>
+            <div type="edition" xml:space="preserve" xml:lang="grc">
+              <ab>
+                   PENDING
+                 </ab>
+            </div>
+            <div type="apparatus">
+               <p>PENDING</p>
+            </div>
+            <div type="translation">
+                <p>This same Jesus, who has been taken from you into heaven.</p>
+            </div>
+            <div type="commentary">
+                <p>No comment</p>
+            </div>
+            <div type="bibliography">
+                 <listBibl>
+                <bibl><ptr target="#Hadjichristodoulou2006b"/>, <citedRange>288</citedRange></bibl>
+                </listBibl>
+                <p>bibliography of previous editions, discussion, etc.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
