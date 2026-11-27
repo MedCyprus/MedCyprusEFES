@@ -515,7 +515,7 @@
                     <idno type="HGC">Not listed</idno>
                     <idno type="geonames">https://www.geonames.org/20133/agia-mavra.html</idno>
                     <listBibl type="inscriptions">
-                        <bibl><ptr target="bibliography.xml#Hadjichristodoulou2006"/><citedRange>286-88</citedRange></bibl>
+                        <bibl><ptr target="bibliography.xml#Hadjichristodoulou2006b"/><citedRange>286-88</citedRange></bibl>
                     </listBibl>
                     <listBibl type="monument">
                         <bibl><ptr target="bibliography.xml#Gunnis1936"/><citedRange>128</citedRange></bibl>
